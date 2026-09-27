@@ -80,7 +80,7 @@ def leer_feed(f):
             fecha = item.findtext("pubDate") or ""
             img = extraer_imagen(item)
             if not es_de_cuba(titulo + " " + desc):
-            continue
+             continue
             cat = clasificar(titulo + " " + desc)
             noticias.append({
                 "categoria": cat,
