@@ -81,7 +81,7 @@ def leer_feed(f):
             img = extraer_imagen(item)
             fuentes_cubanas = ["Cubadebate", "Granma", "Prensa Latina", "OnCuba", "14ymedio", "CiberCuba"]
             if f["fuente"] not in fuentes_cubanas and not es_de_cuba(titulo + " " + desc):
-             continue
+            continue
             cat = clasificar(titulo + " " + desc)
             noticias.append({
                 "categoria": cat,
