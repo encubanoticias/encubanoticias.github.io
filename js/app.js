@@ -3,17 +3,18 @@ let filtroActual = 'todas';
 let busqueda = '';
 let slideActual = 0;
 let intervaloCarrusel = null;
+let audioActual = null;
 
-// Cargar noticias
-fetch('data/noticias.json')
+fetch('data/noticias.json?v=' + Date.now())
   .then(res => res.json())
   .then(data => {
-    noticias = data.noticias;
+    noticias = data.noticias || [];
     renderCarrusel();
     renderCalientes();
     renderNoticias();
     renderPodcast();
     iniciarCarrusel();
+    iniciarMetricas();
   })
   .catch(err => console.error('Error:', err));
 
@@ -22,15 +23,21 @@ function renderCarrusel() {
   const destacadas = noticias.filter(n => n.destacada).slice(0, 5);
   const cont = document.getElementById('carrusel');
   cont.innerHTML = '';
+  if (!destacadas.length) return;
 
   destacadas.forEach((n, i) => {
     const div = document.createElement('div');
     div.className = 'slide' + (i === 0 ? ' activo' : '');
+    const imgHtml = n.imagen_url ? `<div class="img-fondo" style="background-image:url('${n.imagen_url}')"></div>` : '';
     div.innerHTML = `
-      <span class="cat">${n.categoria} · ${n.fuente}</span>
-      <h3>${n.titulo}</h3>
-      <p>${n.resumen}</p>
+      ${imgHtml}
+      <div class="contenido">
+        <span class="cat">${n.categoria} · ${n.fuente}</span>
+        <h3>${n.titulo}</h3>
+        <p>${n.resumen}</p>
+      </div>
     `;
+    div.onclick = () => window.open(n.enlace_original, '_blank');
     cont.appendChild(div);
   });
 
@@ -39,7 +46,7 @@ function renderCarrusel() {
   destacadas.forEach((_, i) => {
     const p = document.createElement('div');
     p.className = 'punto' + (i === 0 ? ' activo' : '');
-    p.onclick = () => irSlide(i);
+    p.onclick = (e) => { e.stopPropagation(); irSlide(i); };
     puntos.appendChild(p);
   });
   cont.appendChild(puntos);
@@ -64,9 +71,7 @@ function iniciarCarrusel() {
 // --- CALIENTES ---
 function renderCalientes() {
   const cont = document.getElementById('calientes');
-  const calientes = [...noticias]
-    .sort(() => Math.random() - 0.5)
-    .slice(0, 5);
+  const calientes = [...noticias].slice(0, 6);
   cont.innerHTML = '';
   calientes.forEach(n => {
     const div = document.createElement('div');
@@ -76,6 +81,7 @@ function renderCalientes() {
       <h4>${n.titulo}</h4>
       <small>${n.fuente}</small>
     `;
+    div.onclick = () => window.open(n.enlace_original, '_blank');
     cont.appendChild(div);
   });
 }
@@ -108,14 +114,22 @@ function renderNoticias() {
     const art = document.createElement('article');
     art.className = 'noticia';
     art.dataset.tipo = n.fuente_tipo;
+    const imgHtml = n.imagen_url ? `<img class="img" src="${n.imagen_url}" loading="lazy" onerror="this.style.display='none'">` : '';
     art.innerHTML = `
-      <span class="categoria">${n.categoria}</span>
-      <h2><a href="${n.enlace_original}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${n.titulo}</a></h2>
-      <p>${n.resumen}</p>
-      <small>${n.fuente} · ${n.fuente_tipo}</small>
-      <br>
-      <button class="btn-audio" onclick="reproducir('${n.titulo.replace(/'/g, "\\'")}')">🎧 Escuchar</button>
+      ${imgHtml}
+      <div class="cuerpo">
+        <span class="categoria">${n.categoria}</span>
+        <h2><a href="${n.enlace_original}" target="_blank" rel="noopener">${n.titulo}</a></h2>
+        <p>${n.resumen}</p>
+        <small>${n.fuente} · ${n.fuente_tipo}</small>
+        <br>
+        <button class="btn-audio">🎧 Escuchar</button>
+      </div>
     `;
+    art.querySelector('.btn-audio').onclick = (e) => {
+      e.stopPropagation();
+      reproducir(n);
+    };
     cont.appendChild(art);
   });
 }
@@ -124,30 +138,54 @@ function renderNoticias() {
 function renderPodcast() {
   const cont = document.getElementById('podcast');
   cont.innerHTML = '';
-  noticias.slice(0, 5).forEach(n => {
+  noticias.slice(0, 6).forEach(n => {
     const div = document.createElement('div');
     div.className = 'podcast-item';
     div.innerHTML = `
       <span>${n.titulo}</span>
-      <button onclick="reproducir('${n.titulo.replace(/'/g, "\\'")}')">▶</button>
+      <button>▶</button>
     `;
+    div.querySelector('button').onclick = () => reproducir(n);
     cont.appendChild(div);
   });
 }
 
 // --- REPRODUCTOR ---
-function reproducir(titulo) {
+function reproducir(n) {
   const rep = document.getElementById('reproductor');
-  document.getElementById('rep-titulo').textContent = titulo;
+  document.getElementById('rep-titulo').textContent = n.titulo;
   rep.classList.remove('oculto');
+
+  if (audioActual) {
+    audioActual.pause();
+    audioActual = null;
+  }
+
+  if (n.audio_url) {
+    audioActual = new Audio(n.audio_url);
+    audioActual.play().catch(e => console.log('Audio error:', e));
+  } else {
+    if ('speechSynthesis' in window) {
+      window.speechSynthesis.cancel();
+      const u = new SpeechSynthesisUtterance(n.titulo + '. ' + n.resumen);
+      u.lang = 'es-ES';
+      u.rate = 0.95;
+      window.speechSynthesis.speak(u);
+      audioActual = { pause: () => window.speechSynthesis.cancel() };
+    }
+  }
 }
 
 document.getElementById('rep-cerrar').onclick = () => {
+  if (audioActual) { audioActual.pause(); audioActual = null; }
+  if ('speechSynthesis' in window) window.speechSynthesis.cancel();
   document.getElementById('reproductor').classList.add('oculto');
 };
 
 document.getElementById('rep-play').onclick = () => {
-  alert('Aquí se reproducirá el audio de la noticia.');
+  if ('speechSynthesis' in window && window.speechSynthesis.paused) {
+    window.speechSynthesis.resume();
+  }
 };
 
 // --- FILTROS ---
@@ -170,5 +208,20 @@ document.getElementById('buscador').oninput = (e) => {
 document.getElementById('btn-tema').onclick = () => {
   document.body.classList.toggle('oscuro');
   const btn = document.getElementById('btn-tema');
-  btn.textContent = document.body.classList.contains('oscuro') ? '☀️' : '🌙';
+  const oscuro = document.body.classList.contains('oscuro');
+  btn.textContent = oscuro ? '☀️' : '🌙';
+  localStorage.setItem('tema', oscuro ? 'oscuro' : 'claro');
 };
+
+if (localStorage.getItem('tema') === 'oscuro') {
+  document.body.classList.add('oscuro');
+  document.getElementById('btn-tema').textContent = '☀️';
+}
+
+// --- MÉTRICAS (localStorage) ---
+function iniciarMetricas() {
+  const vistas = JSON.parse(localStorage.getItem('vistas') || '{}');
+  const hora = new Date().getHours();
+  vistas[hora] = (vistas[hora] || 0) + 1;
+  localStorage.setItem('vistas', JSON.stringify(vistas));
+}
