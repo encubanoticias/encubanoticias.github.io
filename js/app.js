@@ -168,6 +168,9 @@ function reproducir(n) {
     if ('speechSynthesis' in window) {
       window.speechSynthesis.cancel();
       const u = new SpeechSynthesisUtterance(n.titulo + '. ' + n.resumen);
+      const voces = window.speechSynthesis.getVoices();
+      const vozEs = voces.find(v => v.lang.startsWith('es'));
+ if (vozEs) u.voice = vozEs;
       u.lang = 'es-ES';
       u.rate = 0.95;
       window.speechSynthesis.speak(u);
