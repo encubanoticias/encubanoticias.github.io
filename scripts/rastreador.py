@@ -8,8 +8,10 @@ FUENTES = [
     {"url": "https://www.cubadebate.cu/feed/", "fuente": "Cubadebate", "tipo": "oficial"},
     {"url": "https://www.granma.cu/rss.xml", "fuente": "Granma", "tipo": "oficial"},
     {"url": "https://www.prensa-latina.cu/feed", "fuente": "Prensa Latina", "tipo": "oficial"},
+    {"url": "https://oncubanews.com/feed/", "fuente": "OnCuba", "tipo": "alternativa"},
+    {"url": "https://www.14ymedio.com/rss/", "fuente": "14ymedio", "tipo": "alternativa"},
+    {"url": "https://www.cibercuba.com/rss.xml", "fuente": "CiberCuba", "tipo": "alternativa"},
 ]
-
 CATEGORIAS = {
     "energia": ["apagón", "apagon", "energía", "energia", "une", "déficit", "mw", "eléctrica"],
     "economia": ["economía", "economia", "mipyme", "precio", "dólar", "dolar", "banco"],
