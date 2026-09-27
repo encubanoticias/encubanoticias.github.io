@@ -52,7 +52,19 @@ def extraer_imagen(item):
         if m:
             img = m.group(1)
     return img
+PALABRAS_CUBA = [
+    "cuba", "cubano", "cubana", "habana", "la habana", "díaz-canel", "diaz-canel",
+    "miguel díaz-canel", "raul castro", "raúl castro", "cubadebate", "granma",
+    "embargo", "bloqueo", "helms-burton", "balseros", "isla caribeña"
+]
 
+def es_de_cuba(texto):
+    t = texto.lower()
+    for p in PALABRAS_CUBA:
+        if p in t:
+            return True
+    return False
+    
 def leer_feed(f):
     noticias = []
     try:
@@ -67,6 +79,8 @@ def leer_feed(f):
             link = item.findtext("link") or "#"
             fecha = item.findtext("pubDate") or ""
             img = extraer_imagen(item)
+            if not es_de_cuba(titulo + " " + desc):
+            continue
             cat = clasificar(titulo + " " + desc)
             noticias.append({
                 "categoria": cat,
