@@ -2,16 +2,10 @@ import urllib.request
 import xml.etree.ElementTree as ET
 import json
 import re
+import os
 from datetime import datetime
 
-FUENTES = [
-    {"url": "https://www.cubadebate.cu/feed/", "fuente": "Cubadebate", "tipo": "oficial"},
-    {"url": "https://www.granma.cu/rss.xml", "fuente": "Granma", "tipo": "oficial"},
-    {"url": "https://www.prensa-latina.cu/feed", "fuente": "Prensa Latina", "tipo": "oficial"},
-    {"url": "https://oncubanews.com/feed/", "fuente": "OnCuba", "tipo": "alternativa"},
-    {"url": "https://www.14ymedio.com/rss/", "fuente": "14ymedio", "tipo": "alternativa"},
-    {"url": "https://www.cibercuba.com/rss.xml", "fuente": "CiberCuba", "tipo": "alternativa"},
-]
+RUTAS_FEED = ["/feed/", "/rss/", "/rss.xml", "/feed", "/?feed=rss2", "/atom.xml"]
 
 CATEGORIAS = {
     "energia": ["apagón", "apagon", "energía", "energia", "une", "déficit", "mw", "eléctrica", "electricidad"],
@@ -24,8 +18,7 @@ CATEGORIAS = {
 
 PALABRAS_CUBA = [
     "cuba", "cubano", "cubana", "habana", "la habana", "díaz-canel", "diaz-canel",
-    "miguel díaz-canel", "raul castro", "raúl castro", "cubadebate", "granma",
-    "embargo", "bloqueo", "helms-burton", "balseros", "isla caribeña"
+    "raul castro", "raúl castro", "embargo", "bloqueo", "helms-burton", "balseros"
 ]
 
 def clasificar(texto):
@@ -40,8 +33,7 @@ def limpiar(html):
     if not html:
         return ""
     texto = re.sub(r'<[^>]+>', '', html)
-    texto = re.sub(r'\s+', ' ', texto).strip()
-    return texto[:300]
+    return re.sub(r'\s+', ' ', texto).strip()[:300]
 
 def extraer_imagen(item):
     img = ""
@@ -61,50 +53,87 @@ def extraer_imagen(item):
 
 def es_de_cuba(texto):
     t = texto.lower()
-    for p in PALABRAS_CUBA:
-        if p in t:
-            return True
-    return False
+    return any(p in t for p in PALABRAS_CUBA)
 
-def leer_feed(f):
+def probar_feed(base):
+    for ruta in RUTAS_FEED:
+        url = base.rstrip("/") + ruta
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+            with urllib.request.urlopen(req, timeout=10) as r:
+                xml = r.read(5000)
+            if b"<rss" in xml or b"<feed" in xml or b"<channel" in xml:
+                return url
+        except Exception:
+            continue
+    return None
+
+def cargar_fuentes():
+    if not os.path.exists("data/fuentes.json"):
+        return []
+    with open("data/fuentes.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
+    semillas = data.get("semilla", [])
+    feeds = data.get("feeds", {})
+    nuevos = {}
+    for s in semillas:
+        if s in feeds:
+            continue
+        url = probar_feed(s)
+        if url:
+            nuevos[s] = url
+            print(f"Nuevo feed: {s} -> {url}")
+    feeds.update(nuevos)
+    with open("data/fuentes.json", "w", encoding="utf-8") as f:
+        json.dump({"semilla": semillas, "feeds": feeds}, f, ensure_ascii=False, indent=2)
+    return [(s, url) for s, url in feeds.items()]
+
+def leer_feed(nombre, url):
     noticias = []
     try:
-        req = urllib.request.Request(f["url"], headers={"User-Agent": "Mozilla/5.0"})
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
         with urllib.request.urlopen(req, timeout=15) as r:
             xml = r.read()
         root = ET.fromstring(xml)
-        items = root.findall(".//item")[:12]
-        for item in items:
+        for item in root.findall(".//item")[:12]:
             titulo = (item.findtext("title") or "").strip()
             desc = limpiar(item.findtext("description") or "")
-            link = item.findtext("link") or "#"
-            fecha = item.findtext("pubDate") or ""
-            img = extraer_imagen(item)
             if not es_de_cuba(titulo + " " + desc):
                 continue
-            cat = clasificar(titulo + " " + desc)
             noticias.append({
-                "categoria": cat,
-                "fuente": f["fuente"],
-                "fuente_tipo": f["tipo"],
+                "categoria": clasificar(titulo + " " + desc),
+                "fuente": nombre,
+                "fuente_tipo": "oficial" if any(x in nombre.lower() for x in ["cubadebate", "granma", "prensa"]) else "alternativa",
                 "titulo": titulo,
                 "resumen": desc,
-                "audio_url": "",
-                "imagen_url": img,
-                "enlace_original": link,
+                "imagen_url": extraer_imagen(item),
+                "enlace_original": item.findtext("link") or "#",
                 "destacada": False,
-                "fecha": fecha
             })
     except Exception as e:
-        print(f"Error con {f['fuente']}: {e}")
+        print(f"Error {nombre}: {e}")
     return noticias
 
 def main():
-    todas = []
-    for f in FUENTES:
-        todas.extend(leer_feed(f))
+    config = {"horas_entre_rastreos": 1, "max_por_fuente": 5}
+    if os.path.exists("data/config.json"):
+        with open("data/config.json") as f:
+            config.update(json.load(f))
 
-    # Eliminar duplicados por título
+    ahora = datetime.now()
+    if os.path.exists("data/ultimo.json"):
+        with open("data/ultimo.json") as f:
+            ultimo = datetime.fromisoformat(json.load(f)["ts"])
+        horas = (ahora - ultimo).total_seconds() / 3600
+        if horas < config["horas_entre_rastreos"]:
+            print(f"Saltando. Faltan {config['horas_entre_rastreos'] - horas:.1f}h")
+            return
+
+    fuentes = cargar_fuentes()
+    todas = []
+    for nombre, url in fuentes:
+        todas.extend(leer_feed(nombre, url))
+
     vistos = set()
     unicas = []
     for n in todas:
@@ -113,32 +142,27 @@ def main():
             vistos.add(clave)
             unicas.append(n)
 
-    # Limitar a 5 noticias por fuente
     por_fuente = {}
     balanceadas = []
     for n in unicas:
         f = n["fuente"]
         por_fuente[f] = por_fuente.get(f, 0) + 1
-        if por_fuente[f] <= 5:
+        if por_fuente[f] <= config["max_por_fuente"]:
             balanceadas.append(n)
     unicas = balanceadas
 
     for i, n in enumerate(unicas):
         n["id"] = i + 1
-
-    # Marcar 5 destacadas (las primeras)
     for n in unicas[:5]:
         n["destacada"] = True
 
-    salida = {
-        "fecha": datetime.now().strftime("%Y-%m-%d"),
-        "hora": datetime.now().strftime("%H:%M"),
-        "total": len(unicas),
-        "noticias": unicas
-    }
-    with open("data/noticias.json", "w", encoding="utf-8") as fp:
-        json.dump(salida, fp, ensure_ascii=False, indent=2)
-    print(f"Guardadas {len(unicas)} noticias")
+    with open("data/noticias.json", "w", encoding="utf-8") as f:
+        json.dump({"fecha": ahora.strftime("%Y-%m-%d"), "hora": ahora.strftime("%H:%M"), "total": len(unicas), "noticias": unicas}, f, ensure_ascii=False, indent=2)
+
+    with open("data/ultimo.json", "w") as f:
+        json.dump({"ts": ahora.isoformat()}, f)
+
+    print(f"Guardadas {len(unicas)} noticias de {len(fuentes)} fuentes")
 
 if __name__ == "__main__":
     main()
