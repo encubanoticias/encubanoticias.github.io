@@ -6,24 +6,72 @@
       "categoria": "energia",
       "fuente": "Cubadebate",
       "fuente_tipo": "oficial",
-      "titulo": "Ejemplo: Déficit de generación eléctrica",
-      "resumen": "Resumen de prueba para la categoría energía."
+      "titulo": "Déficit de generación supera los 1.500 MW",
+      "resumen": "La UNE informó que varias unidades están fuera de servicio por mantenimiento.",
+      "audio_url": "",
+      "imagen_url": "",
+      "enlace_original": "#",
+      "destacada": true
     },
     {
       "id": 2,
       "categoria": "economia",
       "fuente": "Granma",
       "fuente_tipo": "oficial",
-      "titulo": "Ejemplo: Nuevas medidas económicas",
-      "resumen": "Resumen de prueba para la categoría economía."
+      "titulo": "Nuevas medidas para MIPYMES",
+      "resumen": "Se flexibilizan trámites bancarios para el sector privado.",
+      "audio_url": "",
+      "imagen_url": "",
+      "enlace_original": "#",
+      "destacada": true
     },
     {
       "id": 3,
       "categoria": "salud",
       "fuente": "Prensa Latina",
       "fuente_tipo": "oficial",
-      "titulo": "Ejemplo: Situación de medicamentos",
-      "resumen": "Resumen de prueba para la categoría salud."
+      "titulo": "Situación de medicamentos en farmacias",
+      "resumen": "Reportes indican baja disponibilidad en varias provincias.",
+      "audio_url": "",
+      "imagen_url": "",
+      "enlace_original": "#",
+      "destacada": false
+    },
+    {
+      "id": 4,
+      "categoria": "energia",
+      "fuente": "14ymedio",
+      "fuente_tipo": "alternativa",
+      "titulo": "Apagones se extienden más de 20 horas",
+      "resumen": "Usuarios reportan cortes prolongados en varias zonas del país.",
+      "audio_url": "",
+      "imagen_url": "",
+      "enlace_original": "#",
+      "destacada": false
+    },
+    {
+      "id": 5,
+      "categoria": "transporte",
+      "fuente": "AP News",
+      "fuente_tipo": "internacional",
+      "titulo": "Transporte público opera al 6% de su capacidad",
+      "resumen": "Según datos oficiales citados por prensa internacional.",
+      "audio_url": "",
+      "imagen_url": "",
+      "enlace_original": "#",
+      "destacada": false
+    },
+    {
+      "id": 6,
+      "categoria": "economia",
+      "fuente": "OnCuba",
+      "fuente_tipo": "alternativa",
+      "titulo": "Precio del dólar informal sigue subiendo",
+      "resumen": "El mercado informal muestra nuevas cifras esta semana.",
+      "audio_url": "",
+      "imagen_url": "",
+      "enlace_original": "#",
+      "destacada": false
     }
   ]
 }
