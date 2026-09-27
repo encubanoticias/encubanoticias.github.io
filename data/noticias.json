@@ -1,0 +1,29 @@
+{
+  "fecha": "2026-09-27",
+  "noticias": [
+    {
+      "id": 1,
+      "categoria": "energia",
+      "fuente": "Cubadebate",
+      "fuente_tipo": "oficial",
+      "titulo": "Ejemplo: Déficit de generación eléctrica",
+      "resumen": "Resumen de prueba para la categoría energía."
+    },
+    {
+      "id": 2,
+      "categoria": "economia",
+      "fuente": "Granma",
+      "fuente_tipo": "oficial",
+      "titulo": "Ejemplo: Nuevas medidas económicas",
+      "resumen": "Resumen de prueba para la categoría economía."
+    },
+    {
+      "id": 3,
+      "categoria": "salud",
+      "fuente": "Prensa Latina",
+      "fuente_tipo": "oficial",
+      "titulo": "Ejemplo: Situación de medicamentos",
+      "resumen": "Resumen de prueba para la categoría salud."
+    }
+  ]
+}
