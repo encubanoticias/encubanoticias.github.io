@@ -164,6 +164,10 @@ main {
   z-index: 2;
   padding: 1.25rem;
   background: linear-gradient(transparent, rgba(0,0,0,0.7));
+  min-height: 70%;
+ justify-content: flex-end;
+ display: flex;
+ flex-direction: column;
 }
 
 .slide .cat {
