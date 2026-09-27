@@ -79,7 +79,8 @@ def leer_feed(f):
             link = item.findtext("link") or "#"
             fecha = item.findtext("pubDate") or ""
             img = extraer_imagen(item)
-            if not es_de_cuba(titulo + " " + desc):
+            fuentes_cubanas = ["Cubadebate", "Granma", "Prensa Latina", "OnCuba", "14ymedio", "CiberCuba"]
+            if f["fuente"] not in fuentes_cubanas and not es_de_cuba(titulo + " " + desc):
              continue
             cat = clasificar(titulo + " " + desc)
             noticias.append({
