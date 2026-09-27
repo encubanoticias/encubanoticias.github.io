@@ -1,10 +1,11 @@
-
 :root {
   --bg: #FAFAFA;
   --bg-card: #FFFFFF;
   --texto: #222;
   --texto-suave: #666;
-  --acento: #1E88E5;
+  --azul: #002A8F;
+  --rojo: #CF142B;
+  --blanco: #FFFFFF;
   --oficial: #43A047;
   --alternativa: #E53935;
   --internacional: #8E24AA;
@@ -31,12 +32,13 @@ body {
 
 /* HEADER */
 header {
-  background: var(--acento);
+  background: var(--azul);
   color: #fff;
   padding: 0.75rem 1rem;
   position: sticky;
   top: 0;
   z-index: 100;
+  border-bottom: 3px solid var(--rojo);
 }
 
 .header-top {
@@ -51,6 +53,8 @@ header h1 {
   font-weight: 800;
   letter-spacing: -0.5px;
 }
+
+header h1 span { color: var(--rojo); }
 
 .header-actions {
   display: flex;
@@ -102,7 +106,7 @@ header h1 {
 
 .chip.activo, .chip:hover {
   background: #fff;
-  color: var(--acento);
+  color: var(--azul);
   font-weight: 600;
 }
 
@@ -119,6 +123,7 @@ main {
   font-size: 1.1rem;
   margin-bottom: 0.75rem;
   font-weight: 700;
+  color: var(--texto);
 }
 
 /* CARRUSEL */
@@ -126,36 +131,52 @@ main {
   position: relative;
   border-radius: 16px;
   overflow: hidden;
-  height: 220px;
+  height: 260px;
   background: var(--bg-card);
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
 }
 
 .slide {
   position: absolute;
   inset: 0;
-  padding: 1.5rem;
+  padding: 0;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
   color: #fff;
-  background: linear-gradient(135deg, #1E88E5, #8E24AA);
+  background: linear-gradient(135deg, var(--azul), var(--rojo));
   opacity: 0;
   transition: opacity 0.6s;
 }
 
 .slide.activo { opacity: 1; }
 
+.slide .img-fondo {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.35;
+}
+
+.slide .contenido {
+  position: relative;
+  z-index: 2;
+  padding: 1.25rem;
+  background: linear-gradient(transparent, rgba(0,0,0,0.7));
+}
+
 .slide .cat {
   font-size: 0.75rem;
   text-transform: uppercase;
   font-weight: 700;
-  opacity: 0.9;
+  opacity: 0.95;
   margin-bottom: 0.5rem;
+  color: #fff;
 }
 
 .slide h3 {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   font-weight: 800;
   margin-bottom: 0.4rem;
   line-height: 1.2;
@@ -167,7 +188,7 @@ main {
 
 .slide p {
   font-size: 0.9rem;
-  opacity: 0.9;
+  opacity: 0.95;
   display: -webkit-box;
   -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
@@ -181,6 +202,7 @@ main {
   transform: translateX(-50%);
   display: flex;
   gap: 0.4rem;
+  z-index: 3;
 }
 
 .punto {
@@ -191,7 +213,7 @@ main {
   cursor: pointer;
 }
 
-.punto.activo { background: #fff; width: 20px; border-radius: 4px; }
+.punto.activo { background: var(--rojo); width: 20px; border-radius: 4px; }
 
 /* CALIENTES */
 .calientes {
@@ -209,13 +231,13 @@ main {
   background: var(--bg-card);
   border-radius: 12px;
   padding: 0.9rem;
-  border-left: 4px solid #FF5722;
+  border-left: 4px solid var(--rojo);
   box-shadow: 0 1px 3px rgba(0,0,0,0.08);
 }
 
 .caliente-card .cat {
   font-size: 0.7rem;
-  color: var(--acento);
+  color: var(--azul);
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -224,6 +246,10 @@ main {
   font-size: 0.95rem;
   margin: 0.3rem 0;
   line-height: 1.3;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .caliente-card small { color: var(--texto-suave); font-size: 0.75rem; }
@@ -238,10 +264,10 @@ main {
 .noticia {
   background: var(--bg-card);
   border-radius: 12px;
-  padding: 1rem;
+  overflow: hidden;
   box-shadow: 0 1px 3px rgba(0,0,0,0.08);
   transition: transform 0.2s, box-shadow 0.2s;
-  border-top: 3px solid var(--acento);
+  border-top: 3px solid var(--azul);
 }
 
 .noticia:hover {
@@ -253,10 +279,19 @@ main {
 .noticia[data-tipo="alternativa"] { border-top-color: var(--alternativa); }
 .noticia[data-tipo="internacional"] { border-top-color: var(--internacional); }
 
+.noticia .img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  background: var(--borde);
+}
+
+.noticia .cuerpo { padding: 1rem; }
+
 .categoria {
   display: inline-block;
-  background: rgba(30,136,229,0.1);
-  color: var(--acento);
+  background: rgba(0,42,143,0.1);
+  color: var(--azul);
   font-size: 0.7rem;
   font-weight: 700;
   padding: 0.2rem 0.6rem;
@@ -265,16 +300,25 @@ main {
   margin-bottom: 0.5rem;
 }
 
+body.oscuro .categoria { background: rgba(255,255,255,0.1); color: #7EB6FF; }
+
 .noticia h2 {
   font-size: 1rem;
   margin-bottom: 0.4rem;
   line-height: 1.3;
 }
 
+.noticia h2 a { color: inherit; text-decoration: none; }
+.noticia h2 a:hover { color: var(--rojo); }
+
 .noticia p {
   font-size: 0.88rem;
   color: var(--texto-suave);
   margin-bottom: 0.5rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .noticia small {
@@ -283,15 +327,17 @@ main {
 }
 
 .btn-audio {
-  background: var(--acento);
+  background: var(--azul);
   color: #fff;
   border: none;
-  padding: 0.3rem 0.7rem;
+  padding: 0.35rem 0.8rem;
   border-radius: 999px;
   font-size: 0.75rem;
   cursor: pointer;
   margin-top: 0.5rem;
 }
+
+.btn-audio:hover { background: var(--rojo); }
 
 /* PODCAST */
 .podcast {
@@ -308,16 +354,25 @@ main {
   justify-content: space-between;
   align-items: center;
   font-size: 0.9rem;
+  gap: 0.5rem;
+}
+
+.podcast-item span {
+  flex: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .podcast-item button {
-  background: var(--acento);
+  background: var(--rojo);
   color: #fff;
   border: none;
   border-radius: 50%;
   width: 32px;
   height: 32px;
   cursor: pointer;
+  flex-shrink: 0;
 }
 
 /* REPRODUCTOR */
@@ -327,7 +382,7 @@ main {
   left: 0;
   right: 0;
   background: var(--bg-card);
-  border-top: 2px solid var(--acento);
+  border-top: 2px solid var(--rojo);
   padding: 0.7rem 1rem;
   display: flex;
   align-items: center;
@@ -347,7 +402,7 @@ main {
 }
 
 .reproductor button {
-  background: var(--acento);
+  background: var(--azul);
   color: #fff;
   border: none;
   border-radius: 50%;
@@ -362,8 +417,8 @@ main {
 /* DESKTOP */
 @media (min-width: 700px) {
   .grid { grid-template-columns: repeat(2, 1fr); }
-  .carrusel { height: 300px; }
-  .slide h3 { font-size: 1.8rem; }
+  .carrusel { height: 340px; }
+  .slide h3 { font-size: 1.6rem; }
   #buscador { width: 200px; }
 }
 
