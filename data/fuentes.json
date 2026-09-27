@@ -6,5 +6,12 @@
     "https://oncubanews.com",
     "https://www.14ymedio.com",
     "https://www.cibercuba.com"
-  ]
+  ],
+  "feeds": {
+    "https://www.granma.cu": "https://www.granma.cu/feed/",
+    "https://www.prensa-latina.cu": "https://www.prensa-latina.cu/feed/",
+    "https://oncubanews.com": "https://oncubanews.com/feed/",
+    "https://www.14ymedio.com": "https://www.14ymedio.com/rss/",
+    "https://www.cibercuba.com": "https://www.cibercuba.com/rss.xml"
+  }
 }
