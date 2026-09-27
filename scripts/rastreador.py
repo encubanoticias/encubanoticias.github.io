@@ -12,13 +12,14 @@ FUENTES = [
     {"url": "https://www.14ymedio.com/rss/", "fuente": "14ymedio", "tipo": "alternativa"},
     {"url": "https://www.cibercuba.com/rss.xml", "fuente": "CiberCuba", "tipo": "alternativa"},
 ]
+
 CATEGORIAS = {
-    "energia": ["apagón", "apagon", "energía", "energia", "une", "déficit", "mw", "eléctrica"],
-    "economia": ["economía", "economia", "mipyme", "precio", "dólar", "dolar", "banco"],
-    "salud": ["salud", "medicamento", "hospital", "médico", "medico"],
-    "transporte": ["transporte", "ómnibus", "omnibus", "ferrocarril", "vía", "via"],
-    "sociedad": ["sociedad", "educación", "educacion", "cultura"],
-    "politica": ["gobierno", "díaz-canel", "diaz-canel", "partido", "ministro"],
+    "energia": ["apagón", "apagon", "energía", "energia", "une", "déficit", "mw", "eléctrica", "electricidad"],
+    "economia": ["economía", "economia", "mipyme", "precio", "dólar", "dolar", "banco", "inflación"],
+    "salud": ["salud", "medicamento", "hospital", "médico", "medico", "farmacia"],
+    "transporte": ["transporte", "ómnibus", "omnibus", "ferrocarril", "vía", "via", "tren"],
+    "sociedad": ["sociedad", "educación", "educacion", "cultura", "deporte"],
+    "politica": ["gobierno", "díaz-canel", "diaz-canel", "partido", "ministro", "presidente"],
 }
 
 def clasificar(texto):
@@ -36,6 +37,22 @@ def limpiar(html):
     texto = re.sub(r'\s+', ' ', texto).strip()
     return texto[:300]
 
+def extraer_imagen(item):
+    img = ""
+    media = item.find("{http://search.yahoo.com/mrss/}content")
+    if media is not None and media.get("url"):
+        img = media.get("url")
+    if not img:
+        thumb = item.find("{http://search.yahoo.com/mrss/}thumbnail")
+        if thumb is not None and thumb.get("url"):
+            img = thumb.get("url")
+    if not img:
+        desc_raw = item.findtext("description") or ""
+        m = re.search(r'<img[^>]+src="([^"]+)"', desc_raw)
+        if m:
+            img = m.group(1)
+    return img
+
 def leer_feed(f):
     noticias = []
     try:
@@ -43,21 +60,22 @@ def leer_feed(f):
         with urllib.request.urlopen(req, timeout=15) as r:
             xml = r.read()
         root = ET.fromstring(xml)
-        items = root.findall(".//item")[:10]
+        items = root.findall(".//item")[:12]
         for item in items:
-            titulo = item.findtext("title") or ""
+            titulo = (item.findtext("title") or "").strip()
             desc = limpiar(item.findtext("description") or "")
             link = item.findtext("link") or "#"
             fecha = item.findtext("pubDate") or ""
+            img = extraer_imagen(item)
             cat = clasificar(titulo + " " + desc)
             noticias.append({
                 "categoria": cat,
                 "fuente": f["fuente"],
                 "fuente_tipo": f["tipo"],
-                "titulo": titulo.strip(),
+                "titulo": titulo,
                 "resumen": desc,
                 "audio_url": "",
-                "imagen_url": "",
+                "imagen_url": img,
                 "enlace_original": link,
                 "destacada": False,
                 "fecha": fecha
@@ -70,18 +88,32 @@ def main():
     todas = []
     for f in FUENTES:
         todas.extend(leer_feed(f))
-    for i, n in enumerate(todas):
+
+    # Eliminar duplicados por título
+    vistos = set()
+    unicas = []
+    for n in todas:
+        clave = n["titulo"].lower()[:50]
+        if clave not in vistos:
+            vistos.add(clave)
+            unicas.append(n)
+
+    for i, n in enumerate(unicas):
         n["id"] = i + 1
-    # Marcar las 5 primeras como destacadas
-    for n in todas[:5]:
+
+    # Marcar 5 destacadas (las primeras)
+    for n in unicas[:5]:
         n["destacada"] = True
+
     salida = {
         "fecha": datetime.now().strftime("%Y-%m-%d"),
-        "noticias": todas
+        "hora": datetime.now().strftime("%H:%M"),
+        "total": len(unicas),
+        "noticias": unicas
     }
     with open("data/noticias.json", "w", encoding="utf-8") as fp:
         json.dump(salida, fp, ensure_ascii=False, indent=2)
-    print(f"Guardadas {len(todas)} noticias")
+    print(f"Guardadas {len(unicas)} noticias")
 
 if __name__ == "__main__":
     main()
