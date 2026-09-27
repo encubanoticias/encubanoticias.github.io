@@ -110,7 +110,7 @@ function renderNoticias() {
     art.dataset.tipo = n.fuente_tipo;
     art.innerHTML = `
       <span class="categoria">${n.categoria}</span>
-      <h2><a href="${n.enlace_original}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${n.titulo}</a></h2>
+      <h2>${n.titulo}</h2>
       <p>${n.resumen}</p>
       <small>${n.fuente} · ${n.fuente_tipo}</small>
       <br>
