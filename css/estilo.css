@@ -131,7 +131,7 @@ main {
   position: relative;
   border-radius: 16px;
   overflow: hidden;
-  height: 260px;
+  height: 280px;
   background: var(--bg-card);
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
 }
@@ -160,14 +160,18 @@ main {
 }
 
 .slide .contenido {
-  position: relative;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
   z-index: 2;
   padding: 1.25rem;
-  background: linear-gradient(transparent, rgba(0,0,0,0.7));
-  min-height: 70%;
- justify-content: flex-end;
- display: flex;
- flex-direction: column;
+  background: linear-gradient(transparent, rgba(0,0,0,0.85));
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  min-height: 60%;
+  max-height: 100%;
 }
 
 .slide .cat {
@@ -183,9 +187,9 @@ main {
   font-size: 1.2rem;
   font-weight: 800;
   margin-bottom: 0.4rem;
-  line-height: 1.2;
+  line-height: 1.25;
   display: -webkit-box;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
@@ -193,15 +197,16 @@ main {
 .slide p {
   font-size: 0.9rem;
   opacity: 0.95;
+  line-height: 1.4;
   display: -webkit-box;
-  -webkit-line-clamp: 6;
+  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
 
 .puntos {
   position: absolute;
-  bottom: 0.75rem;
+  bottom: 0.5rem;
   left: 50%;
   transform: translateX(-50%);
   display: flex;
