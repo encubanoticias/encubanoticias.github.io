@@ -7,10 +7,50 @@
   <link rel="stylesheet" href="css/estilo.css">
 </head>
 <body>
-  <header>
-    <h1>EnCuba Noticias</h1>
-  </header>
-  <main id="noticias"></main>
-  <script src="js/app.js"></script>
+
+<header>
+  <div class="header-top">
+    <h1>EnCuba</h1>
+    <div class="header-actions">
+      <input type="search" id="buscador" placeholder="Buscar...">
+      <button id="btn-tema" aria-label="Cambiar tema">🌙</button>
+    </div>
+  </div>
+  <nav class="filtros">
+    <button class="chip activo" data-filtro="todas">Todas</button>
+    <button class="chip" data-filtro="oficial">Oficial</button>
+    <button class="chip" data-filtro="alternativa">Alternativa</button>
+    <button class="chip" data-filtro="internacional">Internacional</button>
+  </nav>
+</header>
+
+<main>
+
+  <section id="carrusel" class="carrusel"></section>
+
+  <section class="seccion">
+    <h2 class="seccion-titulo">🔥 Noticias calientes</h2>
+    <div id="calientes" class="calientes"></div>
+  </section>
+
+  <section class="seccion">
+    <h2 class="seccion-titulo">📰 Todas las noticias</h2>
+    <div id="noticias" class="grid"></div>
+  </section>
+
+  <section class="seccion">
+    <h2 class="seccion-titulo">🎧 Modo Podcast</h2>
+    <div id="podcast" class="podcast"></div>
+  </section>
+
+</main>
+
+<div id="reproductor" class="reproductor oculto">
+  <span id="rep-titulo">Sin reproducción</span>
+  <button id="rep-play">▶</button>
+  <button id="rep-cerrar">✕</button>
+</div>
+
+<script src="js/app.js"></script>
 </body>
 </html>
