@@ -79,9 +79,8 @@ def leer_feed(f):
             link = item.findtext("link") or "#"
             fecha = item.findtext("pubDate") or ""
             img = extraer_imagen(item)
-            fuentes_cubanas = ["Cubadebate", "Granma", "Prensa Latina", "OnCuba", "14ymedio", "CiberCuba"]
-            if f["fuente"] not in fuentes_cubanas and not es_de_cuba(titulo + " " + desc):
-            continue
+            if not es_de_cuba(titulo + " " + desc):
+             continue
             cat = clasificar(titulo + " " + desc)
             noticias.append({
                 "categoria": cat,
@@ -113,6 +112,16 @@ def main():
             vistos.add(clave)
             unicas.append(n)
 
+# Limitar a 5 noticias por fuente
+por_fuente = {}
+balanceadas = []
+for n in unicas:
+    f = n["fuente"]
+    por_fuente[f] = por_fuente.get(f, 0) + 1
+    if por_fuente[f] <= 5:
+        balanceadas.append(n)
+unicas = balanceadas
+    
     for i, n in enumerate(unicas):
         n["id"] = i + 1
 
