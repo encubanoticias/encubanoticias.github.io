@@ -161,17 +161,17 @@ main {
 
 .slide .contenido {
   position: absolute;
-  bottom: 0;
+  top: 0;
   left: 0;
   right: 0;
+  bottom: 0;
   z-index: 2;
   padding: 1.25rem;
-  background: linear-gradient(transparent, rgba(0,0,0,0.85));
+  background: linear-gradient(rgba(0,0,0,0.7), transparent);
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
-  min-height: 60%;
-  max-height: 100%;
+  justify-content: flex-start;
+  overflow: hidden;
 }
 
 .slide .cat {
