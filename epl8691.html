@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Panel Admin - EnCuba</title>
+  <link rel="stylesheet" href="css/estilo.css">
+  <style>
+    .admin { padding: 1rem; max-width: 900px; margin: 0 auto; }
+    .admin h1 { color: var(--azul); margin-bottom: 1rem; }
+    .item {
+      background: var(--bg-card);
+      padding: 1rem;
+      border-radius: 10px;
+      margin-bottom: 0.75rem;
+      border-left: 4px solid var(--rojo);
+    }
+    .item h3 { font-size: 1rem; margin-bottom: 0.5rem; }
+    .item p { font-size: 0.9rem; color: var(--texto-suave); margin-bottom: 0.5rem; }
+    .item textarea {
+      width: 100%;
+      min-height: 100px;
+      padding: 0.5rem;
+      border-radius: 8px;
+      border: 1px solid var(--borde);
+      font-family: inherit;
+      font-size: 0.85rem;
+      background: var(--bg);
+      color: var(--texto);
+    }
+    .acciones { display: flex; gap: 0.5rem; margin-top: 0.5rem; flex-wrap: wrap; }
+    .acciones button {
+      background: var(--azul);
+      color: #fff;
+      border: none;
+      padding: 0.4rem 0.8rem;
+      border-radius: 999px;
+      font-size: 0.8rem;
+      cursor: pointer;
+    }
+    .acciones button:hover { background: var(--rojo); }
+    .acciones button.copiado { background: var(--oficial); }
+    .filtros-admin { display: flex; gap: 0.5rem; margin-bottom: 1rem; flex-wrap: wrap; }
+    .filtros-admin button {
+      background: var(--bg-card);
+      color: var(--texto);
+      border: 1px solid var(--borde);
+      padding: 0.4rem 0.9rem;
+      border-radius: 999px;
+      cursor: pointer;
+      font-size: 0.85rem;
+    }
+    .filtros-admin button.activo {
+      background: var(--azul);
+      color: #fff;
+      border-color: var(--azul);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-top">
+      <h1><span>EnCuba</span> Admin</h1>
+    </div>
+  </header>
+  <div class="admin">
+    <div class="filtros-admin" id="filtrosAdmin"></div>
+    <div id="lista"></div>
+  </div>
+
+  <script>
+    let noticias = [];
+    let filtro = 'todas';
+
+    fetch('data/noticias.json?v=' + Date.now())
+      .then(r => r.json())
+      .then(d => {
+        noticias = d.noticias || [];
+        renderFiltros();
+        renderLista();
+      });
+
+    function renderFiltros() {
+      const cats = ['todas', ...new Set(noticias.map(n => n.categoria))];
+      const cont = document.getElementById('filtrosAdmin');
+      cont.innerHTML = '';
+      cats.forEach(c => {
+        const b = document.createElement('button');
+        b.textContent = c;
+        if (c === filtro) b.classList.add('activo');
+        b.onclick = () => { filtro = c; renderFiltros(); renderLista(); };
+        cont.appendChild(b);
+      });
+    }
+
+    function renderLista() {
+      const cont = document.getElementById('lista');
+      let lista = noticias;
+      if (filtro !== 'todas') lista = lista.filter(n => n.categoria === filtro);
+      cont.innerHTML = '';
+      lista.forEach(n => {
+        const texto = `📰 ${n.titulo}\n\n${n.resumen}\n\nFuente: ${n.fuente}\n${n.enlace_original}`;
+        const div = document.createElement('div');
+        div.className = 'item';
+        div.innerHTML = `
+          <h3>${n.titulo}</h3>
+          <p>${n.fuente} · ${n.categoria}</p>
+          <textarea readonly>${texto}</textarea>
+          <div class="acciones">
+            <button data-texto="${encodeURIComponent(texto)}">📋 Copiar texto</button>
+            <button data-titulo="${encodeURIComponent(n.titulo)}">📋 Solo titular</button>
+            <a href="${n.enlace_original}" target="_blank"><button>Abrir original</button></a>
+          </div>
+        `;
+        cont.appendChild(div);
+      });
+
+      cont.querySelectorAll('button[data-texto]').forEach(b => {
+        b.onclick = () => {
+          navigator.clipboard.writeText(decodeURIComponent(b.dataset.texto));
+          b.textContent = '✅ Copiado';
+          b.classList.add('copiado');
+          setTimeout(() => {
+            b.textContent = '📋 Copiar texto';
+            b.classList.remove('copiado');
+          }, 2000);
+        };
+      });
+
+      cont.querySelectorAll('button[data-titulo]').forEach(b => {
+        b.onclick = () => {
+          navigator.clipboard.writeText(decodeURIComponent(b.dataset.titulo));
+          b.textContent = '✅ Copiado';
+          b.classList.add('copiado');
+          setTimeout(() => {
+            b.textContent = '📋 Solo titular';
+            b.classList.remove('copiado');
+          }, 2000);
+        };
+      });
+    }
+  </script>
+</body>
+</html>
