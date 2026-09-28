@@ -287,3 +287,15 @@ function renderPerspectivas() {
     cont.appendChild(div);
   });
 }
+
+function mostrarInfo() {
+  document.getElementById('modal-info').classList.remove('oculto');
+}
+
+function cerrarInfo() {
+  document.getElementById('modal-info').classList.add('oculto');
+}
+
+document.getElementById('modal-info').addEventListener('click', (e) => {
+  if (e.target.id === 'modal-info') cerrarInfo();
+});
