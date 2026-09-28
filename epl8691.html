@@ -135,6 +135,11 @@ main { padding: 1rem; max-width: 900px; margin: 0 auto; }
       <label>Temas máximos en Perspectivas</label>
       <input type="number" id="cfg-persp" min="1" max="10">
     </div>
+    <div class="campo">
+      <label>Noticias en el carrusel</label>
+      <input type="number" id="cfg-carrusel" min="3" max="15">
+      <small>Cuántas noticias mostrar en el carrusel superior.</small>
+    </div>
     <button class="btn" id="guardar-config">💾 Guardar configuración</button>
   </section>
 
@@ -255,7 +260,6 @@ async function apiPost(path, body) {
   return r.ok;
 }
 
-// TABS
 document.querySelectorAll('.tab').forEach(t => {
   t.onclick = () => {
     document.querySelectorAll('.tab').forEach(x => x.classList.remove('activo'));
@@ -265,10 +269,9 @@ document.querySelectorAll('.tab').forEach(t => {
   };
 });
 
-// CARGAR DATOS
 async function cargarTodo() {
   const n = await fetch('data/noticias.json?v=' + Date.now()).then(r => r.json()).catch(() => null);
-  if (n) { noticias = n.noticias || []; renderFiltros(); renderLista(); renderEstado(n); }
+  if (n) { noticias = n.noticias || []; renderFiltros(); renderLista(); }
 
   const cfg = await apiGet(`/repos/${REPO}/contents/data/config.json`);
   if (cfg) {
@@ -276,6 +279,7 @@ async function cargarTodo() {
     document.getElementById('cfg-horas').value = config.horas_entre_rastreos || 1;
     document.getElementById('cfg-max').value = config.max_por_fuente || 5;
     document.getElementById('cfg-persp').value = config.max_temas_perspectivas || 2;
+    document.getElementById('cfg-carrusel').value = config.destacadas_carrusel || 9;
     document.getElementById('temas-txt').value = (config.temas_prioritarios || []).join(', ');
   }
 
@@ -284,9 +288,10 @@ async function cargarTodo() {
     fuentes = JSON.parse(decodeURIComponent(escape(atob(f.content))));
     renderFuentes();
   }
+
+  renderEstado(n || {});
 }
 
-// COPIAR
 function renderFiltros() {
   const cats = ['todas', ...new Set(noticias.map(n => n.categoria))];
   const cont = document.getElementById('filtrosAdmin');
@@ -337,17 +342,16 @@ function renderLista() {
   });
 }
 
-// CONFIG
 document.getElementById('guardar-config').onclick = async () => {
   config.horas_entre_rastreos = parseInt(document.getElementById('cfg-horas').value);
   config.max_por_fuente = parseInt(document.getElementById('cfg-max').value);
   config.max_temas_perspectivas = parseInt(document.getElementById('cfg-persp').value);
+  config.destacadas_carrusel = parseInt(document.getElementById('cfg-carrusel').value);
   const ok = await apiPut(`/repos/${REPO}/contents/data/config.json`,
     JSON.stringify(config, null, 2), 'Actualizar config');
   if (ok) toast('Configuración guardada');
 };
 
-// TEMAS
 document.getElementById('guardar-temas').onclick = async () => {
   const txt = document.getElementById('temas-txt').value;
   config.temas_prioritarios = txt.split(',').map(s => s.trim()).filter(s => s);
@@ -356,14 +360,12 @@ document.getElementById('guardar-temas').onclick = async () => {
   if (ok) toast('Temas guardados');
 };
 
-// RASTREAR
 document.getElementById('btn-rastrear').onclick = async () => {
   const ok = await apiPost(`/repos/${REPO}/actions/workflows/rastrear.yml/dispatches`, { ref: 'main' });
   document.getElementById('rastrear-resultado').textContent =
     ok ? '✅ Rastreo disparado. En 1-2 min se actualizan las noticias.' : '❌ Error. Revisa el token.';
 };
 
-// FUENTES
 function renderFuentes() {
   const cont = document.getElementById('lista-fuentes');
   cont.innerHTML = '';
@@ -397,7 +399,6 @@ document.getElementById('agregar-fuente').onclick = async () => {
   }
 };
 
-// ESTADO
 function renderEstado(data) {
   const cont = document.getElementById('estado-contenido');
   const total = data.total || 0;
