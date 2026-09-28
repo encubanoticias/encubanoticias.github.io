@@ -1,6 +1,6 @@
 {
   "fecha": "2026-09-28",
-  "hora": "06:06",
+  "hora": "07:07",
   "total": 29,
   "noticias": [
     {
@@ -53,27 +53,15 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Celebran en Chile aniversario de mayor organización de masas de Cuba",
-      "resumen": "Santiago de Chile, 28 sep (Prensa Latina) Cubanos en Chile celebraron el aniversario 66 de los Comités de Defensa de la Revolución (CDR), mayor organización de masas de la isla, que hoy refuerza su labor comunitaria en medio del recrudecimiento del bloqueo estadounidense. The post Celebran en Chile ",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/28/celebran-en-chile-aniversario-de-mayor-organizacion-de-masas-de-cuba/",
-      "destacada": true,
-      "tema": "celebran",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
       "titulo": "El químico suma cuerpos desplomados al paisaje de La Habana",
       "resumen": "En San Lázaro, un joven vencido contra una pared apenas consigue llamar la atención de quienes pasan a su lado",
       "imagen_url": "https://static.14ymedio.com/clip/6c785108-f0c6-48c7-8877-42e633630522_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/quimico-suma-cuerpos-desplomados-paisaje_1_1131260.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "químico",
-      "id": 6
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -85,7 +73,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/ministerio-interior-guarda-silencio-nuevo_1_1131247.html",
       "destacada": false,
       "tema": "ministerio",
-      "id": 7
+      "id": 6
     },
     {
       "categoria": "transporte",
@@ -97,7 +85,7 @@
       "enlace_original": "https://www.14ymedio.com/deportes/jesus-cruz-estrategia-detras-regreso_1_1131255.html",
       "destacada": false,
       "tema": "jesús",
-      "id": 8
+      "id": 7
     },
     {
       "categoria": "salud",
@@ -109,7 +97,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/salud-publica-admite-deterioro-situacion_1_1131251.html",
       "destacada": false,
       "tema": "salud",
-      "id": 9
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -121,54 +109,66 @@
       "enlace_original": "https://www.14ymedio.com/cuba/sanciones-comercio-ee-uu-principal_1_1131225.html",
       "destacada": false,
       "tema": "sanciones",
+      "id": 9
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Gran Maestro Lázaro Bruzón: en Cuba «tenemos lo peor en la economía... lo peor en el orden social»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e209395-s27061-nid341365-gran-maestro-lazaro-bruzon-cuba-tenemos-peor",
+      "destacada": false,
+      "tema": "maestro",
       "id": 10
     },
     {
-      "categoria": "sociedad",
+      "categoria": "energia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Agosto deja cifras alarmantes en Cuba: Récord de homicidios, cinco muertes bajo custodia y cientos de incidentes represivos",
+      "titulo": "Cubana: «Al estrés, al apagón, la falta de agua... se suma la pandemia de la droga»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-13-u1-e207888-s27061-nid340235-agosto-deja-cifras-alarmantes-cuba-record-homicidios",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e209395-s27061-nid341362-cubana-al-estres-al-apagon-falta-agua-suma-pandemia",
       "destacada": false,
-      "tema": "agosto",
+      "tema": "cubana",
       "id": 11
     },
     {
-      "categoria": "sociedad",
+      "categoria": "economia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Grupo de Harvard propone transición democrática en Cuba, amnistía para presos políticos y Asamblea Constituyente",
+      "titulo": "Así cierra el mercado informal en Cuba: el dólar y el euro terminan el domingo al alza",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-13-u1-e207888-s27061-nid340233-grupo-harvard-propone-transicion-democratica-cuba",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e197721-s27061-nid341363-asi-cierra-mercado-informal-cuba-dolar-euro-terminan",
       "destacada": false,
-      "tema": "grupo",
+      "tema": "cierra",
       "id": 12
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubano cobra su primer salario en Brasil: “Quiero darme un gustazo”",
+      "titulo": "Yordan Álvarez hace historia: cuarto cubano en conquistar un título de bateo en MLB",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-13-u1-e209363-s27061-nid340227-cubano-cobra-primer-salario-brasil-quiero-darme",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e197721-s27066-nid341361-yordan-alvarez-hace-historia-cuarto-cubano",
       "destacada": false,
-      "tema": "cubano",
+      "tema": "yordan",
       "id": 13
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Palmares licita más de una decena de cafeterías y puntos de venta en La Habana ante la debacle de la gestión estatal",
+      "titulo": "Cubana necesita operarse pero le piden conseguir hasta el suero y la sonda: «¿Dónde voy a buscar eso?»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-13-u1-e209363-s27061-nid340226-palmares-licita-decena-cafeterias-puntos-venta",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e208933-s27061-nid341360-cubana-necesita-operarse-le-piden-conseguir-suero",
       "destacada": false,
-      "tema": "palmares",
+      "tema": "cubana",
       "id": 14
     },
     {
