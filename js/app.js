@@ -231,6 +231,13 @@ function iniciarMetricas() {
 }
 
 // --- PERSPECTIVAS ---
+let maxTemasPerspectivas = 2;
+
+fetch('data/config.json?v=' + Date.now())
+  .then(r => r.json())
+  .then(c => { if (c.max_temas_perspectivas) maxTemasPerspectivas = c.max_temas_perspectivas; })
+  .catch(() => {});
+
 function renderPerspectivas() {
   const cont = document.getElementById('perspectivas');
   if (!cont) return;
@@ -244,24 +251,33 @@ function renderPerspectivas() {
   });
 
   const bloques = Object.entries(porTema)
-    .filter(([_, arr]) => arr.length >= 2)
-    .slice(0, 5);
+    .filter(([_, arr]) => {
+      const tipos = new Set(arr.map(n => n.fuente_tipo));
+      return tipos.size >= 2;
+    })
+    .slice(0, maxTemasPerspectivas);
 
   cont.innerHTML = '';
   if (!bloques.length) {
-    cont.innerHTML = '<p style="color:var(--texto-suave)">Aún no hay temas con múltiples fuentes.</p>';
+    cont.innerHTML = '<p style="color:var(--texto-suave)">Aún no hay temas con múltiples perspectivas.</p>';
     return;
   }
 
   bloques.forEach(([tema, arr]) => {
+    const porTipo = {};
+    arr.forEach(n => {
+      if (!porTipo[n.fuente_tipo]) porTipo[n.fuente_tipo] = n;
+    });
+    const versiones = Object.values(porTipo).slice(0, 3);
+
     const div = document.createElement('div');
     div.className = 'tema-bloque';
     div.innerHTML = `
       <div class="tema-titulo">${tema}</div>
       <div class="tema-versiones">
-        ${arr.map(n => `
+        ${versiones.map(n => `
           <div class="version" data-tipo="${n.fuente_tipo}">
-            <small>${n.fuente}</small>
+            <small>${n.fuente} · ${n.fuente_tipo}</small>
             <h4>${n.titulo}</h4>
             <p>${n.resumen}</p>
           </div>
