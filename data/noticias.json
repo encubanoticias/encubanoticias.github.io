@@ -1,7 +1,7 @@
 {
   "fecha": "2026-09-28",
-  "hora": "01:51",
-  "total": 33,
+  "hora": "03:05",
+  "total": 38,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -52,6 +52,30 @@
       "id": 4
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cubanos en Nicaragua celebran los CDR y denuncian bloqueo de EEUU",
+      "resumen": "Managua, 27 sep (Prensa Latina) La Comunidad de Cubanos Residentes en Nicaragua “Antonio Maceo” conmemoró hoy el aniversario 66 de los CDR con la celebración de un Festival de la Cubanía en el que compartieron cultura y tradiciones. The post Cubanos en Nicaragua celebran los CDR y denuncian bloqueo ",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/27/cubanos-en-nicaragua-celebran-los-cdr-y-denuncian-bloqueo-de-eeuu/",
+      "destacada": true,
+      "tema": "cubanos",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Avería imprevista paraliza servicio de gas manufacturado en La Habana",
+      "resumen": "La Habana, 27 sep (Prensa Latina) Debido a una avería imprevista en el gasoducto que transporta la materia prima hacia las plantas productoras del gas manufacturado su distribución se afectó en siete municipios de La Habana, informó hoy la Empresa. The post Avería imprevista paraliza servicio de gas",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/27/averia-imprevista-paraliza-servicio-de-gas-manufacturado-en-la-habana/",
+      "destacada": false,
+      "tema": "avería",
+      "id": 6
+    },
+    {
       "categoria": "transporte",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
@@ -59,9 +83,9 @@
       "resumen": "La Paz, 27 sep (Prensa Latina) Con un acto político-cultural, en el que predominaron las alegrías compartidas, la embajada de Cuba en Bolivia celebró hoy el aniversario 66 de la creación de los Comités de Defensa de la Revolución (CDR). The post Celebran en Bolivia aniversario 66 de los CDR first ap",
       "imagen_url": "",
       "enlace_original": "https://www.prensa-latina.cu/2026/09/27/celebran-en-bolivia-aniversario-66-de-los-cdr/",
-      "destacada": true,
+      "destacada": false,
       "tema": "celebran",
-      "id": 5
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -73,43 +97,7 @@
       "enlace_original": "https://www.prensa-latina.cu/2026/09/27/cubanos-residentes-en-nicaragua-denuncian-bloqueo-contra-cuba/",
       "destacada": false,
       "tema": "cubanos",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Colombia: Celebran aniversario de mayor organización de masas en Cuba",
-      "resumen": "Bogotá, 27 sep (Prensa Latina) Integrantes de la misión estatal de Cuba en Colombia celebraron hoy aquí el aniversario 66 de la fundación de los Comités de Defensa de la Revolución (CDR), la mayor organización de masas de la isla. The post Colombia: Celebran aniversario de mayor organización de masa",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/27/colombia-celebran-aniversario-de-mayor-organizacion-de-masas-en-cuba/",
-      "destacada": false,
-      "tema": "colombia",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Ecuatorianos suben volcán Ilaló por Cuba y por las causas justas",
-      "resumen": "Quito, 27 sep (Prensa Latina) Un grupo de ecuatorianos subió hoy el volcán Ilaló, en las afueras de Quito, en una jornada de solidaridad con Cuba y otros pueblos en resistencia. The post Ecuatorianos suben volcán Ilaló por Cuba y por las causas justas first appeared on Noticias Prensa Latina.",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/27/ecuatorianos-suben-volcan-ilalo-por-cuba-y-por-las-causas-justas/",
-      "destacada": false,
-      "tema": "ecuatorianos",
       "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Japón castiga a Cuba en el Mundial de Béisbol Sub-15",
-      "resumen": "Mérida, México, 27 sep (Prensa Latina) Cuba sufrió hoy su segundo revés en el Campeonato Mundial de Béisbol Sub-15 al caer 11-1 por fuera de combate ante Japón, monarca defensor, en el Parque Kukulkán Álamo. The post Japón castiga a Cuba en el Mundial de Béisbol Sub-15 first appeared on Noticias Pre",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/27/japon-castiga-a-cuba-en-el-mundial-de-beisbol-sub-15/",
-      "destacada": false,
-      "tema": "japón",
-      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -121,7 +109,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/quimico-suma-cuerpos-desplomados-paisaje_1_1131260.html",
       "destacada": false,
       "tema": "químico",
-      "id": 10
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -133,7 +121,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/ministerio-interior-guarda-silencio-nuevo_1_1131247.html",
       "destacada": false,
       "tema": "ministerio",
-      "id": 11
+      "id": 10
     },
     {
       "categoria": "transporte",
@@ -145,7 +133,7 @@
       "enlace_original": "https://www.14ymedio.com/deportes/jesus-cruz-estrategia-detras-regreso_1_1131255.html",
       "destacada": false,
       "tema": "jesús",
-      "id": 12
+      "id": 11
     },
     {
       "categoria": "salud",
@@ -157,7 +145,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/salud-publica-admite-deterioro-situacion_1_1131251.html",
       "destacada": false,
       "tema": "salud",
-      "id": 13
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -169,54 +157,66 @@
       "enlace_original": "https://www.14ymedio.com/cuba/sanciones-comercio-ee-uu-principal_1_1131225.html",
       "destacada": false,
       "tema": "sanciones",
-      "id": 14
+      "id": 13
     },
     {
-      "categoria": "politica",
+      "categoria": "economia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Dos años sin agua en Mantilla y en dos días lo resuelven: «Todo porque dicen que viene Díaz-Canel»",
+      "titulo": "Gran Maestro Lázaro Bruzón: en Cuba «tenemos lo peor en la economía... lo peor en el orden social»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-08-29-u1-e199894-s27061-nid339075-dos-anos-agua-mantilla-dos-dias-resuelven-todo",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e209395-s27061-nid341365-gran-maestro-lazaro-bruzon-cuba-tenemos-peor",
       "destacada": false,
-      "tema": "mantilla",
-      "id": 15
+      "tema": "maestro",
+      "id": 14
     },
     {
       "categoria": "energia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "PCC califica el inicio del curso escolar como «otro acto de heroísmo» mientras cubanos denuncian hambre y apagones",
+      "titulo": "Cubana: «Al estrés, al apagón, la falta de agua... se suma la pandemia de la droga»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-08-29-u1-e208512-s27061-nid339077-pcc-califica-inicio-curso-escolar-otro-acto-heroismo",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e209395-s27061-nid341362-cubana-al-estres-al-apagon-falta-agua-suma-pandemia",
       "destacada": false,
-      "tema": "califica",
+      "tema": "cubana",
+      "id": 15
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Así cierra el mercado informal en Cuba: el dólar y el euro terminan el domingo al alza",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e197721-s27061-nid341363-asi-cierra-mercado-informal-cuba-dolar-euro-terminan",
+      "destacada": false,
+      "tema": "cierra",
       "id": 16
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Se desata incendio en La Habana Vieja: Vecinos culpan a la inestabilidad de la corriente",
+      "titulo": "Yordan Álvarez hace historia: cuarto cubano en conquistar un título de bateo en MLB",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-08-29-u1-e208574-s27061-nid339074-desata-incendio-habana-vieja-vecinos-culpan",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e197721-s27066-nid341361-yordan-alvarez-hace-historia-cuarto-cubano",
       "destacada": false,
-      "tema": "desata",
+      "tema": "yordan",
       "id": 17
     },
     {
-      "categoria": "energia",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Activista cubana cuestiona que maestros y alumnos puedan rendir en un aula tras horas de apagones",
+      "titulo": "Cubana necesita operarse pero le piden conseguir hasta el suero y la sonda: «¿Dónde voy a buscar eso?»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-08-29-u1-e208512-s27061-nid339072-activista-cubana-cuestiona-maestros-alumnos-puedan",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e208933-s27061-nid341360-cubana-necesita-operarse-le-piden-conseguir-suero",
       "destacada": false,
-      "tema": "activista",
+      "tema": "cubana",
       "id": 18
     },
     {
@@ -280,6 +280,66 @@
       "id": 23
     },
     {
+      "categoria": "economia",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Con bloqueo, cuesta más",
+      "resumen": "El Informe de Cuba sobre las afectaciones del bloqueo de EE. UU. contra nuestro país entre marzo del 2025 y febrero del 2026 cuantifica daños por 8 mil 83,3 millones de dólares, cifra récord para un período anual",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260927/con-bloqueo-cuesta-mas/",
+      "destacada": false,
+      "tema": "bloqueo",
+      "id": 24
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "El magisterio de una bailarina",
+      "resumen": "María Elena Llorente, figura esencial del Ballet Nacional de Cuba, falleció el pasado 21 de septiembre en La Habana",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260927/el-magisterio-de-una-bailarina/",
+      "destacada": false,
+      "tema": "magisterio",
+      "id": 25
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Voleibol cubano: Después de la feliz resaca",
+      "resumen": "Trabajadores dialogó con Osvaldo Martínez, presidente de la Federación Cubana de Voleibol después que la selección masculina clasificara para los Juegos Olímpicos de Los Ángeles 2028",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260927/voleibol-cubano-despues-de-la-feliz-resaca/",
+      "destacada": false,
+      "tema": "voleibol",
+      "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Solidaridad italiana impulsa la cultura cubana",
+      "resumen": "Miembros del movimiento italiano Ruta a Cuba entregaron en La Habana un cargamento solidario compuesto por paneles solares destinados a instituciones culturales de la capital",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260927/solidaridad-italiana-impulsa-la-cultura-cubana/",
+      "destacada": false,
+      "tema": "solidaridad",
+      "id": 27
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Silvio Rodríguez vuelve a conmover al público sevillano durante su gira por España",
+      "resumen": "El trovador cubano Silvio Rodríguez volvió a encontrarse este fin de semana con el público sevillano, al que conmovió durante dos conciertos celebrados en el Palacio de Congresos y Exposiciones FIBES",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260927/silvio-rodriguez-vuelve-a-conmover-al-publico-sevillano-durante-su-gira-por-espana/",
+      "destacada": false,
+      "tema": "silvio",
+      "id": 28
+    },
+    {
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
@@ -289,7 +349,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790539220_69142.html",
       "destacada": false,
       "tema": "diplomáticos",
-      "id": 24
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -301,7 +361,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790536424_69143.html",
       "destacada": false,
       "tema": "espera",
-      "id": 25
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -313,7 +373,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790526618_69140.html",
       "destacada": false,
       "tema": "demorar",
-      "id": 26
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -325,7 +385,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790514025_69121.html",
       "destacada": false,
       "tema": "drogarse",
-      "id": 27
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -337,7 +397,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790510418_69139.html",
       "destacada": false,
       "tema": "bruno",
-      "id": 28
+      "id": 33
     },
     {
       "categoria": "energia",
@@ -349,7 +409,7 @@
       "enlace_original": "https://www.martinoticias.com/a/colapso-de-dos-viviendas-en-camag%c3%bcey-reaviva-las-alarmas-por-crisis-habitacional-en-cuba/480765.html",
       "destacada": false,
       "tema": "colapso",
-      "id": 29
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -361,7 +421,7 @@
       "enlace_original": "https://www.martinoticias.com/a/aerol%c3%adnea-turca-pospone-nuevamente-la-reanudaci%c3%b3n-de-sus-vuelos-directos-a-cuba/480763.html",
       "destacada": false,
       "tema": "aerolínea",
-      "id": 30
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -373,7 +433,7 @@
       "enlace_original": "https://www.martinoticias.com/a/cuba-admite-brotes-de-dengue-chikungunya-y-otras-enfermedades-transmisibles/480762.html",
       "destacada": false,
       "tema": "admite",
-      "id": 31
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -385,7 +445,7 @@
       "enlace_original": "https://www.martinoticias.com/a/477677.html",
       "destacada": false,
       "tema": "noticiero",
-      "id": 32
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -397,7 +457,7 @@
       "enlace_original": "https://www.martinoticias.com/a/aplazan-juicio-a-influencer-cubana-anna-bensi-y-su-madre/480760.html",
       "destacada": false,
       "tema": "aplazan",
-      "id": 33
+      "id": 38
     }
   ]
 }
