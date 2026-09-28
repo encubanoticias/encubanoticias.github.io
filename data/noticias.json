@@ -1,7 +1,7 @@
 {
   "fecha": "2026-09-28",
-  "hora": "09:06",
-  "total": 28,
+  "hora": "11:05",
+  "total": 29,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -55,12 +55,12 @@
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Subraya China apoyo firme a Cuba en aniversario 66 de relaciones",
-      "resumen": "Beijing, 28 sep (Prensa Latina) China reafirmó hoy su apoyo firme a Cuba sin importar los cambios en el contexto internacional, a tono con el aniversario 66 del establecimiento de relaciones diplomáticas entre ambas naciones. The post Subraya China apoyo firme a Cuba en aniversario 66 de relaciones ",
+      "titulo": "Vietnam y Cuba evalúan potencialidades para elevar lazos deportivos",
+      "resumen": "Hanoi, 28 sep (Prensa Latina) Vietnam y Cuba evaluaron hoy las potencialidades respectivas para elevar la cooperación en materia deportiva en la formación de atletas, el intercambio de estudiantes y profesores, y de investigaciones conjuntas. The post Vietnam y Cuba evalúan potencialidades para elev",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/28/reafirma-china-apoyo-firme-a-cuba/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/28/vietnam-y-cuba-evaluan-potencialidades-para-elevar-lazos-deportivos/",
       "destacada": true,
-      "tema": "subraya",
+      "tema": "vietnam",
       "id": 5
     },
     {
@@ -127,37 +127,49 @@
       "categoria": "economia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Así cierra el mercado informal en Cuba: el dólar y el euro buscando altura",
+      "titulo": "Gran Maestro Lázaro Bruzón: en Cuba «tenemos lo peor en la economía... lo peor en el orden social»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e209395-s27061-nid341295-asi-cierra-mercado-informal-cuba-dolar-euro-buscando",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e209395-s27061-nid341365-gran-maestro-lazaro-bruzon-cuba-tenemos-peor",
       "destacada": false,
-      "tema": "cierra",
+      "tema": "maestro",
       "id": 11
     },
     {
-      "categoria": "sociedad",
+      "categoria": "energia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Régimen cubano afirma en la ONU que está abierto a relaciones comerciales y de negocios con compañías estadounidenses",
+      "titulo": "Cubana: «Al estrés, al apagón, la falta de agua... se suma la pandemia de la droga»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e199894-s27061-nid341296-regimen-cubano-afirma-onu-esta-abierto-relaciones",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e209395-s27061-nid341362-cubana-al-estres-al-apagon-falta-agua-suma-pandemia",
       "destacada": false,
-      "tema": "régimen",
+      "tema": "cubana",
       "id": 12
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Así cierra el mercado informal en Cuba: el dólar y el euro terminan el domingo al alza",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e197721-s27061-nid341363-asi-cierra-mercado-informal-cuba-dolar-euro-terminan",
+      "destacada": false,
+      "tema": "cierra",
+      "id": 13
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Esposa de cubano autodeportado suplica a congresistas una visa humanitaria para que su hija no enfrente sola su cuarta cirugía",
+      "titulo": "Yordan Álvarez hace historia: cuarto cubano en conquistar un título de bateo en MLB",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e208574-s27061-nid341290-esposa-cubano-autodeportado-suplica-congresistas",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e197721-s27066-nid341361-yordan-alvarez-hace-historia-cuarto-cubano",
       "destacada": false,
-      "tema": "esposa",
-      "id": 13
+      "tema": "yordan",
+      "id": 14
     },
     {
       "categoria": "politica",
@@ -169,7 +181,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/destacados/cuba-denuncia-en-la-onu-el-bloqueo-energetico-de-eeuu-y-alerta-sobre-el-avance-del-expansionismo/",
       "destacada": false,
       "tema": "denuncia",
-      "id": 14
+      "id": 15
     },
     {
       "categoria": "politica",
@@ -181,7 +193,7 @@
       "enlace_original": "https://www.radiocubana.cu/eventos/comienza-edicion-36-del-taller-y-concurso-nacional-de-la-radio-joven-antonio-lloga-in-memoriam/",
       "destacada": false,
       "tema": "comienza",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "politica",
@@ -193,7 +205,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-cada-voz-en-cuba-importa-episodio-01/",
       "destacada": false,
       "tema": "criterio",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "politica",
@@ -205,7 +217,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-sobre-transformaciones-economicas-y-sociales-en-cuba/",
       "destacada": false,
       "tema": "criterio",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -217,7 +229,55 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/podcast-a-contracorriente-capitulo-49-cuba-y-la-inteligencia-artificial/",
       "destacada": false,
       "tema": "podcast",
-      "id": 18
+      "id": 19
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El gas de Cuba viene de Miami y los precios son abusivos: ¿quién se beneficia?",
+      "resumen": "La incertidumbre rodea la situación del gas licuado en #Cuba, el #combustible doméstico de muchas familias, hoy #dolarizado y que se vende desde Hialeah.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1790593367_69068.html",
+      "destacada": false,
+      "tema": "viene",
+      "id": 20
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "China promete sostener al régimen cubano y exige a EEUU levantar las sanciones",
+      "resumen": "Pekín promete apoyo a su aliado cubano y exige en la ONU el fin de las sanciones al régimen, un día después de que Xi y Trump dialogaran y el presidente de EEUU calificara la visita del mandatario chino de \"muy productiva\".",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1790592269_69149.html",
+      "destacada": false,
+      "tema": "china",
+      "id": 21
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Expertos oficialistas pronostican una nueva contracción de la economía de Cuba en 2026 y culpan a EEUU",
+      "resumen": "#SOSCuba: Expertos de la Universidad de La Habana ofrecen un oscuro pronóstico para la economía de Cuba en 2026, pero culpan a las sanciones de EEUU. No obstante, critican el secretismo del #RégimenCubano.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1790588648_69148.html",
+      "destacada": false,
+      "tema": "expertos",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Fernández de Cossío culpa al embargo de frenar las reformas que el régimen cubano tardó décadas en aplicar",
+      "resumen": "Fernández de Cossío achaca a las #sanciones de #EEUU los obstáculos para una apertura económica demorada durante décadas, mientras #ManuelMarrero presume de 158 medidas tienen respaldo jurídico.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1790587163_69147.html",
+      "destacada": false,
+      "tema": "fernández",
+      "id": 23
     },
     {
       "categoria": "energia",
@@ -229,55 +289,19 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790574882_69145.html",
       "destacada": false,
       "tema": "guiteras",
-      "id": 19
+      "id": 24
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Diplomáticos de Canadá recabaron información de inteligencia en Cuba y la compartieron con EEUU entre 2016 y 2018",
-      "resumen": "Revelaciones en #Canadá ofrecen nuevos detalles sobre los eventos que rodearon a los primeros casos del hoy denominado #SíndromeDeLaHabana.",
+      "titulo": "Cuba Habla: \"Mi futuro yo lo veo incierto”",
+      "resumen": "“En Cuba no hay futuro” afirma joven habanera y agrega que es por eso que los jóvenes se van del país.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1790539220_69142.html",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-mi-futuro-yo-lo-veo-incierto/480458.html",
       "destacada": false,
-      "tema": "diplomáticos",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Qué espera un habanero al final del día?",
-      "resumen": "'Nunca salgo ni con la billetera ni con el celular a gestiones cerca de casa': el periodista Jorge Enrique Rodríguez escribe su bitácora desde La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1790536424_69143.html",
-      "destacada": false,
-      "tema": "espera",
-      "id": 21
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Va a demorar el regreso de los vuelos a Cuba, avisa Turkish Airlines",
-      "resumen": "La #aerolínea #TurkishAirlines vuelve a ofrecer una fecha tentativa para el restablecimiento de sus operaciones directas a #Cuba, aunque con una advertencia.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1790526618_69140.html",
-      "destacada": false,
-      "tema": "demorar",
-      "id": 22
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Drogarse en Cuba sale más barato que comer",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1790514025_69121.html",
-      "destacada": false,
-      "tema": "drogarse",
-      "id": 23
+      "tema": "habla",
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -289,7 +313,7 @@
       "enlace_original": "https://www.martinoticias.com/a/480806.html",
       "destacada": false,
       "tema": "revista",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -301,7 +325,7 @@
       "enlace_original": "https://www.martinoticias.com/a/480805.html",
       "destacada": false,
       "tema": "revista",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "energia",
@@ -313,7 +337,7 @@
       "enlace_original": "https://www.martinoticias.com/a/colapso-de-dos-viviendas-en-camag%c3%bcey-reaviva-las-alarmas-por-crisis-habitacional-en-cuba/480765.html",
       "destacada": false,
       "tema": "colapso",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -325,19 +349,7 @@
       "enlace_original": "https://www.martinoticias.com/a/aerol%c3%adnea-turca-pospone-nuevamente-la-reanudaci%c3%b3n-de-sus-vuelos-directos-a-cuba/480763.html",
       "destacada": false,
       "tema": "aerolínea",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba admite brotes de dengue, chikungunya y otras enfermedades transmisibles",
-      "resumen": "Autoridades sanitarias reconocieron la circulación de dengue y chikungunya en Cuba, además de variantes de COVID-19, influenza y un alza de infecciones respiratorias, enfermedades diarreicas y hepatitis. Los reportes oficiales no ofrecen cifras actualizadas, ni detallan la magnitud de los brotes.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-admite-brotes-de-dengue-chikungunya-y-otras-enfermedades-transmisibles/480762.html",
-      "destacada": false,
-      "tema": "admite",
-      "id": 28
+      "id": 29
     }
   ]
 }
