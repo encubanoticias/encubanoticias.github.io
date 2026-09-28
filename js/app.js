@@ -11,6 +11,7 @@ fetch('data/noticias.json?v=' + Date.now())
     noticias = data.noticias || [];
     renderCarrusel();
     renderCalientes();
+    renderPerspectivas();
     renderNoticias();
     renderPodcast();
     iniciarCarrusel();
@@ -227,4 +228,46 @@ function iniciarMetricas() {
   const hora = new Date().getHours();
   vistas[hora] = (vistas[hora] || 0) + 1;
   localStorage.setItem('vistas', JSON.stringify(vistas));
+}
+
+// --- PERSPECTIVAS ---
+function renderPerspectivas() {
+  const cont = document.getElementById('perspectivas');
+  if (!cont) return;
+
+  const porTema = {};
+  noticias.forEach(n => {
+    const t = (n.tema || '').toLowerCase();
+    if (!t || t.length < 4) return;
+    if (!porTema[t]) porTema[t] = [];
+    porTema[t].push(n);
+  });
+
+  const bloques = Object.entries(porTema)
+    .filter(([_, arr]) => arr.length >= 2)
+    .slice(0, 5);
+
+  cont.innerHTML = '';
+  if (!bloques.length) {
+    cont.innerHTML = '<p style="color:var(--texto-suave)">Aún no hay temas con múltiples fuentes.</p>';
+    return;
+  }
+
+  bloques.forEach(([tema, arr]) => {
+    const div = document.createElement('div');
+    div.className = 'tema-bloque';
+    div.innerHTML = `
+      <div class="tema-titulo">${tema}</div>
+      <div class="tema-versiones">
+        ${arr.map(n => `
+          <div class="version" data-tipo="${n.fuente_tipo}">
+            <small>${n.fuente}</small>
+            <h4>${n.titulo}</h4>
+            <p>${n.resumen}</p>
+          </div>
+        `).join('')}
+      </div>
+    `;
+    cont.appendChild(div);
+  });
 }
