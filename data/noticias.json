@@ -1,7 +1,7 @@
 {
   "fecha": "2026-09-28",
-  "hora": "14:07",
-  "total": 33,
+  "hora": "15:07",
+  "total": 32,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -16,6 +16,18 @@
       "id": 1
     },
     {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Desde distintas latitudes, la solidaridad con Cuba vuelve a hacerse sentir",
+      "resumen": "En el 66 aniversario de los Comités de Defensa de la Revolución (CDR), amigos de Cuba y connacionales residentes en el exterior alzaron sus voces para exigir el fin del bloqueo económico, comercial y financiero impuesto y recrudecido por el Gobierno de EE. UU. contra nuestro país",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-09-28/desde-distintas-latitudes-la-solidaridad-con-cuba-vuelve-a-hacerse-sentir-28-09-2026-10-09-15",
+      "destacada": true,
+      "tema": "distintas",
+      "id": 2
+    },
+    {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
@@ -25,7 +37,7 @@
       "enlace_original": "http://www.granma.cu/cuba/2026-09-26/china-y-cuba-abren-nuevas-puertas-a-la-formacion-de-ingenieros-26-09-2026-11-09-41",
       "destacada": true,
       "tema": "china",
-      "id": 2
+      "id": 3
     },
     {
       "categoria": "politica",
@@ -37,18 +49,6 @@
       "enlace_original": "http://www.granma.cu/cuba/2026-09-25/dignidad-y-unidad-premisas-para-defender-la-patria-25-09-2026-15-09-58",
       "destacada": true,
       "tema": "dignidad",
-      "id": 3
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "De alta médica y en recuperación Pedrito Calvo, luego de percance de salud en Panamá",
-      "resumen": "El Instituto Cubano de la Música informó este domingo que, en la tarde del viernes 25 de septiembre, mientras viajaba desde Cuba con destino a Colombia, el reconocido y querido artista Pedro Aniceto Calvo Rojas (Pedrito Calvo), sufrió un accidente cerebrovascular, durante una escala de tránsito en P",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-09-27/de-alta-medica-y-en-recuperacion-pedrito-calvo-luego-de-percance-de-salud-en-panama-27-09-2026-17-09-42",
-      "destacada": true,
-      "tema": "médica",
       "id": 4
     },
     {
@@ -76,6 +76,18 @@
       "id": 6
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Un árbol genealógico para ayudar a las familias cubanas a reencontrar sus raíces",
+      "resumen": "Cuba Research Project lanza una herramienta colaborativa que permite rastrear antepasados entre más de 600.000 registros históricos de la Isla",
+      "imagen_url": "https://static.14ymedio.com/clip/a874e14c-dabe-4c44-9c02-918cff271084_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/arbol-genealogico-ayudar-familias-cubanas_1_1131281.html",
+      "destacada": false,
+      "tema": "árbol",
+      "id": 7
+    },
+    {
       "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -85,7 +97,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/regimen-cubano-sigue-empeno-reformar_1_1131275.html",
       "destacada": false,
       "tema": "régimen",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -97,7 +109,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/canciller-cubano-agradece-permanente-solidaridad_1_1131271.html",
       "destacada": false,
       "tema": "canciller",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -109,67 +121,43 @@
       "enlace_original": "https://www.14ymedio.com/cuba/quimico-suma-cuerpos-desplomados-paisaje_1_1131260.html",
       "destacada": false,
       "tema": "químico",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El Ministerio del Interior guarda silencio sobre un nuevo vuelo de deportados desde EE UU",
-      "resumen": "Familiares y un trabajador presente en la llegada confirman que varios cubanos fueron devueltos a la Isla, pero las autoridades no han dado informaciones",
-      "imagen_url": "https://static.14ymedio.com/clip/c90aee41-c384-46ea-a0d0-f7fe0e513943_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/ministerio-interior-guarda-silencio-nuevo_1_1131247.html",
-      "destacada": false,
-      "tema": "ministerio",
       "id": 10
     },
     {
-      "categoria": "sociedad",
+      "categoria": "economia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "¿Dónde están los turistas que pierde Cuba? Turoperador señala dos destinos del Caribe",
+      "titulo": "Así cierra el mercado informal en Cuba: el dólar y el euro buscando altura",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e199370-s27061-nid341372-donde-estan-turistas-pierde-cuba-turoperador-senala",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e209395-s27061-nid341295-asi-cierra-mercado-informal-cuba-dolar-euro-buscando",
       "destacada": false,
-      "tema": "dónde",
+      "tema": "cierra",
       "id": 11
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Lavrov exige a Estados Unidos la liberación de Maduro y pide el fin del embargo a Cuba",
+      "titulo": "Régimen cubano afirma en la ONU que está abierto a relaciones comerciales y de negocios con compañías estadounidenses",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e199370-s27061-nid341370-lavrov-exige-estados-unidos-liberacion-maduro-pide",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e199894-s27061-nid341296-regimen-cubano-afirma-onu-esta-abierto-relaciones",
       "destacada": false,
-      "tema": "lavrov",
+      "tema": "régimen",
       "id": 12
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Ana Hurtado llama «guerra psicológica» a la filtración de CBS, pero EE.UU. lleva meses avisando a La Habana",
+      "titulo": "Esposa de cubano autodeportado suplica a congresistas una visa humanitaria para que su hija no enfrente sola su cuarta cirugía",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e207888-s27061-nid341369-ana-hurtado-llama-guerra-psicologica-filtracion-cbs",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e208574-s27061-nid341290-esposa-cubano-autodeportado-suplica-congresistas",
       "destacada": false,
-      "tema": "hurtado",
+      "tema": "esposa",
       "id": 13
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Gran Maestro Lázaro Bruzón: en Cuba «tenemos lo peor en la economía... lo peor en el orden social»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e209395-s27061-nid341365-gran-maestro-lazaro-bruzon-cuba-tenemos-peor",
-      "destacada": false,
-      "tema": "maestro",
-      "id": 14
     },
     {
       "categoria": "politica",
@@ -181,7 +169,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/destacados/cuba-denuncia-en-la-onu-el-bloqueo-energetico-de-eeuu-y-alerta-sobre-el-avance-del-expansionismo/",
       "destacada": false,
       "tema": "denuncia",
-      "id": 15
+      "id": 14
     },
     {
       "categoria": "politica",
@@ -193,7 +181,7 @@
       "enlace_original": "https://www.radiocubana.cu/eventos/comienza-edicion-36-del-taller-y-concurso-nacional-de-la-radio-joven-antonio-lloga-in-memoriam/",
       "destacada": false,
       "tema": "comienza",
-      "id": 16
+      "id": 15
     },
     {
       "categoria": "politica",
@@ -205,7 +193,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-cada-voz-en-cuba-importa-episodio-01/",
       "destacada": false,
       "tema": "criterio",
-      "id": 17
+      "id": 16
     },
     {
       "categoria": "politica",
@@ -217,7 +205,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-sobre-transformaciones-economicas-y-sociales-en-cuba/",
       "destacada": false,
       "tema": "criterio",
-      "id": 18
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -229,6 +217,18 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/podcast-a-contracorriente-capitulo-49-cuba-y-la-inteligencia-artificial/",
       "destacada": false,
       "tema": "podcast",
+      "id": 18
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "El fuego, símbolo de rebeldía",
+      "resumen": "Frente a las amenazas de invasión militar proclamadas por la actual administración norteamericana, esas llamas simbolizan el espíritu de lucha de los cubanos y su disposición de defender la soberanía nacional al precio de cualquier sacrificio",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260928/el-fuego-simbolo-de-rebeldia/",
+      "destacada": false,
+      "tema": "fuego",
       "id": 19
     },
     {
@@ -268,15 +268,15 @@
       "id": 22
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
+      "categoria": "energia",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Solidaridad italiana impulsa la cultura cubana",
-      "resumen": "Miembros del movimiento italiano Ruta a Cuba entregaron en La Habana un cargamento solidario compuesto por paneles solares destinados a instituciones culturales de la capital",
+      "titulo": "La Termoeléctrica Guiteras sufre una nueva avería 24 horas después su incorporación al sistema",
+      "resumen": "#SOSCuba: La termoeléctrica matancera Antonio Guiteras vuelve a averiarse, 24 horas después de sincronizar al SEN. Es su salida número 22 del sistema en lo que va de 2026. Con ella, suman siete las unidades de termoeléctricas que están fuera de servicio en #Cuba.",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20260927/solidaridad-italiana-impulsa-la-cultura-cubana/",
+      "enlace_original": "https://diariodecuba.com/cuba/1790607379_69152.html",
       "destacada": false,
-      "tema": "solidaridad",
+      "tema": "termoeléctrica",
       "id": 23
     },
     {
@@ -328,16 +328,40 @@
       "id": 27
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "transporte",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Fernández de Cossío culpa al embargo de frenar las reformas que el régimen cubano tardó décadas en aplicar",
-      "resumen": "Fernández de Cossío achaca a las #sanciones de #EEUU los obstáculos para una apertura económica demorada durante décadas, mientras #ManuelMarrero presume de 158 medidas tienen respaldo jurídico.",
+      "titulo": "Denuncian ante la CIDH restricciones a visitas familiares del preso político Walnier Aguilar",
+      "resumen": "El Observatorio Cubano de Derechos Humanos denunció ante la Comisión Interamericana de DDHH las restricciones impuestas a las visitas familiares del preso político Walnier Luis Aguilar Rivera, recluido en una prisión de Sancti Spíritus, luego de que su familia viajara 350 km y no pudiera verlo.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1790587163_69147.html",
+      "enlace_original": "https://www.martinoticias.com/a/denuncian-ante-la-cidh-restricciones-a-visitas-familiares-del-preso-pol%c3%adtico-walnier-aguilar/480812.html",
       "destacada": false,
-      "tema": "fernández",
+      "tema": "denuncian",
       "id": 28
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "12 mitos sobre Cuba. Del relato al dato. Autor Frank Zimmerman.",
+      "resumen": "La historia de Cuba —esa historia que algunos pretenden convertir en estampita turística o en consigna de mitin— es, desde hace más de seis décadas, un campo minado de relatos prefabricados. Relatos que se repiten como letanías, que se enseñan en escuelas y universidades extranjeras, que se deslizan",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480814.html",
+      "destacada": false,
+      "tema": "mitos",
+      "id": 29
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Diarios chinos en la Cuba Republicana. Autor: Comunidad china habanera.",
+      "resumen": "Hubo una Habana que olía a tinta fresca, a café recalentado, a tabaco húmedo y a sopa de jengibre en los portales del Barrio Chino. Una Habana republicana, nerviosa y teatral, donde los pregones se mezclaban con el tranvía, las discusiones políticas, los boleros de victrola y las lenguas que habían ",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480813.html",
+      "destacada": false,
+      "tema": "diarios",
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -349,7 +373,7 @@
       "enlace_original": "https://www.martinoticias.com/a/477693.html",
       "destacada": false,
       "tema": "futuro",
-      "id": 29
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -361,43 +385,7 @@
       "enlace_original": "https://www.martinoticias.com/a/iclep-condena-prisi%c3%b3n-preventiva-contra-el-periodista-henry-constant%c3%adn/480808.html",
       "destacada": false,
       "tema": "iclep",
-      "id": 30
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Martí Noticias AM",
-      "resumen": "Revista informativa con los últimos acontecimientos ocurridos en Cuba y el mundo. Con entrevistas y temas de actualidad relacionados a la política, la economía y de interés general.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/477692.html",
-      "destacada": false,
-      "tema": "martí",
-      "id": 31
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba Habla: \"Mi futuro yo lo veo incierto”",
-      "resumen": "“En Cuba no hay futuro” afirma joven habanera y agrega que es por eso que los jóvenes se van del país.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-mi-futuro-yo-lo-veo-incierto/480458.html",
-      "destacada": false,
-      "tema": "habla",
       "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Revista Vanidades",
-      "resumen": "En febrero de 1937, en una Habana vibrante, moderna y profundamente marcada por la cultura impresa, apareció Vanidades, una publicación destinada al público femenino que muy pronto encontraría un lugar propio dentro del panorama editorial cubano. Su nacimiento estuvo vinculado a Editorial Carteles, ",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480806.html",
-      "destacada": false,
-      "tema": "revista",
-      "id": 33
     }
   ]
 }
