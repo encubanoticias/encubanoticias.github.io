@@ -571,3 +571,53 @@ body.oscuro .categoria { background: rgba(255,255,255,0.1); color: #7EB6FF; }
 }
 
 body.oscuro .modal-caja h3 { color: #7EB6FF; }
+
+/* VOTACIÓN */
+.votacion {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 0.6rem;
+  flex-wrap: wrap;
+  font-size: 0.75rem;
+}
+
+.voto-btn {
+  background: var(--bg);
+  border: 1px solid var(--borde);
+  color: var(--texto);
+  padding: 0.25rem 0.6rem;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  transition: all 0.2s;
+}
+
+.voto-btn:hover { border-color: var(--azul); }
+
+.voto-btn.activo[data-voto="confirmada"] {
+  background: var(--oficial);
+  color: #fff;
+  border-color: var(--oficial);
+}
+
+.voto-btn.activo[data-voto="dudosa"] {
+  background: #FB8C00;
+  color: #fff;
+  border-color: #FB8C00;
+}
+
+.voto-btn.activo[data-voto="falsa"] {
+  background: var(--rojo);
+  color: #fff;
+  border-color: var(--rojo);
+}
+
+.voto-total {
+  color: var(--texto-suave);
+  font-size: 0.7rem;
+  margin-left: auto;
+}
