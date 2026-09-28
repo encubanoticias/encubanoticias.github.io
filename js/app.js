@@ -20,10 +20,34 @@ fetch('data/noticias.json?v=' + Date.now())
   .catch(err => console.error('Error:', err));
 
 // --- CARRUSEL ---
+let maxCarrusel = 9;
+
+fetch('data/config.json?v=' + Date.now())
+  .then(r => r.json())
+  .then(c => {
+    if (c.max_temas_perspectivas) maxTemasPerspectivas = c.max_temas_perspectivas;
+    if (c.destacadas_carrusel) maxCarrusel = c.destacadas_carrusel;
+  })
+  .catch(() => {});
+
 function renderCarrusel() {
-  const destacadas = noticias.filter(n => n.destacada).slice(0, 5);
   const cont = document.getElementById('carrusel');
   cont.innerHTML = '';
+
+  // Agrupar por tipo
+  const porTipo = { oficial: [], alternativa: [], internacional: [] };
+  noticias.forEach(n => {
+    if (porTipo[n.fuente_tipo]) porTipo[n.fuente_tipo].push(n);
+  });
+
+  // Elegir variedad: máximo 3 por tipo (o proporcional)
+  const porTipoMax = Math.ceil(maxCarrusel / 3);
+  const seleccion = [];
+  ['oficial', 'alternativa', 'internacional'].forEach(tipo => {
+    porTipo[tipo].slice(0, porTipoMax).forEach(n => seleccion.push(n));
+  });
+
+  const destacadas = seleccion.slice(0, maxCarrusel);
   if (!destacadas.length) return;
 
   destacadas.forEach((n, i) => {
