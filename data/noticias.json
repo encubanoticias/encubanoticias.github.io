@@ -1,7 +1,7 @@
 {
   "fecha": "2026-09-28",
-  "hora": "15:07",
-  "total": 32,
+  "hora": "17:06",
+  "total": 34,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -16,15 +16,15 @@
       "id": 1
     },
     {
-      "categoria": "politica",
+      "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Desde distintas latitudes, la solidaridad con Cuba vuelve a hacerse sentir",
-      "resumen": "En el 66 aniversario de los Comités de Defensa de la Revolución (CDR), amigos de Cuba y connacionales residentes en el exterior alzaron sus voces para exigir el fin del bloqueo económico, comercial y financiero impuesto y recrudecido por el Gobierno de EE. UU. contra nuestro país",
+      "titulo": "Celebran en Matanzas acto central nacional por Aniversario 66 de los CDR",
+      "resumen": "En el acto le fue entregada la condición de Vanguardia Nacional de los CDR a la provincia de Matanzas por sus resultados integrales, y a los territorios de Santiago de Cuba y Pinar del Río el galardón de Destacados, al tiempo que Ciudad de La Habana recibió un reconocimiento especial",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-09-28/desde-distintas-latitudes-la-solidaridad-con-cuba-vuelve-a-hacerse-sentir-28-09-2026-10-09-15",
+      "enlace_original": "http://www.granma.cu/cuba/2026-09-28/aniversario-66-de-los-cdr-28-09-2026-11-09-58",
       "destacada": true,
-      "tema": "distintas",
+      "tema": "celebran",
       "id": 2
     },
     {
@@ -64,6 +64,30 @@
       "id": 5
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Difunden desde Zimbabwe discurso de Cuba en Asamblea General ONU",
+      "resumen": "Harare, 28 sep (Prensa Latina) La ley de la selva no puede ser el futuro de la humanidad, aseguró hoy el coordinador de la Cátedra Fidel Castro en Zimbabwe, Mafa Kwanisai, al comentar el discurso del canciller de Cuba, Bruno Rodríguez, en la ONU. The post Difunden desde Zimbabwe discurso de Cuba en ",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/28/difunden-desde-zimbabwe-discurso-de-cuba-en-asamblea-general-onu/",
+      "destacada": false,
+      "tema": "difunden",
+      "id": 6
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cubanos radicados en Perú rechazan nuevas sanciones de EEUU",
+      "resumen": "Lima, 28 sep (Prensa Latina) La Asociación de Cubanos Residentes en Perú “Raíces Mambisas” repudió hoy las más recientes sanciones económicas del gobierno norteamericano de Donald Trump contra funcionarios y organismos de la Isla. The post Cubanos radicados en Perú rechazan nuevas sanciones de EEUU ",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/28/cubanos-radicados-en-peru-rechazan-nuevas-sanciones-de-eeuu/",
+      "destacada": false,
+      "tema": "cubanos",
+      "id": 7
+    },
+    {
       "categoria": "energia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -73,19 +97,19 @@
       "enlace_original": "https://www.14ymedio.com/cuba/lugar-petroleo-cubanos-tendran-mezquita_1_1131282.html",
       "destacada": false,
       "tema": "lugar",
-      "id": 6
+      "id": 8
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Un árbol genealógico para ayudar a las familias cubanas a reencontrar sus raíces",
-      "resumen": "Cuba Research Project lanza una herramienta colaborativa que permite rastrear antepasados entre más de 600.000 registros históricos de la Isla",
-      "imagen_url": "https://static.14ymedio.com/clip/a874e14c-dabe-4c44-9c02-918cff271084_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/arbol-genealogico-ayudar-familias-cubanas_1_1131281.html",
+      "titulo": "Se fuga otra joven promesa del béisbol cubano en búsqueda de las Grandes Ligas",
+      "resumen": "Informan que el reportero oficialista Giovanni Martínez dejó la delegación cubana en México, mientras cubría el Mundial de Béisbol Sub-15",
+      "imagen_url": "https://static.14ymedio.com/clip/1464275e-1182-4031-a880-c7701d6e5c10_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/deportes/fuga-joven-beisbol-cubano-busqueda_1_1131292.html",
       "destacada": false,
-      "tema": "árbol",
-      "id": 7
+      "tema": "joven",
+      "id": 9
     },
     {
       "categoria": "economia",
@@ -97,19 +121,19 @@
       "enlace_original": "https://www.14ymedio.com/cuba/regimen-cubano-sigue-empeno-reformar_1_1131275.html",
       "destacada": false,
       "tema": "régimen",
-      "id": 8
+      "id": 10
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El canciller cubano agradece la “permanente solidaridad” de los amigos del régimen en EE UU",
-      "resumen": "Bruno Rodríguez denuncia la “feroz agresión” de Washington y califica el “bloqueo energético” de “acto de guerra”",
-      "imagen_url": "https://static.14ymedio.com/clip/0668f23b-a5f0-4240-9127-629de34f7812_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/canciller-cubano-agradece-permanente-solidaridad_1_1131271.html",
+      "titulo": "Un árbol genealógico para ayudar a las familias cubanas a reencontrar sus raíces",
+      "resumen": "Cuba Research Project lanza una herramienta colaborativa que permite rastrear antepasados entre más de 600.000 registros históricos de la Isla",
+      "imagen_url": "https://static.14ymedio.com/clip/a874e14c-dabe-4c44-9c02-918cff271084_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/arbol-genealogico-ayudar-familias-cubanas_1_1131281.html",
       "destacada": false,
-      "tema": "canciller",
-      "id": 9
+      "tema": "árbol",
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -121,7 +145,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/quimico-suma-cuerpos-desplomados-paisaje_1_1131260.html",
       "destacada": false,
       "tema": "químico",
-      "id": 10
+      "id": 12
     },
     {
       "categoria": "economia",
@@ -133,7 +157,7 @@
       "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e209395-s27061-nid341295-asi-cierra-mercado-informal-cuba-dolar-euro-buscando",
       "destacada": false,
       "tema": "cierra",
-      "id": 11
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -145,7 +169,7 @@
       "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e199894-s27061-nid341296-regimen-cubano-afirma-onu-esta-abierto-relaciones",
       "destacada": false,
       "tema": "régimen",
-      "id": 12
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -157,7 +181,7 @@
       "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e208574-s27061-nid341290-esposa-cubano-autodeportado-suplica-congresistas",
       "destacada": false,
       "tema": "esposa",
-      "id": 13
+      "id": 15
     },
     {
       "categoria": "politica",
@@ -169,7 +193,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/destacados/cuba-denuncia-en-la-onu-el-bloqueo-energetico-de-eeuu-y-alerta-sobre-el-avance-del-expansionismo/",
       "destacada": false,
       "tema": "denuncia",
-      "id": 14
+      "id": 16
     },
     {
       "categoria": "politica",
@@ -181,7 +205,7 @@
       "enlace_original": "https://www.radiocubana.cu/eventos/comienza-edicion-36-del-taller-y-concurso-nacional-de-la-radio-joven-antonio-lloga-in-memoriam/",
       "destacada": false,
       "tema": "comienza",
-      "id": 15
+      "id": 17
     },
     {
       "categoria": "politica",
@@ -193,7 +217,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-cada-voz-en-cuba-importa-episodio-01/",
       "destacada": false,
       "tema": "criterio",
-      "id": 16
+      "id": 18
     },
     {
       "categoria": "politica",
@@ -205,7 +229,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-sobre-transformaciones-economicas-y-sociales-en-cuba/",
       "destacada": false,
       "tema": "criterio",
-      "id": 17
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -217,7 +241,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/podcast-a-contracorriente-capitulo-49-cuba-y-la-inteligencia-artificial/",
       "destacada": false,
       "tema": "podcast",
-      "id": 18
+      "id": 20
     },
     {
       "categoria": "economia",
@@ -229,7 +253,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260928/el-fuego-simbolo-de-rebeldia/",
       "destacada": false,
       "tema": "fuego",
-      "id": 19
+      "id": 21
     },
     {
       "categoria": "economia",
@@ -241,7 +265,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260927/con-bloqueo-cuesta-mas/",
       "destacada": false,
       "tema": "bloqueo",
-      "id": 20
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -253,7 +277,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260927/el-magisterio-de-una-bailarina/",
       "destacada": false,
       "tema": "magisterio",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "politica",
@@ -265,7 +289,55 @@
       "enlace_original": "https://www.trabajadores.cu/20260927/voleibol-cubano-despues-de-la-feliz-resaca/",
       "destacada": false,
       "tema": "voleibol",
-      "id": 22
+      "id": 24
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Sin freno la violencia machista en Cuba: llegan a 54 los feminicidios en nueve meses",
+      "resumen": "#SOSCuba #NiUnaMenos: Los feminicidios en #Cuba en 2026 llegan a 54 con la muerte violenta de Didianny Barreto Palmero, confirmada por #OGAT. El Gobierno ofrece datos sobre los casos de violencia sexual juzgados en 2025.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1790613572_69154.html",
+      "destacada": false,
+      "tema": "freno",
+      "id": 25
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La conexión mexicana de Ramón Carretero: negocios con destino Cuba",
+      "resumen": "La red empresarial del panameño #RamónCarreteroNapolitano, documentada hasta ahora fundamentalmente en el eje #Panamá - #Venezuela - #Cuba, se extiende también a #México, según registros analizados por #DiarioDeCuba.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1790612591_69146.html",
+      "destacada": false,
+      "tema": "conexión",
+      "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El Aeropuerto Internacional de La Habana suspende sus operaciones por segunda vez en una semana",
+      "resumen": "#SOSCuba: El Aeropuerto Internacional de La Habana anuncia una nueva suspensión de sus operaciones por casi siete horas, una semana después de cerrar por \"trabajos con personal y equipos\".",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1790609773_69153.html",
+      "destacada": false,
+      "tema": "aeropuerto",
+      "id": 27
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "'El Gobierno se ha deshecho del pueblo', dice un exinternacionalista cubano",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1790608980_69124.html",
+      "destacada": false,
+      "tema": "gobierno",
+      "id": 28
     },
     {
       "categoria": "energia",
@@ -277,115 +349,67 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790607379_69152.html",
       "destacada": false,
       "tema": "termoeléctrica",
-      "id": 23
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Aplazado el juicio a la influencer Anna Bensi y su madre por supuesto 'delito contra la intimidad'",
-      "resumen": "#SOSCuba: El policía que acusa a #AnnaBensi y su madre de \"delito contra la intimidad personal y familiar\" quiere que graben un video de disculpa, pero su abogado quiere otra cosa. Mientras, el juicio ha sido aplazado. La joven recuerda que está a punto de cumplirse un año desde que publicó su prime",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1790594177_69150.html",
-      "destacada": false,
-      "tema": "aplazado",
-      "id": 24
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El gas de Cuba viene de Miami y los precios son abusivos: ¿quién se beneficia?",
-      "resumen": "La incertidumbre rodea la situación del gas licuado en #Cuba, el #combustible doméstico de muchas familias, hoy #dolarizado y que se vende desde Hialeah.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1790593367_69068.html",
-      "destacada": false,
-      "tema": "viene",
-      "id": 25
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "China promete sostener al régimen cubano y exige a EEUU levantar las sanciones",
-      "resumen": "Pekín promete apoyo a su aliado cubano y exige en la ONU el fin de las sanciones al régimen, un día después de que Xi y Trump dialogaran y el presidente de EEUU calificara la visita del mandatario chino de \"muy productiva\".",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1790592269_69149.html",
-      "destacada": false,
-      "tema": "china",
-      "id": 26
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Expertos oficialistas pronostican una nueva contracción de la economía de Cuba en 2026 y culpan a EEUU",
-      "resumen": "#SOSCuba: Expertos de la Universidad de La Habana ofrecen un oscuro pronóstico para la economía de Cuba en 2026, pero culpan a las sanciones de EEUU. No obstante, critican el secretismo del #RégimenCubano.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1790588648_69148.html",
-      "destacada": false,
-      "tema": "expertos",
-      "id": 27
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Denuncian ante la CIDH restricciones a visitas familiares del preso político Walnier Aguilar",
-      "resumen": "El Observatorio Cubano de Derechos Humanos denunció ante la Comisión Interamericana de DDHH las restricciones impuestas a las visitas familiares del preso político Walnier Luis Aguilar Rivera, recluido en una prisión de Sancti Spíritus, luego de que su familia viajara 350 km y no pudiera verlo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/denuncian-ante-la-cidh-restricciones-a-visitas-familiares-del-preso-pol%c3%adtico-walnier-aguilar/480812.html",
-      "destacada": false,
-      "tema": "denuncian",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "12 mitos sobre Cuba. Del relato al dato. Autor Frank Zimmerman.",
-      "resumen": "La historia de Cuba —esa historia que algunos pretenden convertir en estampita turística o en consigna de mitin— es, desde hace más de seis décadas, un campo minado de relatos prefabricados. Relatos que se repiten como letanías, que se enseñan en escuelas y universidades extranjeras, que se deslizan",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480814.html",
-      "destacada": false,
-      "tema": "mitos",
       "id": 29
     },
     {
-      "categoria": "transporte",
+      "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Diarios chinos en la Cuba Republicana. Autor: Comunidad china habanera.",
-      "resumen": "Hubo una Habana que olía a tinta fresca, a café recalentado, a tabaco húmedo y a sopa de jengibre en los portales del Barrio Chino. Una Habana republicana, nerviosa y teatral, donde los pregones se mezclaban con el tranvía, las discusiones políticas, los boleros de victrola y las lenguas que habían ",
+      "titulo": "Hammer destaca interés sobre Cuba durante foro de seguridad e inversión en Ciudad de México",
+      "resumen": "El encargado de Negocios de EEUU en La Habana, Mike Hammer, abordó la situación en la isla y sostuvo reuniones con altos funcionarios estadounidenses durante la conferencia OSAC Americas, en México, en medio del interés de los participantes por posibles cambios en Cuba.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480813.html",
+      "enlace_original": "https://www.martinoticias.com/a/hammer-destaca-inter%c3%a9s-sobre-cuba-durante-foro-de-seguridad-e-inversi%c3%b3n-en-ciudad-de-m%c3%a9xico/480821.html",
       "destacada": false,
-      "tema": "diarios",
+      "tema": "hammer",
       "id": 30
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El futuro es ya",
-      "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
+      "titulo": "Noticiero de Radio Martí 12:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/477693.html",
+      "enlace_original": "https://www.martinoticias.com/a/477698.html",
       "destacada": false,
-      "tema": "futuro",
+      "tema": "noticiero",
       "id": 31
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "ICLEP condena prisión preventiva contra el periodista Henry Constantín",
-      "resumen": "El Instituto Cubano por la Libertad de Expresión y Prensa (ICLEP) condenó la prisión preventiva impuesta al periodista cubano Henry Constantín Ferreiro y la calificó de arbitraria y desproporcionada, en medio de denuncias por una presunta persecución sostenida contra su labor periodística.",
+      "titulo": "Barrio adentro",
+      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/iclep-condena-prisi%c3%b3n-preventiva-contra-el-periodista-henry-constant%c3%adn/480808.html",
+      "enlace_original": "https://www.martinoticias.com/a/477696.html",
       "destacada": false,
-      "tema": "iclep",
+      "tema": "barrio",
       "id": 32
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "“Una segunda muerte”: Alas Tensas alerta sobre feminicidios que quedan fuera de las estadísticas oficiales",
+      "resumen": "El Observatorio de Género Alas Tensas (OGAT) elevó a 54 su registro de feminicidios en Cuba en 2026 tras verificar el asesinato de Didianny Barreto Palmero, una trabajadora de la educación de 34 años y madre de dos niñas, en Ceballos, Ciego de Ávila.El caso también expone cómo algunas víctimas queda",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/una-segunda-muerte-alas-tensas-alerta-sobre-feminicidios-que-quedan-fuera-de-las-estad%c3%adsticas-oficiales/480816.html",
+      "destacada": false,
+      "tema": "segunda",
+      "id": 33
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Yordán Alvarez fue el mejor cubano en la última semana de la campaña",
+      "resumen": "Yordán Álvarez cerró una gran temporada regular y fue clave para que los Astros de Houston avanzaran a la postemporada, tras batear .375 en la última semana con 9 hits, 7 anotadas y 7 impulsadas.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/yordan-alvarez-fue-el-mejor-cubano-en-la-ultima-semana/480818.html",
+      "destacada": false,
+      "tema": "yordán",
+      "id": 34
     }
   ]
 }
