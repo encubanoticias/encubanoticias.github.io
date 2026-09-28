@@ -1,7 +1,7 @@
 {
   "fecha": "2026-09-28",
-  "hora": "03:05",
-  "total": 38,
+  "hora": "04:05",
+  "total": 36,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -55,13 +55,25 @@
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
+      "titulo": "Díaz-Canel elogia primer título mundial femenino en judo para ciegos",
+      "resumen": "La Habana, 27 sep (Prensa Latina) El presidente Miguel Díaz-Canel elogió hoy el primer título mundial femenino de Cuba en el judo de la Federación Internacional de Deportes para Ciegos, alcanzado por Sheyla Hernández en la categoría de +70 kilogramos (J2). The post Díaz-Canel elogia primer título mu",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/27/diaz-canel-elogia-primer-titulo-mundial-femenino-en-judo-para-ciegos/",
+      "destacada": true,
+      "tema": "canel",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
       "titulo": "Cubanos en Nicaragua celebran los CDR y denuncian bloqueo de EEUU",
       "resumen": "Managua, 27 sep (Prensa Latina) La Comunidad de Cubanos Residentes en Nicaragua “Antonio Maceo” conmemoró hoy el aniversario 66 de los CDR con la celebración de un Festival de la Cubanía en el que compartieron cultura y tradiciones. The post Cubanos en Nicaragua celebran los CDR y denuncian bloqueo ",
       "imagen_url": "",
       "enlace_original": "https://www.prensa-latina.cu/2026/09/27/cubanos-en-nicaragua-celebran-los-cdr-y-denuncian-bloqueo-de-eeuu/",
-      "destacada": true,
+      "destacada": false,
       "tema": "cubanos",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -73,7 +85,7 @@
       "enlace_original": "https://www.prensa-latina.cu/2026/09/27/averia-imprevista-paraliza-servicio-de-gas-manufacturado-en-la-habana/",
       "destacada": false,
       "tema": "avería",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "transporte",
@@ -85,18 +97,6 @@
       "enlace_original": "https://www.prensa-latina.cu/2026/09/27/celebran-en-bolivia-aniversario-66-de-los-cdr/",
       "destacada": false,
       "tema": "celebran",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cubanos residentes en Nicaragua denuncian bloqueo contra Cuba",
-      "resumen": "Managua, 27 sep (Prensa Latina) La Comunidad Patriótica de Cubanos Residentes en Nicaragua \"Antonio Maceo\" denunció hoy las consecuencias del bloqueo económico contra Cuba y reafirmó su compromiso con la unidad y la defensa de la identidad y cultura de la nación caribeña. The post Cubanos residentes",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/27/cubanos-residentes-en-nicaragua-denuncian-bloqueo-contra-cuba/",
-      "destacada": false,
-      "tema": "cubanos",
       "id": 8
     },
     {
@@ -163,61 +163,37 @@
       "categoria": "economia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Gran Maestro Lázaro Bruzón: en Cuba «tenemos lo peor en la economía... lo peor en el orden social»",
+      "titulo": "Así cierra el mercado informal en Cuba: el dólar y el euro buscando altura",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e209395-s27061-nid341365-gran-maestro-lazaro-bruzon-cuba-tenemos-peor",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e209395-s27061-nid341295-asi-cierra-mercado-informal-cuba-dolar-euro-buscando",
       "destacada": false,
-      "tema": "maestro",
+      "tema": "cierra",
       "id": 14
     },
     {
-      "categoria": "energia",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubana: «Al estrés, al apagón, la falta de agua... se suma la pandemia de la droga»",
+      "titulo": "Régimen cubano afirma en la ONU que está abierto a relaciones comerciales y de negocios con compañías estadounidenses",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e209395-s27061-nid341362-cubana-al-estres-al-apagon-falta-agua-suma-pandemia",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e199894-s27061-nid341296-regimen-cubano-afirma-onu-esta-abierto-relaciones",
       "destacada": false,
-      "tema": "cubana",
+      "tema": "régimen",
       "id": 15
     },
     {
-      "categoria": "economia",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Así cierra el mercado informal en Cuba: el dólar y el euro terminan el domingo al alza",
+      "titulo": "Esposa de cubano autodeportado suplica a congresistas una visa humanitaria para que su hija no enfrente sola su cuarta cirugía",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e197721-s27061-nid341363-asi-cierra-mercado-informal-cuba-dolar-euro-terminan",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e208574-s27061-nid341290-esposa-cubano-autodeportado-suplica-congresistas",
       "destacada": false,
-      "tema": "cierra",
+      "tema": "esposa",
       "id": 16
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Yordan Álvarez hace historia: cuarto cubano en conquistar un título de bateo en MLB",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e197721-s27066-nid341361-yordan-alvarez-hace-historia-cuarto-cubano",
-      "destacada": false,
-      "tema": "yordan",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubana necesita operarse pero le piden conseguir hasta el suero y la sonda: «¿Dónde voy a buscar eso?»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e208933-s27061-nid341360-cubana-necesita-operarse-le-piden-conseguir-suero",
-      "destacada": false,
-      "tema": "cubana",
-      "id": 18
     },
     {
       "categoria": "politica",
@@ -229,7 +205,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/destacados/cuba-denuncia-en-la-onu-el-bloqueo-energetico-de-eeuu-y-alerta-sobre-el-avance-del-expansionismo/",
       "destacada": false,
       "tema": "denuncia",
-      "id": 19
+      "id": 17
     },
     {
       "categoria": "politica",
@@ -241,7 +217,7 @@
       "enlace_original": "https://www.radiocubana.cu/eventos/comienza-edicion-36-del-taller-y-concurso-nacional-de-la-radio-joven-antonio-lloga-in-memoriam/",
       "destacada": false,
       "tema": "comienza",
-      "id": 20
+      "id": 18
     },
     {
       "categoria": "politica",
@@ -253,7 +229,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-cada-voz-en-cuba-importa-episodio-01/",
       "destacada": false,
       "tema": "criterio",
-      "id": 21
+      "id": 19
     },
     {
       "categoria": "politica",
@@ -265,7 +241,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-sobre-transformaciones-economicas-y-sociales-en-cuba/",
       "destacada": false,
       "tema": "criterio",
-      "id": 22
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -277,7 +253,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/podcast-a-contracorriente-capitulo-49-cuba-y-la-inteligencia-artificial/",
       "destacada": false,
       "tema": "podcast",
-      "id": 23
+      "id": 21
     },
     {
       "categoria": "economia",
@@ -289,7 +265,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260927/con-bloqueo-cuesta-mas/",
       "destacada": false,
       "tema": "bloqueo",
-      "id": 24
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -301,7 +277,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260927/el-magisterio-de-una-bailarina/",
       "destacada": false,
       "tema": "magisterio",
-      "id": 25
+      "id": 23
     },
     {
       "categoria": "politica",
@@ -313,7 +289,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260927/voleibol-cubano-despues-de-la-feliz-resaca/",
       "destacada": false,
       "tema": "voleibol",
-      "id": 26
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -325,7 +301,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260927/solidaridad-italiana-impulsa-la-cultura-cubana/",
       "destacada": false,
       "tema": "solidaridad",
-      "id": 27
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -337,7 +313,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260927/silvio-rodriguez-vuelve-a-conmover-al-publico-sevillano-durante-su-gira-por-espana/",
       "destacada": false,
       "tema": "silvio",
-      "id": 28
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -349,7 +325,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790539220_69142.html",
       "destacada": false,
       "tema": "diplomáticos",
-      "id": 29
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -361,7 +337,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790536424_69143.html",
       "destacada": false,
       "tema": "espera",
-      "id": 30
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -373,7 +349,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790526618_69140.html",
       "destacada": false,
       "tema": "demorar",
-      "id": 31
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -385,7 +361,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790514025_69121.html",
       "destacada": false,
       "tema": "drogarse",
-      "id": 32
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -397,6 +373,30 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790510418_69139.html",
       "destacada": false,
       "tema": "bruno",
+      "id": 31
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Revista Vanidades",
+      "resumen": "En febrero de 1937, en una Habana vibrante, moderna y profundamente marcada por la cultura impresa, apareció Vanidades, una publicación destinada al público femenino que muy pronto encontraría un lugar propio dentro del panorama editorial cubano. Su nacimiento estuvo vinculado a Editorial Carteles, ",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480806.html",
+      "destacada": false,
+      "tema": "revista",
+      "id": 32
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Revista Alma Mater. \nAutor: Julio Antonio Mella.",
+      "resumen": "Hemos tenido revistas que nacieron para acompañar una época y revistas que, en cambio, terminaron pareciéndose a una conciencia. Alma Mater pertenece a esa estirpe rara: ha contado a los jóvenes cubanos, también los ha discutido, los ha desafiado, los ha empujado a mirarse de frente en el espejo a v",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480805.html",
+      "destacada": false,
+      "tema": "revista",
       "id": 33
     },
     {
@@ -434,30 +434,6 @@
       "destacada": false,
       "tema": "admite",
       "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 12:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/477677.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Aplazan juicio a influencer cubana Anna Bensi y su madre (VIDEO)",
-      "resumen": "La joven influencer Anna Sofía Benítez denunció que fue aplazado, sin nueva fecha, el juicio contra ella y su madre, Caridad Silvente, por un presunto delito contra la intimidad personal y familiar de un policía, mientras siguen bajo reclusión domiciliaria y con prohibición de salir de Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/aplazan-juicio-a-influencer-cubana-anna-bensi-y-su-madre/480760.html",
-      "destacada": false,
-      "tema": "aplazan",
-      "id": 38
     }
   ]
 }
