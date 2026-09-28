@@ -1,19 +1,19 @@
 {
   "semilla": [
-    ""https://www.telesurtv.net",
-"https://www.radiocubana.cu",
-"https://www.juventudrebelde.cu",
-"https://www.trabajadores.cu",
-"https://www.acn.cu",
-"https://www.cubanet.org",
-"https://www.diariodecuba.com",
-"https://www.martinoticias.com"
+    "https://www.telesurtv.net",
+    "https://www.radiocubana.cu",
+    "https://www.juventudrebelde.cu",
+    "https://www.trabajadores.cu",
+    "https://www.acn.cu",
+    "https://www.cubanet.org",
+    "https://www.diariodecuba.com",
+    "https://www.martinoticias.com"
   ],
   "feeds": {
     "https://www.granma.cu": "https://www.granma.cu/feed/",
     "https://www.prensa-latina.cu": "https://www.prensa-latina.cu/feed/",
     "https://oncubanews.com": "https://oncubanews.com/feed/",
     "https://www.14ymedio.com": "https://www.14ymedio.com/rss/",
-    "https://www.cibercuba.com": "https://www.cibercuba.com/rss.xml",
+    "https://www.cibercuba.com": "https://www.cibercuba.com/rss.xml"
   }
 }
