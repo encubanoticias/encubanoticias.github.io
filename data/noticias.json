@@ -1,7 +1,7 @@
 {
   "fecha": "2026-09-28",
-  "hora": "13:06",
-  "total": 28,
+  "hora": "14:07",
+  "total": 33,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -124,40 +124,52 @@
       "id": 10
     },
     {
-      "categoria": "economia",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Así cierra el mercado informal en Cuba: el dólar y el euro buscando altura",
+      "titulo": "¿Dónde están los turistas que pierde Cuba? Turoperador señala dos destinos del Caribe",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e209395-s27061-nid341295-asi-cierra-mercado-informal-cuba-dolar-euro-buscando",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e199370-s27061-nid341372-donde-estan-turistas-pierde-cuba-turoperador-senala",
       "destacada": false,
-      "tema": "cierra",
+      "tema": "dónde",
       "id": 11
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Régimen cubano afirma en la ONU que está abierto a relaciones comerciales y de negocios con compañías estadounidenses",
+      "titulo": "Lavrov exige a Estados Unidos la liberación de Maduro y pide el fin del embargo a Cuba",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e199894-s27061-nid341296-regimen-cubano-afirma-onu-esta-abierto-relaciones",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e199370-s27061-nid341370-lavrov-exige-estados-unidos-liberacion-maduro-pide",
       "destacada": false,
-      "tema": "régimen",
+      "tema": "lavrov",
       "id": 12
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Esposa de cubano autodeportado suplica a congresistas una visa humanitaria para que su hija no enfrente sola su cuarta cirugía",
+      "titulo": "Ana Hurtado llama «guerra psicológica» a la filtración de CBS, pero EE.UU. lleva meses avisando a La Habana",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e208574-s27061-nid341290-esposa-cubano-autodeportado-suplica-congresistas",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e207888-s27061-nid341369-ana-hurtado-llama-guerra-psicologica-filtracion-cbs",
       "destacada": false,
-      "tema": "esposa",
+      "tema": "hurtado",
       "id": 13
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Gran Maestro Lázaro Bruzón: en Cuba «tenemos lo peor en la economía... lo peor en el orden social»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e209395-s27061-nid341365-gran-maestro-lazaro-bruzon-cuba-tenemos-peor",
+      "destacada": false,
+      "tema": "maestro",
+      "id": 14
     },
     {
       "categoria": "politica",
@@ -169,7 +181,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/destacados/cuba-denuncia-en-la-onu-el-bloqueo-energetico-de-eeuu-y-alerta-sobre-el-avance-del-expansionismo/",
       "destacada": false,
       "tema": "denuncia",
-      "id": 14
+      "id": 15
     },
     {
       "categoria": "politica",
@@ -181,7 +193,7 @@
       "enlace_original": "https://www.radiocubana.cu/eventos/comienza-edicion-36-del-taller-y-concurso-nacional-de-la-radio-joven-antonio-lloga-in-memoriam/",
       "destacada": false,
       "tema": "comienza",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "politica",
@@ -193,7 +205,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-cada-voz-en-cuba-importa-episodio-01/",
       "destacada": false,
       "tema": "criterio",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "politica",
@@ -205,7 +217,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-sobre-transformaciones-economicas-y-sociales-en-cuba/",
       "destacada": false,
       "tema": "criterio",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -217,7 +229,55 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/podcast-a-contracorriente-capitulo-49-cuba-y-la-inteligencia-artificial/",
       "destacada": false,
       "tema": "podcast",
-      "id": 18
+      "id": 19
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Con bloqueo, cuesta más",
+      "resumen": "El Informe de Cuba sobre las afectaciones del bloqueo de EE. UU. contra nuestro país entre marzo del 2025 y febrero del 2026 cuantifica daños por 8 mil 83,3 millones de dólares, cifra récord para un período anual",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260927/con-bloqueo-cuesta-mas/",
+      "destacada": false,
+      "tema": "bloqueo",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "El magisterio de una bailarina",
+      "resumen": "María Elena Llorente, figura esencial del Ballet Nacional de Cuba, falleció el pasado 21 de septiembre en La Habana",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260927/el-magisterio-de-una-bailarina/",
+      "destacada": false,
+      "tema": "magisterio",
+      "id": 21
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Voleibol cubano: Después de la feliz resaca",
+      "resumen": "Trabajadores dialogó con Osvaldo Martínez, presidente de la Federación Cubana de Voleibol después que la selección masculina clasificara para los Juegos Olímpicos de Los Ángeles 2028",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260927/voleibol-cubano-despues-de-la-feliz-resaca/",
+      "destacada": false,
+      "tema": "voleibol",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Solidaridad italiana impulsa la cultura cubana",
+      "resumen": "Miembros del movimiento italiano Ruta a Cuba entregaron en La Habana un cargamento solidario compuesto por paneles solares destinados a instituciones culturales de la capital",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260927/solidaridad-italiana-impulsa-la-cultura-cubana/",
+      "destacada": false,
+      "tema": "solidaridad",
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -229,7 +289,7 @@
       "enlace_original": "https://diariodecuba.com/derechos-humanos/1790594177_69150.html",
       "destacada": false,
       "tema": "aplazado",
-      "id": 19
+      "id": 24
     },
     {
       "categoria": "economia",
@@ -241,7 +301,7 @@
       "enlace_original": "https://diariodecuba.com/economia/1790593367_69068.html",
       "destacada": false,
       "tema": "viene",
-      "id": 20
+      "id": 25
     },
     {
       "categoria": "politica",
@@ -253,7 +313,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790592269_69149.html",
       "destacada": false,
       "tema": "china",
-      "id": 21
+      "id": 26
     },
     {
       "categoria": "economia",
@@ -265,7 +325,7 @@
       "enlace_original": "https://diariodecuba.com/economia/1790588648_69148.html",
       "destacada": false,
       "tema": "expertos",
-      "id": 22
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -277,7 +337,19 @@
       "enlace_original": "https://diariodecuba.com/economia/1790587163_69147.html",
       "destacada": false,
       "tema": "fernández",
-      "id": 23
+      "id": 28
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El futuro es ya",
+      "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/477693.html",
+      "destacada": false,
+      "tema": "futuro",
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -289,7 +361,7 @@
       "enlace_original": "https://www.martinoticias.com/a/iclep-condena-prisi%c3%b3n-preventiva-contra-el-periodista-henry-constant%c3%adn/480808.html",
       "destacada": false,
       "tema": "iclep",
-      "id": 24
+      "id": 30
     },
     {
       "categoria": "economia",
@@ -301,7 +373,7 @@
       "enlace_original": "https://www.martinoticias.com/a/477692.html",
       "destacada": false,
       "tema": "martí",
-      "id": 25
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -313,7 +385,7 @@
       "enlace_original": "https://www.martinoticias.com/a/cuba-habla-mi-futuro-yo-lo-veo-incierto/480458.html",
       "destacada": false,
       "tema": "habla",
-      "id": 26
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -325,19 +397,7 @@
       "enlace_original": "https://www.martinoticias.com/a/480806.html",
       "destacada": false,
       "tema": "revista",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Revista Alma Mater. \nAutor: Julio Antonio Mella.",
-      "resumen": "Hemos tenido revistas que nacieron para acompañar una época y revistas que, en cambio, terminaron pareciéndose a una conciencia. Alma Mater pertenece a esa estirpe rara: ha contado a los jóvenes cubanos, también los ha discutido, los ha desafiado, los ha empujado a mirarse de frente en el espejo a v",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480805.html",
-      "destacada": false,
-      "tema": "revista",
-      "id": 28
+      "id": 33
     }
   ]
 }
