@@ -123,6 +123,12 @@ function renderNoticias() {
         <h2><a href="${n.enlace_original}" target="_blank" rel="noopener">${n.titulo}</a></h2>
         <p>${n.resumen}</p>
         <small>${n.fuente} · ${n.fuente_tipo}</small>
+          <div class="votacion" data-id="${n.id}">
+         <button class="voto-btn" data-voto="confirmada">✅ Confirmada</button>
+         <button class="voto-btn" data-voto="dudosa">❓ Dudosa</button>
+         <button class="voto-btn" data-voto="falsa">⚠️ Falsa</button>
+         <span class="voto-total"></span>
+         </div>
         <br>
         <button class="btn-audio">🎧 Escuchar</button>
       </div>
@@ -299,3 +305,66 @@ function cerrarInfo() {
 document.getElementById('modal-info').addEventListener('click', (e) => {
   if (e.target.id === 'modal-info') cerrarInfo();
 });
+
+// --- VOTACIÓN ---
+function claveVoto(id) { return 'voto_' + id; }
+
+function cargarVotos() {
+  return JSON.parse(localStorage.getItem('votos') || '{}');
+}
+
+function guardarVotos(v) {
+  localStorage.setItem('votos', JSON.stringify(v));
+}
+
+function contarVotos(id) {
+  const v = cargarVotos()[id] || {};
+  return Object.values(v).length;
+}
+
+function miVoto(id) {
+  const v = cargarVotos()[id] || {};
+  return v['yo'] || null;
+}
+
+function votar(id, tipo) {
+  const todos = cargarVotos();
+  if (!todos[id]) todos[id] = {};
+  const anterior = todos[id]['yo'];
+  if (anterior === tipo) {
+    delete todos[id]['yo'];
+  } else {
+    todos[id]['yo'] = tipo;
+  }
+  guardarVotos(todos);
+  actualizarVotacion(id);
+}
+
+function actualizarVotacion(id) {
+  const cont = document.querySelector(`.votacion[data-id="${id}"]`);
+  if (!cont) return;
+  const v = cargarVotos()[id] || {};
+  const mi = v['yo'];
+  const total = Object.values(v).length;
+
+  cont.querySelectorAll('.voto-btn').forEach(b => {
+    b.classList.toggle('activo', b.dataset.voto === mi);
+  });
+
+  const span = cont.querySelector('.voto-total');
+  if (total === 0) {
+    span.textContent = 'Sé el primero en votar';
+  } else {
+    span.textContent = `${total} ${total === 1 ? 'voto' : 'votos'}`;
+  }
+}
+
+function inicializarVotaciones() {
+  document.querySelectorAll('.votacion').forEach(cont => {
+    const id = cont.dataset.id;
+    cont.querySelectorAll('.voto-btn').forEach(b => {
+      b.onclick = () => votar(id, b.dataset.voto);
+    });
+    actualizarVotacion(id);
+  });
+}
