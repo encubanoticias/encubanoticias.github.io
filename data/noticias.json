@@ -1,42 +1,42 @@
 {
   "fecha": "2026-09-28",
-  "hora": "18:06",
-  "total": 33,
+  "hora": "20:38",
+  "total": 39,
   "noticias": [
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Subraya China apoyo firme a Cuba en aniversario 66 de relaciones",
-      "resumen": "China reafirmó hoy su apoyo firme a Cuba sin importar los cambios en el contexto internacional, a tono con el aniversario 66 del establecimiento de relaciones diplomáticas entre ambas naciones",
+      "titulo": "«La ley de la selva no puede ser el futuro de la Humanidad»",
+      "resumen": "Cuba denunció en la ONU el uso de la fuerza para socavar la soberanía de los Estados&nbsp;",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-09-28/subraya-china-apoyo-firme-a-cuba-en-aniversario-66-de-relaciones-28-09-2026-08-09-41",
+      "enlace_original": "http://www.granma.cu/mundo/2026-09-27/la-ley-de-la-selva-no-puede-ser-el-futuro-de-la-humanidad-27-09-2026-16-09-24",
       "destacada": true,
-      "tema": "subraya",
+      "tema": "selva",
       "id": 1
     },
     {
-      "categoria": "sociedad",
+      "categoria": "energia",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Celebran en Matanzas acto central nacional por Aniversario 66 de los CDR",
-      "resumen": "En el acto le fue entregada la condición de Vanguardia Nacional de los CDR a la provincia de Matanzas por sus resultados integrales, y a los territorios de Santiago de Cuba y Pinar del Río el galardón de Destacados, al tiempo que Ciudad de La Habana recibió un reconocimiento especial",
+      "titulo": "Energía solar para fortalecer los servicios de salud en Santiago de Cuba",
+      "resumen": "La instalación de estos sistemas contribuye a garantizar mayor estabilidad en servicios esenciales de esas instituciones, con un impacto directo en las comunidades donde se encuentran y en las familias que acuden diariamente a ellas",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-09-28/aniversario-66-de-los-cdr-28-09-2026-11-09-58",
+      "enlace_original": "http://www.granma.cu/cuba/2026-09-28/energia-solar-para-fortalecer-los-servicios-de-salud-en-santiago-de-cuba-28-09-2026-15-09-41",
       "destacada": true,
-      "tema": "celebran",
+      "tema": "energía",
       "id": 2
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "China y Cuba abren nuevas puertas a la formación de ingenieros",
-      "resumen": "La cooperación entre Cuba y China en materia de educación superior se amplía con la inauguración de la Escuela Cooperativa GIT-CUJAE, iniciativa conjunta del Instituto de Tecnología de Guizhou (GIT) y la Universidad Tecnológica de La Habana José Antonio Echeverría (Cujae)",
+      "titulo": "Jornada de cultura, memoria y valor para los adultos mayores de Cuba",
+      "resumen": "El país despliega un amplio programa de celebración dedicada a su población envejecida, bajo el lema Celebrando la vida, honrando la experiencia",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-09-26/china-y-cuba-abren-nuevas-puertas-a-la-formacion-de-ingenieros-26-09-2026-11-09-41",
+      "enlace_original": "http://www.granma.cu/cultura/2026-09-28/jornada-de-cultura-memoria-y-valor-para-los-adultos-mayores-de-cuba-28-09-2026-15-09-34",
       "destacada": true,
-      "tema": "china",
+      "tema": "jornada",
       "id": 3
     },
     {
@@ -55,25 +55,37 @@
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Leonardo Acosta, referente de la musicología en Cuba",
-      "resumen": "Insistió en que la música cubana y el jazz son dos nombres de una misma conversación",
+      "titulo": "Una exposición que acercó los pueblos de Cuba y China",
+      "resumen": "Cuba y China celebran hoy 66 años del establecimiento de relaciones diplomáticas. En 1961 la Exposición de la Edificación Económica de la República Popular China, presentada como la primera de su tipo en América Latina, contribuyó al acercamiento entre ambas naciones",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-09-25/leonardo-acosta-referente-de-la-musicologia-en-cuba-25-09-2026-17-09-03",
+      "enlace_original": "http://www.granma.cu/diarios-de-navegacion/2026-09-28/una-exposicion-que-acerco-los-pueblos-de-cuba-y-china-28-09-2026-14-09-05",
       "destacada": true,
-      "tema": "leonardo",
+      "tema": "exposición",
       "id": 5
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Síntesis de Cuba",
-      "resumen": "SÍNTESIS DE CUBA PARA EMISORAS DE RADIO Y TV, PERIÓDICOS Y REVISTAS The post Síntesis de Cuba first appeared on Noticias Prensa Latina.",
+      "titulo": "Participa Universidad de Oriente en reunión en China",
+      "resumen": "Santiago de Cuba, 28 sep (Prensa Latina) La Universidad de Oriente participa hoy en la Reunión de la Alianza Internacional de Cooperación Educativa China-Cuba, como parte de una delegación del Ministerio de Educación Superior, público el sitio oficial de la institución. The post Participa Universida",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/28/sintesis-de-cuba-586/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/28/participa-universidad-de-oriente-en-reunion-en-china/",
       "destacada": false,
-      "tema": "síntesis",
+      "tema": "participa",
       "id": 6
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La confusión por el nuevo precio del pasaporte provoca el caos en Guanabacoa",
+      "resumen": "Numerosos cubanos se apresuran a tramitar el documento ante la incertidumbre por el arancel que eleva a 200 dólares su precio en el exterior",
+      "imagen_url": "https://static.14ymedio.com/clip/41805abc-71b8-41c3-a8eb-836e2f31d2da_source-aspect-ratio_default_0_x512y352.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/confusion-nuevo-precio-pasaporte-provoca_1_1131310.html",
+      "destacada": false,
+      "tema": "confusión",
+      "id": 7
     },
     {
       "categoria": "energia",
@@ -85,18 +97,6 @@
       "enlace_original": "https://www.14ymedio.com/cuba/lugar-petroleo-cubanos-tendran-mezquita_1_1131282.html",
       "destacada": false,
       "tema": "lugar",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Se fuga otra joven promesa del béisbol cubano en búsqueda de las Grandes Ligas",
-      "resumen": "Informan que el reportero oficialista Giovanni Martínez dejó la delegación cubana en México, mientras cubría el Mundial de Béisbol Sub-15",
-      "imagen_url": "https://static.14ymedio.com/clip/1464275e-1182-4031-a880-c7701d6e5c10_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/deportes/fuga-joven-beisbol-cubano-busqueda_1_1131292.html",
-      "destacada": false,
-      "tema": "joven",
       "id": 8
     },
     {
@@ -136,40 +136,64 @@
       "id": 11
     },
     {
-      "categoria": "economia",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Así cierra el mercado informal en Cuba: el dólar y el euro buscando altura",
+      "titulo": "Cubana manda un paquete para su hijo en Cuba y no esperaba lo que hizo su familia",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e209395-s27061-nid341295-asi-cierra-mercado-informal-cuba-dolar-euro-buscando",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u65722-e65722-s27065-nid341394-cubana-manda-paquete-hijo-cuba-esperaba-hizo",
       "destacada": false,
-      "tema": "cierra",
+      "tema": "cubana",
       "id": 12
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Régimen cubano afirma en la ONU que está abierto a relaciones comerciales y de negocios con compañías estadounidenses",
+      "titulo": "«Que viva el amor»: Pareja de cubanas sorprende con las fotos de su boda",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e199894-s27061-nid341296-regimen-cubano-afirma-onu-esta-abierto-relaciones",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u65722-e65722-s27065-nid341393-viva-amor-pareja-cubanas-sorprende-fotos-boda",
       "destacada": false,
-      "tema": "régimen",
+      "tema": "pareja",
       "id": 13
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Esposa de cubano autodeportado suplica a congresistas una visa humanitaria para que su hija no enfrente sola su cuarta cirugía",
+      "titulo": "Falta de combustible frena las fumigaciones en Santiago de Cuba en plena infestación de mosquitos",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e208574-s27061-nid341290-esposa-cubano-autodeportado-suplica-congresistas",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e208933-s27061-nid341411-falta-combustible-frena-fumigaciones-santiago-cuba",
       "destacada": false,
-      "tema": "esposa",
+      "tema": "falta",
       "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba y México: ayer y hoy",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u208253-e192519-s27068-nid341413-cuba-mexico-ayer-hoy",
+      "destacada": false,
+      "tema": "méxico",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Al menos 89 jóvenes murieron durante el Servicio Militar en Cuba en una década, con fuerte aumento entre 2022 y 2025",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e207888-s27061-nid341407-al-menos-89-jovenes-murieron-durante-servicio",
+      "destacada": false,
+      "tema": "menos",
+      "id": 16
     },
     {
       "categoria": "politica",
@@ -181,7 +205,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/destacados/cuba-denuncia-en-la-onu-el-bloqueo-energetico-de-eeuu-y-alerta-sobre-el-avance-del-expansionismo/",
       "destacada": false,
       "tema": "denuncia",
-      "id": 15
+      "id": 17
     },
     {
       "categoria": "politica",
@@ -193,7 +217,7 @@
       "enlace_original": "https://www.radiocubana.cu/eventos/comienza-edicion-36-del-taller-y-concurso-nacional-de-la-radio-joven-antonio-lloga-in-memoriam/",
       "destacada": false,
       "tema": "comienza",
-      "id": 16
+      "id": 18
     },
     {
       "categoria": "politica",
@@ -205,7 +229,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-cada-voz-en-cuba-importa-episodio-01/",
       "destacada": false,
       "tema": "criterio",
-      "id": 17
+      "id": 19
     },
     {
       "categoria": "politica",
@@ -217,7 +241,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-sobre-transformaciones-economicas-y-sociales-en-cuba/",
       "destacada": false,
       "tema": "criterio",
-      "id": 18
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -229,55 +253,19 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/podcast-a-contracorriente-capitulo-49-cuba-y-la-inteligencia-artificial/",
       "destacada": false,
       "tema": "podcast",
-      "id": 19
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "El fuego, símbolo de rebeldía",
-      "resumen": "Frente a las amenazas de invasión militar proclamadas por la actual administración norteamericana, esas llamas simbolizan el espíritu de lucha de los cubanos y su disposición de defender la soberanía nacional al precio de cualquier sacrificio",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20260928/el-fuego-simbolo-de-rebeldia/",
-      "destacada": false,
-      "tema": "fuego",
-      "id": 20
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Con bloqueo, cuesta más",
-      "resumen": "El Informe de Cuba sobre las afectaciones del bloqueo de EE. UU. contra nuestro país entre marzo del 2025 y febrero del 2026 cuantifica daños por 8 mil 83,3 millones de dólares, cifra récord para un período anual",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20260927/con-bloqueo-cuesta-mas/",
-      "destacada": false,
-      "tema": "bloqueo",
       "id": 21
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "El magisterio de una bailarina",
-      "resumen": "María Elena Llorente, figura esencial del Ballet Nacional de Cuba, falleció el pasado 21 de septiembre en La Habana",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20260927/el-magisterio-de-una-bailarina/",
-      "destacada": false,
-      "tema": "magisterio",
-      "id": 22
-    },
-    {
       "categoria": "politica",
-      "fuente": "https://www.trabajadores.cu",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Voleibol cubano: Después de la feliz resaca",
-      "resumen": "Trabajadores dialogó con Osvaldo Martínez, presidente de la Federación Cubana de Voleibol después que la selección masculina clasificara para los Juegos Olímpicos de Los Ángeles 2028",
+      "titulo": "La Justicia de Colombia condena a la cúpula del ELN por el reclutamiento forzado de 60 menores",
+      "resumen": "Dos miembros del #ELN que permanecieron en #Cuba durante los diálogos de paz con el Gobierno de #Colombia son sentenciados por reclutar a decenas de menores de entre ocho y 17 años de edad.",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20260927/voleibol-cubano-despues-de-la-feliz-resaca/",
+      "enlace_original": "https://diariodecuba.com/internacional/1790624583_69158.html",
       "destacada": false,
-      "tema": "voleibol",
-      "id": 23
+      "tema": "justicia",
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -289,7 +277,7 @@
       "enlace_original": "https://diariodecuba.com/deportes/1790616881_69155.html",
       "destacada": false,
       "tema": "habana",
-      "id": 24
+      "id": 23
     },
     {
       "categoria": "politica",
@@ -301,7 +289,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790613572_69154.html",
       "destacada": false,
       "tema": "freno",
-      "id": 25
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -313,7 +301,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790612591_69146.html",
       "destacada": false,
       "tema": "conexión",
-      "id": 26
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -325,79 +313,163 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790609773_69153.html",
       "destacada": false,
       "tema": "aeropuerto",
+      "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Otros dos accidentes laborales ponen en foco la falta de compensación para los trabajadores en Cuba",
+      "resumen": "Dos nuevos accidentes de trabajo han reavivado el debate sobre un marco legal que, lejos de amparar a las víctimas, deja desprotegidos a quienes quedan incapacitados o pierden la vida en el cumplimiento de sus labores.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/otros-dos-accidentes-laborales-ponen-en-foco-la-falta-de-compensaci%c3%b3n-para-los-trabajadores-en-cuba/480831.html",
+      "destacada": false,
+      "tema": "otros",
       "id": 27
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "'El Gobierno se ha deshecho del pueblo', dice un exinternacionalista cubano",
-      "resumen": "",
+      "titulo": "Las Noticias Como Son",
+      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1790608980_69124.html",
+      "enlace_original": "https://www.martinoticias.com/a/477704.html",
       "destacada": false,
-      "tema": "gobierno",
+      "tema": "noticias",
       "id": 28
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba Demanda denuncia cómo el régimen intenta imponer más presión sobre influencer cubana Anna Bensi y su madre",
-      "resumen": "Organización denuncia que la Seguridad del Estado busca imponer más presión sobre influencer Anna Bensi y su madre",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Ineymig Hernández sube a Cuba al podio del ajedrez mundial",
+      "resumen": "Ineymig Hernández conquistó la medalla de plata en el cuarto tablero de la 46 Olimpiada Mundial de Ajedrez, que concluyó este domingo en Uzbekistán, con una actuación invicta de 8 puntos en 9 rondas. Con siete victorias y dos tablas, sin conocer la derrota, y un rendimiento de 2443 puntos Elo, la jo",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-demanda-denuncia-c%c3%b3mo-el-r%c3%a9gimen-intenta-imponer-m%c3%a1s-presi%c3%b3n-sobre-influencer-cubana-anna-bensi-y-su-madre/480827.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/28/ineymig-hernandez-sube-a-cuba-al-podio-del-ajedrez-mundial/",
       "destacada": false,
-      "tema": "demanda",
+      "tema": "ineymig",
       "id": 29
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
+      "categoria": "politica",
+      "fuente": "https://periodismodebarrio.org",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "\\",
+      "titulo": "Los rectángulos oscuros que dividen a Cuba",
+      "resumen": "Mientras el gobierno cubano intenta impulsar una transición energética, la desigualdad crece y las soluciones individuales ganan terreno frente a un problema colectivo.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/477701.html",
+      "enlace_original": "https://periodismodebarrio.org/los-rectangulos-oscuros-que-dividen-a-cuba/",
       "destacada": false,
-      "tema": "",
+      "tema": "rectángulos",
       "id": 30
     },
     {
-      "categoria": "economia",
-      "fuente": "https://www.martinoticias.com",
+      "categoria": "sociedad",
+      "fuente": "https://periodismodebarrio.org",
       "fuente_tipo": "alternativa",
-      "titulo": "Martí Noticias AM",
-      "resumen": "Revista informativa con los últimos acontecimientos ocurridos en Cuba y el mundo. Con entrevistas y temas de actualidad relacionados a la política, la economía y de interés general.",
+      "titulo": "Maternidades desterradas: el costo infantil del presidio político en Cuba",
+      "resumen": "El traslado de Lizandra Góngora a una prisión insular convirtió la distancia, la pobreza y las restricciones penitenciarias en obstáculos para el vínculo con sus hijos.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/mart%c3%ad-noticias-am/480810.html",
+      "enlace_original": "https://periodismodebarrio.org/maternidades-desterradas-el-costo-infantil-del-presidio-politico-en-cuba/",
       "destacada": false,
-      "tema": "martí",
+      "tema": "maternidades",
       "id": 31
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
+      "fuente": "https://periodismodebarrio.org",
       "fuente_tipo": "alternativa",
-      "titulo": "Los cubanos fueron pocos, pero hicieron mucho ruido en las Mayores",
-      "resumen": "Fueron 31 los cubanos que participaron en la recién concluida campaña regular de Grandes Ligas, y aunque no se llegó al récord de 34 nacidos en la isla que jugaron el año pasado, sí hicieron mucho ruido, al dominar múltiples categorías estadísticas.",
+      "titulo": "Maferefún Regla",
+      "resumen": "Cientos de cubanos acompañan la procesión de la Virgen de Regla, uniendo fe, tradición y esperanza ante la crisis en Cuba.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/los-cubanos-fueron-pocos-pero-hicieron-mucho-ruido-en-las-mayores/480825.html",
+      "enlace_original": "https://periodismodebarrio.org/maferefun-regla/",
       "destacada": false,
-      "tema": "cubanos",
+      "tema": "maferefún",
       "id": 32
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
+      "categoria": "economia",
+      "fuente": "https://periodismodebarrio.org",
       "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Martí Noticias",
-      "resumen": "-Denuncian ante la Comisión Interamericana de -Derechos Humanos restricciones de visitas a preso político. -Observatorio Alas Tensas verifica nuevo feminicidio en Cuba y eleva la cifra anual a 54 casos. -Nueva avería provoca otro corte de gas en varios municipios de La Habana.",
+      "titulo": "El lucrativo negocio de la salud: farmacias privadas en Cuba",
+      "resumen": "El 4 de agosto pasado entró en vigor el Decreto 160, la norma que autoriza a mipymes privadas y cooperativas no agropecuarias —por primera vez desde 1968— a prestar servicios farmacéuticos en Cuba.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/noticiero-de-mart%c3%ad-noticias/480822.html",
+      "enlace_original": "https://periodismodebarrio.org/farmacias-privadas-en-cuba/",
       "destacada": false,
-      "tema": "noticiero",
+      "tema": "lucrativo",
       "id": 33
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://periodismodebarrio.org",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Qué dice el informe de Human Rights Watch sobre los derechos humanos en Cuba?",
+      "resumen": "Entre el 1 de enero y el 31 de diciembre de 2025 se documentaron 1.279 eventos que implicaron violaciones de derechos humanos en Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://periodismodebarrio.org/informe-human-rights-watch-derechos-humanos-cuba/",
+      "destacada": false,
+      "tema": "informe",
+      "id": 34
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Fidel Castro ilumina a la ONU",
+      "resumen": "Noel Manzanares Blanco* - Radio Cadena Agramonte - Cubainformación.- Si la ONU no existiera, emerger...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125222-fidel-castro-ilumina-a-la-onu.jpg?t=1790599681",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20260928/125222/125222-fidel-castro-ilumina-a-la-onu",
+      "destacada": false,
+      "tema": "fidel",
+      "id": 35
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba tuvo una amplia presencia en la Fiesta del PCE 2026 con música, debates, cine y mucha solidaridad",
+      "resumen": "Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125221-cuba-tuvo-una-amplia-presencia-en-la-fiesta-del-pce-2026-con-musica-debates-cine-y-mucha-solidaridad.jpg?t=1790588414",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20260928/125221/125221-cuba-tuvo-una-amplia-presencia-en-la-fiesta-del-pce-2026-con-musica-debates-cine-y-mucha-solidaridad",
+      "destacada": false,
+      "tema": "amplia",
+      "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "La cooperación educativa cubana internacional, protagonista en las Jornades Solidàries de Mollet del Vallès",
+      "resumen": "Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125220-la-cooperacion-educativa-cubana-internacional-protagonista-en-las-jornades-solidaries-de-mollet-del-valles.jpg?t=1790585873",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20260928/125220/125220-la-cooperacion-educativa-cubana-internacional-protagonista-en-las-jornades-solidaries-de-mollet-del-valles",
+      "destacada": false,
+      "tema": "cooperación",
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba y Estados Unidos: el diálogo sin avances",
+      "resumen": "Por Raúl Capote* - Original en Granma",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125218-cuba-y-estados-unidos-el-dialogo-sin-avances.jpg?t=1790578774",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20260928/125218/125218-cuba-y-estados-unidos-el-dialogo-sin-avances",
+      "destacada": false,
+      "tema": "estados",
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Un desespero en Miami mientras Trump le tira otro cubo de agua fría",
+      "resumen": "El Titan de #Cuba",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125217-un-desespero-en-miami-mientras-trump-le-tira-otro-cubo-de-agua-fria.jpg?t=1790578735",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20260928/125217/125217-un-desespero-en-miami-mientras-trump-le-tira-otro-cubo-de-agua-fria",
+      "destacada": false,
+      "tema": "desespero",
+      "id": 39
     }
   ]
 }
