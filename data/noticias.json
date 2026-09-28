@@ -1,8 +1,20 @@
 {
   "fecha": "2026-09-28",
-  "hora": "12:06",
-  "total": 33,
+  "hora": "13:06",
+  "total": 28,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Subraya China apoyo firme a Cuba en aniversario 66 de relaciones",
+      "resumen": "China reafirmó hoy su apoyo firme a Cuba sin importar los cambios en el contexto internacional, a tono con el aniversario 66 del establecimiento de relaciones diplomáticas entre ambas naciones",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-09-28/subraya-china-apoyo-firme-a-cuba-en-aniversario-66-de-relaciones-28-09-2026-08-09-41",
+      "destacada": true,
+      "tema": "subraya",
+      "id": 1
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
@@ -13,7 +25,7 @@
       "enlace_original": "http://www.granma.cu/cuba/2026-09-26/china-y-cuba-abren-nuevas-puertas-a-la-formacion-de-ingenieros-26-09-2026-11-09-41",
       "destacada": true,
       "tema": "china",
-      "id": 1
+      "id": 2
     },
     {
       "categoria": "politica",
@@ -25,7 +37,7 @@
       "enlace_original": "http://www.granma.cu/cuba/2026-09-25/dignidad-y-unidad-premisas-para-defender-la-patria-25-09-2026-15-09-58",
       "destacada": true,
       "tema": "dignidad",
-      "id": 2
+      "id": 3
     },
     {
       "categoria": "salud",
@@ -37,7 +49,7 @@
       "enlace_original": "http://www.granma.cu/cultura/2026-09-27/de-alta-medica-y-en-recuperacion-pedrito-calvo-luego-de-percance-de-salud-en-panama-27-09-2026-17-09-42",
       "destacada": true,
       "tema": "médica",
-      "id": 3
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -49,19 +61,19 @@
       "enlace_original": "http://www.granma.cu/cultura/2026-09-25/leonardo-acosta-referente-de-la-musicologia-en-cuba-25-09-2026-17-09-03",
       "destacada": true,
       "tema": "leonardo",
-      "id": 4
+      "id": 5
     },
     {
-      "categoria": "sociedad",
+      "categoria": "energia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El químico suma cuerpos desplomados al paisaje de La Habana",
-      "resumen": "En San Lázaro, un joven vencido contra una pared apenas consigue llamar la atención de quienes pasan a su lado",
-      "imagen_url": "https://static.14ymedio.com/clip/6c785108-f0c6-48c7-8877-42e633630522_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/quimico-suma-cuerpos-desplomados-paisaje_1_1131260.html",
-      "destacada": true,
-      "tema": "químico",
-      "id": 5
+      "titulo": "En lugar de petróleo, los cubanos tendrán una mezquita de 9 millones de dólares financiada por Arabia Saudí",
+      "resumen": "La constructora portuguesa Engimov, encargada de la obra, ha cercado el terreno colindante con la termoeléctrica de Tallapiedra, en La Habana",
+      "imagen_url": "https://static.14ymedio.com/clip/27ac4c06-937e-460c-adf2-cb4e51148941_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/lugar-petroleo-cubanos-tendran-mezquita_1_1131282.html",
+      "destacada": false,
+      "tema": "lugar",
+      "id": 6
     },
     {
       "categoria": "economia",
@@ -73,7 +85,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/regimen-cubano-sigue-empeno-reformar_1_1131275.html",
       "destacada": false,
       "tema": "régimen",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -85,7 +97,19 @@
       "enlace_original": "https://www.14ymedio.com/cuba/canciller-cubano-agradece-permanente-solidaridad_1_1131271.html",
       "destacada": false,
       "tema": "canciller",
-      "id": 7
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El químico suma cuerpos desplomados al paisaje de La Habana",
+      "resumen": "En San Lázaro, un joven vencido contra una pared apenas consigue llamar la atención de quienes pasan a su lado",
+      "imagen_url": "https://static.14ymedio.com/clip/6c785108-f0c6-48c7-8877-42e633630522_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/quimico-suma-cuerpos-desplomados-paisaje_1_1131260.html",
+      "destacada": false,
+      "tema": "químico",
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -97,66 +121,42 @@
       "enlace_original": "https://www.14ymedio.com/cuba/ministerio-interior-guarda-silencio-nuevo_1_1131247.html",
       "destacada": false,
       "tema": "ministerio",
-      "id": 8
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Salud Pública admite un deterioro de la situación epidemiológica en Cuba",
-      "resumen": "La viceministra vincula el aumento de los contagios a los problemas con el saneamiento, el tratamiento del agua y la recogida de residuos",
-      "imagen_url": "https://static.14ymedio.com/clip/790b58d6-34d7-43f4-9af5-05fa3a97c01b_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/salud-publica-admite-deterioro-situacion_1_1131251.html",
-      "destacada": false,
-      "tema": "salud",
-      "id": 9
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Dos años sin agua en Mantilla y en dos días lo resuelven: «Todo porque dicen que viene Díaz-Canel»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-08-29-u1-e199894-s27061-nid339075-dos-anos-agua-mantilla-dos-dias-resuelven-todo",
-      "destacada": false,
-      "tema": "mantilla",
       "id": 10
     },
     {
-      "categoria": "energia",
+      "categoria": "economia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "PCC califica el inicio del curso escolar como «otro acto de heroísmo» mientras cubanos denuncian hambre y apagones",
+      "titulo": "Así cierra el mercado informal en Cuba: el dólar y el euro buscando altura",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-08-29-u1-e208512-s27061-nid339077-pcc-califica-inicio-curso-escolar-otro-acto-heroismo",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e209395-s27061-nid341295-asi-cierra-mercado-informal-cuba-dolar-euro-buscando",
       "destacada": false,
-      "tema": "califica",
+      "tema": "cierra",
       "id": 11
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Se desata incendio en La Habana Vieja: Vecinos culpan a la inestabilidad de la corriente",
+      "titulo": "Régimen cubano afirma en la ONU que está abierto a relaciones comerciales y de negocios con compañías estadounidenses",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-08-29-u1-e208574-s27061-nid339074-desata-incendio-habana-vieja-vecinos-culpan",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e199894-s27061-nid341296-regimen-cubano-afirma-onu-esta-abierto-relaciones",
       "destacada": false,
-      "tema": "desata",
+      "tema": "régimen",
       "id": 12
     },
     {
-      "categoria": "energia",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Activista cubana cuestiona que maestros y alumnos puedan rendir en un aula tras horas de apagones",
+      "titulo": "Esposa de cubano autodeportado suplica a congresistas una visa humanitaria para que su hija no enfrente sola su cuarta cirugía",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-08-29-u1-e208512-s27061-nid339072-activista-cubana-cuestiona-maestros-alumnos-puedan",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e208574-s27061-nid341290-esposa-cubano-autodeportado-suplica-congresistas",
       "destacada": false,
-      "tema": "activista",
+      "tema": "esposa",
       "id": 13
     },
     {
@@ -220,66 +220,6 @@
       "id": 18
     },
     {
-      "categoria": "economia",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Con bloqueo, cuesta más",
-      "resumen": "El Informe de Cuba sobre las afectaciones del bloqueo de EE. UU. contra nuestro país entre marzo del 2025 y febrero del 2026 cuantifica daños por 8 mil 83,3 millones de dólares, cifra récord para un período anual",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20260927/con-bloqueo-cuesta-mas/",
-      "destacada": false,
-      "tema": "bloqueo",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "El magisterio de una bailarina",
-      "resumen": "María Elena Llorente, figura esencial del Ballet Nacional de Cuba, falleció el pasado 21 de septiembre en La Habana",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20260927/el-magisterio-de-una-bailarina/",
-      "destacada": false,
-      "tema": "magisterio",
-      "id": 20
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Voleibol cubano: Después de la feliz resaca",
-      "resumen": "Trabajadores dialogó con Osvaldo Martínez, presidente de la Federación Cubana de Voleibol después que la selección masculina clasificara para los Juegos Olímpicos de Los Ángeles 2028",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20260927/voleibol-cubano-despues-de-la-feliz-resaca/",
-      "destacada": false,
-      "tema": "voleibol",
-      "id": 21
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Solidaridad italiana impulsa la cultura cubana",
-      "resumen": "Miembros del movimiento italiano Ruta a Cuba entregaron en La Habana un cargamento solidario compuesto por paneles solares destinados a instituciones culturales de la capital",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20260927/solidaridad-italiana-impulsa-la-cultura-cubana/",
-      "destacada": false,
-      "tema": "solidaridad",
-      "id": 22
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Silvio Rodríguez vuelve a conmover al público sevillano durante su gira por España",
-      "resumen": "El trovador cubano Silvio Rodríguez volvió a encontrarse este fin de semana con el público sevillano, al que conmovió durante dos conciertos celebrados en el Palacio de Congresos y Exposiciones FIBES",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20260927/silvio-rodriguez-vuelve-a-conmover-al-publico-sevillano-durante-su-gira-por-espana/",
-      "destacada": false,
-      "tema": "silvio",
-      "id": 23
-    },
-    {
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
@@ -289,7 +229,7 @@
       "enlace_original": "https://diariodecuba.com/derechos-humanos/1790594177_69150.html",
       "destacada": false,
       "tema": "aplazado",
-      "id": 24
+      "id": 19
     },
     {
       "categoria": "economia",
@@ -301,7 +241,7 @@
       "enlace_original": "https://diariodecuba.com/economia/1790593367_69068.html",
       "destacada": false,
       "tema": "viene",
-      "id": 25
+      "id": 20
     },
     {
       "categoria": "politica",
@@ -313,7 +253,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790592269_69149.html",
       "destacada": false,
       "tema": "china",
-      "id": 26
+      "id": 21
     },
     {
       "categoria": "economia",
@@ -325,7 +265,7 @@
       "enlace_original": "https://diariodecuba.com/economia/1790588648_69148.html",
       "destacada": false,
       "tema": "expertos",
-      "id": 27
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -337,7 +277,19 @@
       "enlace_original": "https://diariodecuba.com/economia/1790587163_69147.html",
       "destacada": false,
       "tema": "fernández",
-      "id": 28
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "ICLEP condena prisión preventiva contra el periodista Henry Constantín",
+      "resumen": "El Instituto Cubano por la Libertad de Expresión y Prensa (ICLEP) condenó la prisión preventiva impuesta al periodista cubano Henry Constantín Ferreiro y la calificó de arbitraria y desproporcionada, en medio de denuncias por una presunta persecución sostenida contra su labor periodística.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/iclep-condena-prisi%c3%b3n-preventiva-contra-el-periodista-henry-constant%c3%adn/480808.html",
+      "destacada": false,
+      "tema": "iclep",
+      "id": 24
     },
     {
       "categoria": "economia",
@@ -349,7 +301,7 @@
       "enlace_original": "https://www.martinoticias.com/a/477692.html",
       "destacada": false,
       "tema": "martí",
-      "id": 29
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -361,7 +313,7 @@
       "enlace_original": "https://www.martinoticias.com/a/cuba-habla-mi-futuro-yo-lo-veo-incierto/480458.html",
       "destacada": false,
       "tema": "habla",
-      "id": 30
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -373,7 +325,7 @@
       "enlace_original": "https://www.martinoticias.com/a/480806.html",
       "destacada": false,
       "tema": "revista",
-      "id": 31
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -385,19 +337,7 @@
       "enlace_original": "https://www.martinoticias.com/a/480805.html",
       "destacada": false,
       "tema": "revista",
-      "id": 32
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Colapso de dos viviendas en Camagüey reaviva alarmas por crisis habitacional en Cuba (VIDEO)",
-      "resumen": "La oscuridad de un apagón nocturno en Camagüey no pudo ocultar el estruendo de una tragedia evitable: el derrumbe de dos inmuebles frente al parque Cristo. Esta vez, la fortuna estuvo del lado de dos ancianos rescatados de las ruinas, pero el incidente es la evidencia de una realidad nacional.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/colapso-de-dos-viviendas-en-camag%c3%bcey-reaviva-las-alarmas-por-crisis-habitacional-en-cuba/480765.html",
-      "destacada": false,
-      "tema": "colapso",
-      "id": 33
+      "id": 28
     }
   ]
 }
