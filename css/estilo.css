@@ -506,3 +506,68 @@ body.oscuro .categoria { background: rgba(255,255,255,0.1); color: #7EB6FF; }
 .version[data-tipo="oficial"] small { color: var(--oficial); }
 .version[data-tipo="alternativa"] small { color: var(--alternativa); }
 .version[data-tipo="internacional"] small { color: var(--internacional); }
+
+.info-icon {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+  background: var(--azul);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 0.75rem;
+  cursor: pointer;
+  margin-left: 0.4rem;
+  vertical-align: middle;
+}
+
+.info-icon:hover { background: var(--rojo); }
+
+.modal-info {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.7);
+  z-index: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.modal-info.oculto { display: none; }
+
+.modal-caja {
+  background: var(--bg-card);
+  color: var(--texto);
+  padding: 1.5rem;
+  border-radius: 12px;
+  max-width: 400px;
+  width: 100%;
+}
+
+.modal-caja h3 {
+  color: var(--azul);
+  margin-bottom: 0.75rem;
+  font-size: 1.1rem;
+}
+
+.modal-caja p {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--texto-suave);
+  margin-bottom: 0.75rem;
+}
+
+.modal-caja button {
+  background: var(--azul);
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  width: 100%;
+}
+
+body.oscuro .modal-caja h3 { color: #7EB6FF; }
