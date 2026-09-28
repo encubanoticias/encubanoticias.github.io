@@ -153,8 +153,8 @@ def main():
     unicas = balanceadas
    
     def extraer_tema(titulo):
-    t = titulo.lower()
-    temas_fijos = {
+      t = titulo.lower()
+      temas_fijos = {
         "tipo_cambio": ["dólar", "dolar", "euro", "tasa de cambio", "divisa", "cambio de divisa", "bcc", "el toque"],
         "apagones": ["apagón", "apagon", "déficit eléctrico", "une"],
         "mipymes": ["mipyme", "cuentapropista", "pyme"],
