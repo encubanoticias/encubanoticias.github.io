@@ -1,7 +1,7 @@
 {
   "fecha": "2026-09-28",
-  "hora": "11:05",
-  "total": 29,
+  "hora": "12:06",
+  "total": 33,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -53,27 +53,39 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Vietnam y Cuba evalúan potencialidades para elevar lazos deportivos",
-      "resumen": "Hanoi, 28 sep (Prensa Latina) Vietnam y Cuba evaluaron hoy las potencialidades respectivas para elevar la cooperación en materia deportiva en la formación de atletas, el intercambio de estudiantes y profesores, y de investigaciones conjuntas. The post Vietnam y Cuba evalúan potencialidades para elev",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/28/vietnam-y-cuba-evaluan-potencialidades-para-elevar-lazos-deportivos/",
-      "destacada": true,
-      "tema": "vietnam",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
       "titulo": "El químico suma cuerpos desplomados al paisaje de La Habana",
       "resumen": "En San Lázaro, un joven vencido contra una pared apenas consigue llamar la atención de quienes pasan a su lado",
       "imagen_url": "https://static.14ymedio.com/clip/6c785108-f0c6-48c7-8877-42e633630522_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/quimico-suma-cuerpos-desplomados-paisaje_1_1131260.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "químico",
+      "id": 5
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El régimen cubano sigue en su empeño de reformar la economía sin hacer cambios políticos",
+      "resumen": "Pedro Monreal sostiene que la liberalización quedará limitada mientras el Estado mantenga el control sobre las reglas de acceso y decisión",
+      "imagen_url": "https://static.14ymedio.com/clip/81d84b42-21de-40b8-a1e0-afec74768692_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/regimen-cubano-sigue-empeno-reformar_1_1131275.html",
+      "destacada": false,
+      "tema": "régimen",
       "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El canciller cubano agradece la “permanente solidaridad” de los amigos del régimen en EE UU",
+      "resumen": "Bruno Rodríguez denuncia la “feroz agresión” de Washington y califica el “bloqueo energético” de “acto de guerra”",
+      "imagen_url": "https://static.14ymedio.com/clip/0668f23b-a5f0-4240-9127-629de34f7812_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/canciller-cubano-agradece-permanente-solidaridad_1_1131271.html",
+      "destacada": false,
+      "tema": "canciller",
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -85,18 +97,6 @@
       "enlace_original": "https://www.14ymedio.com/cuba/ministerio-interior-guarda-silencio-nuevo_1_1131247.html",
       "destacada": false,
       "tema": "ministerio",
-      "id": 7
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Jesús Cruz: la estrategia detrás del regreso del voleibol cubano a los Juegos Olímpicos",
-      "resumen": "El entrenador principal del equipo explica cómo lograron el triunfo sobre Canadá, seis años después de la eliminación en Vancouver",
-      "imagen_url": "https://static.14ymedio.com/clip/5d2315c1-b8d3-44d5-8d15-9fb27909d27b_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/deportes/jesus-cruz-estrategia-detras-regreso_1_1131255.html",
-      "destacada": false,
-      "tema": "jesús",
       "id": 8
     },
     {
@@ -112,64 +112,52 @@
       "id": 9
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Más sanciones y más comercio: EE UU ya es el principal proveedor de Cuba",
-      "resumen": "Pasó del décimo al primer puesto entre los socios comerciales de la Isla y dejó atrás a España y China, que encabezaban la lista",
-      "imagen_url": "https://static.14ymedio.com/clip/eda49254-853f-4327-9269-4f7fe2fa69f9_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/sanciones-comercio-ee-uu-principal_1_1131225.html",
-      "destacada": false,
-      "tema": "sanciones",
-      "id": 10
-    },
-    {
-      "categoria": "economia",
+      "categoria": "politica",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Gran Maestro Lázaro Bruzón: en Cuba «tenemos lo peor en la economía... lo peor en el orden social»",
+      "titulo": "Dos años sin agua en Mantilla y en dos días lo resuelven: «Todo porque dicen que viene Díaz-Canel»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e209395-s27061-nid341365-gran-maestro-lazaro-bruzon-cuba-tenemos-peor",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-08-29-u1-e199894-s27061-nid339075-dos-anos-agua-mantilla-dos-dias-resuelven-todo",
       "destacada": false,
-      "tema": "maestro",
-      "id": 11
+      "tema": "mantilla",
+      "id": 10
     },
     {
       "categoria": "energia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubana: «Al estrés, al apagón, la falta de agua... se suma la pandemia de la droga»",
+      "titulo": "PCC califica el inicio del curso escolar como «otro acto de heroísmo» mientras cubanos denuncian hambre y apagones",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e209395-s27061-nid341362-cubana-al-estres-al-apagon-falta-agua-suma-pandemia",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-08-29-u1-e208512-s27061-nid339077-pcc-califica-inicio-curso-escolar-otro-acto-heroismo",
       "destacada": false,
-      "tema": "cubana",
-      "id": 12
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Así cierra el mercado informal en Cuba: el dólar y el euro terminan el domingo al alza",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e197721-s27061-nid341363-asi-cierra-mercado-informal-cuba-dolar-euro-terminan",
-      "destacada": false,
-      "tema": "cierra",
-      "id": 13
+      "tema": "califica",
+      "id": 11
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Yordan Álvarez hace historia: cuarto cubano en conquistar un título de bateo en MLB",
+      "titulo": "Se desata incendio en La Habana Vieja: Vecinos culpan a la inestabilidad de la corriente",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-28-u1-e197721-s27066-nid341361-yordan-alvarez-hace-historia-cuarto-cubano",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-08-29-u1-e208574-s27061-nid339074-desata-incendio-habana-vieja-vecinos-culpan",
       "destacada": false,
-      "tema": "yordan",
-      "id": 14
+      "tema": "desata",
+      "id": 12
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Activista cubana cuestiona que maestros y alumnos puedan rendir en un aula tras horas de apagones",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-08-29-u1-e208512-s27061-nid339072-activista-cubana-cuestiona-maestros-alumnos-puedan",
+      "destacada": false,
+      "tema": "activista",
+      "id": 13
     },
     {
       "categoria": "politica",
@@ -181,7 +169,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/destacados/cuba-denuncia-en-la-onu-el-bloqueo-energetico-de-eeuu-y-alerta-sobre-el-avance-del-expansionismo/",
       "destacada": false,
       "tema": "denuncia",
-      "id": 15
+      "id": 14
     },
     {
       "categoria": "politica",
@@ -193,7 +181,7 @@
       "enlace_original": "https://www.radiocubana.cu/eventos/comienza-edicion-36-del-taller-y-concurso-nacional-de-la-radio-joven-antonio-lloga-in-memoriam/",
       "destacada": false,
       "tema": "comienza",
-      "id": 16
+      "id": 15
     },
     {
       "categoria": "politica",
@@ -205,7 +193,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-cada-voz-en-cuba-importa-episodio-01/",
       "destacada": false,
       "tema": "criterio",
-      "id": 17
+      "id": 16
     },
     {
       "categoria": "politica",
@@ -217,7 +205,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-sobre-transformaciones-economicas-y-sociales-en-cuba/",
       "destacada": false,
       "tema": "criterio",
-      "id": 18
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -229,7 +217,79 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/podcast-a-contracorriente-capitulo-49-cuba-y-la-inteligencia-artificial/",
       "destacada": false,
       "tema": "podcast",
+      "id": 18
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Con bloqueo, cuesta más",
+      "resumen": "El Informe de Cuba sobre las afectaciones del bloqueo de EE. UU. contra nuestro país entre marzo del 2025 y febrero del 2026 cuantifica daños por 8 mil 83,3 millones de dólares, cifra récord para un período anual",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260927/con-bloqueo-cuesta-mas/",
+      "destacada": false,
+      "tema": "bloqueo",
       "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "El magisterio de una bailarina",
+      "resumen": "María Elena Llorente, figura esencial del Ballet Nacional de Cuba, falleció el pasado 21 de septiembre en La Habana",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260927/el-magisterio-de-una-bailarina/",
+      "destacada": false,
+      "tema": "magisterio",
+      "id": 20
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Voleibol cubano: Después de la feliz resaca",
+      "resumen": "Trabajadores dialogó con Osvaldo Martínez, presidente de la Federación Cubana de Voleibol después que la selección masculina clasificara para los Juegos Olímpicos de Los Ángeles 2028",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260927/voleibol-cubano-despues-de-la-feliz-resaca/",
+      "destacada": false,
+      "tema": "voleibol",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Solidaridad italiana impulsa la cultura cubana",
+      "resumen": "Miembros del movimiento italiano Ruta a Cuba entregaron en La Habana un cargamento solidario compuesto por paneles solares destinados a instituciones culturales de la capital",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260927/solidaridad-italiana-impulsa-la-cultura-cubana/",
+      "destacada": false,
+      "tema": "solidaridad",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Silvio Rodríguez vuelve a conmover al público sevillano durante su gira por España",
+      "resumen": "El trovador cubano Silvio Rodríguez volvió a encontrarse este fin de semana con el público sevillano, al que conmovió durante dos conciertos celebrados en el Palacio de Congresos y Exposiciones FIBES",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260927/silvio-rodriguez-vuelve-a-conmover-al-publico-sevillano-durante-su-gira-por-espana/",
+      "destacada": false,
+      "tema": "silvio",
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Aplazado el juicio a la influencer Anna Bensi y su madre por supuesto 'delito contra la intimidad'",
+      "resumen": "#SOSCuba: El policía que acusa a #AnnaBensi y su madre de \"delito contra la intimidad personal y familiar\" quiere que graben un video de disculpa, pero su abogado quiere otra cosa. Mientras, el juicio ha sido aplazado. La joven recuerda que está a punto de cumplirse un año desde que publicó su prime",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1790594177_69150.html",
+      "destacada": false,
+      "tema": "aplazado",
+      "id": 24
     },
     {
       "categoria": "economia",
@@ -241,7 +301,7 @@
       "enlace_original": "https://diariodecuba.com/economia/1790593367_69068.html",
       "destacada": false,
       "tema": "viene",
-      "id": 20
+      "id": 25
     },
     {
       "categoria": "politica",
@@ -253,7 +313,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790592269_69149.html",
       "destacada": false,
       "tema": "china",
-      "id": 21
+      "id": 26
     },
     {
       "categoria": "economia",
@@ -265,7 +325,7 @@
       "enlace_original": "https://diariodecuba.com/economia/1790588648_69148.html",
       "destacada": false,
       "tema": "expertos",
-      "id": 22
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -277,19 +337,19 @@
       "enlace_original": "https://diariodecuba.com/economia/1790587163_69147.html",
       "destacada": false,
       "tema": "fernández",
-      "id": 23
+      "id": 28
     },
     {
-      "categoria": "energia",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "economia",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La Guiteras vuelve al sistema y eleva cargas, pero Cuba sigue hundida en apagones de más de 20 horas",
-      "resumen": "Tras más de una semana fuera de servicio, el mayor bloque unitario de generación de #Cuba volvió a conectarse al #SistemaEléctricoNacional, pero los apagones siguen siendo críticos.",
+      "titulo": "Martí Noticias AM",
+      "resumen": "Revista informativa con los últimos acontecimientos ocurridos en Cuba y el mundo. Con entrevistas y temas de actualidad relacionados a la política, la economía y de interés general.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1790574882_69145.html",
+      "enlace_original": "https://www.martinoticias.com/a/477692.html",
       "destacada": false,
-      "tema": "guiteras",
-      "id": 24
+      "tema": "martí",
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -301,7 +361,7 @@
       "enlace_original": "https://www.martinoticias.com/a/cuba-habla-mi-futuro-yo-lo-veo-incierto/480458.html",
       "destacada": false,
       "tema": "habla",
-      "id": 25
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -313,7 +373,7 @@
       "enlace_original": "https://www.martinoticias.com/a/480806.html",
       "destacada": false,
       "tema": "revista",
-      "id": 26
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -325,7 +385,7 @@
       "enlace_original": "https://www.martinoticias.com/a/480805.html",
       "destacada": false,
       "tema": "revista",
-      "id": 27
+      "id": 32
     },
     {
       "categoria": "energia",
@@ -337,19 +397,7 @@
       "enlace_original": "https://www.martinoticias.com/a/colapso-de-dos-viviendas-en-camag%c3%bcey-reaviva-las-alarmas-por-crisis-habitacional-en-cuba/480765.html",
       "destacada": false,
       "tema": "colapso",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Aerolínea turca pospone nuevamente la reanudación de sus vuelos directos a Cuba",
-      "resumen": "Turkish Airlines pospuso hasta marzo de 2027 la reanudación de sus vuelos directos a La Habana, en un nuevo retraso marcado por el desplome del turismo hacia Cuba y la crisis energética que sigue afectando las operaciones aéreas en la isla.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/aerol%c3%adnea-turca-pospone-nuevamente-la-reanudaci%c3%b3n-de-sus-vuelos-directos-a-cuba/480763.html",
-      "destacada": false,
-      "tema": "aerolínea",
-      "id": 29
+      "id": 33
     }
   ]
 }
