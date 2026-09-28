@@ -135,6 +135,12 @@ function renderNoticias() {
     return;
   }
 
+// Mezclar fuentes para que no salgan agrupadas
+lista = lista.sort((a, b) => {
+  if (a.fuente === b.fuente) return 0;
+   return 0.5 - Math.random();
+});
+  
   lista.forEach(n => {
     const art = document.createElement('article');
     art.className = 'noticia';
