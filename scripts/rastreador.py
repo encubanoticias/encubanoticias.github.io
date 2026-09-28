@@ -151,15 +151,16 @@ def main():
         if por_fuente[f] <= config["max_por_fuente"]:
             balanceadas.append(n)
     unicas = balanceadas
-    # Agrupar por tema (palabras clave comunes en el título)
-def extraer_tema(titulo):
+   
+    def extraer_tema(titulo):
     palabras = re.findall(r'\b[a-záéíóúñ]{5,}\b', titulo.lower())
     stop = {"sobre", "desde", "hasta", "entre", "según", "mientras", "donde", "cuando", "tiene", "hacer", "puede", "tras", "ante"}
     palabras = [p for p in palabras if p not in stop]
     return palabras[0] if palabras else ""
 
-for n in unicas:
+    for n in unicas:
     n["tema"] = extraer_tema(n["titulo"])
+    # Agrupar por tema (palabras clave comunes en el título)
     for i, n in enumerate(unicas):
         n["id"] = i + 1
     for n in unicas[:5]:
