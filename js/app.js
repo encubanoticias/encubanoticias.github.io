@@ -139,6 +139,8 @@ function renderNoticias() {
     };
     cont.appendChild(art);
   });
+ inicializarVotaciones();
+  
 }
 
 // --- PODCAST ---
