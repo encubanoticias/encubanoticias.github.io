@@ -1,144 +1,419 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Panel Admin - EnCuba</title>
-  <link rel="stylesheet" href="css/estilo.css">
-  <style>
-    .admin { padding: 1rem; max-width: 900px; margin: 0 auto; }
-    .admin h1 { color: var(--azul); margin-bottom: 1rem; }
-    .item {
-      background: var(--bg-card);
-      padding: 1rem;
-      border-radius: 10px;
-      margin-bottom: 0.75rem;
-      border-left: 4px solid var(--rojo);
-    }
-    .item h3 { font-size: 1rem; margin-bottom: 0.5rem; }
-    .item p { font-size: 0.9rem; color: var(--texto-suave); margin-bottom: 0.5rem; }
-    .item textarea {
-      width: 100%;
-      min-height: 100px;
-      padding: 0.5rem;
-      border-radius: 8px;
-      border: 1px solid var(--borde);
-      font-family: inherit;
-      font-size: 0.85rem;
-      background: var(--bg);
-      color: var(--texto);
-    }
-    .acciones { display: flex; gap: 0.5rem; margin-top: 0.5rem; flex-wrap: wrap; }
-    .acciones button {
-      background: var(--azul);
-      color: #fff;
-      border: none;
-      padding: 0.4rem 0.8rem;
-      border-radius: 999px;
-      font-size: 0.8rem;
-      cursor: pointer;
-    }
-    .acciones button:hover { background: var(--rojo); }
-    .acciones button.copiado { background: var(--oficial); }
-    .filtros-admin { display: flex; gap: 0.5rem; margin-bottom: 1rem; flex-wrap: wrap; }
-    .filtros-admin button {
-      background: var(--bg-card);
-      color: var(--texto);
-      border: 1px solid var(--borde);
-      padding: 0.4rem 0.9rem;
-      border-radius: 999px;
-      cursor: pointer;
-      font-size: 0.85rem;
-    }
-    .filtros-admin button.activo {
-      background: var(--azul);
-      color: #fff;
-      border-color: var(--azul);
-    }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Panel EnCuba</title>
+<style>
+:root {
+  --bg: #FAFAFA; --bg-card: #FFFFFF; --texto: #222; --texto-suave: #666;
+  --azul: #002A8F; --rojo: #CF142B; --oficial: #43A047;
+  --borde: #E5E5E5;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: system-ui, sans-serif; background: var(--bg); color: var(--texto); line-height: 1.5; }
+
+header {
+  background: var(--azul); color: #fff; padding: 0.75rem 1rem;
+  border-bottom: 3px solid var(--rojo); position: sticky; top: 0; z-index: 100;
+}
+header h1 { font-size: 1.2rem; }
+header h1 span { color: var(--rojo); }
+
+.tabs {
+  display: flex; overflow-x: auto; background: var(--bg-card);
+  border-bottom: 1px solid var(--borde); scrollbar-width: none;
+}
+.tabs::-webkit-scrollbar { display: none; }
+.tab {
+  padding: 0.7rem 1rem; border: none; background: none;
+  color: var(--texto-suave); font-size: 0.85rem; cursor: pointer;
+  white-space: nowrap; border-bottom: 2px solid transparent;
+}
+.tab.activo { color: var(--azul); border-bottom-color: var(--rojo); font-weight: 700; }
+
+main { padding: 1rem; max-width: 900px; margin: 0 auto; }
+.seccion { display: none; }
+.seccion.activa { display: block; }
+
+.item {
+  background: var(--bg-card); padding: 1rem; border-radius: 10px;
+  margin-bottom: 0.75rem; border-left: 4px solid var(--rojo);
+}
+.item h3 { font-size: 1rem; margin-bottom: 0.4rem; }
+.item p { font-size: 0.85rem; color: var(--texto-suave); margin-bottom: 0.5rem; }
+.item textarea {
+  width: 100%; min-height: 90px; padding: 0.5rem; border-radius: 8px;
+  border: 1px solid var(--borde); font-family: inherit; font-size: 0.8rem;
+}
+.acciones { display: flex; gap: 0.4rem; margin-top: 0.5rem; flex-wrap: wrap; }
+.acciones button, .btn {
+  background: var(--azul); color: #fff; border: none;
+  padding: 0.4rem 0.8rem; border-radius: 999px;
+  font-size: 0.8rem; cursor: pointer;
+}
+.acciones button:hover, .btn:hover { background: var(--rojo); }
+.copiado { background: var(--oficial) !important; }
+
+.filtros-admin { display: flex; gap: 0.4rem; margin-bottom: 1rem; flex-wrap: wrap; }
+.filtros-admin button {
+  background: var(--bg-card); border: 1px solid var(--borde);
+  color: var(--texto); padding: 0.4rem 0.9rem; border-radius: 999px;
+  cursor: pointer; font-size: 0.8rem;
+}
+.filtros-admin button.activo { background: var(--azul); color: #fff; border-color: var(--azul); }
+
+.campo { margin-bottom: 1rem; }
+.campo label { display: block; font-size: 0.85rem; font-weight: 600; margin-bottom: 0.3rem; }
+.campo input, .campo textarea, .campo select {
+  width: 100%; padding: 0.6rem; border: 1px solid var(--borde);
+  border-radius: 8px; font-family: inherit; font-size: 0.9rem;
+  background: var(--bg-card); color: var(--texto);
+}
+.campo small { display: block; color: var(--texto-suave); font-size: 0.75rem; margin-top: 0.25rem; }
+
+.toast {
+  position: fixed; bottom: 1rem; left: 50%; transform: translateX(-50%);
+  background: var(--azul); color: #fff; padding: 0.7rem 1.2rem;
+  border-radius: 999px; font-size: 0.85rem; z-index: 500;
+  opacity: 0; pointer-events: none; transition: opacity 0.3s;
+}
+.toast.visible { opacity: 1; }
+
+.estado-card {
+  background: var(--bg-card); padding: 1rem; border-radius: 10px;
+  margin-bottom: 0.75rem; border-left: 4px solid var(--azul);
+}
+.estado-card h4 { font-size: 0.9rem; color: var(--texto-suave); margin-bottom: 0.3rem; }
+.estado-card p { font-size: 1.1rem; font-weight: 700; }
+
+.fuente-item {
+  display: flex; justify-content: space-between; align-items: center;
+  background: var(--bg-card); padding: 0.7rem 1rem; border-radius: 8px;
+  margin-bottom: 0.4rem; font-size: 0.85rem;
+}
+.fuente-item button {
+  background: var(--rojo); color: #fff; border: none;
+  padding: 0.3rem 0.7rem; border-radius: 999px;
+  font-size: 0.75rem; cursor: pointer;
+}
+</style>
 </head>
 <body>
-  <header>
-    <div class="header-top">
-      <h1><span>EnCuba</span> Admin</h1>
-    </div>
-  </header>
-  <div class="admin">
+
+<header>
+  <h1><span>EnCuba</span> Panel</h1>
+</header>
+
+<nav class="tabs">
+  <button class="tab activo" data-tab="copiar">📋 Copiar</button>
+  <button class="tab" data-tab="config">⚙️ Config</button>
+  <button class="tab" data-tab="temas">🔥 Temas</button>
+  <button class="tab" data-tab="rastrear">▶️ Rastrear</button>
+  <button class="tab" data-tab="fuentes">🌱 Fuentes</button>
+  <button class="tab" data-tab="estado">📊 Estado</button>
+</nav>
+
+<main>
+
+  <section class="seccion activa" id="sec-copiar">
     <div class="filtros-admin" id="filtrosAdmin"></div>
     <div id="lista"></div>
-  </div>
+  </section>
 
-  <script>
-    let noticias = [];
-    let filtro = 'todas';
+  <section class="seccion" id="sec-config">
+    <div class="campo">
+      <label>Horas entre rastreos</label>
+      <input type="number" id="cfg-horas" min="1" max="24">
+      <small>Cuántas horas esperar entre rastreos automáticos.</small>
+    </div>
+    <div class="campo">
+      <label>Máximo de noticias por fuente</label>
+      <input type="number" id="cfg-max" min="1" max="20">
+    </div>
+    <div class="campo">
+      <label>Temas máximos en Perspectivas</label>
+      <input type="number" id="cfg-persp" min="1" max="10">
+    </div>
+    <button class="btn" id="guardar-config">💾 Guardar configuración</button>
+  </section>
 
-    fetch('data/noticias.json?v=' + Date.now())
-      .then(r => r.json())
-      .then(d => {
-        noticias = d.noticias || [];
-        renderFiltros();
-        renderLista();
-      });
+  <section class="seccion" id="sec-temas">
+    <div class="campo">
+      <label>Palabras clave prioritarias</label>
+      <textarea id="temas-txt" rows="6" placeholder="divisas, apagón, mipymes, dólar"></textarea>
+      <small>Separadas por coma. Las noticias con estas palabras subirán al carrusel.</small>
+    </div>
+    <button class="btn" id="guardar-temas">💾 Guardar temas</button>
+  </section>
 
-    function renderFiltros() {
-      const cats = ['todas', ...new Set(noticias.map(n => n.categoria))];
-      const cont = document.getElementById('filtrosAdmin');
-      cont.innerHTML = '';
-      cats.forEach(c => {
-        const b = document.createElement('button');
-        b.textContent = c;
-        if (c === filtro) b.classList.add('activo');
-        b.onclick = () => { filtro = c; renderFiltros(); renderLista(); };
-        cont.appendChild(b);
-      });
-    }
+  <section class="seccion" id="sec-rastrear">
+    <p style="margin-bottom:1rem;font-size:0.9rem;color:var(--texto-suave)">
+      Dispara el workflow en GitHub Actions ahora mismo.
+    </p>
+    <button class="btn" id="btn-rastrear" style="font-size:1rem;padding:0.8rem 1.5rem">
+      ▶️ Rastrear ahora
+    </button>
+    <div id="rastrear-resultado" style="margin-top:1rem;font-size:0.85rem"></div>
+  </section>
 
-    function renderLista() {
-      const cont = document.getElementById('lista');
-      let lista = noticias;
-      if (filtro !== 'todas') lista = lista.filter(n => n.categoria === filtro);
-      cont.innerHTML = '';
-      lista.forEach(n => {
-        const texto = `📰 ${n.titulo}\n\n${n.resumen}\n\nFuente: ${n.fuente}\n${n.enlace_original}`;
-        const div = document.createElement('div');
-        div.className = 'item';
-        div.innerHTML = `
-          <h3>${n.titulo}</h3>
-          <p>${n.fuente} · ${n.categoria}</p>
-          <textarea readonly>${texto}</textarea>
-          <div class="acciones">
-            <button data-texto="${encodeURIComponent(texto)}">📋 Copiar texto</button>
-            <button data-titulo="${encodeURIComponent(n.titulo)}">📋 Solo titular</button>
-            <a href="${n.enlace_original}" target="_blank"><button>Abrir original</button></a>
-          </div>
-        `;
-        cont.appendChild(div);
-      });
+  <section class="seccion" id="sec-fuentes">
+    <div class="campo">
+      <label>Añadir nueva fuente</label>
+      <input type="text" id="nueva-fuente" placeholder="https://www.ejemplo.cu">
+      <small>Escribe la URL base. El rastreador descubrirá el RSS automáticamente.</small>
+    </div>
+    <button class="btn" id="agregar-fuente">➕ Añadir fuente</button>
+    <h3 style="margin-top:1.5rem;font-size:0.95rem">Fuentes actuales</h3>
+    <div id="lista-fuentes" style="margin-top:0.75rem"></div>
+  </section>
 
-      cont.querySelectorAll('button[data-texto]').forEach(b => {
-        b.onclick = () => {
-          navigator.clipboard.writeText(decodeURIComponent(b.dataset.texto));
-          b.textContent = '✅ Copiado';
-          b.classList.add('copiado');
-          setTimeout(() => {
-            b.textContent = '📋 Copiar texto';
-            b.classList.remove('copiado');
-          }, 2000);
-        };
-      });
+  <section class="seccion" id="sec-estado">
+    <div id="estado-contenido"></div>
+  </section>
 
-      cont.querySelectorAll('button[data-titulo]').forEach(b => {
-        b.onclick = () => {
-          navigator.clipboard.writeText(decodeURIComponent(b.dataset.titulo));
-          b.textContent = '✅ Copiado';
-          b.classList.add('copiado');
-          setTimeout(() => {
-            b.textContent = '📋 Solo titular';
-            b.classList.remove('copiado');
-          }, 2000);
-        };
-      });
-    }
-  </script>
+</main>
+
+<div class="toast" id="toast"></div>
+
+<script>
+const REPO = 'encubanoticias/encubanoticias.github.io';
+const TOKEN_KEY = 'gh_token';
+const API = 'https://api.github.com';
+
+let noticias = [];
+let filtro = 'todas';
+let config = {};
+let fuentes = { semilla: [], feeds: {} };
+
+function toast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('visible');
+  setTimeout(() => t.classList.remove('visible'), 2500);
+}
+
+function getToken() {
+  return localStorage.getItem(TOKEN_KEY);
+}
+
+function pedirToken() {
+  const t = prompt('Pega tu token de GitHub (solo se guardará en este navegador):');
+  if (t) {
+    localStorage.setItem(TOKEN_KEY, t.trim());
+    toast('Token guardado');
+    return t.trim();
+  }
+  return null;
+}
+
+async function apiGet(path) {
+  const token = getToken();
+  if (!token) { pedirToken(); return null; }
+  const r = await fetch(API + path, {
+    headers: { 'Authorization': 'token ' + token, 'Accept': 'application/vnd.github.v3+json' }
+  });
+  if (!r.ok) { toast('Error API: ' + r.status); return null; }
+  return r.json();
+}
+
+async function apiPut(path, contenido, mensaje) {
+  const token = getToken();
+  if (!token) { pedirToken(); return false; }
+  const actual = await apiGet(path);
+  const sha = actual ? actual.sha : undefined;
+  const body = {
+    message: mensaje,
+    content: btoa(unescape(encodeURIComponent(contenido))),
+    sha: sha
+  };
+  const r = await fetch(API + path, {
+    method: 'PUT',
+    headers: {
+      'Authorization': 'token ' + token,
+      'Accept': 'application/vnd.github.v3+json',
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify(body)
+  });
+  if (!r.ok) { toast('Error al guardar: ' + r.status); return false; }
+  return true;
+}
+
+async function apiPost(path, body) {
+  const token = getToken();
+  if (!token) { pedirToken(); return null; }
+  const r = await fetch(API + path, {
+    method: 'POST',
+    headers: {
+      'Authorization': 'token ' + token,
+      'Accept': 'application/vnd.github.v3+json',
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify(body)
+  });
+  return r.ok;
+}
+
+// TABS
+document.querySelectorAll('.tab').forEach(t => {
+  t.onclick = () => {
+    document.querySelectorAll('.tab').forEach(x => x.classList.remove('activo'));
+    document.querySelectorAll('.seccion').forEach(x => x.classList.remove('activa'));
+    t.classList.add('activo');
+    document.getElementById('sec-' + t.dataset.tab).classList.add('activa');
+  };
+});
+
+// CARGAR DATOS
+async function cargarTodo() {
+  const n = await fetch('data/noticias.json?v=' + Date.now()).then(r => r.json()).catch(() => null);
+  if (n) { noticias = n.noticias || []; renderFiltros(); renderLista(); renderEstado(n); }
+
+  const cfg = await apiGet(`/repos/${REPO}/contents/data/config.json`);
+  if (cfg) {
+    config = JSON.parse(decodeURIComponent(escape(atob(cfg.content))));
+    document.getElementById('cfg-horas').value = config.horas_entre_rastreos || 1;
+    document.getElementById('cfg-max').value = config.max_por_fuente || 5;
+    document.getElementById('cfg-persp').value = config.max_temas_perspectivas || 2;
+    document.getElementById('temas-txt').value = (config.temas_prioritarios || []).join(', ');
+  }
+
+  const f = await apiGet(`/repos/${REPO}/contents/data/fuentes.json`);
+  if (f) {
+    fuentes = JSON.parse(decodeURIComponent(escape(atob(f.content))));
+    renderFuentes();
+  }
+}
+
+// COPIAR
+function renderFiltros() {
+  const cats = ['todas', ...new Set(noticias.map(n => n.categoria))];
+  const cont = document.getElementById('filtrosAdmin');
+  cont.innerHTML = '';
+  cats.forEach(c => {
+    const b = document.createElement('button');
+    b.textContent = c;
+    if (c === filtro) b.classList.add('activo');
+    b.onclick = () => { filtro = c; renderFiltros(); renderLista(); };
+    cont.appendChild(b);
+  });
+}
+
+function renderLista() {
+  const cont = document.getElementById('lista');
+  let lista = noticias;
+  if (filtro !== 'todas') lista = lista.filter(n => n.categoria === filtro);
+  cont.innerHTML = '';
+  lista.forEach(n => {
+    const promo = `\n\n📲 Más noticias resumidas y en audio: https://encubanoticias.github.io`;
+    const texto = `📰 ${n.titulo}\n\n${n.resumen}\n\nFuente: ${n.fuente}\n${n.enlace_original}${promo}`;
+    const corto = `${n.titulo} ${n.enlace_original}${promo}`;
+    const div = document.createElement('div');
+    div.className = 'item';
+    div.innerHTML = `
+      <h3>${n.titulo}</h3>
+      <p>${n.fuente} · ${n.categoria}</p>
+      <textarea readonly>${texto}</textarea>
+      <div class="acciones">
+        <button data-t="${encodeURIComponent(texto)}">📋 Con promo</button>
+        <button data-t="${encodeURIComponent(corto)}">📋 Corto</button>
+        <button data-t="${encodeURIComponent(n.titulo)}">📋 Titular</button>
+        <a href="${n.enlace_original}" target="_blank"><button>Abrir</button></a>
+      </div>
+    `;
+    cont.appendChild(div);
+  });
+  cont.querySelectorAll('button[data-t]').forEach(b => {
+    b.onclick = () => {
+      navigator.clipboard.writeText(decodeURIComponent(b.dataset.t));
+      b.textContent = '✅ Copiado';
+      b.classList.add('copiado');
+      setTimeout(() => {
+        b.textContent = b.dataset.t.includes('%F0%9F%93%B0') ? '📋 Titular' : '📋 Copiar';
+        b.classList.remove('copiado');
+      }, 1500);
+    };
+  });
+}
+
+// CONFIG
+document.getElementById('guardar-config').onclick = async () => {
+  config.horas_entre_rastreos = parseInt(document.getElementById('cfg-horas').value);
+  config.max_por_fuente = parseInt(document.getElementById('cfg-max').value);
+  config.max_temas_perspectivas = parseInt(document.getElementById('cfg-persp').value);
+  const ok = await apiPut(`/repos/${REPO}/contents/data/config.json`,
+    JSON.stringify(config, null, 2), 'Actualizar config');
+  if (ok) toast('Configuración guardada');
+};
+
+// TEMAS
+document.getElementById('guardar-temas').onclick = async () => {
+  const txt = document.getElementById('temas-txt').value;
+  config.temas_prioritarios = txt.split(',').map(s => s.trim()).filter(s => s);
+  const ok = await apiPut(`/repos/${REPO}/contents/data/config.json`,
+    JSON.stringify(config, null, 2), 'Actualizar temas');
+  if (ok) toast('Temas guardados');
+};
+
+// RASTREAR
+document.getElementById('btn-rastrear').onclick = async () => {
+  const ok = await apiPost(`/repos/${REPO}/actions/workflows/rastrear.yml/dispatches`, { ref: 'main' });
+  document.getElementById('rastrear-resultado').textContent =
+    ok ? '✅ Rastreo disparado. En 1-2 min se actualizan las noticias.' : '❌ Error. Revisa el token.';
+};
+
+// FUENTES
+function renderFuentes() {
+  const cont = document.getElementById('lista-fuentes');
+  cont.innerHTML = '';
+  (fuentes.semilla || []).forEach(s => {
+    const div = document.createElement('div');
+    div.className = 'fuente-item';
+    div.innerHTML = `<span>${s}</span><button data-url="${s}">Eliminar</button>`;
+    cont.appendChild(div);
+  });
+  cont.querySelectorAll('button[data-url]').forEach(b => {
+    b.onclick = async () => {
+      fuentes.semilla = fuentes.semilla.filter(x => x !== b.dataset.url);
+      delete fuentes.feeds[b.dataset.url];
+      const ok = await apiPut(`/repos/${REPO}/contents/data/fuentes.json`,
+        JSON.stringify(fuentes, null, 2), 'Eliminar fuente');
+      if (ok) { toast('Fuente eliminada'); renderFuentes(); }
+    };
+  });
+}
+
+document.getElementById('agregar-fuente').onclick = async () => {
+  const url = document.getElementById('nueva-fuente').value.trim();
+  if (!url) return;
+  if (!fuentes.semilla.includes(url)) fuentes.semilla.push(url);
+  const ok = await apiPut(`/repos/${REPO}/contents/data/fuentes.json`,
+    JSON.stringify(fuentes, null, 2), 'Añadir fuente');
+  if (ok) {
+    toast('Fuente añadida');
+    document.getElementById('nueva-fuente').value = '';
+    renderFuentes();
+  }
+};
+
+// ESTADO
+function renderEstado(data) {
+  const cont = document.getElementById('estado-contenido');
+  const total = data.total || 0;
+  const fecha = data.fecha || '-';
+  const hora = data.hora || '-';
+  const fuentesActivas = Object.keys(fuentes.feeds || {}).length;
+
+  cont.innerHTML = `
+    <div class="estado-card"><h4>Noticias cargadas</h4><p>${total}</p></div>
+    <div class="estado-card"><h4>Último rastreo</h4><p>${fecha} ${hora}</p></div>
+    <div class="estado-card"><h4>Fuentes activas</h4><p>${fuentesActivas}</p></div>
+    <div class="estado-card"><h4>Horas entre rastreos</h4><p>${config.horas_entre_rastreos || 1}h</p></div>
+  `;
+}
+
+cargarTodo();
+</script>
 </body>
 </html>
