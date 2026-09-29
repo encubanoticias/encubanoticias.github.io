@@ -1,7 +1,7 @@
 {
   "fecha": "2026-09-29",
-  "hora": "13:08",
-  "total": 46,
+  "hora": "15:08",
+  "total": 49,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -16,18 +16,6 @@
       "id": 1
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Dignidad y unidad: premisas para defender la Patria",
-      "resumen": "La preparación para la defensa es una prioridad del país, junto al tema económico y social, el control y &nbsp;la participación popular, quedó ratificado por el presidente del Consejo de Defensa Nacional, Miguel Díaz-Canel Bermúdez, al participar este viernes en el Día Nacional de la Defensa",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-09-25/dignidad-y-unidad-premisas-para-defender-la-patria-25-09-2026-15-09-58",
-      "destacada": true,
-      "tema": "dignidad",
-      "id": 2
-    },
-    {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
@@ -37,6 +25,18 @@
       "enlace_original": "http://www.granma.cu/mundo/2026-09-28/cuba-la-justicia-contra-la-fuerza-el-nucleo-de-la-logica-meliana-28-09-2026-19-09-07",
       "destacada": true,
       "tema": "justicia",
+      "id": 2
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Dignidad y unidad: premisas para defender la Patria",
+      "resumen": "La preparación para la defensa es una prioridad del país, junto al tema económico y social, el control y &nbsp;la participación popular, quedó ratificado por el presidente del Consejo de Defensa Nacional, Miguel Díaz-Canel Bermúdez, al participar este viernes en el Día Nacional de la Defensa",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-09-25/dignidad-y-unidad-premisas-para-defender-la-patria-25-09-2026-15-09-58",
+      "destacada": true,
+      "tema": "dignidad",
       "id": 3
     },
     {
@@ -52,28 +52,40 @@
       "id": 4
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
+      "categoria": "salud",
+      "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Nadie puede apagar la esperanza en los tapices y las barras",
-      "resumen": "El bloqueo estadounidense afecta pero no detiene la gimnasia cubana",
+      "titulo": "Fortalecen en Cuba atención al autismo con aporte solidario europeo",
+      "resumen": "Holguín, Cuba, 29 sep (Prensa Latina) El sistema de salud de la oriental provincia cubana de Holguín recibió hoy un donativo sanitario de la ONG Solidaridad Luxemburgo-Cuba para fortalecer la atención integral a niños con trastornos del neurodesarrollo. The post Fortalecen en Cuba atención al autism",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-09-28/nadie-puede-apagar-la-esperanza-en-los-tapices-y-las-barras-28-09-2026-20-09-11",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/29/fortalecen-en-cuba-atencion-al-autismo-con-aporte-solidario-europeo/",
       "destacada": true,
-      "tema": "nadie",
+      "tema": "tipo_cambio",
       "id": 5
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cubano Raidel Martínez alcanza los 42 salvamentos en Japón",
-      "resumen": "Tokio, 29 sep (Prensa Latina) El lanzador cubano Raidel Martínez volvió a bajar hoy el telón en la Liga Japonesa de Béisbol Profesional al conseguir su salvamento 42 de la temporada, en el triunfo 3-1 de los Gigantes de Yomiuri sobre Hiroshima. The post Cubano Raidel Martínez alcanza los 42 salvamen",
+      "titulo": "Acoge provincia cubana Congreso Internacional Universidad Sociedad",
+      "resumen": "Matanzas, Cuba, 29 sep (Prensa Latina) El balneario de Varadero en la cubana provincia de Matanzas acogió hoy el inicio de la cuarta edición del Congreso Internacional Universidad-Sociedad 2026. The post Acoge provincia cubana Congreso Internacional Universidad Sociedad first appeared on Noticias Pr",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/29/cubano-raidel-martinez-alcanza-los-42-salvamentos-en-japon/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/29/acoge-provincia-cubana-congreso-internacional-universidad-sociedad/",
       "destacada": false,
-      "tema": "cubano",
+      "tema": "acoge",
       "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba y la Unión Europea celebran 38 años de nexos diplomáticos",
+      "resumen": "La Habana, 29 sep (Prensa Latina) Cuba y la Unión Europea celebran hoy el 38 aniversario del establecimiento de sus relaciones diplomáticas, informó el Ministerio de Relaciones de la isla en su cuenta redes sociales. The post Cuba y la Unión Europea celebran 38 años de nexos diplomáticos first appea",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/29/cuba-y-la-union-europea-celebran-38-anos-de-nexos-diplomaticos/",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "id": 7
     },
     {
       "categoria": "politica",
@@ -85,7 +97,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/rubio-advierte-si-no-cambios_1_1131322.html",
       "destacada": false,
       "tema": "rubio",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -97,7 +109,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/canciller-cubano-lamenta-ayuda-onu_1_1131324.html",
       "destacada": false,
       "tema": "canciller",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "energia",
@@ -109,7 +121,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/lugar-petroleo-cubanos-tendran-mezquita_1_1131282.html",
       "destacada": false,
       "tema": "tipo_cambio",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -121,7 +133,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/angel-santiesteban-elegido-nuevo-soberano_1_1131318.html",
       "destacada": false,
       "tema": "ángel",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "economia",
@@ -133,67 +145,79 @@
       "enlace_original": "https://www.14ymedio.com/cuba/confusion-nuevo-precio-pasaporte-provoca_1_1131310.html",
       "destacada": false,
       "tema": "confusión",
-      "id": 11
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Banco Central de Cuba emite una declaración ante irregularidades en el sector bancario",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e129488-s27061-nid341452-banco-central-cuba-emite-declaracion-irregularidades",
-      "destacada": false,
-      "tema": "banco",
       "id": 12
     },
     {
-      "categoria": "politica",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Rubio: «Ya no van a poder robar dinero y ganar dinero a costa del pueblo cubano» mientras Trump sea presidente",
+      "titulo": "Cubana muestra todo lo que preparó para una coronación de Oshún y sorprende con los detalles",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e135253-s27061-nid341449-rubio-van-poder-robar-dinero-ganar-dinero-costa",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u65722-e65722-s27065-nid341461-cubana-muestra-todo-preparo-coronacion-oshun",
       "destacada": false,
-      "tema": "rubio",
+      "tema": "cubana",
       "id": 13
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Marco Rubio advierte al régimen cubano: «Aprenderán la lección por las malas si no corrigen»",
+      "titulo": "Cubano deportado a Cuba tras una orden en ausencia pide reabrir su caso: Estuvo meses en coma",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e135253-s27061-nid341448-marco-rubio-advierte-al-regimen-cubano-aprenderan",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e129488-s27061-nid341451-eeuu-deporta-cubano-pudo-apelar-caso-estar-coma",
       "destacada": false,
-      "tema": "marco",
+      "tema": "cubano",
       "id": 14
     },
     {
-      "categoria": "salud",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Médico cubano en Holguín: «Me pusieron a elegir: entre viajar y vivir, entre ser médico y comer»",
+      "titulo": "Cubano sale en defensa de las mujeres cubanas y lanza duro mensaje a los hombres: «El problema somos nosotros»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e135253-s27061-nid341444-medico-cubano-holguin-me-pusieron-elegir-viajar",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u65722-e65722-s27065-nid341460-cubano-sale-defensa-mujeres-cubanas-lanza-duro",
       "destacada": false,
-      "tema": "médico",
+      "tema": "cubano",
       "id": 15
     },
     {
-      "categoria": "economia",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El dólar se acerca a los 750 pesos en Cuba tras nueva subida",
+      "titulo": "Cuatro años sin ver a su hijo: mira cómo reaccionó esta madre cubana cuando apareció de sorpresa en Cuba",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e135253-s27061-nid341442-dolar-acerca-750-pesos-cuba-tras-nueva-subida",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u65722-e65722-s27065-nid341458-cuatro-anos-ver-hijo-mira-reacciono-esta-madre",
       "destacada": false,
-      "tema": "tipo_cambio",
+      "tema": "cuatro",
       "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Experto advierte que filtraciones sobre planes militares buscan presionar al régimen cubano",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e207888-s27061-nid341455-experto-advierte-filtraciones-planes-militares",
+      "destacada": false,
+      "tema": "experto",
+      "id": 17
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Grata «Coincidencia» entre el deporte y la cultura cubana",
+      "resumen": "«Coincidencia» es el título de una nueva producción audiovisual de Radioarte y la Radio Cubana para enlazar el deporte con la cultura. Conducido por el periodista Joel García León, el espacio de hoy se estrena con la presencia de Ana Fidelia Quirós, leyenda del atletismo cubano y considerada la mejo",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/grata-coincidencia-entre-el-deporte-y-la-cultura-cubana/",
+      "destacada": false,
+      "tema": "grata",
+      "id": 18
     },
     {
       "categoria": "politica",
@@ -205,7 +229,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/destacados/cuba-denuncia-en-la-onu-el-bloqueo-energetico-de-eeuu-y-alerta-sobre-el-avance-del-expansionismo/",
       "destacada": false,
       "tema": "denuncia",
-      "id": 17
+      "id": 19
     },
     {
       "categoria": "politica",
@@ -217,7 +241,7 @@
       "enlace_original": "https://www.radiocubana.cu/eventos/comienza-edicion-36-del-taller-y-concurso-nacional-de-la-radio-joven-antonio-lloga-in-memoriam/",
       "destacada": false,
       "tema": "comienza",
-      "id": 18
+      "id": 20
     },
     {
       "categoria": "politica",
@@ -229,7 +253,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-cada-voz-en-cuba-importa-episodio-01/",
       "destacada": false,
       "tema": "criterio",
-      "id": 19
+      "id": 21
     },
     {
       "categoria": "politica",
@@ -241,19 +265,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-sobre-transformaciones-economicas-y-sociales-en-cuba/",
       "destacada": false,
       "tema": "criterio",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.radiocubana.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "#Podcast «A contracorriente». Capítulo 49. «Cuba y la Inteligencia Artificial»",
-      "resumen": "¿Cómo marcha el desarrollo de la IA en Cuba?. ¿Qué resultados puede mostrar la Isla en la aplicación de estas tecnologías en sectores prioritarios para el país?. Estas y otras preguntas encuentran respuesta en el diálogo entre el profesor e investigador Carlos del Porto y la periodista Isabel Díaz G",
-      "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/podcast-a-contracorriente-capitulo-49-cuba-y-la-inteligencia-artificial/",
-      "destacada": false,
-      "tema": "podcast",
-      "id": 21
+      "id": 22
     },
     {
       "categoria": "economia",
@@ -265,7 +277,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260928/el-fuego-simbolo-de-rebeldia/",
       "destacada": false,
       "tema": "fuego",
-      "id": 22
+      "id": 23
     },
     {
       "categoria": "economia",
@@ -277,19 +289,43 @@
       "enlace_original": "https://www.trabajadores.cu/20260927/con-bloqueo-cuesta-mas/",
       "destacada": false,
       "tema": "bloqueo",
-      "id": 23
+      "id": 24
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Aumentan 'ligeramente' las atenciones por fiebre en Santiago, donde un bebé habría muerto por dengue",
+      "titulo": "El régimen juzgará a la influencer Anna Bensi 'el mismo día de una marcha en EEUU por la libertad de Cuba'",
+      "resumen": "#SOSCuba: El #RégimenCubano pone fecha al juicio contra #AnnaBensi y su madre, mientras niega el control judicial solicitado por la defensa del humorista Eddy Ceballos. El #OCDH denuncia la violación del derecho a recibir visitas del preso del #11JCuba Walnier Aguilar Rivera.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1790690988_69170.html",
+      "destacada": false,
+      "tema": "régimen",
+      "id": 25
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Una investigación periodística identificó a casi 259.000 militares rusos muertos en Ucrania",
+      "resumen": "Casi 259.000 militares rusos muertos en Ucrania han sido identificados por una investigación independiente, mientras otro cubano natural de Matanzas habría fallecido en la guerra.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1790688740_69169.html",
+      "destacada": false,
+      "tema": "investigación",
+      "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Aumentan los casos de fiebre en Santiago de Cuba y falta combustible para fumigar contra el dengue",
       "resumen": "#SOSCuba: Mientras aumentan los casos de síndrome febril en Santiago de Cuba, donde un bebé habría muerto por #Dengue, la fumigación depende de la disponibilidad de combustible, según la directora de Higiene, Epidemiología y Microbiología en la provincia.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1790685969_69168.html",
       "destacada": false,
       "tema": "aumentan",
-      "id": 24
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -301,7 +337,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790685150_69118.html",
       "destacada": false,
       "tema": "bancarización",
-      "id": 25
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -313,31 +349,43 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790681188_69167.html",
       "destacada": false,
       "tema": "aconseja",
-      "id": 26
+      "id": 29
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Lawton Libre",
+      "resumen": "El reconocido opositor cubano Dr. Oscar Elías Biscet aborda la situación de los derechos humanos en Cuba y la conquista de las libertades básicas de los cubanos, bajo el precepto de que “si aprendes a ser libre, todos los seremos”. Correo Electrónico: lawtonlibremarti@gmail.com",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/478419.html",
+      "destacada": false,
+      "tema": "lawton",
+      "id": 30
     },
     {
       "categoria": "energia",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Los cubanos cuestionan 'cambios de prioridades' de ETECSA: 'Qué hicieron con todas las remesas'",
-      "resumen": "El monopolio estatal atribuye buena parte de su mal servicio a la crisis eléctrica, con 77.000 reportes de telefonía fija afectada y una infraestructura \"obsoleta y costosa\".",
+      "titulo": "Iris Mariño sobre Henry Constantín: \"Está \"bien de ánimo, con mucha fuerza de voluntad\"",
+      "resumen": "El periodista independiente Henry Constantín, director de La Hora de Cuba, tuvo el lunes su primera visita en la prisión Kilo 7, en Camagüey. La periodista Iris Mariño, integrante del medio, así lo dijo a Martí Noticias.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1790680421_69166.html",
+      "enlace_original": "https://www.martinoticias.com/a/iris-mari%c3%b1o-sobre-henry-constant%c3%adn-est%c3%a1-bien-de-%c3%a1nimo-con-mucha-fuerza-de-voluntad/480888.html",
       "destacada": false,
-      "tema": "cubanos",
-      "id": 27
+      "tema": "mariño",
+      "id": 31
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Con Cuba hundida en la miseria, Díaz-Canel quiere 'ampliar' la vigilancia de los CDR",
-      "resumen": "#SOSCuba: El exespía Gerardo Hernández se hace fotos repartiendo caldosa en una #Cuba hambrienta, mientras #DíazCanel llama a \"ampliar\" la vigilancia de los #CDR y #BrunoRodríguez celebra el 66 aniversario del órgano de delación... en Nueva York.",
+      "titulo": "“¿Dónde está el pescado para la población?”: otro alimento que desapareció de la mesa del cubano",
+      "resumen": "El pescado se ha vuelto cada vez más inaccesible para millones de personas en la isla, donde las capturas pesqueras se han desplomado más de la mitad en apenas cuatro años, según denunció Food Monitor Program.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1790675331_69165.html",
+      "enlace_original": "https://www.martinoticias.com/a/d%c3%b3nde-est%c3%a1-el-pescado-para-la-poblaci%c3%b3n-otro-alimento-que-desapareci%c3%b3-de-la-mesa-del-cubano/480884.html",
       "destacada": false,
-      "tema": "hundida",
-      "id": 28
+      "tema": "dónde",
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -349,7 +397,7 @@
       "enlace_original": "https://www.martinoticias.com/a/no-sigamos-siendo-presa-del-miedo-sor-nadieska-llama-a-los-cubanos-a-reclamar-sus-derechos/480883.html",
       "destacada": false,
       "tema": "sigamos",
-      "id": 29
+      "id": 33
     },
     {
       "categoria": "economia",
@@ -361,43 +409,55 @@
       "enlace_original": "https://www.martinoticias.com/a/478416.html",
       "destacada": false,
       "tema": "martinoticias",
-      "id": 30
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba Habla: \"Lo que más se me dificulta es la comida”",
-      "resumen": "Desde Santiago de Cuba embarazada habla de la escasez de alimentos y de deficiencias del servicio médico.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-lo-que-m%c3%a1s-se-me-dificulta-es-la-comida/480461.html",
-      "destacada": false,
-      "tema": "habla",
-      "id": 31
+      "id": 34
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Firman Cuba y Rusia protocolo bilateral para fortalecer cooperación cultural y deportiva",
+      "resumen": "La viceministra de Cultura de Cuba, Lizette Martínez Luzardo, culminó su participación en el XII Foro Internacional de Culturas Unidas de San Petersburgo con la firma de un protocolo bilateral que fortalece la cooperación cultural y deportiva entre Cuba y Rusia. The post Firman Cuba y Rusia protocol",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/478413.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/firman-cuba-y-rusia-protocolo-bilateral-para-fortalecer-cooperacion-cultural-y-deportiva/",
       "destacada": false,
-      "tema": "",
-      "id": 32
+      "tema": "firman",
+      "id": 35
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Raidel Martínez alcanza los 42 salvamentos en Liga Japonesa de Béisbol",
+      "resumen": "El lanzador cubano Raidel Martínez volvió a bajar hoy el telón en la Liga Japonesa de Béisbol Profesional al conseguir su salvamento 42 de la temporada, en el triunfo 3-1 de los Gigantes de Yomiuri sobre Hiroshima. El derecho trabajó el noveno episodio en el Tokyo Dome, concedió un boleto, pero no p",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/raidel-martinez-alcanza-los-42-salvamentos-en-liga-japonesa-de-beisbol/",
+      "destacada": false,
+      "tema": "raidel",
+      "id": 36
     },
     {
       "categoria": "politica",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Rubio advierte al régimen cubano: Aprenderán \"por las malas\" si no corrigen el rumbo (VIDEO)",
-      "resumen": "En una entrevista con Sean Hannity, de Fox News, Rubio expresó su esperanza de que personas dentro del gobierno cubano impulsen un cambio.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Fernández de Cossío: “Si EE. UU. reduce la presión, las transformaciones en Cuba pueden llegar muy lejos” (+Video)",
+      "resumen": "El viceministro cubano de Relaciones Exteriores, Carlos Fernández de Cossío, confirmó a Bloomberg Podcast que Cuba y Estados Unidos mantienen comunicaciones y han celebrado encuentros, aunque aseguró que La Habana no aprecia avances mientras Washington continúe imponiendo nuevas sanciones. The post ",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/rubio-el-r%c3%a9gimen-ya-no-podr%c3%a1-enriquecerse-a-costa-del-pueblo-cubano/480882.html",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/09/29/fernandez-de-cossio-si-ee-uu-reduce-la-presion-las-transformaciones-en-cuba-pueden-llegar-muy-lejos-video/",
       "destacada": false,
-      "tema": "rubio",
-      "id": 33
+      "tema": "fernández",
+      "id": 37
+    },
+    {
+      "categoria": "economia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El precio de la ausencia",
+      "resumen": "La vida económica del cubano se enfrenta a un escenario para el que no estaba preparada. Nadie nos enseñó demasiado sobre oferta y demanda, descentralización, formación de precios o mercados mayoristas. Ahora tenemos que aprenderlos a golpes. Uno de los más recientes tiene forma de botella: el aceit",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/09/29/el-precio-de-la-ausencia/",
+      "destacada": false,
+      "tema": "precio",
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -409,31 +469,7 @@
       "enlace_original": "http://www.cubadebate.cu/especiales/2026/09/29/washington-habla-de-cuba-que-piensa-la-sociedad-estadounidense/",
       "destacada": false,
       "tema": "washington",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "¿El Pentágono velará las elecciones de Estados Unidos?",
-      "resumen": "El secretario de Guerra de EE.UU., Pete Hegseth, ordenó al Pentágono que use la IA para contrarrestar la interferencia extranjera en las elecciones en el Congreso, informó el portal Axios. The post ¿El Pentágono velará las elecciones de Estados Unidos? first appeared on Cubadebate.",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/el-pentagono-velara-las-elecciones-de-estados-unidos/",
-      "destacada": false,
-      "tema": "pentágono",
-      "id": 35
-    },
-    {
-      "categoria": "energia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "¿Tienen los actores económicos suficientes incentivos para apostar por las Fuentes Renovables de Energía?",
-      "resumen": "La transición energética en Cuba es un proceso sistémico que va más allá del cambio tecnológico y exige una transformación cultural de toda la sociedad, sobre este tema debaten especialistas en el programa Cuadrando la Caja. Una emisión dedicada a analizar los incentivos para MIPYMES, empresas estat",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/09/29/energia-renovable-cuadran-las-cuentas/",
-      "destacada": false,
-      "tema": "tienen",
-      "id": 36
+      "id": 39
     },
     {
       "categoria": "politica",
@@ -445,7 +481,7 @@
       "enlace_original": "https://periodismodebarrio.org/los-rectangulos-oscuros-que-dividen-a-cuba/",
       "destacada": false,
       "tema": "rectángulos",
-      "id": 37
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -457,7 +493,7 @@
       "enlace_original": "https://periodismodebarrio.org/maternidades-desterradas-el-costo-infantil-del-presidio-politico-en-cuba/",
       "destacada": false,
       "tema": "maternidades",
-      "id": 38
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -469,7 +505,7 @@
       "enlace_original": "https://periodismodebarrio.org/maferefun-regla/",
       "destacada": false,
       "tema": "maferefún",
-      "id": 39
+      "id": 42
     },
     {
       "categoria": "economia",
@@ -481,7 +517,7 @@
       "enlace_original": "https://periodismodebarrio.org/farmacias-privadas-en-cuba/",
       "destacada": false,
       "tema": "lucrativo",
-      "id": 40
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -493,7 +529,7 @@
       "enlace_original": "https://periodismodebarrio.org/informe-human-rights-watch-derechos-humanos-cuba/",
       "destacada": false,
       "tema": "informe",
-      "id": 41
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -505,7 +541,7 @@
       "enlace_original": "https://www.cubainformacion.tv/solidaridad/20260929/125223/125223-fiesta-solidaria-kuba-eguna-denunciara-el-genocidio-silencioso-que-sufre-cuba-sabado-10-de-octubre-barrio-de-errekalde-bilbao",
       "destacada": false,
       "tema": "fiesta",
-      "id": 42
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -517,7 +553,7 @@
       "enlace_original": "https://www.cubainformacion.tv/solidaridad/20260929/125158/125158-jornada-kuba-genozidioari-aurre-egin-apoyara-la-resistencia-de-las-mujeres-cubanas-frente-al-cerco-de-ee-uu-hernani-sabado-3-de-octubre",
       "destacada": false,
       "tema": "jornada",
-      "id": 43
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -529,7 +565,7 @@
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125234/125234-66-aniversario-de-los-cdr-pilar-de-la-revolucion-cubana",
       "destacada": false,
       "tema": "aniversario",
-      "id": 44
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -541,7 +577,7 @@
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125233/125233-los-cubanos-dicen-basta-la-calle-habla",
       "destacada": false,
       "tema": "cubanos",
-      "id": 45
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -553,7 +589,7 @@
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125232/125232-se-viene-el-segundo-capitulo-de-la-traicion-trump-esta-claro-no-es-solo-maria-elvira",
       "destacada": false,
       "tema": "viene",
-      "id": 46
+      "id": 49
     }
   ]
 }
