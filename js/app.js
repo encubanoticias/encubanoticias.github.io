@@ -4,6 +4,7 @@ let busqueda = '';
 let slideActual = 0;
 let intervaloCarrusel = null;
 let audioActual = null;
+let maxCarrusel = 9;
 
 fetch('data/noticias.json?v=' + Date.now())
   .then(res => res.json())
