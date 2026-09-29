@@ -100,7 +100,7 @@ function irSlide(i) {
 
 function iniciarCarrusel() {
   if (intervaloCarrusel) clearInterval(intervaloCarrusel);
-  intervaloCarrusel = setInterval(() => irSlide(slideActual + 1), 6000);
+  intervaloCarrusel = setInterval(() => irSlide(slideActual + 1), 10000);
 }
 
 // --- CALIENTES ---
