@@ -1,7 +1,7 @@
 {
   "fecha": "2026-09-29",
-  "hora": "03:05",
-  "total": 42,
+  "hora": "05:05",
+  "total": 44,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -67,12 +67,12 @@
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Embajador cubano agradece solidaridad de activista política mexicana",
-      "resumen": "Ciudad de México, 28 sep (Prensa Latina) El embajador de Cuba en México, Eugenio Martínez, recibió hoy a la destacada activista política Bertha Luján y agradeció su histórica solidaridad con la nación caribeña. The post Embajador cubano agradece solidaridad de activista política mexicana first appea",
+      "titulo": "Museo Servando Cabrera de La Habana rendirá tributo al pintor cubano",
+      "resumen": "La Habana, 29 sep (Prensa Latina) A 45 años del fallecimiento del artista Servando Cabrera, la especialista Teresa Toranzo presidirá hoy aquí un conversatorio sobre el papel de este creador en la pintura cubana, un evento organizado por el Museo Biblioteca Servando Cabrera. The post Museo Servando C",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/28/embajador-cubano-agradece-solidaridad-de-activista-politica-mexicana/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/29/museo-servando-cabrera-de-la-habana-rendira-tributo-al-pintor-cubano/",
       "destacada": false,
-      "tema": "embajador",
+      "tema": "museo",
       "id": 6
     },
     {
@@ -136,64 +136,40 @@
       "id": 11
     },
     {
-      "categoria": "salud",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Evitan que se incendie equipo de esterilización en Hospital Materno América Arias en La Habana",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e135253-s27061-nid341445-evitan-incendie-equipo-esterilizacion-hospital",
-      "destacada": false,
-      "tema": "evitan",
-      "id": 12
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Médico cubano en Holguín: «Me pusieron a elegir: entre viajar y vivir, entre ser médico y comer»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e135253-s27061-nid341444-medico-cubano-holguin-me-pusieron-elegir-viajar",
-      "destacada": false,
-      "tema": "médico",
-      "id": 13
-    },
-    {
       "categoria": "economia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El dólar se acerca a los 750 pesos en Cuba tras nueva subida",
+      "titulo": "Así cierra el mercado informal en Cuba: el dólar y el euro buscando altura",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e135253-s27061-nid341442-dolar-acerca-750-pesos-cuba-tras-nueva-subida",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e209395-s27061-nid341295-asi-cierra-mercado-informal-cuba-dolar-euro-buscando",
       "destacada": false,
       "tema": "tipo_cambio",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Régimen cubano afirma en la ONU que está abierto a relaciones comerciales y de negocios con compañías estadounidenses",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e199894-s27061-nid341296-regimen-cubano-afirma-onu-esta-abierto-relaciones",
+      "destacada": false,
+      "tema": "régimen",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Esposa de cubano autodeportado suplica a congresistas una visa humanitaria para que su hija no enfrente sola su cuarta cirugía",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e208574-s27061-nid341290-esposa-cubano-autodeportado-suplica-congresistas",
+      "destacada": false,
+      "tema": "esposa",
       "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba a punto del colapso y Bruno Rodríguez celebra los CDR desde Nueva York",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e197721-s27061-nid341441-cuba-punto-colapso-bruno-rodriguez-celebra-cdr-nueva",
-      "destacada": false,
-      "tema": "punto",
-      "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«No voy a callarme»: Anna Bensi habla a días del juicio contra ella y su madre en Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e135253-s27061-nid341438-voy-callarme-anna-bensi-habla-dias-juicio-contra",
-      "destacada": false,
-      "tema": "callarme",
-      "id": 16
     },
     {
       "categoria": "politica",
@@ -205,7 +181,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/destacados/cuba-denuncia-en-la-onu-el-bloqueo-energetico-de-eeuu-y-alerta-sobre-el-avance-del-expansionismo/",
       "destacada": false,
       "tema": "denuncia",
-      "id": 17
+      "id": 15
     },
     {
       "categoria": "politica",
@@ -217,7 +193,7 @@
       "enlace_original": "https://www.radiocubana.cu/eventos/comienza-edicion-36-del-taller-y-concurso-nacional-de-la-radio-joven-antonio-lloga-in-memoriam/",
       "destacada": false,
       "tema": "comienza",
-      "id": 18
+      "id": 16
     },
     {
       "categoria": "politica",
@@ -229,7 +205,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-cada-voz-en-cuba-importa-episodio-01/",
       "destacada": false,
       "tema": "criterio",
-      "id": 19
+      "id": 17
     },
     {
       "categoria": "politica",
@@ -241,7 +217,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-sobre-transformaciones-economicas-y-sociales-en-cuba/",
       "destacada": false,
       "tema": "criterio",
-      "id": 20
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -253,7 +229,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/podcast-a-contracorriente-capitulo-49-cuba-y-la-inteligencia-artificial/",
       "destacada": false,
       "tema": "podcast",
-      "id": 21
+      "id": 19
     },
     {
       "categoria": "economia",
@@ -265,7 +241,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260928/el-fuego-simbolo-de-rebeldia/",
       "destacada": false,
       "tema": "fuego",
-      "id": 22
+      "id": 20
     },
     {
       "categoria": "economia",
@@ -277,7 +253,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260927/con-bloqueo-cuesta-mas/",
       "destacada": false,
       "tema": "bloqueo",
-      "id": 23
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -289,7 +265,7 @@
       "enlace_original": "https://diariodecuba.com/derechos-humanos/1790637812_69162.html",
       "destacada": false,
       "tema": "reporteros",
-      "id": 24
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -301,7 +277,7 @@
       "enlace_original": "https://diariodecuba.com/economia/1790635247_69161.html",
       "destacada": false,
       "tema": "nacionalización",
-      "id": 25
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -313,7 +289,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790630789_69160.html",
       "destacada": false,
       "tema": "escritor",
-      "id": 26
+      "id": 24
     },
     {
       "categoria": "politica",
@@ -325,7 +301,7 @@
       "enlace_original": "https://diariodecuba.com/internacional/1790624583_69158.html",
       "destacada": false,
       "tema": "justicia",
-      "id": 27
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -337,6 +313,30 @@
       "enlace_original": "https://diariodecuba.com/deportes/1790616881_69155.html",
       "destacada": false,
       "tema": "habana",
+      "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al Día",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/478413.html",
+      "destacada": false,
+      "tema": "",
+      "id": 27
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Rubio: El régimen ya no podrá enriquecerse a costa del pueblo cubano",
+      "resumen": "En una entrevista con Sean Hannity, de Fox News, Rubio expresó su esperanza de que personas dentro del gobierno cubano impulsen un cambio.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/rubio-el-r%c3%a9gimen-ya-no-podr%c3%a1-enriquecerse-a-costa-del-pueblo-cubano/480882.html",
+      "destacada": false,
+      "tema": "rubio",
       "id": 28
     },
     {
@@ -365,27 +365,39 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "ONG pide a la ONU incluir a la sociedad civil en el debate sobre Cuba",
-      "resumen": "La organización cuestiona que el informe de la anterior relatora, Alena Douhan, no recogiera la situación de los defensores de derechos humanos ni la de la sociedad civil independiente en la isla.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Washington habla de Cuba, ¿qué piensa la sociedad estadounidense?",
+      "resumen": "Mientras Trump presentaba en la ONU a Cuba como un \"Estado fracasado\", las encuestas de 2026 mostraban otra cosa: el 61 % de los estadounidenses apoya mantener relaciones diplomáticas con la Isla, el 58 % rechaza una intervención militar y casi la mitad desaprueba el bloqueo petrolero. Además, en la",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/ong-pide-a-la-onu-incluir-a-la-sociedad-civil-en-el-debate-sobre-cuba/480824.html",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/09/29/washington-habla-de-cuba-que-piensa-la-sociedad-estadounidense/",
       "destacada": false,
-      "tema": "incluir",
+      "tema": "washington",
       "id": 31
     },
     {
       "categoria": "sociedad",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Ineymig Hernández sube a Cuba al podio del ajedrez mundial",
-      "resumen": "Ineymig Hernández conquistó la medalla de plata en el cuarto tablero de la 46 Olimpiada Mundial de Ajedrez, que concluyó este domingo en Uzbekistán, con una actuación invicta de 8 puntos en 9 rondas. Con siete victorias y dos tablas, sin conocer la derrota, y un rendimiento de 2443 puntos Elo, la jo",
+      "titulo": "¿El Pentágono velará las elecciones de Estados Unidos?",
+      "resumen": "El secretario de Guerra de EE.UU., Pete Hegseth, ordenó al Pentágono que use la IA para contrarrestar la interferencia extranjera en las elecciones en el Congreso, informó el portal Axios. The post ¿El Pentágono velará las elecciones de Estados Unidos? first appeared on Cubadebate.",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/28/ineymig-hernandez-sube-a-cuba-al-podio-del-ajedrez-mundial/",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/el-pentagono-velara-las-elecciones-de-estados-unidos/",
       "destacada": false,
-      "tema": "ineymig",
+      "tema": "pentágono",
       "id": 32
+    },
+    {
+      "categoria": "energia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "¿Tienen los actores económicos suficientes incentivos para apostar por las Fuentes Renovables de Energía?",
+      "resumen": "La transición energética en Cuba es un proceso sistémico que va más allá del cambio tecnológico y exige una transformación cultural de toda la sociedad, sobre este tema debaten especialistas en el programa Cuadrando la Caja. Una emisión dedicada a analizar los incentivos para MIPYMES, empresas estat",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/09/29/energia-renovable-cuadran-las-cuentas/",
+      "destacada": false,
+      "tema": "tienen",
+      "id": 33
     },
     {
       "categoria": "politica",
@@ -397,7 +409,7 @@
       "enlace_original": "https://periodismodebarrio.org/los-rectangulos-oscuros-que-dividen-a-cuba/",
       "destacada": false,
       "tema": "rectángulos",
-      "id": 33
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -409,7 +421,7 @@
       "enlace_original": "https://periodismodebarrio.org/maternidades-desterradas-el-costo-infantil-del-presidio-politico-en-cuba/",
       "destacada": false,
       "tema": "maternidades",
-      "id": 34
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -421,7 +433,7 @@
       "enlace_original": "https://periodismodebarrio.org/maferefun-regla/",
       "destacada": false,
       "tema": "maferefún",
-      "id": 35
+      "id": 36
     },
     {
       "categoria": "economia",
@@ -433,7 +445,7 @@
       "enlace_original": "https://periodismodebarrio.org/farmacias-privadas-en-cuba/",
       "destacada": false,
       "tema": "lucrativo",
-      "id": 36
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -445,67 +457,79 @@
       "enlace_original": "https://periodismodebarrio.org/informe-human-rights-watch-derechos-humanos-cuba/",
       "destacada": false,
       "tema": "informe",
-      "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Zinemaldi Alternatiboa de Donostia proyectó el documental &quot;Tarará, la historia de Chernóbil en Cuba&quot; y presentó la campaña solidaria “Argia eta indarra Kubarentzat”",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125224-zinemaldi-alternatiboa-de-donostia-proyecto-el-documental-tarara-la-historia-de-chernobil-en-cuba-y-presento-la-campana-solidaria-argia-eta-indarra-kubarentzat.jpg?t=1790629601",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20260928/125224/125224-zinemaldi-alternatiboa-de-donostia-proyecto-el-documental-tarara-la-historia-de-chernobil-en-cuba-y-presento-la-campana-solidaria-argia-eta-indarra-kubarentzat",
-      "destacada": false,
-      "tema": "zinemaldi",
       "id": 38
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
-      "titulo": "Fidel Castro ilumina a la ONU",
-      "resumen": "Noel Manzanares Blanco* - Radio Cadena Agramonte - Cubainformación.- Si la ONU no existiera, emerger...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125222-fidel-castro-ilumina-a-la-onu.jpg?t=1790599681",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20260928/125222/125222-fidel-castro-ilumina-a-la-onu",
+      "titulo": "66 Aniversario de los CDR pilar de la Revolución cubana",
+      "resumen": "El Titan de #Cuba",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125234-66-aniversario-de-los-cdr-pilar-de-la-revolucion-cubana.jpg?t=1790656337",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125234/125234-66-aniversario-de-los-cdr-pilar-de-la-revolucion-cubana",
       "destacada": false,
-      "tema": "fidel",
+      "tema": "aniversario",
       "id": 39
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba tuvo una amplia presencia en la Fiesta del PCE 2026 con música, debates, cine y mucha solidaridad",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125221-cuba-tuvo-una-amplia-presencia-en-la-fiesta-del-pce-2026-con-musica-debates-cine-y-mucha-solidaridad.jpg?t=1790588414",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20260928/125221/125221-cuba-tuvo-una-amplia-presencia-en-la-fiesta-del-pce-2026-con-musica-debates-cine-y-mucha-solidaridad",
+      "titulo": "Los cubanos dicen basta. La calle habla",
+      "resumen": "CUBA No Es Miami",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125233-los-cubanos-dicen-basta-la-calle-habla.jpg?t=1790656309",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125233/125233-los-cubanos-dicen-basta-la-calle-habla",
       "destacada": false,
-      "tema": "amplia",
+      "tema": "cubanos",
       "id": 40
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
-      "titulo": "La cooperación educativa cubana internacional, protagonista en las Jornades Solidàries de Mollet del Vallès",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125220-la-cooperacion-educativa-cubana-internacional-protagonista-en-las-jornades-solidaries-de-mollet-del-valles.jpg?t=1790585873",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20260928/125220/125220-la-cooperacion-educativa-cubana-internacional-protagonista-en-las-jornades-solidaries-de-mollet-del-valles",
+      "titulo": "Se viene el segundo capítulo de la traición. Trump está claro, no es solo María Elvira",
+      "resumen": "Guerrero Cubano con su verdad al desnudo",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125232-se-viene-el-segundo-capitulo-de-la-traicion-trump-esta-claro-no-es-solo-maria-elvira.jpg?t=1790656276",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125232/125232-se-viene-el-segundo-capitulo-de-la-traicion-trump-esta-claro-no-es-solo-maria-elvira",
       "destacada": false,
-      "tema": "cooperación",
+      "tema": "viene",
       "id": 41
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba y Estados Unidos: el diálogo sin avances",
-      "resumen": "Por Raúl Capote* - Original en Granma",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125218-cuba-y-estados-unidos-el-dialogo-sin-avances.jpg?t=1790578774",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20260928/125218/125218-cuba-y-estados-unidos-el-dialogo-sin-avances",
+      "titulo": "Mercado en el socialismo cubano, ¿adiós a la planificación?",
+      "resumen": "Cuadrando La Caja.- Planificación y mercado en el socialismo cubano: ¿Qué significa tener una econom...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125230-mercado-en-el-socialismo-cubano-adios-a-la-planificacion.jpg?t=1790655800",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20260929/125230/125230-mercado-en-el-socialismo-cubano-adios-a-la-planificacion",
       "destacada": false,
-      "tema": "estados",
+      "tema": "mercado",
       "id": 42
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba recibió apenas 888 mil viajeros al cierre del mes de agosto de 2026",
+      "resumen": "Cubavisión Internacional.- El arribo de viajeros a Cuba registró una fuerte disminución en los prime...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125229-cuba-recibio-apenas-888-mil-viajeros-al-cierre-del-mes-de-agosto-de-2026.jpg?t=1790655556",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20260929/125229/125229-cuba-recibio-apenas-888-mil-viajeros-al-cierre-del-mes-de-agosto-de-2026",
+      "destacada": false,
+      "tema": "recibió",
+      "id": 43
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://actualidad.rt.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Taiwán impulsa un plan millonario para reforzar sus reservas de municiones de combate",
+      "resumen": "La iniciativa busca reforzar la capacidad de la isla para sostener operaciones militares durante más tiempo en caso de un posible bloqueo por parte de China.",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abb156c59bf5b5bdf642a75.jpg",
+      "enlace_original": "https://actualidad.rt.com/actualidad/629896-taiwan-impulsa-plan-millonario-reforzar-municion-combate?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "destacada": false,
+      "tema": "taiwán",
+      "id": 44
     }
   ]
 }
