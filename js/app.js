@@ -175,19 +175,99 @@ lista = lista.sort((a, b) => {
 }
 
 // --- PODCAST ---
+let colaAudio = [];
+let indiceCola = 0;
+let audioReproduciendo = false;
+let vozActual = null;
+
 function renderPodcast() {
-  const cont = document.getElementById('podcast');
-  cont.innerHTML = '';
-  noticias.slice(0, 6).forEach(n => {
-    const div = document.createElement('div');
-    div.className = 'podcast-item';
-    div.innerHTML = `
-      <span>${n.titulo}</span>
-      <button>▶</button>
-    `;
-    div.querySelector('button').onclick = () => reproducir(n);
-    cont.appendChild(div);
+  const selectFuente = document.getElementById('podcast-fuente');
+  if (!selectFuente) return;
+  const fuentes = [...new Set(noticias.map(n => n.fuente))].sort();
+  selectFuente.innerHTML = '<option value="">Todas las fuentes</option>' +
+    fuentes.map(f => `<option value="${f}">${f}</option>`).join('');
+
+  document.getElementById('podcast-play').onclick = () => {
+    construirCola();
+    if (!colaAudio.length) return;
+    indiceCola = 0;
+    reproducirSiguiente();
+  };
+
+  document.getElementById('podcast-pause').onclick = () => {
+    if ('speechSynthesis' in window) window.speechSynthesis.cancel();
+    if (audioReproduciendo && vozActual) vozActual.pause();
+    audioReproduciendo = false;
+  };
+
+  document.getElementById('podcast-next').onclick = () => {
+    if ('speechSynthesis' in window) window.speechSynthesis.cancel();
+    if (vozActual) vozActual.pause();
+    indiceCola++;
+    reproducirSiguiente();
+  };
+
+  document.getElementById('podcast-filtro').onchange = construirCola;
+  document.getElementById('podcast-fuente').onchange = construirCola;
+}
+
+function construirCola() {
+  const tipo = document.getElementById('podcast-filtro').value;
+  const fuente = document.getElementById('podcast-fuente').value;
+
+  colaAudio = noticias.filter(n => {
+    if (tipo === 'aleatorio') return Math.random() > 0.5;
+    if (tipo !== 'todas' && n.fuente_tipo !== tipo) return false;
+    if (fuente && n.fuente !== fuente) return false;
+    return true;
   });
+
+  const listaCont = document.getElementById('podcast-lista');
+  listaCont.innerHTML = colaAudio.map((n, i) => `
+    <div class="podcast-lista-item" data-i="${i}">
+      <span>${n.titulo}</span>
+      <small>${n.fuente}</small>
+    </div>
+  `).join('');
+
+  listaCont.querySelectorAll('.podcast-lista-item').forEach(el => {
+    el.onclick = () => {
+      indiceCola = parseInt(el.dataset.i);
+      reproducirSiguiente();
+    };
+  });
+}
+
+function reproducirSiguiente() {
+  if ('speechSynthesis' in window) window.speechSynthesis.cancel();
+  if (indiceCola >= colaAudio.length) {
+    document.getElementById('podcast-titulo').textContent = 'Fin de la lista';
+    document.getElementById('podcast-fuente-actual').textContent = '';
+    return;
+  }
+  const n = colaAudio[indiceCola];
+  document.getElementById('podcast-titulo').textContent = n.titulo;
+  document.getElementById('podcast-fuente-actual').textContent = n.fuente + ' · ' + n.categoria;
+
+  document.querySelectorAll('.podcast-lista-item').forEach(el => {
+    el.classList.toggle('actual', parseInt(el.dataset.i) === indiceCola);
+  });
+
+  if (n.audio_url) {
+    vozActual = new Audio(n.audio_url);
+    vozActual.onended = () => { indiceCola++; reproducirSiguiente(); };
+    vozActual.play();
+  } else if ('speechSynthesis' in window) {
+    const u = new SpeechSynthesisUtterance(n.titulo + '. ' + n.resumen);
+    const voces = window.speechSynthesis.getVoices();
+    const vozEs = voces.find(v => v.lang.startsWith('es'));
+    if (vozEs) u.voice = vozEs;
+    u.lang = 'es-ES';
+    u.rate = 0.95;
+    u.onend = () => { indiceCola++; reproducirSiguiente(); };
+    window.speechSynthesis.speak(u);
+  }
+  audioReproduciendo = true;
 }
 
 // --- REPRODUCTOR ---
