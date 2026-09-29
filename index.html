@@ -77,9 +77,35 @@
   </section>
 
   <section class="seccion">
-    <h2 class="seccion-titulo">🎧 Modo Podcast</h2>
-    <div id="podcast" class="podcast"></div>
-  </section>
+    <h2 class="seccion-titulo">🎧 Sala Podcast</h2>
+    <div class="sala-podcast">
+      <div class="podcast-controles">
+        <select id="podcast-filtro">
+          <option value="todas">Todos los medios</option>
+          <option value="oficial">Solo oficiales</option>
+          <option value="alternativa">Solo alternativos</option>
+          <option value="internacional">Solo internacionales</option>
+          <option value="aleatorio">🔀 Aleatorio</option>
+        </select>
+        <select id="podcast-fuente">
+          <option value="">Todas las fuentes</option>
+        </select>
+      </div>
+      <div class="podcast-player">
+        <div class="podcast-info">
+          <span class="podcast-etiqueta">AHORA SUENA</span>
+          <h4 id="podcast-titulo">Selecciona una opción y pulsa Play</h4>
+          <small id="podcast-fuente-actual"></small>
+        </div>
+        <div class="podcast-botones">
+          <button id="podcast-play">▶</button>
+          <button id="podcast-pause">⏸</button>
+          <button id="podcast-next">⏭</button>
+        </div>
+      </div>
+      <div class="podcast-lista" id="podcast-lista"></div>
+    </div>
+</section>
 
 </main>
 
