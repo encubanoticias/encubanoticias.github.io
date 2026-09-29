@@ -1,7 +1,7 @@
 {
   "fecha": "2026-09-29",
-  "hora": "10:06",
-  "total": 42,
+  "hora": "12:07",
+  "total": 44,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -79,37 +79,13 @@
       "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Ángel Santiesteban es elegido nuevo Soberano Gran Comendador de la masonería cubana",
-      "resumen": "José Ramón Viñas Alonso pasó a desempeñarse como lugarteniente gran comendador, equivalente a la vicepresidencia dentro de la Orden",
-      "imagen_url": "https://static.14ymedio.com/clip/cd31b6db-243b-4816-8407-521853303152_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/angel-santiesteban-elegido-nuevo-soberano_1_1131318.html",
+      "titulo": "El canciller cubano lamenta que la ayuda de la ONU no pueda llegar a la Isla por las \"presiones\" de EE UU",
+      "resumen": "Rodríguez agradeció el esfuerzo de las agencias de Naciones Unidas para facilitar la llegada de ayuda material\" a la Isla \"en estas difíciles circunstancias\"",
+      "imagen_url": "https://static.14ymedio.com/clip/c08062dc-a14a-4d95-9e39-a10f0c8ec6d5_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/canciller-cubano-lamenta-ayuda-onu_1_1131324.html",
       "destacada": false,
-      "tema": "ángel",
+      "tema": "canciller",
       "id": 7
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La confusión por el nuevo precio del pasaporte provoca el caos en Guanabacoa",
-      "resumen": "Numerosos cubanos se apresuran a tramitar el documento ante la incertidumbre por el arancel que eleva a 200 dólares su precio en el exterior",
-      "imagen_url": "https://static.14ymedio.com/clip/41805abc-71b8-41c3-a8eb-836e2f31d2da_source-aspect-ratio_default_0_x512y352.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/confusion-nuevo-precio-pasaporte-provoca_1_1131310.html",
-      "destacada": false,
-      "tema": "confusión",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "EE UU deporta a un cubano que perdió su cita migratoria por estar en coma inducido",
-      "resumen": "Antonio Frómeta Ascón, otro migrante de la Isla, se negó a ser expulsado a México y lleva más de un año bajo custodia del ICE Amnistía Internacional pide la eliminación del ICE por violaciones a los derechos humanos",
-      "imagen_url": "https://static.14ymedio.com/clip/eec760c2-25df-46a1-ac8e-56c8e3a42feb_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/migracion/ee-uu-deporta-cubano-perdio_1_1131317.html",
-      "destacada": false,
-      "tema": "deporta",
-      "id": 9
     },
     {
       "categoria": "energia",
@@ -121,6 +97,30 @@
       "enlace_original": "https://www.14ymedio.com/cuba/lugar-petroleo-cubanos-tendran-mezquita_1_1131282.html",
       "destacada": false,
       "tema": "tipo_cambio",
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Ángel Santiesteban es elegido nuevo Soberano Gran Comendador de la masonería cubana",
+      "resumen": "José Ramón Viñas Alonso pasó a desempeñarse como lugarteniente gran comendador, equivalente a la vicepresidencia dentro de la Orden",
+      "imagen_url": "https://static.14ymedio.com/clip/cd31b6db-243b-4816-8407-521853303152_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/angel-santiesteban-elegido-nuevo-soberano_1_1131318.html",
+      "destacada": false,
+      "tema": "ángel",
+      "id": 9
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La confusión por el nuevo precio del pasaporte provoca el caos en Guanabacoa",
+      "resumen": "Numerosos cubanos se apresuran a tramitar el documento ante la incertidumbre por el arancel que eleva a 200 dólares su precio en el exterior",
+      "imagen_url": "https://static.14ymedio.com/clip/41805abc-71b8-41c3-a8eb-836e2f31d2da_source-aspect-ratio_default_0_x512y352.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/confusion-nuevo-precio-pasaporte-provoca_1_1131310.html",
+      "destacada": false,
+      "tema": "confusión",
       "id": 10
     },
     {
@@ -256,6 +256,30 @@
       "id": 21
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Payá aconseja a un alto funcionario de la ONU lavarse las manos tras una reunión con Bruno Rodríguez",
+      "resumen": "#SOSCuba: Rosa María Payá reacciona a una publicación sobre una reunión entre Bruno Rodríguez y el alto comisionado de la #ONU para los #DDHH, Volker Türk. La Asociación Raíces de Esperanza pide que la sociedad civil cubana participe en cualquier debate sobre #Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1790681188_69167.html",
+      "destacada": false,
+      "tema": "aconseja",
+      "id": 22
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Los cubanos cuestionan 'cambios de prioridades' de ETECSA: 'Qué hicieron con todas las remesas'",
+      "resumen": "El monopolio estatal atribuye buena parte de su mal servicio a la crisis eléctrica, con 77.000 reportes de telefonía fija afectada y una infraestructura \"obsoleta y costosa\".",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1790680421_69166.html",
+      "destacada": false,
+      "tema": "cubanos",
+      "id": 23
+    },
+    {
       "categoria": "politica",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
@@ -265,7 +289,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790675331_69165.html",
       "destacada": false,
       "tema": "hundida",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "economia",
@@ -277,7 +301,7 @@
       "enlace_original": "https://diariodecuba.com/economia/1790674632_69164.html",
       "destacada": false,
       "tema": "pedro",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -289,31 +313,43 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790660714_69163.html",
       "destacada": false,
       "tema": "marco",
-      "id": 24
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Reporteros sin Fronteras exige la liberación de Henry Constantin, casi dos semanas detenido",
-      "resumen": "@RSF_esp se pronuncia sobre el encarcelamiento de #HenryConstantin, director del medio independiente \"La Hora de #Cuba\".",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1790637812_69162.html",
-      "destacada": false,
-      "tema": "reporteros",
-      "id": 25
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Nacionalización de empresas extranjeras y batida contra las cubanas: lo que el castrismo omite",
-      "resumen": "La #estatización de compañías nacionales y las restricciones a la propiedad de la tierra consolidaron el #socialismo totalitario en #Cuba. ¿Qué implican en los planes actuales del #castrismo?",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1790635247_69161.html",
-      "destacada": false,
-      "tema": "nacionalización",
       "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "“No sigamos siendo presa del miedo”: sor Nadieska llama a los cubanos a reclamar sus derechos",
+      "resumen": "La religiosa sor Nadieska Almeida llamó a los cubanos a no resignarse ante el deterioro de las condiciones de vida en la isla, la escasez de lo básico y el temor a protestar, al advertir que el agotamiento y la desesperanza no deben paralizar la defensa de los derechos y la libertad.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/no-sigamos-siendo-presa-del-miedo-sor-nadieska-llama-a-los-cubanos-a-reclamar-sus-derechos/480883.html",
+      "destacada": false,
+      "tema": "sigamos",
+      "id": 27
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Martinoticias AM",
+      "resumen": "Revista informativa con los últimos acontecimientos ocurridos en Cuba y el mundo. Con entrevistas y temas de actualidad relacionados a la política, la economía y de interés general.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/478416.html",
+      "destacada": false,
+      "tema": "martinoticias",
+      "id": 28
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba Habla: \"Lo que más se me dificulta es la comida”",
+      "resumen": "Desde Santiago de Cuba embarazada habla de la escasez de alimentos y de deficiencias del servicio médico.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-lo-que-m%c3%a1s-se-me-dificulta-es-la-comida/480461.html",
+      "destacada": false,
+      "tema": "habla",
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -325,7 +361,7 @@
       "enlace_original": "https://www.martinoticias.com/a/478413.html",
       "destacada": false,
       "tema": "",
-      "id": 27
+      "id": 30
     },
     {
       "categoria": "politica",
@@ -337,19 +373,7 @@
       "enlace_original": "https://www.martinoticias.com/a/rubio-el-r%c3%a9gimen-ya-no-podr%c3%a1-enriquecerse-a-costa-del-pueblo-cubano/480882.html",
       "destacada": false,
       "tema": "rubio",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barbacoa de Pepe",
-      "resumen": "La Barbacoa de Pepe es un muestrario de la nostalgia cubana con datos y curiosidades de los temas más variados, para la audiencia cubana. También trataremos temas internacionales y locales, siempre con el fin de educar al Cubano de la Isla. Con la elocuencia de Pepe Forte.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/477722.html",
-      "destacada": false,
-      "tema": "barbacoa",
-      "id": 29
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -361,7 +385,7 @@
       "enlace_original": "http://www.cubadebate.cu/especiales/2026/09/29/washington-habla-de-cuba-que-piensa-la-sociedad-estadounidense/",
       "destacada": false,
       "tema": "washington",
-      "id": 30
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -373,7 +397,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/el-pentagono-velara-las-elecciones-de-estados-unidos/",
       "destacada": false,
       "tema": "pentágono",
-      "id": 31
+      "id": 33
     },
     {
       "categoria": "energia",
@@ -385,7 +409,7 @@
       "enlace_original": "http://www.cubadebate.cu/especiales/2026/09/29/energia-renovable-cuadran-las-cuentas/",
       "destacada": false,
       "tema": "tienen",
-      "id": 32
+      "id": 34
     },
     {
       "categoria": "politica",
@@ -397,7 +421,7 @@
       "enlace_original": "https://periodismodebarrio.org/los-rectangulos-oscuros-que-dividen-a-cuba/",
       "destacada": false,
       "tema": "rectángulos",
-      "id": 33
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -409,7 +433,7 @@
       "enlace_original": "https://periodismodebarrio.org/maternidades-desterradas-el-costo-infantil-del-presidio-politico-en-cuba/",
       "destacada": false,
       "tema": "maternidades",
-      "id": 34
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -421,7 +445,7 @@
       "enlace_original": "https://periodismodebarrio.org/maferefun-regla/",
       "destacada": false,
       "tema": "maferefún",
-      "id": 35
+      "id": 37
     },
     {
       "categoria": "economia",
@@ -433,7 +457,7 @@
       "enlace_original": "https://periodismodebarrio.org/farmacias-privadas-en-cuba/",
       "destacada": false,
       "tema": "lucrativo",
-      "id": 36
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -445,7 +469,7 @@
       "enlace_original": "https://periodismodebarrio.org/informe-human-rights-watch-derechos-humanos-cuba/",
       "destacada": false,
       "tema": "informe",
-      "id": 37
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -457,7 +481,7 @@
       "enlace_original": "https://www.cubainformacion.tv/solidaridad/20260929/125223/125223-fiesta-solidaria-kuba-eguna-denunciara-el-genocidio-silencioso-que-sufre-cuba-sabado-10-de-octubre-barrio-de-errekalde-bilbao",
       "destacada": false,
       "tema": "fiesta",
-      "id": 38
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -469,7 +493,7 @@
       "enlace_original": "https://www.cubainformacion.tv/solidaridad/20260929/125158/125158-jornada-kuba-genozidioari-aurre-egin-apoyara-la-resistencia-de-las-mujeres-cubanas-frente-al-cerco-de-ee-uu-hernani-sabado-3-de-octubre",
       "destacada": false,
       "tema": "jornada",
-      "id": 39
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -481,7 +505,7 @@
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125234/125234-66-aniversario-de-los-cdr-pilar-de-la-revolucion-cubana",
       "destacada": false,
       "tema": "aniversario",
-      "id": 40
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -493,7 +517,7 @@
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125233/125233-los-cubanos-dicen-basta-la-calle-habla",
       "destacada": false,
       "tema": "cubanos",
-      "id": 41
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -505,7 +529,7 @@
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125232/125232-se-viene-el-segundo-capitulo-de-la-traicion-trump-esta-claro-no-es-solo-maria-elvira",
       "destacada": false,
       "tema": "viene",
-      "id": 42
+      "id": 44
     }
   ]
 }
