@@ -1,7 +1,7 @@
 {
   "fecha": "2026-09-29",
-  "hora": "05:05",
-  "total": 44,
+  "hora": "06:06",
+  "total": 45,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -65,18 +65,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Museo Servando Cabrera de La Habana rendirá tributo al pintor cubano",
-      "resumen": "La Habana, 29 sep (Prensa Latina) A 45 años del fallecimiento del artista Servando Cabrera, la especialista Teresa Toranzo presidirá hoy aquí un conversatorio sobre el papel de este creador en la pintura cubana, un evento organizado por el Museo Biblioteca Servando Cabrera. The post Museo Servando C",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/29/museo-servando-cabrera-de-la-habana-rendira-tributo-al-pintor-cubano/",
-      "destacada": false,
-      "tema": "museo",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
       "titulo": "Ángel Santiesteban es elegido nuevo Soberano Gran Comendador de la masonería cubana",
@@ -85,7 +73,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/angel-santiesteban-elegido-nuevo-soberano_1_1131318.html",
       "destacada": false,
       "tema": "ángel",
-      "id": 7
+      "id": 6
     },
     {
       "categoria": "economia",
@@ -97,7 +85,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/confusion-nuevo-precio-pasaporte-provoca_1_1131310.html",
       "destacada": false,
       "tema": "confusión",
-      "id": 8
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -109,7 +97,7 @@
       "enlace_original": "https://www.14ymedio.com/migracion/ee-uu-deporta-cubano-perdio_1_1131317.html",
       "destacada": false,
       "tema": "deporta",
-      "id": 9
+      "id": 8
     },
     {
       "categoria": "energia",
@@ -121,7 +109,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/lugar-petroleo-cubanos-tendran-mezquita_1_1131282.html",
       "destacada": false,
       "tema": "tipo_cambio",
-      "id": 10
+      "id": 9
     },
     {
       "categoria": "economia",
@@ -133,43 +121,67 @@
       "enlace_original": "https://www.14ymedio.com/cuba/regimen-cubano-sigue-empeno-reformar_1_1131275.html",
       "destacada": false,
       "tema": "régimen",
+      "id": 10
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Rubio: «Ya no van a poder robar dinero y ganar dinero a costa del pueblo cubano» mientras Trump sea presidente",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e135253-s27061-nid341449-rubio-van-poder-robar-dinero-ganar-dinero-costa",
+      "destacada": false,
+      "tema": "rubio",
       "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Marco Rubio advierte al régimen cubano: «Aprenderán la lección por las malas si no corrigen»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e135253-s27061-nid341448-marco-rubio-advierte-al-regimen-cubano-aprenderan",
+      "destacada": false,
+      "tema": "marco",
+      "id": 12
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Evitan que se incendie equipo de esterilización en Hospital Materno América Arias en La Habana",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e135253-s27061-nid341445-evitan-incendie-equipo-esterilizacion-hospital",
+      "destacada": false,
+      "tema": "evitan",
+      "id": 13
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Médico cubano en Holguín: «Me pusieron a elegir: entre viajar y vivir, entre ser médico y comer»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e135253-s27061-nid341444-medico-cubano-holguin-me-pusieron-elegir-viajar",
+      "destacada": false,
+      "tema": "médico",
+      "id": 14
     },
     {
       "categoria": "economia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Así cierra el mercado informal en Cuba: el dólar y el euro buscando altura",
+      "titulo": "El dólar se acerca a los 750 pesos en Cuba tras nueva subida",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e209395-s27061-nid341295-asi-cierra-mercado-informal-cuba-dolar-euro-buscando",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e135253-s27061-nid341442-dolar-acerca-750-pesos-cuba-tras-nueva-subida",
       "destacada": false,
       "tema": "tipo_cambio",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Régimen cubano afirma en la ONU que está abierto a relaciones comerciales y de negocios con compañías estadounidenses",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e199894-s27061-nid341296-regimen-cubano-afirma-onu-esta-abierto-relaciones",
-      "destacada": false,
-      "tema": "régimen",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Esposa de cubano autodeportado suplica a congresistas una visa humanitaria para que su hija no enfrente sola su cuarta cirugía",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-27-u1-e208574-s27061-nid341290-esposa-cubano-autodeportado-suplica-congresistas",
-      "destacada": false,
-      "tema": "esposa",
-      "id": 14
+      "id": 15
     },
     {
       "categoria": "politica",
@@ -181,7 +193,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/destacados/cuba-denuncia-en-la-onu-el-bloqueo-energetico-de-eeuu-y-alerta-sobre-el-avance-del-expansionismo/",
       "destacada": false,
       "tema": "denuncia",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "politica",
@@ -193,7 +205,7 @@
       "enlace_original": "https://www.radiocubana.cu/eventos/comienza-edicion-36-del-taller-y-concurso-nacional-de-la-radio-joven-antonio-lloga-in-memoriam/",
       "destacada": false,
       "tema": "comienza",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "politica",
@@ -205,7 +217,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-cada-voz-en-cuba-importa-episodio-01/",
       "destacada": false,
       "tema": "criterio",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "politica",
@@ -217,7 +229,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-sobre-transformaciones-economicas-y-sociales-en-cuba/",
       "destacada": false,
       "tema": "criterio",
-      "id": 18
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -229,7 +241,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/podcast-a-contracorriente-capitulo-49-cuba-y-la-inteligencia-artificial/",
       "destacada": false,
       "tema": "podcast",
-      "id": 19
+      "id": 20
     },
     {
       "categoria": "economia",
@@ -241,7 +253,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260928/el-fuego-simbolo-de-rebeldia/",
       "destacada": false,
       "tema": "fuego",
-      "id": 20
+      "id": 21
     },
     {
       "categoria": "economia",
@@ -253,7 +265,19 @@
       "enlace_original": "https://www.trabajadores.cu/20260927/con-bloqueo-cuesta-mas/",
       "destacada": false,
       "tema": "bloqueo",
-      "id": 21
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Marco Rubio al régimen cubano: 'Aprenderán la lección por las malas'",
+      "resumen": "El secretario de Estado de EEUU, Marco Rubio, advierte al régimen que no podrá esperar a que Trump deje el poder sin introducir cambios: 'aprenderán la lección por las malas'.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1790660714_69163.html",
+      "destacada": false,
+      "tema": "marco",
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -265,7 +289,7 @@
       "enlace_original": "https://diariodecuba.com/derechos-humanos/1790637812_69162.html",
       "destacada": false,
       "tema": "reporteros",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -277,7 +301,7 @@
       "enlace_original": "https://diariodecuba.com/economia/1790635247_69161.html",
       "destacada": false,
       "tema": "nacionalización",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -289,7 +313,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790630789_69160.html",
       "destacada": false,
       "tema": "escritor",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "politica",
@@ -301,19 +325,7 @@
       "enlace_original": "https://diariodecuba.com/internacional/1790624583_69158.html",
       "destacada": false,
       "tema": "justicia",
-      "id": 25
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Habana también le hace el trabajo sucio a Moscú en los comités deportivos internacionales",
-      "resumen": "La Federación #Cubana de #Ajedrez apoya a un candidato de #Rusia en las elecciones de @FIDE_chess, pese a la suspensión de Moscú del organismo debido a la invasión de #Ucrania.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/deportes/1790616881_69155.html",
-      "destacada": false,
-      "tema": "habana",
-      "id": 26
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -325,7 +337,7 @@
       "enlace_original": "https://www.martinoticias.com/a/478413.html",
       "destacada": false,
       "tema": "",
-      "id": 27
+      "id": 28
     },
     {
       "categoria": "politica",
@@ -337,7 +349,7 @@
       "enlace_original": "https://www.martinoticias.com/a/rubio-el-r%c3%a9gimen-ya-no-podr%c3%a1-enriquecerse-a-costa-del-pueblo-cubano/480882.html",
       "destacada": false,
       "tema": "rubio",
-      "id": 28
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -349,7 +361,7 @@
       "enlace_original": "https://www.martinoticias.com/a/477722.html",
       "destacada": false,
       "tema": "barbacoa",
-      "id": 29
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -361,7 +373,7 @@
       "enlace_original": "https://www.martinoticias.com/a/477721.html",
       "destacada": false,
       "tema": "noticiero",
-      "id": 30
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -373,7 +385,7 @@
       "enlace_original": "http://www.cubadebate.cu/especiales/2026/09/29/washington-habla-de-cuba-que-piensa-la-sociedad-estadounidense/",
       "destacada": false,
       "tema": "washington",
-      "id": 31
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -385,7 +397,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/el-pentagono-velara-las-elecciones-de-estados-unidos/",
       "destacada": false,
       "tema": "pentágono",
-      "id": 32
+      "id": 33
     },
     {
       "categoria": "energia",
@@ -397,7 +409,7 @@
       "enlace_original": "http://www.cubadebate.cu/especiales/2026/09/29/energia-renovable-cuadran-las-cuentas/",
       "destacada": false,
       "tema": "tienen",
-      "id": 33
+      "id": 34
     },
     {
       "categoria": "politica",
@@ -409,7 +421,7 @@
       "enlace_original": "https://periodismodebarrio.org/los-rectangulos-oscuros-que-dividen-a-cuba/",
       "destacada": false,
       "tema": "rectángulos",
-      "id": 34
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -421,7 +433,7 @@
       "enlace_original": "https://periodismodebarrio.org/maternidades-desterradas-el-costo-infantil-del-presidio-politico-en-cuba/",
       "destacada": false,
       "tema": "maternidades",
-      "id": 35
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -433,7 +445,7 @@
       "enlace_original": "https://periodismodebarrio.org/maferefun-regla/",
       "destacada": false,
       "tema": "maferefún",
-      "id": 36
+      "id": 37
     },
     {
       "categoria": "economia",
@@ -445,7 +457,7 @@
       "enlace_original": "https://periodismodebarrio.org/farmacias-privadas-en-cuba/",
       "destacada": false,
       "tema": "lucrativo",
-      "id": 37
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -457,7 +469,7 @@
       "enlace_original": "https://periodismodebarrio.org/informe-human-rights-watch-derechos-humanos-cuba/",
       "destacada": false,
       "tema": "informe",
-      "id": 38
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -469,7 +481,7 @@
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125234/125234-66-aniversario-de-los-cdr-pilar-de-la-revolucion-cubana",
       "destacada": false,
       "tema": "aniversario",
-      "id": 39
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -481,7 +493,7 @@
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125233/125233-los-cubanos-dicen-basta-la-calle-habla",
       "destacada": false,
       "tema": "cubanos",
-      "id": 40
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -493,7 +505,7 @@
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125232/125232-se-viene-el-segundo-capitulo-de-la-traicion-trump-esta-claro-no-es-solo-maria-elvira",
       "destacada": false,
       "tema": "viene",
-      "id": 41
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -505,7 +517,7 @@
       "enlace_original": "https://www.cubainformacion.tv/cuba/20260929/125230/125230-mercado-en-el-socialismo-cubano-adios-a-la-planificacion",
       "destacada": false,
       "tema": "mercado",
-      "id": 42
+      "id": 43
     },
     {
       "categoria": "transporte",
@@ -517,7 +529,7 @@
       "enlace_original": "https://www.cubainformacion.tv/cuba/20260929/125229/125229-cuba-recibio-apenas-888-mil-viajeros-al-cierre-del-mes-de-agosto-de-2026",
       "destacada": false,
       "tema": "recibió",
-      "id": 43
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -529,7 +541,7 @@
       "enlace_original": "https://actualidad.rt.com/actualidad/629896-taiwan-impulsa-plan-millonario-reforzar-municion-combate?utm_source=rss&utm_medium=rss&utm_campaign=all",
       "destacada": false,
       "tema": "taiwán",
-      "id": 44
+      "id": 45
     }
   ]
 }
