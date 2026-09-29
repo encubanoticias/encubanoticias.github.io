@@ -1,8 +1,20 @@
 {
   "fecha": "2026-09-29",
-  "hora": "17:05",
-  "total": 43,
+  "hora": "18:07",
+  "total": 51,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Otorgan premio de la Academia de Ciencias de Cuba a investigación sobre transformaciones educativas",
+      "resumen": "El reconocimiento fue entregado al Instituto Central de Ciencias Pedagógicas",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/ciencia/2026-09-29/otorgan-premio-de-la-academia-de-ciencias-de-cuba-a-investigacion-sobre-transformaciones-educativas-29-09-2026-13-09-09",
+      "destacada": true,
+      "tema": "otorgan",
+      "id": 1
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
@@ -13,7 +25,7 @@
       "enlace_original": "http://www.granma.cu/mundo/2026-09-29/la-politica-agresiva-de-ee-uu-contra-cuba-solo-puede-sostenerse-por-la-fuerza-y-la-intimidacion-29-09-2026-12-09-46",
       "destacada": true,
       "tema": "política",
-      "id": 1
+      "id": 2
     },
     {
       "categoria": "sociedad",
@@ -25,7 +37,19 @@
       "enlace_original": "http://www.granma.cu/diarios-de-navegacion/2026-09-28/una-exposicion-que-acerco-los-pueblos-de-cuba-y-china-28-09-2026-14-09-05",
       "destacada": true,
       "tema": "exposición",
-      "id": 2
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Alejandro Claro corona la expedición cubana en China",
+      "resumen": "El boxeo logró una medalla de cada color en el certamen llamado Ruta de la Seda",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-09-28/alejandro-claro-corona-la-expedicion-cubana-en-china-28-09-2026-16-09-20",
+      "destacada": true,
+      "tema": "alejandro",
+      "id": 4
     },
     {
       "categoria": "transporte",
@@ -37,43 +61,43 @@
       "enlace_original": "http://www.granma.cu/cuba/2026-09-29/onat-recuerda-vencimiento-del-pago-de-impuestos-sobre-transporte-y-embarcaciones-29-09-2026-11-09-46",
       "destacada": true,
       "tema": "recuerda",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Jornada de cultura, memoria y valor para los adultos mayores de Cuba",
-      "resumen": "El país despliega un amplio programa de celebración dedicada a su población envejecida, bajo el lema Celebrando la vida, honrando la experiencia",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-09-28/jornada-de-cultura-memoria-y-valor-para-los-adultos-mayores-de-cuba-28-09-2026-15-09-34",
-      "destacada": true,
-      "tema": "jornada",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba, 43 veces contra el bloqueo en podio de la ONU",
-      "resumen": "Naciones Unidas, 29 sep (Prensa Latina) Cuarentaitrés veces se escuchó aquí el reclamo a favor del levantamiento del bloqueo de Estados Unidos a Cuba, al cierre de una semana de alto nivel en la Asamblea General de la ONU. The post Cuba, 43 veces contra el bloqueo en podio de la ONU first appeared o",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/29/cuba-43-veces-contra-el-bloqueo-en-podio-de-la-onu/",
-      "destacada": true,
-      "tema": "veces",
       "id": 5
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Segundo boletín de deportes",
-      "resumen": "Estos son los titulares: -Medvédev conquista Hangzhou y fortalece su ruta hacia Turín -Tenista español Davidovich Fokina alza el trofeo en Chengdú -Cubano Raidel Martínez alcanza los 42 salvamentos en Japón -Fútbol mundial: FIFA y UEFA chocan por proyecto empresarial The post Segundo boletín de depo",
+      "titulo": "Cuba y Rusia celebran cooperación en el ámbito cinematográfico",
+      "resumen": "La Habana, 29 sep (Prensa Latina) Cuba y Rusia mantienen hoy una estrecha colaboración cultural con impacto en el séptimo arte, ello incluye exhibiciones cinematográficas mutuas, intercambio de archivos fílmicos y proyectos de animación conjuntos con el estudio Soyuzmultfilm. The post Cuba y Rusia c",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/29/segundo-boletin-de-deportes-844/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/29/cuba-y-rusia-celebran-cooperacion-en-el-ambito-cinematografico/",
       "destacada": false,
-      "tema": "segundo",
+      "tema": "rusia",
       "id": 6
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Mercado de barrio, nueva experiencia social en Cuba",
+      "resumen": "La Habana, 29 sep (Prensa Latina) El mercado de barrio es una experiencia que comienza a extenderse hoy en Cuba, impulsada por las transformaciones económicas y sociales del país para propiciar que los productos destinados a la población tengan precios más bajos. The post Mercado de barrio, nueva ex",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/29/mercado-de-barrio-nueva-experiencia-social-en-cuba/",
+      "destacada": false,
+      "tema": "mercado",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Fortalecen en Cuba soberanía alimentaria frente al cambio climático",
+      "resumen": "Holguín, Cuba, 29 sep (Prensa Latina) La provincia oriental de Holguín inició hoy la capacitación del proyecto NutriVida, iniciativa intersectorial articulada con las Naciones Unidas para consolidar la soberanía alimentaria en Cuba mediante la gestión local del riesgo climático. The post Fortalecen ",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/29/fortalecen-en-cuba-soberania-alimentaria-frente-al-cambio-climatico/",
+      "destacada": false,
+      "tema": "fortalecen",
+      "id": 8
     },
     {
       "categoria": "politica",
@@ -85,7 +109,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/rubio-advierte-si-no-cambios_1_1131322.html",
       "destacada": false,
       "tema": "rubio",
-      "id": 7
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -97,7 +121,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/canciller-cubano-lamenta-ayuda-onu_1_1131324.html",
       "destacada": false,
       "tema": "canciller",
-      "id": 8
+      "id": 10
     },
     {
       "categoria": "energia",
@@ -109,7 +133,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/lugar-petroleo-cubanos-tendran-mezquita_1_1131282.html",
       "destacada": false,
       "tema": "tipo_cambio",
-      "id": 9
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -121,7 +145,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/angel-santiesteban-elegido-nuevo-soberano_1_1131318.html",
       "destacada": false,
       "tema": "ángel",
-      "id": 10
+      "id": 12
     },
     {
       "categoria": "economia",
@@ -133,7 +157,55 @@
       "enlace_original": "https://www.14ymedio.com/cuba/confusion-nuevo-precio-pasaporte-provoca_1_1131310.html",
       "destacada": false,
       "tema": "confusión",
-      "id": 11
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Ricos y pobres teniendo un bebé: El sketch de una cubana que desató risas en redes",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u208487-e208487-s27065-nid341480-ricos-pobres-teniendo-bebe-sketch-cubana-desato",
+      "destacada": false,
+      "tema": "ricos",
+      "id": 14
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Arabia Saudí financia una mezquita de 9 millones de dólares en La Habana mientras Cuba sigue sin petróleo",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e207888-s27061-nid341475-arabia-saudi-financia-mezquita-9-millones-dolares",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Qué tristeza la de Cuba, caballero»: cubana se emociona al recordar las Navidades de antes",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u65722-e65722-s27065-nid341478-tristeza-cuba-caballero-cubana-emociona-al",
+      "destacada": false,
+      "tema": "tristeza",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Sobrino nieto de Fidel Castro asegura que no tiene aspiraciones de gobernar Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e129488-s27061-nid341477-sobrino-nieto-fidel-castro-asegura-tiene",
+      "destacada": false,
+      "tema": "sobrino",
+      "id": 17
     },
     {
       "categoria": "economia",
@@ -145,55 +217,67 @@
       "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e135253-s27061-nid341473-asi-venden-alimentos-mercado-barrio-inaugurado",
       "destacada": false,
       "tema": "venden",
-      "id": 12
+      "id": 18
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "categoria": "transporte",
+      "fuente": "https://www.radiocubana.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Reporteros Sin Fronteras condena el encarcelamiento de Henry Constantín, director de La Hora de Cuba",
-      "resumen": "",
+      "titulo": "Grata «Coincidencia» entre el deporte y la cultura cubana",
+      "resumen": "«Coincidencia» es el título de una nueva producción audiovisual de Radioarte y la Radio Cubana para enlazar el deporte con la cultura. Conducido por el periodista Joel García León, el espacio de hoy se estrena con la presencia de Ana Fidelia Quirós, leyenda del atletismo cubano y considerada la mejo",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u207888-e207888-s27061-nid341469-reporteros-fronteras-condena-encarcelamiento",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/grata-coincidencia-entre-el-deporte-y-la-cultura-cubana/",
       "destacada": false,
-      "tema": "reporteros",
-      "id": 13
+      "tema": "grata",
+      "id": 19
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Miami y Tampa se disputan el sándwich cubano: ¿dónde nació realmente?",
-      "resumen": "",
+      "titulo": "Cuba denuncia en la ONU el bloqueo energético de EEUU y alerta sobre el avance del expansionismo",
+      "resumen": "El ministro de Relaciones Exteriores de Cuba, Bruno Rodríguez Parrilla, pronunció este sábado su discurso ante la Asamblea General de la Organización de las Naciones Unidas (ONU), en un contexto internacional signado por la creciente presión de Estados Unidos contra la isla y los desafíos que de ell",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e135253-s27061-nid341471-miami-tampa-disputan-sandwich-cubano-donde-nacio",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/destacados/cuba-denuncia-en-la-onu-el-bloqueo-energetico-de-eeuu-y-alerta-sobre-el-avance-del-expansionismo/",
       "destacada": false,
-      "tema": "miami",
-      "id": 14
+      "tema": "denuncia",
+      "id": 20
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba estudió cientos de hígados de fallecidos por COVID-19 para entender las secuelas de la enfermedad",
-      "resumen": "",
+      "titulo": "Comienza Edición 36 del Taller y Concurso Nacional de la Radio Joven Antonio Lloga in memoriam",
+      "resumen": "La edición 36 del Taller y Concurso Nacional «Antonio Lloga in memoriam» se inauguró esta tarde en el Salón de los Espejos, del gobierno provincial en Santiago de Cuba. En la jornada, se reconoció como Maestros de la radio a los realizadores Luis Izquierdo Valdés, de la emisora Radio Rebelde, y Césa",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e135253-s27061-nid341467-cuba-estudio-cientos-higados-fallecidos-covid-19",
+      "enlace_original": "https://www.radiocubana.cu/eventos/comienza-edicion-36-del-taller-y-concurso-nacional-de-la-radio-joven-antonio-lloga-in-memoriam/",
       "destacada": false,
-      "tema": "estudió",
-      "id": 15
+      "tema": "comienza",
+      "id": 21
     },
     {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Sin frenos: El dólar y el euro continúan su escalada de precios en el mercado informal cubano",
-      "resumen": "",
+      "titulo": "Criterio Compartido: «Cada voz en Cuba importa» Episodio 01",
+      "resumen": "El Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, dedicó la primera emisión de Criterio Compartido a explicar las transformaciones económicas y sociales que comienza a implementar el país, responder directamente a preocupa",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e129488-s27061-nid341466-freno-dolar-euro-continuan-escalada-precios-mercado",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-cada-voz-en-cuba-importa-episodio-01/",
       "destacada": false,
-      "tema": "tipo_cambio",
-      "id": 16
+      "tema": "criterio",
+      "id": 22
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Criterio Compartido» sobre transformaciones económicas y sociales en Cuba (+ Audio en vivo)",
+      "resumen": "¿Conoce usted sobre las transformaciones económicas y sociales? ¿Cómo cree que impactan en su vida?. Ese será el tema de la primera emisión del programa radial «Criterio Compartido», que contará con la presencia del primer secretario del Comité Central del Partido Comunista de Cuba y presidente de l",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-sobre-transformaciones-economicas-y-sociales-en-cuba/",
+      "destacada": false,
+      "tema": "criterio",
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -205,7 +289,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260929/nueva-oportunidad-laboral-con-aics-la-habana/",
       "destacada": false,
       "tema": "nueva",
-      "id": 17
+      "id": 24
     },
     {
       "categoria": "economia",
@@ -217,7 +301,31 @@
       "enlace_original": "https://www.trabajadores.cu/20260928/el-fuego-simbolo-de-rebeldia/",
       "destacada": false,
       "tema": "fuego",
-      "id": 18
+      "id": 25
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La diáspora como estética: a partir de  ‘Raíces en tránsito: 30 artistas de la diáspora cubana’",
+      "resumen": "'No cerrar el relato de una generación de artistas cubanos desplazados, sino contribuir a que ese relato deje de ser necesario como explicación total'.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cultura/1790703969_69173.html",
+      "destacada": false,
+      "tema": "diáspora",
+      "id": 26
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El viceprimer ministro de Cuba niega que vaya a ocupar el puesto de Díaz-Canel",
+      "resumen": "'Trabajaré donde se me necesite, sin aspirar a ningún puesto en particular', afirma #ÓscarPérezOlivaFraga, sobrino nieto de #FidelCastro, ante los rumores de que estaría siendo preparado como nuevo gobernante de #Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1790702323_69172.html",
+      "destacada": false,
+      "tema": "viceprimer",
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -229,7 +337,7 @@
       "enlace_original": "https://diariodecuba.com/derechos-humanos/1790690988_69170.html",
       "destacada": false,
       "tema": "régimen",
-      "id": 19
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -241,7 +349,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790688740_69169.html",
       "destacada": false,
       "tema": "investigación",
-      "id": 20
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -253,31 +361,31 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790685969_69168.html",
       "destacada": false,
       "tema": "aumentan",
-      "id": 21
+      "id": 30
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Así se ve la 'bancarización' forzada en La Habana",
+      "titulo": "Cuba al Día",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1790685150_69118.html",
+      "enlace_original": "https://www.martinoticias.com/a/478427.html",
       "destacada": false,
-      "tema": "bancarización",
-      "id": 22
+      "tema": "",
+      "id": 31
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Payá aconseja a un alto funcionario de la ONU lavarse las manos tras una reunión con Bruno Rodríguez",
-      "resumen": "#SOSCuba: Rosa María Payá reacciona a una publicación sobre una reunión entre Bruno Rodríguez y el alto comisionado de la #ONU para los #DDHH, Volker Türk. La Asociación Raíces de Esperanza pide que la sociedad civil cubana participe en cualquier debate sobre #Cuba.",
+      "titulo": "Abundante sangre cubana en la postemporada de Grandes Ligas",
+      "resumen": "Luego de dejar una profunda huella en la temporada regular que terminó el domingo, 13 peloteros de sangre cubana estarán en los playoffs que comienzan este martes.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1790681188_69167.html",
+      "enlace_original": "https://www.martinoticias.com/a/abundante-sangre-cubana-en-la-postemporada-de-grandes-ligas/480895.html",
       "destacada": false,
-      "tema": "aconseja",
-      "id": 23
+      "tema": "abundante",
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -289,7 +397,7 @@
       "enlace_original": "https://www.martinoticias.com/a/478424.html",
       "destacada": false,
       "tema": "noticiero",
-      "id": 24
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -301,7 +409,7 @@
       "enlace_original": "https://www.martinoticias.com/a/478422.html",
       "destacada": false,
       "tema": "barrio",
-      "id": 25
+      "id": 34
     },
     {
       "categoria": "energia",
@@ -313,31 +421,19 @@
       "enlace_original": "https://www.martinoticias.com/a/periodista-cubano-henry-constant%c3%adn-recibe-su-primera-visita-en-prisi%c3%b3n/480887.html",
       "destacada": false,
       "tema": "periodista",
-      "id": 26
+      "id": 35
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Lawton Libre",
-      "resumen": "El reconocido opositor cubano Dr. Oscar Elías Biscet aborda la situación de los derechos humanos en Cuba y la conquista de las libertades básicas de los cubanos, bajo el precepto de que “si aprendes a ser libre, todos los seremos”. Correo Electrónico: lawtonlibremarti@gmail.com",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba conquista oro y plata en el Brazil Open de Taekwondo 2026 con sus dos únicos representantes y termina tercera por países",
+      "resumen": "Cuba protagonizó una actuación sobresaliente en el Brazil Open de Taekwondo 2026, al conquistar una medalla de oro y otra de plata con sus dos únicos representantes y finalizar en el tercer lugar de la clasificación por países. La corona llegó de la mano de Arlettys de la Caridad Acosta, quien se im",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/478419.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/cuba-conquista-oro-y-plata-en-el-brazil-open-de-taekwondo-2026-con-sus-dos-unicos-representantes-y-termina-tercera-por-paises/",
       "destacada": false,
-      "tema": "lawton",
-      "id": 27
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Iris Mariño sobre Henry Constantín: \"Está \"bien de ánimo, con mucha fuerza de voluntad\"",
-      "resumen": "El periodista independiente Henry Constantín, director de La Hora de Cuba, tuvo el lunes su primera visita en la prisión Kilo 7, en Camagüey. La periodista Iris Mariño, integrante del medio, así lo dijo a Martí Noticias.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/iris-mari%c3%b1o-sobre-henry-constant%c3%adn-est%c3%a1-bien-de-%c3%a1nimo-con-mucha-fuerza-de-voluntad/480888.html",
-      "destacada": false,
-      "tema": "mariño",
-      "id": 28
+      "tema": "conquista",
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -349,7 +445,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/insmet-tormenta-tropical-hanna-no-representa-peligro-para-cuba/",
       "destacada": false,
       "tema": "insmet",
-      "id": 29
+      "id": 37
     },
     {
       "categoria": "transporte",
@@ -361,7 +457,7 @@
       "enlace_original": "http://www.cubadebate.cu/especiales/2026/09/29/en-estreno-podcast-es-la-idea-con-huan-xi-embajador-de-china-en-cuba/",
       "destacada": false,
       "tema": "estreno",
-      "id": 30
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -373,7 +469,7 @@
       "enlace_original": "http://www.cubadebate.cu/fotorreportajes/2026/09/29/en-imagenes-el-verso-de-silvio-rodriguez-hace-cita-en-sevilla/",
       "destacada": false,
       "tema": "imágenes",
-      "id": 31
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -385,19 +481,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/firman-cuba-y-rusia-protocolo-bilateral-para-fortalecer-cooperacion-cultural-y-deportiva/",
       "destacada": false,
       "tema": "firman",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Raidel Martínez alcanza los 42 salvamentos en Liga Japonesa de Béisbol",
-      "resumen": "El lanzador cubano Raidel Martínez volvió a bajar hoy el telón en la Liga Japonesa de Béisbol Profesional al conseguir su salvamento 42 de la temporada, en el triunfo 3-1 de los Gigantes de Yomiuri sobre Hiroshima. El derecho trabajó el noveno episodio en el Tokyo Dome, concedió un boleto, pero no p",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/raidel-martinez-alcanza-los-42-salvamentos-en-liga-japonesa-de-beisbol/",
-      "destacada": false,
-      "tema": "raidel",
-      "id": 33
+      "id": 40
     },
     {
       "categoria": "politica",
@@ -409,7 +493,7 @@
       "enlace_original": "https://periodismodebarrio.org/los-rectangulos-oscuros-que-dividen-a-cuba/",
       "destacada": false,
       "tema": "rectángulos",
-      "id": 34
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -421,7 +505,7 @@
       "enlace_original": "https://periodismodebarrio.org/maternidades-desterradas-el-costo-infantil-del-presidio-politico-en-cuba/",
       "destacada": false,
       "tema": "maternidades",
-      "id": 35
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -433,7 +517,7 @@
       "enlace_original": "https://periodismodebarrio.org/maferefun-regla/",
       "destacada": false,
       "tema": "maferefún",
-      "id": 36
+      "id": 43
     },
     {
       "categoria": "economia",
@@ -445,7 +529,7 @@
       "enlace_original": "https://periodismodebarrio.org/farmacias-privadas-en-cuba/",
       "destacada": false,
       "tema": "lucrativo",
-      "id": 37
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -457,7 +541,7 @@
       "enlace_original": "https://periodismodebarrio.org/informe-human-rights-watch-derechos-humanos-cuba/",
       "destacada": false,
       "tema": "informe",
-      "id": 38
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -469,7 +553,7 @@
       "enlace_original": "https://www.cubainformacion.tv/solidaridad/20260929/125223/125223-fiesta-solidaria-kuba-eguna-denunciara-el-genocidio-silencioso-que-sufre-cuba-sabado-10-de-octubre-barrio-de-errekalde-bilbao",
       "destacada": false,
       "tema": "fiesta",
-      "id": 39
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -481,7 +565,7 @@
       "enlace_original": "https://www.cubainformacion.tv/solidaridad/20260929/125158/125158-jornada-kuba-genozidioari-aurre-egin-apoyara-la-resistencia-de-las-mujeres-cubanas-frente-al-cerco-de-ee-uu-hernani-sabado-3-de-octubre",
       "destacada": false,
       "tema": "jornada",
-      "id": 40
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -493,7 +577,7 @@
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125234/125234-66-aniversario-de-los-cdr-pilar-de-la-revolucion-cubana",
       "destacada": false,
       "tema": "aniversario",
-      "id": 41
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -505,7 +589,7 @@
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125233/125233-los-cubanos-dicen-basta-la-calle-habla",
       "destacada": false,
       "tema": "cubanos",
-      "id": 42
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -517,7 +601,19 @@
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125232/125232-se-viene-el-segundo-capitulo-de-la-traicion-trump-esta-claro-no-es-solo-maria-elvira",
       "destacada": false,
       "tema": "viene",
-      "id": 43
+      "id": 50
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://actualidad.rt.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La guerra contra Irán encarece tu café y casi todo lo demás: ¿por qué?",
+      "resumen": "Meses de bloqueos y ataques han mostrado las consecuencias en la economía mundial.",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abbf04ee9ff7145547f6666.jpg",
+      "enlace_original": "https://actualidad.rt.com/actualidad/630004-guerra-iran-encarecer-cafe-casi-todo?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "destacada": false,
+      "tema": "guerra",
+      "id": 51
     }
   ]
 }
