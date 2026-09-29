@@ -40,16 +40,24 @@ function renderCarrusel() {
     if (porTipo[n.fuente_tipo]) porTipo[n.fuente_tipo].push(n);
   });
 
-  const tiposConDatos = Object.keys(porTipo).filter(t => porTipo[t].length > 0);
-  if (!tiposConDatos.length) return;
-
-  const porTipoMax = Math.ceil(maxCarrusel / tiposConDatos.length);
+  // Intercalar: uno de cada tipo, en ronda
   const seleccion = [];
-  tiposConDatos.forEach(tipo => {
-    porTipo[tipo].slice(0, porTipoMax).forEach(n => seleccion.push(n));
-  });
+  const maxPorTipo = maxCarrusel;
+  let i = 0;
+  while (seleccion.length < maxCarrusel) {
+    let agregoAlguno = false;
+    for (const tipo of ['oficial', 'alternativa', 'internacional']) {
+      if (porTipo[tipo][i]) {
+        seleccion.push(porTipo[tipo][i]);
+        agregoAlguno = true;
+        if (seleccion.length >= maxCarrusel) break;
+      }
+    }
+    if (!agregoAlguno) break;
+    i++;
+  }
 
-  // Si aún falta para llegar al máximo, rellenar con las que sobren
+  // Si aún falta, rellenar con las que sobren
   if (seleccion.length < maxCarrusel) {
     const idsEnSeleccion = new Set(seleccion.map(n => n.id));
     for (const n of noticias) {
@@ -58,7 +66,7 @@ function renderCarrusel() {
     }
   }
 
-  const destacadas = seleccion.slice(0, maxCarrusel);
+  const destacadas = seleccion;
 
   destacadas.forEach((n, i) => {
     const div = document.createElement('div');
