@@ -1,7 +1,7 @@
 {
   "fecha": "2026-09-29",
-  "hora": "02:04",
-  "total": 43,
+  "hora": "03:05",
+  "total": 42,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -65,6 +65,18 @@
     },
     {
       "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Embajador cubano agradece solidaridad de activista política mexicana",
+      "resumen": "Ciudad de México, 28 sep (Prensa Latina) El embajador de Cuba en México, Eugenio Martínez, recibió hoy a la destacada activista política Bertha Luján y agradeció su histórica solidaridad con la nación caribeña. The post Embajador cubano agradece solidaridad de activista política mexicana first appea",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/28/embajador-cubano-agradece-solidaridad-de-activista-politica-mexicana/",
+      "destacada": false,
+      "tema": "embajador",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
       "titulo": "Ángel Santiesteban es elegido nuevo Soberano Gran Comendador de la masonería cubana",
@@ -73,7 +85,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/angel-santiesteban-elegido-nuevo-soberano_1_1131318.html",
       "destacada": false,
       "tema": "ángel",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "economia",
@@ -85,7 +97,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/confusion-nuevo-precio-pasaporte-provoca_1_1131310.html",
       "destacada": false,
       "tema": "confusión",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -97,7 +109,7 @@
       "enlace_original": "https://www.14ymedio.com/migracion/ee-uu-deporta-cubano-perdio_1_1131317.html",
       "destacada": false,
       "tema": "deporta",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "energia",
@@ -109,7 +121,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/lugar-petroleo-cubanos-tendran-mezquita_1_1131282.html",
       "destacada": false,
       "tema": "tipo_cambio",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "economia",
@@ -121,67 +133,67 @@
       "enlace_original": "https://www.14ymedio.com/cuba/regimen-cubano-sigue-empeno-reformar_1_1131275.html",
       "destacada": false,
       "tema": "régimen",
-      "id": 10
+      "id": 11
     },
     {
-      "categoria": "sociedad",
+      "categoria": "salud",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "«Una Cuba democrática tendrá que aprender a vivir después de la Revolución», sostiene intelectual argentino",
+      "titulo": "Evitan que se incendie equipo de esterilización en Hospital Materno América Arias en La Habana",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-12-u1-e209395-s27061-nid340131-cuba-democratica-tendra-aprender-vivir-despues",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e135253-s27061-nid341445-evitan-incendie-equipo-esterilizacion-hospital",
       "destacada": false,
-      "tema": "democrática",
-      "id": 11
+      "tema": "evitan",
+      "id": 12
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Médico cubano en Holguín: «Me pusieron a elegir: entre viajar y vivir, entre ser médico y comer»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e135253-s27061-nid341444-medico-cubano-holguin-me-pusieron-elegir-viajar",
+      "destacada": false,
+      "tema": "médico",
+      "id": 13
     },
     {
       "categoria": "economia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Así cierra el mercado informal en Cuba: el dólar y el euro terminan al alza",
+      "titulo": "El dólar se acerca a los 750 pesos en Cuba tras nueva subida",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-12-u1-e209395-s27061-nid340145-asi-cierra-mercado-informal-cuba-dolar-euro-terminan",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e135253-s27061-nid341442-dolar-acerca-750-pesos-cuba-tras-nueva-subida",
       "destacada": false,
       "tema": "tipo_cambio",
-      "id": 12
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel: «La amenaza de agresión se mantiene» sobre Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-12-u1-e209395-s27061-nid340138-diaz-canel-amenaza-agresion-mantiene-cuba",
-      "destacada": false,
-      "tema": "canel",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Inspectores cubanos son confrontados por presunto cobro ilegal a conductores de triciclos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-12-u1-e209363-s27061-nid340143-inspectores-cubanos-son-confrontados-presunto-cobro",
-      "destacada": false,
-      "tema": "inspectores",
       "id": 14
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Funcionaria del Mincin justifica la escasez de arroz en Cuba: se produce, pero la gente no lo percibe",
+      "titulo": "Cuba a punto del colapso y Bruno Rodríguez celebra los CDR desde Nueva York",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-12-u1-e209363-s27061-nid340139-funcionaria-mincin-justifica-escasez-arroz-cuba",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e197721-s27061-nid341441-cuba-punto-colapso-bruno-rodriguez-celebra-cdr-nueva",
       "destacada": false,
-      "tema": "funcionaria",
+      "tema": "punto",
       "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«No voy a callarme»: Anna Bensi habla a días del juicio contra ella y su madre en Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e135253-s27061-nid341438-voy-callarme-anna-bensi-habla-dias-juicio-contra",
+      "destacada": false,
+      "tema": "callarme",
+      "id": 16
     },
     {
       "categoria": "politica",
@@ -193,7 +205,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/destacados/cuba-denuncia-en-la-onu-el-bloqueo-energetico-de-eeuu-y-alerta-sobre-el-avance-del-expansionismo/",
       "destacada": false,
       "tema": "denuncia",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "politica",
@@ -205,7 +217,7 @@
       "enlace_original": "https://www.radiocubana.cu/eventos/comienza-edicion-36-del-taller-y-concurso-nacional-de-la-radio-joven-antonio-lloga-in-memoriam/",
       "destacada": false,
       "tema": "comienza",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "politica",
@@ -217,7 +229,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-cada-voz-en-cuba-importa-episodio-01/",
       "destacada": false,
       "tema": "criterio",
-      "id": 18
+      "id": 19
     },
     {
       "categoria": "politica",
@@ -229,7 +241,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-sobre-transformaciones-economicas-y-sociales-en-cuba/",
       "destacada": false,
       "tema": "criterio",
-      "id": 19
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -241,7 +253,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/podcast-a-contracorriente-capitulo-49-cuba-y-la-inteligencia-artificial/",
       "destacada": false,
       "tema": "podcast",
-      "id": 20
+      "id": 21
     },
     {
       "categoria": "economia",
@@ -253,7 +265,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260928/el-fuego-simbolo-de-rebeldia/",
       "destacada": false,
       "tema": "fuego",
-      "id": 21
+      "id": 22
     },
     {
       "categoria": "economia",
@@ -265,7 +277,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260927/con-bloqueo-cuesta-mas/",
       "destacada": false,
       "tema": "bloqueo",
-      "id": 22
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -277,7 +289,7 @@
       "enlace_original": "https://diariodecuba.com/derechos-humanos/1790637812_69162.html",
       "destacada": false,
       "tema": "reporteros",
-      "id": 23
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -289,7 +301,7 @@
       "enlace_original": "https://diariodecuba.com/economia/1790635247_69161.html",
       "destacada": false,
       "tema": "nacionalización",
-      "id": 24
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -301,7 +313,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790630789_69160.html",
       "destacada": false,
       "tema": "escritor",
-      "id": 25
+      "id": 26
     },
     {
       "categoria": "politica",
@@ -313,7 +325,7 @@
       "enlace_original": "https://diariodecuba.com/internacional/1790624583_69158.html",
       "destacada": false,
       "tema": "justicia",
-      "id": 26
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -325,7 +337,7 @@
       "enlace_original": "https://diariodecuba.com/deportes/1790616881_69155.html",
       "destacada": false,
       "tema": "habana",
-      "id": 27
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -337,7 +349,7 @@
       "enlace_original": "https://www.martinoticias.com/a/477722.html",
       "destacada": false,
       "tema": "barbacoa",
-      "id": 28
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -349,7 +361,7 @@
       "enlace_original": "https://www.martinoticias.com/a/477721.html",
       "destacada": false,
       "tema": "noticiero",
-      "id": 29
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -361,18 +373,6 @@
       "enlace_original": "https://www.martinoticias.com/a/ong-pide-a-la-onu-incluir-a-la-sociedad-civil-en-el-debate-sobre-cuba/480824.html",
       "destacada": false,
       "tema": "incluir",
-      "id": 30
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La libertad es una librería",
-      "resumen": "El verso de Joan Margarit, “La libertad es una librería”, da título a este podcast cuyo sentido es el de animar a la lectura y a crearnos una librería itinerante que viaje en nosotros. Esta quinta temporada tratará de libros sobre la gran literatura, cubana y universal.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/477715.html",
-      "destacada": false,
-      "tema": "libertad",
       "id": 31
     },
     {
@@ -506,18 +506,6 @@
       "destacada": false,
       "tema": "estados",
       "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba premiada por estar presente en 30 años de la FIT de Argentina",
-      "resumen": "Buenos Aires, 28 sep (Prensa Latina) Cuba recibió hoy un reconocimiento por su participación y aporte a las 30 ediciones de la Feria Internacional de Turismo, FIT América Latina de Buenos Aires, que está festejando tres décadas promoviendo esta industria en Argentina y la región. The post Cuba premi",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/28/cuba-premiada-por-estar-presente-en-30-anos-de-la-fit-de-argentina/",
-      "destacada": false,
-      "tema": "premiada",
-      "id": 43
     }
   ]
 }
