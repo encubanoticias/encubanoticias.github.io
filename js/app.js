@@ -5,6 +5,15 @@ let slideActual = 0;
 let intervaloCarrusel = null;
 let audioActual = null;
 let maxCarrusel = 9;
+let maxTemasPerspectivas = 2;
+
+fetch('data/config.json?v=' + Date.now())
+  .then(r => r.json())
+  .then(c => {
+    if (c.max_temas_perspectivas) maxTemasPerspectivas = c.max_temas_perspectivas;
+    if (c.destacadas_carrusel) maxCarrusel = c.destacadas_carrusel;
+  })
+  .catch(() => {});
 
 fetch('data/noticias.json?v=' + Date.now())
   .then(res => res.json())
@@ -21,15 +30,6 @@ fetch('data/noticias.json?v=' + Date.now())
   .catch(err => console.error('Error:', err));
 
 // --- CARRUSEL ---
-let maxCarrusel = 9;
-
-fetch('data/config.json?v=' + Date.now())
-  .then(r => r.json())
-  .then(c => {
-    if (c.max_temas_perspectivas) maxTemasPerspectivas = c.max_temas_perspectivas;
-    if (c.destacadas_carrusel) maxCarrusel = c.destacadas_carrusel;
-  })
-  .catch(() => {});
 
 function renderCarrusel() {
   const cont = document.getElementById('carrusel');
@@ -350,12 +350,6 @@ function iniciarMetricas() {
 }
 
 // --- PERSPECTIVAS ---
-let maxTemasPerspectivas = 2;
-
-fetch('data/config.json?v=' + Date.now())
-  .then(r => r.json())
-  .then(c => { if (c.max_temas_perspectivas) maxTemasPerspectivas = c.max_temas_perspectivas; })
-  .catch(() => {});
 
 function renderPerspectivas() {
   const cont = document.getElementById('perspectivas');
