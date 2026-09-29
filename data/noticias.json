@@ -1,31 +1,127 @@
 {
   "fecha": "2026-09-29",
-  "hora": "20:05",
-  "total": 36,
+  "hora": "22:05",
+  "total": 45,
   "noticias": [
+    {
+      "categoria": "economia",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Ministerio del Interior aclara que no hay aumento de precio del pasaporte corriente cubano solicitado en el país",
+      "resumen": "La Dirección de Identificación, Inmigración y Extranjería del Ministerio del Interior informa a la población que es&nbsp;falso que se haya dispuesto un aumento del precio del pasaporte corriente cubano que se solicita en el país",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-09-29/minint-aclara-no-hay-aumento-del-precio-del-pasaporte-corriente-cubano-solicitado-en-el-pais-29-09-2026-17-09-27",
+      "destacada": true,
+      "tema": "ministerio",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Fallece Fernando Guardado, locutor imprescindible de Palmas y Cañas",
+      "resumen": "El reconocido locutor y conductor Fernando Guardado falleció en las primeras horas de la madrugada de este 29 de septiembre, en su hogar en La Habana, informó la TV Cubana",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-09-29/fallece-fernando-guardado-locutor-imprescindible-de-palmas-y-canas-29-09-2026-16-09-06",
+      "destacada": true,
+      "tema": "fallece",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Lazos deportivos cubano-vietnamitas desde la academia",
+      "resumen": "Los intercambios de atletas y su inserción en ligas locales aparecen entre las principales propuestas",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-09-29/lazos-deportivos-cubano-vietnamitas-desde-la-academia-29-09-2026-15-09-59",
+      "destacada": true,
+      "tema": "lazos",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba, la justicia contra la fuerza: el núcleo de la lógica meliana",
+      "resumen": "La firmeza de la Isla ante las agresiones de EE. UU. no ha sido pasiva, ha mantenido su soberanía y ha recibido un respaldo abrumador de la comunidad internacional",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-09-28/cuba-la-justicia-contra-la-fuerza-el-nucleo-de-la-logica-meliana-28-09-2026-19-09-07",
+      "destacada": true,
+      "tema": "justicia",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Otorgan premio de la Academia de Ciencias de Cuba a investigación sobre transformaciones educativas",
+      "resumen": "El reconocimiento fue entregado al Instituto Central de Ciencias Pedagógicas",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/ciencia/2026-09-29/otorgan-premio-de-la-academia-de-ciencias-de-cuba-a-investigacion-sobre-transformaciones-educativas-29-09-2026-13-09-09",
+      "destacada": true,
+      "tema": "otorgan",
+      "id": 5
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cubatur muestra los  sabores de Cuba en la FIT América Latina 2026",
-      "resumen": "Buenos Aires, 29 sep (Prensa Latina) La agencia receptiva Cubatur muestra en la Feria Internacional de Turismo América Latina 2026 en Buenos Aires que concluye hoy “los sabores de Cuba”, manifestó su director adjunto Ernesto Pérez Velázquez. The post Cubatur muestra los sabores de Cuba en la FIT Amé",
+      "titulo": "Cinta cubana Mijaín competirá en Festival de Cine Deportivo de Milán",
+      "resumen": "La Habana, 29 sep (Prensa Latina) El largometraje documental cubano Mijaín, dedicado al primer pentacampeón de lucha en la historia olímpica, competirá en la muestra oficial del 43 Festival de Cine y Televisión Deportiva (FICTS FEST) de la ciudad italiana de Milán, anunciaron hoy fuentes oficiales. ",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/29/cubatur-muestra-los-sabores-de-cuba-en-la-fit-america-latina-2026/",
-      "destacada": true,
-      "tema": "cubatur",
-      "id": 1
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/29/cinta-cubana-mijain-competira-en-festival-de-cine-deportivo-de-milan/",
+      "destacada": false,
+      "tema": "cinta",
+      "id": 6
     },
     {
-      "categoria": "energia",
+      "categoria": "transporte",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cruz Roja apoya instalación de paneles solares en Cuba",
-      "resumen": "Santiago de Cuba, 29 sep (Prensa Latina) Cinco policlínicos y un consultorio médico de Santiago de Cuba son beneficiados hoy con sistemas de energía solar fotovoltaica, destinados a mantener servicios esenciales de salud durante las interrupciones del suministro eléctrico. The post Cruz Roja apoya i",
+      "titulo": "Cubanacán, puerta al turismo en Cuba en Feria Internacional",
+      "resumen": "Buenos Aires, 29 sep (Prensa Latina) Mostrar que el turismo en Cuba está vivo con recursos garantizados para el disfrute de vacacionistas es el objetivo de Viajes Cubanacán en esta FIT América Latina 2026 en Buenos Aires, afirmó su director general, Yadismir Saavedra. The post Cubanacán, puerta al t",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/29/cruz-roja-apoya-instalacion-de-paneles-solares-en-cuba/",
-      "destacada": true,
-      "tema": "apoya",
-      "id": 2
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/29/cubanacan-puerta-al-turismo-en-cuba-en-feria-internacional/",
+      "destacada": false,
+      "tema": "cubanacán",
+      "id": 7
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Estudio revela factores que determinan salud de arrecifes cubanos",
+      "resumen": "Cienfuegos, Cuba, 29 sep (Prensa Latina) Un estudio del Centro de Estudios Ambientales de Cienfuegos (CEAC) revela hoy factores clave de la salud de los arrecifes cubanos, a partir de datos de la Expedición Bojeo a Cuba. The post Estudio revela factores que determinan salud de arrecifes cubanos firs",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/29/estudio-revela-factores-que-determinan-salud-de-arrecifes-cubanos/",
+      "destacada": false,
+      "tema": "estudio",
+      "id": 8
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Medidas de EEUU dificultan transformaciones económicas en Cuba",
+      "resumen": "La Habana, 29 sep (Prensa Latina) El canciller Bruno Rodríguez denunció que la nueva oleada de medidas de bloqueo emitidas hoy por el gobierno de Estados Unidos contra Cuba pretende obstaculizar el proceso de transformaciones económicas en curso. The post Medidas de EEUU dificultan transformaciones ",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/29/medidas-de-eeuu-dificultan-transformaciones-economicas-en-cuba/",
+      "destacada": false,
+      "tema": "medidas",
+      "id": 9
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Congelan las cuentas de las mipymes cubanas en los bancos de EE UU",
+      "resumen": "Las nuevas sanciones de Washington prohíben los viajes profesionales y “people-to-people”, además de agregar fuertes restricciones a las transacciones financieras con terceros países",
+      "imagen_url": "https://static.14ymedio.com/clip/e7edea9b-a7e5-46cb-917f-1cebb9e3ff65_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/congelan-cuentas-mipymes-cubanas-bancos_1_1131353.html",
+      "destacada": false,
+      "tema": "congelan",
+      "id": 10
     },
     {
       "categoria": "economia",
@@ -35,177 +131,105 @@
       "resumen": "Óscar Pérez-Oliva acusa a EE UU de maniobrar para desplazar a las empresas extranjeras instaladas en la Isla e imponer las suyas",
       "imagen_url": "https://static.14ymedio.com/clip/957e51eb-29b9-43c4-9426-3e483199206b_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/ministro-economia-niega-contactos-empresas_1_1131338.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "ministro",
-      "id": 3
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Rubio advierte: \"Si no hace los cambios ahora, las consecuencias serán aún peores para el Gobierno cubano\"",
-      "resumen": "El secretario de Estado lamenta que demasiados partidarios del régimen \"siguen creyendo que pueden aguantar hasta el final de esta Administración sin hacer nada”",
-      "imagen_url": "https://static.14ymedio.com/clip/01ad5f34-ac27-4e93-a80d-805c346b5889_source-aspect-ratio_default_0.png",
-      "enlace_original": "https://www.14ymedio.com/cuba/rubio-advierte-si-no-cambios_1_1131322.html",
-      "destacada": true,
-      "tema": "rubio",
-      "id": 4
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "De descarte de los Dodgers a Champion Bat: Yordan Álvarez reina en MLB",
-      "resumen": "Con average de .316, 42 jonrones y 106 impulsadas, el tunero se convirtió en el cuarto cubano en ganar un título de bateo en Grandes Ligas",
-      "imagen_url": "https://static.14ymedio.com/clip/3f44ce3c-44ac-4137-9c80-45fbb586b841_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/migracion/descarte-dodgers-champion-bat-yordan_1_1131340.html",
-      "destacada": true,
-      "tema": "descarte",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El canciller cubano lamenta que la ayuda de la ONU no pueda llegar a la Isla por las \"presiones\" de EE UU",
-      "resumen": "Rodríguez agradeció el esfuerzo de las agencias de Naciones Unidas para facilitar la llegada de ayuda material\" a la Isla \"en estas difíciles circunstancias\"",
-      "imagen_url": "https://static.14ymedio.com/clip/c08062dc-a14a-4d95-9e39-a10f0c8ec6d5_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/canciller-cubano-lamenta-ayuda-onu_1_1131324.html",
-      "destacada": false,
-      "tema": "canciller",
-      "id": 6
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "En lugar de petróleo, los cubanos tendrán una mezquita de 9 millones de dólares financiada por Arabia Saudí",
-      "resumen": "La constructora portuguesa Engimov, encargada de la obra, ha cercado el terreno colindante con la termoeléctrica de Tallapiedra, en La Habana",
-      "imagen_url": "https://static.14ymedio.com/clip/27ac4c06-937e-460c-adf2-cb4e51148941_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/lugar-petroleo-cubanos-tendran-mezquita_1_1131282.html",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Psicóloga culpa al sistema en Cuba: «No es responsabilidad de los hijos garantizar la vejez de los padres»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e208487-s27061-nid341487-psicologa-culpa-al-sistema-cuba-responsabilidad",
-      "destacada": false,
-      "tema": "psicóloga",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Aleida Guevara aterriza en Bruselas para defender al régimen ante el PE mientras Cuba se hunde en la crisis",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e207888-s27061-nid341486-aleida-guevara-aterriza-bruselas-defender-al-regimen",
-      "destacada": false,
-      "tema": "aleida",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Ricos y pobres teniendo un bebé: El sketch de una cubana que desató risas en redes",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u208487-e208487-s27065-nid341480-ricos-pobres-teniendo-bebe-sketch-cubana-desato",
-      "destacada": false,
-      "tema": "ricos",
-      "id": 10
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Arabia Saudí financia una mezquita de 9 millones de dólares en La Habana mientras Cuba sigue sin petróleo",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e207888-s27061-nid341475-arabia-saudi-financia-mezquita-9-millones-dolares",
-      "destacada": false,
-      "tema": "tipo_cambio",
       "id": 11
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "«Qué tristeza la de Cuba, caballero»: cubana se emociona al recordar las Navidades de antes",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u65722-e65722-s27065-nid341478-tristeza-cuba-caballero-cubana-emociona-al",
+      "titulo": "Vivir de la basura: los más pobres recolectan desechos en los barrios de La Habana",
+      "resumen": "Van casa por casa recogiendo los desperdicios y trasladándolos a un basurero por unos billetes",
+      "imagen_url": "https://static.14ymedio.com/clip/88332a4a-a544-41a6-aa73-3e93ac288024_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/vivir-basura-pobres-recolectan-desechos_1_1131345.html",
       "destacada": false,
-      "tema": "tristeza",
+      "tema": "vivir",
       "id": 12
     },
     {
-      "categoria": "transporte",
-      "fuente": "https://www.radiocubana.cu",
+      "categoria": "salud",
+      "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Grata «Coincidencia» entre el deporte y la cultura cubana",
-      "resumen": "«Coincidencia» es el título de una nueva producción audiovisual de Radioarte y la Radio Cubana para enlazar el deporte con la cultura. Conducido por el periodista Joel García León, el espacio de hoy se estrena con la presencia de Ana Fidelia Quirós, leyenda del atletismo cubano y considerada la mejo",
-      "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/grata-coincidencia-entre-el-deporte-y-la-cultura-cubana/",
+      "titulo": "Las autoridades minimizan la crisis epidemiológica en Cuba pese a indicios preocupantes",
+      "resumen": "En distintos puntos del país incrementan las atenciones del \"síndrome febril inespecífico\", mientras los hospitales carecen de lo más mínimo para enfrentar la crisis",
+      "imagen_url": "https://static.14ymedio.com/clip/3aa4b796-f21a-4a53-a5d1-71b179d9c70f_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/autoridades-minimizan-crisis-epidemiologica-cuba_1_1131341.html",
       "destacada": false,
-      "tema": "grata",
+      "tema": "autoridades",
       "id": 13
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.radiocubana.cu",
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba denuncia en la ONU el bloqueo energético de EEUU y alerta sobre el avance del expansionismo",
-      "resumen": "El ministro de Relaciones Exteriores de Cuba, Bruno Rodríguez Parrilla, pronunció este sábado su discurso ante la Asamblea General de la Organización de las Naciones Unidas (ONU), en un contexto internacional signado por la creciente presión de Estados Unidos contra la isla y los desafíos que de ell",
-      "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/destacados/cuba-denuncia-en-la-onu-el-bloqueo-energetico-de-eeuu-y-alerta-sobre-el-avance-del-expansionismo/",
+      "titulo": "Cuba se queda sin medallas tras la derrota ante Alemania en el Mundial Sub-15",
+      "resumen": "Los periodistas atribuyen el fracaso al abandono de atletas y la falta de eventos locales",
+      "imagen_url": "https://static.14ymedio.com/clip/ab84347a-59ae-4df6-b891-6dd23402126a_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/deportes/cuba-queda-medallas-derrota-alemania_1_1131350.html",
       "destacada": false,
-      "tema": "denuncia",
+      "tema": "queda",
       "id": 14
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.radiocubana.cu",
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Comienza Edición 36 del Taller y Concurso Nacional de la Radio Joven Antonio Lloga in memoriam",
-      "resumen": "La edición 36 del Taller y Concurso Nacional «Antonio Lloga in memoriam» se inauguró esta tarde en el Salón de los Espejos, del gobierno provincial en Santiago de Cuba. En la jornada, se reconoció como Maestros de la radio a los realizadores Luis Izquierdo Valdés, de la emisora Radio Rebelde, y Césa",
+      "titulo": "Régimen cubano culpa a Trump de frenar sus reformas económicas",
+      "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/eventos/comienza-edicion-36-del-taller-y-concurso-nacional-de-la-radio-joven-antonio-lloga-in-memoriam/",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e135253-s27061-nid341483-regimen-cubano-culpa-trump-frenar-sus-reformas",
       "destacada": false,
-      "tema": "comienza",
+      "tema": "régimen",
       "id": 15
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.radiocubana.cu",
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Criterio Compartido: «Cada voz en Cuba importa» Episodio 01",
-      "resumen": "El Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, dedicó la primera emisión de Criterio Compartido a explicar las transformaciones económicas y sociales que comienza a implementar el país, responder directamente a preocupa",
+      "titulo": "Ex responsable de Radio Martí: «Mucha oposición cubana son empleados de EE.UU., no opositores»",
+      "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-cada-voz-en-cuba-importa-episodio-01/",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e192519-s27061-nid341504-ex-responsable-radio-marti-mucha-oposicion-cubana",
       "destacada": false,
-      "tema": "criterio",
+      "tema": "responsable",
       "id": 16
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.radiocubana.cu",
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "«Criterio Compartido» sobre transformaciones económicas y sociales en Cuba (+ Audio en vivo)",
-      "resumen": "¿Conoce usted sobre las transformaciones económicas y sociales? ¿Cómo cree que impactan en su vida?. Ese será el tema de la primera emisión del programa radial «Criterio Compartido», que contará con la presencia del primer secretario del Comité Central del Partido Comunista de Cuba y presidente de l",
+      "titulo": "Exdirector de Radio Martí: «EE.UU. no busca democracia en Cuba sino su propia Delcy Rodríguez»",
+      "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-sobre-transformaciones-economicas-y-sociales-en-cuba/",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e192519-s27061-nid341503-exdirector-radio-marti-eeuu-busca-democracia-cuba",
       "destacada": false,
-      "tema": "criterio",
+      "tema": "exdirector",
       "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Le vendieron agua por aceite: denuncian estafa con botella supuestamente sellada en Santiago de Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e135253-s27061-nid341498-le-vendieron-agua-aceite-denuncian-estafa-botella",
+      "destacada": false,
+      "tema": "vendieron",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "MININT aclara: el pasaporte solicitado dentro de Cuba sigue costando 2,500 pesos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-29-u1-e208933-s27061-nid341497-minint-aclara-pasaporte-solicitado-dentro-cuba-sigue",
+      "destacada": false,
+      "tema": "minint",
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -217,7 +241,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260929/nueva-oportunidad-laboral-con-aics-la-habana/",
       "destacada": false,
       "tema": "nueva",
-      "id": 18
+      "id": 20
     },
     {
       "categoria": "economia",
@@ -229,7 +253,31 @@
       "enlace_original": "https://www.trabajadores.cu/20260928/el-fuego-simbolo-de-rebeldia/",
       "destacada": false,
       "tema": "fuego",
-      "id": 19
+      "id": 21
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EEUU endurece las restricciones bancarias y de viajes a Cuba",
+      "resumen": "#EEUU suspende los #viajes \"pueblo a pueblo\" y las cuentas bancarias para el sector privado de #Cuba, en otra tanda de sanciones.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1790717458_69176.html",
+      "destacada": false,
+      "tema": "endurece",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Murió Fernando Guardado, histórico conductor del programa 'Palmas y Cañas'",
+      "resumen": "#Cuba: el querido #locutor Fernando Guardado, que fue durante casi dos décadas una de las voces del espacio televisivo de música campesina \"Palmas y Cañas\", falleció a los 79 años de edad.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cultura/1790715026_69175.html",
+      "destacada": false,
+      "tema": "murió",
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -241,7 +289,7 @@
       "enlace_original": "https://diariodecuba.com/internacional/1790710500_69174.html",
       "destacada": false,
       "tema": "problema",
-      "id": 20
+      "id": 24
     },
     {
       "categoria": "economia",
@@ -253,7 +301,7 @@
       "enlace_original": "https://diariodecuba.com/economia/1790709308_69171.html",
       "destacada": false,
       "tema": "tipo_cambio",
-      "id": 21
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -265,31 +313,43 @@
       "enlace_original": "https://diariodecuba.com/cultura/1790703969_69173.html",
       "destacada": false,
       "tema": "diáspora",
-      "id": 22
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El viceprimer ministro de Cuba niega que vaya a ocupar el puesto de Díaz-Canel",
-      "resumen": "'Trabajaré donde se me necesite, sin aspirar a ningún puesto en particular', afirma #ÓscarPérezOlivaFraga, sobrino nieto de #FidelCastro, ante los rumores de que estaría siendo preparado como nuevo gobernante de #Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1790702323_69172.html",
-      "destacada": false,
-      "tema": "viceprimer",
-      "id": 23
+      "id": 26
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El régimen juzgará a la influencer Anna Bensi 'el mismo día de una marcha en EEUU por la libertad de Cuba'",
-      "resumen": "#SOSCuba: El #RégimenCubano pone fecha al juicio contra #AnnaBensi y su madre, mientras niega el control judicial solicitado por la defensa del humorista Eddy Ceballos. El #OCDH denuncia la violación del derecho a recibir visitas del preso del #11JCuba Walnier Aguilar Rivera.",
+      "titulo": "Reformas económicas en Cuba: analistas cuestionan cambios que mantienen el control estatal",
+      "resumen": "Analistas cuestionan el alcance de las reformas económicas en Cuba. Mientras el régimen asegura haber implementado 158 medidas, Dimas Castellanos advierte: “Si tú no actúas contra la causa, todo lo demás es un gran engaño”.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1790690988_69170.html",
+      "enlace_original": "https://www.martinoticias.com/a/480919.html",
       "destacada": false,
-      "tema": "régimen",
-      "id": 24
+      "tema": "reformas",
+      "id": 27
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 5:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/478449.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "id": 28
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al día",
+      "resumen": "Mientras millones de cubanos enfrentan apagones, escasez y salarios que no alcanzan para llegar a fin de mes, en las redes sociales aparecen videos de mercados repletos y estantes bien abastecidos.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/480911.html",
+      "destacada": false,
+      "tema": "",
+      "id": 29
     },
     {
       "categoria": "energia",
@@ -301,19 +361,67 @@
       "enlace_original": "https://www.martinoticias.com/a/478440.html",
       "destacada": false,
       "tema": "noticias",
-      "id": 25
+      "id": 30
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Estados Unidos emite nuevas medidas financieras y de viajes contra Cuba",
+      "resumen": "La Oficina de Control de Activos Extranjeros (OFAC) del Departamento del Tesoro de Estados Unidos emitió hoy nuevas regulaciones que afectan o prohíben determinadas transacciones financieras y viajes hacia Cuba. Las medidas forman parte de la política de asfixia y castigo colectivo aplicadas por el ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/estados-unidos-emite-nuevas-medidas-financieras-y-de-viajes-contra-cuba/",
+      "destacada": false,
+      "tema": "estados",
+      "id": 31
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "UN Watch califica de vergonzosa reunión de comisionado de ONU con el canciller cubano Bruno Rodríguez",
-      "resumen": "El director de UN Watch, Hillel Neuer, calificó de “vergonzoso” el encuentro entre el Alto Comisionado de la ONU para los Derechos Humanos, Volker Türk, y el canciller cubano Bruno Rodríguez, durante la Asamblea General de Naciones Unidas.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Fallece en La Habana Fernando Guardado, locutor y rostro de Palmas y Cañas durante 39 años",
+      "resumen": "El reconocido locutor y conductor Fernando Guardado falleció en las primeras horas de la madrugada de este 29 de septiembre, en su residencia de La Habana. Por decisión de la familia, sus restos serán cremados en ceremonia íntima. Durante 39 años, entre 1975 y 2014, formó parte de ese histórico espa",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/un-watch-califica-de-vergonzosa-reuni%c3%b3n-de-comisionado-de-onu-con-el-canciller-cubano-bruno-rodr%c3%adguez/480890.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/fallece-en-la-habana-fernando-guardado-locutor-y-rostro-de-palmas-y-canas-durante-39-anos/",
       "destacada": false,
-      "tema": "watch",
-      "id": 26
+      "tema": "fallece",
+      "id": 32
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Hoy en la Mesa Redonda: Corrupción, dopaje y politización, amenazas al deporte mundial",
+      "resumen": "Reconocidos periodistas deportivos debatirán este martes en la Mesa Redonda sobre fenómenos que laceran al deporte mundial. El programa se transmitirá en vivo y en directo, desde la 7 pm, por Cubavisión, Cubavisión Internacional, Canal Caribe, Radio Habana Cuba y los canales en redes de Cubadebate y",
+      "imagen_url": "",
+      "enlace_original": "http://mesaredonda.cubadebate.cu/noticias/2026/09/29/hoy-en-la-mesa-redonda-corrupcion-dopaje-y-politizacion-amenazas-al-deporte-mundial/",
+      "destacada": false,
+      "tema": "redonda",
+      "id": 33
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba conquista oro y plata en el Brazil Open de Taekwondo 2026 con sus dos únicos representantes y termina tercera por países",
+      "resumen": "Cuba protagonizó una actuación sobresaliente en el Brazil Open de Taekwondo 2026, al conquistar una medalla de oro y otra de plata con sus dos únicos representantes y finalizar en el tercer lugar de la clasificación por países. La corona llegó de la mano de Arlettys de la Caridad Acosta, quien se im",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/cuba-conquista-oro-y-plata-en-el-brazil-open-de-taekwondo-2026-con-sus-dos-unicos-representantes-y-termina-tercera-por-paises/",
+      "destacada": false,
+      "tema": "conquista",
+      "id": 34
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Insmet: Tormenta tropical Hanna no representa peligro para Cuba",
+      "resumen": "El Instituto de Meteorología de Cuba (Insmet) informó que la tormenta tropical Hanna, localizada en aguas del Atlántico subtropical, no representa peligro para el territorio nacional y constituye únicamente interés para la navegación en esa área. The post Insmet: Tormenta tropical Hanna no represent",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/insmet-tormenta-tropical-hanna-no-representa-peligro-para-cuba/",
+      "destacada": false,
+      "tema": "insmet",
+      "id": 35
     },
     {
       "categoria": "politica",
@@ -325,7 +433,7 @@
       "enlace_original": "https://periodismodebarrio.org/los-rectangulos-oscuros-que-dividen-a-cuba/",
       "destacada": false,
       "tema": "rectángulos",
-      "id": 27
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -337,7 +445,7 @@
       "enlace_original": "https://periodismodebarrio.org/maternidades-desterradas-el-costo-infantil-del-presidio-politico-en-cuba/",
       "destacada": false,
       "tema": "maternidades",
-      "id": 28
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -349,7 +457,7 @@
       "enlace_original": "https://periodismodebarrio.org/maferefun-regla/",
       "destacada": false,
       "tema": "maferefún",
-      "id": 29
+      "id": 38
     },
     {
       "categoria": "economia",
@@ -361,7 +469,7 @@
       "enlace_original": "https://periodismodebarrio.org/farmacias-privadas-en-cuba/",
       "destacada": false,
       "tema": "lucrativo",
-      "id": 30
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -373,7 +481,19 @@
       "enlace_original": "https://periodismodebarrio.org/informe-human-rights-watch-derechos-humanos-cuba/",
       "destacada": false,
       "tema": "informe",
-      "id": 31
+      "id": 40
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Ayotzinapa y el nuevo informe",
+      "resumen": "Cristóbal León Campos - Cubainformación.- Un par de días después de cumplirse 12 años del crimen de...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125238-ayotzinapa-y-el-nuevo-informe.jpg?t=1790716818",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125238/125238-ayotzinapa-y-el-nuevo-informe",
+      "destacada": false,
+      "tema": "ayotzinapa",
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -385,7 +505,7 @@
       "enlace_original": "https://www.cubainformacion.tv/solidaridad/20260929/125223/125223-fiesta-solidaria-kuba-eguna-denunciara-el-genocidio-silencioso-que-sufre-cuba-sabado-10-de-octubre-barrio-de-errekalde-bilbao",
       "destacada": false,
       "tema": "fiesta",
-      "id": 32
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -397,7 +517,7 @@
       "enlace_original": "https://www.cubainformacion.tv/solidaridad/20260929/125158/125158-jornada-kuba-genozidioari-aurre-egin-apoyara-la-resistencia-de-las-mujeres-cubanas-frente-al-cerco-de-ee-uu-hernani-sabado-3-de-octubre",
       "destacada": false,
       "tema": "jornada",
-      "id": 33
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -409,7 +529,7 @@
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125234/125234-66-aniversario-de-los-cdr-pilar-de-la-revolucion-cubana",
       "destacada": false,
       "tema": "aniversario",
-      "id": 34
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -421,19 +541,7 @@
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125233/125233-los-cubanos-dicen-basta-la-calle-habla",
       "destacada": false,
       "tema": "cubanos",
-      "id": 35
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Se viene el segundo capítulo de la traición. Trump está claro, no es solo María Elvira",
-      "resumen": "Guerrero Cubano con su verdad al desnudo",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125232-se-viene-el-segundo-capitulo-de-la-traicion-trump-esta-claro-no-es-solo-maria-elvira.jpg?t=1790656276",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125232/125232-se-viene-el-segundo-capitulo-de-la-traicion-trump-esta-claro-no-es-solo-maria-elvira",
-      "destacada": false,
-      "tema": "viene",
-      "id": 36
+      "id": 45
     }
   ]
 }
