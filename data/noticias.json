@@ -1,7 +1,7 @@
 {
   "fecha": "2026-09-30",
-  "hora": "21:04",
-  "total": 42,
+  "hora": "22:05",
+  "total": 49,
   "noticias": [
     {
       "categoria": "politica",
@@ -77,14 +77,14 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Parapesistas cubanos buscarán clasificación a cita continental",
-      "resumen": "La Habana, 30 sep (Prensa Latina) Un grupo de seis parapesistas cubanos buscará desde el venidero cuatro de octubre su clasificación a los Juegos Parapanamericanos Lima 2027, destacó hoy el sitio deportivo JIT. The post Parapesistas cubanos buscarán clasificación a cita continental first appeared on",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/30/parapesistas-cubanos-buscaran-clasificacion-a-cita-continental/",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Vima, socia española de Gaesa, empieza su retirada de Cuba para evitar las sanciones de EE UU",
+      "resumen": "La firma ha retirado sus carteles de su tienda en La Habana y ha reducido sus actividades en sus almacenes en Berroa, pero sus productos siguen en venta",
+      "imagen_url": "https://static.14ymedio.com/clip/03e4fcab-c68d-4067-9edf-92c50291aca1_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/vima-socia-espanola-gaesa-empieza_1_1131390.html",
       "destacada": false,
-      "tema": "parapesistas",
+      "tema": "socia",
       "id": 7
     },
     {
@@ -100,6 +100,18 @@
       "id": 8
     },
     {
+      "categoria": "salud",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Hallan en un vertedero de Madrid posibles restos del médico cubano desaparecido en Torrejón",
+      "resumen": "El hijo de Roberto Fernández Magriñat continúa en prisión provisional, investigado además por otro homicidio",
+      "imagen_url": "https://static.14ymedio.com/clip/a9e562ac-823a-4788-a05f-f2fa5790b89b_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/migracion/hallan-vertedero-madrid-posibles-restos_1_1131393.html",
+      "destacada": false,
+      "tema": "hallan",
+      "id": 9
+    },
+    {
       "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -109,7 +121,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/derrumbe-parcial-pone-alerta-300_1_1131379.html",
       "destacada": false,
       "tema": "derrumbe",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "politica",
@@ -121,31 +133,31 @@
       "enlace_original": "https://www.14ymedio.com/cuba/gobierno-destaca-nuevas-sanciones-washington_1_1131366.html",
       "destacada": false,
       "tema": "gobierno",
-      "id": 10
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El embajador chino en La Habana da una clase de economía de mercado a 'Cubadebate'",
-      "resumen": "Pekín \"está haciendo los máximos esfuerzos para ayudar\" a la Isla, dice Hua Xin: \"Ahora, estamos construyendo 15 parques solares de 85 MW y han llegado materiales para el almacenamiento de energía fotovoltaica de 200 MW\"",
-      "imagen_url": "https://static.14ymedio.com/clip/0aa47133-7163-421b-aa06-33c0c74f5126_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/embajador-chino-habana-da-clase_1_1131372.html",
-      "destacada": false,
-      "tema": "embajador",
       "id": 11
     },
     {
-      "categoria": "economia",
-      "fuente": "https://www.14ymedio.com",
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Congelan las cuentas de las mipymes cubanas en los bancos de EE UU",
-      "resumen": "Las nuevas sanciones de Washington prohíben los viajes profesionales y “people-to-people”, además de agregar fuertes restricciones a las transacciones financieras con terceros países",
-      "imagen_url": "https://static.14ymedio.com/clip/e7edea9b-a7e5-46cb-917f-1cebb9e3ff65_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/congelan-cuentas-mipymes-cubanas-bancos_1_1131353.html",
+      "titulo": "Consejo de abogada cubana Liudmila Marcelo a los I-220A que enfrentan su última Corte",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u1-e192519-s27061-nid341576-consejo-abogada-cubana-liudmila-marcelo-220a",
       "destacada": false,
-      "tema": "congelan",
+      "tema": "consejo",
       "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Hija de un cubano que estuvo detenido en Alligator Alcatraz confronta a María Elvira Salazar en público",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u1-e129488-s27061-nid341569-hija-cubano-estuvo-detenido-alligator-alcatraz",
+      "destacada": false,
+      "tema": "cubano",
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -157,7 +169,7 @@
       "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u65722-e65722-s27065-nid341533-le-dijeron-tomo-coca-cola-olvido-respuesta-fue",
       "destacada": false,
       "tema": "dijeron",
-      "id": 13
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -169,7 +181,7 @@
       "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u1-e208933-s27061-nid341571-trump-elogia-marco-rubio-maestro-miren-hace-cuba",
       "destacada": false,
       "tema": "trump",
-      "id": 14
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -181,31 +193,115 @@
       "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u65722-e65722-s27065-nid341531-todo-muy-bien-reparto-hubo-tiempo-cuba-sonaba-asi",
       "destacada": false,
       "tema": "reparto",
-      "id": 15
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel acusa a EE. UU. de perjudicar al sector privado cubano con las nuevas sanciones",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u1-e208933-s27061-nid341570-diaz-canel-acusa-ee-uu-perjudicar-al-sector-privado",
-      "destacada": false,
-      "tema": "canel",
       "id": 16
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "categoria": "transporte",
+      "fuente": "https://www.radiocubana.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Bomberos de Cuba alertan sobre riesgo de incendios por almacenar combustible en tanques de plástico",
-      "resumen": "",
+      "titulo": "Grata «Coincidencia» entre el deporte y la cultura cubana",
+      "resumen": "«Coincidencia» es el título de una nueva producción audiovisual de Radioarte y la Radio Cubana para enlazar el deporte con la cultura. Conducido por el periodista Joel García León, el espacio de hoy se estrena con la presencia de Ana Fidelia Quirós, leyenda del atletismo cubano y considerada la mejo",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u1-e208933-s27061-nid341567-bomberos-cuba-alertan-riesgo-incendios-almacenar",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/grata-coincidencia-entre-el-deporte-y-la-cultura-cubana/",
       "destacada": false,
-      "tema": "bomberos",
+      "tema": "grata",
       "id": 17
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba denuncia en la ONU el bloqueo energético de EEUU y alerta sobre el avance del expansionismo",
+      "resumen": "El ministro de Relaciones Exteriores de Cuba, Bruno Rodríguez Parrilla, pronunció este sábado su discurso ante la Asamblea General de la Organización de las Naciones Unidas (ONU), en un contexto internacional signado por la creciente presión de Estados Unidos contra la isla y los desafíos que de ell",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/destacados/cuba-denuncia-en-la-onu-el-bloqueo-energetico-de-eeuu-y-alerta-sobre-el-avance-del-expansionismo/",
+      "destacada": false,
+      "tema": "denuncia",
+      "id": 18
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Comienza Edición 36 del Taller y Concurso Nacional de la Radio Joven Antonio Lloga in memoriam",
+      "resumen": "La edición 36 del Taller y Concurso Nacional «Antonio Lloga in memoriam» se inauguró esta tarde en el Salón de los Espejos, del gobierno provincial en Santiago de Cuba. En la jornada, se reconoció como Maestros de la radio a los realizadores Luis Izquierdo Valdés, de la emisora Radio Rebelde, y Césa",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/eventos/comienza-edicion-36-del-taller-y-concurso-nacional-de-la-radio-joven-antonio-lloga-in-memoriam/",
+      "destacada": false,
+      "tema": "comienza",
+      "id": 19
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Criterio Compartido: «Cada voz en Cuba importa» Episodio 01",
+      "resumen": "El Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, dedicó la primera emisión de Criterio Compartido a explicar las transformaciones económicas y sociales que comienza a implementar el país, responder directamente a preocupa",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-cada-voz-en-cuba-importa-episodio-01/",
+      "destacada": false,
+      "tema": "criterio",
+      "id": 20
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Criterio Compartido» sobre transformaciones económicas y sociales en Cuba (+ Audio en vivo)",
+      "resumen": "¿Conoce usted sobre las transformaciones económicas y sociales? ¿Cómo cree que impactan en su vida?. Ese será el tema de la primera emisión del programa radial «Criterio Compartido», que contará con la presencia del primer secretario del Comité Central del Partido Comunista de Cuba y presidente de l",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-sobre-transformaciones-economicas-y-sociales-en-cuba/",
+      "destacada": false,
+      "tema": "criterio",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Presentarán Sensaciones, de Reinaldo Montero en el Sábado del Libro",
+      "resumen": "El Instituto Cubano del Libro invita a descubrir una novela que combina recursos narrativos sutiles, situaciones reconocibles, un lenguaje de notable libertad expresiva y un desenlace destinado a revelar la dimensión dramática que se esconde tras el divertimento",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260930/presentaran-sensaciones-de-reinaldo-montero-en-el-sabado-del-libro/",
+      "destacada": false,
+      "tema": "presentarán",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Embajador cubano ante la Santa Sede destaca vínculos entre cultura, religión y diplomacia",
+      "resumen": "El diplomático resaltó la labor de la Asociación Internacional Caritá Política con la cual Cuba mantiene históricos lazos de amistad y cooperación en el ámbito académico, los que han contribuido a la formación de las identidades nacionales",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260930/embajador-cubano-ante-la-santa-sede-destaca-los-vinculos-entre-cultura-religion-y-diplomacia/",
+      "destacada": false,
+      "tema": "embajador",
+      "id": 23
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Nuevas medidas financieras y de viajes contra Cuba",
+      "resumen": "La Oficina de Control de Activos Extranjeros (OFAC) del Departamento del Tesoro de Estados Unidos emitió nuevas regulaciones que prohíben determinadas transacciones financieras y viajes como parte de la política de asfixia y castigo colectivo aplicadas por el gobierno de ese país contra el pueblo cu",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260930/nuevas-medidas-financieras-y-de-viajes-contra-cuba/",
+      "destacada": false,
+      "tema": "nuevas",
+      "id": 24
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Tras meses de hostigamiento, el régimen destierra al periodista independiente Austin Llerandi",
+      "resumen": "Otro #periodista independiente abandona #Cuba rumbo al #destierro, por el \"delito\" de intentar informar libremente.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1790804109_69194.html",
+      "destacada": false,
+      "tema": "meses",
+      "id": 25
     },
     {
       "categoria": "energia",
@@ -217,7 +313,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790799117_69193.html",
       "destacada": false,
       "tema": "empresa",
-      "id": 18
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -229,7 +325,7 @@
       "enlace_original": "https://diariodecuba.com/economia/1790795130_69189.html",
       "destacada": false,
       "tema": "exportó",
-      "id": 19
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -241,7 +337,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790793901_69191.html",
       "destacada": false,
       "tema": "aleida",
-      "id": 20
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -253,67 +349,79 @@
       "enlace_original": "https://diariodecuba.com/economia/1790789794_69190.html",
       "destacada": false,
       "tema": "petrolera",
-      "id": 21
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Embajada de EEUU se suma a las voces que denuncian el arresto del periodista cubano Henry Constantin",
-      "resumen": "#SOSCuba: La Embajada de #EEUU en Cuba denuncia el arresto del periodista #HenryConstantin y advierte que la Adminstración #Trump seguirá exigiendo que el #RégimenCubano rinda cuentas.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1790785196_69188.html",
-      "destacada": false,
-      "tema": "embajada",
-      "id": 22
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Sueldo de un mes en Cuba \"no alcanza ni para dos días a una familia\"",
-      "resumen": "En Cuba, el encarecimiento de los alimentos, los productos de aseo y los medicamentos ha llevado el costo de la vida a niveles inéditos.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/sueldo-de-un-mes-en-cuba-no-alcanza-ni-para-dos-d%c3%adas-a-una-familia/481000.html",
-      "destacada": false,
-      "tema": "sueldo",
-      "id": 23
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las Noticias Como Son",
-      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/478565.html",
-      "destacada": false,
-      "tema": "noticias",
-      "id": 24
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba en la Memoria",
-      "resumen": "Una conversación sobre la realidad cubana. La lucha, el presidio político, la denuncia internacional, el activismo pacífico en las voces de sus protagonistas.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/478562.html",
-      "destacada": false,
-      "tema": "memoria",
-      "id": 25
+      "id": 29
     },
     {
       "categoria": "politica",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La hepatitis y la diarrea se expanden en La Habana en medio de la crisis con el agua",
-      "resumen": "Cubanos revelan cómo se propagan los casos de hepatitis y diarrea en La Habana en medio de la crisis con el suministro y el tratamiento del agua.",
+      "titulo": "Trump sobre Rubio: \"Esperen a ver lo que hace con Cuba”",
+      "resumen": "El presidente Donald Trump elogió al secretario de Estado Marco Rubio durante la celebración del Mes de la Herencia Hispana en la Casa Blanca.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/la-hepatitis-y-las-diarreas-se-expanden-en-la-habana-en-medio-de-la-crisis-con-el-agua/480999.html",
+      "enlace_original": "https://www.martinoticias.com/a/trump-sobre-rubio-esperen-a-ver-lo-que-hace-con-cuba/481011.html",
       "destacada": false,
-      "tema": "hepatitis",
-      "id": 26
+      "tema": "trump",
+      "id": 30
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al día",
+      "resumen": "El dólar llega a 750 pesos y pulveriza el salario de los cubanos.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/481009.html",
+      "destacada": false,
+      "tema": "",
+      "id": 31
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Entran en vigor nuevas restricciones de Estados Unidos a Cuba",
+      "resumen": "Las nuevas restricciones de Estados Unidos a Cuba entraron en vigor este 30 de septiembre. Las medidas de la OFAC afectan transacciones financieras, cuentas de emprendedores privados y determinadas categorías de viajes a la isla.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/entran-en-vigor-nuevas-restricciones-de-estados-unidos-a-cuba/481010.html",
+      "destacada": false,
+      "tema": "entran",
+      "id": 32
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 5:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/478571.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "id": 33
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "En vigor nuevas sanciones a Cuba y restricciones a los viajes desde EEUU",
+      "resumen": "Las nuevas restricciones de Estados Unidos contra Cuba ya están en vigor y traen cambios que golpean operaciones financieras, cuentas bancarias de emprendedores privados y varias categorías de viajes a la isla.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/en-vigor-nuevas-sanciones-a-cuba-y-restricciones-a-los-viajes-desde-eeuu/481004.html",
+      "destacada": false,
+      "tema": "vigor",
+      "id": 34
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Ballet Nacional de Cuba lleva “Giselle” al Teatro Pushkin en Rusia",
+      "resumen": "Continuando la exitosa gira por Rusia, iniciada por el Ballet Nacional de Cuba (BNC) en los teatros Mariinsky, de San Petersburgo, y Bolshoi, de Moscú, la compañía ofreció este martes 29 de septiembre una función en el Teatro Estatal Académico de Ópera y Ballet Pushkin, de Nizhni Nóvgorod. The post ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/30/ballet-nacional-de-cuba-lleva-giselle-al-teatro-pushkin-en-rusia/",
+      "destacada": false,
+      "tema": "ballet",
+      "id": 35
     },
     {
       "categoria": "politica",
@@ -325,7 +433,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/30/diaz-canel-visito-la-planta-potabilizadora-de-agua-norte-habana/",
       "destacada": false,
       "tema": "canel",
-      "id": 27
+      "id": 36
     },
     {
       "categoria": "transporte",
@@ -337,7 +445,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/30/cuba-arrolla-13-0-a-estados-unidos-en-su-estreno-en-el-mundial-de-beisbol-para-ciegos/",
       "destacada": false,
       "tema": "arrolla",
-      "id": 28
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -349,7 +457,7 @@
       "enlace_original": "http://www.cubadebate.cu/especiales/2026/09/30/de-moscu-a-la-habana-quien-y-por-que-alimenta-la-histeria-belicista-antirrusa-en-europa/",
       "destacada": false,
       "tema": "tipo_cambio",
-      "id": 29
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -361,19 +469,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/30/parlamento-europeo-acoge-el-evento-cuba-si-bloqueo-no-contra-las-medidas-de-ee-uu/",
       "destacada": false,
       "tema": "tipo_cambio",
-      "id": 30
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "¿Cómo afecta la nueva medida de OFAC a las autorizaciones previas a ciudadanos estadounidenses para reuniones o conferencias profesionales en Cuba?",
-      "resumen": "Las personas sujetas a la jurisdicción de los Estados Unidos ya no están autorizadas a asistir u organizar reuniones o conferencias profesionales en Cuba. La OFAC reemplaza dicha autorización con una autorización de cierre parcial para las personas sujetas a la jurisdicción de los Estados Unidos que",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/30/como-afecta-la-nueva-medida-de-ofac-a-las-autorizaciones-previas-a-ciudadanos-estadounidenses-para-reuniones-o-conferencias-profesionales-en-cuba/",
-      "destacada": false,
-      "tema": "afecta",
-      "id": 31
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -385,7 +481,7 @@
       "enlace_original": "https://periodismodebarrio.org/henry-constantin-prision-cuba/",
       "destacada": false,
       "tema": "libertad",
-      "id": 32
+      "id": 40
     },
     {
       "categoria": "politica",
@@ -397,7 +493,7 @@
       "enlace_original": "https://periodismodebarrio.org/los-rectangulos-oscuros-que-dividen-a-cuba/",
       "destacada": false,
       "tema": "rectángulos",
-      "id": 33
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -409,7 +505,7 @@
       "enlace_original": "https://periodismodebarrio.org/maternidades-desterradas-el-costo-infantil-del-presidio-politico-en-cuba/",
       "destacada": false,
       "tema": "maternidades",
-      "id": 34
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -421,7 +517,7 @@
       "enlace_original": "https://periodismodebarrio.org/maferefun-regla/",
       "destacada": false,
       "tema": "maferefún",
-      "id": 35
+      "id": 43
     },
     {
       "categoria": "economia",
@@ -433,7 +529,7 @@
       "enlace_original": "https://periodismodebarrio.org/farmacias-privadas-en-cuba/",
       "destacada": false,
       "tema": "lucrativo",
-      "id": 36
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -445,7 +541,7 @@
       "enlace_original": "https://www.cubainformacion.tv/cuba/20260930/125243/125243-reparacion-de-la-guiteras-tomara-no-menos-de-dos-dias-afirman-especialistas",
       "destacada": false,
       "tema": "reparación",
-      "id": 37
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -457,7 +553,7 @@
       "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20260930/125242/125242-washington-habla-de-cuba-que-piensa-la-sociedad-estadounidense",
       "destacada": false,
       "tema": "washington",
-      "id": 38
+      "id": 46
     },
     {
       "categoria": "transporte",
@@ -469,7 +565,7 @@
       "enlace_original": "https://www.cubainformacion.tv/cuba/20260930/125241/125241-en-estreno-podcast-es-la-idea-con-hua-xin-embajador-de-china-en-cuba",
       "destacada": false,
       "tema": "estreno",
-      "id": 39
+      "id": 47
     },
     {
       "categoria": "transporte",
@@ -481,7 +577,7 @@
       "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20260930/125240/125240-estados-unidos-emite-nuevas-medidas-financieras-y-de-viajes-contra-cuba",
       "destacada": false,
       "tema": "estados",
-      "id": 40
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -493,19 +589,7 @@
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125238/125238-ayotzinapa-y-el-nuevo-informe",
       "destacada": false,
       "tema": "ayotzinapa",
-      "id": 41
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://actualidad.rt.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba comenta últimas sanciones de EE.UU.: \"Buscan el máximo sufrimiento a nuestro pueblo\"",
-      "resumen": "En la víspera, el Tesoro estadounidense anunció nuevas medidas coercitivas unilaterales sobre el sector privado e impuso nuevas restricciones de viaje.",
-      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abd5e5059bf5b5be43bba5a.jpg",
-      "enlace_original": "https://actualidad-rt.com/actualidad/630212-cuba-comentar-ultimas-sanciones-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "destacada": false,
-      "tema": "comenta",
-      "id": 42
+      "id": 49
     }
   ]
 }
