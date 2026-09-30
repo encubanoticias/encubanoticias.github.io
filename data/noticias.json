@@ -1,31 +1,115 @@
 {
   "fecha": "2026-09-30",
-  "hora": "18:06",
-  "total": 35,
+  "hora": "19:07",
+  "total": 51,
   "noticias": [
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Convocan en Cuba a Premio de Periodismo Cultural",
-      "resumen": "La Habana, 30 sep (Prensa Latina) En aras de estimular las mejores prácticas del periodismo cultural cubano, la Asociación Hermanos Saíz (AHS) abrió hoy la convocatoria para el certamen Rubén Martínez Villena, dirigido a profesionales del sector menores de 35 años. The post Convocan en Cuba a Premio",
+      "titulo": "En busca de soluciones, analizan abasto de agua en Pinar del Río",
+      "resumen": "Antonio Rodríguez Rodríguez, presidente del Instituto Nacional de Recursos Hidráulicos, analizó junto a las máximas autoridades de Pinar del Río la situación con el abasto de agua, considerada una de las más complejas de Cuba teniendo en cuenta que actualmente se encuentran afectados 159 mil 171 hab",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/30/convocan-en-cuba-a-premio-de-periodismo-cultural/",
+      "enlace_original": "http://www.granma.cu/cuba/2026-09-30/en-busca-de-soluciones-analizan-abasto-de-agua-en-pinar-del-rio-30-09-2026-14-09-48",
       "destacada": true,
-      "tema": "convocan",
+      "tema": "busca",
       "id": 1
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Ejecutan acciones para mejorar el abasto de agua en Santiago de Cuba",
+      "resumen": "El déficit de generación de electricidad en el país incide negativamente en el cumplimiento de los ciclos de suministro del vital líquido en las ciudades y pueblos de la segunda provincia más poblada del país",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-09-30/ejecutan-acciones-para-mejorar-el-abasto-de-agua-en-santiago-de-cuba-30-09-2026-14-09-43",
+      "destacada": true,
+      "tema": "ejecutan",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuarenta y tres voces exigieron en la ONU el fin del bloqueo contra Cuba",
+      "resumen": "En&nbsp;la semana de Alto Nivel del 81 periodo de sesiones de la Asamblea General de la ONU se escuchó el reclamo mundial a favor de poner fin al bloqueo económico, comercial y financiero contra la Isla",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-09-30/cuarenta-y-tres-voces-exigieron-en-la-onu-el-fin-del-bloqueo-contra-cuba-30-09-2026-13-09-05",
+      "destacada": true,
+      "tema": "cuarenta",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Una exposición que acercó los pueblos de Cuba y China",
+      "resumen": "Cuba y China celebran hoy 66 años del establecimiento de relaciones diplomáticas. En 1961 la Exposición de la Edificación Económica de la República Popular China, presentada como la primera de su tipo en América Latina, contribuyó al acercamiento entre ambas naciones",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/diarios-de-navegacion/2026-09-28/una-exposicion-que-acerco-los-pueblos-de-cuba-y-china-28-09-2026-14-09-05",
+      "destacada": true,
+      "tema": "exposición",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cubanos del voleibol en meritorio lugar del ranking mundial",
+      "resumen": "Los antillanos suman 250,31 puntos que los ubican en el puesto 13 entre equipos de gran nivel internacional",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-09-30/cubanos-del-voleibol-en-meritorio-lugar-del-ranking-mundial-30-09-2026-14-09-16",
+      "destacada": true,
+      "tema": "cubanos",
+      "id": 5
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Reafirma capitán de campeones de béisbol cubano intención de corona",
-      "resumen": "Matanzas, Cuba, 30 sep (Prensa Latina) El pelotero matancero Eduardo Blanco señaló hoy en declaraciones exclusivas a Prensa Latina que el conjunto de la occidental provincia va por revalidar el título del béisbol cubano. The post Reafirma capitán de campeones de béisbol cubano intención de corona fi",
+      "titulo": "Filme Calle 232, apuesta de Cuba a Premio Mariposa de Diamante",
+      "resumen": "La Habana, 30 sep (Prensa Latina) El valor y la sensibilidad en el cuidado del adulto mayor es un historia que toca fibras y corazones en la película Calle 232, la apuesta de Cuba hoy al Premio de Cine Abierto Euroasiático \"Mariposa de Diamante\". The post Filme Calle 232, apuesta de Cuba a Premio Ma",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/30/reafirma-capitan-de-campeones-de-beisbol-cubano-intencion-de-corona/",
-      "destacada": true,
-      "tema": "reafirma",
-      "id": 2
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/30/filme-calle-232-apuesta-de-cuba-a-premio-mariposa-de-diamante/",
+      "destacada": false,
+      "tema": "filme",
+      "id": 6
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Díaz-Canel: sanciones de EEUU buscan el sufrimiento del pueblo cubano",
+      "resumen": "La Habana, 30 sep (Prensa Latina) El presidente de Cuba, Miguel Díaz-Canel, denunció hoy que las nuevas medidas coercitivas unilaterales aprobadas por el gobierno de Estados Unidos contra el sector privado demuestran su intención de provocar el máximo sufrimiento al pueblo. The post Díaz-Canel: sanc",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/30/diaz-canel-sanciones-de-eeuu-buscan-el-sufrimiento-del-pueblo-cubano/",
+      "destacada": false,
+      "tema": "canel",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Ballet Nacional de Cuba sigue cosechando éxitos en Rusia",
+      "resumen": "Nizhni Novgorod, Rusia 30 sep (Prensa Latina) El Ballet Nacional de Cuba (BNC) sigue hoy cosechando éxitos en Rusia tras la presentación aquí, en el Teatro Estatal Académico de Ópera y Ballet Alexander Pushkin, de la obra Giselle. The post Ballet Nacional de Cuba sigue cosechando éxitos en Rusia fir",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/30/ballet-nacional-de-cuba-sigue-cosechando-exitos-en-rusia/",
+      "destacada": false,
+      "tema": "ballet",
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Síntesis de Cuba",
+      "resumen": "SÍNTESIS DE CUBA PARA EMISORAS DE RADIO Y TV, PERIÓDICOS Y REVISTAS The post Síntesis de Cuba first appeared on Noticias Prensa Latina.",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/30/sintesis-de-cuba-588/",
+      "destacada": false,
+      "tema": "síntesis",
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -35,9 +119,9 @@
       "resumen": "Parte del techo del cuarto piso de un antiguo hotel en Águila y San Miguel se desplomó sin causar víctimas",
       "imagen_url": "https://static.14ymedio.com/clip/4f0c3dc1-3f7e-4a0f-b30d-66cc32d2ee1c_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/derrumbe-parcial-pone-alerta-300_1_1131379.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "derrumbe",
-      "id": 3
+      "id": 10
     },
     {
       "categoria": "politica",
@@ -47,9 +131,9 @@
       "resumen": "Algunos cubanos se alegran de que vayan contra los \"testaferros del régimen\" que lograron abrir cuentas bancarias en EE UU",
       "imagen_url": "https://static.14ymedio.com/clip/11e7afdd-d1aa-4fad-add6-55015bd1729d_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/gobierno-destaca-nuevas-sanciones-washington_1_1131366.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "gobierno",
-      "id": 4
+      "id": 11
     },
     {
       "categoria": "energia",
@@ -59,9 +143,9 @@
       "resumen": "Pekín \"está haciendo los máximos esfuerzos para ayudar\" a la Isla, dice Hua Xin: \"Ahora, estamos construyendo 15 parques solares de 85 MW y han llegado materiales para el almacenamiento de energía fotovoltaica de 200 MW\"",
       "imagen_url": "https://static.14ymedio.com/clip/0aa47133-7163-421b-aa06-33c0c74f5126_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/embajador-chino-habana-da-clase_1_1131372.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "embajador",
-      "id": 5
+      "id": 12
     },
     {
       "categoria": "salud",
@@ -73,7 +157,7 @@
       "enlace_original": "https://www.14ymedio.com/internacional/operaron-tecnologias-30-anos-salvaron_1_1131358.html",
       "destacada": false,
       "tema": "operaron",
-      "id": 6
+      "id": 13
     },
     {
       "categoria": "economia",
@@ -85,7 +169,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/congelan-cuentas-mipymes-cubanas-bancos_1_1131353.html",
       "destacada": false,
       "tema": "congelan",
-      "id": 7
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -97,7 +181,7 @@
       "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u1-e208933-s27061-nid341557-administracion-trump-exige-liberacion-periodista",
       "destacada": false,
       "tema": "administración",
-      "id": 8
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -109,7 +193,7 @@
       "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u1-e207888-s27061-nid341555-pollo-carvajal-revela-sus-memorias-fidel-castro",
       "destacada": false,
       "tema": "pollo",
-      "id": 9
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -121,7 +205,7 @@
       "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u1-e208933-s27061-nid341556-cubanos-plantaran-frente-casa-blanca-mensaje-trump",
       "destacada": false,
       "tema": "cubanos",
-      "id": 10
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -133,19 +217,139 @@
       "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u1-e207888-s27061-nid341553-escritor-angel-santiesteban-prats-nuevo-lider-grado",
       "destacada": false,
       "tema": "escritor",
-      "id": 11
+      "id": 18
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Grata «Coincidencia» entre el deporte y la cultura cubana",
+      "resumen": "«Coincidencia» es el título de una nueva producción audiovisual de Radioarte y la Radio Cubana para enlazar el deporte con la cultura. Conducido por el periodista Joel García León, el espacio de hoy se estrena con la presencia de Ana Fidelia Quirós, leyenda del atletismo cubano y considerada la mejo",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/grata-coincidencia-entre-el-deporte-y-la-cultura-cubana/",
+      "destacada": false,
+      "tema": "grata",
+      "id": 19
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba denuncia en la ONU el bloqueo energético de EEUU y alerta sobre el avance del expansionismo",
+      "resumen": "El ministro de Relaciones Exteriores de Cuba, Bruno Rodríguez Parrilla, pronunció este sábado su discurso ante la Asamblea General de la Organización de las Naciones Unidas (ONU), en un contexto internacional signado por la creciente presión de Estados Unidos contra la isla y los desafíos que de ell",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/destacados/cuba-denuncia-en-la-onu-el-bloqueo-energetico-de-eeuu-y-alerta-sobre-el-avance-del-expansionismo/",
+      "destacada": false,
+      "tema": "denuncia",
+      "id": 20
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Comienza Edición 36 del Taller y Concurso Nacional de la Radio Joven Antonio Lloga in memoriam",
+      "resumen": "La edición 36 del Taller y Concurso Nacional «Antonio Lloga in memoriam» se inauguró esta tarde en el Salón de los Espejos, del gobierno provincial en Santiago de Cuba. En la jornada, se reconoció como Maestros de la radio a los realizadores Luis Izquierdo Valdés, de la emisora Radio Rebelde, y Césa",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/eventos/comienza-edicion-36-del-taller-y-concurso-nacional-de-la-radio-joven-antonio-lloga-in-memoriam/",
+      "destacada": false,
+      "tema": "comienza",
+      "id": 21
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Criterio Compartido: «Cada voz en Cuba importa» Episodio 01",
+      "resumen": "El Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, dedicó la primera emisión de Criterio Compartido a explicar las transformaciones económicas y sociales que comienza a implementar el país, responder directamente a preocupa",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-cada-voz-en-cuba-importa-episodio-01/",
+      "destacada": false,
+      "tema": "criterio",
+      "id": 22
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Criterio Compartido» sobre transformaciones económicas y sociales en Cuba (+ Audio en vivo)",
+      "resumen": "¿Conoce usted sobre las transformaciones económicas y sociales? ¿Cómo cree que impactan en su vida?. Ese será el tema de la primera emisión del programa radial «Criterio Compartido», que contará con la presencia del primer secretario del Comité Central del Partido Comunista de Cuba y presidente de l",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-sobre-transformaciones-economicas-y-sociales-en-cuba/",
+      "destacada": false,
+      "tema": "criterio",
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Presentarán Sensaciones, de Reinaldo Montero en el Sábado del Libro",
+      "resumen": "El Instituto Cubano del Libro invita a descubrir una novela que combina recursos narrativos sutiles, situaciones reconocibles, un lenguaje de notable libertad expresiva y un desenlace destinado a revelar la dimensión dramática que se esconde tras el divertimento",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260930/presentaran-sensaciones-de-reinaldo-montero-en-el-sabado-del-libro/",
+      "destacada": false,
+      "tema": "presentarán",
+      "id": 24
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Embajador cubano ante la Santa Sede destaca vínculos entre cultura, religión y diplomacia",
+      "resumen": "El diplomático resaltó la labor de la Asociación Internacional Caritá Política con la cual Cuba mantiene históricos lazos de amistad y cooperación en el ámbito académico, los que han contribuido a la formación de las identidades nacionales",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260930/embajador-cubano-ante-la-santa-sede-destaca-los-vinculos-entre-cultura-religion-y-diplomacia/",
+      "destacada": false,
+      "tema": "embajador",
+      "id": 25
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Nuevas medidas financieras y de viajes contra Cuba",
+      "resumen": "La Oficina de Control de Activos Extranjeros (OFAC) del Departamento del Tesoro de Estados Unidos emitió nuevas regulaciones que prohíben determinadas transacciones financieras y viajes como parte de la política de asfixia y castigo colectivo aplicadas por el gobierno de ese país contra el pueblo cu",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260930/nuevas-medidas-financieras-y-de-viajes-contra-cuba/",
+      "destacada": false,
+      "tema": "nuevas",
+      "id": 26
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La petrolera Melbana reporta pérdidas millonarias en sus inversiones petroleras en Cuba",
+      "titulo": "EEUU exportó a Cuba en julio casi el doble de combustible que en la primera mitad de 2026",
+      "resumen": "#EEUU se consolida como el principal suministrador de #hidrocarburos de #Cuba, con exportaciones récord en apenas un mes.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1790795130_69189.html",
+      "destacada": false,
+      "tema": "exportó",
+      "id": 27
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Aleida Guevara explica en Bruselas el 'privilegio de vivir en una sociedad socialista'",
+      "resumen": "#SOSCuba: #AleidaGuevara explica el privilegio de vivir en el socialismo, en un evento organizado por el grupo minoritario del #ParlamentoEuropeo The Left. Sostiene que la verdadera libertad de un pueblo está en decidir qué hacer con su vida, aunque en Cuba no hay elecciones libres.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1790793901_69191.html",
+      "destacada": false,
+      "tema": "aleida",
+      "id": 28
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La petrolera Melbana reporta pérdidas millonarias en sus inversiones en Cuba",
       "resumen": "#MelbanaEnergy está en una situación difícil con sus negocios de perforación y extracción de #petróleo en #Cuba tras los incumplimientos de #Sonangol y las sanciones de #EEUU a #Cupet.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/economia/1790789794_69190.html",
       "destacada": false,
       "tema": "petrolera",
-      "id": 12
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -157,7 +361,7 @@
       "enlace_original": "https://diariodecuba.com/derechos-humanos/1790785196_69188.html",
       "destacada": false,
       "tema": "embajada",
-      "id": 13
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -169,31 +373,31 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790784148_69113.html",
       "destacada": false,
       "tema": "reduce",
-      "id": 14
+      "id": 31
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "UN Watch tacha de 'vergüenza' la reunión de un alto comisionado de la ONU con Bruno Rodríguez",
-      "resumen": "#SOSCuba: #UNWatch critica que el alto comisionado de la #ONU para los derechos humanos le regale una \"victoria propagandística\" al #RégimenCubano al reunirse con #BrunoRodríguez. En canciller aprovecha el encuentro para reforzar la narrativa victimista de La Habana.",
+      "titulo": "Trump sobre Rubio: \"Esperen a ver lo que hace con Cuba”",
+      "resumen": "En la celebración del Mes de la Herencia Hispana en la Casa Blanca, Donald Trump elogió este miércoles al secretario de Estado Marco Rubio y lo presentó como pieza clave de su política exterior.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1790782553_69187.html",
+      "enlace_original": "https://www.martinoticias.com/a/trump-sobre-rubio-esperen-a-ver-lo-que-hace-con-cuba/480993.html",
       "destacada": false,
-      "tema": "watch",
-      "id": 15
+      "tema": "trump",
+      "id": 32
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "transporte",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Henry Constantin recibe su primera visita en Kilo 7; su defensa no consigue solicitar un cambio de medida cautelar",
-      "resumen": "La pareja del periodista independiente cubano Henry Constantin Ferreiro pudo verlo durante dos horas y media en la prisión de Kilo7. El tribunal no admitió el recurso de habeas corpus ni su abogada ha logrado pedir un cambio de medida.",
+      "titulo": "EEUU cerca a La Habana: opositores y activistas opinan sobre las sanciones",
+      "resumen": "Un panorama de marcadas discrepancias ha desatado el más reciente paquete de restricciones de Estados Unidos que busca neutralizar las vías de financiación del régimen cubano, pero vuelve a poner en la balanza el costo que pagará la población civil.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1790775834_69186.html",
+      "enlace_original": "https://www.martinoticias.com/a/eeuu-cerca-a-la-habana-opositores-y-activistas-opinan-sobre-las-sanciones/480981.html",
       "destacada": false,
-      "tema": "henry",
-      "id": 16
+      "tema": "cerca",
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -205,7 +409,7 @@
       "enlace_original": "https://www.martinoticias.com/a/478559.html",
       "destacada": false,
       "tema": "",
-      "id": 17
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -217,7 +421,7 @@
       "enlace_original": "https://www.martinoticias.com/a/noticiero-mart%c3%ad-noticias/480980.html",
       "destacada": false,
       "tema": "noticiero",
-      "id": 18
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -229,31 +433,31 @@
       "enlace_original": "https://www.martinoticias.com/a/el-futuro-es-ya/480976.html",
       "destacada": false,
       "tema": "futuro",
-      "id": 19
+      "id": 36
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "¿Cómo afecta la nueva medida de OFAC a las autorizaciones previas a ciudadanos estadounidenses para reuniones o conferencias profesionales en Cuba?",
+      "resumen": "Las personas sujetas a la jurisdicción de los Estados Unidos ya no están autorizadas a asistir u organizar reuniones o conferencias profesionales en Cuba. La OFAC reemplaza dicha autorización con una autorización de cierre parcial para las personas sujetas a la jurisdicción de los Estados Unidos que",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/30/como-afecta-la-nueva-medida-de-ofac-a-las-autorizaciones-previas-a-ciudadanos-estadounidenses-para-reuniones-o-conferencias-profesionales-en-cuba/",
+      "destacada": false,
+      "tema": "afecta",
+      "id": 37
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "EEUU cierra vacíos legales que han favorecido al régimen de Cuba",
-      "resumen": "El Tesoro modificó el Reglamento de Control de Activos Cubanos (CACR) para evitar que La Habana viole las sanciones.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Ana María Mari Machado intercambia con grupos parlamentarios del Congreso español",
+      "resumen": "Ana María Mari Machado, vicepresidenta de la Asamblea Nacional de Cuba, sostuvo un fraternal intercambio con diputados de varios Grupos Parlamentarios del Congreso de los Diputados de España. Durante el encuentro, denunció el recrudecimiento extremo del bloqueo, el cerco energético y las sanciones i",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/eeuu-cierra-vac%c3%ados-legales-que-han-favorecido-al-r%c3%a9gimen-de-cuba/480984.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/30/ana-maria-mari-machado-intercambia-con-grupos-parlamentarios-del-congreso-espanol/",
       "destacada": false,
-      "tema": "cierra",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 12:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/478555.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "id": 21
+      "tema": "maría",
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -265,7 +469,7 @@
       "enlace_original": "http://www.cubadebate.cu/especiales/2026/09/30/vea-en-con-filo-cuba-no-esta-sola/",
       "destacada": false,
       "tema": "",
-      "id": 22
+      "id": 39
     },
     {
       "categoria": "transporte",
@@ -277,7 +481,7 @@
       "enlace_original": "http://www.cubadebate.cu/especiales/2026/09/30/la-segunda-intervencion-yanqui-motivos-e-impacto/",
       "destacada": false,
       "tema": "segunda",
-      "id": 23
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -289,19 +493,7 @@
       "enlace_original": "http://www.cubadebate.cu/especiales/2026/09/30/ibis-juanes-el-magisterio-cubano-es-resistencia-adaptacion-y-creatividad/",
       "destacada": false,
       "tema": "juanes",
-      "id": 24
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Palante en Cubadebate: Resistimos, a pesar de los pesares",
-      "resumen": "Palante llega de nuevo a Cubadebate con agudo y variado humor, para que pongas a un lado los pesares y te abastezcas de combustible anímico, ese que no se puede bloquear y tan necesario es para continuar la lucha. Descárgalo y disfrútalo. The post Palante en Cubadebate: Resistimos, a pesar de los pe",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/09/30/palante-en-cubadebate-resistimos-a-pesar-de-los-pesares/",
-      "destacada": false,
-      "tema": "palante",
-      "id": 25
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -313,7 +505,7 @@
       "enlace_original": "https://periodismodebarrio.org/henry-constantin-prision-cuba/",
       "destacada": false,
       "tema": "libertad",
-      "id": 26
+      "id": 42
     },
     {
       "categoria": "politica",
@@ -325,7 +517,7 @@
       "enlace_original": "https://periodismodebarrio.org/los-rectangulos-oscuros-que-dividen-a-cuba/",
       "destacada": false,
       "tema": "rectángulos",
-      "id": 27
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -337,7 +529,7 @@
       "enlace_original": "https://periodismodebarrio.org/maternidades-desterradas-el-costo-infantil-del-presidio-politico-en-cuba/",
       "destacada": false,
       "tema": "maternidades",
-      "id": 28
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -349,7 +541,7 @@
       "enlace_original": "https://periodismodebarrio.org/maferefun-regla/",
       "destacada": false,
       "tema": "maferefún",
-      "id": 29
+      "id": 45
     },
     {
       "categoria": "economia",
@@ -361,7 +553,7 @@
       "enlace_original": "https://periodismodebarrio.org/farmacias-privadas-en-cuba/",
       "destacada": false,
       "tema": "lucrativo",
-      "id": 30
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -373,7 +565,7 @@
       "enlace_original": "https://www.cubainformacion.tv/cuba/20260930/125243/125243-reparacion-de-la-guiteras-tomara-no-menos-de-dos-dias-afirman-especialistas",
       "destacada": false,
       "tema": "reparación",
-      "id": 31
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -385,7 +577,7 @@
       "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20260930/125242/125242-washington-habla-de-cuba-que-piensa-la-sociedad-estadounidense",
       "destacada": false,
       "tema": "washington",
-      "id": 32
+      "id": 48
     },
     {
       "categoria": "transporte",
@@ -397,7 +589,7 @@
       "enlace_original": "https://www.cubainformacion.tv/cuba/20260930/125241/125241-en-estreno-podcast-es-la-idea-con-hua-xin-embajador-de-china-en-cuba",
       "destacada": false,
       "tema": "estreno",
-      "id": 33
+      "id": 49
     },
     {
       "categoria": "transporte",
@@ -409,7 +601,7 @@
       "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20260930/125240/125240-estados-unidos-emite-nuevas-medidas-financieras-y-de-viajes-contra-cuba",
       "destacada": false,
       "tema": "estados",
-      "id": 34
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -421,7 +613,7 @@
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125238/125238-ayotzinapa-y-el-nuevo-informe",
       "destacada": false,
       "tema": "ayotzinapa",
-      "id": 35
+      "id": 51
     }
   ]
 }
