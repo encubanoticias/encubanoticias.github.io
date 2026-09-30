@@ -430,6 +430,13 @@ document.getElementById('modal-info').addEventListener('click', (e) => {
   if (e.target.id === 'modal-info') cerrarInfo();
 });
 
+// --- SUPABASE ---
+const SUPABASE_URL = 'https://dffizzmftestjyghmjct.supabase.co';
+const SUPABASE_KEY = 'sb_publishable_aj1OUORko0Ojn_kNhhPuww_GlgY-HUP';
+const supabaseClient = window.supabase ? window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY) : null;
+
+let votosGlobales = {};
+
 // --- VOTACIÓN ---
 function claveVoto(id) { return 'voto_' + id; }
 
@@ -439,16 +446,6 @@ function cargarVotos() {
 
 function guardarVotos(v) {
   localStorage.setItem('votos', JSON.stringify(v));
-}
-
-function contarVotos(id) {
-  const v = cargarVotos()[id] || {};
-  return Object.values(v).length;
-}
-
-function miVoto(id) {
-  const v = cargarVotos()[id] || {};
-  return v['yo'] || null;
 }
 
 function votar(id, tipo) {
@@ -462,6 +459,33 @@ function votar(id, tipo) {
   }
   guardarVotos(todos);
   actualizarVotacion(id);
+
+  if (supabaseClient) {
+    supabaseClient.from('votes').insert({
+      news_id: String(id),
+      vote_type: tipo
+    }).then(({ error }) => {
+      if (error) console.log('Error enviando voto:', error);
+      cargarVotosGlobales();
+    });
+  }
+}
+
+async function cargarVotosGlobales() {
+  if (!supabaseClient) return;
+  const { data, error } = await supabaseClient.from('votes').select('news_id, vote_type');
+  if (error) { console.log('Error votos globales:', error); return; }
+
+  votosGlobales = {};
+  data.forEach(v => {
+    const id = v.news_id;
+    if (!votosGlobales[id]) votosGlobales[id] = { confirmada: 0, dudosa: 0, falsa: 0 };
+    if (votosGlobales[id][v.vote_type] !== undefined) votosGlobales[id][v.vote_type]++;
+  });
+
+  document.querySelectorAll('.votacion').forEach(cont => {
+    actualizarVotacion(cont.dataset.id);
+  });
 }
 
 function actualizarVotacion(id) {
@@ -469,7 +493,9 @@ function actualizarVotacion(id) {
   if (!cont) return;
   const v = cargarVotos()[id] || {};
   const mi = v['yo'];
-  const total = Object.values(v).length;
+
+  const global = votosGlobales[String(id)] || { confirmada: 0, dudosa: 0, falsa: 0 };
+  const total = global.confirmada + global.dudosa + global.falsa;
 
   cont.querySelectorAll('.voto-btn').forEach(b => {
     b.classList.toggle('activo', b.dataset.voto === mi);
@@ -492,3 +518,6 @@ function inicializarVotaciones() {
     actualizarVotacion(id);
   });
 }
+
+// Cargar votos globales después de renderizar
+setTimeout(cargarVotosGlobales, 1500);
