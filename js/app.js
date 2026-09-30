@@ -528,7 +528,6 @@ function inicializarVotaciones() {
     });
     actualizarVotacion(id);
   });
-}
 
 // Cargar votos globales después de renderizar
 setTimeout(cargarVotosGlobales, 1500);
