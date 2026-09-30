@@ -1,7 +1,7 @@
 {
   "fecha": "2026-09-30",
-  "hora": "10:06",
-  "total": 39,
+  "hora": "12:07",
+  "total": 46,
   "noticias": [
     {
       "categoria": "economia",
@@ -64,28 +64,16 @@
       "id": 5
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Voces clave de la musicología cubana presentes en foro en México",
-      "resumen": "La Habana, 30 sep (Prensa Latina) El Centro de Investigación y Desarrollo de la Música Cubana (Cidmuc) consolida hoy su proyección internacional en el XVII Congreso de la Rama Latinoamericana de la International Association for the Study of Popular Music (IASPM-AL), en México. The post Voces clave d",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/30/voces-clave-de-la-musicologia-cubana-presentes-en-foro-en-mexico/",
+      "categoria": "salud",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"Me operaron con tecnologías de hace 30 años y me salvaron la vida\", cuenta Di Battista",
+      "resumen": "El ex diputado italiano fue hospitalizado en Cuba por un tumor cerebral",
+      "imagen_url": "https://static.14ymedio.com/clip/3ae363d0-51e5-46b9-ad6f-85fa49cdb344_source-aspect-ratio_default_0.png",
+      "enlace_original": "https://www.14ymedio.com/internacional/operaron-tecnologias-30-anos-salvaron_1_1131358.html",
       "destacada": false,
-      "tema": "voces",
+      "tema": "operaron",
       "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Gira de rector de universidad cubana cierra con tres acuerdos",
-      "resumen": "Hanoi, 30 sep (Prensa Latina) La gira por Vietnam, Laos y Camboya del rector de la Universidad de Ciencias de la Cultura Física y el Deporte Manuel Fajardo, Silvano Merced, concluyó hoy con la firma de tres acuerdos de cooperación con centros homólogos. The post Gira de rector de universidad cubana ",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/30/gira-de-rector-de-universidad-cubana-cierra-con-tres-acuerdos/",
-      "destacada": false,
-      "tema": "rector",
-      "id": 7
     },
     {
       "categoria": "economia",
@@ -97,7 +85,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/congelan-cuentas-mipymes-cubanas-bancos_1_1131353.html",
       "destacada": false,
       "tema": "congelan",
-      "id": 8
+      "id": 7
     },
     {
       "categoria": "economia",
@@ -109,7 +97,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/ministro-economia-niega-contactos-empresas_1_1131338.html",
       "destacada": false,
       "tema": "ministro",
-      "id": 9
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -121,7 +109,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/vivir-basura-pobres-recolectan-desechos_1_1131345.html",
       "destacada": false,
       "tema": "vivir",
-      "id": 10
+      "id": 9
     },
     {
       "categoria": "salud",
@@ -133,19 +121,19 @@
       "enlace_original": "https://www.14ymedio.com/cuba/autoridades-minimizan-crisis-epidemiologica-cuba_1_1131341.html",
       "destacada": false,
       "tema": "autoridades",
-      "id": 11
+      "id": 10
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba se queda sin medallas tras la derrota ante Alemania en el Mundial Sub-15",
-      "resumen": "Los periodistas atribuyen el fracaso al abandono de atletas y la falta de eventos locales",
-      "imagen_url": "https://static.14ymedio.com/clip/ab84347a-59ae-4df6-b891-6dd23402126a_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/deportes/cuba-queda-medallas-derrota-alemania_1_1131350.html",
+      "titulo": "MINREX evidencia contradicción de las reformas «soberanas»: La Habana mira más a Washington que a los cubanos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u207888-e207888-s27061-nid341527-minrex-evidencia-contradiccion-reformas",
       "destacada": false,
-      "tema": "queda",
-      "id": 12
+      "tema": "minrex",
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -157,7 +145,7 @@
       "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u1-e208933-s27061-nid341512-casi-cada-tres-cubanos-gran-ola-migratoria-2021-2024",
       "destacada": false,
       "tema": "cubanos",
-      "id": 13
+      "id": 12
     },
     {
       "categoria": "economia",
@@ -169,7 +157,127 @@
       "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u1-e208933-s27061-nid341513-asi-cierra-mercado-informal-cuba-dolar-rompe-barrera",
       "destacada": false,
       "tema": "tipo_cambio",
+      "id": 13
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Grata «Coincidencia» entre el deporte y la cultura cubana",
+      "resumen": "«Coincidencia» es el título de una nueva producción audiovisual de Radioarte y la Radio Cubana para enlazar el deporte con la cultura. Conducido por el periodista Joel García León, el espacio de hoy se estrena con la presencia de Ana Fidelia Quirós, leyenda del atletismo cubano y considerada la mejo",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/grata-coincidencia-entre-el-deporte-y-la-cultura-cubana/",
+      "destacada": false,
+      "tema": "grata",
       "id": 14
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba denuncia en la ONU el bloqueo energético de EEUU y alerta sobre el avance del expansionismo",
+      "resumen": "El ministro de Relaciones Exteriores de Cuba, Bruno Rodríguez Parrilla, pronunció este sábado su discurso ante la Asamblea General de la Organización de las Naciones Unidas (ONU), en un contexto internacional signado por la creciente presión de Estados Unidos contra la isla y los desafíos que de ell",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/destacados/cuba-denuncia-en-la-onu-el-bloqueo-energetico-de-eeuu-y-alerta-sobre-el-avance-del-expansionismo/",
+      "destacada": false,
+      "tema": "denuncia",
+      "id": 15
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Comienza Edición 36 del Taller y Concurso Nacional de la Radio Joven Antonio Lloga in memoriam",
+      "resumen": "La edición 36 del Taller y Concurso Nacional «Antonio Lloga in memoriam» se inauguró esta tarde en el Salón de los Espejos, del gobierno provincial en Santiago de Cuba. En la jornada, se reconoció como Maestros de la radio a los realizadores Luis Izquierdo Valdés, de la emisora Radio Rebelde, y Césa",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/eventos/comienza-edicion-36-del-taller-y-concurso-nacional-de-la-radio-joven-antonio-lloga-in-memoriam/",
+      "destacada": false,
+      "tema": "comienza",
+      "id": 16
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Criterio Compartido: «Cada voz en Cuba importa» Episodio 01",
+      "resumen": "El Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, dedicó la primera emisión de Criterio Compartido a explicar las transformaciones económicas y sociales que comienza a implementar el país, responder directamente a preocupa",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-cada-voz-en-cuba-importa-episodio-01/",
+      "destacada": false,
+      "tema": "criterio",
+      "id": 17
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Criterio Compartido» sobre transformaciones económicas y sociales en Cuba (+ Audio en vivo)",
+      "resumen": "¿Conoce usted sobre las transformaciones económicas y sociales? ¿Cómo cree que impactan en su vida?. Ese será el tema de la primera emisión del programa radial «Criterio Compartido», que contará con la presencia del primer secretario del Comité Central del Partido Comunista de Cuba y presidente de l",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-sobre-transformaciones-economicas-y-sociales-en-cuba/",
+      "destacada": false,
+      "tema": "criterio",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Por el equilibrio del mundo, regresa a La Habana",
+      "resumen": "Convocan VII Conferencia Internacional Por el equilibrio del mundo",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260929/por-el-equilibrio-del-mundo-regresa-a-la-habana/",
+      "destacada": false,
+      "tema": "equilibrio",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Nueva oportunidad laboral con AICS La Habana",
+      "resumen": "La Agencia Italiana de Cooperación para el Desarrollo (AICS) ofrece cargo de Coordinador/a Ejecutivo/a de Administración, Finanzas y Compliance del programa Municipios Sostenibles",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260929/nueva-oportunidad-laboral-con-aics-la-habana/",
+      "destacada": false,
+      "tema": "nueva",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El infierno del 'químico' en Cuba: jóvenes atrapados y la lucha por salir",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1790767358_69183.html",
+      "destacada": false,
+      "tema": "infierno",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Bautistas cubanos salen en defensa de Anna Bensi y su madre ante el juicio político que enfrentan",
+      "resumen": "Convención Bautista de #Cuba Occidental ante el juicio a Anna Bensi y su madre: \"El ejercicio legítimo de la verdad y la transparencia no debe ser criminalizado\"; \"encarcelar a dos mujeres inocentes y dignas sería la gota que colmara la copa\".",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1790765172_69182.html",
+      "destacada": false,
+      "tema": "bautistas",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Editorial: El régimen de Cuba está muy solo",
+      "resumen": "#Editorial: La soledad del régimen de #Cuba es múltiple: sin aliado militar si las cosas se le ponen feas, sin ninguna otra nación que lo sostenga económicamente y a solas frente al pueblo.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1790764106_69181.html",
+      "destacada": false,
+      "tema": "editorial",
+      "id": 23
     },
     {
       "categoria": "energia",
@@ -181,7 +289,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790760840_69180.html",
       "destacada": false,
       "tema": "guiteras",
-      "id": 15
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -193,43 +301,19 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790747222_69178.html",
       "destacada": false,
       "tema": "quizás",
-      "id": 16
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "EEUU endurece las restricciones bancarias y de viajes a Cuba",
-      "resumen": "#EEUU suspende los #viajes \"pueblo a pueblo\" y las cuentas bancarias para el sector privado de #Cuba, en otra tanda de sanciones.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1790717458_69176.html",
-      "destacada": false,
-      "tema": "endurece",
-      "id": 17
+      "id": 25
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Murió Fernando Guardado, histórico conductor del programa 'Palmas y Cañas'",
-      "resumen": "#Cuba: el querido #locutor Fernando Guardado, que fue durante casi dos décadas una de las voces del espacio televisivo de música campesina \"Palmas y Cañas\", falleció a los 79 años de edad.",
+      "titulo": "Cuba Habla: \"Lo que más me preocupa es mi alimentación”",
+      "resumen": "Joven santiaguera embarazada refiere como se alimenta, como ve su futuro y el de su bebé.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cultura/1790715026_69175.html",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-lo-que-m%c3%a1s-me-preocupa-es-mi-alimentaci%c3%b3n/480463.html",
       "destacada": false,
-      "tema": "murió",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La ONU y el problema de la soberanía en América Latina",
-      "resumen": "El lema de la 81 Asamblea General de Naciones Unidas no podría describir mejor el momento latinoamericano: \"Restaurar la confianza y gestionar la transformación\". Una región que necesita ambas cosas llegó a Nueva York hablando lenguajes enfrentados. Sin embargo, bajo esa fractura ideológica apareció",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/internacional/1790710500_69174.html",
-      "destacada": false,
-      "tema": "problema",
-      "id": 19
+      "tema": "habla",
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -241,7 +325,7 @@
       "enlace_original": "https://www.martinoticias.com/a/478548.html",
       "destacada": false,
       "tema": "",
-      "id": 20
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -253,7 +337,7 @@
       "enlace_original": "https://www.martinoticias.com/a/embullo-cubano/480967.html",
       "destacada": false,
       "tema": "embullo",
-      "id": 21
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -265,7 +349,7 @@
       "enlace_original": "https://www.martinoticias.com/a/la-ambulancia-jam%c3%a1s-lleg%c3%b3-el-colapso-de-las-urgencias-en-las-zonas-rurales-en-cuba/480915.html",
       "destacada": false,
       "tema": "ambulancia",
-      "id": 22
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -277,19 +361,19 @@
       "enlace_original": "https://www.martinoticias.com/a/478457.html",
       "destacada": false,
       "tema": "noticiero",
-      "id": 23
+      "id": 30
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El vital servicio en Cuba que depende cada vez más del poder adquisitivo de los cubanos",
-      "resumen": "Periodista independiente muestra como vital servicio en Cuba parece depender cada vez más del dinero que tengan los cubanos.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Postales desde las alturas",
+      "resumen": "Las vistas aéreas de La Habana ofrecen una narrativa visual única de la ciudad, donde se entrelazan historia, arquitectura y paisaje costero. Desde lo alto, se aprecia el contraste entre la Habana Vieja, con sus calles coloniales y tejados antiguos, y el Vedado, con edificios modernos y avenidas arb",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/el-vital-servicio-en-cuba-que-depende-cada-vez-m%c3%a1s-del-poder-adquisitivo-de-los-cubanos/480920.html",
+      "enlace_original": "http://www.cubadebate.cu/fotorreportajes/2026/09/30/postales-desde-las-alturas/",
       "destacada": false,
-      "tema": "vital",
-      "id": 24
+      "tema": "postales",
+      "id": 31
     },
     {
       "categoria": "energia",
@@ -301,7 +385,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/reparacion-de-la-guiteras-tomara-no-menos-de-dos-dias-afirman-especialistas/",
       "destacada": false,
       "tema": "reparación",
-      "id": 25
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -313,7 +397,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/liga-de-naciones-espana-refrenda-condicion-de-campeona-mundial/",
       "destacada": false,
       "tema": "naciones",
-      "id": 26
+      "id": 33
     },
     {
       "categoria": "economia",
@@ -325,7 +409,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/aclaran-que-no-hay-aumento-de-precio-del-pasaporte-corriente-cubano-solicitado-en-el-pais/",
       "destacada": false,
       "tema": "aclaran",
-      "id": 27
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -337,19 +421,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/bruno-rodriguez-denuncia-una-nueva-oleada-de-sanciones-de-ee-uu-contra-cuba/",
       "destacada": false,
       "tema": "bruno",
-      "id": 28
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Estados Unidos emite nuevas medidas financieras y de viajes contra Cuba",
-      "resumen": "La Oficina de Control de Activos Extranjeros (OFAC) del Departamento del Tesoro de Estados Unidos emitió hoy nuevas regulaciones que afectan o prohíben determinadas transacciones financieras y viajes hacia Cuba. Las medidas forman parte de la política de asfixia y castigo colectivo aplicadas por el ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/estados-unidos-emite-nuevas-medidas-financieras-y-de-viajes-contra-cuba/",
-      "destacada": false,
-      "tema": "estados",
-      "id": 29
+      "id": 35
     },
     {
       "categoria": "politica",
@@ -361,7 +433,7 @@
       "enlace_original": "https://periodismodebarrio.org/los-rectangulos-oscuros-que-dividen-a-cuba/",
       "destacada": false,
       "tema": "rectángulos",
-      "id": 30
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -373,7 +445,7 @@
       "enlace_original": "https://periodismodebarrio.org/maternidades-desterradas-el-costo-infantil-del-presidio-politico-en-cuba/",
       "destacada": false,
       "tema": "maternidades",
-      "id": 31
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -385,7 +457,7 @@
       "enlace_original": "https://periodismodebarrio.org/maferefun-regla/",
       "destacada": false,
       "tema": "maferefún",
-      "id": 32
+      "id": 38
     },
     {
       "categoria": "economia",
@@ -397,7 +469,7 @@
       "enlace_original": "https://periodismodebarrio.org/farmacias-privadas-en-cuba/",
       "destacada": false,
       "tema": "lucrativo",
-      "id": 33
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -409,7 +481,7 @@
       "enlace_original": "https://periodismodebarrio.org/informe-human-rights-watch-derechos-humanos-cuba/",
       "destacada": false,
       "tema": "informe",
-      "id": 34
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -421,7 +493,7 @@
       "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20260930/125242/125242-washington-habla-de-cuba-que-piensa-la-sociedad-estadounidense",
       "destacada": false,
       "tema": "washington",
-      "id": 35
+      "id": 41
     },
     {
       "categoria": "transporte",
@@ -433,7 +505,7 @@
       "enlace_original": "https://www.cubainformacion.tv/cuba/20260930/125241/125241-en-estreno-podcast-es-la-idea-con-hua-xin-embajador-de-china-en-cuba",
       "destacada": false,
       "tema": "estreno",
-      "id": 36
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -445,7 +517,7 @@
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125238/125238-ayotzinapa-y-el-nuevo-informe",
       "destacada": false,
       "tema": "ayotzinapa",
-      "id": 37
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -457,7 +529,7 @@
       "enlace_original": "https://www.cubainformacion.tv/solidaridad/20260929/125223/125223-fiesta-solidaria-kuba-eguna-denunciara-el-genocidio-silencioso-que-sufre-cuba-sabado-10-de-octubre-barrio-de-errekalde-bilbao",
       "destacada": false,
       "tema": "fiesta",
-      "id": 38
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -469,7 +541,19 @@
       "enlace_original": "https://www.cubainformacion.tv/solidaridad/20260929/125158/125158-jornada-kuba-genozidioari-aurre-egin-apoyara-la-resistencia-de-las-mujeres-cubanas-frente-al-cerco-de-ee-uu-hernani-sabado-3-de-octubre",
       "destacada": false,
       "tema": "jornada",
-      "id": 39
+      "id": 45
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Resalta profesor mexicano oportunidad de desarrollo en evento en Cuba",
+      "resumen": "Matanzas, Cuba, 30 sep (Prensa Latina) El profesor Jorge Luna, de la Universidad Nacional Autónoma de México (UNAM), destacó hoy el Congreso Internacional Universidad-Sociedad 2026 como una oportunidad de desarrollo. The post Resalta profesor mexicano oportunidad de desarrollo en evento en Cuba firs",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/30/resalta-profesor-mexicano-oportunidad-de-desarrollo-en-evento-en-cuba/",
+      "destacada": false,
+      "tema": "resalta",
+      "id": 46
     }
   ]
 }
