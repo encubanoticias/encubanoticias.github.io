@@ -1,7 +1,7 @@
 {
   "fecha": "2026-09-30",
-  "hora": "03:05",
-  "total": 47,
+  "hora": "04:05",
+  "total": 45,
   "noticias": [
     {
       "categoria": "economia",
@@ -307,13 +307,25 @@
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
+      "titulo": "Cuba al Día",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/478548.html",
+      "destacada": false,
+      "tema": "",
+      "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
       "titulo": "El embullo cubano",
       "resumen": "Un mal nacional",
       "imagen_url": "",
       "enlace_original": "https://www.martinoticias.com/a/embullo-cubano/480967.html",
       "destacada": false,
       "tema": "embullo",
-      "id": 26
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -325,7 +337,7 @@
       "enlace_original": "https://www.martinoticias.com/a/la-ambulancia-jam%c3%a1s-lleg%c3%b3-el-colapso-de-las-urgencias-en-las-zonas-rurales-en-cuba/480915.html",
       "destacada": false,
       "tema": "ambulancia",
-      "id": 27
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -337,7 +349,7 @@
       "enlace_original": "https://www.martinoticias.com/a/478457.html",
       "destacada": false,
       "tema": "noticiero",
-      "id": 28
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -349,18 +361,6 @@
       "enlace_original": "https://www.martinoticias.com/a/el-vital-servicio-en-cuba-que-depende-cada-vez-m%c3%a1s-del-poder-adquisitivo-de-los-cubanos/480920.html",
       "destacada": false,
       "tema": "vital",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Expertos cuestionan el rumbo de las reformas en Cuba: hay que actuar “contra la causa” de la crisis",
-      "resumen": "El régimen cubano dice haber aplicado el 89% de las transformaciones económicas y sociales, pero analistas dudan de que eso implique una reforma real del modelo ni mejoras para la población.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/expertos-cuestionan-el-rumbo-de-las-reformas-en-cuba-hay-que-actuar-contra-la-causa-de-la-crisis/480917.html",
-      "destacada": false,
-      "tema": "expertos",
       "id": 30
     },
     {
@@ -542,30 +542,6 @@
       "destacada": false,
       "tema": "cubanos",
       "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://actualidad.rt.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba reacciona a las nuevas sanciones de EE.UU. para \"obstaculizar\" sus reformas económicas",
-      "resumen": "Las nuevas obstrucciones de Washington se suman a las que ya se aplican desde el 29 de enero, cuando Donald Trump firmó una orden ejecutiva que ciñe aún más las seis décadas de cerco estadounidense a La Habana.",
-      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abc6add59bf5b4c6e206452.jpg",
-      "enlace_original": "https://actualidad.rt.com/actualidad/630062-cuba-reacciona-nuevas-sanciones-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "destacada": false,
-      "tema": "reacciona",
-      "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://actualidad.rt.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Fallece el actor cubano Otto Sirgo, una de las figuras de la telenovela mexicana",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://actualidad.rt.com/actualidad/630068-fallece-actor-cubano-otto-sirgo?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "destacada": false,
-      "tema": "fallece",
-      "id": 47
     }
   ]
 }
