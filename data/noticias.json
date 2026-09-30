@@ -1,55 +1,19 @@
 {
   "fecha": "2026-09-30",
-  "hora": "13:09",
-  "total": 46,
+  "hora": "15:10",
+  "total": 48,
   "noticias": [
     {
       "categoria": "economia",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Ministerio del Interior aclara que no hay aumento de precio del pasaporte corriente cubano solicitado en el país",
-      "resumen": "La Dirección de Identificación, Inmigración y Extranjería del Ministerio del Interior informa a la población que es&nbsp;falso que se haya dispuesto un aumento del precio del pasaporte corriente cubano que se solicita en el país",
+      "titulo": "Washington recrudece el cerco a la economía cubana",
+      "resumen": "El Canciller cubano condenó las nuevas medidas dictadas este martes contra la Mayor de las Antillas, por parte del gobierno de EE. UU.",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-09-29/minint-aclara-no-hay-aumento-del-precio-del-pasaporte-corriente-cubano-solicitado-en-el-pais-29-09-2026-17-09-27",
+      "enlace_original": "http://www.granma.cu/mundo/2026-09-30/washington-recrudece-el-cerco-a-la-economia-cubana-30-09-2026-10-09-42",
       "destacada": true,
-      "tema": "ministerio",
+      "tema": "washington",
       "id": 1
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba, la justicia contra la fuerza: el núcleo de la lógica meliana",
-      "resumen": "La firmeza de la Isla ante las agresiones de EE. UU. no ha sido pasiva, ha mantenido su soberanía y ha recibido un respaldo abrumador de la comunidad internacional",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-09-28/cuba-la-justicia-contra-la-fuerza-el-nucleo-de-la-logica-meliana-28-09-2026-19-09-07",
-      "destacada": true,
-      "tema": "justicia",
-      "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Nadie puede apagar la esperanza en los tapices y las barras",
-      "resumen": "El bloqueo estadounidense afecta pero no detiene la gimnasia cubana",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-09-28/nadie-puede-apagar-la-esperanza-en-los-tapices-y-las-barras-28-09-2026-20-09-11",
-      "destacada": true,
-      "tema": "nadie",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Fallece Fernando Guardado, locutor imprescindible de Palmas y Cañas",
-      "resumen": "El reconocido locutor y conductor Fernando Guardado falleció en las primeras horas de la madrugada de este 29 de septiembre, en su hogar en La Habana, informó la TV Cubana",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-09-29/fallece-fernando-guardado-locutor-imprescindible-de-palmas-y-canas-29-09-2026-16-09-06",
-      "destacada": true,
-      "tema": "fallece",
-      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -61,31 +25,43 @@
       "enlace_original": "http://www.granma.cu/diarios-de-navegacion/2026-09-28/una-exposicion-que-acerco-los-pueblos-de-cuba-y-china-28-09-2026-14-09-05",
       "destacada": true,
       "tema": "exposición",
-      "id": 5
+      "id": 2
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
+      "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Asfixia a Cuba «rompe los ojos», afirma canciller uruguayo",
-      "resumen": "Montevideo, 30 sep (Prensa Latina) La asfixia que sufre el pueblo cubano “rompe los ojos”, afirmó hoy el canciller uruguayo Mario Lubetkin sobre un tema que salta a la vista de la comunidad internacional. The post Asfixia a Cuba «rompe los ojos», afirma canciller uruguayo first appeared on Noticias ",
+      "titulo": "Adolfo Llauradó: la definición misma de carácter",
+      "resumen": "Actor de raza, que enriqueció la pantalla y la escena cubanas mediante inolvidables caracterizaciones, habría cumplido 85 años este 29 de septiembre",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/30/asfixia-a-cuba-rompe-los-ojos-afirma-canciller-uruguayo/",
-      "destacada": false,
-      "tema": "asfixia",
-      "id": 6
+      "enlace_original": "http://www.granma.cu/cultura/2026-09-28/adolfo-llaurado-la-definicion-misma-de-caracter-28-09-2026-18-09-06",
+      "destacada": true,
+      "tema": "adolfo",
+      "id": 3
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
+      "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
       "titulo": "Impulsan programa científico entre Cuba y Bélgica",
-      "resumen": "Holguín, Cuba, 30 sep (Prensa Latina) La formación de 15 doctores cubanos con universidades de Bélgica fortalece hoy la Escuela Doctoral de la provincia de Holguín, iniciativa clave para el desarrollo tecnológico e innovación científica del país. The post Impulsan programa científico entre Cuba y Bé",
+      "resumen": "La formación de 15 doctores cubanos con universidades de Bélgica fortalece hoy la Escuela Doctoral de la provincia de Holguín, iniciativa clave para el desarrollo tecnológico e innovación científica del país",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/09/30/impulsan-programa-cientifico-entre-cuba-y-belgica-3/",
-      "destacada": false,
+      "enlace_original": "http://www.granma.cu/ciencia/2026-09-30/impulsan-programa-cientifico-entre-cuba-y-belgica-30-09-2026-09-09-00",
+      "destacada": true,
       "tema": "impulsan",
-      "id": 7
+      "id": 4
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Denuncian doble rasero de Costa Rica en ONU respecto a Cuba",
+      "resumen": "San José, 30 sep (Prensa Latina) El Partido Vanguardia Popular (PVP) de Costa Rica acusó hoy al Gobierno de mantener respecto a Cuba y otras naciones centroamericanas una política exterior hipócrita y plegada al servicio de intereses ajenos. The post Denuncian doble rasero de Costa Rica en ONU respe",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/30/denuncian-doble-rasero-de-costa-rica-en-onu-respecto-a-cuba/",
+      "destacada": true,
+      "tema": "denuncian",
+      "id": 5
     },
     {
       "categoria": "politica",
@@ -97,7 +73,19 @@
       "enlace_original": "https://www.14ymedio.com/cuba/gobierno-destaca-nuevas-sanciones-washington_1_1131366.html",
       "destacada": false,
       "tema": "gobierno",
-      "id": 8
+      "id": 6
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El embajador chino en La Habana da una clase de economía de mercado a 'Cubadebate'",
+      "resumen": "Pekín \"está haciendo los máximos esfuerzos para ayudar\" a la Isla, dice Hua Xin: \"Ahora, estamos construyendo 15 parques solares de 85 MW y han llegado materiales para el almacenamiento de energía fotovoltaica de 200 MW\"",
+      "imagen_url": "https://static.14ymedio.com/clip/0aa47133-7163-421b-aa06-33c0c74f5126_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/embajador-chino-habana-da-clase_1_1131372.html",
+      "destacada": false,
+      "tema": "embajador",
+      "id": 7
     },
     {
       "categoria": "salud",
@@ -109,67 +97,91 @@
       "enlace_original": "https://www.14ymedio.com/internacional/operaron-tecnologias-30-anos-salvaron_1_1131358.html",
       "destacada": false,
       "tema": "operaron",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Vivir de la basura: los más pobres recolectan desechos en los barrios de La Habana",
-      "resumen": "Van casa por casa recogiendo los desperdicios y trasladándolos a un basurero por unos billetes",
-      "imagen_url": "https://static.14ymedio.com/clip/88332a4a-a544-41a6-aa73-3e93ac288024_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/vivir-basura-pobres-recolectan-desechos_1_1131345.html",
-      "destacada": false,
-      "tema": "vivir",
-      "id": 10
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las autoridades minimizan la crisis epidemiológica en Cuba pese a indicios preocupantes",
-      "resumen": "En distintos puntos del país incrementan las atenciones del \"síndrome febril inespecífico\", mientras los hospitales carecen de lo más mínimo para enfrentar la crisis",
-      "imagen_url": "https://static.14ymedio.com/clip/3aa4b796-f21a-4a53-a5d1-71b179d9c70f_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/autoridades-minimizan-crisis-epidemiologica-cuba_1_1131341.html",
-      "destacada": false,
-      "tema": "autoridades",
-      "id": 11
+      "id": 8
     },
     {
       "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El ministro de Economía niega contactos de empresas de Trump con el Gobierno cubano",
+      "titulo": "Congelan las cuentas de las mipymes cubanas en los bancos de EE UU",
+      "resumen": "Las nuevas sanciones de Washington prohíben los viajes profesionales y “people-to-people”, además de agregar fuertes restricciones a las transacciones financieras con terceros países",
+      "imagen_url": "https://static.14ymedio.com/clip/e7edea9b-a7e5-46cb-917f-1cebb9e3ff65_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/congelan-cuentas-mipymes-cubanas-bancos_1_1131353.html",
+      "destacada": false,
+      "tema": "congelan",
+      "id": 9
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El viceprimer ministro niega contactos de empresas de Trump con el Gobierno cubano",
       "resumen": "Óscar Pérez-Oliva acusa a EE UU de maniobrar para desplazar a las empresas extranjeras instaladas en la Isla e imponer las suyas",
       "imagen_url": "https://static.14ymedio.com/clip/957e51eb-29b9-43c4-9426-3e483199206b_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/ministro-economia-niega-contactos-empresas_1_1131338.html",
       "destacada": false,
-      "tema": "ministro",
+      "tema": "viceprimer",
+      "id": 10
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Otra jornada imparable para el dólar y el euro en la venta informal en Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u1-e129488-s27061-nid341544-otra-jornada-imparable-dolar-euro-venta-informal",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Bautistas cubanos cierran filas con Anna Bensi y su madre ante su juicio",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u1-e135253-s27061-nid341541-bautistas-cubanos-cierran-filas-anna-bensi-madre",
+      "destacada": false,
+      "tema": "bautistas",
       "id": 12
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "MINREX evidencia contradicción de las reformas «soberanas»: La Habana mira más a Washington que a los cubanos",
+      "titulo": "Foro América Libre: democracia, alianzas y el desafío cubano",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u207888-e207888-s27061-nid341527-minrex-evidencia-contradiccion-reformas",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u208253-e192519-s27068-nid341543-foro-america-libre-democracia-alianzas-desafio",
       "destacada": false,
-      "tema": "minrex",
+      "tema": "américa",
       "id": 13
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Casi uno de cada tres cubanos de la gran ola migratoria de 2021-2024 se dirigió a Miami, según estudio",
+      "titulo": "¿Caro o barato? Está de visita en Cuba, salió a comprar comida y esto fue lo que gastó",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u1-e208933-s27061-nid341512-casi-cada-tres-cubanos-gran-ola-migratoria-2021-2024",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u65722-e65722-s27065-nid341521-caro-barato-esta-visita-cuba-salio-comprar-comida",
       "destacada": false,
-      "tema": "cubanos",
+      "tema": "barato",
       "id": 14
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Arrestan a una pareja de cubanos en Artemisa por venta de drogas en un hospital y en su casa: ¿Qué se sabe?",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u1-e129488-s27061-nid341535-arrestan-pareja-cubanos-artemisa-venta-hospital",
+      "destacada": false,
+      "tema": "arrestan",
+      "id": 15
     },
     {
       "categoria": "transporte",
@@ -181,7 +193,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/grata-coincidencia-entre-el-deporte-y-la-cultura-cubana/",
       "destacada": false,
       "tema": "grata",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "politica",
@@ -193,7 +205,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/destacados/cuba-denuncia-en-la-onu-el-bloqueo-energetico-de-eeuu-y-alerta-sobre-el-avance-del-expansionismo/",
       "destacada": false,
       "tema": "denuncia",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "politica",
@@ -205,7 +217,7 @@
       "enlace_original": "https://www.radiocubana.cu/eventos/comienza-edicion-36-del-taller-y-concurso-nacional-de-la-radio-joven-antonio-lloga-in-memoriam/",
       "destacada": false,
       "tema": "comienza",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "politica",
@@ -217,7 +229,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-cada-voz-en-cuba-importa-episodio-01/",
       "destacada": false,
       "tema": "criterio",
-      "id": 18
+      "id": 19
     },
     {
       "categoria": "politica",
@@ -229,7 +241,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-sobre-transformaciones-economicas-y-sociales-en-cuba/",
       "destacada": false,
       "tema": "criterio",
-      "id": 19
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -241,7 +253,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260929/por-el-equilibrio-del-mundo-regresa-a-la-habana/",
       "destacada": false,
       "tema": "equilibrio",
-      "id": 20
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -253,7 +265,19 @@
       "enlace_original": "https://www.trabajadores.cu/20260929/nueva-oportunidad-laboral-con-aics-la-habana/",
       "destacada": false,
       "tema": "nueva",
-      "id": 21
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Henry Constantin recibe su primera visita en Kilo 7; su defensa no consigue solicitar un cambio de medida cautelar",
+      "resumen": "La pareja del periodista independiente cubano Henry Constantin Ferreiro pudo verlo durante dos horas y media en la prisión de Kilo7. El tribunal no admitió el recurso de habeas corpus ni su abogada ha logrado pedir un cambio de medida.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1790775834_69186.html",
+      "destacada": false,
+      "tema": "henry",
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -265,7 +289,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790767358_69183.html",
       "destacada": false,
       "tema": "infierno",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -277,7 +301,7 @@
       "enlace_original": "https://diariodecuba.com/derechos-humanos/1790765172_69182.html",
       "destacada": false,
       "tema": "cristianos",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -289,7 +313,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790764106_69181.html",
       "destacada": false,
       "tema": "editorial",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "energia",
@@ -301,19 +325,43 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790760840_69180.html",
       "destacada": false,
       "tema": "guiteras",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "'Quizás ningún país vendrá en nuestra ayuda': el régimen cubano admite su soledad ante una acción militar de EEUU",
-      "resumen": "\"Somos conscientes de que estamos solos\" ante una eventual acción militar de #EEUU en #Cuba, dice Carlos Fernández de Cossío.",
+      "titulo": "“No vamos a dejarlas solas”: bautistas respaldan a Anna Bensi y su madre ante juicio en Cuba",
+      "resumen": "La Asociación Convención Bautista de Cuba Occidental manifestó su apoyo a la activista Anna Sofía Benítez Silvente, conocida como Anna Bensi, y a su madre, Caridad Silvente Laffita, ante el proceso penal que enfrentan en Cuba por la difusión de un video sobre una citación policial.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1790747222_69178.html",
+      "enlace_original": "https://www.martinoticias.com/a/no-vamos-a-dejarlas-solas-bautistas-respaldan-a-anna-bensi-y-su-madre-ante-juicio-en-cuba/480973.html",
       "destacada": false,
-      "tema": "quizás",
-      "id": 26
+      "tema": "vamos",
+      "id": 28
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"Injustamente detenido\": EEUU exige la liberación del periodista independiente Henry Constantín",
+      "resumen": "“La administración Trump seguirá denunciando los horribles crímenes de esta dictadura, exigiendo responsabilidades y apoyando al pueblo cubano, que merece liberarse de la tiranía”, dijo el secretario adjunto de Estado de Estados Unidos para Asuntos del Hemisferio Occidental, Juan Pablo Segura.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/injustamente-detenido-eeuu-exige-la-liberaci%c3%b3n-del-periodista-independiente-henry-constant%c3%adn/480974.html",
+      "destacada": false,
+      "tema": "injustamente",
+      "id": 29
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El futuro es ya",
+      "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/478551.html",
+      "destacada": false,
+      "tema": "futuro",
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -325,7 +373,7 @@
       "enlace_original": "https://www.martinoticias.com/a/organizaciones-internacionales-exigen-la-liberaci%c3%b3n-inmediata-del-periodista-cubano-henry-constant%c3%adn/480969.html",
       "destacada": false,
       "tema": "organizaciones",
-      "id": 27
+      "id": 31
     },
     {
       "categoria": "economia",
@@ -337,43 +385,31 @@
       "enlace_original": "https://www.martinoticias.com/a/478550.html",
       "destacada": false,
       "tema": "martinoticias",
-      "id": 28
+      "id": 32
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba Habla: \"Lo que más me preocupa es mi alimentación”",
-      "resumen": "Joven santiaguera embarazada refiere como se alimenta, como ve su futuro y el de su bebé.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Palante en Cubadebate: Resistimos, a pesar de los pesares",
+      "resumen": "Palante llega de nuevo a Cubadebate con agudo y variado humor, para que pongas a un lado los pesares y te abastezcas de combustible anímico, ese que no se puede bloquear y tan necesario es para continuar la lucha. Descárgalo y disfrútalo. The post Palante en Cubadebate: Resistimos, a pesar de los pe",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-lo-que-m%c3%a1s-me-preocupa-es-mi-alimentaci%c3%b3n/480463.html",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/09/30/palante-en-cubadebate-resistimos-a-pesar-de-los-pesares/",
       "destacada": false,
-      "tema": "habla",
-      "id": 29
+      "tema": "palante",
+      "id": 33
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Pérez-Oliva: EEUU busca crear una dependencia económica de Cuba en base a la amenaza y el chantaje a compañías extranjeras",
+      "resumen": "El vice primer ministro y titular del Comercio Exterior y la Inversión Extranjera, Óscar Pérez-Oliva, analiza en entrevista exclusiva con Reuters el impacto de las medidas de Estados Unidos sobre los negocios en Cuba. Aborda el interés de empresas estadounidenses en sectores estratégicos y las nueva",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/478548.html",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/09/30/perez-oliva-eeuu-busca-crear-una-dependencia-economica-de-cuba-en-base-a-la-amenaza-y-el-chantaje-a-companias-extranjeras/",
       "destacada": false,
-      "tema": "",
-      "id": 30
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El embullo cubano",
-      "resumen": "Un mal nacional",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/embullo-cubano/480967.html",
-      "destacada": false,
-      "tema": "embullo",
-      "id": 31
+      "tema": "pérez",
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -385,7 +421,19 @@
       "enlace_original": "http://www.cubadebate.cu/fotorreportajes/2026/09/30/postales-desde-las-alturas/",
       "destacada": false,
       "tema": "postales",
-      "id": 32
+      "id": 35
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Mercados de barrio: La apuesta por acercar el comercio a la vida diaria",
+      "resumen": "Lo que ayer era una bodega con las persianas a medio bajar, hoy renace bajo el nombre de \"Mercado de Barrio Café Carmesí\", en el medio del Vedado capitalino. No se trata de una simple remodelación, sino de un giro en la forma de gestionar la venta minorista en Cuba. El mercado de barrio no es una so",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/mercados-de-barrio-la-apuesta-por-acercar-el-comercio-a-la-vida-diaria/",
+      "destacada": false,
+      "tema": "mercados",
+      "id": 36
     },
     {
       "categoria": "energia",
@@ -397,43 +445,19 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/reparacion-de-la-guiteras-tomara-no-menos-de-dos-dias-afirman-especialistas/",
       "destacada": false,
       "tema": "reparación",
-      "id": 33
+      "id": 37
     },
     {
       "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Liga de Naciones: España refrenda condición de campeona mundial",
-      "resumen": "España refrendó hoy su condición de campeona mundial de fútbol, con una goleada de 4-1 ante Croacia por la segunda jornada del grupo A de la Liga de Naciones de Europa. The post Liga de Naciones: España refrenda condición de campeona mundial first appeared on Cubadebate.",
+      "fuente": "https://periodismodebarrio.org",
+      "fuente_tipo": "alternativa",
+      "titulo": "La libertad de informar no requiere permiso",
+      "resumen": "El encarcelamiento de Henry Constantin demuestra que el régimen cubano trata la libertad de expresión como un privilegio. Exigimos su liberación.",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/liga-de-naciones-espana-refrenda-condicion-de-campeona-mundial/",
+      "enlace_original": "https://periodismodebarrio.org/henry-constantin-prision-cuba/",
       "destacada": false,
-      "tema": "naciones",
-      "id": 34
-    },
-    {
-      "categoria": "economia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Aclaran que no hay aumento de precio del pasaporte corriente cubano solicitado en el país",
-      "resumen": "Es falso que se haya dispuesto un aumento del precio del pasaporte corriente cubano que se solicita en el país. El impuesto sobre este tipo de documento se mantiene en 2500 pesos moneda nacional, conforme a lo establecido por el Ministerio de Finanzas y Precios de la República de Cuba. The post Acla",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/aclaran-que-no-hay-aumento-de-precio-del-pasaporte-corriente-cubano-solicitado-en-el-pais/",
-      "destacada": false,
-      "tema": "aclaran",
-      "id": 35
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Bruno Rodríguez denuncia una nueva oleada de sanciones de EE.UU. contra Cuba",
-      "resumen": "El canciller cubano Bruno Rodríguez afirmó que Washington emitió nuevas medidas que endurecen las restricciones sobre Cuba. Según su publicación, las disposiciones eliminan intercambios “pueblo a pueblo” y limitan aún más los contactos académicos y de investigación. The post Bruno Rodríguez denuncia",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/bruno-rodriguez-denuncia-una-nueva-oleada-de-sanciones-de-ee-uu-contra-cuba/",
-      "destacada": false,
-      "tema": "bruno",
-      "id": 36
+      "tema": "libertad",
+      "id": 38
     },
     {
       "categoria": "politica",
@@ -445,7 +469,7 @@
       "enlace_original": "https://periodismodebarrio.org/los-rectangulos-oscuros-que-dividen-a-cuba/",
       "destacada": false,
       "tema": "rectángulos",
-      "id": 37
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -457,7 +481,7 @@
       "enlace_original": "https://periodismodebarrio.org/maternidades-desterradas-el-costo-infantil-del-presidio-politico-en-cuba/",
       "destacada": false,
       "tema": "maternidades",
-      "id": 38
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -469,7 +493,7 @@
       "enlace_original": "https://periodismodebarrio.org/maferefun-regla/",
       "destacada": false,
       "tema": "maferefún",
-      "id": 39
+      "id": 41
     },
     {
       "categoria": "economia",
@@ -481,19 +505,7 @@
       "enlace_original": "https://periodismodebarrio.org/farmacias-privadas-en-cuba/",
       "destacada": false,
       "tema": "lucrativo",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://periodismodebarrio.org",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Qué dice el informe de Human Rights Watch sobre los derechos humanos en Cuba?",
-      "resumen": "Entre el 1 de enero y el 31 de diciembre de 2025 se documentaron 1.279 eventos que implicaron violaciones de derechos humanos en Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://periodismodebarrio.org/informe-human-rights-watch-derechos-humanos-cuba/",
-      "destacada": false,
-      "tema": "informe",
-      "id": 41
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -505,7 +517,7 @@
       "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20260930/125242/125242-washington-habla-de-cuba-que-piensa-la-sociedad-estadounidense",
       "destacada": false,
       "tema": "washington",
-      "id": 42
+      "id": 43
     },
     {
       "categoria": "transporte",
@@ -517,7 +529,19 @@
       "enlace_original": "https://www.cubainformacion.tv/cuba/20260930/125241/125241-en-estreno-podcast-es-la-idea-con-hua-xin-embajador-de-china-en-cuba",
       "destacada": false,
       "tema": "estreno",
-      "id": 43
+      "id": 44
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Estados Unidos emite nuevas medidas financieras y de viajes contra Cuba",
+      "resumen": "Cubadebate - Vídeo: Canal Caribe La Oficina de Control de Activos Extranjeros (OFAC) del Departament...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125240-estados-unidos-emite-nuevas-medidas-financieras-y-de-viajes-contra-cuba.jpg?t=1790745299",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20260930/125240/125240-estados-unidos-emite-nuevas-medidas-financieras-y-de-viajes-contra-cuba",
+      "destacada": false,
+      "tema": "estados",
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -529,7 +553,7 @@
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125238/125238-ayotzinapa-y-el-nuevo-informe",
       "destacada": false,
       "tema": "ayotzinapa",
-      "id": 44
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -541,19 +565,19 @@
       "enlace_original": "https://www.cubainformacion.tv/solidaridad/20260929/125223/125223-fiesta-solidaria-kuba-eguna-denunciara-el-genocidio-silencioso-que-sufre-cuba-sabado-10-de-octubre-barrio-de-errekalde-bilbao",
       "destacada": false,
       "tema": "fiesta",
-      "id": 45
+      "id": 47
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
+      "categoria": "economia",
+      "fuente": "https://actualidad.rt.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Jornada &quot;Kuba: Genozidioari aurre egin!&quot; apoyará la resistencia de las mujeres cubanas frente al cerco de EE. UU.: Hernani, sábado 3 de octubre",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125158-jornada-kuba-genozidioari-aurre-egin-apoyara-la-resistencia-de-las-mujeres-cubanas-frente-al-cerco-de-ee-uu-hernani-sabado-3-de-octubre.jpg?t=1790251427",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20260929/125158/125158-jornada-kuba-genozidioari-aurre-egin-apoyara-la-resistencia-de-las-mujeres-cubanas-frente-al-cerco-de-ee-uu-hernani-sabado-3-de-octubre",
+      "titulo": "Macron admite el alto precio de renunciar al gas ruso",
+      "resumen": "El bloqueo del estrecho de Ormuz también ha dejado al descubierto la dependencia de Europa frente a los combustibles fósiles, indicó el presidente francés.",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abd09e0e9ff711a09723b19.jpg",
+      "enlace_original": "https://actualidad.rt.com/actualidad/630149-macron-admitir-alto-precio-renunciar-gas-ruso?utm_source=rss&utm_medium=rss&utm_campaign=all",
       "destacada": false,
-      "tema": "jornada",
-      "id": 46
+      "tema": "macron",
+      "id": 48
     }
   ]
 }
