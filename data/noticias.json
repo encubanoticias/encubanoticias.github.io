@@ -1,7 +1,7 @@
 {
   "fecha": "2026-09-30",
-  "hora": "06:06",
-  "total": 44,
+  "hora": "07:07",
+  "total": 45,
   "noticias": [
     {
       "categoria": "economia",
@@ -64,6 +64,18 @@
       "id": 5
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba, amplia agenda en ONU y en Nueva York",
+      "resumen": "Nueva York, 30 sep (Prensa Latina) El canciller Bruno Rodríguez cumplió un amplio programa aquí, al frente de la delegación de Cuba al Segmento de Alto Nivel del 81 periodo de sesiones de la Asamblea General de la ONU, en Nueva York. The post Cuba, amplia agenda en ONU y en Nueva York first appeared",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/30/cuba-amplia-agenda-en-onu-y-en-nueva-york/",
+      "destacada": false,
+      "tema": "amplia",
+      "id": 6
+    },
+    {
       "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -73,7 +85,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/congelan-cuentas-mipymes-cubanas-bancos_1_1131353.html",
       "destacada": false,
       "tema": "congelan",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "economia",
@@ -85,7 +97,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/ministro-economia-niega-contactos-empresas_1_1131338.html",
       "destacada": false,
       "tema": "ministro",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -97,7 +109,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/vivir-basura-pobres-recolectan-desechos_1_1131345.html",
       "destacada": false,
       "tema": "vivir",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "salud",
@@ -109,7 +121,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/autoridades-minimizan-crisis-epidemiologica-cuba_1_1131341.html",
       "destacada": false,
       "tema": "autoridades",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -121,7 +133,7 @@
       "enlace_original": "https://www.14ymedio.com/deportes/cuba-queda-medallas-derrota-alemania_1_1131350.html",
       "destacada": false,
       "tema": "queda",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -133,7 +145,7 @@
       "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u1-e208933-s27061-nid341512-casi-cada-tres-cubanos-gran-ola-migratoria-2021-2024",
       "destacada": false,
       "tema": "cubanos",
-      "id": 11
+      "id": 12
     },
     {
       "categoria": "economia",
@@ -145,7 +157,7 @@
       "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u1-e208933-s27061-nid341513-asi-cierra-mercado-informal-cuba-dolar-rompe-barrera",
       "destacada": false,
       "tema": "tipo_cambio",
-      "id": 12
+      "id": 13
     },
     {
       "categoria": "transporte",
@@ -157,7 +169,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/grata-coincidencia-entre-el-deporte-y-la-cultura-cubana/",
       "destacada": false,
       "tema": "grata",
-      "id": 13
+      "id": 14
     },
     {
       "categoria": "politica",
@@ -169,7 +181,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/destacados/cuba-denuncia-en-la-onu-el-bloqueo-energetico-de-eeuu-y-alerta-sobre-el-avance-del-expansionismo/",
       "destacada": false,
       "tema": "denuncia",
-      "id": 14
+      "id": 15
     },
     {
       "categoria": "politica",
@@ -181,7 +193,7 @@
       "enlace_original": "https://www.radiocubana.cu/eventos/comienza-edicion-36-del-taller-y-concurso-nacional-de-la-radio-joven-antonio-lloga-in-memoriam/",
       "destacada": false,
       "tema": "comienza",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "politica",
@@ -193,7 +205,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-cada-voz-en-cuba-importa-episodio-01/",
       "destacada": false,
       "tema": "criterio",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "politica",
@@ -205,7 +217,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-sobre-transformaciones-economicas-y-sociales-en-cuba/",
       "destacada": false,
       "tema": "criterio",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -217,7 +229,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260929/por-el-equilibrio-del-mundo-regresa-a-la-habana/",
       "destacada": false,
       "tema": "equilibrio",
-      "id": 18
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -229,7 +241,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260929/nueva-oportunidad-laboral-con-aics-la-habana/",
       "destacada": false,
       "tema": "nueva",
-      "id": 19
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -241,7 +253,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790747222_69178.html",
       "destacada": false,
       "tema": "quizás",
-      "id": 20
+      "id": 21
     },
     {
       "categoria": "transporte",
@@ -253,7 +265,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790717458_69176.html",
       "destacada": false,
       "tema": "endurece",
-      "id": 21
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -265,7 +277,7 @@
       "enlace_original": "https://diariodecuba.com/cultura/1790715026_69175.html",
       "destacada": false,
       "tema": "murió",
-      "id": 22
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -277,7 +289,7 @@
       "enlace_original": "https://diariodecuba.com/internacional/1790710500_69174.html",
       "destacada": false,
       "tema": "problema",
-      "id": 23
+      "id": 24
     },
     {
       "categoria": "economia",
@@ -289,7 +301,7 @@
       "enlace_original": "https://diariodecuba.com/economia/1790709308_69171.html",
       "destacada": false,
       "tema": "tipo_cambio",
-      "id": 24
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -301,7 +313,7 @@
       "enlace_original": "https://www.martinoticias.com/a/478548.html",
       "destacada": false,
       "tema": "",
-      "id": 25
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -313,7 +325,7 @@
       "enlace_original": "https://www.martinoticias.com/a/embullo-cubano/480967.html",
       "destacada": false,
       "tema": "embullo",
-      "id": 26
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -325,7 +337,7 @@
       "enlace_original": "https://www.martinoticias.com/a/la-ambulancia-jam%c3%a1s-lleg%c3%b3-el-colapso-de-las-urgencias-en-las-zonas-rurales-en-cuba/480915.html",
       "destacada": false,
       "tema": "ambulancia",
-      "id": 27
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -337,7 +349,7 @@
       "enlace_original": "https://www.martinoticias.com/a/478457.html",
       "destacada": false,
       "tema": "noticiero",
-      "id": 28
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -349,7 +361,7 @@
       "enlace_original": "https://www.martinoticias.com/a/el-vital-servicio-en-cuba-que-depende-cada-vez-m%c3%a1s-del-poder-adquisitivo-de-los-cubanos/480920.html",
       "destacada": false,
       "tema": "vital",
-      "id": 29
+      "id": 30
     },
     {
       "categoria": "energia",
@@ -361,7 +373,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/reparacion-de-la-guiteras-tomara-no-menos-de-dos-dias-afirman-especialistas/",
       "destacada": false,
       "tema": "reparación",
-      "id": 30
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -373,7 +385,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/liga-de-naciones-espana-refrenda-condicion-de-campeona-mundial/",
       "destacada": false,
       "tema": "naciones",
-      "id": 31
+      "id": 32
     },
     {
       "categoria": "economia",
@@ -385,7 +397,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/aclaran-que-no-hay-aumento-de-precio-del-pasaporte-corriente-cubano-solicitado-en-el-pais/",
       "destacada": false,
       "tema": "aclaran",
-      "id": 32
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -397,7 +409,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/bruno-rodriguez-denuncia-una-nueva-oleada-de-sanciones-de-ee-uu-contra-cuba/",
       "destacada": false,
       "tema": "bruno",
-      "id": 33
+      "id": 34
     },
     {
       "categoria": "transporte",
@@ -409,7 +421,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/estados-unidos-emite-nuevas-medidas-financieras-y-de-viajes-contra-cuba/",
       "destacada": false,
       "tema": "estados",
-      "id": 34
+      "id": 35
     },
     {
       "categoria": "politica",
@@ -421,7 +433,7 @@
       "enlace_original": "https://periodismodebarrio.org/los-rectangulos-oscuros-que-dividen-a-cuba/",
       "destacada": false,
       "tema": "rectángulos",
-      "id": 35
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -433,7 +445,7 @@
       "enlace_original": "https://periodismodebarrio.org/maternidades-desterradas-el-costo-infantil-del-presidio-politico-en-cuba/",
       "destacada": false,
       "tema": "maternidades",
-      "id": 36
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -445,7 +457,7 @@
       "enlace_original": "https://periodismodebarrio.org/maferefun-regla/",
       "destacada": false,
       "tema": "maferefún",
-      "id": 37
+      "id": 38
     },
     {
       "categoria": "economia",
@@ -457,7 +469,7 @@
       "enlace_original": "https://periodismodebarrio.org/farmacias-privadas-en-cuba/",
       "destacada": false,
       "tema": "lucrativo",
-      "id": 38
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -469,7 +481,7 @@
       "enlace_original": "https://periodismodebarrio.org/informe-human-rights-watch-derechos-humanos-cuba/",
       "destacada": false,
       "tema": "informe",
-      "id": 39
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -481,7 +493,7 @@
       "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20260930/125242/125242-washington-habla-de-cuba-que-piensa-la-sociedad-estadounidense",
       "destacada": false,
       "tema": "washington",
-      "id": 40
+      "id": 41
     },
     {
       "categoria": "transporte",
@@ -493,7 +505,7 @@
       "enlace_original": "https://www.cubainformacion.tv/cuba/20260930/125241/125241-en-estreno-podcast-es-la-idea-con-hua-xin-embajador-de-china-en-cuba",
       "destacada": false,
       "tema": "estreno",
-      "id": 41
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -505,7 +517,7 @@
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125238/125238-ayotzinapa-y-el-nuevo-informe",
       "destacada": false,
       "tema": "ayotzinapa",
-      "id": 42
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -517,7 +529,7 @@
       "enlace_original": "https://www.cubainformacion.tv/solidaridad/20260929/125223/125223-fiesta-solidaria-kuba-eguna-denunciara-el-genocidio-silencioso-que-sufre-cuba-sabado-10-de-octubre-barrio-de-errekalde-bilbao",
       "destacada": false,
       "tema": "fiesta",
-      "id": 43
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -529,7 +541,7 @@
       "enlace_original": "https://www.cubainformacion.tv/solidaridad/20260929/125158/125158-jornada-kuba-genozidioari-aurre-egin-apoyara-la-resistencia-de-las-mujeres-cubanas-frente-al-cerco-de-ee-uu-hernani-sabado-3-de-octubre",
       "destacada": false,
       "tema": "jornada",
-      "id": 44
+      "id": 45
     }
   ]
 }
