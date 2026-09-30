@@ -448,27 +448,38 @@ function guardarVotos(v) {
   localStorage.setItem('votos', JSON.stringify(v));
 }
 
-function votar(id, tipo) {
+async function votar(id, tipo) {
   const todos = cargarVotos();
   if (!todos[id]) todos[id] = {};
   const anterior = todos[id]['yo'];
-  if (anterior === tipo) {
-    delete todos[id]['yo'];
-  } else {
-    todos[id]['yo'] = tipo;
-  }
+
+  // Si el usuario ya votó lo mismo, no hacer nada
+  if (anterior === tipo) return;
+
+  // Actualizar localStorage
+  todos[id]['yo'] = tipo;
   guardarVotos(todos);
   actualizarVotacion(id);
 
-  if (supabaseClient) {
-    supabaseClient.from('votes').insert({
-      news_id: String(id),
-      vote_type: tipo
-    }).then(({ error }) => {
-      if (error) console.log('Error enviando voto:', error);
-      cargarVotosGlobales();
-    });
+  if (!supabaseClient) return;
+
+  // Si había un voto anterior, borrarlo de Supabase
+  if (anterior) {
+    await supabaseClient.from('votes')
+      .delete()
+      .eq('news_id', String(id))
+      .eq('vote_type', anterior);
   }
+
+  // Insertar el nuevo voto
+  const { error } = await supabaseClient.from('votes').insert({
+    news_id: String(id),
+    vote_type: tipo
+  });
+
+  if (error) console.log('Error enviando voto:', error);
+  cargarVotosGlobales();
+}
 }
 
 async function cargarVotosGlobales() {
