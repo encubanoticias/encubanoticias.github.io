@@ -480,7 +480,6 @@ async function votar(id, tipo) {
   if (error) console.log('Error enviando voto:', error);
   cargarVotosGlobales();
 }
-}
 
 async function cargarVotosGlobales() {
   if (!supabaseClient) return;
