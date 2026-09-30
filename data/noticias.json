@@ -1,7 +1,7 @@
 {
   "fecha": "2026-09-30",
-  "hora": "01:07",
-  "total": 42,
+  "hora": "03:05",
+  "total": 47,
   "noticias": [
     {
       "categoria": "economia",
@@ -64,6 +64,18 @@
       "id": 5
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Embajador nicaragüense denuncia bloqueo de EEUU contra Cuba",
+      "resumen": "Managua, 29 sep (Prensa Latina) El representante permanente de Nicaragua ante la ONU, Jaime Hermida, destacó hoy aquí la lucha del pueblo cubano contra el bloqueo de Estados Unidos y subrayó la necesidad de una reforma integral del organismo multilateral. The post Embajador nicaragüense denuncia blo",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/09/29/embajador-nicaraguense-denuncia-bloqueo-de-eeuu-contra-cuba/",
+      "destacada": false,
+      "tema": "embajador",
+      "id": 6
+    },
+    {
       "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -73,7 +85,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/congelan-cuentas-mipymes-cubanas-bancos_1_1131353.html",
       "destacada": false,
       "tema": "congelan",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "economia",
@@ -85,7 +97,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/ministro-economia-niega-contactos-empresas_1_1131338.html",
       "destacada": false,
       "tema": "ministro",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -97,7 +109,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/vivir-basura-pobres-recolectan-desechos_1_1131345.html",
       "destacada": false,
       "tema": "vivir",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "salud",
@@ -109,7 +121,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/autoridades-minimizan-crisis-epidemiologica-cuba_1_1131341.html",
       "destacada": false,
       "tema": "autoridades",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -121,67 +133,91 @@
       "enlace_original": "https://www.14ymedio.com/deportes/cuba-queda-medallas-derrota-alemania_1_1131350.html",
       "destacada": false,
       "tema": "queda",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "«Una Cuba democrática tendrá que aprender a vivir después de la Revolución», sostiene intelectual argentino",
+      "titulo": "Casi uno de cada tres cubanos de la gran ola migratoria de 2021-2024 se dirigió a Miami, según estudio",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-12-u1-e209395-s27061-nid340131-cuba-democratica-tendra-aprender-vivir-despues",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u1-e208933-s27061-nid341512-casi-cada-tres-cubanos-gran-ola-migratoria-2021-2024",
       "destacada": false,
-      "tema": "democrática",
-      "id": 11
+      "tema": "cubanos",
+      "id": 12
     },
     {
       "categoria": "economia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Así cierra el mercado informal en Cuba: el dólar y el euro terminan al alza",
+      "titulo": "Así cierra el mercado informal en Cuba: el dólar rompe la barrera de los 750 pesos",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-12-u1-e209395-s27061-nid340145-asi-cierra-mercado-informal-cuba-dolar-euro-terminan",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-30-u1-e208933-s27061-nid341513-asi-cierra-mercado-informal-cuba-dolar-rompe-barrera",
       "destacada": false,
       "tema": "tipo_cambio",
-      "id": 12
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel: «La amenaza de agresión se mantiene» sobre Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-12-u1-e209395-s27061-nid340138-diaz-canel-amenaza-agresion-mantiene-cuba",
-      "destacada": false,
-      "tema": "canel",
       "id": 13
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "categoria": "transporte",
+      "fuente": "https://www.radiocubana.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Inspectores cubanos son confrontados por presunto cobro ilegal a conductores de triciclos",
-      "resumen": "",
+      "titulo": "Grata «Coincidencia» entre el deporte y la cultura cubana",
+      "resumen": "«Coincidencia» es el título de una nueva producción audiovisual de Radioarte y la Radio Cubana para enlazar el deporte con la cultura. Conducido por el periodista Joel García León, el espacio de hoy se estrena con la presencia de Ana Fidelia Quirós, leyenda del atletismo cubano y considerada la mejo",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-12-u1-e209363-s27061-nid340143-inspectores-cubanos-son-confrontados-presunto-cobro",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/grata-coincidencia-entre-el-deporte-y-la-cultura-cubana/",
       "destacada": false,
-      "tema": "inspectores",
+      "tema": "grata",
       "id": 14
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Funcionaria del Mincin justifica la escasez de arroz en Cuba: se produce, pero la gente no lo percibe",
-      "resumen": "",
+      "titulo": "Cuba denuncia en la ONU el bloqueo energético de EEUU y alerta sobre el avance del expansionismo",
+      "resumen": "El ministro de Relaciones Exteriores de Cuba, Bruno Rodríguez Parrilla, pronunció este sábado su discurso ante la Asamblea General de la Organización de las Naciones Unidas (ONU), en un contexto internacional signado por la creciente presión de Estados Unidos contra la isla y los desafíos que de ell",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-09-12-u1-e209363-s27061-nid340139-funcionaria-mincin-justifica-escasez-arroz-cuba",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/destacados/cuba-denuncia-en-la-onu-el-bloqueo-energetico-de-eeuu-y-alerta-sobre-el-avance-del-expansionismo/",
       "destacada": false,
-      "tema": "funcionaria",
+      "tema": "denuncia",
       "id": 15
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Comienza Edición 36 del Taller y Concurso Nacional de la Radio Joven Antonio Lloga in memoriam",
+      "resumen": "La edición 36 del Taller y Concurso Nacional «Antonio Lloga in memoriam» se inauguró esta tarde en el Salón de los Espejos, del gobierno provincial en Santiago de Cuba. En la jornada, se reconoció como Maestros de la radio a los realizadores Luis Izquierdo Valdés, de la emisora Radio Rebelde, y Césa",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/eventos/comienza-edicion-36-del-taller-y-concurso-nacional-de-la-radio-joven-antonio-lloga-in-memoriam/",
+      "destacada": false,
+      "tema": "comienza",
+      "id": 16
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Criterio Compartido: «Cada voz en Cuba importa» Episodio 01",
+      "resumen": "El Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, dedicó la primera emisión de Criterio Compartido a explicar las transformaciones económicas y sociales que comienza a implementar el país, responder directamente a preocupa",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-cada-voz-en-cuba-importa-episodio-01/",
+      "destacada": false,
+      "tema": "criterio",
+      "id": 17
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Criterio Compartido» sobre transformaciones económicas y sociales en Cuba (+ Audio en vivo)",
+      "resumen": "¿Conoce usted sobre las transformaciones económicas y sociales? ¿Cómo cree que impactan en su vida?. Ese será el tema de la primera emisión del programa radial «Criterio Compartido», que contará con la presencia del primer secretario del Comité Central del Partido Comunista de Cuba y presidente de l",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-sobre-transformaciones-economicas-y-sociales-en-cuba/",
+      "destacada": false,
+      "tema": "criterio",
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -193,7 +229,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260929/por-el-equilibrio-del-mundo-regresa-a-la-habana/",
       "destacada": false,
       "tema": "equilibrio",
-      "id": 16
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -205,7 +241,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260929/nueva-oportunidad-laboral-con-aics-la-habana/",
       "destacada": false,
       "tema": "nueva",
-      "id": 17
+      "id": 20
     },
     {
       "categoria": "transporte",
@@ -217,7 +253,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790717458_69176.html",
       "destacada": false,
       "tema": "endurece",
-      "id": 18
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -229,7 +265,7 @@
       "enlace_original": "https://diariodecuba.com/cultura/1790715026_69175.html",
       "destacada": false,
       "tema": "murió",
-      "id": 19
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -241,7 +277,7 @@
       "enlace_original": "https://diariodecuba.com/internacional/1790710500_69174.html",
       "destacada": false,
       "tema": "problema",
-      "id": 20
+      "id": 23
     },
     {
       "categoria": "economia",
@@ -253,7 +289,7 @@
       "enlace_original": "https://diariodecuba.com/economia/1790709308_69171.html",
       "destacada": false,
       "tema": "tipo_cambio",
-      "id": 21
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -265,7 +301,19 @@
       "enlace_original": "https://diariodecuba.com/cultura/1790703969_69173.html",
       "destacada": false,
       "tema": "diáspora",
-      "id": 22
+      "id": 25
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El embullo cubano",
+      "resumen": "Un mal nacional",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/embullo-cubano/480967.html",
+      "destacada": false,
+      "tema": "embullo",
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -277,7 +325,7 @@
       "enlace_original": "https://www.martinoticias.com/a/la-ambulancia-jam%c3%a1s-lleg%c3%b3-el-colapso-de-las-urgencias-en-las-zonas-rurales-en-cuba/480915.html",
       "destacada": false,
       "tema": "ambulancia",
-      "id": 23
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -289,7 +337,7 @@
       "enlace_original": "https://www.martinoticias.com/a/478457.html",
       "destacada": false,
       "tema": "noticiero",
-      "id": 24
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -301,7 +349,7 @@
       "enlace_original": "https://www.martinoticias.com/a/el-vital-servicio-en-cuba-que-depende-cada-vez-m%c3%a1s-del-poder-adquisitivo-de-los-cubanos/480920.html",
       "destacada": false,
       "tema": "vital",
-      "id": 25
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -313,19 +361,31 @@
       "enlace_original": "https://www.martinoticias.com/a/expertos-cuestionan-el-rumbo-de-las-reformas-en-cuba-hay-que-actuar-contra-la-causa-de-la-crisis/480917.html",
       "destacada": false,
       "tema": "expertos",
-      "id": 26
+      "id": 30
     },
     {
       "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El agua se volvió un privilegio en Cuba: “si tienes dinero, llega cada dos minutos”",
-      "resumen": "El acceso rápido a pipas de agua en Cuba parece depender cada vez más del poder adquisitivo, en medio del agravamiento de la crisis. La Habana es uno de los epicentros del problema, agravado por apagones que afectan el bombeo.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Reparación de la Guiteras tomará no menos de dos días, afirman especialistas",
+      "resumen": "La reparación de la avería detectada en el recalentador de alta temperatura (RAT), que progresa este martes en la Central Termoeléctrica (CTE) Antonio Guiteras, en Matanzas, demandará no menos de 48 horas, aseguró a la Agencia Cubana de Noticias Román Pérez Castañeda, director general del mayor y má",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/el-agua-se-volvi%c3%b3-un-privilegio-en-cuba-si-tienes-dinero-llega-cada-dos-minutos/480898.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/reparacion-de-la-guiteras-tomara-no-menos-de-dos-dias-afirman-especialistas/",
       "destacada": false,
-      "tema": "volvió",
-      "id": 27
+      "tema": "reparación",
+      "id": 31
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Liga de Naciones: España refrenda condición de campeona mundial",
+      "resumen": "España refrendó hoy su condición de campeona mundial de fútbol, con una goleada de 4-1 ante Croacia por la segunda jornada del grupo A de la Liga de Naciones de Europa. The post Liga de Naciones: España refrenda condición de campeona mundial first appeared on Cubadebate.",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/liga-de-naciones-espana-refrenda-condicion-de-campeona-mundial/",
+      "destacada": false,
+      "tema": "naciones",
+      "id": 32
     },
     {
       "categoria": "economia",
@@ -337,7 +397,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/aclaran-que-no-hay-aumento-de-precio-del-pasaporte-corriente-cubano-solicitado-en-el-pais/",
       "destacada": false,
       "tema": "aclaran",
-      "id": 28
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -349,7 +409,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/bruno-rodriguez-denuncia-una-nueva-oleada-de-sanciones-de-ee-uu-contra-cuba/",
       "destacada": false,
       "tema": "bruno",
-      "id": 29
+      "id": 34
     },
     {
       "categoria": "transporte",
@@ -361,31 +421,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/estados-unidos-emite-nuevas-medidas-financieras-y-de-viajes-contra-cuba/",
       "destacada": false,
       "tema": "estados",
-      "id": 30
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Fallece en La Habana Fernando Guardado, locutor y rostro de Palmas y Cañas durante 39 años",
-      "resumen": "El reconocido locutor y conductor Fernando Guardado falleció en las primeras horas de la madrugada de este 29 de septiembre, en su residencia de La Habana. Por decisión de la familia, sus restos serán cremados en ceremonia íntima. Durante 39 años, entre 1975 y 2014, formó parte de ese histórico espa",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/29/fallece-en-la-habana-fernando-guardado-locutor-y-rostro-de-palmas-y-canas-durante-39-anos/",
-      "destacada": false,
-      "tema": "fallece",
-      "id": 31
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Hoy en la Mesa Redonda: Corrupción, dopaje y politización, amenazas al deporte mundial",
-      "resumen": "Reconocidos periodistas deportivos debatirán este martes en la Mesa Redonda sobre fenómenos que laceran al deporte mundial. El programa se transmitirá en vivo y en directo, desde la 7 pm, por Cubavisión, Cubavisión Internacional, Canal Caribe, Radio Habana Cuba y los canales en redes de Cubadebate y",
-      "imagen_url": "",
-      "enlace_original": "http://mesaredonda.cubadebate.cu/noticias/2026/09/29/hoy-en-la-mesa-redonda-corrupcion-dopaje-y-politizacion-amenazas-al-deporte-mundial/",
-      "destacada": false,
-      "tema": "redonda",
-      "id": 32
+      "id": 35
     },
     {
       "categoria": "politica",
@@ -397,7 +433,7 @@
       "enlace_original": "https://periodismodebarrio.org/los-rectangulos-oscuros-que-dividen-a-cuba/",
       "destacada": false,
       "tema": "rectángulos",
-      "id": 33
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -409,7 +445,7 @@
       "enlace_original": "https://periodismodebarrio.org/maternidades-desterradas-el-costo-infantil-del-presidio-politico-en-cuba/",
       "destacada": false,
       "tema": "maternidades",
-      "id": 34
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -421,7 +457,7 @@
       "enlace_original": "https://periodismodebarrio.org/maferefun-regla/",
       "destacada": false,
       "tema": "maferefún",
-      "id": 35
+      "id": 38
     },
     {
       "categoria": "economia",
@@ -433,7 +469,7 @@
       "enlace_original": "https://periodismodebarrio.org/farmacias-privadas-en-cuba/",
       "destacada": false,
       "tema": "lucrativo",
-      "id": 36
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -445,7 +481,7 @@
       "enlace_original": "https://periodismodebarrio.org/informe-human-rights-watch-derechos-humanos-cuba/",
       "destacada": false,
       "tema": "informe",
-      "id": 37
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -457,7 +493,7 @@
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125238/125238-ayotzinapa-y-el-nuevo-informe",
       "destacada": false,
       "tema": "ayotzinapa",
-      "id": 38
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -469,7 +505,7 @@
       "enlace_original": "https://www.cubainformacion.tv/solidaridad/20260929/125223/125223-fiesta-solidaria-kuba-eguna-denunciara-el-genocidio-silencioso-que-sufre-cuba-sabado-10-de-octubre-barrio-de-errekalde-bilbao",
       "destacada": false,
       "tema": "fiesta",
-      "id": 39
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -481,7 +517,7 @@
       "enlace_original": "https://www.cubainformacion.tv/solidaridad/20260929/125158/125158-jornada-kuba-genozidioari-aurre-egin-apoyara-la-resistencia-de-las-mujeres-cubanas-frente-al-cerco-de-ee-uu-hernani-sabado-3-de-octubre",
       "destacada": false,
       "tema": "jornada",
-      "id": 40
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -493,7 +529,7 @@
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125234/125234-66-aniversario-de-los-cdr-pilar-de-la-revolucion-cubana",
       "destacada": false,
       "tema": "aniversario",
-      "id": 41
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -505,7 +541,31 @@
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125233/125233-los-cubanos-dicen-basta-la-calle-habla",
       "destacada": false,
       "tema": "cubanos",
-      "id": 42
+      "id": 45
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://actualidad.rt.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba reacciona a las nuevas sanciones de EE.UU. para \"obstaculizar\" sus reformas económicas",
+      "resumen": "Las nuevas obstrucciones de Washington se suman a las que ya se aplican desde el 29 de enero, cuando Donald Trump firmó una orden ejecutiva que ciñe aún más las seis décadas de cerco estadounidense a La Habana.",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abc6add59bf5b4c6e206452.jpg",
+      "enlace_original": "https://actualidad.rt.com/actualidad/630062-cuba-reacciona-nuevas-sanciones-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "destacada": false,
+      "tema": "reacciona",
+      "id": 46
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://actualidad.rt.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Fallece el actor cubano Otto Sirgo, una de las figuras de la telenovela mexicana",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://actualidad.rt.com/actualidad/630068-fallece-actor-cubano-otto-sirgo?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "destacada": false,
+      "tema": "fallece",
+      "id": 47
     }
   ]
 }
