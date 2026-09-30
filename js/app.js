@@ -40,9 +40,7 @@ function renderCarrusel() {
     if (porTipo[n.fuente_tipo]) porTipo[n.fuente_tipo].push(n);
   });
 
-  // Intercalar: uno de cada tipo, en ronda
   const seleccion = [];
-  const maxPorTipo = maxCarrusel;
   let i = 0;
   while (seleccion.length < maxCarrusel) {
     let agregoAlguno = false;
@@ -57,7 +55,6 @@ function renderCarrusel() {
     i++;
   }
 
-  // Si aún falta, rellenar con las que sobren
   if (seleccion.length < maxCarrusel) {
     const idsEnSeleccion = new Set(seleccion.map(n => n.id));
     for (const n of noticias) {
@@ -153,12 +150,11 @@ function renderNoticias() {
     return;
   }
 
-// Mezclar fuentes para que no salgan agrupadas
-lista = lista.sort((a, b) => {
-  if (a.fuente === b.fuente) return 0;
-   return 0.5 - Math.random();
-});
-  
+  lista = lista.sort((a, b) => {
+    if (a.fuente === b.fuente) return 0;
+    return 0.5 - Math.random();
+  });
+
   lista.forEach(n => {
     const art = document.createElement('article');
     art.className = 'noticia';
@@ -171,12 +167,12 @@ lista = lista.sort((a, b) => {
         <h2><a href="${n.enlace_original}" target="_blank" rel="noopener">${n.titulo}</a></h2>
         <p>${n.resumen}</p>
         <small>${n.fuente} · ${n.fuente_tipo}</small>
-          <div class="votacion" data-id="${n.id}">
-         <button class="voto-btn" data-voto="confirmada">✅ Confirmada</button>
-         <button class="voto-btn" data-voto="dudosa">❓ Dudosa</button>
-         <button class="voto-btn" data-voto="falsa">⚠️ Falsa</button>
-         <span class="voto-total"></span>
-         </div>
+        <div class="votacion" data-id="${n.id}">
+          <button class="voto-btn" data-voto="confirmada">✅ Confirmada</button>
+          <button class="voto-btn" data-voto="dudosa">❓ Dudosa</button>
+          <button class="voto-btn" data-voto="falsa">⚠️ Falsa</button>
+          <span class="voto-total"></span>
+        </div>
         <br>
         <button class="btn-audio">🎧 Escuchar</button>
       </div>
@@ -187,8 +183,8 @@ lista = lista.sort((a, b) => {
     };
     cont.appendChild(art);
   });
- inicializarVotaciones();
-  
+
+  inicializarVotaciones();
 }
 
 // --- PODCAST ---
@@ -307,7 +303,7 @@ function reproducir(n) {
       const u = new SpeechSynthesisUtterance(n.titulo + '. ' + n.resumen);
       const voces = window.speechSynthesis.getVoices();
       const vozEs = voces.find(v => v.lang.startsWith('es'));
- if (vozEs) u.voice = vozEs;
+      if (vozEs) u.voice = vozEs;
       u.lang = 'es-ES';
       u.rate = 0.95;
       window.speechSynthesis.speak(u);
@@ -438,8 +434,6 @@ const supabaseClient = window.supabase ? window.supabase.createClient(SUPABASE_U
 let votosGlobales = {};
 
 // --- VOTACIÓN ---
-function claveVoto(id) { return 'voto_' + id; }
-
 function cargarVotos() {
   return JSON.parse(localStorage.getItem('votos') || '{}');
 }
@@ -453,17 +447,14 @@ async function votar(id, tipo) {
   if (!todos[id]) todos[id] = {};
   const anterior = todos[id]['yo'];
 
-  // Si el usuario ya votó lo mismo, no hacer nada
   if (anterior === tipo) return;
 
-  // Actualizar localStorage
   todos[id]['yo'] = tipo;
   guardarVotos(todos);
   actualizarVotacion(id);
 
   if (!supabaseClient) return;
 
-  // Si había un voto anterior, borrarlo de Supabase
   if (anterior) {
     await supabaseClient.from('votes')
       .delete()
@@ -471,7 +462,6 @@ async function votar(id, tipo) {
       .eq('vote_type', anterior);
   }
 
-  // Insertar el nuevo voto
   const { error } = await supabaseClient.from('votes').insert({
     news_id: String(id),
     vote_type: tipo
@@ -527,7 +517,6 @@ function inicializarVotaciones() {
     });
     actualizarVotacion(id);
   });
-
 }
-// Cargar votos globales después de renderizar
+
 setTimeout(cargarVotosGlobales, 1500);
