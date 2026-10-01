@@ -1,6 +1,6 @@
 {
   "fecha": "2026-10-01",
-  "hora": "04:06",
+  "hora": "06:09",
   "total": 48,
   "noticias": [
     {
@@ -127,13 +127,37 @@
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
+      "titulo": "Cuba selecciona «Malecón», del español Carlos Larrazábal, como su candidata al Óscar a Mejor Película Internacional",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-01-u1-e208574-s27061-nid341595-cuba-selecciona-malecon-carlos-larrazabal-candidata",
+      "destacada": false,
+      "tema": "selecciona",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Jefa antidrogas de EE.UU. recuerda ante Trump el sacrificio de su madre cubana: «Trabajó duro para que yo tuviera una vida mejor»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-01-u1-e208574-s27061-nid341597-jefa-antidrogas-eeuu-recuerda-trump-sacrificio-madre",
+      "destacada": false,
+      "tema": "antidrogas",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
       "titulo": "Jurado decidirá el destino de cubano acusado de triple asesinato: Podría enfrentar cadena perpetua o pena de muerte",
       "resumen": "",
       "imagen_url": "",
       "enlace_original": "https://www.cibercuba.com/noticias/2026-10-01-u1-e208574-s27061-nid341593-jurado-decidira-destino-cubano-acusado-triple-podria",
       "destacada": false,
       "tema": "jurado",
-      "id": 11
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -145,7 +169,7 @@
       "enlace_original": "https://www.cibercuba.com/noticias/2026-10-01-u1-e208574-s27061-nid341592-jueza-senalada-casos-11-j-presidira-proceso-contra",
       "destacada": false,
       "tema": "jueza",
-      "id": 12
+      "id": 14
     },
     {
       "categoria": "economia",
@@ -157,30 +181,6 @@
       "enlace_original": "https://www.cibercuba.com/noticias/2026-10-01-u1-e208574-s27061-nid341591-dolar-euro-suben-asi-cierra-mercado-informal-cuba",
       "destacada": false,
       "tema": "tipo_cambio",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Derrumbe parcial en edificio de Centro Habana pone en riesgo a más de 300 residentes",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-01-u1-e208574-s27061-nid341590-derrumbe-parcial-edificio-centro-habana-pone-riesgo",
-      "destacada": false,
-      "tema": "derrumbe",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Régimen cubano asegura que Sherritt y Antilles Gold no se han retirado de Cuba en medio de las sanciones",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-01-u1-e208933-s27061-nid341586-regimen-cubano-asegura-sherritt-antilles-gold-han",
-      "destacada": false,
-      "tema": "régimen",
       "id": 15
     },
     {
@@ -343,13 +343,25 @@
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
+      "titulo": "Cuba al Día",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/479267.html",
+      "destacada": false,
+      "tema": "",
+      "id": 29
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
       "titulo": "La Barbacoa de Pepe",
       "resumen": "La Barbacoa de Pepe es un muestrario de la nostalgia cubana con datos y curiosidades de los temas más variados, para la audiencia cubana. También trataremos temas internacionales y locales, siempre con el fin de educar al Cubano de la Isla. Con la elocuencia de Pepe Forte.",
       "imagen_url": "",
       "enlace_original": "https://www.martinoticias.com/a/478578.html",
       "destacada": false,
       "tema": "barbacoa",
-      "id": 29
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -361,7 +373,7 @@
       "enlace_original": "https://www.martinoticias.com/a/cuba-supera-en-9-meses-feminicidios-de-2025-tras-asesinato-de-joven-madre-en-camag%c3%bcey/481013.html",
       "destacada": false,
       "tema": "supera",
-      "id": 30
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -373,7 +385,7 @@
       "enlace_original": "https://www.martinoticias.com/a/478577.html",
       "destacada": false,
       "tema": "noticiero",
-      "id": 31
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -385,18 +397,6 @@
       "enlace_original": "https://www.martinoticias.com/a/activistas-cubanas-llevan-al-parlamento-europeo-el-rechazo-del-r%c3%a9gimen-a-una-ley-de-amnist%c3%ada/481012.html",
       "destacada": false,
       "tema": "tipo_cambio",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Repunte represivo en Cuba: las detenciones arbitrarias suben más de un 25% de mayo a agosto",
-      "resumen": "La represión política en Cuba mantiene una tendencia al alza tras confirmarse un incremento del 25.5 % en los arrestos injustificados entre mayo y agosto de 2026, según el último informe del Centro de Denuncias Defensa CD.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/repunte-represivo-en-cuba-las-detenciones-arbitrarias-suben-m%c3%a1s-de-un-25-de-mayo-a-agosto/481005.html",
-      "destacada": false,
-      "tema": "repunte",
       "id": 33
     },
     {
@@ -523,13 +523,37 @@
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
+      "titulo": "Con Filo: Cuba no está sola",
+      "resumen": "Vídeo: Con Filo - En Cubadebate - Muchas son las voces que se alzan, incluso desde el propio Estados...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125250-con-filo-cuba-no-esta-sola.jpg?t=1790834444",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261001/125250/125250-con-filo-cuba-no-esta-sola",
+      "destacada": false,
+      "tema": "",
+      "id": 44
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Pérez-Oliva: EEUU busca crear una dependencia económica de Cuba en base a la amenaza y el chantaje a compañías extranjeras",
+      "resumen": "Reuters - Cubadebate - Imagen: Gobierno de Cuba - El vice primer ministro y titular del Comercio Ex...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125245-perez-oliva-eeuu-busca-crear-una-dependencia-economica-de-cuba-en-base-a-la-amenaza-y-el-chantaje-a-companias-extranjeras.jpg?t=1790832798",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261001/125245/125245-perez-oliva-eeuu-busca-crear-una-dependencia-economica-de-cuba-en-base-a-la-amenaza-y-el-chantaje-a-companias-extranjeras",
+      "destacada": false,
+      "tema": "pérez",
+      "id": 45
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
       "titulo": "Reparación de la Guiteras tomará no menos de dos días, afirman especialistas",
       "resumen": "Cubadebate - Imagen: Girón - Vídeo: Canal Caribe La reparación de la avería detectada en el recalent...",
       "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125243-reparacion-de-la-guiteras-tomara-no-menos-de-dos-dias-afirman-especialistas.jpg?t=1790746513",
       "enlace_original": "https://www.cubainformacion.tv/cuba/20260930/125243/125243-reparacion-de-la-guiteras-tomara-no-menos-de-dos-dias-afirman-especialistas",
       "destacada": false,
       "tema": "reparación",
-      "id": 44
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -541,7 +565,7 @@
       "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20260930/125242/125242-washington-habla-de-cuba-que-piensa-la-sociedad-estadounidense",
       "destacada": false,
       "tema": "washington",
-      "id": 45
+      "id": 47
     },
     {
       "categoria": "transporte",
@@ -553,30 +577,6 @@
       "enlace_original": "https://www.cubainformacion.tv/cuba/20260930/125241/125241-en-estreno-podcast-es-la-idea-con-hua-xin-embajador-de-china-en-cuba",
       "destacada": false,
       "tema": "estreno",
-      "id": 46
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Estados Unidos emite nuevas medidas financieras y de viajes contra Cuba",
-      "resumen": "Cubadebate - Vídeo: Canal Caribe La Oficina de Control de Activos Extranjeros (OFAC) del Departament...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125240-estados-unidos-emite-nuevas-medidas-financieras-y-de-viajes-contra-cuba.jpg?t=1790745299",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20260930/125240/125240-estados-unidos-emite-nuevas-medidas-financieras-y-de-viajes-contra-cuba",
-      "destacada": false,
-      "tema": "estados",
-      "id": 47
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Ayotzinapa y el nuevo informe",
-      "resumen": "Cristóbal León Campos - Cubainformación.- Un par de días después de cumplirse 12 años del crimen de...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125238-ayotzinapa-y-el-nuevo-informe.jpg?t=1790716818",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20260929/125238/125238-ayotzinapa-y-el-nuevo-informe",
-      "destacada": false,
-      "tema": "ayotzinapa",
       "id": 48
     }
   ]
