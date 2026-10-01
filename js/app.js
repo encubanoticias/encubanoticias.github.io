@@ -481,19 +481,25 @@ async function votar(id, tipo) {
 
   if (!supabaseClient) return;
 
-  await supabaseClient.from('votes')
+  // 1. Borrar TODOS los votos previos de este dispositivo para esta noticia
+  const { error: errDelete } = await supabaseClient.from('votes')
     .delete()
     .eq('news_id', String(id))
     .eq('device_id', DEVICE_ID);
 
-  const { error } = await supabaseClient.from('votes').insert({
+  if (errDelete) console.log('Error borrando voto anterior:', errDelete);
+
+  // 2. Insertar el nuevo voto
+  const { error: errInsert } = await supabaseClient.from('votes').insert({
     news_id: String(id),
     vote_type: tipo,
     device_id: DEVICE_ID
   });
 
-  if (error) console.log('Error enviando voto:', error);
-  cargarVotosGlobales();
+  if (errInsert) console.log('Error enviando voto:', errInsert);
+
+  // 3. Refrescar los totales
+  await cargarVotosGlobales();
 }
 
 async function cargarVotosGlobales() {
