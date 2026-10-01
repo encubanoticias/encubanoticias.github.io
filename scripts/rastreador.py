@@ -174,6 +174,22 @@ def main():
     for n in unicas:
         n["tema"] = extraer_tema(n["titulo"])
     # Agrupar por tema (palabras clave comunes en el título)
+    # Filtrar por antigüedad
+    from email.utils import parsedate_to_datetime
+      horas_max = config.get("horas_vida_noticias", 48)
+      ahora_utc = datetime.utcnow()
+      filtradas = []
+      for n in unicas:
+       try:
+        fecha_pub = parsedate_to_datetime(n.get("fecha", ""))
+        edad_horas = (ahora_utc - fecha_pub.replace(tzinfo=None)).total_seconds() / 3600
+        if edad_horas <= horas_max:
+            filtradas.append(n)
+      except Exception:
+        filtradas.append(n)
+        unicas = filtradas 
+    
+    
     for i, n in enumerate(unicas):
         n["id"] = i + 1
     for n in unicas[:5]:
