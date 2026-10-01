@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-01",
-  "hora": "10:07",
-  "total": 49,
+  "hora": "12:08",
+  "total": 60,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -65,18 +65,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Académica cubana destaca intercambio con Rusia",
-      "resumen": "Camagüey, Cuba, 1 oct (Prensa Latina) La directora de Comunicación Institucional de la Universidad de Camagüey, Dayneris Triana Poll, destacó hoy los resultados de una estancia científica desarrollada por profesores y estudiantes cubanos en universidades rusas. The post Académica cubana destaca inte",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/01/academica-cubana-destaca-intercambio-con-rusia-3/",
-      "destacada": false,
-      "tema": "académica",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
       "titulo": "Vima, socia española de Gaesa, empieza su retirada de Cuba para evitar las sanciones de EE UU",
@@ -85,7 +73,7 @@
       "enlace_original": "https://www.14ymedio.com/cuba/vima-socia-espanola-gaesa-empieza_1_1131390.html",
       "destacada": false,
       "tema": "socia",
-      "id": 7
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -97,19 +85,19 @@
       "enlace_original": "https://www.14ymedio.com/cuba/ventas-combustible-ee-uu-cuba_1_1131385.html",
       "destacada": false,
       "tema": "ventas",
-      "id": 8
+      "id": 7
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Una red rusa integrada por cubanos y venezolanos planeó asesinar al opositor Garry Kaspárov en EE UU",
-      "resumen": "Actuaron bajo las órdenes de un antiguo coronel vinculado a Vladimir Putin que intento también eliminar a un ex diputado opuesto a la invasión de Ucrania",
-      "imagen_url": "https://static.14ymedio.com/clip/0513a8b8-c5c2-40cb-9ad1-b7edb084f038_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/internacional/red-rusa-integrada-cubanos-venezolanos_1_1131382.html",
+      "titulo": "Un derrumbe parcial pone en alerta a más de 300 vecinos de Centro Habana",
+      "resumen": "Parte del techo del cuarto piso de un antiguo hotel en Águila y San Miguel se desplomó sin causar víctimas",
+      "imagen_url": "https://static.14ymedio.com/clip/4f0c3dc1-3f7e-4a0f-b30d-66cc32d2ee1c_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/derrumbe-parcial-pone-alerta-300_1_1131379.html",
       "destacada": false,
-      "tema": "integrada",
-      "id": 9
+      "tema": "derrumbe",
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -121,19 +109,55 @@
       "enlace_original": "https://www.14ymedio.com/cuba/feminicidio-cuba-deja-cuatro-ninas_1_1131400.html",
       "destacada": false,
       "tema": "feminicidio",
+      "id": 9
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Congelan las cuentas de las mipymes cubanas en los bancos de EE UU",
+      "resumen": "Las nuevas sanciones de Washington prohíben los viajes profesionales y “people-to-people”, además de agregar fuertes restricciones a las transacciones financieras con terceros países",
+      "imagen_url": "https://static.14ymedio.com/clip/e7edea9b-a7e5-46cb-917f-1cebb9e3ff65_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/congelan-cuentas-mipymes-cubanas-bancos_1_1131353.html",
+      "destacada": false,
+      "tema": "congelan",
       "id": 10
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El embajador chino en La Habana da una clase de economía de mercado a 'Cubadebate'",
+      "resumen": "Pekín \"está haciendo los máximos esfuerzos para ayudar\" a la Isla, dice Hua Xin: \"Ahora, estamos construyendo 15 parques solares de 85 MW y han llegado materiales para el almacenamiento de energía fotovoltaica de 200 MW\"",
+      "imagen_url": "https://static.14ymedio.com/clip/0aa47133-7163-421b-aa06-33c0c74f5126_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/embajador-chino-habana-da-clase_1_1131372.html",
+      "destacada": false,
+      "tema": "embajador",
+      "id": 11
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El viceprimer ministro niega contactos de empresas de Trump con el Gobierno cubano",
+      "resumen": "Óscar Pérez-Oliva acusa a EE UU de maniobrar para desplazar a las empresas extranjeras instaladas en la Isla e imponer las suyas",
+      "imagen_url": "https://static.14ymedio.com/clip/957e51eb-29b9-43c4-9426-3e483199206b_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/ministro-economia-niega-contactos-empresas_1_1131338.html",
+      "destacada": false,
+      "tema": "viceprimer",
+      "id": 12
     },
     {
       "categoria": "salud",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Hallan en un vertedero de Madrid posibles restos del médico cubano desaparecido en Torrejón",
-      "resumen": "El hijo de Roberto Fernández Magriñat continúa en prisión provisional, investigado además por otro homicidio",
-      "imagen_url": "https://static.14ymedio.com/clip/a9e562ac-823a-4788-a05f-f2fa5790b89b_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/migracion/hallan-vertedero-madrid-posibles-restos_1_1131393.html",
+      "titulo": "\"Me operaron con tecnologías de hace 30 años y me salvaron la vida\", cuenta Di Battista",
+      "resumen": "El ex diputado italiano fue hospitalizado en Cuba por un tumor cerebral",
+      "imagen_url": "https://static.14ymedio.com/clip/3ae363d0-51e5-46b9-ad6f-85fa49cdb344_source-aspect-ratio_default_0.png",
+      "enlace_original": "https://www.14ymedio.com/internacional/operaron-tecnologias-30-anos-salvaron_1_1131358.html",
       "destacada": false,
-      "tema": "hallan",
-      "id": 11
+      "tema": "operaron",
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -145,7 +169,7 @@
       "enlace_original": "https://www.cibercuba.com/noticias/2026-10-01-u1-e208574-s27061-nid341595-cuba-selecciona-malecon-carlos-larrazabal-candidata",
       "destacada": false,
       "tema": "selecciona",
-      "id": 12
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -157,43 +181,7 @@
       "enlace_original": "https://www.cibercuba.com/noticias/2026-10-01-u1-e208574-s27061-nid341597-jefa-antidrogas-eeuu-recuerda-trump-sacrificio-madre",
       "destacada": false,
       "tema": "antidrogas",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Jurado decidirá destino de cubano acusado de triple asesinato: Podría enfrentar cadena perpetua o pena de muerte",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-01-u1-e208574-s27061-nid341593-jurado-decidira-destino-cubano-acusado-triple-podria",
-      "destacada": false,
-      "tema": "jurado",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Jueza señalada en casos del 11-J presidirá el proceso contra influencer Anna Bensi y su madre en Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-01-u1-e208574-s27061-nid341592-jueza-senalada-casos-11-j-presidira-proceso-contra",
-      "destacada": false,
-      "tema": "jueza",
       "id": 15
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El dólar y el euro suben: Así cierra el mercado informal en Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-01-u1-e208574-s27061-nid341591-dolar-euro-suben-asi-cierra-mercado-informal-cuba",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "id": 16
     },
     {
       "categoria": "transporte",
@@ -205,7 +193,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/grata-coincidencia-entre-el-deporte-y-la-cultura-cubana/",
       "destacada": false,
       "tema": "grata",
-      "id": 17
+      "id": 16
     },
     {
       "categoria": "politica",
@@ -217,7 +205,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/destacados/cuba-denuncia-en-la-onu-el-bloqueo-energetico-de-eeuu-y-alerta-sobre-el-avance-del-expansionismo/",
       "destacada": false,
       "tema": "denuncia",
-      "id": 18
+      "id": 17
     },
     {
       "categoria": "politica",
@@ -229,7 +217,7 @@
       "enlace_original": "https://www.radiocubana.cu/eventos/comienza-edicion-36-del-taller-y-concurso-nacional-de-la-radio-joven-antonio-lloga-in-memoriam/",
       "destacada": false,
       "tema": "comienza",
-      "id": 19
+      "id": 18
     },
     {
       "categoria": "politica",
@@ -241,7 +229,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-cada-voz-en-cuba-importa-episodio-01/",
       "destacada": false,
       "tema": "criterio",
-      "id": 20
+      "id": 19
     },
     {
       "categoria": "politica",
@@ -253,6 +241,18 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-sobre-transformaciones-economicas-y-sociales-en-cuba/",
       "destacada": false,
       "tema": "criterio",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "#Podcast «A contracorriente». Capítulo 49. «Cuba y la Inteligencia Artificial»",
+      "resumen": "¿Cómo marcha el desarrollo de la IA en Cuba?. ¿Qué resultados puede mostrar la Isla en la aplicación de estas tecnologías en sectores prioritarios para el país?. Estas y otras preguntas encuentran respuesta en el diálogo entre el profesor e investigador Carlos del Porto y la periodista Isabel Díaz G",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/podcast-a-contracorriente-capitulo-49-cuba-y-la-inteligencia-artificial/",
+      "destacada": false,
+      "tema": "podcast",
       "id": 21
     },
     {
@@ -295,13 +295,37 @@
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
+      "titulo": "El feminicidio número 55 en Cuba en nueve meses deja a cuatro niñas huérfanas",
+      "resumen": "#SOSCuba #NiUnaMenos: Rachel García González, de 27 años y madre de cuatro niñas, es la víctima del feminicidio número 55 cometido en #Cuba en nueve meses. La cantidad de crímenes machistas en 2026 está a punto de igualar la de 2024, el segundo año más mortífero desde que la sociedad civil documenta",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1790853626_69199.html",
+      "destacada": false,
+      "tema": "feminicidio",
+      "id": 25
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La crisis consume el tiempo de los cubanos: sobrevivir se convierte en otra jornada de trabajo",
+      "resumen": "Cuarta #EncuestaDDC elaborada por #Cubadata: Para casi la mitad de quienes responden, \"resolver\" comida, medicamentos, transporte ocupa diez horas o más al día; el 66% reconoce niveles altos el agotamiento, que atribuye a esos problemas.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/foro-ddc/1790852754_69184.html",
+      "destacada": false,
+      "tema": "crisis",
+      "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
       "titulo": "Mueren dos personas en Holguín por intoxicación con sal de nitro",
       "resumen": "#SOSCuba: Tres personas se intoxican en #Holguín con sal de nitro de un centro de elaboración de embutidos y dos fallecen.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1790844116_69196.html",
       "destacada": false,
       "tema": "mueren",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -313,7 +337,7 @@
       "enlace_original": "https://diariodecuba.com/derechos-humanos/1790804109_69194.html",
       "destacada": false,
       "tema": "meses",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "energia",
@@ -325,7 +349,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790799117_69193.html",
       "destacada": false,
       "tema": "empresa",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -337,7 +361,7 @@
       "enlace_original": "https://diariodecuba.com/economia/1790795130_69189.html",
       "destacada": false,
       "tema": "exportó",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -349,7 +373,43 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790793901_69191.html",
       "destacada": false,
       "tema": "aleida",
-      "id": 29
+      "id": 31
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La petrolera Melbana reporta pérdidas millonarias en sus inversiones en Cuba",
+      "resumen": "#MelbanaEnergy está en una situación difícil con sus negocios de perforación y extracción de #petróleo en #Cuba tras los incumplimientos de #Sonangol y las sanciones de #EEUU a #Cupet.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1790789794_69190.html",
+      "destacada": false,
+      "tema": "petrolera",
+      "id": 32
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Martinoticias AM",
+      "resumen": "Revista informativa con los últimos acontecimientos ocurridos en Cuba y el mundo. Con entrevistas y temas de actualidad relacionados a la política, la economía y de interés general.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/479269.html",
+      "destacada": false,
+      "tema": "martinoticias",
+      "id": 33
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba Habla: \"Se han despojado del pueblo cubano”",
+      "resumen": "Desde Santiago de Cuba anciano habla de la escasez de productos básicos en la isla.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480921.html",
+      "destacada": false,
+      "tema": "habla",
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -361,7 +421,7 @@
       "enlace_original": "https://www.martinoticias.com/a/479267.html",
       "destacada": false,
       "tema": "",
-      "id": 30
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -373,7 +433,7 @@
       "enlace_original": "https://www.martinoticias.com/a/478578.html",
       "destacada": false,
       "tema": "barbacoa",
-      "id": 31
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -385,31 +445,7 @@
       "enlace_original": "https://www.martinoticias.com/a/cuba-supera-en-9-meses-feminicidios-de-2025-tras-asesinato-de-joven-madre-en-camag%c3%bcey/481013.html",
       "destacada": false,
       "tema": "supera",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 8:00 PM",
-      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/478577.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "id": 33
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Activistas cubanas llevan al Parlamento Europeo el rechazo del régimen a una ley de amnistía",
-      "resumen": "El Consejo para la Transición Democrática en Cuba y el Observatorio de Género Alas Tensas unieron sus voces ante el Parlamento Europeo para alertar sobre la grave crisis estructural que atraviesa la isla, entrelazando las demandas políticas con las urgencias sociales.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/activistas-cubanas-llevan-al-parlamento-europeo-el-rechazo-del-r%c3%a9gimen-a-una-ley-de-amnist%c3%ada/481012.html",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "id": 34
+      "id": 37
     },
     {
       "categoria": "transporte",
@@ -421,7 +457,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/30/cuba-busca-boleto-para-lima-2027/",
       "destacada": false,
       "tema": "busca",
-      "id": 35
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -433,7 +469,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/30/ballet-nacional-de-cuba-lleva-giselle-al-teatro-pushkin-en-rusia/",
       "destacada": false,
       "tema": "ballet",
-      "id": 36
+      "id": 39
     },
     {
       "categoria": "politica",
@@ -445,7 +481,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/30/diaz-canel-visito-la-planta-potabilizadora-de-agua-norte-habana/",
       "destacada": false,
       "tema": "canel",
-      "id": 37
+      "id": 40
     },
     {
       "categoria": "transporte",
@@ -457,7 +493,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/30/cuba-arrolla-13-0-a-estados-unidos-en-su-estreno-en-el-mundial-de-beisbol-para-ciegos/",
       "destacada": false,
       "tema": "arrolla",
-      "id": 38
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -469,7 +505,43 @@
       "enlace_original": "http://www.cubadebate.cu/especiales/2026/09/30/de-moscu-a-la-habana-quien-y-por-que-alimenta-la-histeria-belicista-antirrusa-en-europa/",
       "destacada": false,
       "tema": "tipo_cambio",
-      "id": 39
+      "id": 42
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Parlamento Europeo acoge el evento “Cuba sí, bloqueo no” contra las medidas de EE.UU.",
+      "resumen": "En el Parlamento Europeo se realizó el evento “Cuba sí, bloqueo no”, un espacio de debate que reúne a europarlamentarios, especialistas e invitados para analizar las consecuencias del bloqueo económico, comercial y financiero impuesto por Estados Unidos contra Cuba. The post Parlamento Europeo acoge",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/30/parlamento-europeo-acoge-el-evento-cuba-si-bloqueo-no-contra-las-medidas-de-ee-uu/",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "id": 43
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "¿Cómo afecta la nueva medida de OFAC a las autorizaciones previas a ciudadanos estadounidenses para reuniones o conferencias profesionales en Cuba?",
+      "resumen": "Las personas sujetas a la jurisdicción de los Estados Unidos ya no están autorizadas a asistir u organizar reuniones o conferencias profesionales en Cuba. La OFAC reemplaza dicha autorización con una autorización de cierre parcial para las personas sujetas a la jurisdicción de los Estados Unidos que",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/30/como-afecta-la-nueva-medida-de-ofac-a-las-autorizaciones-previas-a-ciudadanos-estadounidenses-para-reuniones-o-conferencias-profesionales-en-cuba/",
+      "destacada": false,
+      "tema": "afecta",
+      "id": 44
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Ana María Mari Machado intercambia con grupos parlamentarios del Congreso español",
+      "resumen": "Ana María Mari Machado, vicepresidenta de la Asamblea Nacional de Cuba, sostuvo un fraternal intercambio con diputados de varios Grupos Parlamentarios del Congreso de los Diputados de España. Durante el encuentro, denunció el recrudecimiento extremo del bloqueo, el cerco energético y las sanciones i",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/30/ana-maria-mari-machado-intercambia-con-grupos-parlamentarios-del-congreso-espanol/",
+      "destacada": false,
+      "tema": "maría",
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -481,7 +553,7 @@
       "enlace_original": "https://periodismodebarrio.org/henry-constantin-prision-cuba/",
       "destacada": false,
       "tema": "libertad",
-      "id": 40
+      "id": 46
     },
     {
       "categoria": "politica",
@@ -493,7 +565,7 @@
       "enlace_original": "https://periodismodebarrio.org/los-rectangulos-oscuros-que-dividen-a-cuba/",
       "destacada": false,
       "tema": "rectángulos",
-      "id": 41
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -505,7 +577,7 @@
       "enlace_original": "https://periodismodebarrio.org/maternidades-desterradas-el-costo-infantil-del-presidio-politico-en-cuba/",
       "destacada": false,
       "tema": "maternidades",
-      "id": 42
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -517,7 +589,7 @@
       "enlace_original": "https://periodismodebarrio.org/maferefun-regla/",
       "destacada": false,
       "tema": "maferefún",
-      "id": 43
+      "id": 49
     },
     {
       "categoria": "economia",
@@ -529,7 +601,55 @@
       "enlace_original": "https://periodismodebarrio.org/farmacias-privadas-en-cuba/",
       "destacada": false,
       "tema": "lucrativo",
-      "id": 44
+      "id": 50
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://periodismodebarrio.org",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Qué dice el informe de Human Rights Watch sobre los derechos humanos en Cuba?",
+      "resumen": "Entre el 1 de enero y el 31 de diciembre de 2025 se documentaron 1.279 eventos que implicaron violaciones de derechos humanos en Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://periodismodebarrio.org/informe-human-rights-watch-derechos-humanos-cuba/",
+      "destacada": false,
+      "tema": "informe",
+      "id": 51
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://periodismodebarrio.org",
+      "fuente_tipo": "alternativa",
+      "titulo": "Las nuevas medidas económicas y sociales anunciadas por Cuba, explicadas",
+      "resumen": "Las nuevas medidas incluyen transformaciones en la participación del Estado en la economía, mayor autonomía para los gobiernos locales, modificaciones en los sistemas bancario, cambiario, tributario y de seguros, así como en la política de precios, las inversiones, el comercio exterior y la segurida",
+      "imagen_url": "",
+      "enlace_original": "https://periodismodebarrio.org/nuevas-medidas-economicas-cuba-explicadas/",
+      "destacada": false,
+      "tema": "nuevas",
+      "id": 52
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://periodismodebarrio.org",
+      "fuente_tipo": "alternativa",
+      "titulo": "La solidaridad nos salvará: la propuesta de una juventud «confundida»",
+      "resumen": "Jóvenes cubanos organizan redes de apoyo comunitario para enfrentar el colapso cotidiano de la isla.",
+      "imagen_url": "",
+      "enlace_original": "https://periodismodebarrio.org/la-solidaridad-nos-salvara-redes-de-apoyo-en-cuba-juventud/",
+      "destacada": false,
+      "tema": "solidaridad",
+      "id": 53
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://periodismodebarrio.org",
+      "fuente_tipo": "alternativa",
+      "titulo": "El Descanso: ¿Dónde jugarán los niños? (Temporada Especial)",
+      "resumen": "El derecho al tiempo libre y al juego a menudo choca con la escasez de espacios comunitarios seguros e inclusivos. En este episodio de El Descanso, conocemos iniciativas autogestionadas en La Habana y Guantánamo que apuestan por rescatar la recreación vecinal, el autocuidado y la construcción de com",
+      "imagen_url": "",
+      "enlace_original": "https://periodismodebarrio.org/espacios-comunitarios-recreacion-descanso/",
+      "destacada": false,
+      "tema": "descanso",
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -541,7 +661,7 @@
       "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261001/125250/125250-con-filo-cuba-no-esta-sola",
       "destacada": false,
       "tema": "",
-      "id": 45
+      "id": 55
     },
     {
       "categoria": "politica",
@@ -553,7 +673,7 @@
       "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261001/125245/125245-perez-oliva-eeuu-busca-crear-una-dependencia-economica-de-cuba-en-base-a-la-amenaza-y-el-chantaje-a-companias-extranjeras",
       "destacada": false,
       "tema": "pérez",
-      "id": 46
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -565,7 +685,7 @@
       "enlace_original": "https://www.cubainformacion.tv/cuba/20260930/125243/125243-reparacion-de-la-guiteras-tomara-no-menos-de-dos-dias-afirman-especialistas",
       "destacada": false,
       "tema": "reparación",
-      "id": 47
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -577,7 +697,7 @@
       "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20260930/125242/125242-washington-habla-de-cuba-que-piensa-la-sociedad-estadounidense",
       "destacada": false,
       "tema": "washington",
-      "id": 48
+      "id": 58
     },
     {
       "categoria": "transporte",
@@ -589,7 +709,19 @@
       "enlace_original": "https://www.cubainformacion.tv/cuba/20260930/125241/125241-en-estreno-podcast-es-la-idea-con-hua-xin-embajador-de-china-en-cuba",
       "destacada": false,
       "tema": "estreno",
-      "id": 49
+      "id": 59
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Estados Unidos emite nuevas medidas financieras y de viajes contra Cuba",
+      "resumen": "Cubadebate - Vídeo: Canal Caribe La Oficina de Control de Activos Extranjeros (OFAC) del Departament...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125240-estados-unidos-emite-nuevas-medidas-financieras-y-de-viajes-contra-cuba.jpg?t=1790745299",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20260930/125240/125240-estados-unidos-emite-nuevas-medidas-financieras-y-de-viajes-contra-cuba",
+      "destacada": false,
+      "tema": "estados",
+      "id": 60
     }
   ]
 }
