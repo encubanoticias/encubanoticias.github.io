@@ -110,6 +110,7 @@ def leer_feed(nombre, url):
                 "enlace_original": item.findtext("link") or "#",
                 "destacada": False,
                 "tema": "",
+                "fecha": item.findtext("pubDate") or "",
             })
     except Exception as e:
         print(f"Error {nombre}: {e}")
