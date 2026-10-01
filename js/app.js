@@ -7,6 +7,17 @@ let audioActual = null;
 let maxCarrusel = 9;
 let maxTemasPerspectivas = 2;
 
+function obtenerDeviceId() {
+  let id = localStorage.getItem('device_id');
+  if (!id) {
+    id = 'dev_' + Math.random().toString(36).substring(2, 15) + Date.now().toString(36);
+    localStorage.setItem('device_id', id);
+  }
+  return id;
+}
+
+const DEVICE_ID = obtenerDeviceId();
+
 fetch('data/config.json?v=' + Date.now())
   .then(r => r.json())
   .then(c => {
@@ -111,7 +122,22 @@ function iniciarCarrusel() {
 // --- CALIENTES ---
 function renderCalientes() {
   const cont = document.getElementById('calientes');
-  const calientes = [...noticias].slice(0, 6);
+  const porFuente = {};
+  noticias.forEach(n => {
+    if (!porFuente[n.fuente]) porFuente[n.fuente] = [];
+    porFuente[n.fuente].push(n);
+  });
+  const calientes = [];
+  let i = 0;
+  while (calientes.length < 6) {
+    let agrego = false;
+    for (const f in porFuente) {
+      if (porFuente[f][i]) { calientes.push(porFuente[f][i]); agrego = true; }
+      if (calientes.length >= 6) break;
+    }
+    if (!agrego) break;
+    i++;
+  }
   cont.innerHTML = '';
   calientes.forEach(n => {
     const div = document.createElement('div');
@@ -455,16 +481,15 @@ async function votar(id, tipo) {
 
   if (!supabaseClient) return;
 
-  if (anterior) {
-    await supabaseClient.from('votes')
-      .delete()
-      .eq('news_id', String(id))
-      .eq('vote_type', anterior);
-  }
+  await supabaseClient.from('votes')
+    .delete()
+    .eq('news_id', String(id))
+    .eq('device_id', DEVICE_ID);
 
   const { error } = await supabaseClient.from('votes').insert({
     news_id: String(id),
-    vote_type: tipo
+    vote_type: tipo,
+    device_id: DEVICE_ID
   });
 
   if (error) console.log('Error enviando voto:', error);
@@ -473,7 +498,7 @@ async function votar(id, tipo) {
 
 async function cargarVotosGlobales() {
   if (!supabaseClient) return;
-  const { data, error } = await supabaseClient.from('votes').select('news_id, vote_type');
+  const { data, error } = await supabaseClient.from('votes').select('news_id, vote_type, device_id');
   if (error) { console.log('Error votos globales:', error); return; }
 
   votosGlobales = {};
@@ -498,7 +523,11 @@ function actualizarVotacion(id) {
   const total = global.confirmada + global.dudosa + global.falsa;
 
   cont.querySelectorAll('.voto-btn').forEach(b => {
-    b.classList.toggle('activo', b.dataset.voto === mi);
+    if (b.dataset.voto === mi) {
+      b.classList.add('activo');
+    } else {
+      b.classList.remove('activo');
+    }
   });
 
   const span = cont.querySelector('.voto-total');
