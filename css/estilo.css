@@ -320,7 +320,7 @@ body.oscuro .categoria { background: rgba(255,255,255,0.1); color: #7EB6FF; }
 .noticia h2 a:hover { color: var(--rojo); }
 
 .noticia p {
-  font-size: 0.88rem;
+  font-size: 1rem;
   color: var(--texto-suave);
   margin-bottom: 0.5rem;
   display: -webkit-box;
