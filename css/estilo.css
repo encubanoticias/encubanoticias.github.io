@@ -425,8 +425,8 @@ body.oscuro .categoria { background: rgba(255,255,255,0.1); color: #7EB6FF; }
 /* DESKTOP */
 @media (min-width: 700px) {
   .grid { grid-template-columns: repeat(2, 1fr); }
-  .carrusel { height: 340px; }
-  .slide h3 { font-size: 1.6rem; }
+  .carrusel { height: 260px; }
+  .slide h3 { font-size: 1.4rem; }
   #buscador { width: 200px; }
 }
 
