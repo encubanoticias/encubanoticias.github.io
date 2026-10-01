@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-01",
-  "hora": "12:08",
-  "total": 60,
+  "hora": "13:08",
+  "total": 63,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -28,18 +28,6 @@
       "id": 2
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba abre con blanqueada en el Mundial de beisbol para ciegos",
-      "resumen": "También ocurrió el partido con más carreras en la historia del torneo: el triunfo de Italia sobre Países Bajos 20-0, según Wilber Rodríguez Vera",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-09-30/cuba-abre-con-blanqueada-en-el-mundial-de-beisbol-para-ciegos-30-09-2026-16-09-26",
-      "destacada": true,
-      "tema": "blanqueada",
-      "id": 3
-    },
-    {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
@@ -49,18 +37,30 @@
       "enlace_original": "http://www.granma.cu/mundo/2026-09-27/la-ley-de-la-selva-no-puede-ser-el-futuro-de-la-humanidad-27-09-2026-16-09-24",
       "destacada": true,
       "tema": "selva",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Rusia cree inaceptable endurecimiento de bloqueo EEUU a Cuba",
+      "resumen": "Moscú, 1 oct (Prensa Latina) Rusia considera absolutamente inaceptable el endurecimiento del embargo económico, financiero y energético estadounidense contra Cuba, declaró hoy el diplomático del país eslavo Alexander Schetinin. The post Rusia cree inaceptable endurecimiento de bloqueo EEUU a Cuba fi",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/01/rusia-cree-inaceptable-endurecimiento-de-bloqueo-eeuu-a-cuba/",
+      "destacada": true,
+      "tema": "rusia",
       "id": 4
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.granma.cu",
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "En busca de soluciones, analizan abasto de agua en Pinar del Río",
-      "resumen": "Antonio Rodríguez Rodríguez, presidente del Instituto Nacional de Recursos Hidráulicos, analizó junto a las máximas autoridades de Pinar del Río la situación con el abasto de agua, considerada una de las más complejas de Cuba teniendo en cuenta que actualmente se encuentran afectados 159 mil 171 hab",
+      "titulo": "Advertencia nuclear rusa busca seguridad de Kaliningrado",
+      "resumen": "Moscú, 1 oct (Prensa Latina) La advertencia de Rusia a la Organización del Tratado del Atlántico Norte (OTAN) de recurrir a armas nucleares en caso de bloqueo a Kaliningrado es para garantizar su seguridad, dijo hoy el portavoz el Kremlin, Dmitri Peskov. The post Advertencia nuclear rusa busca segur",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-09-30/en-busca-de-soluciones-analizan-abasto-de-agua-en-pinar-del-rio-30-09-2026-14-09-48",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/01/advertencia-nuclear-rusa-busca-seguridad-de-kaliningrado/",
       "destacada": true,
-      "tema": "busca",
+      "tema": "advertencia",
       "id": 5
     },
     {
@@ -163,13 +163,25 @@
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
+      "titulo": "De cero a récord en siete meses: así ha crecido el combustible de EE.UU. hacia Cuba tras el corte venezolano",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-01-u1-e129488-s27061-nid341608-cero-record-siete-meses-asi-ha-crecido-combustible",
+      "destacada": false,
+      "tema": "récord",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
       "titulo": "Cuba selecciona «Malecón», del español Carlos Larrazábal, como su candidata al Óscar a Mejor Película Internacional",
       "resumen": "",
       "imagen_url": "",
       "enlace_original": "https://www.cibercuba.com/noticias/2026-10-01-u1-e208574-s27061-nid341595-cuba-selecciona-malecon-carlos-larrazabal-candidata",
       "destacada": false,
       "tema": "selecciona",
-      "id": 14
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -181,7 +193,7 @@
       "enlace_original": "https://www.cibercuba.com/noticias/2026-10-01-u1-e208574-s27061-nid341597-jefa-antidrogas-eeuu-recuerda-trump-sacrificio-madre",
       "destacada": false,
       "tema": "antidrogas",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "transporte",
@@ -193,7 +205,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/grata-coincidencia-entre-el-deporte-y-la-cultura-cubana/",
       "destacada": false,
       "tema": "grata",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "politica",
@@ -205,7 +217,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/destacados/cuba-denuncia-en-la-onu-el-bloqueo-energetico-de-eeuu-y-alerta-sobre-el-avance-del-expansionismo/",
       "destacada": false,
       "tema": "denuncia",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "politica",
@@ -217,7 +229,7 @@
       "enlace_original": "https://www.radiocubana.cu/eventos/comienza-edicion-36-del-taller-y-concurso-nacional-de-la-radio-joven-antonio-lloga-in-memoriam/",
       "destacada": false,
       "tema": "comienza",
-      "id": 18
+      "id": 19
     },
     {
       "categoria": "politica",
@@ -229,7 +241,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-cada-voz-en-cuba-importa-episodio-01/",
       "destacada": false,
       "tema": "criterio",
-      "id": 19
+      "id": 20
     },
     {
       "categoria": "politica",
@@ -241,7 +253,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/criterio-compartido-sobre-transformaciones-economicas-y-sociales-en-cuba/",
       "destacada": false,
       "tema": "criterio",
-      "id": 20
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -253,7 +265,7 @@
       "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/podcast-a-contracorriente-capitulo-49-cuba-y-la-inteligencia-artificial/",
       "destacada": false,
       "tema": "podcast",
-      "id": 21
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -265,7 +277,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260930/presentaran-sensaciones-de-reinaldo-montero-en-el-sabado-del-libro/",
       "destacada": false,
       "tema": "presentarán",
-      "id": 22
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -277,7 +289,7 @@
       "enlace_original": "https://www.trabajadores.cu/20260930/embajador-cubano-ante-la-santa-sede-destaca-los-vinculos-entre-cultura-religion-y-diplomacia/",
       "destacada": false,
       "tema": "embajador",
-      "id": 23
+      "id": 24
     },
     {
       "categoria": "transporte",
@@ -289,7 +301,31 @@
       "enlace_original": "https://www.trabajadores.cu/20260930/nuevas-medidas-financieras-y-de-viajes-contra-cuba/",
       "destacada": false,
       "tema": "nuevas",
-      "id": 24
+      "id": 25
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba Decide alerta del 'grave deterioro' de la salud de la presa del 11J Sayli Navarro",
+      "resumen": "#SOSCuba: #CivilRightsDefenders insta a la #UE a pedir la liberación de #HenryConstantin. #CubaDecide denuncia que la salud de la prisionera del #11JCuba #SayliNavarro se deteriora y no recibe atención médica.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1790858405_69201.html",
+      "destacada": false,
+      "tema": "decide",
+      "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "'Atentos a lo que va a hacer con Cuba': Donald Trump sobre Marco Rubio",
+      "resumen": "#DonaldTrump recomienda prestar atención los planes que tiene su secretario de Estado, #MarcoRubio, para #Cuba",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1790856939_69200.html",
+      "destacada": false,
+      "tema": "atentos",
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -301,7 +337,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790853626_69199.html",
       "destacada": false,
       "tema": "feminicidio",
-      "id": 25
+      "id": 28
     },
     {
       "categoria": "salud",
@@ -313,7 +349,7 @@
       "enlace_original": "https://diariodecuba.com/foro-ddc/1790852754_69184.html",
       "destacada": false,
       "tema": "crisis",
-      "id": 26
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -325,7 +361,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790844116_69196.html",
       "destacada": false,
       "tema": "mueren",
-      "id": 27
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -337,7 +373,7 @@
       "enlace_original": "https://diariodecuba.com/derechos-humanos/1790804109_69194.html",
       "destacada": false,
       "tema": "meses",
-      "id": 28
+      "id": 31
     },
     {
       "categoria": "energia",
@@ -349,7 +385,7 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790799117_69193.html",
       "destacada": false,
       "tema": "empresa",
-      "id": 29
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -361,7 +397,7 @@
       "enlace_original": "https://diariodecuba.com/economia/1790795130_69189.html",
       "destacada": false,
       "tema": "exportó",
-      "id": 30
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -373,19 +409,19 @@
       "enlace_original": "https://diariodecuba.com/cuba/1790793901_69191.html",
       "destacada": false,
       "tema": "aleida",
-      "id": 31
+      "id": 34
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La petrolera Melbana reporta pérdidas millonarias en sus inversiones en Cuba",
-      "resumen": "#MelbanaEnergy está en una situación difícil con sus negocios de perforación y extracción de #petróleo en #Cuba tras los incumplimientos de #Sonangol y las sanciones de #EEUU a #Cupet.",
+      "titulo": "Cuatro denominaciones cristianas cubanas respaldan a Anna Bensi y su madre ante juicio en Cuba",
+      "resumen": "Cuatro denominaciones protestantes cubanas —Asambleas de Dios, Convención Bautista de Cuba Occidental, Liga Evangélica de Cuba e Iglesia Metodista— expresaron respaldo a la influencer cristiana Anna Sofía Benítez Silvente, y a su madre, Caridad Silvente, ante el juicio que enfrentan hoy en Cuba.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1790789794_69190.html",
+      "enlace_original": "https://www.martinoticias.com/a/cuatro-denominaciones-cristianas-cubanas-respaldan-a-anna-bensi-y-su-madre-ante-juicio-en-cuba/481062.html",
       "destacada": false,
-      "tema": "petrolera",
-      "id": 32
+      "tema": "cuatro",
+      "id": 35
     },
     {
       "categoria": "economia",
@@ -397,7 +433,7 @@
       "enlace_original": "https://www.martinoticias.com/a/479269.html",
       "destacada": false,
       "tema": "martinoticias",
-      "id": 33
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -409,7 +445,7 @@
       "enlace_original": "https://www.martinoticias.com/a/480921.html",
       "destacada": false,
       "tema": "habla",
-      "id": 34
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -421,7 +457,7 @@
       "enlace_original": "https://www.martinoticias.com/a/479267.html",
       "destacada": false,
       "tema": "",
-      "id": 35
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -433,19 +469,19 @@
       "enlace_original": "https://www.martinoticias.com/a/478578.html",
       "destacada": false,
       "tema": "barbacoa",
-      "id": 36
+      "id": 39
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba supera en 9 meses feminicidios de 2025 tras asesinato de joven madre en Camagüey",
-      "resumen": "El feminicidio de Rachel García González en Vertientes, Camagüey, deja en la orfandad a cuatro menores de edad y pone el foco en la desprotección estatal y el alarmante repunte de la violencia machista en Cuba.",
+      "categoria": "transporte",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Sabor y tradición: Arroz, salsa y macarrones con mollejas",
+      "resumen": "Mollejas en tres versiones: con arroz, en salsa y con macarrones. Silvia Mayra comparte recetas para aprovechar este ingrediente y convertirlo, con ingenio y creatividad, en platos variados para la familia. The post Sabor y tradición: Arroz, salsa y macarrones con mollejas first appeared on Cubadeba",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-supera-en-9-meses-feminicidios-de-2025-tras-asesinato-de-joven-madre-en-camag%c3%bcey/481013.html",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/01/sabor-y-tradicion-arroz-salsa-y-macarrones-con-mollejas/",
       "destacada": false,
-      "tema": "supera",
-      "id": 37
+      "tema": "sabor",
+      "id": 40
     },
     {
       "categoria": "transporte",
@@ -457,7 +493,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/30/cuba-busca-boleto-para-lima-2027/",
       "destacada": false,
       "tema": "busca",
-      "id": 38
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -469,7 +505,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/30/ballet-nacional-de-cuba-lleva-giselle-al-teatro-pushkin-en-rusia/",
       "destacada": false,
       "tema": "ballet",
-      "id": 39
+      "id": 42
     },
     {
       "categoria": "politica",
@@ -481,7 +517,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/30/diaz-canel-visito-la-planta-potabilizadora-de-agua-norte-habana/",
       "destacada": false,
       "tema": "canel",
-      "id": 40
+      "id": 43
     },
     {
       "categoria": "transporte",
@@ -493,7 +529,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/30/cuba-arrolla-13-0-a-estados-unidos-en-su-estreno-en-el-mundial-de-beisbol-para-ciegos/",
       "destacada": false,
       "tema": "arrolla",
-      "id": 41
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -505,7 +541,7 @@
       "enlace_original": "http://www.cubadebate.cu/especiales/2026/09/30/de-moscu-a-la-habana-quien-y-por-que-alimenta-la-histeria-belicista-antirrusa-en-europa/",
       "destacada": false,
       "tema": "tipo_cambio",
-      "id": 42
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -517,7 +553,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/30/parlamento-europeo-acoge-el-evento-cuba-si-bloqueo-no-contra-las-medidas-de-ee-uu/",
       "destacada": false,
       "tema": "tipo_cambio",
-      "id": 43
+      "id": 46
     },
     {
       "categoria": "transporte",
@@ -529,7 +565,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/30/como-afecta-la-nueva-medida-de-ofac-a-las-autorizaciones-previas-a-ciudadanos-estadounidenses-para-reuniones-o-conferencias-profesionales-en-cuba/",
       "destacada": false,
       "tema": "afecta",
-      "id": 44
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -541,7 +577,7 @@
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/09/30/ana-maria-mari-machado-intercambia-con-grupos-parlamentarios-del-congreso-espanol/",
       "destacada": false,
       "tema": "maría",
-      "id": 45
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -553,7 +589,7 @@
       "enlace_original": "https://periodismodebarrio.org/henry-constantin-prision-cuba/",
       "destacada": false,
       "tema": "libertad",
-      "id": 46
+      "id": 49
     },
     {
       "categoria": "politica",
@@ -565,7 +601,7 @@
       "enlace_original": "https://periodismodebarrio.org/los-rectangulos-oscuros-que-dividen-a-cuba/",
       "destacada": false,
       "tema": "rectángulos",
-      "id": 47
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -577,7 +613,7 @@
       "enlace_original": "https://periodismodebarrio.org/maternidades-desterradas-el-costo-infantil-del-presidio-politico-en-cuba/",
       "destacada": false,
       "tema": "maternidades",
-      "id": 48
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -589,7 +625,7 @@
       "enlace_original": "https://periodismodebarrio.org/maferefun-regla/",
       "destacada": false,
       "tema": "maferefún",
-      "id": 49
+      "id": 52
     },
     {
       "categoria": "economia",
@@ -601,7 +637,7 @@
       "enlace_original": "https://periodismodebarrio.org/farmacias-privadas-en-cuba/",
       "destacada": false,
       "tema": "lucrativo",
-      "id": 50
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -613,7 +649,7 @@
       "enlace_original": "https://periodismodebarrio.org/informe-human-rights-watch-derechos-humanos-cuba/",
       "destacada": false,
       "tema": "informe",
-      "id": 51
+      "id": 54
     },
     {
       "categoria": "economia",
@@ -625,7 +661,7 @@
       "enlace_original": "https://periodismodebarrio.org/nuevas-medidas-economicas-cuba-explicadas/",
       "destacada": false,
       "tema": "nuevas",
-      "id": 52
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -637,7 +673,7 @@
       "enlace_original": "https://periodismodebarrio.org/la-solidaridad-nos-salvara-redes-de-apoyo-en-cuba-juventud/",
       "destacada": false,
       "tema": "solidaridad",
-      "id": 53
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -649,7 +685,7 @@
       "enlace_original": "https://periodismodebarrio.org/espacios-comunitarios-recreacion-descanso/",
       "destacada": false,
       "tema": "descanso",
-      "id": 54
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -661,7 +697,7 @@
       "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261001/125250/125250-con-filo-cuba-no-esta-sola",
       "destacada": false,
       "tema": "",
-      "id": 55
+      "id": 58
     },
     {
       "categoria": "politica",
@@ -673,7 +709,7 @@
       "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261001/125245/125245-perez-oliva-eeuu-busca-crear-una-dependencia-economica-de-cuba-en-base-a-la-amenaza-y-el-chantaje-a-companias-extranjeras",
       "destacada": false,
       "tema": "pérez",
-      "id": 56
+      "id": 59
     },
     {
       "categoria": "sociedad",
@@ -685,7 +721,7 @@
       "enlace_original": "https://www.cubainformacion.tv/cuba/20260930/125243/125243-reparacion-de-la-guiteras-tomara-no-menos-de-dos-dias-afirman-especialistas",
       "destacada": false,
       "tema": "reparación",
-      "id": 57
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -697,7 +733,7 @@
       "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20260930/125242/125242-washington-habla-de-cuba-que-piensa-la-sociedad-estadounidense",
       "destacada": false,
       "tema": "washington",
-      "id": 58
+      "id": 61
     },
     {
       "categoria": "transporte",
@@ -709,7 +745,7 @@
       "enlace_original": "https://www.cubainformacion.tv/cuba/20260930/125241/125241-en-estreno-podcast-es-la-idea-con-hua-xin-embajador-de-china-en-cuba",
       "destacada": false,
       "tema": "estreno",
-      "id": 59
+      "id": 62
     },
     {
       "categoria": "transporte",
@@ -721,7 +757,7 @@
       "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20260930/125240/125240-estados-unidos-emite-nuevas-medidas-financieras-y-de-viajes-contra-cuba",
       "destacada": false,
       "tema": "estados",
-      "id": 60
+      "id": 63
     }
   ]
 }
