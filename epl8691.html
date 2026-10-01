@@ -355,6 +355,7 @@ document.getElementById('guardar-config').onclick = async () => {
   config.max_por_fuente = parseInt(document.getElementById('cfg-max').value);
   config.max_temas_perspectivas = parseInt(document.getElementById('cfg-persp').value);
   config.destacadas_carrusel = parseInt(document.getElementById('cfg-carrusel').value);
+  config.horas_vida_noticias = parseInt(document.getElementById('cfg-vida').value);
   const ok = await apiPut(`/repos/${REPO}/contents/data/config.json`,
     JSON.stringify(config, null, 2), 'Actualizar config');
   if (ok) toast('Configuración guardada');
