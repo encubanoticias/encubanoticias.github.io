@@ -1,6 +1,6 @@
 {
   "fecha": "2026-10-02",
-  "hora": "11:05",
+  "hora": "12:06",
   "total": 55,
   "noticias": [
     {
@@ -43,17 +43,30 @@
       "id": 3
     },
     {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Evalúa Cuba estrategias para garantizar abasto de agua",
+      "resumen": "Holguín, Cuba, 2 oct (Prensa Latina) La vice primera ministra de Cuba, Inés María Chapman, evaluó en esta provincia oriental estrategias integrales para asegurar el suministro de agua a la población ante las severas limitaciones energéticas del país. The post Evalúa Cuba estrategias para garantizar ",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/02/evalua-cuba-estrategias-para-garantizar-abasto-de-agua-4/",
+      "destacada": true,
+      "tema": "evalúa",
+      "fecha": "Fri, 02 Oct 2026 11:42:44 +0000",
+      "id": 4
+    },
+    {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Medio de prensa de la Santa Sede denuncia bloqueo EEUU contra Cuba",
-      "resumen": "Ciudad del Vaticano, 2 oct (Prensa Latina) Vatican News, portal de información de la Santa Sede, publica hoy en su sitio oficial en Internet un artículo que denuncia el recrudecimiento del bloqueo estadounidense hacia Cuba y su impacto en la población de la isla. The post Medio de prensa de la Santa",
+      "titulo": "Cuba fortalece investigación agropecuaria con Inteligencia Artificial",
+      "resumen": "Camagüey, Cuba, 2 oct (Prensa Latina) La cooperación científica internacional impulsa hoy en Cuba investigaciones destinadas a incorporar Inteligencia Artificial (IA) en la agricultura y ganadería, sectores estratégicos ante desafíos productivos, alimentarios y agroecológicos contemporáneos. The pos",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/02/medio-de-prensa-de-la-santa-sede-denuncia-bloqueo-eeuu-contra-cuba/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/02/cuba-fortalece-investigacion-agropecuaria-con-inteligencia-artificial/",
       "destacada": true,
-      "tema": "medio",
-      "fecha": "Fri, 02 Oct 2026 10:21:56 +0000",
-      "id": 4
+      "tema": "fortalece",
+      "fecha": "Fri, 02 Oct 2026 11:23:36 +0000",
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -63,10 +76,10 @@
       "resumen": "El Tribunal Provincial de Holguín ordena la apertura de juicio oral, que se celebrará en un plazo mínimo de 10 días, aunque no hay fecha fijada",
       "imagen_url": "https://static.14ymedio.com/clip/5f06897f-8fd8-413d-9945-0742268984bb_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/fiscalia-cubana-pide-ocho-diez_1_1131430.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "fiscalía",
       "fecha": "Fri, 02 Oct 2026 09:45:54 +0000",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "transporte",
@@ -79,7 +92,7 @@
       "destacada": false,
       "tema": "avión",
       "fecha": "Fri, 02 Oct 2026 10:14:15 +0000",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "dictan",
       "fecha": "Thu, 01 Oct 2026 17:31:57 +0000",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -105,7 +118,7 @@
       "destacada": false,
       "tema": "ventas",
       "fecha": "Wed, 30 Sep 2026 20:16:33 +0000",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -118,7 +131,7 @@
       "destacada": false,
       "tema": "socia",
       "fecha": "Wed, 30 Sep 2026 21:03:34 +0000",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "derrumbe",
       "fecha": "Wed, 30 Sep 2026 15:29:08 +0000",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -144,7 +157,46 @@
       "destacada": false,
       "tema": "feminicidio",
       "fecha": "Wed, 30 Sep 2026 22:07:00 +0000",
-      "id": 11
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Música cubana, baile y dominó gratis en Miami este fin de semana: así será la fiesta del Arsht",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e13-s27061-nid341678-musica-cubana-baile-domino-gratis-miami-este-fin-semana",
+      "destacada": false,
+      "tema": "música",
+      "fecha": "Fri, 02 Oct 2026 13:08:36 +0200",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Saturno brillará especialmente este domingo: cómo verlo desde Cuba, EE. UU. y España",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e13-s27061-nid341692-saturno-brillara-especialmente-este-domingo-verlo-cuba",
+      "destacada": false,
+      "tema": "saturno",
+      "fecha": "Fri, 02 Oct 2026 13:01:45 +0200",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Detienen en España a cubano con tabacos valorados en más de 220,000 euros: ¿Cómo fue descubierto?",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e129488-s27061-nid341628-detienen-espana-cubano-tabacos-valorados-220000",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Fri, 02 Oct 2026 12:35:49 +0200",
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -157,137 +209,33 @@
       "destacada": false,
       "tema": "hispanidad",
       "fecha": "Fri, 02 Oct 2026 10:11:18 +0200",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El Papa León XIV reza por Cuba y Venezuela",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e197721-s27061-nid341675-papa-leon-xiv-reza-cuba-venezuela",
-      "destacada": false,
-      "tema": "venezuela",
-      "fecha": "Fri, 02 Oct 2026 04:14:41 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Tribunal de La Habana informa sobre juicio a Anna Bensi y su madre",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e197721-s27061-nid341674-tribunal-habana-informa-juicio-anna-bensi-madre",
-      "destacada": false,
-      "tema": "tribunal",
-      "fecha": "Fri, 02 Oct 2026 03:42:19 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cáritas Cuba recibe en Camagüey ayuda humanitaria del gobierno de Estados Unidos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e197721-s27061-nid341673-caritas-cuba-recibe-camaguey-ayuda-humanitaria",
-      "destacada": false,
-      "tema": "cáritas",
-      "fecha": "Fri, 02 Oct 2026 03:11:24 +0200",
-      "id": 15
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Así cierra el mercado informal en Cuba: el dólar y el euro concluyen el jueves al alza",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e197721-s27061-nid341672-asi-cierra-mercado-informal-cuba-dolar-euro",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Fri, 02 Oct 2026 03:01:52 +0200",
       "id": 16
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "categoria": "politica",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Economista cubana: «La salida es que Cuba deje de ser una finca de militares»",
-      "resumen": "",
+      "titulo": "Díaz-Canel insiste en que las 176 medidas son socialistas y las compara con las del capitalismo",
+      "resumen": "#SOSCuba: #DíazCanel quiere que las 'instituciones vinculadas al ámbito social' garanticen que las 176 medidas no profundicen las desigualdades y asegura que son medidas socialistas.",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e197721-s27061-nid341671-economista-cubana-salida-cuba-deje-ser-finca",
+      "enlace_original": "https://diariodecuba.com/cuba/1790940448_69221.html",
       "destacada": false,
-      "tema": "economista",
-      "fecha": "Fri, 02 Oct 2026 01:56:33 +0200",
+      "tema": "canel",
+      "fecha": "Fri, 02 Oct 2026 13:27:28 +0200",
       "id": 17
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Supremo Consejo Masónico Grado 33 en Cuba denuncia sitio policial y cuentas bancarias congeladas",
-      "resumen": "",
+      "titulo": "Los cubanos imaginan vivir en otro país, pero no consiguen convertir ese deseo en un camino",
+      "resumen": "Casi nueve de cada diez encuestados por #DiarioDeCuba ha pensado en emigrar, pero solo el 6,9% prepara documentos o una ruta: el deseo de abandonar la Isla es extendido, pero la capacidad de hacerlo, limitada.",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e199894-s27061-nid341670-supremo-consejo-masonico-grado-33-cuba-denuncia",
+      "enlace_original": "https://diariodecuba.com/foro-ddc/1790939302_69185.html",
       "destacada": false,
-      "tema": "supremo",
-      "fecha": "Fri, 02 Oct 2026 01:47:48 +0200",
+      "tema": "cubanos",
+      "fecha": "Fri, 02 Oct 2026 13:08:22 +0200",
       "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cultura y Manjares: cofradía por la ancianidad",
-      "resumen": "Este 1ro de octubre, en un parque de Bauta las emociones rosan el alma al celebrar el Día Mundial de las Personas Mayores; que, según la Oficina Nacional de Estadística e Información, al cierre de 2025 eran 2 millones 519 mil 823 cubanos con 60 años y más",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261001/cultura-y-manjares-cofradia-por-la-ancianidad/",
-      "destacada": false,
-      "tema": "cultura",
-      "fecha": "Thu, 01 Oct 2026 21:52:18 +0000",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Inaugurarán en Ciego de Ávila exposición de grabados dedicada al Comandante en Jefe",
-      "resumen": "Bajo la responsabilidad del grabador y artista plástico Héctor José Torres González, la propuesta pretende acercar al público a distintas facetas de la vida y la obra del líder histórico de la Revolución cubana",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261001/inauguraran-en-ciego-de-avila-exposicion-de-grabados-dedicada-al-comandante-en-jefe/",
-      "destacada": false,
-      "tema": "inaugurarán",
-      "fecha": "Thu, 01 Oct 2026 19:30:16 +0000",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Por el equilibrio del mundo regresará a La Habana en 2028",
-      "resumen": "Convocan VII Conferencia Internacional Por el equilibrio del mundo para 2028",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261001/por-el-equilibrio-del-mundo-regresa-a-la-habana/",
-      "destacada": false,
-      "tema": "equilibrio",
-      "fecha": "Thu, 01 Oct 2026 15:47:17 +0000",
-      "id": 21
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Presentarán Sensaciones, de Reinaldo Montero en el Sábado del Libro",
-      "resumen": "El Instituto Cubano del Libro invita a descubrir una novela que combina recursos narrativos sutiles, situaciones reconocibles, un lenguaje de notable libertad expresiva y un desenlace destinado a revelar la dimensión dramática que se esconde tras el divertimento",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20260930/presentaran-sensaciones-de-reinaldo-montero-en-el-sabado-del-libro/",
-      "destacada": false,
-      "tema": "presentarán",
-      "fecha": "Wed, 30 Sep 2026 18:45:57 +0000",
-      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -300,7 +248,7 @@
       "destacada": false,
       "tema": "editorial",
       "fecha": "Fri, 02 Oct 2026 12:49:22 +0200",
-      "id": 23
+      "id": 19
     },
     {
       "categoria": "transporte",
@@ -313,7 +261,7 @@
       "destacada": false,
       "tema": "cuentas",
       "fecha": "Fri, 02 Oct 2026 12:16:03 +0200",
-      "id": 24
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -326,7 +274,7 @@
       "destacada": false,
       "tema": "desesperado",
       "fecha": "Fri, 02 Oct 2026 11:42:44 +0200",
-      "id": 25
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -339,7 +287,7 @@
       "destacada": false,
       "tema": "meses",
       "fecha": "Fri, 02 Oct 2026 10:47:52 +0200",
-      "id": 26
+      "id": 22
     },
     {
       "categoria": "economia",
@@ -352,7 +300,7 @@
       "destacada": false,
       "tema": "familias",
       "fecha": "Fri, 02 Oct 2026 00:11:29 +0200",
-      "id": 27
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -365,7 +313,7 @@
       "destacada": false,
       "tema": "diputado",
       "fecha": "Thu, 01 Oct 2026 23:33:39 +0200",
-      "id": 28
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -378,33 +326,20 @@
       "destacada": false,
       "tema": "esperanza",
       "fecha": "Thu, 01 Oct 2026 22:52:27 +0200",
-      "id": 29
+      "id": 25
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "economia",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El régimen cubano condena a Anna Bensi y su madre a dos años de limitación de libertad",
-      "resumen": "El régimen de #Cuba vuelve a servirse de su impunidad para tratar de acallar las voces críticas que le molestan, ahora con la activista #AnnaBensi.",
+      "titulo": "Martinoticias AM",
+      "resumen": "Revista informativa con los últimos acontecimientos ocurridos en Cuba y el mundo. Con entrevistas y temas de actualidad relacionados a la política, la economía y de interés general.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1790882892_69213.html",
+      "enlace_original": "https://www.martinoticias.com/a/480043.html",
       "destacada": false,
-      "tema": "régimen",
-      "fecha": "Thu, 01 Oct 2026 21:28:12 +0200",
-      "id": 30
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Un diputado británico delira en el Parlamento Europeo: pide defender 'la democracia cubana' frente a EEUU",
-      "resumen": "\"No quiero que mis hijos y mis nietos digan: 'hubo una vez un país llamado #Cuba; le iba muy bien hasta que #DonaldTrump lo destruyó'\"... el diputado británico #JeremyCorbyn delira ante el #ParlamentoEuropeo.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1790881645_69204.html",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Thu, 01 Oct 2026 21:07:25 +0200",
-      "id": 31
+      "tema": "martinoticias",
+      "fecha": "Fri, 02 Oct 2026 08:00:00 -0400",
+      "id": 26
     },
     {
       "categoria": "politica",
@@ -417,7 +352,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Fri, 02 Oct 2026 07:00:00 -0400",
-      "id": 32
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -430,7 +365,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Fri, 02 Oct 2026 00:00:30 -0400",
-      "id": 33
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -443,7 +378,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Thu, 01 Oct 2026 20:00:00 -0400",
-      "id": 34
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -456,7 +391,33 @@
       "destacada": false,
       "tema": "liberación",
       "fecha": "Thu, 01 Oct 2026 18:30:00 -0400",
-      "id": 35
+      "id": 30
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Tribunal Supremo ratifica condenas de hasta 20 años por sabotaje al sistema eléctrico en Làcteo de La Habana",
+      "resumen": "La Sala de los Delitos contra la Seguridad del Estado confirmó las condenas atendiendo al grado de participación y las consecuencias económicas, que ascendieron a más de 10 millones de pesos. The post Tribunal Supremo ratifica condenas de hasta 20 años por sabotaje al sistema eléctrico en Làcteo de ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/02/tribunal-supremo-ratifica-condenas-de-hasta-20-anos-por-sabotaje-al-sistema-electrico-en-lacteo-de-la-habana/",
+      "destacada": false,
+      "tema": "tribunal",
+      "fecha": "Fri, 02 Oct 2026 11:59:14 +0000",
+      "id": 31
+    },
+    {
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Vuelve este viernes, “Desde la Presidencia” sobre proceso de transformaciones",
+      "resumen": "Tras una larga pausa de meses, vuelve a las redes y a la televisión cubana, el podcast Desde la Presidencia que dirige y conduce el Primer Secretario del Partido y Presidente de la República, Miguel Díaz Canel Bermúdez. En la primera emisión de esta suerte de segunda temporada, comparecen el Primer ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/02/vuelve-este-viernes-desde-la-presidencia-sobre-proceso-de-transformaciones/",
+      "destacada": false,
+      "tema": "vuelve",
+      "fecha": "Fri, 02 Oct 2026 11:43:45 +0000",
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -469,7 +430,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 01 Oct 2026 19:54:39 +0000",
-      "id": 36
+      "id": 33
     },
     {
       "categoria": "politica",
@@ -482,7 +443,7 @@
       "destacada": false,
       "tema": "intelectuales",
       "fecha": "Thu, 01 Oct 2026 19:23:44 +0000",
-      "id": 37
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -495,7 +456,7 @@
       "destacada": false,
       "tema": "tarde",
       "fecha": "Thu, 01 Oct 2026 16:39:04 +0000",
-      "id": 38
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -508,7 +469,33 @@
       "destacada": false,
       "tema": "libertad",
       "fecha": "Wed, 30 Sep 2026 15:00:45 +0000",
-      "id": 39
+      "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba como faro de dignidad ante la Doctrina Monroe: claves geopolíticas y resistencia en América Latina",
+      "resumen": "Sociedad Cultural Cubano-Andaluza José Martí / Cubainformación...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125273-cuba-como-faro-de-dignidad-ante-la-doctrina-monroe-claves-geopoliticas-y-resistencia-en-america-latina.jpg?t=1790941979",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261002/125273/125273-cuba-como-faro-de-dignidad-ante-la-doctrina-monroe-claves-geopoliticas-y-resistencia-en-america-latina",
+      "destacada": false,
+      "tema": "dignidad",
+      "fecha": "Fri, 02 Oct 26 13:51:00 +0200",
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Miembros del Parlamento Europeo se comprometen a impulsar la solidaridad con la Isla: así fue el evento &quot;¡Cuba sí, bloqueo no!&quot; (+Fotos)",
+      "resumen": "Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125272-miembros-del-parlamento-europeo-se-comprometen-a-impulsar-la-solidaridad-con-la-isla-asi-fue-el-evento-cuba-si-bloqueo-no-fotos.jpg?t=1790939298",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261002/125272/125272-miembros-del-parlamento-europeo-se-comprometen-a-impulsar-la-solidaridad-con-la-isla-asi-fue-el-evento-cuba-si-bloqueo-no-fotos",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Fri, 02 Oct 26 12:55:00 +0200",
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -521,7 +508,7 @@
       "destacada": false,
       "tema": "máscaras",
       "fecha": "Fri, 02 Oct 26 08:12:00 +0200",
-      "id": 40
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -534,7 +521,7 @@
       "destacada": false,
       "tema": "klaudia",
       "fecha": "Fri, 02 Oct 26 08:12:00 +0200",
-      "id": 41
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -547,7 +534,7 @@
       "destacada": false,
       "tema": "llevó",
       "fecha": "Fri, 02 Oct 26 08:11:00 +0200",
-      "id": 42
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -560,7 +547,7 @@
       "destacada": false,
       "tema": "tennessee",
       "fecha": "Fri, 02 Oct 26 08:09:00 +0200",
-      "id": 43
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -573,7 +560,7 @@
       "destacada": false,
       "tema": "bloqueos",
       "fecha": "Fri, 02 Oct 26 08:08:00 +0200",
-      "id": 44
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -586,7 +573,7 @@
       "destacada": false,
       "tema": "fracaso",
       "fecha": "Fri, 02 Oct 26 08:07:00 +0200",
-      "id": 45
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -599,7 +586,7 @@
       "destacada": false,
       "tema": "llegó",
       "fecha": "Fri, 02 Oct 26 08:05:00 +0200",
-      "id": 46
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -612,33 +599,7 @@
       "destacada": false,
       "tema": "sanar",
       "fecha": "Fri, 02 Oct 26 07:24:00 +0200",
-      "id": 47
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Más de mil académicas y académicos del mundo firman en defensa de Cuba",
-      "resumen": "Cubadebate A través de un pronunciamiento, más de 1000 académicas y académicos de más de 36 países d...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125259-mas-de-mil-academicas-y-academicos-del-mundo-firman-en-defensa-de-cuba.jpg?t=1790918462",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261002/125259/125259-mas-de-mil-academicas-y-academicos-del-mundo-firman-en-defensa-de-cuba",
-      "destacada": false,
-      "tema": "académicas",
-      "fecha": "Fri, 02 Oct 26 07:15:00 +0200",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Por qué EEUU está bloqueando negocios privados en Cuba?",
-      "resumen": "Canal Red América Latina.- José González lo explica en SINSONTE....",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125258-por-que-eeuu-esta-bloqueando-negocios-privados-en-cuba.jpg?t=1790918100",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261002/125258/125258-por-que-eeuu-esta-bloqueando-negocios-privados-en-cuba",
-      "destacada": false,
-      "tema": "bloqueando",
-      "fecha": "Fri, 02 Oct 26 07:14:00 +0200",
-      "id": 49
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -651,7 +612,7 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Thu, 01 Oct 2026 15:25:10 +0000",
-      "id": 50
+      "id": 47
     },
     {
       "categoria": "politica",
@@ -664,7 +625,7 @@
       "destacada": false,
       "tema": "recorrió",
       "fecha": "Thu, 01 Oct 2026 15:20:53 +0000",
-      "id": 51
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -677,7 +638,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Thu, 01 Oct 2026 23:43:11 +0000",
-      "id": 52
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -690,7 +651,7 @@
       "destacada": false,
       "tema": "informativa",
       "fecha": "Thu, 01 Oct 2026 17:24:32 +0000",
-      "id": 53
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -703,7 +664,7 @@
       "destacada": false,
       "tema": "orquesta",
       "fecha": "Thu, 01 Oct 2026 15:52:44 +0000",
-      "id": 54
+      "id": 51
     },
     {
       "categoria": "transporte",
@@ -716,6 +677,45 @@
       "destacada": false,
       "tema": "persistirán",
       "fecha": "Thu, 01 Oct 2026 13:31:21 +0000",
+      "id": 52
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Alertan bomberos sobre riesgos de tanques plásticos IBC de combustibles",
+      "resumen": "El Ministerio del Interior (Minint) informó este miércoles que el Cuerpo de Bomberos de Cuba insistió en la importancia de extremar las medidas de seguridad ante los riesgos...",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/01/alertan-bomberos-sobre-riesgos/",
+      "destacada": false,
+      "tema": "alertan",
+      "fecha": "Thu, 01 Oct 2026 12:20:00 +0000",
+      "id": 53
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Octubre, ¿el mes más peligroso de los ciclones?",
+      "resumen": "Por lo general y con hechos demostrativos, Cuba ha sido testigo de que octubre es el de los ciclones, aunque la frase no se tome en sentido literal y sobrelleve una...",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/01/octubre-el-mes-mas-peligroso-ciclones/",
+      "destacada": false,
+      "tema": "octubre",
+      "fecha": "Thu, 01 Oct 2026 12:10:00 +0000",
+      "id": 54
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubabat, 14 años defendiendo a los murciélagos cubanos",
+      "resumen": "Un festival infantil por el Día Latinoamericano y del Caribe de Conservación de los Murciélagos reafirma la labor del proyecto Cubabat, que busca cambiar la imagen de estos mamíferos, esenciales para los bosques, los cultivos y la salud.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/01/cubabat-murcielagos-cubanos/",
+      "destacada": false,
+      "tema": "cubabat",
+      "fecha": "Thu, 01 Oct 2026 11:39:00 +0000",
       "id": 55
     }
   ]
