@@ -762,10 +762,3 @@ body.oscuro .modal-caja h3 { color: #7EB6FF; }
   font-weight: 700;
   margin-left: 0.2rem;
 }
-
-.voto-etiqueta {
-  font-size: 0.7rem;
-  color: var(--texto-suave);
-  width: 100%;
-  margin-bottom: 0.2rem;
-}
