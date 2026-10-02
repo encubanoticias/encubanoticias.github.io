@@ -13,10 +13,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: python scripts/rastreador.py
-      - run: |
+      - name: Ejecutar rastreador
+        run: python scripts/rastreador.py
+      - name: Commit y push
+        run: |
           git config user.name "encubanoticias"
           git config user.email "encubanoticias@users.noreply.github.com"
+          git pull --rebase
           git add data/
           git diff --quiet && git diff --staged --quiet || git commit -m "Actualizar noticias"
           git push
