@@ -1,8 +1,47 @@
 {
   "fecha": "2026-10-02",
-  "hora": "20:04",
-  "total": 55,
+  "hora": "21:05",
+  "total": 60,
   "noticias": [
+    {
+      "categoria": "salud",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Denuncia Vicepresidenta de la Asamblea Nacional, en XII Foro Parlamentario Iberoamericano, recrudecimiento del bloqueo impuesto por el Gobierno de EE.UU.",
+      "resumen": "Con un entrañable saludo en nombre de la Asamblea Nacional del Poder Popular, de su Presidente Esteban Lazo Hernández, de sus diputadas y diputados, y muy especialmente del heroico y digno pueblo cubano, a los parlamentos, legisladores y hermanos pueblos de Iberoamérica inició su intervención la Vic",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-02/denuncia-vicepresidenta-de-la-asamblea-nacional-en-xii-foro-parlamentario-iberoamericano-recrudecimiento-del-bloqueo-impuesto-por-el-gobierno-de-eeuu",
+      "destacada": true,
+      "tema": "denuncia",
+      "fecha": "Fri, 02 Oct 2026 16:10:56 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El libro cubano ante un asedio multidimensional",
+      "resumen": "Si un sector de la cultura cubana ha sentido siempre con rudeza el impacto del bloqueo estadounidense es el editorial; un daño que se ha acrecentado en los últimos meses de forma dramática",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-01/el-libro-cubano-ante-un-asedio-multidimensional-01-10-2026-18-10-41",
+      "destacada": true,
+      "tema": "libro",
+      "fecha": "Thu, 01 Oct 2026 18:10:41 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Convocatoria del proyecto NAE impulsa las industrias culturales y creativas en Cuba",
+      "resumen": "Mipymes, cooperativas no agropecuarias y proyectos de desarrollo local pertenecientes a las industrias culturales y creativas podrán optar por apoyos de hasta 20 000 dólares en equipamiento",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-02/convocatoria-del-proyecto-nae-impulsa-las-industrias-culturales-y-creativas-en-cuba",
+      "destacada": true,
+      "tema": "convocatoria",
+      "fecha": "Fri, 02 Oct 2026 16:10:20 -0400",
+      "id": 3
+    },
     {
       "categoria": "politica",
       "fuente": "https://www.granma.cu",
@@ -14,33 +53,33 @@
       "destacada": true,
       "tema": "parlamento",
       "fecha": "Fri, 02 Oct 2026 15:10:55 -0400",
-      "id": 1
+      "id": 4
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
+      "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Participa delegación cubana en XII Foro Parlamentario Iberoamericano",
-      "resumen": "Una delegación cubana encabezada&nbsp;por la Vicepresidenta de la Asamblea Nacional del Poder Popular y del Consejo de Estado, Ana María Mari Machado asiste&nbsp;al Duodécimo Foro Parlamentario Iberoamericano, con sede en la capital española",
+      "titulo": "Evocan en Italia vigencia del pensamiento y la obra del Che Guevara",
+      "resumen": "Roma, 2 oct (Prensa Latina) Bajo el título Cuba, Amor y Revolución tuvo lugar hoy, en esta capital, un encuentro cuyo eje central fue la presentación del libro \"Pasajes de la guerra revolucionaria\", de Ernesto Che Guevara, publicado por la italiana Edizioni Karl&#038;Rosa. The post Evocan en Italia ",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-01/participa-delegacion-cubana-en-xii-foro-parlamentario-iberoamericano-01-10-2026-19-10-20",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/02/evocan-en-italia-vigencia-del-pensamiento-y-la-obra-del-che-guevara/",
       "destacada": true,
-      "tema": "participa",
-      "fecha": "Thu, 01 Oct 2026 19:10:20 -0400",
-      "id": 2
+      "tema": "evocan",
+      "fecha": "Fri, 02 Oct 2026 21:03:16 +0000",
+      "id": 5
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.granma.cu",
+      "categoria": "transporte",
+      "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Comité nicaragüense expresa solidaridad con Cuba ante medidas de EEUU",
-      "resumen": "El Comité Nicaragüense de Solidaridad con Cuba, Venezuela, Rusia y Palestina expresó su rechazo a las medidas coercitivas que aplica hoy la administración de Estados Unidos contra Cuba y manifestó respaldo al pueblo y Gobierno de la nación caribeña",
+      "titulo": "Nuevas vías de financiamiento miran hacia el béisbol cubano",
+      "resumen": "La Habana, 2 oct (Prensa Latina) El patrocinio comienza a ganar terreno como alternativa para sostener la Serie Nacional de Béisbol, una vía que la Federación Cubana pretende extender a equipos, estadios y otros componentes del principal espectáculo del país. The post Nuevas vías de financiamiento m",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-02/comite-nicaraguense-expresa-solidaridad-con-cuba-ante-medidas-de-eeuu-02-10-2026-09-10-44",
-      "destacada": true,
-      "tema": "comité",
-      "fecha": "Fri, 02 Oct 2026 09:10:44 -0400",
-      "id": 3
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/02/nuevas-vias-de-financiamiento-miran-hacia-el-beisbol-cubano/",
+      "destacada": false,
+      "tema": "nuevas",
+      "fecha": "Fri, 02 Oct 2026 21:01:46 +0000",
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -50,10 +89,10 @@
       "resumen": "Matanzas, Cuba, 2 oct (Prensa Latina) El pelotero Naykel Cruz destacó hoy sentirse motivado por regresar al béisbol cubano con el equipo de los Cocodrilos de Matanzas, actuales campeones de la Serie Nacional. The post Naykel Cruz, motivado por regreso a béisbol cubano con Matanzas first appeared on ",
       "imagen_url": "",
       "enlace_original": "https://www.prensa-latina.cu/2026/10/02/naykel-cruz-motivado-por-regreso-a-beisbol-cubano-con-matanzas/",
-      "destacada": true,
+      "destacada": false,
       "tema": "naykel",
       "fecha": "Fri, 02 Oct 2026 20:02:11 +0000",
-      "id": 4
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -63,10 +102,23 @@
       "resumen": "La Habana, 2 oct (Prensa Latina) Cuba podrá participar en el Concurso de Calendario de Fotos 2027, centrado en \"Japón en mi país\", que convoca hoy la Red de Enseñanza del Idioma Japonés en América Central y el Caribe (RCCJ). The post Convocan en Cuba a concurso fotográfico sobre Japón first appeared",
       "imagen_url": "",
       "enlace_original": "https://www.prensa-latina.cu/2026/10/02/convocan-en-cuba-a-concurso-fotografico-sobre-japon/",
-      "destacada": true,
+      "destacada": false,
       "tema": "convocan",
       "fecha": "Fri, 02 Oct 2026 19:39:07 +0000",
-      "id": 5
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Un hombre es detenido tras subir la escalinata del Capitolio de La Habana con un cartel pidiendo libertad",
+      "resumen": "“¡Abajo la dictadura!”, gritó antes de ser introducido en la patrulla, a lo que un testigo en la multitud replicó: “¡Abajo!”",
+      "imagen_url": "https://static.14ymedio.com/clip/5431a0db-a70a-4f44-aff9-466b76c7d4e7_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/hombre-detenido-subir-escalinata-capitolio_1_1131468.html",
+      "destacada": false,
+      "tema": "hombre",
+      "fecha": "Fri, 02 Oct 2026 20:47:24 +0000",
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -79,7 +131,7 @@
       "destacada": false,
       "tema": "guardia",
       "fecha": "Fri, 02 Oct 2026 18:06:59 +0000",
-      "id": 6
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -92,7 +144,20 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Fri, 02 Oct 2026 16:14:52 +0000",
-      "id": 7
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Falta de agua y comida en mal estado: una estudiante sudafricana cuenta las penurias sufridas en Cuba",
+      "resumen": "Su testimonio, publicado por la prensa de Sudáfrica, pone en evidencia las precariedades del programa de intercambio Nelson Mandela-Fidel Castro",
+      "imagen_url": "https://static.14ymedio.com/clip/3f93c6d8-9f57-44a6-a3a5-24f1f1b2f8d4_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/internacional/falta-agua-comida-mal-estudiante_1_1131464.html",
+      "destacada": false,
+      "tema": "falta",
+      "fecha": "Fri, 02 Oct 2026 20:01:43 +0000",
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -105,7 +170,7 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Fri, 02 Oct 2026 09:45:54 +0000",
-      "id": 8
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -118,124 +183,72 @@
       "destacada": false,
       "tema": "dictan",
       "fecha": "Thu, 01 Oct 2026 17:31:57 +0000",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las ventas de combustible de EE UU a Cuba ya superan las entregas de Venezuela en tiempos de Chávez",
-      "resumen": "En julio, llegaron más de 3,2 millones de barriles, el equivalente de tres petroleros rusos",
-      "imagen_url": "https://static.14ymedio.com/clip/e7829969-0050-448d-920a-25d3d0e65a02_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/ventas-combustible-ee-uu-cuba_1_1131385.html",
-      "destacada": false,
-      "tema": "ventas",
-      "fecha": "Wed, 30 Sep 2026 20:16:33 +0000",
-      "id": 10
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Vima, socia española de Gaesa, empieza su retirada de Cuba para evitar las sanciones de EE UU",
-      "resumen": "La firma ha retirado sus carteles de su tienda en La Habana y ha reducido sus actividades en sus almacenes en Berroa, pero sus productos siguen en venta",
-      "imagen_url": "https://static.14ymedio.com/clip/03e4fcab-c68d-4067-9edf-92c50291aca1_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/vima-socia-espanola-gaesa-empieza_1_1131390.html",
-      "destacada": false,
-      "tema": "socia",
-      "fecha": "Wed, 30 Sep 2026 21:03:34 +0000",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Detienen a hombre tras protestar frente al Capitolio de La Habana con carteles contra la dictadura",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e208574-s27061-nid341733-detienen-hombre-tras-protestar-frente-al-capitolio",
-      "destacada": false,
-      "tema": "detienen",
-      "fecha": "Fri, 02 Oct 2026 20:57:06 +0200",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Jurista cubano: «Somos hoy una sociedad paralizada por el subdesarrollo político»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e209395-s27061-nid341724-jurista-cubano-somos-hoy-sociedad-paralizada",
-      "destacada": false,
-      "tema": "jurista",
-      "fecha": "Fri, 02 Oct 2026 20:43:50 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La BBC pone el foco en los millonarios cubanoamericanos de Miami que preparan su capital para una Cuba sin dictadura",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e199894-s27061-nid341730-bbc-pone-foco-millonarios-cubanoamericanos-miami",
-      "destacada": false,
-      "tema": "millonarios",
-      "fecha": "Fri, 02 Oct 2026 20:37:27 +0200",
       "id": 14
     },
     {
-      "categoria": "politica",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel defiende el rumbo de las reformas económicas: \"No vamos a detenernos\"",
+      "titulo": "El régimen cubano vuelve a prometer resultados para el próximo año: «Estamos convencidos»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e199894-s27061-nid341727-diaz-canel-defiende-rumbo-reformas-economicas-vamos",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e199894-s27061-nid341749-regimen-cubano-vuelve-prometer-resultados-proximo",
       "destacada": false,
-      "tema": "canel",
-      "fecha": "Fri, 02 Oct 2026 19:59:53 +0200",
+      "tema": "régimen",
+      "fecha": "Fri, 02 Oct 2026 22:55:50 +0200",
       "id": 15
     },
     {
-      "categoria": "politica",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Gobierno reordena el mapa minero de Cuba: extingue y prorroga concesiones",
+      "titulo": "Misión médica cubana evalúa que doctores lleven efectivo a La Habana por cuenta congelada en Italia",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e199894-s27061-nid341725-gobierno-reordena-mapa-minero-cuba-extingue-prorroga",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e135253-s27061-nid341742-mision-medica-cubana-evalua-doctores-lleven-efectivo",
       "destacada": false,
-      "tema": "gobierno",
-      "fecha": "Fri, 02 Oct 2026 19:51:16 +0200",
+      "tema": "misión",
+      "fecha": "Fri, 02 Oct 2026 22:52:31 +0200",
       "id": 16
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "De trabajar escondido en Cuba a construir un legado familiar en Miami",
+      "titulo": "Ratifican condena de hasta 20 años a cuatro hombres por robar aceite de un transformador y paralizar el Complejo Lácteo de La Habana",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e135253-s27061-nid341726-trabajar-escondido-cuba-construir-legado-familiar",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e209363-s27061-nid341741-ratifican-condena-20-anos-cuatro-hombres-robar",
       "destacada": false,
-      "tema": "trabajar",
-      "fecha": "Fri, 02 Oct 2026 19:43:59 +0200",
+      "tema": "ratifican",
+      "fecha": "Fri, 02 Oct 2026 22:44:26 +0200",
       "id": 17
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Régimen cubano amplía los negocios permitidos a sucursales extranjeras",
+      "titulo": "Intelectual cubano alerta sobre expansión de la droga: «¿Hasta cuándo hay que esperar?»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e199894-s27061-nid341722-regimen-cubano-amplia-negocios-permitidos-sucursales",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e209395-s27061-nid341734-intelectual-cubano-alerta-expansion-droga-cuando-hay",
       "destacada": false,
-      "tema": "régimen",
-      "fecha": "Fri, 02 Oct 2026 19:31:56 +0200",
+      "tema": "intelectual",
+      "fecha": "Fri, 02 Oct 2026 22:10:12 +0200",
       "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Insólita denuncia en Santiago de Cuba: presunto arrebatador habría tragado dos cadenas de oro",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e135253-s27061-nid341738-insolita-denuncia-santiago-cuba-presunto-arrebatador",
+      "destacada": false,
+      "tema": "insólita",
+      "fecha": "Fri, 02 Oct 2026 22:03:26 +0200",
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -248,7 +261,7 @@
       "destacada": false,
       "tema": "parapesas",
       "fecha": "Fri, 02 Oct 2026 16:29:51 +0000",
-      "id": 19
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -261,7 +274,7 @@
       "destacada": false,
       "tema": "ratificadas",
       "fecha": "Fri, 02 Oct 2026 16:19:07 +0000",
-      "id": 20
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -274,7 +287,20 @@
       "destacada": false,
       "tema": "cultura",
       "fecha": "Thu, 01 Oct 2026 21:52:18 +0000",
-      "id": 21
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El Tribunal Supremo de Cuba ratifica hasta 20 años de cárcel para cuatro acusados de 'sabotaje' eléctrico",
+      "resumen": "El Tribunal Supremo Popular de #Cuba ratificó sentencias que suman 69 años de #prisión para cuatro acusados por el robo de 140 litros de aceite dieléctrico en La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1790973785_69230.html",
+      "destacada": false,
+      "tema": "tribunal",
+      "fecha": "Fri, 02 Oct 2026 22:43:05 +0200",
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -287,7 +313,7 @@
       "destacada": false,
       "tema": "delcy",
       "fecha": "Fri, 02 Oct 2026 20:47:42 +0200",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "pancho",
       "fecha": "Fri, 02 Oct 2026 18:42:12 +0200",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "méxico",
       "fecha": "Fri, 02 Oct 2026 18:28:05 +0200",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -326,7 +352,7 @@
       "destacada": false,
       "tema": "feminicidios",
       "fecha": "Fri, 02 Oct 2026 18:14:32 +0200",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -339,7 +365,7 @@
       "destacada": false,
       "tema": "condena",
       "fecha": "Fri, 02 Oct 2026 17:58:21 +0200",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "salud",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "falleció",
       "fecha": "Fri, 02 Oct 2026 16:55:50 +0200",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -365,7 +391,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Fri, 02 Oct 2026 15:04:06 +0200",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "politica",
@@ -378,20 +404,33 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Fri, 02 Oct 2026 13:27:28 +0200",
-      "id": 29
+      "id": 31
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Los cubanos imaginan vivir en otro país, pero no consiguen convertir ese deseo en un camino",
-      "resumen": "Casi nueve de cada diez encuestados por #DiarioDeCuba ha pensado en emigrar, pero solo el 6,9% prepara documentos o una ruta: el deseo de abandonar la Isla es extendido, pero la capacidad de hacerlo, limitada.",
+      "titulo": "Noticiero de Radio Martí 5:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/foro-ddc/1790939302_69185.html",
+      "enlace_original": "https://www.martinoticias.com/a/480072.html",
       "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Fri, 02 Oct 2026 13:08:22 +0200",
-      "id": 30
+      "tema": "noticiero",
+      "fecha": "Fri, 02 Oct 2026 17:00:30 -0400",
+      "id": 32
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al día",
+      "resumen": "Estados Unidos exportó a Cuba más de 3,2 millones de barriles de productos petroleros en julio, incluidos cerca de 2,65 millones de barriles de diésel, según datos oficiales de la EIA. El dato contrasta con las denuncias del régimen cubano sobre un supuesto “bloqueo petrolero”.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/481174.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Fri, 02 Oct 2026 16:18:54 -0400",
+      "id": 33
     },
     {
       "categoria": "energia",
@@ -404,7 +443,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Fri, 02 Oct 2026 16:00:30 -0400",
-      "id": 31
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -417,7 +456,7 @@
       "destacada": false,
       "tema": "expertos",
       "fecha": "Fri, 02 Oct 2026 19:24:26 +0000",
-      "id": 32
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -430,7 +469,7 @@
       "destacada": false,
       "tema": "planta",
       "fecha": "Fri, 02 Oct 2026 18:40:26 +0000",
-      "id": 33
+      "id": 36
     },
     {
       "categoria": "transporte",
@@ -443,7 +482,7 @@
       "destacada": false,
       "tema": "confirma",
       "fecha": "Fri, 02 Oct 2026 18:29:13 +0000",
-      "id": 34
+      "id": 37
     },
     {
       "categoria": "politica",
@@ -456,7 +495,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Fri, 02 Oct 2026 17:07:11 +0000",
-      "id": 35
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -469,7 +508,7 @@
       "destacada": false,
       "tema": "empresas",
       "fecha": "Fri, 02 Oct 2026 16:18:42 +0000",
-      "id": 36
+      "id": 39
     },
     {
       "categoria": "economia",
@@ -482,7 +521,7 @@
       "destacada": false,
       "tema": "sabes",
       "fecha": "Fri, 02 Oct 2026 16:17:15 +0000",
-      "id": 37
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -495,7 +534,7 @@
       "destacada": false,
       "tema": "pequeño",
       "fecha": "Fri, 02 Oct 26 16:56:00 +0200",
-      "id": 38
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -508,7 +547,7 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Fri, 02 Oct 26 16:45:00 +0200",
-      "id": 39
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -521,7 +560,7 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Fri, 02 Oct 26 15:24:00 +0200",
-      "id": 40
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -534,7 +573,7 @@
       "destacada": false,
       "tema": "dignidad",
       "fecha": "Fri, 02 Oct 26 13:51:00 +0200",
-      "id": 41
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -547,7 +586,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 02 Oct 26 12:55:00 +0200",
-      "id": 42
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -560,7 +599,7 @@
       "destacada": false,
       "tema": "máscaras",
       "fecha": "Fri, 02 Oct 26 08:12:00 +0200",
-      "id": 43
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -573,7 +612,7 @@
       "destacada": false,
       "tema": "klaudia",
       "fecha": "Fri, 02 Oct 26 08:12:00 +0200",
-      "id": 44
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -586,7 +625,7 @@
       "destacada": false,
       "tema": "llevó",
       "fecha": "Fri, 02 Oct 26 08:11:00 +0200",
-      "id": 45
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -599,7 +638,7 @@
       "destacada": false,
       "tema": "tennessee",
       "fecha": "Fri, 02 Oct 26 08:09:00 +0200",
-      "id": 46
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -612,7 +651,7 @@
       "destacada": false,
       "tema": "bloqueos",
       "fecha": "Fri, 02 Oct 26 08:08:00 +0200",
-      "id": 47
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -625,7 +664,7 @@
       "destacada": false,
       "tema": "orgullo",
       "fecha": "Fri, 02 Oct 2026 17:06:36 +0000",
-      "id": 48
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -638,7 +677,7 @@
       "destacada": false,
       "tema": "invicta",
       "fecha": "Fri, 02 Oct 2026 15:42:06 +0000",
-      "id": 49
+      "id": 52
     },
     {
       "categoria": "politica",
@@ -651,7 +690,7 @@
       "destacada": false,
       "tema": "refuerza",
       "fecha": "Fri, 02 Oct 2026 13:28:00 +0000",
-      "id": 50
+      "id": 53
     },
     {
       "categoria": "politica",
@@ -664,7 +703,7 @@
       "destacada": false,
       "tema": "retoma",
       "fecha": "Fri, 02 Oct 2026 13:06:00 +0000",
-      "id": 51
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -677,7 +716,7 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Thu, 01 Oct 2026 15:25:10 +0000",
-      "id": 52
+      "id": 55
     },
     {
       "categoria": "politica",
@@ -690,7 +729,7 @@
       "destacada": false,
       "tema": "recorrió",
       "fecha": "Thu, 01 Oct 2026 15:20:53 +0000",
-      "id": 53
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -703,20 +742,46 @@
       "destacada": false,
       "tema": "delegación",
       "fecha": "Thu, 01 Oct 2026 15:16:37 +0000",
-      "id": 54
+      "id": 57
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
+      "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "Mundial de Béisbol sub-15: un nuevo examen suspenso",
-      "resumen": "Existen resultados que, por esperados, no dejan de sorprender a los amantes del béisbol cubano en cualquiera de sus categorías.",
+      "titulo": "Sábado del Libro presentará las Sensaciones de Reinaldo Montero",
+      "resumen": "Cada capítulo de la novela combina estrategias narrativas sutiles con situaciones reconocibles en nuestro tiempo, culminando en un cierre sorpresivo La entrada Sábado del Libro presentará las Sensaciones de Reinaldo Montero se publicó primero en Tribuna de La Habana.",
       "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/02/mundial-de-beisbol-sub-15/",
+      "enlace_original": "https://www.tribuna.cu/sabado-del-libro-presentara-las-sensaciones-de-reinaldo-montero/",
       "destacada": false,
-      "tema": "mundial",
-      "fecha": "Fri, 02 Oct 2026 13:16:00 +0000",
-      "id": 55
+      "tema": "sábado",
+      "fecha": "Fri, 02 Oct 2026 18:50:07 +0000",
+      "id": 58
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Celebró La Habana Día internacional del adulto mayor",
+      "resumen": "En los municipios de la capital se agasajaron a los adultos mayores con variadas actividades La entrada Celebró La Habana Día internacional del adulto mayor se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/celebro-la-habana-dia-internacional-del-adulto-mayor/",
+      "destacada": false,
+      "tema": "celebró",
+      "fecha": "Fri, 02 Oct 2026 18:28:13 +0000",
+      "id": 59
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Plaza Viva para la edad tercera",
+      "resumen": "En la actividad de cierre de la Jornada de las personas adultas mayores en el Centro Histórico habrá feria, música y exposiciones La entrada Plaza Viva para la edad tercera se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/plaza-viva-para-la-edad-tercera/",
+      "destacada": false,
+      "tema": "plaza",
+      "fecha": "Fri, 02 Oct 2026 17:20:09 +0000",
+      "id": 60
     }
   ]
 }
