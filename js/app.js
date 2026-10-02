@@ -194,9 +194,10 @@ function renderNoticias() {
         <p>${n.resumen}</p>
         <small>${n.fuente} · ${n.fuente_tipo}</small>
         <div class="votacion" data-id="${n.id}">
-          <button class="voto-btn" data-voto="confirmada">✅ Confirmada</button>
-          <button class="voto-btn" data-voto="dudosa">❓ Dudosa</button>
-          <button class="voto-btn" data-voto="falsa">⚠️ Falsa</button>
+          <div class="voto-etiqueta">¿Qué puedes decir de esta noticia?</div>
+          <button class="voto-btn" data-voto="verificado">✅ <span class="voto-num" data-num="verificado">0</span></button>
+          <button class="voto-btn" data-voto="nopuedo">❓ <span class="voto-num" data-num="nopuedo">0</span></button>
+          <button class="voto-btn" data-voto="contradiccion">⚠️ <span class="voto-num" data-num="contradiccion">0</span></button>
           <span class="voto-total"></span>
         </div>
         <br>
@@ -481,36 +482,30 @@ async function votar(id, tipo) {
 
   if (!supabaseClient) return;
 
-  // 1. Borrar TODOS los votos previos de este dispositivo para esta noticia
-  const { error: errDelete } = await supabaseClient.from('votes')
+  await supabaseClient.from('votes')
     .delete()
     .eq('news_id', String(id))
     .eq('device_id', DEVICE_ID);
 
-  if (errDelete) console.log('Error borrando voto anterior:', errDelete);
-
-  // 2. Insertar el nuevo voto
-  const { error: errInsert } = await supabaseClient.from('votes').insert({
+  const { error } = await supabaseClient.from('votes').insert({
     news_id: String(id),
     vote_type: tipo,
     device_id: DEVICE_ID
   });
 
-  if (errInsert) console.log('Error enviando voto:', errInsert);
-
-  // 3. Refrescar los totales
-  await cargarVotosGlobales();
+  if (error) console.log('Error enviando voto:', error);
+  cargarVotosGlobales();
 }
 
 async function cargarVotosGlobales() {
   if (!supabaseClient) return;
-  const { data, error } = await supabaseClient.from('votes').select('news_id, vote_type, device_id');
+  const { data, error } = await supabaseClient.from('votes').select('news_id, vote_type');
   if (error) { console.log('Error votos globales:', error); return; }
 
   votosGlobales = {};
   data.forEach(v => {
     const id = v.news_id;
-    if (!votosGlobales[id]) votosGlobales[id] = { confirmada: 0, dudosa: 0, falsa: 0 };
+    if (!votosGlobales[id]) votosGlobales[id] = { verificado: 0, nopuedo: 0, contradiccion: 0 };
     if (votosGlobales[id][v.vote_type] !== undefined) votosGlobales[id][v.vote_type]++;
   });
 
@@ -525,8 +520,8 @@ function actualizarVotacion(id) {
   const v = cargarVotos()[id] || {};
   const mi = v['yo'] || null;
 
-  const global = votosGlobales[String(id)] || { confirmada: 0, dudosa: 0, falsa: 0 };
-  const total = global.confirmada + global.dudosa + global.falsa;
+  const global = votosGlobales[String(id)] || { verificado: 0, nopuedo: 0, contradiccion: 0 };
+  const total = global.verificado + global.nopuedo + global.contradiccion;
 
   cont.querySelectorAll('.voto-btn').forEach(b => {
     if (mi && b.dataset.voto === mi) {
@@ -536,11 +531,16 @@ function actualizarVotacion(id) {
     }
   });
 
+  cont.querySelectorAll('.voto-num').forEach(num => {
+    const key = num.dataset.num;
+    num.textContent = global[key] || 0;
+  });
+
   const span = cont.querySelector('.voto-total');
   if (total === 0) {
     span.textContent = 'Sé el primero en votar';
   } else {
-    span.textContent = `${total} ${total === 1 ? 'voto' : 'votos'}`;
+    span.textContent = `${total} total`;
   }
 }
 
