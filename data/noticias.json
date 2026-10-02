@@ -1,6 +1,6 @@
 {
   "fecha": "2026-10-02",
-  "hora": "09:06",
+  "hora": "11:05",
   "total": 55,
   "noticias": [
     {
@@ -43,17 +43,43 @@
       "id": 3
     },
     {
-      "categoria": "politica",
+      "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba denuncia en Madrid que es objeto de guerra multidimensional",
-      "resumen": "Madrid, 2 oct (Prensa Latina) Cuba denunció hoy que es objeto de una guerra multidimensional, al exponer la política de asfixia que aplica el Gobierno de Estados Unidos contra la Isla. The post Cuba denuncia en Madrid que es objeto de guerra multidimensional first appeared on Noticias Prensa Latina.",
+      "titulo": "Medio de prensa de la Santa Sede denuncia bloqueo EEUU contra Cuba",
+      "resumen": "Ciudad del Vaticano, 2 oct (Prensa Latina) Vatican News, portal de información de la Santa Sede, publica hoy en su sitio oficial en Internet un artículo que denuncia el recrudecimiento del bloqueo estadounidense hacia Cuba y su impacto en la población de la isla. The post Medio de prensa de la Santa",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/02/cuba-denuncia-en-madrid-que-es-objeto-de-guerra-multidimensional/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/02/medio-de-prensa-de-la-santa-sede-denuncia-bloqueo-eeuu-contra-cuba/",
       "destacada": true,
-      "tema": "denuncia",
-      "fecha": "Fri, 02 Oct 2026 08:01:23 +0000",
+      "tema": "medio",
+      "fecha": "Fri, 02 Oct 2026 10:21:56 +0000",
       "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Fiscalía cubana pide ocho y diez años para los creadores de El4tico",
+      "resumen": "El Tribunal Provincial de Holguín ordena la apertura de juicio oral, que se celebrará en un plazo mínimo de 10 días, aunque no hay fecha fijada",
+      "imagen_url": "https://static.14ymedio.com/clip/5f06897f-8fd8-413d-9945-0742268984bb_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/fiscalia-cubana-pide-ocho-diez_1_1131430.html",
+      "destacada": true,
+      "tema": "fiscalía",
+      "fecha": "Fri, 02 Oct 2026 09:45:54 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El avión que mató a cinco cubanos en Miami viajaba a 327 kilómetros por hora antes del choque",
+      "resumen": "El incidente ha provocado demandas de familias de los fallecidos, como la viuda de Rodríguez Naranjo y los hijos de Pineda",
+      "imagen_url": "https://static.14ymedio.com/clip/1d8b0e77-50cb-4ad9-9854-4d99413a90ec_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/internacional/avion-mato-cinco-cubanos-miami_1_1131435.html",
+      "destacada": false,
+      "tema": "avión",
+      "fecha": "Fri, 02 Oct 2026 10:14:15 +0000",
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -63,35 +89,9 @@
       "resumen": "Los cuatro procesados fueron acusados de \"sabotaje\", con los agravantes de hacerlo en grupo, con \"nocturnidad\" y por un \"beneficio económico\"",
       "imagen_url": "https://static.14ymedio.com/clip/43b95f4e-3942-4d4b-8553-a4967a76faee_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/dictan-condenas-20-anos-prision_1_1131420.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "dictan",
       "fecha": "Thu, 01 Oct 2026 17:31:57 +0000",
-      "id": 5
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Un cubano deportado a África por EE UU denuncia las malas condiciones en los centros de detención",
-      "resumen": "Yasmany Moreno asegura que la capital de la República Centroafricana hay 80 o 90 personas expulsadas por el Gobierno de Trump",
-      "imagen_url": "https://static.14ymedio.com/clip/aab3f05c-7cef-4087-9bc8-37c5c4d3c57b_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/migracion/cubano-deportado-africa-ee-uu_1_1131422.html",
-      "destacada": false,
-      "tema": "cubano",
-      "fecha": "Thu, 01 Oct 2026 19:50:30 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Un documental sobre las mujeres cubanas que esperan a sus maridos presos gana un premio en Trinidad y Tobago",
-      "resumen": "La brasileña Paloma Gomide es la directora de ‘Si la vida me diera un deseo’, producido en la Escuela Internacional de Cine y Televisión",
-      "imagen_url": "https://static.14ymedio.com/clip/71636761-a1e5-4f7a-a7bc-22458cbab33c_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cultura/documental-mujeres-cubanas-esperan-maridos_1_1131424.html",
-      "destacada": false,
-      "tema": "documental",
-      "fecha": "Thu, 01 Oct 2026 19:38:48 +0000",
       "id": 7
     },
     {
@@ -147,16 +147,16 @@
       "id": 11
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.14ymedio.com",
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El Gobierno destaca que las nuevas sanciones de Washington afectan también al sector privado",
-      "resumen": "Algunos cubanos se alegran de que vayan contra los \"testaferros del régimen\" que lograron abrir cuentas bancarias en EE UU",
-      "imagen_url": "https://static.14ymedio.com/clip/11e7afdd-d1aa-4fad-add6-55015bd1729d_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/gobierno-destaca-nuevas-sanciones-washington_1_1131366.html",
+      "titulo": "Hispanidad 2026 arranca en Madrid: conciertos gratis, artistas cubanos y agenda para este fin de semana",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e13-s27061-nid341684-hispanidad-2026-arranca-madrid-conciertos-gratis",
       "destacada": false,
-      "tema": "gobierno",
-      "fecha": "Wed, 30 Sep 2026 12:38:25 +0000",
+      "tema": "hispanidad",
+      "fecha": "Fri, 02 Oct 2026 10:11:18 +0200",
       "id": 12
     },
     {
@@ -239,32 +239,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Qué clase de estafa si nunca hay conexión»: Cubanos ante promoción de ETECSA",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e197721-s27061-nid341669-clase-estafa-nunca-hay-conexion-cubanos-promocion",
-      "destacada": false,
-      "tema": "clase",
-      "fecha": "Fri, 02 Oct 2026 01:41:06 +0200",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba llega a 55 feminicidios en 2026 tras asesinato de madre de cuatro niñas en Camagüey",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e208933-s27061-nid341660-cuba-llega-55-feminicidios-2026-tras-madre-cuatro",
-      "destacada": false,
-      "tema": "llega",
-      "fecha": "Fri, 02 Oct 2026 01:39:50 +0200",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "alternativa",
       "titulo": "Cultura y Manjares: cofradía por la ancianidad",
@@ -274,7 +248,7 @@
       "destacada": false,
       "tema": "cultura",
       "fecha": "Thu, 01 Oct 2026 21:52:18 +0000",
-      "id": 21
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -287,7 +261,7 @@
       "destacada": false,
       "tema": "inaugurarán",
       "fecha": "Thu, 01 Oct 2026 19:30:16 +0000",
-      "id": 22
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -300,7 +274,7 @@
       "destacada": false,
       "tema": "equilibrio",
       "fecha": "Thu, 01 Oct 2026 15:47:17 +0000",
-      "id": 23
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -313,7 +287,46 @@
       "destacada": false,
       "tema": "presentarán",
       "fecha": "Wed, 30 Sep 2026 18:45:57 +0000",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Editorial: ¿Punto de giro para los evangélicos cubanos?",
+      "resumen": "El juicio contra la creadora de contenido cristiana #AnnaBensi y su madre ha provocado reacciones en las #IglesiasEvangélicas legalmente reconocidas en #Cuba. ¿Estamos ante un punto de giro? Lee nuestro editorial.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/foro-ddc/1790938162_69220.html",
+      "destacada": false,
+      "tema": "editorial",
+      "fecha": "Fri, 02 Oct 2026 12:49:22 +0200",
+      "id": 23
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuentas congeladas, trabajadores sin cobrar: así recibe Ángel Santiesteban el liderazgo de la masonería cubana",
+      "resumen": "El nuevo liderazgo de la #MasoneríaCubana se estrena con cerco policial y cuentas congeladas.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1790936163_69219.html",
+      "destacada": false,
+      "tema": "cuentas",
+      "fecha": "Fri, 02 Oct 2026 12:16:03 +0200",
       "id": 24
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El 'acto desesperado' del régimen contra Anna Bensi y su madre genera rechazo dentro y fuera de Cuba",
+      "resumen": "#SOSCuba: La Embajada de EEUU en Cuba, los congresistas #DíazBalart, #MaríaElviraSalzar y Carlos Giménez, la antropóloga Alina Bárbara López y el humorista #Pánfilo reaccionan a la persecución del #RégimenCubano contra #AnnaBensi y su madre. #Cubalex contrasta las condenas impuestas a ambas en un ju",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1790934164_69218.html",
+      "destacada": false,
+      "tema": "desesperado",
+      "fecha": "Fri, 02 Oct 2026 11:42:44 +0200",
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -326,7 +339,7 @@
       "destacada": false,
       "tema": "meses",
       "fecha": "Fri, 02 Oct 2026 10:47:52 +0200",
-      "id": 25
+      "id": 26
     },
     {
       "categoria": "economia",
@@ -339,7 +352,7 @@
       "destacada": false,
       "tema": "familias",
       "fecha": "Fri, 02 Oct 2026 00:11:29 +0200",
-      "id": 26
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -352,7 +365,7 @@
       "destacada": false,
       "tema": "diputado",
       "fecha": "Thu, 01 Oct 2026 23:33:39 +0200",
-      "id": 27
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -365,7 +378,7 @@
       "destacada": false,
       "tema": "esperanza",
       "fecha": "Thu, 01 Oct 2026 22:52:27 +0200",
-      "id": 28
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -378,7 +391,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Thu, 01 Oct 2026 21:28:12 +0200",
-      "id": 29
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -391,32 +404,19 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 01 Oct 2026 21:07:25 +0200",
-      "id": 30
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "'Sé cómo es la pobreza, pero esto es peor', denuncian estudiantes de Medicina de Sudáfrica en Cuba",
-      "resumen": "La situación de los alumnos de #Medicina de #Sudáfrica en #Cuba es crítica, pese a que reciben aproximadamente 200 dólares al mes de estipendio.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1790876986_69207.html",
-      "destacada": false,
-      "tema": "pobreza",
-      "fecha": "Thu, 01 Oct 2026 19:49:46 +0200",
       "id": 31
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "politica",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Con apoyo popular y represión: Anna Bensi y su madre enfrentan su juicio en La Habana",
-      "resumen": "",
+      "titulo": "Cuba Habla: \"Ninguna ayuda he tenido”",
+      "resumen": "Santiaguero asegura que no tiene ayuda en medio de la enfermedad que padece y agrega: “… este gobierno no da más”.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1790873592_69208.html",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-ninguna-ayuda-he-tenido/480962.html",
       "destacada": false,
-      "tema": "apoyo",
-      "fecha": "Thu, 01 Oct 2026 18:53:12 +0200",
+      "tema": "habla",
+      "fecha": "Fri, 02 Oct 2026 07:00:00 -0400",
       "id": 32
     },
     {
