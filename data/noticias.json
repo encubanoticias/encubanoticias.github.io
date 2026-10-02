@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-02",
-  "hora": "05:05",
-  "total": 58,
+  "hora": "06:06",
+  "total": 52,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -43,19 +43,6 @@
       "id": 3
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Comité nicaragüense expresa solidaridad con Cuba ante medidas de EEUU",
-      "resumen": "Managua, 2 oct (Prensa Latina) El Comité Nicaragüense de Solidaridad con Cuba, Venezuela, Rusia y Palestina expresó su rechazo a las medidas coercitivas que aplica hoy la administración de Estados Unidos contra Cuba y manifestó respaldo al pueblo y Gobierno de la nación caribeña. The post Comité nic",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/02/comite-nicaraguense-expresa-solidaridad-con-cuba-ante-medidas-de-eeuu/",
-      "destacada": true,
-      "tema": "comité",
-      "fecha": "Fri, 02 Oct 2026 04:35:43 +0000",
-      "id": 4
-    },
-    {
       "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -66,7 +53,7 @@
       "destacada": true,
       "tema": "dictan",
       "fecha": "Thu, 01 Oct 2026 17:31:57 +0000",
-      "id": 5
+      "id": 4
     },
     {
       "categoria": "politica",
@@ -76,10 +63,10 @@
       "resumen": "Yasmany Moreno asegura que la capital de la República Centroafricana hay 80 o 90 personas expulsadas por el Gobierno de Trump",
       "imagen_url": "https://static.14ymedio.com/clip/aab3f05c-7cef-4087-9bc8-37c5c4d3c57b_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/migracion/cubano-deportado-africa-ee-uu_1_1131422.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "cubano",
       "fecha": "Thu, 01 Oct 2026 19:50:30 +0000",
-      "id": 6
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -92,7 +79,7 @@
       "destacada": false,
       "tema": "documental",
       "fecha": "Thu, 01 Oct 2026 19:38:48 +0000",
-      "id": 7
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -105,7 +92,7 @@
       "destacada": false,
       "tema": "ventas",
       "fecha": "Wed, 30 Sep 2026 20:16:33 +0000",
-      "id": 8
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -118,7 +105,7 @@
       "destacada": false,
       "tema": "socia",
       "fecha": "Wed, 30 Sep 2026 21:03:34 +0000",
-      "id": 9
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -131,7 +118,7 @@
       "destacada": false,
       "tema": "derrumbe",
       "fecha": "Wed, 30 Sep 2026 15:29:08 +0000",
-      "id": 10
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -144,7 +131,7 @@
       "destacada": false,
       "tema": "feminicidio",
       "fecha": "Wed, 30 Sep 2026 22:07:00 +0000",
-      "id": 11
+      "id": 10
     },
     {
       "categoria": "politica",
@@ -157,7 +144,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Wed, 30 Sep 2026 12:38:25 +0000",
-      "id": 12
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -170,7 +157,7 @@
       "destacada": false,
       "tema": "venezuela",
       "fecha": "Fri, 02 Oct 2026 04:14:41 +0200",
-      "id": 13
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -183,7 +170,7 @@
       "destacada": false,
       "tema": "tribunal",
       "fecha": "Fri, 02 Oct 2026 03:42:19 +0200",
-      "id": 14
+      "id": 13
     },
     {
       "categoria": "politica",
@@ -196,7 +183,7 @@
       "destacada": false,
       "tema": "cáritas",
       "fecha": "Fri, 02 Oct 2026 03:11:24 +0200",
-      "id": 15
+      "id": 14
     },
     {
       "categoria": "economia",
@@ -209,7 +196,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 02 Oct 2026 03:01:52 +0200",
-      "id": 16
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -222,7 +209,7 @@
       "destacada": false,
       "tema": "economista",
       "fecha": "Fri, 02 Oct 2026 01:56:33 +0200",
-      "id": 17
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -235,7 +222,7 @@
       "destacada": false,
       "tema": "supremo",
       "fecha": "Fri, 02 Oct 2026 01:47:48 +0200",
-      "id": 18
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -248,7 +235,7 @@
       "destacada": false,
       "tema": "clase",
       "fecha": "Fri, 02 Oct 2026 01:41:06 +0200",
-      "id": 19
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -261,72 +248,7 @@
       "destacada": false,
       "tema": "llega",
       "fecha": "Fri, 02 Oct 2026 01:39:50 +0200",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Grabar no puede ser delito; el doble rasero de la justicia cubana: Anna Bensi y Alina Bárbara López",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u172318-e199854-s27068-nid341668-grabar-puede-ser-delito-doble-rasero-justicia",
-      "destacada": false,
-      "tema": "grabar",
-      "fecha": "Fri, 02 Oct 2026 01:38:49 +0200",
-      "id": 21
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cultura y Manjares: cofradía por la ancianidad",
-      "resumen": "Este 1ro de octubre, en un parque de Bauta las emociones rosan el alma al celebrar el Día Mundial de las Personas Mayores; que, según la Oficina Nacional de Estadística e Información, al cierre de 2025 eran 2 millones 519 mil 823 cubanos con 60 años y más",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261001/cultura-y-manjares-cofradia-por-la-ancianidad/",
-      "destacada": false,
-      "tema": "cultura",
-      "fecha": "Thu, 01 Oct 2026 21:52:18 +0000",
-      "id": 22
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Inaugurarán en Ciego de Ávila exposición de grabados dedicada al Comandante en Jefe",
-      "resumen": "Bajo la responsabilidad del grabador y artista plástico Héctor José Torres González, la propuesta pretende acercar al público a distintas facetas de la vida y la obra del líder histórico de la Revolución cubana",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261001/inauguraran-en-ciego-de-avila-exposicion-de-grabados-dedicada-al-comandante-en-jefe/",
-      "destacada": false,
-      "tema": "inaugurarán",
-      "fecha": "Thu, 01 Oct 2026 19:30:16 +0000",
-      "id": 23
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Por el equilibrio del mundo regresará a La Habana en 2028",
-      "resumen": "Convocan VII Conferencia Internacional Por el equilibrio del mundo para 2028",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261001/por-el-equilibrio-del-mundo-regresa-a-la-habana/",
-      "destacada": false,
-      "tema": "equilibrio",
-      "fecha": "Thu, 01 Oct 2026 15:47:17 +0000",
-      "id": 24
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Presentarán Sensaciones, de Reinaldo Montero en el Sábado del Libro",
-      "resumen": "El Instituto Cubano del Libro invita a descubrir una novela que combina recursos narrativos sutiles, situaciones reconocibles, un lenguaje de notable libertad expresiva y un desenlace destinado a revelar la dimensión dramática que se esconde tras el divertimento",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20260930/presentaran-sensaciones-de-reinaldo-montero-en-el-sabado-del-libro/",
-      "destacada": false,
-      "tema": "presentarán",
-      "fecha": "Wed, 30 Sep 2026 18:45:57 +0000",
-      "id": 25
+      "id": 19
     },
     {
       "categoria": "economia",
@@ -339,7 +261,7 @@
       "destacada": false,
       "tema": "familias",
       "fecha": "Fri, 02 Oct 2026 00:11:29 +0200",
-      "id": 26
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -352,7 +274,7 @@
       "destacada": false,
       "tema": "diputado",
       "fecha": "Thu, 01 Oct 2026 23:33:39 +0200",
-      "id": 27
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -365,7 +287,7 @@
       "destacada": false,
       "tema": "esperanza",
       "fecha": "Thu, 01 Oct 2026 22:52:27 +0200",
-      "id": 28
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -378,7 +300,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Thu, 01 Oct 2026 21:28:12 +0200",
-      "id": 29
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -391,7 +313,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 01 Oct 2026 21:07:25 +0200",
-      "id": 30
+      "id": 24
     },
     {
       "categoria": "economia",
@@ -404,7 +326,7 @@
       "destacada": false,
       "tema": "pobreza",
       "fecha": "Thu, 01 Oct 2026 19:49:46 +0200",
-      "id": 31
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -417,7 +339,7 @@
       "destacada": false,
       "tema": "apoyo",
       "fecha": "Thu, 01 Oct 2026 18:53:12 +0200",
-      "id": 32
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -430,7 +352,7 @@
       "destacada": false,
       "tema": "bensi",
       "fecha": "Thu, 01 Oct 2026 18:28:24 +0200",
-      "id": 33
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -443,7 +365,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Fri, 02 Oct 2026 00:00:30 -0400",
-      "id": 34
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -456,7 +378,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Thu, 01 Oct 2026 20:00:00 -0400",
-      "id": 35
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -469,7 +391,7 @@
       "destacada": false,
       "tema": "liberación",
       "fecha": "Thu, 01 Oct 2026 18:30:00 -0400",
-      "id": 36
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -482,7 +404,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 01 Oct 2026 19:54:39 +0000",
-      "id": 37
+      "id": 31
     },
     {
       "categoria": "politica",
@@ -495,7 +417,7 @@
       "destacada": false,
       "tema": "intelectuales",
       "fecha": "Thu, 01 Oct 2026 19:23:44 +0000",
-      "id": 38
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -508,7 +430,7 @@
       "destacada": false,
       "tema": "tarde",
       "fecha": "Thu, 01 Oct 2026 16:39:04 +0000",
-      "id": 39
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -521,7 +443,111 @@
       "destacada": false,
       "tema": "libertad",
       "fecha": "Wed, 30 Sep 2026 15:00:45 +0000",
+      "id": 34
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba no está sola: Ni bloqueos ni presiones silencian la solidaridad con Cuba",
+      "resumen": "Cuba por Siempre",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125266-cuba-no-esta-sola-ni-bloqueos-ni-presiones-silencian-la-solidaridad-con-cuba.jpg?t=1790921333",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261002/125266/125266-cuba-no-esta-sola-ni-bloqueos-ni-presiones-silencian-la-solidaridad-con-cuba",
+      "destacada": false,
+      "tema": "bloqueos",
+      "fecha": "Fri, 02 Oct 26 08:08:00 +0200",
+      "id": 35
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Fracaso en Washington y una miniatura sin porcentaje",
+      "resumen": "El Titan de #Cuba",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125265-fracaso-en-washington-y-una-miniatura-sin-porcentaje.jpg?t=1790921279",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261002/125265/125265-fracaso-en-washington-y-una-miniatura-sin-porcentaje",
+      "destacada": false,
+      "tema": "fracaso",
+      "fecha": "Fri, 02 Oct 26 08:07:00 +0200",
+      "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Llegó el momento de las grandes decisiones para Rubio y está obligado a contar con el Guerrero",
+      "resumen": "Guerrero Cubano con su verdad al desnudo",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125262-llego-el-momento-de-las-grandes-decisiones-para-rubio-y-esta-obligado-a-contar-con-el-guerrero.jpg?t=1790921143",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261002/125262/125262-llego-el-momento-de-las-grandes-decisiones-para-rubio-y-esta-obligado-a-contar-con-el-guerrero",
+      "destacada": false,
+      "tema": "llegó",
+      "fecha": "Fri, 02 Oct 26 08:05:00 +0200",
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "El arte de sanar y transformar Vidas en Cuba: Proyecto Palomas",
+      "resumen": "Cubavisión Internacional.- En esta emisión de En Buen Cubano, conversamos sobre los 25 años del Proy...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125261-el-arte-de-sanar-y-transformar-vidas-en-cuba-proyecto-palomas.jpg?t=1790918739",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261002/125261/125261-el-arte-de-sanar-y-transformar-vidas-en-cuba-proyecto-palomas",
+      "destacada": false,
+      "tema": "sanar",
+      "fecha": "Fri, 02 Oct 26 07:24:00 +0200",
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Más de mil académicas y académicos del mundo firman en defensa de Cuba",
+      "resumen": "Cubadebate A través de un pronunciamiento, más de 1000 académicas y académicos de más de 36 países d...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125259-mas-de-mil-academicas-y-academicos-del-mundo-firman-en-defensa-de-cuba.jpg?t=1790918462",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261002/125259/125259-mas-de-mil-academicas-y-academicos-del-mundo-firman-en-defensa-de-cuba",
+      "destacada": false,
+      "tema": "académicas",
+      "fecha": "Fri, 02 Oct 26 07:15:00 +0200",
+      "id": 39
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Por qué EEUU está bloqueando negocios privados en Cuba?",
+      "resumen": "Canal Red América Latina.- José González lo explica en SINSONTE....",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125258-por-que-eeuu-esta-bloqueando-negocios-privados-en-cuba.jpg?t=1790918100",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261002/125258/125258-por-que-eeuu-esta-bloqueando-negocios-privados-en-cuba",
+      "destacada": false,
+      "tema": "bloqueando",
+      "fecha": "Fri, 02 Oct 26 07:14:00 +0200",
       "id": 40
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Empresa española rechaza vender pieza de equipo médico a un hospital cubano",
+      "resumen": "Los médicos cubanos enfrentan una batalla silenciosa: salvar vidas mientras enfrentan el bloqueo eco...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125257-empresa-espanola-rechaza-vender-pieza-de-equipo-medico-a-un-hospital-cubano.jpg?t=1790917980",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261002/125257/125257-empresa-espanola-rechaza-vender-pieza-de-equipo-medico-a-un-hospital-cubano",
+      "destacada": false,
+      "tema": "empresa",
+      "fecha": "Fri, 02 Oct 26 07:09:00 +0200",
+      "id": 41
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Transformaciones Económicas en Cuba: 158 medidas ya implementadas y 197 normas jurídicas publicadas",
+      "resumen": "Cuba avanza con 158 de las 176 transformaciones implementadas y 197 normas publicadas. Repaso compl...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125256-transformaciones-economicas-en-cuba-158-medidas-ya-implementadas-y-197-normas-juridicas-publicadas.jpg?t=1790917752",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261002/125256/125256-transformaciones-economicas-en-cuba-158-medidas-ya-implementadas-y-197-normas-juridicas-publicadas",
+      "destacada": false,
+      "tema": "transformaciones",
+      "fecha": "Fri, 02 Oct 26 07:05:00 +0200",
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -534,111 +560,7 @@
       "destacada": false,
       "tema": "llaman",
       "fecha": "Fri, 02 Oct 26 07:01:00 +0200",
-      "id": 41
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Cómo marcha el Programa Integral de Aseguramiento del Abasto de Agua en La Habana?",
-      "resumen": "Visitó Díaz-Canel la Planta Potabilizadora Norte-Habana Alina Perera Rbbio Presidencia Cuba Continú...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125254-como-marcha-el-programa-integral-de-aseguramiento-del-abasto-de-agua-en-la-habana.jpg?t=1790916969",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261002/125254/125254-como-marcha-el-programa-integral-de-aseguramiento-del-abasto-de-agua-en-la-habana",
-      "destacada": false,
-      "tema": "marcha",
-      "fecha": "Fri, 02 Oct 26 06:53:00 +0200",
-      "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Con Filo: Cuba no está sola",
-      "resumen": "Vídeo: Con Filo - En Cubadebate - Muchas son las voces que se alzan, incluso desde el propio Estados...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125250-con-filo-cuba-no-esta-sola.jpg?t=1790834444",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261001/125250/125250-con-filo-cuba-no-esta-sola",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Thu, 01 Oct 26 07:57:00 +0200",
       "id": 43
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Ana María Mari Machado intercambia con grupos parlamentarios del Congreso español",
-      "resumen": "Cubadebate - Imagen: Asamblea Cuba - Ana María Mari Machado, vicepresidenta de la Asamblea Nacional...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125249-ana-maria-mari-machado-intercambia-con-grupos-parlamentarios-del-congreso-espanol.jpg?t=1790834169",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261001/125249/125249-ana-maria-mari-machado-intercambia-con-grupos-parlamentarios-del-congreso-espanol",
-      "destacada": false,
-      "tema": "maría",
-      "fecha": "Thu, 01 Oct 26 07:53:00 +0200",
-      "id": 44
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Cómo afecta la nueva medida de OFAC a las autorizaciones previas a ciudadanos estadounidenses para reuniones o conferencias profesionales en Cuba?",
-      "resumen": "Cubadebate - A partir del 30 de septiembre de 2026, la OFAC modificó la sección 515.564 para elimin...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125248-como-afecta-la-nueva-medida-de-ofac-a-las-autorizaciones-previas-a-ciudadanos-estadounidenses-para-reuniones-o-conferencias-profesionales-en-cuba.jpg?t=1790833951",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261001/125248/125248-como-afecta-la-nueva-medida-de-ofac-a-las-autorizaciones-previas-a-ciudadanos-estadounidenses-para-reuniones-o-conferencias-profesionales-en-cuba",
-      "destacada": false,
-      "tema": "afecta",
-      "fecha": "Thu, 01 Oct 26 07:46:00 +0200",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Parlamento Europeo acoge el evento “Cuba sí, bloqueo no” contra las medidas de EE.UU.",
-      "resumen": "En el Parlamento Europeo se realizó el evento “Cuba sí, bloqueo no”, un espacio de debate que reúne ...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125247-parlamento-europeo-acoge-el-evento-cuba-si-bloqueo-no-contra-las-medidas-de-ee-uu.jpg?t=1790833540",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261001/125247/125247-parlamento-europeo-acoge-el-evento-cuba-si-bloqueo-no-contra-las-medidas-de-ee-uu",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Thu, 01 Oct 26 07:41:00 +0200",
-      "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "De Moscú a La Habana: Quién y por qué alimenta la histeria belicista antirrusa en Europa",
-      "resumen": "Por Randy Alonso Falcón y Oleg Leonov Armas (Cubadebate) - Amenazas, alarmismo y bulos de guerra. Lo...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125246-de-moscu-a-la-habana-quien-y-por-que-alimenta-la-histeria-belicista-antirrusa-en-europa.jpg?t=1790833141",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261001/125246/125246-de-moscu-a-la-habana-quien-y-por-que-alimenta-la-histeria-belicista-antirrusa-en-europa",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Thu, 01 Oct 26 07:34:00 +0200",
-      "id": 47
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Pérez-Oliva: EEUU busca crear una dependencia económica de Cuba en base a la amenaza y el chantaje a compañías extranjeras",
-      "resumen": "Reuters - Cubadebate - Imagen: Gobierno de Cuba.- El vice primer ministro y titular del Comercio Ext...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125245-perez-oliva-eeuu-busca-crear-una-dependencia-economica-de-cuba-en-base-a-la-amenaza-y-el-chantaje-a-companias-extranjeras.jpg?t=1790832798",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261001/125245/125245-perez-oliva-eeuu-busca-crear-una-dependencia-economica-de-cuba-en-base-a-la-amenaza-y-el-chantaje-a-companias-extranjeras",
-      "destacada": false,
-      "tema": "pérez",
-      "fecha": "Thu, 01 Oct 26 07:30:00 +0200",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Reparación de la Guiteras tomará no menos de dos días, afirman especialistas",
-      "resumen": "Cubadebate - Imagen: Girón - Vídeo: Canal Caribe La reparación de la avería detectada en el recalent...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125243-reparacion-de-la-guiteras-tomara-no-menos-de-dos-dias-afirman-especialistas.jpg?t=1790746513",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20260930/125243/125243-reparacion-de-la-guiteras-tomara-no-menos-de-dos-dias-afirman-especialistas",
-      "destacada": false,
-      "tema": "reparación",
-      "fecha": "Wed, 30 Sep 26 07:32:00 +0200",
-      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -651,7 +573,7 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Thu, 01 Oct 2026 15:25:10 +0000",
-      "id": 50
+      "id": 44
     },
     {
       "categoria": "politica",
@@ -664,7 +586,7 @@
       "destacada": false,
       "tema": "recorrió",
       "fecha": "Thu, 01 Oct 2026 15:20:53 +0000",
-      "id": 51
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -677,7 +599,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Thu, 01 Oct 2026 23:43:11 +0000",
-      "id": 52
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -690,7 +612,7 @@
       "destacada": false,
       "tema": "informativa",
       "fecha": "Thu, 01 Oct 2026 17:24:32 +0000",
-      "id": 53
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -703,7 +625,7 @@
       "destacada": false,
       "tema": "orquesta",
       "fecha": "Thu, 01 Oct 2026 15:52:44 +0000",
-      "id": 54
+      "id": 48
     },
     {
       "categoria": "transporte",
@@ -716,7 +638,7 @@
       "destacada": false,
       "tema": "persistirán",
       "fecha": "Thu, 01 Oct 2026 13:31:21 +0000",
-      "id": 55
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -729,7 +651,7 @@
       "destacada": false,
       "tema": "alertan",
       "fecha": "Thu, 01 Oct 2026 12:20:00 +0000",
-      "id": 56
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -742,7 +664,7 @@
       "destacada": false,
       "tema": "octubre",
       "fecha": "Thu, 01 Oct 2026 12:10:00 +0000",
-      "id": 57
+      "id": 51
     },
     {
       "categoria": "salud",
@@ -755,7 +677,7 @@
       "destacada": false,
       "tema": "cubabat",
       "fecha": "Thu, 01 Oct 2026 11:39:00 +0000",
-      "id": 58
+      "id": 52
     }
   ]
 }
