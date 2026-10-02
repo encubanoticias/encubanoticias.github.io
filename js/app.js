@@ -194,10 +194,9 @@ function renderNoticias() {
         <p>${n.resumen}</p>
         <small>${n.fuente} · ${n.fuente_tipo}</small>
         <div class="votacion" data-id="${n.id}">
-          <div class="voto-etiqueta">¿Qué puedes decir de esta noticia?</div>
-          <button class="voto-btn" data-voto="verificado">✅ <span class="voto-num" data-num="verificado">0</span></button>
-          <button class="voto-btn" data-voto="nopuedo">❓ <span class="voto-num" data-num="nopuedo">0</span></button>
-          <button class="voto-btn" data-voto="contradiccion">⚠️ <span class="voto-num" data-num="contradiccion">0</span></button>
+          <button class="voto-btn" data-voto="verificado">✅ Comparto <span class="voto-num" data-num="verificado">0</span></button>
+          <button class="voto-btn" data-voto="nopuedo">❓ No sé <span class="voto-num" data-num="nopuedo">0</span></button>
+          <button class="voto-btn" data-voto="contradiccion">⚠️ No comparto <span class="voto-num" data-num="contradiccion">0</span></button>
           <span class="voto-total"></span>
         </div>
         <br>
