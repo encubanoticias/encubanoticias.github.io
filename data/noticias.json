@@ -1,8 +1,34 @@
 {
   "fecha": "2026-10-02",
-  "hora": "18:06",
-  "total": 67,
+  "hora": "20:04",
+  "total": 55,
   "noticias": [
+    {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Parlamento namibio reiteró solidaridad con Cuba",
+      "resumen": "La Asamblea Nacional de Namibia aprobó, por unanimidad, una moción en apoyo a la Isla ante el recrudecimiento del bloqueo del gobierno de EE. UU.",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-02/parlamento-namibio-reitero-solidaridad-con-cuba-02-10-2026-15-10-55",
+      "destacada": true,
+      "tema": "parlamento",
+      "fecha": "Fri, 02 Oct 2026 15:10:55 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Participa delegación cubana en XII Foro Parlamentario Iberoamericano",
+      "resumen": "Una delegación cubana encabezada&nbsp;por la Vicepresidenta de la Asamblea Nacional del Poder Popular y del Consejo de Estado, Ana María Mari Machado asiste&nbsp;al Duodécimo Foro Parlamentario Iberoamericano, con sede en la capital española",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-01/participa-delegacion-cubana-en-xii-foro-parlamentario-iberoamericano-01-10-2026-19-10-20",
+      "destacada": true,
+      "tema": "participa",
+      "fecha": "Thu, 01 Oct 2026 19:10:20 -0400",
+      "id": 2
+    },
     {
       "categoria": "politica",
       "fuente": "https://www.granma.cu",
@@ -14,59 +40,46 @@
       "destacada": true,
       "tema": "comité",
       "fecha": "Fri, 02 Oct 2026 09:10:44 -0400",
-      "id": 1
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "El Parlamento Europeo acogió el evento ¡Cuba sí, bloqueo no!",
-      "resumen": "Europarlamentarios alzan la voz por la Isla&nbsp;",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-01/el-parlamento-europeo-acogio-el-evento-cuba-si-bloqueo-no-01-10-2026-18-10-06",
-      "destacada": true,
-      "tema": "tipo_cambio",
-      "fecha": "Thu, 01 Oct 2026 18:10:06 -0400",
-      "id": 2
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Académicos de 36 países denuncian el bloqueo",
-      "resumen": "El documento exhorta a no guardar silencio cómplice ante los crímenes que, de manera sistemática y generalizada, perpetra el gobierno de Estados Unidos en contra del pueblo de Cuba",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-01/academicos-de-36-paises-denuncian-el-bloqueo-01-10-2026-17-10-02",
-      "destacada": true,
-      "tema": "académicos",
-      "fecha": "Thu, 01 Oct 2026 17:10:02 -0400",
       "id": 3
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba, puerta abierta al mundo en materia de inversión extranjera",
-      "resumen": "La Habana, 2 oct (Prensa Latina) Con el objetivo de transformar y dinamizar la inversión extranjera ya están aprobadas nuevas normas legales del comercio exterior de Cuba, publicadas hoy en la gaceta oficial de la república. The post Cuba, puerta abierta al mundo en materia de inversión extranjera f",
+      "titulo": "Naykel Cruz, motivado por regreso a béisbol cubano con Matanzas",
+      "resumen": "Matanzas, Cuba, 2 oct (Prensa Latina) El pelotero Naykel Cruz destacó hoy sentirse motivado por regresar al béisbol cubano con el equipo de los Cocodrilos de Matanzas, actuales campeones de la Serie Nacional. The post Naykel Cruz, motivado por regreso a béisbol cubano con Matanzas first appeared on ",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/02/cuba-puerta-abierta-al-mundo-en-materia-de-inversion-extranjera/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/02/naykel-cruz-motivado-por-regreso-a-beisbol-cubano-con-matanzas/",
       "destacada": true,
-      "tema": "puerta",
-      "fecha": "Fri, 02 Oct 2026 17:52:45 +0000",
+      "tema": "naykel",
+      "fecha": "Fri, 02 Oct 2026 20:02:11 +0000",
       "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Convocan en Cuba a concurso fotográfico sobre Japón",
+      "resumen": "La Habana, 2 oct (Prensa Latina) Cuba podrá participar en el Concurso de Calendario de Fotos 2027, centrado en \"Japón en mi país\", que convoca hoy la Red de Enseñanza del Idioma Japonés en América Central y el Caribe (RCCJ). The post Convocan en Cuba a concurso fotográfico sobre Japón first appeared",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/02/convocan-en-cuba-a-concurso-fotografico-sobre-japon/",
+      "destacada": true,
+      "tema": "convocan",
+      "fecha": "Fri, 02 Oct 2026 19:39:07 +0000",
+      "id": 5
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
       "titulo": "La Guardia Costera de EE UU intercepta un buque con combustible rumbo a Cuba",
-      "resumen": "Washington asegura que es el segundo barco que aborda en los últimos meses por transportar hidrocarburos de forma ilícita a la Isla",
+      "resumen": "Washington asegura que es el segundo barco que aborda en los últimos meses por transportar hidrocarburos de origen \"ilícito\"",
       "imagen_url": "https://static.14ymedio.com/clip/e12f2232-ed72-4c6e-a7b2-cd348e73e0d2_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/guardia-costera-ee-uu-intercepta_1_1131462.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "guardia",
       "fecha": "Fri, 02 Oct 2026 18:06:59 +0000",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -79,7 +92,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Fri, 02 Oct 2026 16:14:52 +0000",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Fri, 02 Oct 2026 09:45:54 +0000",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -105,7 +118,7 @@
       "destacada": false,
       "tema": "dictan",
       "fecha": "Thu, 01 Oct 2026 17:31:57 +0000",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -118,7 +131,7 @@
       "destacada": false,
       "tema": "ventas",
       "fecha": "Wed, 30 Sep 2026 20:16:33 +0000",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -131,85 +144,98 @@
       "destacada": false,
       "tema": "socia",
       "fecha": "Wed, 30 Sep 2026 21:03:34 +0000",
-      "id": 10
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubanos en proceso de Ajuste: qué documentos exige Florida para obtener licencia o identificación",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e13-s27061-nid341720-cubanos-proceso-ajuste-documentos-exige-florida-obtener",
-      "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Fri, 02 Oct 2026 18:58:18 +0200",
       "id": 11
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Régimen cubano amplía las causas para cancelar licencias a empresas extranjeras",
+      "titulo": "Detienen a hombre tras protestar frente al Capitolio de La Habana con carteles contra la dictadura",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e199894-s27061-nid341717-regimen-cubano-amplia-causas-cancelar-licencias",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e208574-s27061-nid341733-detienen-hombre-tras-protestar-frente-al-capitolio",
       "destacada": false,
-      "tema": "régimen",
-      "fecha": "Fri, 02 Oct 2026 18:50:18 +0200",
+      "tema": "detienen",
+      "fecha": "Fri, 02 Oct 2026 20:57:06 +0200",
       "id": 12
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Régimen cubano autoriza a empresas extranjeras a contratar directamente a sus trabajadores",
+      "titulo": "Jurista cubano: «Somos hoy una sociedad paralizada por el subdesarrollo político»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e208574-s27061-nid341713-regimen-cubano-autoriza-empresas-extranjeras",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e209395-s27061-nid341724-jurista-cubano-somos-hoy-sociedad-paralizada",
       "destacada": false,
-      "tema": "régimen",
-      "fecha": "Fri, 02 Oct 2026 18:34:20 +0200",
+      "tema": "jurista",
+      "fecha": "Fri, 02 Oct 2026 20:43:50 +0200",
       "id": 13
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "¡Pura emoción! El conmovedor momento en que una abuela ciega reconoce a su nieta tras regresar a Cuba",
+      "titulo": "La BBC pone el foco en los millonarios cubanoamericanos de Miami que preparan su capital para una Cuba sin dictadura",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u65722-e65722-s27065-nid341716-pura-emocion-conmovedor-momento-abuela-ciega",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e199894-s27061-nid341730-bbc-pone-foco-millonarios-cubanoamericanos-miami",
       "destacada": false,
-      "tema": "emoción",
-      "fecha": "Fri, 02 Oct 2026 18:32:14 +0200",
+      "tema": "millonarios",
+      "fecha": "Fri, 02 Oct 2026 20:37:27 +0200",
       "id": 14
     },
     {
-      "categoria": "energia",
+      "categoria": "politica",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Septiembre en Cuba: 11 muertes violentas, 136 actos de represión y 32 horas de apagón",
+      "titulo": "Díaz-Canel defiende el rumbo de las reformas económicas: \"No vamos a detenernos\"",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e135253-s27061-nid341711-septiembre-cuba-11-muertes-violentas-136-actos",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e199894-s27061-nid341727-diaz-canel-defiende-rumbo-reformas-economicas-vamos",
       "destacada": false,
-      "tema": "septiembre",
-      "fecha": "Fri, 02 Oct 2026 18:03:15 +0200",
+      "tema": "canel",
+      "fecha": "Fri, 02 Oct 2026 19:59:53 +0200",
       "id": 15
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Gobierno reordena el mapa minero de Cuba: extingue y prorroga concesiones",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e199894-s27061-nid341725-gobierno-reordena-mapa-minero-cuba-extingue-prorroga",
+      "destacada": false,
+      "tema": "gobierno",
+      "fecha": "Fri, 02 Oct 2026 19:51:16 +0200",
+      "id": 16
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubano llega a Cuba después de 7 años y se reencuentra con su padre en un emotivo abrazo",
+      "titulo": "De trabajar escondido en Cuba a construir un legado familiar en Miami",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u65722-e65722-s27065-nid341710-cubano-llega-cuba-despues-7-anos-reencuentra",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e135253-s27061-nid341726-trabajar-escondido-cuba-construir-legado-familiar",
       "destacada": false,
-      "tema": "cubano",
-      "fecha": "Fri, 02 Oct 2026 17:58:56 +0200",
-      "id": 16
+      "tema": "trabajar",
+      "fecha": "Fri, 02 Oct 2026 19:43:59 +0200",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Régimen cubano amplía los negocios permitidos a sucursales extranjeras",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e199894-s27061-nid341722-regimen-cubano-amplia-negocios-permitidos-sucursales",
+      "destacada": false,
+      "tema": "régimen",
+      "fecha": "Fri, 02 Oct 2026 19:31:56 +0200",
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -222,7 +248,7 @@
       "destacada": false,
       "tema": "parapesas",
       "fecha": "Fri, 02 Oct 2026 16:29:51 +0000",
-      "id": 17
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -235,7 +261,7 @@
       "destacada": false,
       "tema": "ratificadas",
       "fecha": "Fri, 02 Oct 2026 16:19:07 +0000",
-      "id": 18
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -248,20 +274,20 @@
       "destacada": false,
       "tema": "cultura",
       "fecha": "Thu, 01 Oct 2026 21:52:18 +0000",
-      "id": 19
+      "id": 21
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Inaugurarán en Ciego de Ávila exposición de grabados dedicada al Comandante en Jefe",
-      "resumen": "Bajo la responsabilidad del grabador y artista plástico Héctor José Torres González, la propuesta pretende acercar al público a distintas facetas de la vida y la obra del líder histórico de la Revolución cubana",
+      "titulo": "Delcy Rodríguez no pidió reunirse con Cuba, Rusia y China en la ONU, se queja Moscú",
+      "resumen": "Los aliados del #chavismo no ocultan su frustración con la postura distante de #DelcyRodríguez, antes cercana a La Habana, Moscú, Pekín y Teherán.",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261001/inauguraran-en-ciego-de-avila-exposicion-de-grabados-dedicada-al-comandante-en-jefe/",
+      "enlace_original": "https://diariodecuba.com/internacional/1790966862_69228.html",
       "destacada": false,
-      "tema": "inaugurarán",
-      "fecha": "Thu, 01 Oct 2026 19:30:16 +0000",
-      "id": 20
+      "tema": "delcy",
+      "fecha": "Fri, 02 Oct 2026 20:47:42 +0200",
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -274,7 +300,7 @@
       "destacada": false,
       "tema": "pancho",
       "fecha": "Fri, 02 Oct 2026 18:42:12 +0200",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -287,7 +313,7 @@
       "destacada": false,
       "tema": "méxico",
       "fecha": "Fri, 02 Oct 2026 18:28:05 +0200",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "feminicidios",
       "fecha": "Fri, 02 Oct 2026 18:14:32 +0200",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "condena",
       "fecha": "Fri, 02 Oct 2026 17:58:21 +0200",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "salud",
@@ -326,7 +352,7 @@
       "destacada": false,
       "tema": "falleció",
       "fecha": "Fri, 02 Oct 2026 16:55:50 +0200",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -339,7 +365,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Fri, 02 Oct 2026 15:04:06 +0200",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "politica",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Fri, 02 Oct 2026 13:27:28 +0200",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -365,163 +391,72 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Fri, 02 Oct 2026 13:08:22 +0200",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Editorial: ¿Punto de giro para los evangélicos cubanos?",
-      "resumen": "El juicio contra la creadora de contenido cristiana #AnnaBensi y su madre ha provocado reacciones en las #IglesiasEvangélicas legalmente reconocidas en #Cuba. ¿Estamos ante un punto de giro? Lee nuestro editorial.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/foro-ddc/1790938162_69220.html",
-      "destacada": false,
-      "tema": "editorial",
-      "fecha": "Fri, 02 Oct 2026 12:49:22 +0200",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "EEUU intercepta buque con combustible oculto que se dirigía a Cuba",
-      "resumen": "La Guardia Costera de Estados Unidos informó este viernes que interceptó el buque mercante Grace, que llevaba combustible hacia Cuba, en una operación coordinada con México que permitió frenar una presunta transferencia ilegal en el mar Caribe.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/eeuu-intercepta-buque-con-combustible-oculto-que-se-dirig%c3%ada-a-cuba/481162.html",
-      "destacada": false,
-      "tema": "intercepta",
-      "fecha": "Fri, 02 Oct 2026 13:39:32 -0400",
       "id": 30
     },
     {
-      "categoria": "sociedad",
+      "categoria": "energia",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El futuro es ya",
-      "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
+      "titulo": "Las Noticias Como Son",
+      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/el-futuro-es-ya/481153.html",
+      "enlace_original": "https://www.martinoticias.com/a/480058.html",
       "destacada": false,
-      "tema": "futuro",
-      "fecha": "Fri, 02 Oct 2026 13:29:32 -0400",
+      "tema": "noticias",
+      "fecha": "Fri, 02 Oct 2026 16:00:30 -0400",
       "id": 31
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero Martí Noticias",
-      "resumen": "-Fiscalía pide hasta 10 años de cárcel para los jóvenes de El4tico. -La condena de Anna Bensi y su madre genera rechazo dentro y fuera de Cuba. -Canadá pudiera reabrir expedientes del Síndrome de La Habana.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Expertos cubanos recorren playa Cajío para futuro proyecto ambiental",
+      "resumen": "Un grupo de ambientalistas cubanos visitó con carácter exploratorio áreas de la playa Cajío, en el sur de la vecina provincia de Artemisa, que constituye el primer paso de un proyecto por emprender con la asistencia técnica de instituciones nacionales y el apoyo del Fondo del Organismo para las Migr",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/noticiero-mart%c3%ad-noticias/481159.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/02/expertos-cubanos-recorren-playa-cajio-para-futuro-proyecto-ambiental/",
       "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Fri, 02 Oct 2026 13:27:31 -0400",
+      "tema": "expertos",
+      "fecha": "Fri, 02 Oct 2026 19:24:26 +0000",
       "id": 32
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Así esperaron a Anna Bensi a las afueras del Tribunal",
-      "resumen": "Cubanos de diversas denominaciones religiosas se reunieron para orar por Anna Sofía Benítez y su madre, Caridad Silvente, durante la audiencia. En el día de ayer el tribunal les comunicó verbalmente una condena de dos años de limitación de libertad para cada una.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Planta de aceite de coco se incorpora a BioCubaCafé",
+      "resumen": "La planta extractora de aceite de coco de Baracoa, única de su tipo en Cuba, se incorporó a la gestión de BioCubaCafé S.A., empresa mixta creada en 2023 en Santiago de Cuba con participación de Agroforestal S.A. y socios italianos. La decisión responde a la necesidad de disponer de un aceite apto pa",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/as%c3%ad-esperaron-a-anna-bensi-a-las-afueras-del-tribunal/481158.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/02/planta-de-aceite-de-coco-se-incorpora-a-biocubacafe/",
       "destacada": false,
-      "tema": "esperaron",
-      "fecha": "Fri, 02 Oct 2026 13:04:37 -0400",
+      "tema": "planta",
+      "fecha": "Fri, 02 Oct 2026 18:40:26 +0000",
       "id": 33
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Jueza vuelve al centro de la polémica tras condena a Anna Sofía Benítez y su madre",
-      "resumen": "Zamira Marrero Morgado, actual presidenta del Tribunal Municipal Popular de La Habana del Este, volvió a quedar en el centro de la polémica tras encabezar el tribunal que declaró culpables a Anna Sofía Benítez Silvente y a su madre, Caridad Silvente.",
+      "categoria": "transporte",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "EE.UU. confirma que mantiene bloqueo naval de combustibles para impedir su entrada a Cuba",
+      "resumen": "La Guardia Costera de Estados Unidos confirmó que interceptó en alta mar un buque de carga que, según las autoridades estadounidenses, transportaba combustible con destino a Cuba. El episodio constituye una nueva evidencia de la aplicación por vía marítima de la política estadounidense destinada a r",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/jueza-vuelve-al-centro-de-la-pol%c3%a9mica-tras-condena-a-anna-sof%c3%ada-ben%c3%adtez-y-su-madre/481161.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/02/ee-uu-confirma-que-mantiene-bloqueo-naval-de-combustibles-para-impedir-su-entrada-a-cuba/",
       "destacada": false,
-      "tema": "jueza",
-      "fecha": "Fri, 02 Oct 2026 12:55:34 -0400",
+      "tema": "confirma",
+      "fecha": "Fri, 02 Oct 2026 18:29:13 +0000",
       "id": 34
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Martí Noticias AM",
-      "resumen": "Revista informativa con los últimos acontecimientos ocurridos en Cuba y el mundo. Con entrevistas y temas de actualidad relacionados a la política, la economía y de interés general.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/mart%c3%ad-noticias-am/481148.html",
-      "destacada": false,
-      "tema": "martí",
-      "fecha": "Fri, 02 Oct 2026 12:32:16 -0400",
-      "id": 35
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Feminicida reincide al asesinar a una testigo de Jehová mientras predicaba en Taco Taco, Artemisa",
-      "resumen": "Idania Castillo Sacre, asesinada por un hombre que ya había sido condenado por matar a otra mujer, reaviva en Cuba el debate sobre la prevención de la violencia machista.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/feminicida-reincide-al-asesinar-a-una-testigo-de-jehov%c3%a1-mientras-predicaba-en-taco-taco-artemisa/481151.html",
-      "destacada": false,
-      "tema": "feminicida",
-      "fecha": "Fri, 02 Oct 2026 12:17:25 -0400",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 12:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480048.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Fri, 02 Oct 2026 12:00:00 -0400",
-      "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "“La cobardía del régimen cubano no tiene límites”: EEUU condena la sentencia contra Anna Bensi y su madre",
-      "resumen": "\"Una vez más, actúan movidos por el miedo y censuran a cualquiera que exprese opiniones distintas a las de su fracasada revolución\", dijo el secretario adjunto de Estado de Estados Unidos para Asuntos del Hemisferio Occidental, Juan Pablo Segura.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/la-cobard%c3%ada-del-r%c3%a9gimen-cubano-no-tiene-l%c3%admites-eeuu-condena-la-sentencia-contra-anna-bensi-y-su-madre/481156.html",
-      "destacada": false,
-      "tema": "cobardía",
-      "fecha": "Fri, 02 Oct 2026 11:55:28 -0400",
-      "id": 38
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barrio adentro",
-      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480046.html",
-      "destacada": false,
-      "tema": "barrio",
-      "fecha": "Fri, 02 Oct 2026 11:30:00 -0400",
-      "id": 39
     },
     {
       "categoria": "politica",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
       "titulo": "Díaz-Canel sobre las Transformaciones: “Es fuerte el desafío, pero no vamos a detenernos”",
-      "resumen": "Tras una larga pausa de meses, vuelve a las redes y a la televisión cubana, el podcast #DesdeLaPresidencia que dirige y conduce el Primer Secretario del Partido y Presidente de la República, Miguel Díaz Canel Bermúdez. En la primera emisión de esta suerte de segunda temporada, comparecen el Primer M",
+      "resumen": "Tras una larga pausa de meses, vuelve a las redes y a la televisión, el podcast “Desde la Presidencia” que dirige y conduce el primer secretario del Partido y presidente de la República, Miguel Díaz-Canel. En la primera emisión de esta segunda temporada, comparecieron el primer ministro Manuel Marre",
       "imagen_url": "",
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/02/diaz-canel-sobre-las-transformaciones-es-fuerte-el-desafio-pero-no-vamos-a-detenernos/",
       "destacada": false,
       "tema": "canel",
       "fecha": "Fri, 02 Oct 2026 17:07:11 +0000",
-      "id": 40
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -534,7 +469,7 @@
       "destacada": false,
       "tema": "empresas",
       "fecha": "Fri, 02 Oct 2026 16:18:42 +0000",
-      "id": 41
+      "id": 36
     },
     {
       "categoria": "economia",
@@ -547,72 +482,7 @@
       "destacada": false,
       "tema": "sabes",
       "fecha": "Fri, 02 Oct 2026 16:17:15 +0000",
-      "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Este domingo en Cuadrando la Caja, \"Nuevas reglas, viejos reclamos: ¿qué cambia para el sector no estatal?\"",
-      "resumen": "Las transformaciones económicas y sociales en Cuba abren un nuevo escenario para los actores económicos no estatales. Más posibilidades de contratación, menos trámites, nuevas actividades y mayores responsabilidades. ¿Significan estos cambios más oportunidades para emprender, producir y aportar a la",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/02/este-domingo-en-cuadrando-la-caja-nuevas-reglas-viejos-reclamos-que-cambia-para-el-sector-no-estatal/",
-      "destacada": false,
-      "tema": "domingo",
-      "fecha": "Fri, 02 Oct 2026 12:21:32 +0000",
-      "id": 43
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Tribunal Supremo ratifica condenas de hasta 20 años por sabotaje al sistema eléctrico en Lácteo de La Habana",
-      "resumen": "La Sala de los Delitos contra la Seguridad del Estado confirmó las condenas atendiendo al grado de participación y las consecuencias económicas, que ascendieron a más de 10 millones de pesos. The post Tribunal Supremo ratifica condenas de hasta 20 años por sabotaje al sistema eléctrico en Lácteo de ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/02/tribunal-supremo-ratifica-condenas-de-hasta-20-anos-por-sabotaje-al-sistema-electrico-en-lacteo-de-la-habana/",
-      "destacada": false,
-      "tema": "tribunal",
-      "fecha": "Fri, 02 Oct 2026 11:59:14 +0000",
-      "id": 44
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Vuelve este viernes, “Desde la Presidencia” sobre proceso de transformaciones",
-      "resumen": "Tras una larga pausa de meses, vuelve a las redes y a la televisión cubana, el podcast Desde la Presidencia que dirige y conduce el Primer Secretario del Partido y Presidente de la República, Miguel Díaz Canel Bermúdez. En la primera emisión de esta suerte de segunda temporada, comparecen el Primer ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/02/vuelve-este-viernes-desde-la-presidencia-sobre-proceso-de-transformaciones/",
-      "destacada": false,
-      "tema": "vuelve",
-      "fecha": "Fri, 02 Oct 2026 11:43:45 +0000",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Díaz-Canel destaca el protagonismo del pueblo y sus organizaciones para construir una sociedad mejor",
-      "resumen": "El presidente de la República de Cuba, Miguel Díaz-Canel Bermúdez, sostuvo un encuentro con representantes de organismos, instituciones, asociaciones, líderes barriales y otros actores vinculados directamente a las Transformaciones Económicas y Sociales que se ejecutan en la mayor de las Antillas. T",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/01/diaz-canel-destaca-el-protagonismo-del-pueblo-y-sus-organizaciones-para-construir-una-sociedad-mejor/",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Thu, 01 Oct 2026 19:54:39 +0000",
-      "id": 46
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Más de 1000 intelectuales y personalidades en defensa de Cuba",
-      "resumen": "A través de un pronunciamiento, más de 1000 académicas y académicos de más de 36 países de América, Europa, Asia, Oceanía y África hacen público un llamado a sus pares en el mundo a “no guardar un silencio cómplice ante los crímenes que, de manera sistemática y generalizada, perpetra el gobierno de ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/01/mas-de-100-intelectuales-y-personalidades-en-defensa-de-cuba/",
-      "destacada": false,
-      "tema": "intelectuales",
-      "fecha": "Thu, 01 Oct 2026 19:23:44 +0000",
-      "id": 47
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -625,7 +495,7 @@
       "destacada": false,
       "tema": "pequeño",
       "fecha": "Fri, 02 Oct 26 16:56:00 +0200",
-      "id": 48
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -638,7 +508,7 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Fri, 02 Oct 26 16:45:00 +0200",
-      "id": 49
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -651,7 +521,7 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Fri, 02 Oct 26 15:24:00 +0200",
-      "id": 50
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -664,7 +534,7 @@
       "destacada": false,
       "tema": "dignidad",
       "fecha": "Fri, 02 Oct 26 13:51:00 +0200",
-      "id": 51
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -677,7 +547,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 02 Oct 26 12:55:00 +0200",
-      "id": 52
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -690,7 +560,7 @@
       "destacada": false,
       "tema": "máscaras",
       "fecha": "Fri, 02 Oct 26 08:12:00 +0200",
-      "id": 53
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -703,7 +573,7 @@
       "destacada": false,
       "tema": "klaudia",
       "fecha": "Fri, 02 Oct 26 08:12:00 +0200",
-      "id": 54
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -716,7 +586,7 @@
       "destacada": false,
       "tema": "llevó",
       "fecha": "Fri, 02 Oct 26 08:11:00 +0200",
-      "id": 55
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -729,7 +599,7 @@
       "destacada": false,
       "tema": "tennessee",
       "fecha": "Fri, 02 Oct 26 08:09:00 +0200",
-      "id": 56
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -742,7 +612,7 @@
       "destacada": false,
       "tema": "bloqueos",
       "fecha": "Fri, 02 Oct 26 08:08:00 +0200",
-      "id": 57
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -755,7 +625,7 @@
       "destacada": false,
       "tema": "orgullo",
       "fecha": "Fri, 02 Oct 2026 17:06:36 +0000",
-      "id": 58
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -768,7 +638,7 @@
       "destacada": false,
       "tema": "invicta",
       "fecha": "Fri, 02 Oct 2026 15:42:06 +0000",
-      "id": 59
+      "id": 49
     },
     {
       "categoria": "politica",
@@ -781,7 +651,7 @@
       "destacada": false,
       "tema": "refuerza",
       "fecha": "Fri, 02 Oct 2026 13:28:00 +0000",
-      "id": 60
+      "id": 50
     },
     {
       "categoria": "politica",
@@ -794,7 +664,7 @@
       "destacada": false,
       "tema": "retoma",
       "fecha": "Fri, 02 Oct 2026 13:06:00 +0000",
-      "id": 61
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -807,7 +677,7 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Thu, 01 Oct 2026 15:25:10 +0000",
-      "id": 62
+      "id": 52
     },
     {
       "categoria": "politica",
@@ -820,7 +690,7 @@
       "destacada": false,
       "tema": "recorrió",
       "fecha": "Thu, 01 Oct 2026 15:20:53 +0000",
-      "id": 63
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -833,46 +703,20 @@
       "destacada": false,
       "tema": "delegación",
       "fecha": "Thu, 01 Oct 2026 15:16:37 +0000",
-      "id": 64
+      "id": 54
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
+      "fuente": "https://giron.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "Plaza Viva para la edad tercera",
-      "resumen": "En la actividad de cierre de la Jornada de las personas adultas mayores en el Centro Histórico habrá feria, música y exposiciones La entrada Plaza Viva para la edad tercera se publicó primero en Tribuna de La Habana.",
+      "titulo": "Mundial de Béisbol sub-15: un nuevo examen suspenso",
+      "resumen": "Existen resultados que, por esperados, no dejan de sorprender a los amantes del béisbol cubano en cualquiera de sus categorías.",
       "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/plaza-viva-para-la-edad-tercera/",
+      "enlace_original": "https://giron.cu/2026/10/02/mundial-de-beisbol-sub-15/",
       "destacada": false,
-      "tema": "plaza",
-      "fecha": "Fri, 02 Oct 2026 17:20:09 +0000",
-      "id": 65
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Habana envejece y el desafío ya está en las calles",
-      "resumen": "Más de 491 000 habaneros tienen 60 años o más, según la distribución de la población por grupos de edad. Las mujeres representan casi 58 por ciento de ese segmento, mientras la ciudad enfrenta el reto de adaptar sus servicios, espacios y sistemas de cuidados a una estructura demográfica cada vez más",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/la-habana-envejece-y-el-desafio-ya-esta-en-las-calles/",
-      "destacada": false,
-      "tema": "habana",
-      "fecha": "Thu, 01 Oct 2026 23:43:11 +0000",
-      "id": 66
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Nota informativa: ¡Alerta sobre noticias falsas!",
-      "resumen": "Ante una publicación que está circulando en redes sociales sobre una supuesta \"suspensión temporal del abasto de agua, el Equipo de Comunicación de Aguas de La Habana informa que esta información no corresponde a la capital La entrada Nota informativa: ¡Alerta sobre noticias falsas! se publicó prime",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/nota-informativa-alerta-sobre-noticias-falsas/",
-      "destacada": false,
-      "tema": "informativa",
-      "fecha": "Thu, 01 Oct 2026 17:24:32 +0000",
-      "id": 67
+      "tema": "mundial",
+      "fecha": "Fri, 02 Oct 2026 13:16:00 +0000",
+      "id": 55
     }
   ]
 }
