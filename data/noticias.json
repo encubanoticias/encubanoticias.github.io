@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-10-01",
-  "hora": "23:26",
-  "total": 54,
+  "fecha": "2026-10-02",
+  "hora": "01:07",
+  "total": 58,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -46,6 +46,19 @@
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
+      "titulo": "Cuba evoca al poeta Cintio Vitier a 17 años de su fallecimiento",
+      "resumen": "La Habana, 1 oct (Prensa Latina) Cuba, qué hermoso legado te deja este hijo tuyo que para siempre está en la memoria de su pueblo, citó hoy la Casa Vitier García Marruz al historiador Eusebio Leal, en el aniversario luctuoso del poeta Cintio Vitier. The post Cuba evoca al poeta Cintio Vitier a 17 añ",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/01/cuba-evoca-al-poeta-cintio-vitier-a-17-anos-de-su-fallecimiento/",
+      "destacada": true,
+      "tema": "evoca",
+      "fecha": "Fri, 02 Oct 2026 00:41:43 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
       "titulo": "Los adultos mayores, eje central del evento Plaza Viva en La Habana",
       "resumen": "La Habana, 1 oct (Prensa Latina) Por iniciativa de la Oficina del Historiador de la Ciudad de La Habana (OHCH), alistan hoy la Plaza Vieja, del capitalino centro histórico, para acoger este sábado a Plaza Viva, jornada cultural comunitaria para los adultos mayores. The post Los adultos mayores, eje ",
       "imagen_url": "",
@@ -53,7 +66,7 @@
       "destacada": true,
       "tema": "adultos",
       "fecha": "Thu, 01 Oct 2026 23:21:03 +0000",
-      "id": 4
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -63,10 +76,10 @@
       "resumen": "Los cuatro procesados fueron acusados de \"sabotaje\", con los agravantes de hacerlo en grupo, con \"nocturnidad\" y por un \"beneficio económico\"",
       "imagen_url": "https://static.14ymedio.com/clip/43b95f4e-3942-4d4b-8553-a4967a76faee_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/dictan-condenas-20-anos-prision_1_1131420.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "dictan",
       "fecha": "Thu, 01 Oct 2026 17:31:57 +0000",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "politica",
@@ -79,7 +92,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Thu, 01 Oct 2026 19:50:30 +0000",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "documental",
       "fecha": "Thu, 01 Oct 2026 19:38:48 +0000",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -105,7 +118,7 @@
       "destacada": false,
       "tema": "ventas",
       "fecha": "Wed, 30 Sep 2026 20:16:33 +0000",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -118,7 +131,7 @@
       "destacada": false,
       "tema": "socia",
       "fecha": "Wed, 30 Sep 2026 21:03:34 +0000",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "derrumbe",
       "fecha": "Wed, 30 Sep 2026 15:29:08 +0000",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -144,7 +157,7 @@
       "destacada": false,
       "tema": "feminicidio",
       "fecha": "Wed, 30 Sep 2026 22:07:00 +0000",
-      "id": 11
+      "id": 12
     },
     {
       "categoria": "politica",
@@ -157,85 +170,124 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Wed, 30 Sep 2026 12:38:25 +0000",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Ventanitas, balcones y casas de 1922: los vecinos de la Pequeña Habana deciden esta semana qué no se puede perder del barrio",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e199894-s27061-nid341659-ventanitas-balcones-casas-1922-vecinos-pequena",
-      "destacada": false,
-      "tema": "ventanitas",
-      "fecha": "Fri, 02 Oct 2026 00:53:12 +0200",
       "id": 13
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel: \"Seguimos trabajando por una mejor sociedad\" en Cuba",
+      "titulo": "Economista cubana: «La salida es que Cuba deje de ser una finca de militares»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e197721-s27061-nid341662-diaz-canel-seguimos-trabajando-mejor-sociedad-cuba",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e197721-s27061-nid341671-economista-cubana-salida-cuba-deje-ser-finca",
       "destacada": false,
-      "tema": "canel",
-      "fecha": "Fri, 02 Oct 2026 00:36:09 +0200",
+      "tema": "economista",
+      "fecha": "Fri, 02 Oct 2026 01:56:33 +0200",
       "id": 14
     },
     {
-      "categoria": "salud",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Hallan restos humanos en vertedero donde buscaban a médico cubano desaparecido en Madrid",
+      "titulo": "Supremo Consejo Masónico Grado 33 en Cuba denuncia sitio policial y cuentas bancarias congeladas",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e208933-s27061-nid341648-hallan-restos-humanos-vertedero-donde-buscaban",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e199894-s27061-nid341670-supremo-consejo-masonico-grado-33-cuba-denuncia",
       "destacada": false,
-      "tema": "hallan",
-      "fecha": "Fri, 02 Oct 2026 00:19:51 +0200",
+      "tema": "supremo",
+      "fecha": "Fri, 02 Oct 2026 01:47:48 +0200",
       "id": 15
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubanos se concentran en Washington con un mensaje para Trump: «Acciones y no palabras»",
+      "titulo": "«Qué clase de estafa si nunca hay conexión»: Cubanos ante promoción de ETECSA",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-01-u1-e208933-s27061-nid341655-cubanos-concentran-washington-mensaje-trump-acciones",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e197721-s27061-nid341669-clase-estafa-nunca-hay-conexion-cubanos-promocion",
       "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Thu, 01 Oct 2026 23:30:11 +0200",
+      "tema": "clase",
+      "fecha": "Fri, 02 Oct 2026 01:41:06 +0200",
       "id": 16
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "1898 bajo la mirada de los historiadores cubanos",
+      "titulo": "Cuba llega a 55 feminicidios en 2026 tras asesinato de madre de cuatro niñas en Camagüey",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-01-u209407-e192519-s27068-nid341656-1898-bajo-mirada-historiadores-cubanos",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u1-e208933-s27061-nid341660-cuba-llega-55-feminicidios-2026-tras-madre-cuatro",
       "destacada": false,
-      "tema": "mirada",
-      "fecha": "Thu, 01 Oct 2026 23:24:26 +0200",
+      "tema": "llega",
+      "fecha": "Fri, 02 Oct 2026 01:39:50 +0200",
       "id": 17
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Aroldis Chapman impone récord para Cuba al disputar su décima postemporada en MLB",
+      "titulo": "Grabar no puede ser delito; el doble rasero de la justicia cubana: Anna Bensi y Alina Bárbara López",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-01-u1-e197721-s27066-nid341654-aroldis-chapman-impone-record-cuba-al-disputar",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-02-u172318-e199854-s27068-nid341668-grabar-puede-ser-delito-doble-rasero-justicia",
       "destacada": false,
-      "tema": "aroldis",
-      "fecha": "Thu, 01 Oct 2026 22:59:09 +0200",
+      "tema": "grabar",
+      "fecha": "Fri, 02 Oct 2026 01:38:49 +0200",
       "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cultura y Manjares: cofradía por la ancianidad",
+      "resumen": "Este 1ro de octubre, en un parque de Bauta las emociones rosan el alma al celebrar el Día Mundial de las Personas Mayores; que, según la Oficina Nacional de Estadística e Información, al cierre de 2025 eran 2 millones 519 mil 823 cubanos con 60 años y más",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261001/cultura-y-manjares-cofradia-por-la-ancianidad/",
+      "destacada": false,
+      "tema": "cultura",
+      "fecha": "Thu, 01 Oct 2026 21:52:18 +0000",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Inaugurarán en Ciego de Ávila exposición de grabados dedicada al Comandante en Jefe",
+      "resumen": "Bajo la responsabilidad del grabador y artista plástico Héctor José Torres González, la propuesta pretende acercar al público a distintas facetas de la vida y la obra del líder histórico de la Revolución cubana",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261001/inauguraran-en-ciego-de-avila-exposicion-de-grabados-dedicada-al-comandante-en-jefe/",
+      "destacada": false,
+      "tema": "inaugurarán",
+      "fecha": "Thu, 01 Oct 2026 19:30:16 +0000",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Por el equilibrio del mundo regresará a La Habana en 2028",
+      "resumen": "Convocan VII Conferencia Internacional Por el equilibrio del mundo para 2028",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261001/por-el-equilibrio-del-mundo-regresa-a-la-habana/",
+      "destacada": false,
+      "tema": "equilibrio",
+      "fecha": "Thu, 01 Oct 2026 15:47:17 +0000",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Presentarán Sensaciones, de Reinaldo Montero en el Sábado del Libro",
+      "resumen": "El Instituto Cubano del Libro invita a descubrir una novela que combina recursos narrativos sutiles, situaciones reconocibles, un lenguaje de notable libertad expresiva y un desenlace destinado a revelar la dimensión dramática que se esconde tras el divertimento",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20260930/presentaran-sensaciones-de-reinaldo-montero-en-el-sabado-del-libro/",
+      "destacada": false,
+      "tema": "presentarán",
+      "fecha": "Wed, 30 Sep 2026 18:45:57 +0000",
+      "id": 22
     },
     {
       "categoria": "economia",
@@ -248,7 +300,7 @@
       "destacada": false,
       "tema": "familias",
       "fecha": "Fri, 02 Oct 2026 00:11:29 +0200",
-      "id": 19
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -261,7 +313,7 @@
       "destacada": false,
       "tema": "diputado",
       "fecha": "Thu, 01 Oct 2026 23:33:39 +0200",
-      "id": 20
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -274,7 +326,7 @@
       "destacada": false,
       "tema": "esperanza",
       "fecha": "Thu, 01 Oct 2026 22:52:27 +0200",
-      "id": 21
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -287,7 +339,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Thu, 01 Oct 2026 21:28:12 +0200",
-      "id": 22
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -300,7 +352,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 01 Oct 2026 21:07:25 +0200",
-      "id": 23
+      "id": 27
     },
     {
       "categoria": "economia",
@@ -313,7 +365,7 @@
       "destacada": false,
       "tema": "pobreza",
       "fecha": "Thu, 01 Oct 2026 19:49:46 +0200",
-      "id": 24
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -326,7 +378,7 @@
       "destacada": false,
       "tema": "apoyo",
       "fecha": "Thu, 01 Oct 2026 18:53:12 +0200",
-      "id": 25
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -339,7 +391,20 @@
       "destacada": false,
       "tema": "bensi",
       "fecha": "Thu, 01 Oct 2026 18:28:24 +0200",
-      "id": 26
+      "id": 30
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 8:00 PM",
+      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/479311.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Thu, 01 Oct 2026 20:00:00 -0400",
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -352,20 +417,7 @@
       "destacada": false,
       "tema": "liberación",
       "fecha": "Thu, 01 Oct 2026 18:30:00 -0400",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Liberación con José Luis Tan",
-      "resumen": "Liberación es un espacio radial con Regis Iglesias, portavoz del Movimiento Cristiano Liberación, para abordar temas de actualidad y fomentar las voces e iniciativas que buscan transformar positivamente la sociedad cubana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/liberaci%c3%b3n-con-jos%c3%a9-luis-tan/481092.html",
-      "destacada": false,
-      "tema": "liberación",
-      "fecha": "Thu, 01 Oct 2026 17:35:46 -0400",
-      "id": 28
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -378,7 +430,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 01 Oct 2026 19:54:39 +0000",
-      "id": 29
+      "id": 33
     },
     {
       "categoria": "politica",
@@ -391,7 +443,7 @@
       "destacada": false,
       "tema": "intelectuales",
       "fecha": "Thu, 01 Oct 2026 19:23:44 +0000",
-      "id": 30
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -404,7 +456,7 @@
       "destacada": false,
       "tema": "tarde",
       "fecha": "Thu, 01 Oct 2026 16:39:04 +0000",
-      "id": 31
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -417,7 +469,7 @@
       "destacada": false,
       "tema": "libertad",
       "fecha": "Wed, 30 Sep 2026 15:00:45 +0000",
-      "id": 32
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -430,7 +482,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Thu, 01 Oct 26 07:57:00 +0200",
-      "id": 33
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -443,7 +495,7 @@
       "destacada": false,
       "tema": "maría",
       "fecha": "Thu, 01 Oct 26 07:53:00 +0200",
-      "id": 34
+      "id": 38
     },
     {
       "categoria": "transporte",
@@ -456,7 +508,7 @@
       "destacada": false,
       "tema": "afecta",
       "fecha": "Thu, 01 Oct 26 07:46:00 +0200",
-      "id": 35
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -469,7 +521,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 01 Oct 26 07:41:00 +0200",
-      "id": 36
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -482,7 +534,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 01 Oct 26 07:34:00 +0200",
-      "id": 37
+      "id": 41
     },
     {
       "categoria": "politica",
@@ -495,7 +547,7 @@
       "destacada": false,
       "tema": "pérez",
       "fecha": "Thu, 01 Oct 26 07:30:00 +0200",
-      "id": 38
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -508,7 +560,7 @@
       "destacada": false,
       "tema": "reparación",
       "fecha": "Wed, 30 Sep 26 07:32:00 +0200",
-      "id": 39
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -521,7 +573,7 @@
       "destacada": false,
       "tema": "washington",
       "fecha": "Wed, 30 Sep 26 07:28:00 +0200",
-      "id": 40
+      "id": 44
     },
     {
       "categoria": "transporte",
@@ -534,7 +586,7 @@
       "destacada": false,
       "tema": "estreno",
       "fecha": "Wed, 30 Sep 26 07:17:00 +0200",
-      "id": 41
+      "id": 45
     },
     {
       "categoria": "transporte",
@@ -547,7 +599,20 @@
       "destacada": false,
       "tema": "estados",
       "fecha": "Wed, 30 Sep 26 07:12:00 +0200",
-      "id": 42
+      "id": 46
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://actualidad.rt.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "VIDEO: Así opera el portaaviones USS George Washington en medio del bloqueo naval sobre Irán",
+      "resumen": "El Comando Central de EE.UU. (CENTCOM) difundió este jueves un video en el que se ve al portaaviones USS George Washington realizando operaciones de vuelo en aguas de Oriente Medio como parte del bloqueo naval sobre puertos iraníes. Las imágenes muestran al buque navegando en alta mar, mientras caza",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6abef0c859bf5b18cc17d8c9.jpg",
+      "enlace_original": "https://actualidad-rt.com/actualidad/630432-asi-opera-portaaviones-bloqueo-naval-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "destacada": false,
+      "tema": "video",
+      "fecha": "Thu, 01 Oct 2026 23:47:32 +0000",
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -560,7 +625,7 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Thu, 01 Oct 2026 15:25:10 +0000",
-      "id": 43
+      "id": 48
     },
     {
       "categoria": "politica",
@@ -573,7 +638,20 @@
       "destacada": false,
       "tema": "recorrió",
       "fecha": "Thu, 01 Oct 2026 15:20:53 +0000",
-      "id": 44
+      "id": 49
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Habana envejece y el desafío ya está en las calles",
+      "resumen": "Más de 491 000 habaneros tienen 60 años o más, según la distribución de la población por grupos de edad. Las mujeres representan casi 58 por ciento de ese segmento, mientras la ciudad enfrenta el reto de adaptar sus servicios, espacios y sistemas de cuidados a una estructura demográfica cada vez más",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/la-habana-envejece-y-el-desafio-ya-esta-en-las-calles/",
+      "destacada": false,
+      "tema": "habana",
+      "fecha": "Thu, 01 Oct 2026 23:43:11 +0000",
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -586,7 +664,7 @@
       "destacada": false,
       "tema": "informativa",
       "fecha": "Thu, 01 Oct 2026 17:24:32 +0000",
-      "id": 45
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -599,7 +677,7 @@
       "destacada": false,
       "tema": "orquesta",
       "fecha": "Thu, 01 Oct 2026 15:52:44 +0000",
-      "id": 46
+      "id": 52
     },
     {
       "categoria": "transporte",
@@ -612,20 +690,7 @@
       "destacada": false,
       "tema": "persistirán",
       "fecha": "Thu, 01 Oct 2026 13:31:21 +0000",
-      "id": 47
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Imponen penas de prisión por caso de sabotaje energético en el Complejo Lácteo de La Habana",
-      "resumen": "Se impusieron sanciones entre 15, 16, 18 y 20 años de privación de libertad a los responsables, según el grado de intervención en el ilícito, características individuales, circunstancias ocurrentes y lesividad de estos hechos La entrada Imponen penas de prisión por caso de sabotaje energético en el ",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/imponen-penas-de-prision-por-caso-de-sabotaje-energetico-en-el-complejo-lacteo-de-la-habana/",
-      "destacada": false,
-      "tema": "imponen",
-      "fecha": "Thu, 01 Oct 2026 13:23:29 +0000",
-      "id": 48
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -638,7 +703,7 @@
       "destacada": false,
       "tema": "alertan",
       "fecha": "Thu, 01 Oct 2026 12:20:00 +0000",
-      "id": 49
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -651,7 +716,7 @@
       "destacada": false,
       "tema": "octubre",
       "fecha": "Thu, 01 Oct 2026 12:10:00 +0000",
-      "id": 50
+      "id": 55
     },
     {
       "categoria": "energia",
@@ -664,7 +729,7 @@
       "destacada": false,
       "tema": "reparación",
       "fecha": "Wed, 30 Sep 2026 13:38:45 +0000",
-      "id": 51
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -677,7 +742,7 @@
       "destacada": false,
       "tema": "impulsan",
       "fecha": "Wed, 30 Sep 2026 13:37:44 +0000",
-      "id": 52
+      "id": 57
     },
     {
       "categoria": "economia",
@@ -690,20 +755,7 @@
       "destacada": false,
       "tema": "reafirma",
       "fecha": "Wed, 30 Sep 2026 13:35:54 +0000",
-      "id": 53
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Aclaran que no hay aumento de precio del pasaporte corriente cubano solicitado en el país",
-      "resumen": "Ante la circulación de versiones infundadas en redes sociales y sitios digitales no oficiales, sobre un supuesto incremento del precio del pasaporte corriente cubano, que se solicita en las Oficinas de Trámites del Ministerio del Interior, la Dirección de Identificación, Inmigración y Extranjería de",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/09/30/aclaran-precio-del-pasaporte-corriente-cubano/",
-      "destacada": false,
-      "tema": "aclaran",
-      "fecha": "Wed, 30 Sep 2026 13:35:15 +0000",
-      "id": 54
+      "id": 58
     }
   ]
 }
