@@ -523,13 +523,13 @@ function actualizarVotacion(id) {
   const cont = document.querySelector(`.votacion[data-id="${id}"]`);
   if (!cont) return;
   const v = cargarVotos()[id] || {};
-  const mi = v['yo'];
+  const mi = v['yo'] || null;
 
   const global = votosGlobales[String(id)] || { confirmada: 0, dudosa: 0, falsa: 0 };
   const total = global.confirmada + global.dudosa + global.falsa;
 
   cont.querySelectorAll('.voto-btn').forEach(b => {
-    if (b.dataset.voto === mi) {
+    if (mi && b.dataset.voto === mi) {
       b.classList.add('activo');
     } else {
       b.classList.remove('activo');
