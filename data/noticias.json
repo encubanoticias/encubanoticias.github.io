@@ -1,20 +1,59 @@
 {
   "fecha": "2026-10-03",
-  "hora": "06:11",
-  "total": 46,
+  "hora": "08:05",
+  "total": 55,
   "noticias": [
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Nicaragua: Fundación “Los Carlitos” rechaza medidas de EEUU a Cuba",
-      "resumen": "Managua, 2 oct (Prensa Latina) La Fundación Escuela Militar Carlos Fonseca Amador “Los Carlitos” expresó hoy su rechazo a las nuevas medidas coercitivas unilaterales adoptadas por Estados Unidos contra Cuba y manifestó su solidaridad con el pueblo de la nación caribeña. The post Nicaragua: Fundación",
+      "titulo": "Parlamento namibio reiteró solidaridad con Cuba",
+      "resumen": "La Asamblea Nacional de Namibia aprobó, por unanimidad, una moción en apoyo a la Isla ante el recrudecimiento del bloqueo del gobierno de EE. UU.",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/02/nicaragua-fundacion-los-carlitos-rechaza-medidas-de-eeuu-a-cuba/",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-02/parlamento-namibio-reitero-solidaridad-con-cuba-02-10-2026-18-10-45",
       "destacada": true,
-      "tema": "nicaragua",
-      "fecha": "Sat, 03 Oct 2026 03:09:56 +0000",
+      "tema": "parlamento",
+      "fecha": "Fri, 02 Oct 2026 18:10:45 -0400",
       "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El libro cubano ante un asedio multidimensional",
+      "resumen": "Si un sector de la cultura cubana ha sentido siempre con rudeza el impacto del bloqueo estadounidense es el editorial; un daño que se ha acrecentado en los últimos meses de forma dramática",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-01/el-libro-cubano-ante-un-asedio-multidimensional-01-10-2026-18-10-41",
+      "destacada": true,
+      "tema": "libro",
+      "fecha": "Thu, 01 Oct 2026 18:10:41 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Sin máscaras: Washington contra el sector privado cubano",
+      "resumen": "La guerra del Gobierno de Estados Unidos es contra todo el pueblo",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-01/sin-mascaras-washington-contra-el-sector-privado-cubano-01-10-2026-18-10-39",
+      "destacada": true,
+      "tema": "máscaras",
+      "fecha": "Thu, 01 Oct 2026 18:10:39 -0400",
+      "id": 3
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Denuncia Vicepresidenta de la Asamblea Nacional, en XII Foro Parlamentario Iberoamericano, recrudecimiento del bloqueo impuesto por el Gobierno de EE.UU.",
+      "resumen": "Con un entrañable saludo en nombre de la Asamblea Nacional del Poder Popular, de su Presidente Esteban Lazo Hernández, de sus diputadas y diputados, y muy especialmente del heroico y digno pueblo cubano, a los parlamentos, legisladores y hermanos pueblos de Iberoamérica inició su intervención la Vic",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-02/denuncia-vicepresidenta-de-la-asamblea-nacional-en-xii-foro-parlamentario-iberoamericano-recrudecimiento-del-bloqueo-impuesto-por-el-gobierno-de-eeuu",
+      "destacada": true,
+      "tema": "denuncia",
+      "fecha": "Fri, 02 Oct 2026 16:10:56 -0400",
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -27,7 +66,7 @@
       "destacada": true,
       "tema": "hombre",
       "fecha": "Fri, 02 Oct 2026 20:47:24 +0000",
-      "id": 2
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -37,10 +76,10 @@
       "resumen": "Washington asegura que es el segundo barco que aborda en los últimos meses por transportar hidrocarburos de origen \"ilícito\"",
       "imagen_url": "https://static.14ymedio.com/clip/e12f2232-ed72-4c6e-a7b2-cd348e73e0d2_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/guardia-costera-ee-uu-intercepta_1_1131462.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "guardia",
       "fecha": "Fri, 02 Oct 2026 18:06:59 +0000",
-      "id": 3
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -50,10 +89,10 @@
       "resumen": "Los trabajadores del Supremo Consejo denuncian que llevan más de cuatro meses sin poder cobrar",
       "imagen_url": "https://static.14ymedio.com/clip/5b6f8d72-2cce-4eca-b462-e9357b7367ce_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/bloqueo-cuentas-institucion-regimen-persiste_1_1131458.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "bloqueo",
       "fecha": "Fri, 02 Oct 2026 16:14:52 +0000",
-      "id": 4
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -63,10 +102,10 @@
       "resumen": "Su testimonio, publicado por la prensa de Sudáfrica, pone en evidencia las precariedades del programa de intercambio Nelson Mandela-Fidel Castro",
       "imagen_url": "https://static.14ymedio.com/clip/3f93c6d8-9f57-44a6-a3a5-24f1f1b2f8d4_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/internacional/falta-agua-comida-mal-estudiante_1_1131464.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "falta",
       "fecha": "Fri, 02 Oct 2026 20:01:43 +0000",
-      "id": 5
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -79,7 +118,7 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Fri, 02 Oct 2026 09:45:54 +0000",
-      "id": 6
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -92,7 +131,7 @@
       "destacada": false,
       "tema": "dictan",
       "fecha": "Thu, 01 Oct 2026 17:31:57 +0000",
-      "id": 7
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -105,7 +144,7 @@
       "destacada": false,
       "tema": "mejores",
       "fecha": "Sat, 03 Oct 2026 06:42:35 +0200",
-      "id": 8
+      "id": 11
     },
     {
       "categoria": "energia",
@@ -118,7 +157,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Sat, 03 Oct 2026 06:14:11 +0200",
-      "id": 9
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -131,7 +170,7 @@
       "destacada": false,
       "tema": "académica",
       "fecha": "Sat, 03 Oct 2026 05:39:33 +0200",
-      "id": 10
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -144,7 +183,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Sat, 03 Oct 2026 05:10:10 +0200",
-      "id": 11
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -157,7 +196,7 @@
       "destacada": false,
       "tema": "alimentos",
       "fecha": "Sat, 03 Oct 2026 04:35:19 +0200",
-      "id": 12
+      "id": 15
     },
     {
       "categoria": "economia",
@@ -170,20 +209,20 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sat, 03 Oct 2026 04:11:15 +0200",
-      "id": 13
+      "id": 16
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Laritza Camacho sobre la crisis en Cuba: «Nadie extrañaría el sabor del pan si no estuviera comiendo piedra»",
-      "resumen": "",
+      "titulo": "Analizó Díaz-Canel Transformaciones Económicas y Sociales en nuevo episodio del podcast “Desde la Presidencia”",
+      "resumen": "Miguel Díaz-Canel Bermúdez, Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, condujo esta semana un nuevo episodio del podcast “Desde la Presidencia”, dedicado a las Transformaciones Económicas y Sociales en curso en la nación. Según precisaron fuentes",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u1-e209395-s27061-nid341764-laritza-camacho-crisis-cuba-nadie-extranaria-sabor",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/analizo-diaz-canel-transformaciones-economicas-y-sociales-en-nuevo-episodio-del-podcast-desde-la-presidencia/",
       "destacada": false,
-      "tema": "laritza",
-      "fecha": "Sat, 03 Oct 2026 04:06:02 +0200",
-      "id": 14
+      "tema": "analizó",
+      "fecha": "Sat, 03 Oct 2026 00:45:18 +0000",
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -196,7 +235,7 @@
       "destacada": false,
       "tema": "parapesas",
       "fecha": "Fri, 02 Oct 2026 16:29:51 +0000",
-      "id": 15
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -209,7 +248,7 @@
       "destacada": false,
       "tema": "ratificadas",
       "fecha": "Fri, 02 Oct 2026 16:19:07 +0000",
-      "id": 16
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -222,7 +261,7 @@
       "destacada": false,
       "tema": "manifestante",
       "fecha": "Sat, 03 Oct 2026 00:40:53 +0200",
-      "id": 17
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -235,7 +274,7 @@
       "destacada": false,
       "tema": "tribunal",
       "fecha": "Fri, 02 Oct 2026 22:43:05 +0200",
-      "id": 18
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -248,7 +287,7 @@
       "destacada": false,
       "tema": "delcy",
       "fecha": "Fri, 02 Oct 2026 20:47:42 +0200",
-      "id": 19
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -261,7 +300,7 @@
       "destacada": false,
       "tema": "pancho",
       "fecha": "Fri, 02 Oct 2026 18:42:12 +0200",
-      "id": 20
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -274,7 +313,7 @@
       "destacada": false,
       "tema": "méxico",
       "fecha": "Fri, 02 Oct 2026 18:28:05 +0200",
-      "id": 21
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -287,7 +326,7 @@
       "destacada": false,
       "tema": "feminicidios",
       "fecha": "Fri, 02 Oct 2026 18:14:32 +0200",
-      "id": 22
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -300,7 +339,7 @@
       "destacada": false,
       "tema": "condena",
       "fecha": "Fri, 02 Oct 2026 17:58:21 +0200",
-      "id": 23
+      "id": 26
     },
     {
       "categoria": "salud",
@@ -313,7 +352,7 @@
       "destacada": false,
       "tema": "falleció",
       "fecha": "Fri, 02 Oct 2026 16:55:50 +0200",
-      "id": 24
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -326,7 +365,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Fri, 02 Oct 2026 15:04:06 +0200",
-      "id": 25
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -339,7 +378,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Sat, 03 Oct 2026 00:00:30 -0400",
-      "id": 26
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -352,7 +391,7 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Fri, 02 Oct 2026 21:00:00 -0400",
-      "id": 27
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -365,7 +404,7 @@
       "destacada": false,
       "tema": "doctrina",
       "fecha": "Sat, 03 Oct 2026 03:27:02 +0000",
-      "id": 28
+      "id": 31
     },
     {
       "categoria": "economia",
@@ -378,7 +417,7 @@
       "destacada": false,
       "tema": "tracey",
       "fecha": "Sat, 03 Oct 2026 03:12:19 +0000",
-      "id": 29
+      "id": 32
     },
     {
       "categoria": "politica",
@@ -391,7 +430,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sat, 03 Oct 2026 01:16:35 +0000",
-      "id": 30
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -404,7 +443,7 @@
       "destacada": false,
       "tema": "avanza",
       "fecha": "Sat, 03 Oct 2026 01:00:25 +0000",
-      "id": 31
+      "id": 34
     },
     {
       "categoria": "politica",
@@ -417,7 +456,7 @@
       "destacada": false,
       "tema": "abrirá",
       "fecha": "Sat, 03 Oct 2026 00:47:54 +0000",
-      "id": 32
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -430,7 +469,7 @@
       "destacada": false,
       "tema": "algunos",
       "fecha": "Sat, 03 Oct 26 06:50:00 +0200",
-      "id": 33
+      "id": 36
     },
     {
       "categoria": "transporte",
@@ -443,7 +482,7 @@
       "destacada": false,
       "tema": "bensi",
       "fecha": "Sat, 03 Oct 26 06:49:00 +0200",
-      "id": 34
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -456,7 +495,7 @@
       "destacada": false,
       "tema": "petróleo",
       "fecha": "Sat, 03 Oct 26 06:44:00 +0200",
-      "id": 35
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -469,7 +508,7 @@
       "destacada": false,
       "tema": "pequeño",
       "fecha": "Fri, 02 Oct 26 16:56:00 +0200",
-      "id": 36
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -482,7 +521,7 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Fri, 02 Oct 26 16:45:00 +0200",
-      "id": 37
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -495,7 +534,7 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Fri, 02 Oct 26 15:24:00 +0200",
-      "id": 38
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -508,7 +547,7 @@
       "destacada": false,
       "tema": "dignidad",
       "fecha": "Fri, 02 Oct 26 13:51:00 +0200",
-      "id": 39
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -521,20 +560,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 02 Oct 26 12:55:00 +0200",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Sin máscaras: Washington contra el sector privado cubano",
-      "resumen": "Por Raúl Capote* - Original en Granma",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125271-sin-mascaras-washington-contra-el-sector-privado-cubano.jpg?t=1790921574",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261002/125271/125271-sin-mascaras-washington-contra-el-sector-privado-cubano",
-      "destacada": false,
-      "tema": "máscaras",
-      "fecha": "Fri, 02 Oct 26 08:12:00 +0200",
-      "id": 41
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -547,7 +573,98 @@
       "destacada": false,
       "tema": "klaudia",
       "fecha": "Fri, 02 Oct 26 08:12:00 +0200",
-      "id": 42
+      "id": 44
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.guerrillero.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Orgullo por la profesión en Pinar del Río",
+      "resumen": "El notariado cubano tiene profundas raíces en la tradición jurídica española y una amplia gama de facultades y funciones entre las que figuran la posibilidad de dar fe pública de actos y hechos jurídicos extrajudiciales, tanto los exigidos por ley como los solicitados por las partes. De igual forma ",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/orgullo-por-la-profesion-en-pinar-del-rio/",
+      "destacada": false,
+      "tema": "orgullo",
+      "fecha": "Fri, 02 Oct 2026 17:06:36 +0000",
+      "id": 45
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.guerrillero.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba invicta a semifinales en Mundial de Béisbol para Ciegos",
+      "resumen": "Cuba noqueó hoy 17-3 a Gran Bretaña y clasificó invicta a las semifinales de la Copa Mundial de Béisbol para Ciegos, que se desarrolla en el Estadio Simone Piani, de Castiglione della Pescaia, Italia. Los dirigidos por Roberto Carmona, vigentes monarcas del orbe, sumaron su tercer triunfo consecutiv",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/cuba-invicta-a-semifinales-en-mundial-de-beisbol-para-ciegos/",
+      "destacada": false,
+      "tema": "invicta",
+      "fecha": "Fri, 02 Oct 2026 15:42:06 +0000",
+      "id": 46
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.guerrillero.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Refuerza Mincex denuncia sobre nuevas medidas de EE.UU. contra Cuba",
+      "resumen": "El Ministerio de Comercio Exterior y la Inversión Extranjera (Mincex) precisó este jueves desde su perfil en la red social Facebook que las recientes disposiciones coercitivas del Gobierno de Estados Unidos atentan contra el sector empresarial y la soberanía del pueblo cubano. Deborah Rivas Saavedra",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/refuerza-mincex-denuncia-sobre-nuevas-medidas-de-ee-uu-contra-cuba/",
+      "destacada": false,
+      "tema": "refuerza",
+      "fecha": "Fri, 02 Oct 2026 13:28:00 +0000",
+      "id": 47
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.guerrillero.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Retoma Díaz-Canel pódcast Desde la Presidencia",
+      "resumen": "Miguel Díaz-Canel Bermúdez, Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, retoma este viernes el pódcast Desde la Presidencia, transmitido por redes sociales y la televisión nacional. Según precisaron desde el perfil de Facebook de Presidencia, en l",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/retoma-diaz-canel-podcast-desde-la-presidencia/",
+      "destacada": false,
+      "tema": "retoma",
+      "fecha": "Fri, 02 Oct 2026 13:06:00 +0000",
+      "id": 48
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.guerrillero.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba vuelve a noquear en el Mundial de Béisbol para Ciegos",
+      "resumen": "Cuba volvió a convertir hoy el diamante del Estadio Simone Piani en territorio de campeones al noquear 18-0 a República Checa y mantener su invicto en la Copa Mundial de Béisbol para Ciegos. El vigente monarca universal necesitó apenas cinco entradas para dejar sentenciado un duelo que comenzó a inc",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/cuba-vuelve-a-noquear-en-el-mundial-de-beisbol-para-ciegos/",
+      "destacada": false,
+      "tema": "vuelve",
+      "fecha": "Thu, 01 Oct 2026 15:25:10 +0000",
+      "id": 49
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.guerrillero.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Recorrió Díaz-Canel Planta Potabilizadora Norte-Habana",
+      "resumen": "Miguel Díaz-Canel Bermúdez, Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, visitó este miércoles la Planta Potabilizadora Norte-Habana, en el municipio Habana del Este, como parte del seguimiento al Programa Integral de Aseguramiento del Abasto de Ag",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/recorrio-diaz-canel-planta-potabilizadora-norte-habana/",
+      "destacada": false,
+      "tema": "recorrió",
+      "fecha": "Thu, 01 Oct 2026 15:20:53 +0000",
+      "id": 50
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.guerrillero.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Delegación cubana participa en XII Foro Parlamentario",
+      "resumen": "La delegación de Cuba, encabezada por Ana María Mari Machado, vicepresidenta de la Asamblea Nacional del Poder Popular (ANPP), participa en el XII Foro Parlamentario Iberoamericano, inaugurado hoy en Madrid en el Congreso de los Diputados de España, precisó el parlamento cubano desde su perfil en Fa",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/delegacion-cubana-participa-en-xii-foro-parlamentario/",
+      "destacada": false,
+      "tema": "delegación",
+      "fecha": "Thu, 01 Oct 2026 15:16:37 +0000",
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -560,7 +677,7 @@
       "destacada": false,
       "tema": "guardia",
       "fecha": "Fri, 02 Oct 2026 22:03:43 +0000",
-      "id": 43
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -573,7 +690,7 @@
       "destacada": false,
       "tema": "sábado",
       "fecha": "Fri, 02 Oct 2026 18:50:07 +0000",
-      "id": 44
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -586,7 +703,7 @@
       "destacada": false,
       "tema": "celebró",
       "fecha": "Fri, 02 Oct 2026 18:28:13 +0000",
-      "id": 45
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -599,7 +716,7 @@
       "destacada": false,
       "tema": "plaza",
       "fecha": "Fri, 02 Oct 2026 17:20:09 +0000",
-      "id": 46
+      "id": 55
     }
   ]
 }
