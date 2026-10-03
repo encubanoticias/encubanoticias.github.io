@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-03",
-  "hora": "09:07",
-  "total": 47,
+  "hora": "11:59",
+  "total": 57,
   "noticias": [
     {
       "categoria": "politica",
@@ -57,16 +57,29 @@
     },
     {
       "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Lam y Peláez, virtuosos cubanos admirados en todo el mundo",
+      "resumen": "Bogotá, 3 oct (Prensa Latina) La portentosa colección del Museo de Fernando Botero en Bogotá, que exhibe obras propias del gran artista colombiano, y otros de cultores de todas partes del mundo, alberga también una joya cubana: “Tótem”, del asombroso Wifredo Lam. The post Lam y Peláez, virtuosos cub",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/03/lam-y-pelaez-virtuosos-cubanos-admirados-en-todo-el-mundo/",
+      "destacada": true,
+      "tema": "peláez",
+      "fecha": "Sat, 03 Oct 2026 11:02:42 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
       "titulo": "Un hombre es detenido tras subir la escalinata del Capitolio de La Habana con un cartel pidiendo libertad",
-      "resumen": "“¡Abajo la dictadura!”, gritó antes de ser introducido en la patrulla, a lo que un testigo en la multitud replicó: “¡Abajo!”",
+      "resumen": "“¡Abajo la dictadura!”, gritó Ariel Limias Leyva antes de ser introducido en la patrulla, a lo que un testigo en la multitud replicó: “¡Abajo!”",
       "imagen_url": "https://static.14ymedio.com/clip/5431a0db-a70a-4f44-aff9-466b76c7d4e7_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/hombre-detenido-subir-escalinata-capitolio_1_1131468.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "hombre",
       "fecha": "Fri, 02 Oct 2026 20:47:24 +0000",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -79,7 +92,20 @@
       "destacada": false,
       "tema": "guardia",
       "fecha": "Fri, 02 Oct 2026 18:06:59 +0000",
-      "id": 6
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La ONU libera 160 millones para crisis humanitarias en Cuba, Sudán, Palestina y Yemen",
+      "resumen": "Esta financiación, dice el organismo, ayudará a quienes podrían quedar desamparados, pero por sí sola \"no será suficiente\"",
+      "imagen_url": "https://static.14ymedio.com/clip/8c63ab34-077f-4ec0-bc9c-433caf5dfdc7_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/internacional/onu-libera-160-millones-crisis_1_1131476.html",
+      "destacada": false,
+      "tema": "libera",
+      "fecha": "Sat, 03 Oct 2026 11:01:41 +0000",
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -92,7 +118,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Fri, 02 Oct 2026 16:14:52 +0000",
-      "id": 7
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -105,7 +131,7 @@
       "destacada": false,
       "tema": "falta",
       "fecha": "Fri, 02 Oct 2026 20:01:43 +0000",
-      "id": 8
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -118,7 +144,7 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Fri, 02 Oct 2026 09:45:54 +0000",
-      "id": 9
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -131,7 +157,72 @@
       "destacada": false,
       "tema": "dictan",
       "fecha": "Thu, 01 Oct 2026 17:31:57 +0000",
-      "id": 10
+      "id": 12
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "China promete más energía solar a Cuba: por qué 493 MW al mediodía no evitan un déficit de 2.040 MW en el pico",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u1-e13-s27061-nid341797-china-promete-energia-solar-cuba-493-mw-al-mediodia",
+      "destacada": false,
+      "tema": "china",
+      "fecha": "Sat, 03 Oct 2026 13:01:49 +0200",
+      "id": 13
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Dólar a 780 CUP: cuánto valen ahora el salario mínimo y la pensión mínima en Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u1-e13-s27061-nid341794-dolar-780-cup-cuanto-valen-ahora-salario-minimo-pension",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Sat, 03 Oct 2026 12:57:45 +0200",
+      "id": 14
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Empresas extranjeras ya pueden contratar directamente en Cuba, pero ¿pueden pagar salarios en dólares?",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u1-e13-s27061-nid341795-empresas-extranjeras-pueden-contratar-directamente-cuba",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Sat, 03 Oct 2026 12:55:14 +0200",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "De la «guerra psicológica» al fantasma de Irak: Ana Hurtado lanza una advertencia a Marco Rubio sobre Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u207888-e207888-s27061-nid341796-guerra-psicologica-al-fantasma-irak-ana-hurtado",
+      "destacada": false,
+      "tema": "guerra",
+      "fecha": "Sat, 03 Oct 2026 12:33:06 +0200",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Video: Así fue la interceptación del M/V Grace, el buque que llevaba combustible a Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u1-e13-s27061-nid341792-video-asi-fue-interceptacion-mv-grace-buque-llevaba",
+      "destacada": false,
+      "tema": "video",
+      "fecha": "Sat, 03 Oct 2026 11:34:28 +0200",
+      "id": 17
     },
     {
       "categoria": "politica",
@@ -144,7 +235,7 @@
       "destacada": false,
       "tema": "analizó",
       "fecha": "Sat, 03 Oct 2026 00:45:18 +0000",
-      "id": 11
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -157,7 +248,7 @@
       "destacada": false,
       "tema": "parapesas",
       "fecha": "Fri, 02 Oct 2026 16:29:51 +0000",
-      "id": 12
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -170,7 +261,46 @@
       "destacada": false,
       "tema": "ratificadas",
       "fecha": "Fri, 02 Oct 2026 16:19:07 +0000",
-      "id": 13
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Para 'eliminar intermediarios', el régimen amplía las facultades de las empresas extranjeras en Cuba",
+      "resumen": "El régimen aprueba la ampliación de facultades de las #empresas extranjeras en #Cuba: podrán realizar operaciones de comercio exterior, distribuir al por mayor y contratar trabajadores directamente.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1791027470_69235.html",
+      "destacada": false,
+      "tema": "eliminar",
+      "fecha": "Sat, 03 Oct 2026 13:37:50 +0200",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuando no se espera un cambio político en Cuba: cautela pública y ayuda cercana",
+      "resumen": "Cuarta #EncuestaDDC: El 68,1% de los participantes cree que, para vivir tranquilo en #Cuba, es mejor no hablar de ciertos temas, y el 77% que la colaboración cotidiana puede mejorar problemas concretos.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791025302_69198.html",
+      "destacada": false,
+      "tema": "espera",
+      "fecha": "Sat, 03 Oct 2026 13:01:42 +0200",
+      "id": 22
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La ONU incluye a Cuba entre las 'crisis humanitarias con menor financiación del mundo'",
+      "resumen": "Tras calificarla como una de las \"12 crisis humanitarias con menor financiación del mundo\", la #ONU enviará nuevas ayudas económicas a #Cuba en concepto de \"asistencia vital\".",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791022447_69233.html",
+      "destacada": false,
+      "tema": "incluye",
+      "fecha": "Sat, 03 Oct 2026 12:14:07 +0200",
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -183,7 +313,7 @@
       "destacada": false,
       "tema": "identificado",
       "fecha": "Sat, 03 Oct 2026 11:00:37 +0200",
-      "id": 14
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -196,7 +326,7 @@
       "destacada": false,
       "tema": "manifestante",
       "fecha": "Sat, 03 Oct 2026 00:40:53 +0200",
-      "id": 15
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -209,7 +339,7 @@
       "destacada": false,
       "tema": "tribunal",
       "fecha": "Fri, 02 Oct 2026 22:43:05 +0200",
-      "id": 16
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -222,7 +352,7 @@
       "destacada": false,
       "tema": "delcy",
       "fecha": "Fri, 02 Oct 2026 20:47:42 +0200",
-      "id": 17
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -235,7 +365,7 @@
       "destacada": false,
       "tema": "pancho",
       "fecha": "Fri, 02 Oct 2026 18:42:12 +0200",
-      "id": 18
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -248,46 +378,33 @@
       "destacada": false,
       "tema": "méxico",
       "fecha": "Fri, 02 Oct 2026 18:28:05 +0200",
-      "id": 19
+      "id": 29
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba suma 56 feminicidios en nueve meses, igual cantidad que en el segundo año más mortífero",
-      "resumen": "#SOSCuba #NiUnaMenos: Llegan a 56 los #Feminicidios en #Cuba en nueve meses con el asesinato de Idania Castillo Sacre. El sospechoso ya habría cumplido condena por matar a una mujer.",
+      "titulo": "El Cubano y su Fe",
+      "resumen": "El cubano y su fe intenta adentrarse en el alma de un pueblo que a pesar de las dificultades e incertidumbres, nunca pierde su Fe en el futuro. El cubano y su Fe, es conducido por el Padre Castor José Álvarez Devesa.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1790957672_69225.html",
+      "enlace_original": "https://www.martinoticias.com/a/480137.html",
       "destacada": false,
-      "tema": "feminicidios",
-      "fecha": "Fri, 02 Oct 2026 18:14:32 +0200",
-      "id": 20
+      "tema": "cubano",
+      "fecha": "Sat, 03 Oct 2026 08:00:00 -0400",
+      "id": 30
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La condena a Anna Bensi y su madre: el control en la vida cotidiana y la cárcel como horizonte en Cuba",
-      "resumen": "#AnálisisCuba: ¿Qué implica la condena de dos años de limitación de libertad impuesta a la influencer #cubana #AnnaBensi y su madre? Lee el análisis de Lucía Alfonso Mirabal.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "¿Qué implica para la cultura cubana el bloqueo económico y las sanciones del gobierno estadounidense?",
+      "resumen": "Cuba tiene 37 escuelas de arte. Seis de ellas son nacionales. Sus estudiantes deben moverse interprovincialmente con regularidad. Es casi una tarea titánica. El parque automotor dedicado a este empeño está cada vez más deprimido. Lo peor es que no tiene derecho a terapia. No “existen” las piezas de ",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1790956701_69223.html",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/03/que-implica-para-la-cultura-cubana-el-bloqueo-economico-y-las-sanciones-del-gobierno-estadounidense/",
       "destacada": false,
-      "tema": "condena",
-      "fecha": "Fri, 02 Oct 2026 17:58:21 +0200",
-      "id": 21
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Falleció a los 86 años el primer obispo de Ciego de Ávila, monseñor Mario Mestril Vega",
-      "resumen": "Monseñor Mario Eusebio Mestril Vega, obispo emérito de Ciego de Ávila, falleció a los 86 años tras un rápido deterioro de su salud. #IglesiaCatólica, #Cuba #CiegoDeÁvila.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1790952950_69224.html",
-      "destacada": false,
-      "tema": "falleció",
-      "fecha": "Fri, 02 Oct 2026 16:55:50 +0200",
-      "id": 22
+      "tema": "implica",
+      "fecha": "Sat, 03 Oct 2026 10:23:04 +0000",
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -300,7 +417,7 @@
       "destacada": false,
       "tema": "doctrina",
       "fecha": "Sat, 03 Oct 2026 03:27:02 +0000",
-      "id": 23
+      "id": 32
     },
     {
       "categoria": "economia",
@@ -313,7 +430,7 @@
       "destacada": false,
       "tema": "tracey",
       "fecha": "Sat, 03 Oct 2026 03:12:19 +0000",
-      "id": 24
+      "id": 33
     },
     {
       "categoria": "politica",
@@ -326,7 +443,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sat, 03 Oct 2026 01:16:35 +0000",
-      "id": 25
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -339,7 +456,7 @@
       "destacada": false,
       "tema": "avanza",
       "fecha": "Sat, 03 Oct 2026 01:00:25 +0000",
-      "id": 26
+      "id": 35
     },
     {
       "categoria": "politica",
@@ -352,7 +469,7 @@
       "destacada": false,
       "tema": "abrirá",
       "fecha": "Sat, 03 Oct 2026 00:47:54 +0000",
-      "id": 27
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -365,7 +482,7 @@
       "destacada": false,
       "tema": "algunos",
       "fecha": "Sat, 03 Oct 26 06:50:00 +0200",
-      "id": 28
+      "id": 37
     },
     {
       "categoria": "transporte",
@@ -378,7 +495,7 @@
       "destacada": false,
       "tema": "bensi",
       "fecha": "Sat, 03 Oct 26 06:49:00 +0200",
-      "id": 29
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -391,7 +508,7 @@
       "destacada": false,
       "tema": "petróleo",
       "fecha": "Sat, 03 Oct 26 06:44:00 +0200",
-      "id": 30
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -404,7 +521,7 @@
       "destacada": false,
       "tema": "pequeño",
       "fecha": "Fri, 02 Oct 26 16:56:00 +0200",
-      "id": 31
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -417,7 +534,7 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Fri, 02 Oct 26 16:45:00 +0200",
-      "id": 32
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -430,7 +547,7 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Fri, 02 Oct 26 15:24:00 +0200",
-      "id": 33
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -443,7 +560,7 @@
       "destacada": false,
       "tema": "dignidad",
       "fecha": "Fri, 02 Oct 26 13:51:00 +0200",
-      "id": 34
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -456,7 +573,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 02 Oct 26 12:55:00 +0200",
-      "id": 35
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -469,7 +586,7 @@
       "destacada": false,
       "tema": "klaudia",
       "fecha": "Fri, 02 Oct 26 08:12:00 +0200",
-      "id": 36
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -482,7 +599,7 @@
       "destacada": false,
       "tema": "orgullo",
       "fecha": "Fri, 02 Oct 2026 17:06:36 +0000",
-      "id": 37
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -495,7 +612,7 @@
       "destacada": false,
       "tema": "invicta",
       "fecha": "Fri, 02 Oct 2026 15:42:06 +0000",
-      "id": 38
+      "id": 47
     },
     {
       "categoria": "politica",
@@ -508,7 +625,7 @@
       "destacada": false,
       "tema": "refuerza",
       "fecha": "Fri, 02 Oct 2026 13:28:00 +0000",
-      "id": 39
+      "id": 48
     },
     {
       "categoria": "politica",
@@ -521,7 +638,7 @@
       "destacada": false,
       "tema": "retoma",
       "fecha": "Fri, 02 Oct 2026 13:06:00 +0000",
-      "id": 40
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -534,7 +651,7 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Thu, 01 Oct 2026 15:25:10 +0000",
-      "id": 41
+      "id": 50
     },
     {
       "categoria": "politica",
@@ -547,7 +664,7 @@
       "destacada": false,
       "tema": "recorrió",
       "fecha": "Thu, 01 Oct 2026 15:20:53 +0000",
-      "id": 42
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -560,7 +677,7 @@
       "destacada": false,
       "tema": "delegación",
       "fecha": "Thu, 01 Oct 2026 15:16:37 +0000",
-      "id": 43
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -573,7 +690,7 @@
       "destacada": false,
       "tema": "guardia",
       "fecha": "Fri, 02 Oct 2026 22:03:43 +0000",
-      "id": 44
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -586,7 +703,7 @@
       "destacada": false,
       "tema": "sábado",
       "fecha": "Fri, 02 Oct 2026 18:50:07 +0000",
-      "id": 45
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -599,7 +716,7 @@
       "destacada": false,
       "tema": "celebró",
       "fecha": "Fri, 02 Oct 2026 18:28:13 +0000",
-      "id": 46
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -612,7 +729,20 @@
       "destacada": false,
       "tema": "plaza",
       "fecha": "Fri, 02 Oct 2026 17:20:09 +0000",
-      "id": 47
+      "id": 56
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Mundial de Béisbol sub-15: un nuevo examen suspenso",
+      "resumen": "Existen resultados que, por esperados, no dejan de sorprender a los amantes del béisbol cubano en cualquiera de sus categorías.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/02/mundial-de-beisbol-sub-15/",
+      "destacada": false,
+      "tema": "mundial",
+      "fecha": "Fri, 02 Oct 2026 13:16:00 +0000",
+      "id": 57
     }
   ]
 }
