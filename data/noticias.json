@@ -1,19 +1,19 @@
 {
   "fecha": "2026-10-03",
-  "hora": "14:58",
-  "total": 57,
+  "hora": "18:53",
+  "total": 53,
   "noticias": [
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "El libro cubano ante un asedio multidimensional",
-      "resumen": "Si un sector de la cultura cubana ha sentido siempre con rudeza el impacto del bloqueo estadounidense es el editorial; un daño que se ha acrecentado en los últimos meses de forma dramática",
+      "titulo": "Subtítulo de gran mérito en el beisbol para ciegos",
+      "resumen": "Cuba cayó en la final de la Copa Internacional 10-4 frente a Italia",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-01/el-libro-cubano-ante-un-asedio-multidimensional-01-10-2026-18-10-41",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-03/subtitulo-de-gran-merito-en-el-beisbol-para-ciegos-03-10-2026-14-10-29",
       "destacada": true,
-      "tema": "libro",
-      "fecha": "Thu, 01 Oct 2026 18:10:41 -0400",
+      "tema": "subtítulo",
+      "fecha": "Sat, 03 Oct 2026 14:10:29 -0400",
       "id": 1
     },
     {
@@ -44,6 +44,19 @@
     },
     {
       "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Presentan en México libro de líder histórico de Revolución cubana",
+      "resumen": "Ciudad de México, 3 oct (Prensa Latina) El consejero político de la Embajada de Cuba en México, José Ángel Maury, presentó “La contraofensiva estratégica”, de Fidel Castro, en la segunda Feria Internacional del Libro de Celaya, informó hoy la sede diplomática. The post Presentan en México libro de l",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/03/presentan-en-mexico-libro-de-lider-historico-de-revolucion-cubana/",
+      "destacada": true,
+      "tema": "presentan",
+      "fecha": "Sat, 03 Oct 2026 18:09:52 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
       "titulo": "Trasladan a Villa Marista al hombre que protestó con una pancarta en el Capitolio de La Habana",
@@ -53,7 +66,33 @@
       "destacada": true,
       "tema": "trasladan",
       "fecha": "Sat, 03 Oct 2026 13:02:58 +0000",
-      "id": 4
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Las otras vidas de una vendedora de la calle Reina en Centro Habana",
+      "resumen": "Viejas revistas de moda permiten a una mujer imaginar por unos minutos un mundo lejos de la precariedad cotidiana de Cuba",
+      "imagen_url": "https://static.14ymedio.com/clip/535d63b3-1cea-451d-a2f3-aa8e1ff5c97e_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/vidas-vendedora-calle-reina-centro_1_1131490.html",
+      "destacada": false,
+      "tema": "otras",
+      "fecha": "Sat, 03 Oct 2026 16:52:14 +0000",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba era un lugar ideal para que Rusia pudiera probar sus armas sónicas",
+      "resumen": "El ex asesor de seguridad nacional de Donald Trump, John Bolton, y los diplomáticos canadienses comparten la sospecha de que Moscú provocó el \"síndrome de La Habana\"",
+      "imagen_url": "https://static.14ymedio.com/clip/b2c0aefc-0b54-468b-9d46-1576b10b0834_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/cuba-lugar-ideal-rusia-pudiera_1_1131487.html",
+      "destacada": false,
+      "tema": "lugar",
+      "fecha": "Sat, 03 Oct 2026 15:57:33 +0000",
+      "id": 7
     },
     {
       "categoria": "energia",
@@ -63,10 +102,49 @@
       "resumen": "La llegada de combustible anima el tráfico y devuelve los vehículos a las calles, mientras los apagones de más de 20 horas siguen marcando la vida dentro de las casas habaneras",
       "imagen_url": "https://static.14ymedio.com/clip/70bef639-d963-4d39-988a-15e356f70e69_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/habana-vuelve-rodar-sigue-oscuras_1_1131483.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "habana",
       "fecha": "Sat, 03 Oct 2026 13:55:50 +0000",
-      "id": 5
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba, cuarto país con más solicitudes de acciones urgentes por desapariciones forzadas ante la ONU",
+      "resumen": "La Isla acumula 217 desde 2012 y 17 en los primeros ocho meses de 2026, solo por debajo de México",
+      "imagen_url": "https://static.14ymedio.com/clip/63cbce43-8c66-42e0-b4e9-46369def2e8b_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/cuba-cuarto-pais-solicitudes-acciones_1_1131492.html",
+      "destacada": false,
+      "tema": "cuarto",
+      "fecha": "Sat, 03 Oct 2026 17:50:35 +0000",
+      "id": 9
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Con las calles semivacías, los vehículos eléctricos dominan las estadísticas de accidentes en Cuba",
+      "resumen": "Un Ecomóvil y un triciclo chocaron este sábado en Sancti Spíritus, donde estas alternativas ganan terreno ante la crisis del transporte",
+      "imagen_url": "https://static.14ymedio.com/clip/02792905-383d-423f-9aea-0670fd565ba0_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/calles-semivacias-vehiculos-electricos-dominan_1_1131493.html",
+      "destacada": false,
+      "tema": "calles",
+      "fecha": "Sat, 03 Oct 2026 18:05:10 +0000",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Guardia Costera de EE UU intercepta un buque con combustible rumbo a Cuba",
+      "resumen": "Washington asegura que es el segundo barco que aborda en los últimos meses por transportar hidrocarburos de origen \"ilícito\"",
+      "imagen_url": "https://static.14ymedio.com/clip/5237ae7f-7879-494a-a318-87d923e8e632_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/guardia-costera-ee-uu-intercepta_1_1131462.html",
+      "destacada": false,
+      "tema": "guardia",
+      "fecha": "Fri, 02 Oct 2026 18:06:59 +0000",
+      "id": 11
     },
     {
       "categoria": "politica",
@@ -79,7 +157,7 @@
       "destacada": false,
       "tema": "sigue",
       "fecha": "Sat, 03 Oct 2026 14:47:03 +0000",
-      "id": 6
+      "id": 12
     },
     {
       "categoria": "politica",
@@ -92,46 +170,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Sat, 03 Oct 2026 13:46:28 +0000",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La ONU libera 160 millones para crisis humanitarias en Cuba, Sudán, Palestina y Yemen",
-      "resumen": "Esta financiación, dice el organismo, ayudará a quienes podrían quedar desamparados, pero por sí sola \"no será suficiente\"",
-      "imagen_url": "https://static.14ymedio.com/clip/8c63ab34-077f-4ec0-bc9c-433caf5dfdc7_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/internacional/onu-libera-160-millones-crisis_1_1131476.html",
-      "destacada": false,
-      "tema": "libera",
-      "fecha": "Sat, 03 Oct 2026 11:01:41 +0000",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Guardia Costera de EE UU intercepta un buque con combustible rumbo a Cuba",
-      "resumen": "Washington asegura que es el segundo barco que aborda en los últimos meses por transportar hidrocarburos de origen \"ilícito\"",
-      "imagen_url": "https://static.14ymedio.com/clip/e12f2232-ed72-4c6e-a7b2-cd348e73e0d2_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/guardia-costera-ee-uu-intercepta_1_1131462.html",
-      "destacada": false,
-      "tema": "guardia",
-      "fecha": "Fri, 02 Oct 2026 18:06:59 +0000",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Falta de agua y comida en mal estado: una estudiante sudafricana cuenta las penurias sufridas en Cuba",
-      "resumen": "Su testimonio, publicado por la prensa de Sudáfrica, pone en evidencia las precariedades del programa de intercambio Nelson Mandela-Fidel Castro",
-      "imagen_url": "https://static.14ymedio.com/clip/3f93c6d8-9f57-44a6-a3a5-24f1f1b2f8d4_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/internacional/falta-agua-comida-mal-estudiante_1_1131464.html",
-      "destacada": false,
-      "tema": "falta",
-      "fecha": "Fri, 02 Oct 2026 20:01:43 +0000",
-      "id": 10
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -144,110 +183,71 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Fri, 02 Oct 2026 16:14:52 +0000",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Fiscalía cubana pide ocho y diez años para los creadores de El4tico",
-      "resumen": "El Tribunal Provincial de Holguín ordena la apertura de juicio oral, que se celebrará en un plazo mínimo de 10 días, aunque no hay fecha fijada",
-      "imagen_url": "https://static.14ymedio.com/clip/5f06897f-8fd8-413d-9945-0742268984bb_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/fiscalia-cubana-pide-ocho-diez_1_1131430.html",
-      "destacada": false,
-      "tema": "fiscalía",
-      "fecha": "Fri, 02 Oct 2026 09:45:54 +0000",
-      "id": 12
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Fallece el profesor Julián Pérez Amarillo, insigne médico microbiólogo cubano",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u1-e209395-s27061-nid341813-fallece-profesor-julian-perez-amarillo-insigne",
-      "destacada": false,
-      "tema": "fallece",
-      "fecha": "Sat, 03 Oct 2026 15:57:34 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "SOUTHCOM recuerda que la 82.ª Aerotransportada puede desplegarse en 18 horas: qué significa realmente para Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u1-e13-s27061-nid341812-southcom-recuerda-82a-aerotransportada-puede-desplegarse",
-      "destacada": false,
-      "tema": "southcom",
-      "fecha": "Sat, 03 Oct 2026 15:31:26 +0200",
       "id": 14
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cómo funciona la “flota oscura” que lleva combustible a Cuba: barcos, banderas y cargas ocultas",
+      "titulo": "Buscan a familiares de una joven hallada muerta hace 46 años en EE.UU.: Su ADN apunta a Cuba",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u1-e13-s27061-nid341791-funciona-flota-oscura-lleva-combustible-cuba-barcos",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u1-e208574-s27061-nid341820-buscan-familiares-joven-hallada-muerta-hace-46-anos",
       "destacada": false,
-      "tema": "funciona",
-      "fecha": "Sat, 03 Oct 2026 15:11:14 +0200",
+      "tema": "buscan",
+      "fecha": "Sat, 03 Oct 2026 19:11:47 +0200",
       "id": 15
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Barco interceptado por EE.UU. con combustible para Cuba habría cargado en Panamá",
+      "titulo": "Viñales, \"desértico\": los emprendedores del pueblo más turístico de Cuba ya no se adaptan, sobreviven",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u1-e207888-s27061-nid341805-barco-interceptado-eeuu-combustible-cuba-habria",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u1-e199894-s27061-nid341819-vinales-desertico-emprendedores-pueblo-turistico",
       "destacada": false,
-      "tema": "barco",
-      "fecha": "Sat, 03 Oct 2026 14:52:24 +0200",
+      "tema": "viñales",
+      "fecha": "Sat, 03 Oct 2026 19:01:30 +0200",
       "id": 16
     },
     {
-      "categoria": "sociedad",
+      "categoria": "energia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubanoamericano Luis Hernández encadena dos sumisiones en 11 días y responde al reto de veterano de UFC",
+      "titulo": "Punta Brava tiene tierras vacías, problemas de agua y apagones, pero Díaz-Canel destaca su preparación para la guerra",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u1-e13-s27066-nid341808-cubanoamericano-luis-hernandez-encadena-dos-sumisiones",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u1-e209363-s27061-nid341816-punta-brava-tiene-tierras-vacias-problemas-agua",
       "destacada": false,
-      "tema": "cubanoamericano",
-      "fecha": "Sat, 03 Oct 2026 14:45:36 +0200",
+      "tema": "punta",
+      "fecha": "Sat, 03 Oct 2026 18:25:54 +0200",
       "id": 17
     },
     {
-      "categoria": "sociedad",
+      "categoria": "economia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Investigador: «El Servicio Militar cubano concentra sus daños... sobre los sectores más vulnerables»",
+      "titulo": "Así amanece el mercado informal en Cuba: El dólar arranca al alza y el euro también sube",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u1-e209395-s27061-nid341800-investigador-servicio-militar-cubano-concentra-sus",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u1-e208574-s27061-nid341815-asi-amanece-mercado-informal-cuba-dolar-arranca-al",
       "destacada": false,
-      "tema": "investigador",
-      "fecha": "Sat, 03 Oct 2026 13:55:15 +0200",
+      "tema": "tipo_cambio",
+      "fecha": "Sat, 03 Oct 2026 18:05:09 +0200",
       "id": 18
     },
     {
       "categoria": "economia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Familias cubanas denuncian pérdidas de miles de dólares con “La Reina del Sur” en viajes hacia Brasil",
+      "titulo": "Barcos, mipymes y combustible de EE.UU.: Los datos que contradicen la versión oficial del régimen cubano",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u1-e13-s27061-nid341804-familias-cubanas-denuncian-perdidas-miles-dolares-reina",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u207888-e207888-s27061-nid341811-barcos-mipymes-combustible-eeuu-datos",
       "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Sat, 03 Oct 2026 13:41:35 +0200",
+      "tema": "barcos",
+      "fecha": "Sat, 03 Oct 2026 17:58:47 +0200",
       "id": 19
     },
     {
@@ -267,27 +267,53 @@
       "categoria": "sociedad",
       "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Parapesas cubanas buscan levantar nuevas metas",
-      "resumen": "Que el deporte para personas con discapacidad en Cuba ha sido capaza de desafiar cualquier dificultad no es noticia",
+      "titulo": "Aprender a vivir la vejez",
+      "resumen": "El Festival por la vida dedicado a la tercera edad tuvo lugar en la Universidad de La Habana",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261002/parapesas-cubanas-buscan-levantar-nuevas-metas/",
+      "enlace_original": "https://www.trabajadores.cu/20261003/aprender-a-vivir-la-vejez/",
       "destacada": false,
-      "tema": "parapesas",
-      "fecha": "Fri, 02 Oct 2026 16:29:51 +0000",
+      "tema": "aprender",
+      "fecha": "Sat, 03 Oct 2026 17:58:25 +0000",
       "id": 21
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Ratificadas condenas de hasta 20 años por sabotaje al sistema eléctrico en Lácteo de La Habana",
-      "resumen": "El juicio se desarrolló de manera ejemplarizante atendiendo a que estos sucesos contravienen los esfuerzos realizados por el Estado para garantizar la producción de los alimentos de primera necesidad para la población, ante la desfavorable situación energética del país causada por el bloqueo económi",
+      "titulo": "Hotelería y turismo celebra en Santiago de Cuba",
+      "resumen": "El aniversario 31 de la fundación del Sindicato Nacional de Trabajadores de la Hotelería y el Turismo (SNTHT), el 28 de octubre, estimula a los afiliados al gremio en la realización de acciones diversas",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261002/ratificada-condenas-de-hasta-20-anos-por-sabotaje-al-sistema-electrico-en-lacteo-de-la-habana/",
+      "enlace_original": "https://www.trabajadores.cu/20261003/hoteleria-y-turismo-celebra-en-santiago-de-cuba/",
       "destacada": false,
-      "tema": "ratificadas",
-      "fecha": "Fri, 02 Oct 2026 16:19:07 +0000",
+      "tema": "hotelería",
+      "fecha": "Sat, 03 Oct 2026 17:15:09 +0000",
       "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Habana aprovecha un foro iberoamericano en Madrid para hacer lobby parlamentario",
+      "resumen": "#LaHabana aprovecha el XII Foro Parlamentario Iberoamericano para desplegar su narrativa en #Madrid. La vicepresidenta de la Asamblea Nacional del Poder Popular se reúne con diputados y hace llamados a la solidaridad.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791049452_69238.html",
+      "destacada": false,
+      "tema": "habana",
+      "fecha": "Sat, 03 Oct 2026 19:44:12 +0200",
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El color del agua 'potable' que reciben los santiagueros y el drama de criar hijos en Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791043234_69227.html",
+      "destacada": false,
+      "tema": "color",
+      "fecha": "Sat, 03 Oct 2026 18:00:34 +0200",
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "explicar",
       "fecha": "Sat, 03 Oct 2026 15:16:47 +0200",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "eliminar",
       "fecha": "Sat, 03 Oct 2026 13:37:50 +0200",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -326,7 +352,7 @@
       "destacada": false,
       "tema": "espera",
       "fecha": "Sat, 03 Oct 2026 13:01:42 +0200",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "transporte",
@@ -339,7 +365,7 @@
       "destacada": false,
       "tema": "incluye",
       "fecha": "Sat, 03 Oct 2026 12:14:07 +0200",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "identificado",
       "fecha": "Sat, 03 Oct 2026 11:00:37 +0200",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -365,7 +391,7 @@
       "destacada": false,
       "tema": "manifestante",
       "fecha": "Sat, 03 Oct 2026 00:40:53 +0200",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -378,85 +404,85 @@
       "destacada": false,
       "tema": "tribunal",
       "fecha": "Fri, 02 Oct 2026 22:43:05 +0200",
-      "id": 29
+      "id": 31
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "transporte",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Delcy Rodríguez no pidió reunirse con Cuba, Rusia y China en la ONU, se queja Moscú",
-      "resumen": "Los aliados del #chavismo no ocultan su frustración con la postura distante de #DelcyRodríguez, antes cercana a La Habana, Moscú, Pekín y Teherán.",
+      "titulo": "Voluntarios distribuyen cientos de módulos de ayuda humanitaria de EEUU en Cuba",
+      "resumen": "Voluntarios de Cáritas comenzaron a distribuir en Camagüey y Santa Clara cientos de módulos de ayuda humanitaria enviados por Estados Unidos, destinados a familias vulnerables de varias parroquias cubanas.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/internacional/1790966862_69228.html",
+      "enlace_original": "https://www.martinoticias.com/a/voluntarios-distribuyen-cientos-de-m%c3%b3dulos-de-ayuda-humanitaria-de-eeuu-en-cuba/481256.html",
       "destacada": false,
-      "tema": "delcy",
-      "fecha": "Fri, 02 Oct 2026 20:47:42 +0200",
-      "id": 30
+      "tema": "voluntarios",
+      "fecha": "Sat, 03 Oct 2026 14:11:07 -0400",
+      "id": 32
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Abriendo Espacios",
-      "resumen": "Un programa dedicado a conocer la realidad de la violencia de género en Cuba. Una espacio para dar voz a la mujer cubana.",
+      "titulo": "Trasladan a Villa Marista a manifestante del Capitolio",
+      "resumen": "Trasladan a Villa Marista a pastor y pintor detenido por protestar en el Capitolio de La Habana.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480146.html",
+      "enlace_original": "https://www.martinoticias.com/a/trasladan-a-villa-marista-a-manifestante-del-capitolio/481255.html",
       "destacada": false,
-      "tema": "abriendo",
-      "fecha": "Sat, 03 Oct 2026 09:00:00 -0400",
-      "id": 31
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Apuntes del Cartulario: Agua Dulce",
-      "resumen": "La inauguración de la plaza de Agua Dulce, en el entronque de las calzadas del Diez de Octubre y de Cristina, fue todo un acontecimiento en La Habana de 1945. El mismo día se abría al tránsito, en la barriada de Lawton, la avenida de Dolores (actual Camilo Cienfuegos). The post Apuntes del Cartulari",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/03/apuntes-del-cartulario-agua-dulce/",
-      "destacada": false,
-      "tema": "apuntes",
-      "fecha": "Sat, 03 Oct 2026 14:00:54 +0000",
-      "id": 32
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Corbyn relata su visita a Cuba: ”Están pasando por un infierno” (+ Video)",
-      "resumen": "Jeremy Corbyn, exlíder del Partido Laborista británico, dedicó buena parte de una extensa entrevista con el podcast PoliticsJOE a la situación de Cuba, el impacto que atribuye a las sanciones de Estados Unidos y la necesidad de una respuesta más activa del Reino Unido y Europa. The post Corbyn relat",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/03/corbyn-relata-su-visita-a-cuba-estan-pasando-por-un-infierno-video/",
-      "destacada": false,
-      "tema": "corbyn",
-      "fecha": "Sat, 03 Oct 2026 13:46:13 +0000",
+      "tema": "trasladan",
+      "fecha": "Sat, 03 Oct 2026 13:54:14 -0400",
       "id": 33
     },
     {
       "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "¿Qué implica para la cultura cubana el bloqueo económico y las sanciones del gobierno estadounidense?",
-      "resumen": "Cuba tiene 37 escuelas de arte. Seis de ellas son nacionales. Sus estudiantes deben moverse interprovincialmente con regularidad. Es casi una tarea titánica. El parque automotor dedicado a este empeño está cada vez más deprimido. Lo peor es que no tiene derecho a terapia. No “existen” las piezas de ",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "De cara al sol",
+      "resumen": "“De cara al sol” es una tribuna martiana que da voz a quienes bajo el régimen dictatorial cubano. Para Cuba que sufre, nuestra primera palabra; para quienes dentro de Cuba son llevados a oscuras prisiones, el primer pensamiento.",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/03/que-implica-para-la-cultura-cubana-el-bloqueo-economico-y-las-sanciones-del-gobierno-estadounidense/",
+      "enlace_original": "https://www.martinoticias.com/a/480154.html",
       "destacada": false,
-      "tema": "implica",
-      "fecha": "Sat, 03 Oct 2026 10:23:04 +0000",
+      "tema": "",
+      "fecha": "Sat, 03 Oct 2026 12:30:00 -0400",
       "id": 34
     },
     {
       "categoria": "sociedad",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
-      "titulo": "De la doctrina Spykman al corolario Donroe",
-      "resumen": "Brasil es el primero de los tres eslabones que le quedan a Donald Trump para establecer un dominio prácticamente total sobre América Latina. Y ahí ha puesto toda la carne en el asador. The post De la doctrina Spykman al corolario Donroe first appeared on Cubadebate.",
+      "titulo": "Béisbol para ciegos: Cayó la corona de Cuba, quedó la hazaña",
+      "resumen": "Cuba cayó hoy 4-10 ante Italia en la gran final del Campeonato Mundial de Béisbol para Ciego. Los antillanos, campeones de la pasada edición, llegaron invictos al duelo decisivo y estuvieron a las puertas de reeditar aquella corona, pero encontraron en el anfitrión a un adversario decidido a cobrar ",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/opinion/2026/10/02/de-la-doctrina-spykman-al-corolario-donroe/",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/03/beisbol-para-ciegos-cayo-la-corona-de-cuba-quedo-la-hazana/",
       "destacada": false,
-      "tema": "doctrina",
-      "fecha": "Sat, 03 Oct 2026 03:27:02 +0000",
+      "tema": "béisbol",
+      "fecha": "Sat, 03 Oct 2026 18:43:14 +0000",
       "id": 35
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La Habana se prepara para la edición 47 del Festival Internacional del Nuevo Cine Latinoamericano",
+      "resumen": "La edición 47 del Festival Internacional del Nuevo Cine Latinoamericano (FINCL) se iniciará en La Habana el próximo 3 de diciembre, y en esta ocasión Brasil será el país foco, lo que permitirá un mayor acercamiento a la historia, trascendencia y actualidad de la cinematografía del gigante sudamerica",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/03/la-habana-se-prepara-para-la-edicion-47-del-festival-internacional-del-nuevo-cine-latinoamericano/",
+      "destacada": false,
+      "tema": "habana",
+      "fecha": "Sat, 03 Oct 2026 18:30:05 +0000",
+      "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Los vivos envidiarán a los muertos",
+      "resumen": "Rubio no ha dicho que al terminar esta Administración “el régimen comunista cubano” habrá caído. No ha prometido semejante cosa. Lo que ha dicho es que espera que para entonces Cuba se encuentre en un “camino irreversible hacia un futuro muy diferente”. Es una elección de palabras que merece atenció",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/opinion/2026/10/03/los-vivos-envidiaran-a-los-muertos/",
+      "destacada": false,
+      "tema": "vivos",
+      "fecha": "Sat, 03 Oct 2026 16:46:32 +0000",
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -469,7 +495,7 @@
       "destacada": false,
       "tema": "confirma",
       "fecha": "Sat, 03 Oct 26 16:14:00 +0200",
-      "id": 36
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -482,7 +508,7 @@
       "destacada": false,
       "tema": "empresas",
       "fecha": "Sat, 03 Oct 26 16:11:00 +0200",
-      "id": 37
+      "id": 39
     },
     {
       "categoria": "salud",
@@ -495,7 +521,20 @@
       "destacada": false,
       "tema": "empresa",
       "fecha": "Sat, 03 Oct 26 15:59:00 +0200",
-      "id": 38
+      "id": 40
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Qué implica para la cultura cubana el bloqueo económico y las sanciones del gobierno estadounidense?",
+      "resumen": "Por Ana Álvarez Guerrero (Cuba en Datos) - Imagen: Cubadebate - El Ministerio de Cultura de Cuba rea...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125297-que-implica-para-la-cultura-cubana-el-bloqueo-economico-y-las-sanciones-del-gobierno-estadounidense.jpg?t=1791035928",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261003/125297/125297-que-implica-para-la-cultura-cubana-el-bloqueo-economico-y-las-sanciones-del-gobierno-estadounidense",
+      "destacada": false,
+      "tema": "implica",
+      "fecha": "Sat, 03 Oct 26 15:48:00 +0200",
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -508,7 +547,7 @@
       "destacada": false,
       "tema": "advierte",
       "fecha": "Sat, 03 Oct 26 15:40:00 +0200",
-      "id": 39
+      "id": 42
     },
     {
       "categoria": "salud",
@@ -521,7 +560,7 @@
       "destacada": false,
       "tema": "recibe",
       "fecha": "Sat, 03 Oct 26 15:36:00 +0200",
-      "id": 40
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -534,7 +573,7 @@
       "destacada": false,
       "tema": "acogerá",
       "fecha": "Sat, 03 Oct 26 15:33:00 +0200",
-      "id": 41
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -547,7 +586,7 @@
       "destacada": false,
       "tema": "fortalece",
       "fecha": "Sat, 03 Oct 26 15:31:00 +0200",
-      "id": 42
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -560,7 +599,7 @@
       "destacada": false,
       "tema": "chequea",
       "fecha": "Sat, 03 Oct 26 15:28:00 +0200",
-      "id": 43
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -573,20 +612,7 @@
       "destacada": false,
       "tema": "algunos",
       "fecha": "Sat, 03 Oct 26 06:50:00 +0200",
-      "id": 44
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Anna Bensi y su madre respiran aliviadas “Menos mal que estamos en Cuba”. La Payá no convoca a nadie",
-      "resumen": "Guerrero Cubano con su verdad al desnudo",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125281-anna-bensi-y-su-madre-respiran-aliviadas-menos-mal-que-estamos-en-cuba-la-paya-no-convoca-a-nadie.jpg?t=1791002965",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261003/125281/125281-anna-bensi-y-su-madre-respiran-aliviadas-menos-mal-que-estamos-en-cuba-la-paya-no-convoca-a-nadie",
-      "destacada": false,
-      "tema": "bensi",
-      "fecha": "Sat, 03 Oct 26 06:49:00 +0200",
-      "id": 45
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -599,7 +625,7 @@
       "destacada": false,
       "tema": "orgullo",
       "fecha": "Fri, 02 Oct 2026 17:06:36 +0000",
-      "id": 46
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -612,7 +638,7 @@
       "destacada": false,
       "tema": "invicta",
       "fecha": "Fri, 02 Oct 2026 15:42:06 +0000",
-      "id": 47
+      "id": 49
     },
     {
       "categoria": "politica",
@@ -625,7 +651,7 @@
       "destacada": false,
       "tema": "refuerza",
       "fecha": "Fri, 02 Oct 2026 13:28:00 +0000",
-      "id": 48
+      "id": 50
     },
     {
       "categoria": "politica",
@@ -638,45 +664,19 @@
       "destacada": false,
       "tema": "retoma",
       "fecha": "Fri, 02 Oct 2026 13:06:00 +0000",
-      "id": 49
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.guerrillero.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba vuelve a noquear en el Mundial de Béisbol para Ciegos",
-      "resumen": "Cuba volvió a convertir hoy el diamante del Estadio Simone Piani en territorio de campeones al noquear 18-0 a República Checa y mantener su invicto en la Copa Mundial de Béisbol para Ciegos. El vigente monarca universal necesitó apenas cinco entradas para dejar sentenciado un duelo que comenzó a inc",
-      "imagen_url": "",
-      "enlace_original": "https://www.guerrillero.cu/cuba-vuelve-a-noquear-en-el-mundial-de-beisbol-para-ciegos/",
-      "destacada": false,
-      "tema": "vuelve",
-      "fecha": "Thu, 01 Oct 2026 15:25:10 +0000",
-      "id": 50
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.guerrillero.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Recorrió Díaz-Canel Planta Potabilizadora Norte-Habana",
-      "resumen": "Miguel Díaz-Canel Bermúdez, Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, visitó este miércoles la Planta Potabilizadora Norte-Habana, en el municipio Habana del Este, como parte del seguimiento al Programa Integral de Aseguramiento del Abasto de Ag",
-      "imagen_url": "",
-      "enlace_original": "https://www.guerrillero.cu/recorrio-diaz-canel-planta-potabilizadora-norte-habana/",
-      "destacada": false,
-      "tema": "recorrió",
-      "fecha": "Thu, 01 Oct 2026 15:20:53 +0000",
       "id": 51
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.guerrillero.cu/",
+      "categoria": "politica",
+      "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "Delegación cubana participa en XII Foro Parlamentario",
-      "resumen": "La delegación de Cuba, encabezada por Ana María Mari Machado, vicepresidenta de la Asamblea Nacional del Poder Popular (ANPP), participa en el XII Foro Parlamentario Iberoamericano, inaugurado hoy en Madrid en el Congreso de los Diputados de España, precisó el parlamento cubano desde su perfil en Fa",
+      "titulo": "Díaz-Canel sobre las Transformaciones: “Es fuerte el desafío, pero no vamos a detenernos”",
+      "resumen": "El Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, condujo esta semana un nuevo podcast “Desde la Presidencia”, cuyo tema versó sobre las Transformaciones que en lo económico y en lo social vive el país. En el espacio, estu",
       "imagen_url": "",
-      "enlace_original": "https://www.guerrillero.cu/delegacion-cubana-participa-en-xii-foro-parlamentario/",
+      "enlace_original": "https://www.tribuna.cu/diaz-canel-sobre-las-transformaciones-es-fuerte-el-desafio-pero-no-vamos-a-detenernos/",
       "destacada": false,
-      "tema": "delegación",
-      "fecha": "Thu, 01 Oct 2026 15:16:37 +0000",
+      "tema": "canel",
+      "fecha": "Sat, 03 Oct 2026 17:17:07 +0000",
       "id": 52
     },
     {
@@ -691,58 +691,6 @@
       "tema": "guardia",
       "fecha": "Fri, 02 Oct 2026 22:03:43 +0000",
       "id": 53
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Sábado del Libro presentará las Sensaciones de Reinaldo Montero",
-      "resumen": "Cada capítulo de la novela combina estrategias narrativas sutiles con situaciones reconocibles en nuestro tiempo, culminando en un cierre sorpresivo La entrada Sábado del Libro presentará las Sensaciones de Reinaldo Montero se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/sabado-del-libro-presentara-las-sensaciones-de-reinaldo-montero/",
-      "destacada": false,
-      "tema": "sábado",
-      "fecha": "Fri, 02 Oct 2026 18:50:07 +0000",
-      "id": 54
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Celebró La Habana Día internacional del adulto mayor",
-      "resumen": "En los municipios de la capital se agasajaron a los adultos mayores con variadas actividades La entrada Celebró La Habana Día internacional del adulto mayor se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/celebro-la-habana-dia-internacional-del-adulto-mayor/",
-      "destacada": false,
-      "tema": "celebró",
-      "fecha": "Fri, 02 Oct 2026 18:28:13 +0000",
-      "id": 55
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Plaza Viva para la edad tercera",
-      "resumen": "En la actividad de cierre de la Jornada de las personas adultas mayores en el Centro Histórico habrá feria, música y exposiciones La entrada Plaza Viva para la edad tercera se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/plaza-viva-para-la-edad-tercera/",
-      "destacada": false,
-      "tema": "plaza",
-      "fecha": "Fri, 02 Oct 2026 17:20:09 +0000",
-      "id": 56
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Mundial de Béisbol sub-15: un nuevo examen suspenso",
-      "resumen": "Existen resultados que, por esperados, no dejan de sorprender a los amantes del béisbol cubano en cualquiera de sus categorías.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/02/mundial-de-beisbol-sub-15/",
-      "destacada": false,
-      "tema": "mundial",
-      "fecha": "Fri, 02 Oct 2026 13:16:00 +0000",
-      "id": 57
     }
   ]
 }
