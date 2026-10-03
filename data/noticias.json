@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-03",
-  "hora": "08:05",
-  "total": 55,
+  "hora": "09:07",
+  "total": 47,
   "noticias": [
     {
       "categoria": "politica",
@@ -134,84 +134,6 @@
       "id": 10
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "De las mejores pizzas a espaguetis hervidos: denuncian decadencia de pizzería Las Pirámides en Santiago de Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u1-e209363-s27061-nid341780-mejores-pizzas-espaguetis-hervidos-denuncian",
-      "destacada": false,
-      "tema": "mejores",
-      "fecha": "Sat, 03 Oct 2026 06:42:35 +0200",
-      "id": 11
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "“La Habana es un cadáver al sol”: basura y abandono rodean la funeraria de Zanja",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u1-e209363-s27061-nid341778-habana-cadaver-al-sol-basura-abandono-rodean",
-      "destacada": false,
-      "tema": "habana",
-      "fecha": "Sat, 03 Oct 2026 06:14:11 +0200",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Académica cubana: usar la legislación para proteger a los esbirros evidencia «degradación extrema»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u1-e209395-s27061-nid341777-academica-cubana-usar-legislacion-proteccion",
-      "destacada": false,
-      "tema": "académica",
-      "fecha": "Sat, 03 Oct 2026 05:39:33 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubanos: ¿realmente estamos viviendo?",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u1-e209395-s27061-nid341773-cubanos-realmente-estamos-viviendo",
-      "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Sat, 03 Oct 2026 05:10:10 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "“Alimentos en Cuba ya no están al alcance de todos”: la cruda realidad que muestra una cubana",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u1-e209363-s27061-nid341776-alimentos-cuba-estan-al-alcance-todos-cruda-realidad",
-      "destacada": false,
-      "tema": "alimentos",
-      "fecha": "Sat, 03 Oct 2026 04:35:19 +0200",
-      "id": 15
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El dólar se dispara a 780 CUP y el euro escala hasta 878 CUP en Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-03-u1-e209363-s27061-nid341774-dolar-dispara-780-cup-euro-escala-878-cup-cuba",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Sat, 03 Oct 2026 04:11:15 +0200",
-      "id": 16
-    },
-    {
       "categoria": "politica",
       "fuente": "https://www.radiocubana.cu",
       "fuente_tipo": "alternativa",
@@ -222,7 +144,7 @@
       "destacada": false,
       "tema": "analizó",
       "fecha": "Sat, 03 Oct 2026 00:45:18 +0000",
-      "id": 17
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -235,7 +157,7 @@
       "destacada": false,
       "tema": "parapesas",
       "fecha": "Fri, 02 Oct 2026 16:29:51 +0000",
-      "id": 18
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -248,7 +170,20 @@
       "destacada": false,
       "tema": "ratificadas",
       "fecha": "Fri, 02 Oct 2026 16:19:07 +0000",
-      "id": 19
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Identificado el manifestante detenido tras protestar frente al Capitolio de La Habana",
+      "resumen": "Identificado como Ariel Limias Leiva, un pastor cristiano de 53 años, el #cubano que protestó este viernes frente al Capitolio de #LaHabana. \"Alguien tiene que hacerlo por nuestro país\", dijo antes de ser arrestado.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791018037_69232.html",
+      "destacada": false,
+      "tema": "identificado",
+      "fecha": "Sat, 03 Oct 2026 11:00:37 +0200",
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -261,7 +196,7 @@
       "destacada": false,
       "tema": "manifestante",
       "fecha": "Sat, 03 Oct 2026 00:40:53 +0200",
-      "id": 20
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -274,7 +209,7 @@
       "destacada": false,
       "tema": "tribunal",
       "fecha": "Fri, 02 Oct 2026 22:43:05 +0200",
-      "id": 21
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -287,7 +222,7 @@
       "destacada": false,
       "tema": "delcy",
       "fecha": "Fri, 02 Oct 2026 20:47:42 +0200",
-      "id": 22
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -300,7 +235,7 @@
       "destacada": false,
       "tema": "pancho",
       "fecha": "Fri, 02 Oct 2026 18:42:12 +0200",
-      "id": 23
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -313,7 +248,7 @@
       "destacada": false,
       "tema": "méxico",
       "fecha": "Fri, 02 Oct 2026 18:28:05 +0200",
-      "id": 24
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -326,7 +261,7 @@
       "destacada": false,
       "tema": "feminicidios",
       "fecha": "Fri, 02 Oct 2026 18:14:32 +0200",
-      "id": 25
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -339,7 +274,7 @@
       "destacada": false,
       "tema": "condena",
       "fecha": "Fri, 02 Oct 2026 17:58:21 +0200",
-      "id": 26
+      "id": 21
     },
     {
       "categoria": "salud",
@@ -352,46 +287,7 @@
       "destacada": false,
       "tema": "falleció",
       "fecha": "Fri, 02 Oct 2026 16:55:50 +0200",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubanos exiliados piden a Trump 'acciones y no palabras' frente al régimen de La Habana",
-      "resumen": "Una movilización en #Washington reúne a activistas y exiliados cubanos que piden a Trump acelerar las medidas para propiciar un cambio político en #Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1790946246_69222.html",
-      "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Fri, 02 Oct 2026 15:04:06 +0200",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480122.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Sat, 03 Oct 2026 00:00:30 -0400",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Barbacoa de Pepe",
-      "resumen": "La Barbacoa de Pepe es un muestrario de la nostalgia cubana con datos y curiosidades de los temas más variados, para la audiencia cubana. También trataremos temas internacionales y locales, siempre con el fin de educar al Cubano de la Isla. Con la elocuencia de Pepe Forte.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480078.html",
-      "destacada": false,
-      "tema": "barbacoa",
-      "fecha": "Fri, 02 Oct 2026 21:00:00 -0400",
-      "id": 30
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -404,7 +300,7 @@
       "destacada": false,
       "tema": "doctrina",
       "fecha": "Sat, 03 Oct 2026 03:27:02 +0000",
-      "id": 31
+      "id": 23
     },
     {
       "categoria": "economia",
@@ -417,7 +313,7 @@
       "destacada": false,
       "tema": "tracey",
       "fecha": "Sat, 03 Oct 2026 03:12:19 +0000",
-      "id": 32
+      "id": 24
     },
     {
       "categoria": "politica",
@@ -430,7 +326,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sat, 03 Oct 2026 01:16:35 +0000",
-      "id": 33
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -443,7 +339,7 @@
       "destacada": false,
       "tema": "avanza",
       "fecha": "Sat, 03 Oct 2026 01:00:25 +0000",
-      "id": 34
+      "id": 26
     },
     {
       "categoria": "politica",
@@ -456,7 +352,7 @@
       "destacada": false,
       "tema": "abrirá",
       "fecha": "Sat, 03 Oct 2026 00:47:54 +0000",
-      "id": 35
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -469,7 +365,7 @@
       "destacada": false,
       "tema": "algunos",
       "fecha": "Sat, 03 Oct 26 06:50:00 +0200",
-      "id": 36
+      "id": 28
     },
     {
       "categoria": "transporte",
@@ -482,7 +378,7 @@
       "destacada": false,
       "tema": "bensi",
       "fecha": "Sat, 03 Oct 26 06:49:00 +0200",
-      "id": 37
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -495,7 +391,7 @@
       "destacada": false,
       "tema": "petróleo",
       "fecha": "Sat, 03 Oct 26 06:44:00 +0200",
-      "id": 38
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -508,7 +404,7 @@
       "destacada": false,
       "tema": "pequeño",
       "fecha": "Fri, 02 Oct 26 16:56:00 +0200",
-      "id": 39
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -521,7 +417,7 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Fri, 02 Oct 26 16:45:00 +0200",
-      "id": 40
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -534,7 +430,7 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Fri, 02 Oct 26 15:24:00 +0200",
-      "id": 41
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -547,7 +443,7 @@
       "destacada": false,
       "tema": "dignidad",
       "fecha": "Fri, 02 Oct 26 13:51:00 +0200",
-      "id": 42
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -560,7 +456,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 02 Oct 26 12:55:00 +0200",
-      "id": 43
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -573,7 +469,7 @@
       "destacada": false,
       "tema": "klaudia",
       "fecha": "Fri, 02 Oct 26 08:12:00 +0200",
-      "id": 44
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -586,7 +482,7 @@
       "destacada": false,
       "tema": "orgullo",
       "fecha": "Fri, 02 Oct 2026 17:06:36 +0000",
-      "id": 45
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -599,7 +495,7 @@
       "destacada": false,
       "tema": "invicta",
       "fecha": "Fri, 02 Oct 2026 15:42:06 +0000",
-      "id": 46
+      "id": 38
     },
     {
       "categoria": "politica",
@@ -612,7 +508,7 @@
       "destacada": false,
       "tema": "refuerza",
       "fecha": "Fri, 02 Oct 2026 13:28:00 +0000",
-      "id": 47
+      "id": 39
     },
     {
       "categoria": "politica",
@@ -625,7 +521,7 @@
       "destacada": false,
       "tema": "retoma",
       "fecha": "Fri, 02 Oct 2026 13:06:00 +0000",
-      "id": 48
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -638,7 +534,7 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Thu, 01 Oct 2026 15:25:10 +0000",
-      "id": 49
+      "id": 41
     },
     {
       "categoria": "politica",
@@ -651,7 +547,7 @@
       "destacada": false,
       "tema": "recorrió",
       "fecha": "Thu, 01 Oct 2026 15:20:53 +0000",
-      "id": 50
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -664,7 +560,7 @@
       "destacada": false,
       "tema": "delegación",
       "fecha": "Thu, 01 Oct 2026 15:16:37 +0000",
-      "id": 51
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -677,7 +573,7 @@
       "destacada": false,
       "tema": "guardia",
       "fecha": "Fri, 02 Oct 2026 22:03:43 +0000",
-      "id": 52
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -690,7 +586,7 @@
       "destacada": false,
       "tema": "sábado",
       "fecha": "Fri, 02 Oct 2026 18:50:07 +0000",
-      "id": 53
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -703,7 +599,7 @@
       "destacada": false,
       "tema": "celebró",
       "fecha": "Fri, 02 Oct 2026 18:28:13 +0000",
-      "id": 54
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -716,7 +612,7 @@
       "destacada": false,
       "tema": "plaza",
       "fecha": "Fri, 02 Oct 2026 17:20:09 +0000",
-      "id": 55
+      "id": 47
     }
   ]
 }
