@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-04",
-  "hora": "17:40",
-  "total": 52,
+  "hora": "21:06",
+  "total": 54,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -20,19 +20,6 @@
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "«El amor es mi tema»",
-      "resumen": "Hace 45 años falleció en La Habana Servando Cabrera Moreno, uno de los grandes nombres de la pintura cubana",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-02/el-amor-es-mi-tema-02-10-2026-18-10-38",
-      "destacada": true,
-      "tema": "",
-      "fecha": "Fri, 02 Oct 2026 18:10:38 -0400",
-      "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
       "titulo": "Jesús Orta Ruiz: «Hay que tomar cinceles»",
       "resumen": "Conocido como El Indio Naborí (1922-2005), es uno de los grandes poetas cubanos; recibió el Premio Nacional de Literatura en 1995, así como mereció la Orden Félix Varela de Primer Grado y el título honorífico de Héroe del Trabajo de la República de Cuba",
       "imagen_url": "",
@@ -40,7 +27,7 @@
       "destacada": true,
       "tema": "jesús",
       "fecha": "Sun, 04 Oct 2026 09:10:24 -0400",
-      "id": 3
+      "id": 2
     },
     {
       "categoria": "sociedad",
@@ -53,20 +40,7 @@
       "destacada": true,
       "tema": "subtítulo",
       "fecha": "Sat, 03 Oct 2026 14:10:29 -0400",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Alfonso Urquiola: El Relámpago de Bahía Honda vuelve al ruedo",
-      "resumen": "La Habana, 4 oct (Prensa Latina) Alfonso Urquiola regresó hoy a la Serie Nacional de Cuba, más de una década después, para asumir nuevamente el mando de los Vegueros de Pinar del Río, su casa beisbolera. The post Alfonso Urquiola: El Relámpago de Bahía Honda vuelve al ruedo first appeared on Noticia",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/04/alfonso-urquiola-el-relampago-de-bahia-honda-vuelve-al-ruedo/",
-      "destacada": true,
-      "tema": "alfonso",
-      "fecha": "Sun, 04 Oct 2026 17:28:22 +0000",
-      "id": 5
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -76,9 +50,35 @@
       "resumen": "La comercializadora de combustible A granel apoya al conjunto de La Habana en la Serie Nacional y los peloteros reciben uniformes con el logo de la compañía",
       "imagen_url": "https://static.14ymedio.com/clip/07939824-b203-477c-9fa8-bc136fb8c78b_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/industriales-primer-equipo-deportivo-cubano_1_1131495.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "industriales",
       "fecha": "Sun, 04 Oct 2026 11:51:19 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Dos peloteros que abandonaron Cuba firman con equipos de las Grandes Ligas",
+      "resumen": "Se confirma la salida de la Isla de Alain Michel Rodríguez y Dainel Santos, quienes buscan en República Dominicana una oportunidad con clubes de EE UU",
+      "imagen_url": "https://static.14ymedio.com/clip/bde8a7a5-688e-43d9-8d4f-8e6ee9e26a5d_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/deportes/peloteros-abandonaron-cuba-firman-equipos_1_1131520.html",
+      "destacada": true,
+      "tema": "peloteros",
+      "fecha": "Sun, 04 Oct 2026 18:20:53 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El Festival de Cine de La Habana se enfocará en Brasil en medio de apagones y escasez",
+      "resumen": "El evento, previsto del 3 al 13 de diciembre, se centrará en la inteligencia artificial y en el centenario del cineasta Julio García Espinosa",
+      "imagen_url": "https://static.14ymedio.com/clip/5d6c5b24-237f-4688-b2e3-b59c9f404c4e_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cultura/festival-cine-habana-enfocara-brasil_1_1131501.html",
+      "destacada": false,
+      "tema": "festival",
+      "fecha": "Sun, 04 Oct 2026 12:43:58 +0000",
       "id": 6
     },
     {
@@ -95,32 +95,6 @@
       "id": 7
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Libros para salvaguardar un país que se pierde",
-      "resumen": "De la Habana de Jorge Mañach a los \"raros\" de Vicente Echerri, septiembre trae rescates, memorias y nuevas miradas sobre Cuba",
-      "imagen_url": "https://static.14ymedio.com/clip/eaf68a50-65f1-4ce2-97f1-83842e4f4a78_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/libros-salvaguardar-pais-pierde_1_1131499.html",
-      "destacada": false,
-      "tema": "libros",
-      "fecha": "Sun, 04 Oct 2026 12:05:58 +0000",
-      "id": 8
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El Festival de Cine de La Habana se enfocará en Brasil en medio de apagones y escasez",
-      "resumen": "El evento, previsto del 3 al 13 de diciembre, se centrará en la inteligencia artificial y en el centenario del cineasta Julio García Espinosa",
-      "imagen_url": "https://static.14ymedio.com/clip/5d6c5b24-237f-4688-b2e3-b59c9f404c4e_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cultura/festival-cine-habana-enfocara-brasil_1_1131501.html",
-      "destacada": false,
-      "tema": "festival",
-      "fecha": "Sun, 04 Oct 2026 12:43:58 +0000",
-      "id": 9
-    },
-    {
       "categoria": "energia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -131,7 +105,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Sat, 03 Oct 2026 13:55:50 +0000",
-      "id": 10
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -144,7 +118,7 @@
       "destacada": false,
       "tema": "lugar",
       "fecha": "Sat, 03 Oct 2026 15:57:33 +0000",
-      "id": 11
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -157,20 +131,7 @@
       "destacada": false,
       "tema": "otras",
       "fecha": "Sat, 03 Oct 2026 16:52:14 +0000",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Guardia Costera de EE UU intercepta un buque con combustible rumbo a Cuba",
-      "resumen": "Washington asegura que es el segundo barco que aborda en los últimos meses por transportar hidrocarburos de origen \"ilícito\"",
-      "imagen_url": "https://static.14ymedio.com/clip/5237ae7f-7879-494a-a318-87d923e8e632_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/guardia-costera-ee-uu-intercepta_1_1131462.html",
-      "destacada": false,
-      "tema": "guardia",
-      "fecha": "Fri, 02 Oct 2026 18:06:59 +0000",
-      "id": 13
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -183,59 +144,59 @@
       "destacada": false,
       "tema": "cuarto",
       "fecha": "Sat, 03 Oct 2026 17:50:35 +0000",
-      "id": 14
+      "id": 11
     },
     {
-      "categoria": "transporte",
-      "fuente": "https://www.14ymedio.com",
+      "categoria": "politica",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Con las calles semivacías, los vehículos eléctricos dominan las estadísticas de accidentes en Cuba",
-      "resumen": "Un Ecomóvil y un triciclo chocaron este sábado en Sancti Spíritus, donde estas alternativas ganan terreno ante la crisis del transporte",
-      "imagen_url": "https://static.14ymedio.com/clip/02792905-383d-423f-9aea-0670fd565ba0_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/calles-semivacias-vehiculos-electricos-dominan_1_1131493.html",
+      "titulo": "Cuba termina con plata en el Mundial de Béisbol para Ciegos y Díaz-Canel felicita al equipo",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-04-u1-e197721-s27066-nid341926-cuba-termina-plata-mundial-beisbol-ciegos-diaz-canel",
       "destacada": false,
-      "tema": "calles",
-      "fecha": "Sat, 03 Oct 2026 18:05:10 +0000",
-      "id": 15
+      "tema": "termina",
+      "fecha": "Sun, 04 Oct 2026 21:50:48 +0200",
+      "id": 12
     },
     {
       "categoria": "transporte",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Madre de la jefa de prensa de Díaz-Canel usa la Biblia para desviar la atención del caso Anna Bensi",
+      "titulo": "ETIAS costará 20 euros: qué cubanos deberán pedirlo para viajar a Europa y quiénes seguirán necesitando visa",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-04-u207888-e207888-s27061-nid341890-madre-jefa-prensa-diaz-canel-usa-biblia-desviar",
-      "destacada": false,
-      "tema": "madre",
-      "fecha": "Sun, 04 Oct 2026 17:27:50 +0200",
-      "id": 16
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Dólar mantiene su escalada en Cuba: ¿llegará a los 800 pesos?",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-04-u1-e135253-s27061-nid341889-dolar-mantiene-escalada-cuba-llegara-800-pesos",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-04-u1-e13-s27061-nid341924-etias-costara-20-euros-cubanos-deberan-pedirlo-viajar",
       "destacada": false,
       "tema": "tipo_cambio",
-      "fecha": "Sun, 04 Oct 2026 16:36:09 +0200",
-      "id": 17
+      "fecha": "Sun, 04 Oct 2026 21:32:38 +0200",
+      "id": 13
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba ocupa el cuarto lugar mundial en solicitudes urgentes ante la ONU por desapariciones forzadas: 217, la mayoría tras el 11J",
+      "titulo": "Bloquean línea telefónica del activista cristiano David Espinosa tras su detención en La Habana",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-04-u1-e135253-s27061-nid341888-cuba-cuarto-pais-mundo-solicitudes-accion-urgente",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-04-u1-e208512-s27061-nid341914-bloquean-linea-telefonica-activista-cristiano-david",
       "destacada": false,
-      "tema": "ocupa",
-      "fecha": "Sun, 04 Oct 2026 16:15:37 +0200",
-      "id": 18
+      "tema": "bloquean",
+      "fecha": "Sun, 04 Oct 2026 21:27:33 +0200",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«No me nieguen el derecho a ser madre»: cubana deportada suplica volver junto a su hija a EE.UU.",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-04-u1-e135253-s27061-nid341919-me-nieguen-derecho-ser-madre-cubana-deportada",
+      "destacada": false,
+      "tema": "nieguen",
+      "fecha": "Sun, 04 Oct 2026 21:21:02 +0200",
+      "id": 15
     },
     {
       "categoria": "politica",
@@ -248,7 +209,72 @@
       "destacada": false,
       "tema": "analizó",
       "fecha": "Sat, 03 Oct 2026 00:45:18 +0000",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubanacán y su apuesta por la innovación",
+      "resumen": "Los eventos del Fórum de Ciencia y Técnica enseñan la capacidad creativa y de resiliencia del turismo cubano",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261004/cubanacan-y-su-apuesta-por-la-innovacion/",
+      "destacada": false,
+      "tema": "cubanacán",
+      "fecha": "Sun, 04 Oct 2026 19:58:11 +0000",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Hangul, la voz de Corea en el corazón de La Habana",
+      "resumen": "La Semana Cultural dedicada a Corea del Sur quedó inaugurada este domingo en La Habana bajo el lema Hangul, la voz de Corea en el corazón de La Habana",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261004/hangul-la-voz-de-corea-en-el-corazon-de-la-habana/",
+      "destacada": false,
+      "tema": "hangul",
+      "fecha": "Sun, 04 Oct 2026 17:43:02 +0000",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "The National Union of Hotel and Tourism Workers celebrate in Santiago de Cuba",
+      "resumen": "The 31st anniversary of the founding of the National Union of Hotel and Tourism Workers (SNTHT, in Spanish), on October 28, encourages members of the trade union to carry out various actions",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261004/the-national-union-of-hotel-and-tourism-workers-celebrate-in-santiago-de-cuba/",
+      "destacada": false,
+      "tema": "national",
+      "fecha": "Sun, 04 Oct 2026 16:33:18 +0000",
       "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Avicultores avileños potencian línea genética de alta calidad",
+      "resumen": "Las pollitas nacidas en las últimas horas en las incubadoras de la unidad Pina II fueron trasladadas a una granja para continuar su crecimiento y desarrollo",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261004/avicultores-avilenos-potencian-linea-genetica-de-alta-calidad/",
+      "destacada": false,
+      "tema": "avicultores",
+      "fecha": "Sun, 04 Oct 2026 15:16:30 +0000",
+      "id": 20
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Industriales, primer equipo con patrocinador privado en el 'béisbol revolucionario' de Cuba",
+      "resumen": "#Industriales se convierte en el primer equipo de la deslucida Serie Nacional de #Béisbol de #Cuba en contar con un patrocinador privado. A Granel, una mipyme de capital extranjero, respaldará al conjunto.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/deportes/1791137573_69247.html",
+      "destacada": false,
+      "tema": "industriales",
+      "fecha": "Sun, 04 Oct 2026 20:12:53 +0200",
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -261,7 +287,7 @@
       "destacada": false,
       "tema": "retirar",
       "fecha": "Sun, 04 Oct 2026 18:35:08 +0200",
-      "id": 20
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -274,7 +300,7 @@
       "destacada": false,
       "tema": "otoños",
       "fecha": "Sun, 04 Oct 2026 18:16:10 +0200",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -287,7 +313,7 @@
       "destacada": false,
       "tema": "acrobacias",
       "fecha": "Sun, 04 Oct 2026 18:01:52 +0200",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "salud",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "médicos",
       "fecha": "Sun, 04 Oct 2026 16:42:52 +0200",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "energia",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "guiteras",
       "fecha": "Sun, 04 Oct 2026 16:24:14 +0200",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "salud",
@@ -326,7 +352,7 @@
       "destacada": false,
       "tema": "obsequio",
       "fecha": "Sun, 04 Oct 2026 13:57:49 +0200",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -339,7 +365,7 @@
       "destacada": false,
       "tema": "esculturas",
       "fecha": "Sun, 04 Oct 2026 13:00:08 +0200",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "linda",
       "fecha": "Sun, 04 Oct 2026 12:30:13 +0200",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -365,20 +391,46 @@
       "destacada": false,
       "tema": "represión",
       "fecha": "Sun, 04 Oct 2026 11:06:23 +0200",
-      "id": 28
+      "id": 30
     },
     {
-      "categoria": "salud",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El régimen impide entrar a Cuba al cantante Baby Lores, que viajaba a ver a su madre hospitalizada",
-      "resumen": "El régimen impide entrar a #Cuba al cantante #BabyLores, quien viajaba a #LaHabana a ver a su madre, hospitalizada en terapia intensiva: \"Nadie debería tener el poder de decidir quién merece volver a la tierra donde nació\".",
+      "titulo": "Agua estancada, vidas en riesgo: el dilema de la población cubana para sobrevivir al dengue",
+      "resumen": "En medio de apagones prolongados, montañas de basura y falta de insumos médicos, Cuba enfrenta hoy una de sus batallas más complejas: La circulación simultánea de cuatro serotipos del dengue donde la escasez de combustible paralizó las labores de fumigación.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791061460_69240.html",
+      "enlace_original": "https://www.martinoticias.com/a/agua-estancada-vidas-en-riesgo-el-dilema-de-la-poblaci%c3%b3n-cubana-para-sobrevivir-al-dengue/481271.html",
       "destacada": false,
-      "tema": "régimen",
-      "fecha": "Sat, 03 Oct 2026 23:04:20 +0200",
-      "id": 29
+      "tema": "estancada",
+      "fecha": "Sun, 04 Oct 2026 14:41:22 -0400",
+      "id": 31
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba entre los países con más denuncias de desapariciones forzadas ante Comité de la ONU",
+      "resumen": "Cuba se mantiene en 2026 entre los países con más solicitudes de acción urgente ante el Comité contra la Desaparición Forzada de Naciones Unidas (CED), con 17 casos reportados este año y 217 desde 2012, según un informe publicado por la ONU.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-entre-los-pa%c3%adses-con-m%c3%a1s-denuncias-de-desapariciones-forzadas-ante-comit%c3%a9-de-la-onu/481270.html",
+      "destacada": false,
+      "tema": "países",
+      "fecha": "Sun, 04 Oct 2026 14:13:23 -0400",
+      "id": 32
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Meme Solís y Frankie Marcos serán galardonados en la ceremonia de los Premios Latino 2026 en Madrid",
+      "resumen": "El legado musical cubano será reconocido este lunes en las figuras de Meme Solís y Frankie Marcos, durante la ceremonia de entrega de los Premios Latino, que se celebrará en el Nuevo Teatro Alcalá de Madrid.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/meme-solis-y-frankie-marcos-seran-premiados-por-su-trayectoria-artistica/481272.html",
+      "destacada": false,
+      "tema": "solís",
+      "fecha": "Sun, 04 Oct 2026 14:04:35 -0400",
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -391,7 +443,7 @@
       "destacada": false,
       "tema": "familiares",
       "fecha": "Sun, 04 Oct 2026 13:13:23 -0400",
-      "id": 30
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -404,7 +456,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Sun, 04 Oct 2026 12:00:00 -0400",
-      "id": 31
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -417,7 +469,7 @@
       "destacada": false,
       "tema": "piden",
       "fecha": "Sun, 04 Oct 2026 11:14:43 -0400",
-      "id": 32
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -430,7 +482,7 @@
       "destacada": false,
       "tema": "activista",
       "fecha": "Sun, 04 Oct 2026 09:31:08 -0400",
-      "id": 33
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -443,7 +495,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Sun, 04 Oct 2026 08:00:00 -0400",
-      "id": 34
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -456,7 +508,7 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Sun, 04 Oct 2026 07:00:30 -0400",
-      "id": 35
+      "id": 39
     },
     {
       "categoria": "salud",
@@ -469,33 +521,33 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Sun, 04 Oct 2026 07:00:00 -0400",
-      "id": 36
+      "id": 40
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
+      "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
-      "titulo": "Postmoderno",
-      "resumen": "El cineasta cubanoamericano Joe Cardona y sus invitados rompen los muros culturales que han aislado a Cuba por mucho tiempo y tienden un puente musical para conocer la música que una vez fue censurada, prohibida y descartada.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480178.html",
+      "titulo": "Alubiada solidaria para adquirir placas solares con destino a la red sanitaria de Cuba: Basauri, 11 de octubre",
+      "resumen": "Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125309-alubiada-solidaria-para-adquirir-placas-solares-con-destino-a-la-red-sanitaria-de-cuba-basauri-11-de-octubre.jpg?t=1791145415",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261004/125309/125309-alubiada-solidaria-para-adquirir-placas-solares-con-destino-a-la-red-sanitaria-de-cuba-basauri-11-de-octubre",
       "destacada": false,
-      "tema": "postmoderno",
-      "fecha": "Sat, 03 Oct 2026 20:00:00 -0400",
-      "id": 37
+      "tema": "alubiada",
+      "fecha": "Sun, 04 Oct 26 22:19:00 +0200",
+      "id": 41
     },
     {
       "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Y la memoria está intacta…",
-      "resumen": "El «pégate al agua, Felo»,/dejó a Cuba estremecida,/y fue una gran sacudida/de llanto y de desconsuelo./Pero Fidel en el duelo/al mundo entero aclaraba/que si un pueblo así lloraba/tan enérgico y viril,/la injusticia cruel y vil/frente a ese pueblo temblaba The post Y la memoria está intacta… first ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/04/y-la-memoria-esta-intacta/",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "&quot;Todo es poco en apoyo de Cuba, un país en estado de sitio&quot;: jornada solidaria en Hernani dio voz a las mujeres cubanas en resistencia (+Fotos)",
+      "resumen": "Cubainformación.- La Kulturarteko Plaza Feminista de Hernani (Gipuzkoa) acogió el sábado 3 de octubr...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125308-todo-es-poco-en-apoyo-de-cuba-un-pais-en-estado-de-sitio-jornada-solidaria-en-hernani-dio-voz-a-las-mujeres-cubanas-en-resistencia-fotos.jpg?t=1791136803",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261004/125308/125308-todo-es-poco-en-apoyo-de-cuba-un-pais-en-estado-de-sitio-jornada-solidaria-en-hernani-dio-voz-a-las-mujeres-cubanas-en-resistencia-fotos",
       "destacada": false,
-      "tema": "memoria",
-      "fecha": "Sun, 04 Oct 2026 14:23:15 +0000",
-      "id": 38
+      "tema": "apoyo",
+      "fecha": "Sun, 04 Oct 26 19:38:00 +0200",
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -508,7 +560,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Sun, 04 Oct 26 12:43:00 +0200",
-      "id": 39
+      "id": 43
     },
     {
       "categoria": "politica",
@@ -521,7 +573,7 @@
       "destacada": false,
       "tema": "corbyn",
       "fecha": "Sun, 04 Oct 26 12:38:00 +0200",
-      "id": 40
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -534,7 +586,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Sun, 04 Oct 26 12:33:00 +0200",
-      "id": 41
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -547,7 +599,7 @@
       "destacada": false,
       "tema": "mamógrafo",
       "fecha": "Sun, 04 Oct 26 11:59:00 +0200",
-      "id": 42
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -560,7 +612,7 @@
       "destacada": false,
       "tema": "narco",
       "fecha": "Sat, 03 Oct 26 23:14:00 +0200",
-      "id": 43
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -573,7 +625,7 @@
       "destacada": false,
       "tema": "confirma",
       "fecha": "Sat, 03 Oct 26 16:14:00 +0200",
-      "id": 44
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -586,33 +638,20 @@
       "destacada": false,
       "tema": "empresas",
       "fecha": "Sat, 03 Oct 26 16:11:00 +0200",
-      "id": 45
+      "id": 49
     },
     {
-      "categoria": "salud",
-      "fuente": "https://www.cubainformacion.tv",
+      "categoria": "politica",
+      "fuente": "https://actualidad.rt.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba. Empresa española rechaza vender pieza de equipo médico a un hospital cubano",
-      "resumen": "Por José Enrique González Calvo (Resumen Latinoamericano) - La empresa española Telstar del grupo Sy...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125298-cuba-empresa-espanola-rechaza-vender-pieza-de-equipo-medico-a-un-hospital-cubano.jpg?t=1791036637",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261003/125298/125298-cuba-empresa-espanola-rechaza-vender-pieza-de-equipo-medico-a-un-hospital-cubano",
+      "titulo": "El presidente alemán alerta del fantasma de Weimar: ¿una advertencia o una maniobra política?",
+      "resumen": "Frank-Walter Steinmeier advirtió sobre el peligro de que el país reviva el escenario de la República de Weimar por el ascenso de \"fuerzas extremistas\", en clara alusión a la AfD. Sin embargo, los expertos rechazan esa comparación y atribuyen el avance del partido opositor a los errores del actual Go",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac28708e9ff71665134dfcb.jpg",
+      "enlace_original": "https://actualidad-rt.com/actualidad/630814-presidente-aleman-alerta-fantasma-weimar-maniobra?utm_source=rss&utm_medium=rss&utm_campaign=all",
       "destacada": false,
-      "tema": "empresa",
-      "fecha": "Sat, 03 Oct 26 15:59:00 +0200",
-      "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Qué implica para la cultura cubana el bloqueo económico y las sanciones del gobierno estadounidense?",
-      "resumen": "Por Ana Álvarez Guerrero (Cuba en Datos) - Imagen: Cubadebate - El Ministerio de Cultura de Cuba rea...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125297-que-implica-para-la-cultura-cubana-el-bloqueo-economico-y-las-sanciones-del-gobierno-estadounidense.jpg?t=1791035928",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261003/125297/125297-que-implica-para-la-cultura-cubana-el-bloqueo-economico-y-las-sanciones-del-gobierno-estadounidense",
-      "destacada": false,
-      "tema": "implica",
-      "fecha": "Sat, 03 Oct 26 15:48:00 +0200",
-      "id": 47
+      "tema": "presidente",
+      "fecha": "Sun, 04 Oct 2026 19:18:57 +0000",
+      "id": 50
     },
     {
       "categoria": "energia",
@@ -625,20 +664,7 @@
       "destacada": false,
       "tema": "termoeléctrica",
       "fecha": "Sun, 04 Oct 2026 17:15:15 +0000",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Evalúan funcionamiento sindical en La Habana",
-      "resumen": "En la reunión se informó del aporte del movimiento obrero y sindical al desarrollo de todas las transformaciones económicas y sociales que se desarrollan en La Habana, así como el aporte productivo, la eficiencia, los salarios y la productividad para el desarrollo económico La entrada Evalúan funcio",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/evaluan-funcionamiento-sindical-en-la-habana/",
-      "destacada": false,
-      "tema": "evalúan",
-      "fecha": "Sun, 04 Oct 2026 16:30:36 +0000",
-      "id": 49
+      "id": 51
     },
     {
       "categoria": "salud",
@@ -651,7 +677,20 @@
       "destacada": false,
       "tema": "recibe",
       "fecha": "Sun, 04 Oct 2026 16:41:36 +0000",
-      "id": 50
+      "id": 52
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Evalúan funcionamiento sindical en La Habana",
+      "resumen": "En la reunión se informó del aporte del movimiento obrero y sindical al desarrollo de todas las transformaciones económicas y sociales que se desarrollan en La Habana, así como el aporte productivo, la eficiencia, los salarios y la productividad para el desarrollo económico La entrada Evalúan funcio",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/evaluan-funcionamiento-sindical-en-la-habana/",
+      "destacada": false,
+      "tema": "evalúan",
+      "fecha": "Sun, 04 Oct 2026 16:30:36 +0000",
+      "id": 53
     },
     {
       "categoria": "politica",
@@ -664,20 +703,7 @@
       "destacada": false,
       "tema": "evaluó",
       "fecha": "Sun, 04 Oct 2026 13:52:03 +0000",
-      "id": 51
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "San Petersburgo entrega a Matanzas nueva ambulancia equipada",
-      "resumen": "La Embajada de Rusia en Cuba hizo entrega este sábado de una ambulancia donada por el gobernador y el pueblo de San Petersburgo",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/03/san-petersburgo-entrega-nueva-ambulancia/",
-      "destacada": false,
-      "tema": "petersburgo",
-      "fecha": "Sat, 03 Oct 2026 13:36:00 +0000",
-      "id": 52
+      "id": 54
     }
   ]
 }
