@@ -1,8 +1,47 @@
 {
   "fecha": "2026-10-04",
-  "hora": "04:34",
-  "total": 43,
+  "hora": "10:58",
+  "total": 51,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Subtítulo de gran mérito en el beisbol para ciegos",
+      "resumen": "Cuba cayó en la final de la Copa Internacional 10-4 frente a Italia",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-03/subtitulo-de-gran-merito-en-el-beisbol-para-ciegos-03-10-2026-14-10-29",
+      "destacada": true,
+      "tema": "subtítulo",
+      "fecha": "Sat, 03 Oct 2026 14:10:29 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Parlamento namibio reiteró solidaridad con Cuba",
+      "resumen": "La Asamblea Nacional de Namibia aprobó, por unanimidad, una moción en apoyo a la Isla ante el recrudecimiento del bloqueo del gobierno de EE. UU.",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-02/parlamento-namibio-reitero-solidaridad-con-cuba-02-10-2026-18-10-45",
+      "destacada": true,
+      "tema": "parlamento",
+      "fecha": "Fri, 02 Oct 2026 18:10:45 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "De tres puntos dorados a uno amargo",
+      "resumen": "Cuba no pudo concretar la victoria ante San Cristóbal y Nieves en la Liga de Naciones de fútbol",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-03/de-tres-puntos-dorados-a-uno-amargo-03-10-2026-08-10-01",
+      "destacada": true,
+      "tema": "puntos",
+      "fecha": "Sat, 03 Oct 2026 08:10:01 -0400",
+      "id": 3
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
@@ -14,7 +53,7 @@
       "destacada": true,
       "tema": "trasladan",
       "fecha": "Sat, 03 Oct 2026 13:02:58 +0000",
-      "id": 1
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -27,7 +66,7 @@
       "destacada": true,
       "tema": "otras",
       "fecha": "Sat, 03 Oct 2026 16:52:14 +0000",
-      "id": 2
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -37,10 +76,10 @@
       "resumen": "El ex asesor de seguridad nacional de Donald Trump, John Bolton, y los diplomáticos canadienses comparten la sospecha de que Moscú provocó el \"síndrome de La Habana\"",
       "imagen_url": "https://static.14ymedio.com/clip/b2c0aefc-0b54-468b-9d46-1576b10b0834_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/cuba-lugar-ideal-rusia-pudiera_1_1131487.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "lugar",
       "fecha": "Sat, 03 Oct 2026 15:57:33 +0000",
-      "id": 3
+      "id": 6
     },
     {
       "categoria": "energia",
@@ -50,10 +89,10 @@
       "resumen": "La llegada de combustible anima el tráfico y devuelve los vehículos a las calles, mientras los apagones de más de 20 horas siguen marcando la vida dentro de las casas habaneras",
       "imagen_url": "https://static.14ymedio.com/clip/70bef639-d963-4d39-988a-15e356f70e69_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/habana-vuelve-rodar-sigue-oscuras_1_1131483.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "habana",
       "fecha": "Sat, 03 Oct 2026 13:55:50 +0000",
-      "id": 4
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -63,10 +102,10 @@
       "resumen": "La Isla acumula 217 desde 2012 y 17 en los primeros ocho meses de 2026, solo por debajo de México",
       "imagen_url": "https://static.14ymedio.com/clip/63cbce43-8c66-42e0-b4e9-46369def2e8b_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/cuba-cuarto-pais-solicitudes-acciones_1_1131492.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "cuarto",
       "fecha": "Sat, 03 Oct 2026 17:50:35 +0000",
-      "id": 5
+      "id": 8
     },
     {
       "categoria": "transporte",
@@ -79,7 +118,7 @@
       "destacada": false,
       "tema": "calles",
       "fecha": "Sat, 03 Oct 2026 18:05:10 +0000",
-      "id": 6
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -92,7 +131,7 @@
       "destacada": false,
       "tema": "guardia",
       "fecha": "Fri, 02 Oct 2026 18:06:59 +0000",
-      "id": 7
+      "id": 10
     },
     {
       "categoria": "politica",
@@ -105,7 +144,7 @@
       "destacada": false,
       "tema": "sigue",
       "fecha": "Sat, 03 Oct 2026 14:47:03 +0000",
-      "id": 8
+      "id": 11
     },
     {
       "categoria": "politica",
@@ -118,7 +157,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Sat, 03 Oct 2026 13:46:28 +0000",
-      "id": 9
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -131,7 +170,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Fri, 02 Oct 2026 16:14:52 +0000",
-      "id": 10
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -144,7 +183,7 @@
       "destacada": false,
       "tema": "libro",
       "fecha": "Sun, 04 Oct 2026 05:04:11 +0200",
-      "id": 11
+      "id": 14
     },
     {
       "categoria": "economia",
@@ -157,7 +196,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sun, 04 Oct 2026 02:38:58 +0200",
-      "id": 12
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -170,7 +209,7 @@
       "destacada": false,
       "tema": "scott",
       "fecha": "Sun, 04 Oct 2026 02:38:11 +0200",
-      "id": 13
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -183,7 +222,7 @@
       "destacada": false,
       "tema": "cadena",
       "fecha": "Sun, 04 Oct 2026 02:23:05 +0200",
-      "id": 14
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -196,7 +235,7 @@
       "destacada": false,
       "tema": "policía",
       "fecha": "Sun, 04 Oct 2026 01:54:18 +0200",
-      "id": 15
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -209,7 +248,7 @@
       "destacada": false,
       "tema": "alina",
       "fecha": "Sun, 04 Oct 2026 01:51:04 +0200",
-      "id": 16
+      "id": 19
     },
     {
       "categoria": "politica",
@@ -222,7 +261,7 @@
       "destacada": false,
       "tema": "analizó",
       "fecha": "Sat, 03 Oct 2026 00:45:18 +0000",
-      "id": 17
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -235,7 +274,7 @@
       "destacada": false,
       "tema": "aprender",
       "fecha": "Sat, 03 Oct 2026 17:58:25 +0000",
-      "id": 18
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -248,7 +287,46 @@
       "destacada": false,
       "tema": "hotelería",
       "fecha": "Sat, 03 Oct 2026 17:15:09 +0000",
-      "id": 19
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Esculturas en espacios públicos: cuando el lugar no concuerda",
+      "resumen": "#LaHabana: Razones diversas han provocado que algunos #monumentos valiosos no alcancen su potencial expresivo por el espacio donde están.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cultura/1791111608_69237.html",
+      "destacada": false,
+      "tema": "esculturas",
+      "fecha": "Sun, 04 Oct 2026 13:00:08 +0200",
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "'Cuba, linda, siempre te recordaré'",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cultura/1791109813_69241.html",
+      "destacada": false,
+      "tema": "linda",
+      "fecha": "Sun, 04 Oct 2026 12:30:13 +0200",
+      "id": 24
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La represión del régimen sitúa a Cuba como el cuarto país con más denuncias por desapariciones forzadas",
+      "resumen": "La #ONU sitúa a #Cuba como el cuarto país con más acciones urgentes por desapariciones forzadas: 217 casos, solo por detrás de México, Irak y Colombia.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1791104783_69242.html",
+      "destacada": false,
+      "tema": "represión",
+      "fecha": "Sun, 04 Oct 2026 11:06:23 +0200",
+      "id": 25
     },
     {
       "categoria": "salud",
@@ -261,7 +339,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Sat, 03 Oct 2026 23:04:20 +0200",
-      "id": 20
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -274,7 +352,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Sat, 03 Oct 2026 19:44:12 +0200",
-      "id": 21
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -287,7 +365,7 @@
       "destacada": false,
       "tema": "color",
       "fecha": "Sat, 03 Oct 2026 18:00:34 +0200",
-      "id": 22
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -300,7 +378,7 @@
       "destacada": false,
       "tema": "explicar",
       "fecha": "Sat, 03 Oct 2026 15:16:47 +0200",
-      "id": 23
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -313,46 +391,33 @@
       "destacada": false,
       "tema": "eliminar",
       "fecha": "Sat, 03 Oct 2026 13:37:50 +0200",
-      "id": 24
+      "id": 30
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuando no se espera un cambio político en Cuba: cautela pública y ayuda cercana",
-      "resumen": "Cuarta #EncuestaDDC: El 68,1% de los participantes cree que, para vivir tranquilo en #Cuba, es mejor no hablar de ciertos temas, y el 77% que la colaboración cotidiana puede mejorar problemas concretos.",
+      "titulo": "La Santa Misa",
+      "resumen": "La misa dominical transmitida para Cuba desde el Santuario Nacional de Nuestra Señor de la Caridad, un templo católico de la Arquidiócesis de Miami dedicado a la Patrona de Cuba.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791025302_69198.html",
+      "enlace_original": "https://www.martinoticias.com/a/480195.html",
       "destacada": false,
-      "tema": "espera",
-      "fecha": "Sat, 03 Oct 2026 13:01:42 +0200",
-      "id": 25
+      "tema": "santa",
+      "fecha": "Sun, 04 Oct 2026 07:00:30 -0400",
+      "id": 31
     },
     {
-      "categoria": "transporte",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "salud",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La ONU incluye a Cuba entre las 'crisis humanitarias con menor financiación del mundo'",
-      "resumen": "Tras calificarla como una de las \"12 crisis humanitarias con menor financiación del mundo\", la #ONU enviará nuevas ayudas económicas a #Cuba en concepto de \"asistencia vital\".",
+      "titulo": "Cuba Habla: \"Es algo que siempre sale mal”.",
+      "resumen": "Desde Guantánamo, joven embarazada habla de sus preocupaciones acerca del servicio médico que recibe.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791022447_69233.html",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-es-algo-que-siempre-sale-mal/480963.html",
       "destacada": false,
-      "tema": "incluye",
-      "fecha": "Sat, 03 Oct 2026 12:14:07 +0200",
-      "id": 26
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Identificado el manifestante detenido tras protestar frente al Capitolio de La Habana",
-      "resumen": "Identificado como Ariel Limias Leiva, un pastor cristiano de 53 años, el #cubano que protestó este viernes frente al Capitolio de #LaHabana. \"Alguien tiene que hacerlo por nuestro país\", dijo antes de ser arrestado.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791018037_69232.html",
-      "destacada": false,
-      "tema": "identificado",
-      "fecha": "Sat, 03 Oct 2026 11:00:37 +0200",
-      "id": 27
+      "tema": "habla",
+      "fecha": "Sun, 04 Oct 2026 07:00:00 -0400",
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -365,20 +430,7 @@
       "destacada": false,
       "tema": "postmoderno",
       "fecha": "Sat, 03 Oct 2026 20:00:00 -0400",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Voz de la oposición",
-      "resumen": "La Voz de la oposición, es un programa con entrevistas e informaciones con las voces de los protagonistas desde Cuba. Servirá de enlace para el cubano conozca lo que sucede en el país sin censura.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480168.html",
-      "destacada": false,
-      "tema": "oposición",
-      "fecha": "Sat, 03 Oct 2026 17:00:00 -0400",
-      "id": 29
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -391,7 +443,7 @@
       "destacada": false,
       "tema": "béisbol",
       "fecha": "Sat, 03 Oct 2026 18:43:14 +0000",
-      "id": 30
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -404,7 +456,46 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Sat, 03 Oct 2026 18:30:05 +0000",
-      "id": 31
+      "id": 35
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Bloqueo estadounidense: su impacto en la educación especial cubana",
+      "resumen": "Vídeo: Canal Caribe - El bloqueo económico, comercial y financiero de Estados Unidos contra Cuba cau...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125306-bloqueo-estadounidense-su-impacto-en-la-educacion-especial-cubana.jpg?t=1791110895",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261004/125306/125306-bloqueo-estadounidense-su-impacto-en-la-educacion-especial-cubana",
+      "destacada": false,
+      "tema": "bloqueo",
+      "fecha": "Sun, 04 Oct 26 12:43:00 +0200",
+      "id": 36
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Corbyn relata su visita a Cuba: ”Están pasando por un infierno”",
+      "resumen": "Cubadebate - Vídeo: PoliticsJoe Jeremy Corbyn, exlíder del Partido Laborista británico, dedicó buena...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125305-corbyn-relata-su-visita-a-cuba-estan-pasando-por-un-infierno.jpg?t=1791110556",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261004/125305/125305-corbyn-relata-su-visita-a-cuba-estan-pasando-por-un-infierno",
+      "destacada": false,
+      "tema": "corbyn",
+      "fecha": "Sun, 04 Oct 26 12:38:00 +0200",
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "El mamógrafo que cruzó el océano para devolver un servicio esencial a Sancti Spíritus",
+      "resumen": "Por Yosdany Morejón Ortega (Cubadebate) - Durante más de dos años, las mujeres y los hombres de San...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125302-el-mamografo-que-cruzo-el-oceano-para-devolver-un-servicio-esencial-a-sancti-spiritus.jpg?t=1791109735",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261004/125302/125302-el-mamografo-que-cruzo-el-oceano-para-devolver-un-servicio-esencial-a-sancti-spiritus",
+      "destacada": false,
+      "tema": "mamógrafo",
+      "fecha": "Sun, 04 Oct 26 11:59:00 +0200",
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -417,7 +508,7 @@
       "destacada": false,
       "tema": "narco",
       "fecha": "Sat, 03 Oct 26 23:14:00 +0200",
-      "id": 32
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -430,7 +521,7 @@
       "destacada": false,
       "tema": "confirma",
       "fecha": "Sat, 03 Oct 26 16:14:00 +0200",
-      "id": 33
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -443,7 +534,7 @@
       "destacada": false,
       "tema": "empresas",
       "fecha": "Sat, 03 Oct 26 16:11:00 +0200",
-      "id": 34
+      "id": 41
     },
     {
       "categoria": "salud",
@@ -456,7 +547,7 @@
       "destacada": false,
       "tema": "empresa",
       "fecha": "Sat, 03 Oct 26 15:59:00 +0200",
-      "id": 35
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -469,72 +560,59 @@
       "destacada": false,
       "tema": "implica",
       "fecha": "Sat, 03 Oct 26 15:48:00 +0200",
-      "id": 36
+      "id": 43
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
+      "fuente": "https://www.guerrillero.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "Advierte Cuba en Madrid consecuencias de una agresión militar",
-      "resumen": "Prensa Latina - Imagen: Asamblea Cuba - Vídeo: Canal Caribe Cuba advirtió las consecuencias impredec...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125296-advierte-cuba-en-madrid-consecuencias-de-una-agresion-militar.jpg?t=1791035041",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261003/125296/125296-advierte-cuba-en-madrid-consecuencias-de-una-agresion-militar",
+      "titulo": "Orgullo por la profesión en Pinar del Río",
+      "resumen": "El notariado cubano tiene profundas raíces en la tradición jurídica española y una amplia gama de facultades y funciones entre las que figuran la posibilidad de dar fe pública de actos y hechos jurídicos extrajudiciales, tanto los exigidos por ley como los solicitados por las partes. De igual forma ",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/orgullo-por-la-profesion-en-pinar-del-rio/",
       "destacada": false,
-      "tema": "advierte",
-      "fecha": "Sat, 03 Oct 26 15:40:00 +0200",
-      "id": 37
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Recibe Cuba apoyo solidario de fundación de Países Bajos",
-      "resumen": "Prensa Latina - Imagen: Cubaminrex - Materiales escolares e insumos médicos procedentes de Países Ba...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125295-recibe-cuba-apoyo-solidario-de-fundacion-de-paises-bajos.jpg?t=1791034710",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261003/125295/125295-recibe-cuba-apoyo-solidario-de-fundacion-de-paises-bajos",
-      "destacada": false,
-      "tema": "recibe",
-      "fecha": "Sat, 03 Oct 26 15:36:00 +0200",
-      "id": 38
+      "tema": "orgullo",
+      "fecha": "Fri, 02 Oct 2026 17:06:36 +0000",
+      "id": 44
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
+      "fuente": "https://www.guerrillero.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba acogerá simposio internacional de enfermedades no transmisibles",
-      "resumen": "Prensa Latina - Vídeo: Canal Caribe El I Simposio Internacional de Enfermedades no transmisibles y s...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125294-cuba-acogera-simposio-internacional-de-enfermedades-no-transmisibles.jpg?t=1791034497",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261003/125294/125294-cuba-acogera-simposio-internacional-de-enfermedades-no-transmisibles",
+      "titulo": "Cuba invicta a semifinales en Mundial de Béisbol para Ciegos",
+      "resumen": "Cuba noqueó hoy 17-3 a Gran Bretaña y clasificó invicta a las semifinales de la Copa Mundial de Béisbol para Ciegos, que se desarrolla en el Estadio Simone Piani, de Castiglione della Pescaia, Italia. Los dirigidos por Roberto Carmona, vigentes monarcas del orbe, sumaron su tercer triunfo consecutiv",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/cuba-invicta-a-semifinales-en-mundial-de-beisbol-para-ciegos/",
       "destacada": false,
-      "tema": "acogerá",
-      "fecha": "Sat, 03 Oct 26 15:33:00 +0200",
-      "id": 39
+      "tema": "invicta",
+      "fecha": "Fri, 02 Oct 2026 15:42:06 +0000",
+      "id": 45
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
+      "categoria": "politica",
+      "fuente": "https://www.guerrillero.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba fortalece investigación agropecuaria con Inteligencia Artificial",
-      "resumen": "Prensa Latina - La cooperación científica internacional impulsa hoy en Cuba investigaciones destinad...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125293-cuba-fortalece-investigacion-agropecuaria-con-inteligencia-artificial.jpg?t=1791034355",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261003/125293/125293-cuba-fortalece-investigacion-agropecuaria-con-inteligencia-artificial",
+      "titulo": "Refuerza Mincex denuncia sobre nuevas medidas de EE.UU. contra Cuba",
+      "resumen": "El Ministerio de Comercio Exterior y la Inversión Extranjera (Mincex) precisó este jueves desde su perfil en la red social Facebook que las recientes disposiciones coercitivas del Gobierno de Estados Unidos atentan contra el sector empresarial y la soberanía del pueblo cubano. Deborah Rivas Saavedra",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/refuerza-mincex-denuncia-sobre-nuevas-medidas-de-ee-uu-contra-cuba/",
       "destacada": false,
-      "tema": "fortalece",
-      "fecha": "Sat, 03 Oct 26 15:31:00 +0200",
-      "id": 40
+      "tema": "refuerza",
+      "fecha": "Fri, 02 Oct 2026 13:28:00 +0000",
+      "id": 46
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
+      "categoria": "politica",
+      "fuente": "https://www.guerrillero.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba chequea preparación de zona de defensa para proteger habitantes",
-      "resumen": "Prensa Latina - Vídeo: Canal Caribe Autoridades cubanas revisaron hoy la preparación de la zona de d...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125292-cuba-chequea-preparacion-de-zona-de-defensa-para-proteger-habitantes.jpg?t=1791034216",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261003/125292/125292-cuba-chequea-preparacion-de-zona-de-defensa-para-proteger-habitantes",
+      "titulo": "Retoma Díaz-Canel pódcast Desde la Presidencia",
+      "resumen": "Miguel Díaz-Canel Bermúdez, Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, retoma este viernes el pódcast Desde la Presidencia, transmitido por redes sociales y la televisión nacional. Según precisaron desde el perfil de Facebook de Presidencia, en l",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/retoma-diaz-canel-podcast-desde-la-presidencia/",
       "destacada": false,
-      "tema": "chequea",
-      "fecha": "Sat, 03 Oct 26 15:28:00 +0200",
-      "id": 41
+      "tema": "retoma",
+      "fecha": "Fri, 02 Oct 2026 13:06:00 +0000",
+      "id": 47
     },
     {
       "categoria": "politica",
@@ -547,7 +625,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sat, 03 Oct 2026 17:17:07 +0000",
-      "id": 42
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -560,7 +638,33 @@
       "destacada": false,
       "tema": "guardia",
       "fecha": "Fri, 02 Oct 2026 22:03:43 +0000",
-      "id": 43
+      "id": 49
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "San Petersburgo entrega a Matanzas nueva ambulancia equipada",
+      "resumen": "La Embajada de Rusia en Cuba hizo entrega este sábado de una ambulancia donada por el gobernador y el pueblo de San Petersburgo",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/03/san-petersburgo-entrega-nueva-ambulancia/",
+      "destacada": false,
+      "tema": "petersburgo",
+      "fecha": "Sat, 03 Oct 2026 13:36:00 +0000",
+      "id": 50
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Mundial de Béisbol sub-15: un nuevo examen suspenso",
+      "resumen": "Existen resultados que, por esperados, no dejan de sorprender a los amantes del béisbol cubano en cualquiera de sus categorías.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/02/mundial-de-beisbol-sub-15/",
+      "destacada": false,
+      "tema": "mundial",
+      "fecha": "Fri, 02 Oct 2026 13:16:00 +0000",
+      "id": 51
     }
   ]
 }
