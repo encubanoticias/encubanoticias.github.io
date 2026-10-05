@@ -7,6 +7,8 @@ let audioActual = null;
 let maxCarrusel = 9;
 let maxTemasPerspectivas = 2;
 
+let configTicker = { texto: '', velocidad: 30, activo: false };
+
 function obtenerDeviceId() {
   let id = localStorage.getItem('device_id');
   if (!id) {
@@ -23,6 +25,10 @@ fetch('data/config.json?v=' + Date.now())
   .then(c => {
     if (c.max_temas_perspectivas) maxTemasPerspectivas = c.max_temas_perspectivas;
     if (c.destacadas_carrusel) maxCarrusel = c.destacadas_carrusel;
+    if (c.ticker_texto) configTicker.texto = c.ticker_texto;
+    if (c.ticker_velocidad) configTicker.velocidad = c.ticker_velocidad;
+    if (typeof c.ticker_activo !== 'undefined') configTicker.activo = c.ticker_activo;
+    iniciarTicker();
   })
   .catch(() => {});
 
@@ -39,6 +45,21 @@ fetch('data/noticias.json?v=' + Date.now())
     iniciarMetricas();
   })
   .catch(err => console.error('Error:', err));
+
+// --- TICKER ---
+function iniciarTicker() {
+  const el = document.getElementById('ticker');
+  const txt = document.getElementById('ticker-texto');
+  if (!el || !txt) return;
+  if (!configTicker.activo || !configTicker.texto) {
+    el.classList.add('oculto');
+    return;
+  }
+  el.classList.remove('oculto');
+  const mensajes = configTicker.texto.split('/').map(s => s.trim()).filter(s => s);
+  txt.textContent = mensajes.join('   •   ');
+  txt.style.animationDuration = configTicker.velocidad + 's';
+}
 
 // --- CARRUSEL ---
 
