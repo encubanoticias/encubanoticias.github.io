@@ -1,59 +1,20 @@
 {
   "fecha": "2026-10-05",
-  "hora": "13:10",
-  "total": 48,
+  "hora": "15:08",
+  "total": 30,
   "noticias": [
     {
       "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Advierte Cuba en Madrid consecuencias de una agresión militar",
-      "resumen": "Durante su intervención ante del Pleno del XII Foro Parlamentario Iberoamericano en Madrid, la vicepresidenta cubana de la Asamblea Nacional del Poder Popular (ANPP), Ana María Mari Machado, subrayó que un hecho así, «desestabilizaría la región de América Latina y el Caribe como Zona de Paz»",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-04/advierte-cuba-en-madrid-consecuencias-de-una-agresion-militar-04-10-2026-10-10-22",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Para la Justicia española, los malos tratos sufridos a manos de la Policía cubana no dan derecho al asilo",
+      "resumen": "La Audiencia Nacional desestima el recurso de una familia y subraya que la condición de refugiado se aplica solo a personas perseguidas por “motivos de raza, religión, nacionalidad, opiniones políticas, orientación sexual”",
+      "imagen_url": "https://static.14ymedio.com/clip/96635618-fcba-4dac-95a0-d861f8647c6e_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/justicia-espanola-malos-tratos-sufridos_1_1131538.html",
       "destacada": true,
-      "tema": "advierte",
-      "fecha": "Sun, 04 Oct 2026 10:10:22 -0400",
+      "tema": "justicia",
+      "fecha": "Mon, 05 Oct 2026 12:35:24 +0000",
       "id": 1
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Jesús Orta Ruiz: «Hay que tomar cinceles»",
-      "resumen": "Conocido como El Indio Naborí (1922-2005), es uno de los grandes poetas cubanos; recibió el Premio Nacional de Literatura en 1995, así como mereció la Orden Félix Varela de Primer Grado y el título honorífico de Héroe del Trabajo de la República de Cuba",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-04/jesus-orta-ruiz-hay-que-tomar-cinceles-04-10-2026-09-10-24",
-      "destacada": true,
-      "tema": "jesús",
-      "fecha": "Sun, 04 Oct 2026 09:10:24 -0400",
-      "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Subtítulo de gran mérito en el beisbol para ciegos",
-      "resumen": "Cuba cayó en la final de la Copa Internacional 10-4 frente a Italia",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-10-03/subtitulo-de-gran-merito-en-el-beisbol-para-ciegos-03-10-2026-14-10-29",
-      "destacada": true,
-      "tema": "subtítulo",
-      "fecha": "Sat, 03 Oct 2026 14:10:29 -0400",
-      "id": 3
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cubano Orlando Polanco se despide del Mundial de Judo",
-      "resumen": "Bakú, 5 oct (Prensa Latina) El cubano Orlando Polanco se despidió hoy en su estreno en el Campeonato Mundial de Judo de Bakú, al caer ante el chino Ziyang Xue en la ronda de 32 de los 66 kilogramos. The post Cubano Orlando Polanco se despide del Mundial de Judo first appeared on Noticias Prensa Lati",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/05/cubano-orlando-polanco-se-despide-del-mundial-de-judo/",
-      "destacada": true,
-      "tema": "cubano",
-      "fecha": "Mon, 05 Oct 2026 12:16:02 +0000",
-      "id": 4
     },
     {
       "categoria": "energia",
@@ -66,7 +27,7 @@
       "destacada": true,
       "tema": "tesoro",
       "fecha": "Mon, 05 Oct 2026 09:20:28 +0000",
-      "id": 5
+      "id": 2
     },
     {
       "categoria": "sociedad",
@@ -76,10 +37,10 @@
       "resumen": "Antes de la captura de Maduro, el régimen cubano revendía en divisas a Asia y otros mercados de países amigos entre el 60% y el 80% del petróleo que le mandaba Venezuela",
       "imagen_url": "https://static.14ymedio.com/clip/8000ddad-94f2-478f-94d7-fcd313929438_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/blogs/cajon-de-sastre/petroleo-sido-estafa-divisas-fuertes_132_1131531.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "tipo_cambio",
       "fecha": "Mon, 05 Oct 2026 09:37:08 +0000",
-      "id": 6
+      "id": 3
     },
     {
       "categoria": "salud",
@@ -89,75 +50,62 @@
       "resumen": "El embajador de Rusia, Víctor Koronelli, dijo que \"tras un largo y difícil trayecto, estos vehículos llegaron a Cuba a pesar del inhumano bloqueo\"",
       "imagen_url": "https://static.14ymedio.com/clip/4e88ee8d-fa5a-4ae0-b810-06a1bb2fca71_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/cuba-recibe-tres-ambulancias-automovil_1_1131527.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "recibe",
       "fecha": "Mon, 05 Oct 2026 08:39:20 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Elecciones en Brasil, otra mala noticia para el régimen cubano",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u208253-e192519-s27068-nid341983-elecciones-brasil-otra-mala-noticia-regimen",
+      "destacada": true,
+      "tema": "elecciones",
+      "fecha": "Mon, 05 Oct 2026 16:49:04 +0200",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Miami-Dade vota este martes eliminar 12 rutas de autobús y recortar el servicio nocturno: Hialeah y la Pequeña Habana, entre los más afectados",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e199370-s27061-nid341980-miami-dade-vota-este-martes-eliminar-12-rutas",
+      "destacada": false,
+      "tema": "miami",
+      "fecha": "Mon, 05 Oct 2026 16:43:57 +0200",
+      "id": 6
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¡Sorpresa! Paso atrás del dólar y del euro en el mercado informal de divisas en Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e129488-s27061-nid341978-sorpresa-paso-atras-dolar-euro-mercado-informal",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Mon, 05 Oct 2026 16:35:46 +0200",
       "id": 7
     },
     {
-      "categoria": "energia",
-      "fuente": "https://www.14ymedio.com",
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La Habana vuelve a rodar, pero sigue a oscuras",
-      "resumen": "La llegada de combustible anima el tráfico y devuelve los vehículos a las calles, mientras los apagones de más de 20 horas siguen marcando la vida dentro de las casas habaneras",
-      "imagen_url": "https://static.14ymedio.com/clip/70bef639-d963-4d39-988a-15e356f70e69_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/habana-vuelve-rodar-sigue-oscuras_1_1131483.html",
+      "titulo": "Un niño cubano recibe juguetes en Cuba con enorme emoción, pero todos terminaron mirando al fondo: un detalle rompió el corazón",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u65722-e65722-s27065-nid341977-nino-cubano-recibe-juguetes-cuba-enorme-emocion",
       "destacada": false,
-      "tema": "habana",
-      "fecha": "Sat, 03 Oct 2026 13:55:50 +0000",
+      "tema": "cubano",
+      "fecha": "Mon, 05 Oct 2026 15:57:00 +0200",
       "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba era un lugar ideal para que Rusia pudiera probar sus armas sónicas",
-      "resumen": "El ex asesor de seguridad nacional de Donald Trump, John Bolton, y los diplomáticos canadienses comparten la sospecha de que Moscú provocó el \"síndrome de La Habana\"",
-      "imagen_url": "https://static.14ymedio.com/clip/b2c0aefc-0b54-468b-9d46-1576b10b0834_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/cuba-lugar-ideal-rusia-pudiera_1_1131487.html",
-      "destacada": false,
-      "tema": "lugar",
-      "fecha": "Sat, 03 Oct 2026 15:57:33 +0000",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Periodista oficialista admite que Cuba tiene un «soberano desorden» interno más allá del embargo",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e207888-s27061-nid341912-periodista-oficialista-admite-cuba-tiene-soberano",
-      "destacada": false,
-      "tema": "periodista",
-      "fecha": "Mon, 05 Oct 2026 11:36:26 +0200",
-      "id": 10
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "España e Italia mantienen controles fronterizos temporales: qué deben llevar los cubanos al viajar entre ambos países",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e13-s27061-nid341953-espana-italia-mantienen-controles-fronterizos-temporales",
-      "destacada": false,
-      "tema": "españa",
-      "fecha": "Mon, 05 Oct 2026 10:55:07 +0200",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Elecciones en España: cómo votar desde Cuba el 29 de noviembre y qué pasa con los nacionalizados por la Ley de Nietos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e13-s27061-nid341952-elecciones-espana-votar-cuba-29-noviembre-pasa",
-      "destacada": false,
-      "tema": "elecciones",
-      "fecha": "Mon, 05 Oct 2026 10:52:30 +0200",
-      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -170,7 +118,7 @@
       "destacada": false,
       "tema": "asamblea",
       "fecha": "Mon, 05 Oct 2026 14:12:16 +0200",
-      "id": 13
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -183,7 +131,7 @@
       "destacada": false,
       "tema": "fernández",
       "fecha": "Mon, 05 Oct 2026 13:15:33 +0200",
-      "id": 14
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -196,7 +144,7 @@
       "destacada": false,
       "tema": "contra",
       "fecha": "Mon, 05 Oct 2026 13:01:26 +0200",
-      "id": 15
+      "id": 11
     },
     {
       "categoria": "transporte",
@@ -209,7 +157,7 @@
       "destacada": false,
       "tema": "embajada",
       "fecha": "Mon, 05 Oct 2026 12:30:15 +0200",
-      "id": 16
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -222,7 +170,7 @@
       "destacada": false,
       "tema": "marrero",
       "fecha": "Mon, 05 Oct 2026 11:35:16 +0200",
-      "id": 17
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -235,7 +183,7 @@
       "destacada": false,
       "tema": "pastor",
       "fecha": "Mon, 05 Oct 2026 07:49:26 +0200",
-      "id": 18
+      "id": 14
     },
     {
       "categoria": "economia",
@@ -248,7 +196,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sun, 04 Oct 2026 23:09:53 +0200",
-      "id": 19
+      "id": 15
     },
     {
       "categoria": "economia",
@@ -261,7 +209,33 @@
       "destacada": false,
       "tema": "industriales",
       "fecha": "Sun, 04 Oct 2026 20:12:53 +0200",
-      "id": 20
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Anna Bensi agradece apoyo recibido y denuncia el \"discurso mentiroso, humillante, diabólico de la dictadura\"",
+      "resumen": "La influencer y activista cristiana Anna Sofía Benítez Silvente agradeció el respaldo recibido dentro y fuera de Cuba tras el proceso judicial contra ella y su madre, Caridad Silvente, y pidió libertad para Cuba y los presos políticos en la isla.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/anna-bensi-agradece-apoyo-recibido-y-denuncia-el-discurso-mentiroso-humillante-diab%c3%b3lico-de-la-dictadura/481318.html",
+      "destacada": false,
+      "tema": "bensi",
+      "fecha": "Mon, 05 Oct 2026 10:59:02 -0400",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El futuro es ya",
+      "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480208.html",
+      "destacada": false,
+      "tema": "futuro",
+      "fecha": "Mon, 05 Oct 2026 10:00:00 -0400",
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -274,7 +248,7 @@
       "destacada": false,
       "tema": "váyanse",
       "fecha": "Mon, 05 Oct 2026 08:39:27 -0400",
-      "id": 21
+      "id": 19
     },
     {
       "categoria": "economia",
@@ -287,7 +261,7 @@
       "destacada": false,
       "tema": "martí",
       "fecha": "Mon, 05 Oct 2026 08:00:00 -0400",
-      "id": 22
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -300,7 +274,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Mon, 05 Oct 2026 07:00:00 -0400",
-      "id": 23
+      "id": 21
     },
     {
       "categoria": "energia",
@@ -313,7 +287,7 @@
       "destacada": false,
       "tema": "estancada",
       "fecha": "Sun, 04 Oct 2026 14:41:22 -0400",
-      "id": 24
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -326,7 +300,7 @@
       "destacada": false,
       "tema": "países",
       "fecha": "Sun, 04 Oct 2026 14:13:23 -0400",
-      "id": 25
+      "id": 23
     },
     {
       "categoria": "energia",
@@ -339,111 +313,7 @@
       "destacada": false,
       "tema": "solís",
       "fecha": "Sun, 04 Oct 2026 14:04:35 -0400",
-      "id": 26
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Familiares de pastor que protestó frente al Capitolio denuncian que sigue incomunicado y sin cargos",
-      "resumen": "El pastor pentecostal Ariel Limias Leiva, detenido tras protestar pacíficamente frente al Capitolio Nacional en La Habana, seguía este domingo incomunicado en Villa Marista, mientras su familia denuncia que no ha podido verlo ni conocer los cargos en su contra.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/familiares-de-pastor-que-protest%c3%b3-frente-al-capitolio-denuncian-que-sigue-incomunicado-y-sin-cargos/481267.html",
-      "destacada": false,
-      "tema": "familiares",
-      "fecha": "Sun, 04 Oct 2026 13:13:23 -0400",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 12:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480197.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Sun, 04 Oct 2026 12:00:00 -0400",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "“Que no sea un caso más”: piden mantener visible encarcelamiento de periodista cubano",
-      "resumen": "El periodista independiente Henry Constantín continúa preso en Camagüey mientras su familia y organizaciones de prensa esperan una decisión sobre la solicitud de cambio de medida cautelar, en medio de denuncias por irregularidades en su detención y reclamos de liberación inmediata.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/que-no-sea-un-caso-m%c3%a1s-piden-mantener-visible-encarcelamiento-de-periodista-cubano/481269.html",
-      "destacada": false,
-      "tema": "piden",
-      "fecha": "Sun, 04 Oct 2026 11:14:43 -0400",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Lula da Silva y Flávio Bolsonaro irán a segunda vuelta en Brasil",
-      "resumen": "Bolsonaro mantuvo ventaja en el escrutinio y Lula ganó terreno hasta reducir la diferencia. La abstención superó el 21%, más de 33 millones de votantes. La derecha crece en el Legislativo. The post Lula da Silva y Flávio Bolsonaro irán a segunda vuelta en Brasil first appeared on Cubadebate.",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/05/lula-da-silva-y-flavio-bolsonaro-iran-a-segunda-vuelta-en-brasil/",
-      "destacada": false,
-      "tema": "silva",
-      "fecha": "Mon, 05 Oct 2026 12:39:50 +0000",
-      "id": 30
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Mercado en el socialismo cubano: ¿Adiós a la planificación?",
-      "resumen": "Cuadrando la Caja aborda la relación entre planificación y mercado en el socialismo cubano ante las transformaciones económicas en curso. Los especialistas coinciden en que el mercado no es ajeno al socialismo y debe ganar peso en la asignación de recursos, pero regulado y subordinado al interés soc",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/05/mercado-en-el-socialismo-cubano-adios-a-la-planificacion/",
-      "destacada": false,
-      "tema": "mercado",
-      "fecha": "Mon, 05 Oct 2026 04:01:37 +0000",
-      "id": 31
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cocodrilos de Matanzas inician defensa de su corona con blanqueada 6-0 sobre Cienfuegos en la 65 Serie Nacional",
-      "resumen": "Los Cocodrilos de Matanzas comenzaron este domingo la defensa de su corona con una victoria de 6-0 sobre los Elefantes de Cienfuegos, en el estreno de ambos equipos en la 65 Serie Nacional de Béisbol de Cuba. El campeón vigente hizo valer su condición de anfitrión en el estadio Victoria de Girón. Th",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/04/cocodrilos-de-matanzas-inician-defensa-de-su-corona-con-blanqueada-6-0-sobre-cienfuegos-en-la-65-serie-nacional/",
-      "destacada": false,
-      "tema": "cocodrilos",
-      "fecha": "Sun, 04 Oct 2026 22:44:55 +0000",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Charón queda eliminado de la competencia individual en el mundial de judo de Bakú",
-      "resumen": "Charón, de 21 años y ubicado en el puesto 19 del ranking mundial, llegaba a la cita mundialista con la aspiración de avanzar y optar por una medalla, sin embargo, se topó con un rival que ya lo había superado en el Grand Slam de París 2026, donde lo venció por yuko en el tiempo de Golden Score. The ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/04/chacon-queda-eliminado-de-la-competencia-individual-en-el-mundial-de-judo-de-baku/",
-      "destacada": false,
-      "tema": "charón",
-      "fecha": "Sun, 04 Oct 2026 18:37:48 +0000",
-      "id": 33
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Entrega Rusia ambulancias donadas por el gobierno de San Petersburgo",
-      "resumen": "En sus palabras, el embajador ruso aseguró que \"tras un largo y difícil trayecto, estos vehículos llegaron a Cuba a pesar del inhumano bloqueo comercial, económico, financiero y energético impuesto por el gobierno de EE.UU. Este donativo humanitario es una evidencia de los históricos lazos de amista",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/04/entrega-rusia-ambulancias-donadas-por-el-gobierno-de-san-petersburgo/",
-      "destacada": false,
-      "tema": "entrega",
-      "fecha": "Sun, 04 Oct 2026 18:10:17 +0000",
-      "id": 34
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -456,7 +326,7 @@
       "destacada": false,
       "tema": "fiesta",
       "fecha": "Mon, 05 Oct 26 07:51:00 +0200",
-      "id": 35
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -469,7 +339,7 @@
       "destacada": false,
       "tema": "propaganda",
       "fecha": "Mon, 05 Oct 26 07:17:00 +0200",
-      "id": 36
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -482,7 +352,7 @@
       "destacada": false,
       "tema": "otaola",
       "fecha": "Mon, 05 Oct 26 07:15:00 +0200",
-      "id": 37
+      "id": 27
     },
     {
       "categoria": "salud",
@@ -495,7 +365,7 @@
       "destacada": false,
       "tema": "médicos",
       "fecha": "Mon, 05 Oct 26 06:39:00 +0200",
-      "id": 38
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -508,7 +378,7 @@
       "destacada": false,
       "tema": "presentan",
       "fecha": "Mon, 05 Oct 26 06:34:00 +0200",
-      "id": 39
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -521,111 +391,7 @@
       "destacada": false,
       "tema": "vivos",
       "fecha": "Mon, 05 Oct 26 06:33:00 +0200",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.guerrillero.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Habana se prepara para la edición 47 del Festival Internacional del Nuevo Cine Latinoamericano",
-      "resumen": "La edición 47 del Festival Internacional del Nuevo Cine Latinoamericano (FINCL) se iniciará en La Habana el próximo 3 de diciembre, y en esta ocasión Brasil será el país foco, lo que permitirá un mayor acercamiento a la historia, trascendencia y actualidad de la cinematografía del gigante sudamerica",
-      "imagen_url": "",
-      "enlace_original": "https://www.guerrillero.cu/la-habana-se-prepara-para-la-edicion-47-del-festival-internacional-del-nuevo-cine-latinoamericano/",
-      "destacada": false,
-      "tema": "habana",
-      "fecha": "Mon, 05 Oct 2026 12:32:11 +0000",
-      "id": 41
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.guerrillero.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "La pelota, otra vez, viva y en juego",
-      "resumen": "En el estadio Victoria de Girón de Matanzas comenzó este domingo la Serie Nacional de Beisbol 65. El partido inaugural entre el equipo local y Cienfuegos dio inicio a un campeonato que representa un reto colosal para todos los factores involucrados. Las limitaciones que nos impone el brutal bloqueo ",
-      "imagen_url": "",
-      "enlace_original": "https://www.guerrillero.cu/la-pelota-otra-vez-viva-y-en-juego/",
-      "destacada": false,
-      "tema": "pelota",
-      "fecha": "Mon, 05 Oct 2026 12:29:58 +0000",
-      "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Leones muerden primero en la 65 Serie Nacional de Béisbol",
-      "resumen": "Los Leones de Industriales vencieron 5-1 a los Vegueros de Pinar del Río en el Estadio Latinoamericano, en el inicio de las acciones de la 65 Serie Nacional de Béisbol La entrada Leones muerden primero en la 65 Serie Nacional de Béisbol se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/leones-muerden-primero-en-la-65-serie-nacional-de-beisbol/",
-      "destacada": false,
-      "tema": "leones",
-      "fecha": "Mon, 05 Oct 2026 13:05:53 +0000",
-      "id": 43
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Termoeléctrica Guiteras eleva potencia tras nueva sincronización",
-      "resumen": "La unidad, que entrega actualmente poco más de 80 megawatts (MW) al SEN, pudiera escalar hasta los 190 MW al filo del horario de máxima demanda de este domingo 4 de octubre La entrada Termoeléctrica Guiteras eleva potencia tras nueva sincronización se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/termoelectrica-guiteras-eleva-potencia-tras-nueva-sincronizacion/",
-      "destacada": false,
-      "tema": "termoeléctrica",
-      "fecha": "Sun, 04 Oct 2026 17:15:15 +0000",
-      "id": 44
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba recibe ambulancias donadas por Rusia para el Sistema de Urgencias Médicas Neonatales",
-      "resumen": "El acto de entrega del importante donativo se efectuó en el Hospital Docente Ginecobstétrico Ramón González Coro La entrada Cuba recibe ambulancias donadas por Rusia para el Sistema de Urgencias Médicas Neonatales se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/cuba-recibe-ambulancias-donadas-por-rusia-para-el-sistema-de-urgencias-medicas-neonatales/",
-      "destacada": false,
-      "tema": "recibe",
-      "fecha": "Sun, 04 Oct 2026 16:41:36 +0000",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Evalúan funcionamiento sindical en La Habana",
-      "resumen": "En la reunión se informó del aporte del movimiento obrero y sindical al desarrollo de todas las transformaciones económicas y sociales que se desarrollan en La Habana, así como el aporte productivo, la eficiencia, los salarios y la productividad para el desarrollo económico La entrada Evalúan funcio",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/evaluan-funcionamiento-sindical-en-la-habana/",
-      "destacada": false,
-      "tema": "evalúan",
-      "fecha": "Sun, 04 Oct 2026 16:30:36 +0000",
-      "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Acoge estadio matancero inauguración de 65 Serie Nacional",
-      "resumen": "Un engalanado estadio Victoria de Girón acogió hoy la ceremonia de inauguración de la 65 Serie Nacional del béisbol cubano.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/04/acoge-matanzas-inauguracion-de-65-snb/",
-      "destacada": false,
-      "tema": "acoge",
-      "fecha": "Sun, 04 Oct 2026 19:31:10 +0000",
-      "id": 47
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "San Petersburgo entrega a Matanzas nueva ambulancia equipada",
-      "resumen": "La Embajada de Rusia en Cuba hizo entrega este sábado de una ambulancia donada por el gobernador y el pueblo de San Petersburgo",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/03/san-petersburgo-entrega-nueva-ambulancia/",
-      "destacada": false,
-      "tema": "petersburgo",
-      "fecha": "Sat, 03 Oct 2026 13:36:00 +0000",
-      "id": 48
+      "id": 30
     }
   ]
 }
