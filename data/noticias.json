@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-05",
-  "hora": "01:08",
-  "total": 56,
+  "hora": "03:06",
+  "total": 58,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -730,6 +730,32 @@
       "tema": "evaluó",
       "fecha": "Sun, 04 Oct 2026 13:52:03 +0000",
       "id": 56
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Acoge estadio matancero inauguración de 65 Serie Nacional",
+      "resumen": "Un engalanado estadio Victoria de Girón acogió hoy la ceremonia de inauguración de la 65 Serie Nacional del béisbol cubano.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/04/acoge-matanzas-inauguracion-de-65-snb/",
+      "destacada": false,
+      "tema": "acoge",
+      "fecha": "Sun, 04 Oct 2026 19:31:10 +0000",
+      "id": 57
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "San Petersburgo entrega a Matanzas nueva ambulancia equipada",
+      "resumen": "La Embajada de Rusia en Cuba hizo entrega este sábado de una ambulancia donada por el gobernador y el pueblo de San Petersburgo",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/03/san-petersburgo-entrega-nueva-ambulancia/",
+      "destacada": false,
+      "tema": "petersburgo",
+      "fecha": "Sat, 03 Oct 2026 13:36:00 +0000",
+      "id": 58
     }
   ]
 }
