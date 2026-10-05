@@ -1,20 +1,85 @@
 {
   "fecha": "2026-10-05",
-  "hora": "09:08",
-  "total": 45,
+  "hora": "10:08",
+  "total": 47,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Advierte Cuba en Madrid consecuencias de una agresión militar",
+      "resumen": "Durante su intervención ante del Pleno del XII Foro Parlamentario Iberoamericano en Madrid, la vicepresidenta cubana de la Asamblea Nacional del Poder Popular (ANPP), Ana María Mari Machado, subrayó que un hecho así, «desestabilizaría la región de América Latina y el Caribe como Zona de Paz»",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-04/advierte-cuba-en-madrid-consecuencias-de-una-agresion-militar-04-10-2026-10-10-22",
+      "destacada": true,
+      "tema": "advierte",
+      "fecha": "Sun, 04 Oct 2026 10:10:22 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Jesús Orta Ruiz: «Hay que tomar cinceles»",
+      "resumen": "Conocido como El Indio Naborí (1922-2005), es uno de los grandes poetas cubanos; recibió el Premio Nacional de Literatura en 1995, así como mereció la Orden Félix Varela de Primer Grado y el título honorífico de Héroe del Trabajo de la República de Cuba",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-04/jesus-orta-ruiz-hay-que-tomar-cinceles-04-10-2026-09-10-24",
+      "destacada": true,
+      "tema": "jesús",
+      "fecha": "Sun, 04 Oct 2026 09:10:24 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Subtítulo de gran mérito en el beisbol para ciegos",
+      "resumen": "Cuba cayó en la final de la Copa Internacional 10-4 frente a Italia",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-03/subtitulo-de-gran-merito-en-el-beisbol-para-ciegos-03-10-2026-14-10-29",
+      "destacada": true,
+      "tema": "subtítulo",
+      "fecha": "Sat, 03 Oct 2026 14:10:29 -0400",
+      "id": 3
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Rusia mantiene en agenda reanudar vuelos directos a Cuba",
-      "resumen": "Moscú, 5 oct (Prensa Latina) Reanudar los vuelos directos entre Rusia y Cuba sigue en la agenda, declaró hoy a la de prensa Sputnik el director del Departamento para América Latina de la cancillería del país eslavo, Alexandr Schetinin. The post Rusia mantiene en agenda reanudar vuelos directos a Cub",
+      "titulo": "Cuba en foco de amistad y solidaridad en Euskadi",
+      "resumen": "Madrid, 5 oct (Prensa Latina) Cuba estuvo en el foco de la amistad y solidaridad durante una jornada en Euskadi (País Vasco), donde cultura, sociedad y rechazo al bloqueo estadounidense, se dieron la mano. The post Cuba en foco de amistad y solidaridad en Euskadi first appeared on Noticias Prensa La",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/05/rusia-mantiene-en-agenda-reanudar-vuelos-directos-a-cuba/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/05/cuba-en-foco-de-amistad-y-solidaridad-en-euskadi/",
       "destacada": true,
-      "tema": "rusia",
-      "fecha": "Mon, 05 Oct 2026 07:15:18 +0000",
-      "id": 1
+      "tema": "amistad",
+      "fecha": "Mon, 05 Oct 2026 09:55:05 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Un tesoro en el Capitolio y un submarino en la bahía de La Habana calentaron las redes sociales en septiembre",
+      "resumen": "El secretismo oficial vuelve a alimentar rumores que mezclan enfermedades, apagones, purgas y fantasías subterráneas",
+      "imagen_url": "https://static.14ymedio.com/clip/720d6225-1dbe-4e8d-ab3e-0f7e8a784dd9_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/tesoro-capitolio-submarino-bahia-habana_1_1131529.html",
+      "destacada": true,
+      "tema": "tesoro",
+      "fecha": "Mon, 05 Oct 2026 09:20:28 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El petróleo ha sido la estafa de divisas fuertes del castrismo",
+      "resumen": "Antes de la captura de Maduro, el régimen cubano revendía en divisas a Asia y otros mercados de países amigos entre el 60% y el 80% del petróleo que le mandaba Venezuela",
+      "imagen_url": "https://static.14ymedio.com/clip/8000ddad-94f2-478f-94d7-fcd313929438_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/blogs/cajon-de-sastre/petroleo-sido-estafa-divisas-fuertes_132_1131531.html",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Mon, 05 Oct 2026 09:37:08 +0000",
+      "id": 6
     },
     {
       "categoria": "salud",
@@ -24,23 +89,10 @@
       "resumen": "El embajador de Rusia, Víctor Koronelli, dijo que \"tras un largo y difícil trayecto, estos vehículos llegaron a Cuba a pesar del inhumano bloqueo\"",
       "imagen_url": "https://static.14ymedio.com/clip/4e88ee8d-fa5a-4ae0-b810-06a1bb2fca71_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/cuba-recibe-tres-ambulancias-automovil_1_1131527.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "recibe",
       "fecha": "Mon, 05 Oct 2026 08:39:20 +0000",
-      "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Industriales, primer equipo deportivo cubano en recibir un patrocinio de una empresa privada",
-      "resumen": "La comercializadora de combustible A granel apoya al conjunto de La Habana en la Serie Nacional y los peloteros reciben uniformes con el logo de la compañía",
-      "imagen_url": "https://static.14ymedio.com/clip/07939824-b203-477c-9fa8-bc136fb8c78b_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/industriales-primer-equipo-deportivo-cubano_1_1131495.html",
-      "destacada": true,
-      "tema": "industriales",
-      "fecha": "Sun, 04 Oct 2026 11:51:19 +0000",
-      "id": 3
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -50,10 +102,10 @@
       "resumen": "“Sabíamos las consecuencias, pero su sentido de justicia es mucho mayor que el riesgo”, cuenta a ‘14ymedio’ la esposa de Ariel Limias Leyva",
       "imagen_url": "https://static.14ymedio.com/clip/c3df577f-40f7-4a35-a52a-725ee0d748fa_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/trasladan-villa-marista-hombre-protesto_1_1131478.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "trasladan",
       "fecha": "Sat, 03 Oct 2026 13:02:58 +0000",
-      "id": 4
+      "id": 8
     },
     {
       "categoria": "energia",
@@ -63,10 +115,10 @@
       "resumen": "La llegada de combustible anima el tráfico y devuelve los vehículos a las calles, mientras los apagones de más de 20 horas siguen marcando la vida dentro de las casas habaneras",
       "imagen_url": "https://static.14ymedio.com/clip/70bef639-d963-4d39-988a-15e356f70e69_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/habana-vuelve-rodar-sigue-oscuras_1_1131483.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "habana",
       "fecha": "Sat, 03 Oct 2026 13:55:50 +0000",
-      "id": 5
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -79,33 +131,7 @@
       "destacada": false,
       "tema": "lugar",
       "fecha": "Sat, 03 Oct 2026 15:57:33 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las otras vidas de una vendedora de la calle Reina en Centro Habana",
-      "resumen": "Viejas revistas de moda permiten a una mujer imaginar por unos minutos un mundo lejos de la precariedad cotidiana de Cuba",
-      "imagen_url": "https://static.14ymedio.com/clip/535d63b3-1cea-451d-a2f3-aa8e1ff5c97e_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/vidas-vendedora-calle-reina-centro_1_1131490.html",
-      "destacada": false,
-      "tema": "otras",
-      "fecha": "Sat, 03 Oct 2026 16:52:14 +0000",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba, cuarto país con más solicitudes de acciones urgentes por desapariciones forzadas ante la ONU",
-      "resumen": "La Isla acumula 217 desde 2012 y 17 en los primeros ocho meses de 2026, solo por debajo de México",
-      "imagen_url": "https://static.14ymedio.com/clip/63cbce43-8c66-42e0-b4e9-46369def2e8b_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/cuba-cuarto-pais-solicitudes-acciones_1_1131492.html",
-      "destacada": false,
-      "tema": "cuarto",
-      "fecha": "Sat, 03 Oct 2026 17:50:35 +0000",
-      "id": 8
+      "id": 10
     },
     {
       "categoria": "transporte",
@@ -118,7 +144,7 @@
       "destacada": false,
       "tema": "españa",
       "fecha": "Mon, 05 Oct 2026 10:55:07 +0200",
-      "id": 9
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -131,7 +157,7 @@
       "destacada": false,
       "tema": "elecciones",
       "fecha": "Mon, 05 Oct 2026 10:52:30 +0200",
-      "id": 10
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -144,7 +170,7 @@
       "destacada": false,
       "tema": "torres",
       "fecha": "Mon, 05 Oct 2026 06:56:36 +0200",
-      "id": 11
+      "id": 13
     },
     {
       "categoria": "energia",
@@ -157,7 +183,7 @@
       "destacada": false,
       "tema": "informan",
       "fecha": "Mon, 05 Oct 2026 05:16:03 +0200",
-      "id": 12
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -170,7 +196,20 @@
       "destacada": false,
       "tema": "incluye",
       "fecha": "Mon, 05 Oct 2026 02:15:42 +0200",
-      "id": 13
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Marrero promete cinco libras de arroz, una de azúcar y una de granos al mes a menos de un millón de cubanos",
+      "resumen": "#SOSCuba: Menos de un millón de #cubanos comenzará a recibir cinco libras de arroz, una de azúcar y una de granos al mes. Pero las entregas podrían durar apenas tres meses, según la intervención de Manuel Marrero en el podcast \"Desde la Presidencia\".",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791192916_69256.html",
+      "destacada": false,
+      "tema": "marrero",
+      "fecha": "Mon, 05 Oct 2026 11:35:16 +0200",
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -183,7 +222,7 @@
       "destacada": false,
       "tema": "pastor",
       "fecha": "Mon, 05 Oct 2026 07:49:26 +0200",
-      "id": 14
+      "id": 17
     },
     {
       "categoria": "economia",
@@ -196,7 +235,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sun, 04 Oct 2026 23:09:53 +0200",
-      "id": 15
+      "id": 18
     },
     {
       "categoria": "economia",
@@ -209,7 +248,7 @@
       "destacada": false,
       "tema": "industriales",
       "fecha": "Sun, 04 Oct 2026 20:12:53 +0200",
-      "id": 16
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -222,7 +261,7 @@
       "destacada": false,
       "tema": "retirar",
       "fecha": "Sun, 04 Oct 2026 18:35:08 +0200",
-      "id": 17
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -235,7 +274,7 @@
       "destacada": false,
       "tema": "otoños",
       "fecha": "Sun, 04 Oct 2026 18:16:10 +0200",
-      "id": 18
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -248,7 +287,7 @@
       "destacada": false,
       "tema": "acrobacias",
       "fecha": "Sun, 04 Oct 2026 18:01:52 +0200",
-      "id": 19
+      "id": 22
     },
     {
       "categoria": "salud",
@@ -261,20 +300,7 @@
       "destacada": false,
       "tema": "médicos",
       "fecha": "Sun, 04 Oct 2026 16:42:52 +0200",
-      "id": 20
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Guiteras vuelve al sistema y promete reducir los apagones en Cuba, pero su estabilidad es incierta",
-      "resumen": "La termoeléctrica Guiteras estaría a punto de sincronizar al sistema y reducir los #apagones en #Cuba. Las demoras en la reparación, los fallos de última hora y la obsolescencia de la planta contribuyen a la incertidumbre.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791123854_69245.html",
-      "destacada": false,
-      "tema": "guiteras",
-      "fecha": "Sun, 04 Oct 2026 16:24:14 +0200",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "energia",
@@ -287,7 +313,7 @@
       "destacada": false,
       "tema": "estancada",
       "fecha": "Sun, 04 Oct 2026 14:41:22 -0400",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "países",
       "fecha": "Sun, 04 Oct 2026 14:13:23 -0400",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "energia",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "solís",
       "fecha": "Sun, 04 Oct 2026 14:04:35 -0400",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -326,7 +352,7 @@
       "destacada": false,
       "tema": "familiares",
       "fecha": "Sun, 04 Oct 2026 13:13:23 -0400",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -339,7 +365,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Sun, 04 Oct 2026 12:00:00 -0400",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "piden",
       "fecha": "Sun, 04 Oct 2026 11:14:43 -0400",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -365,7 +391,7 @@
       "destacada": false,
       "tema": "activista",
       "fecha": "Sun, 04 Oct 2026 09:31:08 -0400",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -378,7 +404,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Sun, 04 Oct 2026 08:00:00 -0400",
-      "id": 29
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -391,7 +417,7 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Sun, 04 Oct 2026 07:00:30 -0400",
-      "id": 30
+      "id": 32
     },
     {
       "categoria": "salud",
@@ -404,7 +430,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Sun, 04 Oct 2026 07:00:00 -0400",
-      "id": 31
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -417,7 +443,7 @@
       "destacada": false,
       "tema": "mercado",
       "fecha": "Mon, 05 Oct 2026 04:01:37 +0000",
-      "id": 32
+      "id": 34
     },
     {
       "categoria": "transporte",
@@ -430,7 +456,7 @@
       "destacada": false,
       "tema": "cocodrilos",
       "fecha": "Sun, 04 Oct 2026 22:44:55 +0000",
-      "id": 33
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -443,7 +469,7 @@
       "destacada": false,
       "tema": "charón",
       "fecha": "Sun, 04 Oct 2026 18:37:48 +0000",
-      "id": 34
+      "id": 36
     },
     {
       "categoria": "politica",
@@ -456,7 +482,7 @@
       "destacada": false,
       "tema": "entrega",
       "fecha": "Sun, 04 Oct 2026 18:10:17 +0000",
-      "id": 35
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -469,7 +495,7 @@
       "destacada": false,
       "tema": "fiesta",
       "fecha": "Mon, 05 Oct 26 07:51:00 +0200",
-      "id": 36
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -482,7 +508,7 @@
       "destacada": false,
       "tema": "propaganda",
       "fecha": "Mon, 05 Oct 26 07:17:00 +0200",
-      "id": 37
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -495,7 +521,7 @@
       "destacada": false,
       "tema": "otaola",
       "fecha": "Mon, 05 Oct 26 07:15:00 +0200",
-      "id": 38
+      "id": 40
     },
     {
       "categoria": "salud",
@@ -508,7 +534,7 @@
       "destacada": false,
       "tema": "médicos",
       "fecha": "Mon, 05 Oct 26 06:39:00 +0200",
-      "id": 39
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -521,7 +547,7 @@
       "destacada": false,
       "tema": "presentan",
       "fecha": "Mon, 05 Oct 26 06:34:00 +0200",
-      "id": 40
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -534,7 +560,7 @@
       "destacada": false,
       "tema": "vivos",
       "fecha": "Mon, 05 Oct 26 06:33:00 +0200",
-      "id": 41
+      "id": 43
     },
     {
       "categoria": "energia",
@@ -547,7 +573,7 @@
       "destacada": false,
       "tema": "termoeléctrica",
       "fecha": "Sun, 04 Oct 2026 17:15:15 +0000",
-      "id": 42
+      "id": 44
     },
     {
       "categoria": "salud",
@@ -560,7 +586,7 @@
       "destacada": false,
       "tema": "recibe",
       "fecha": "Sun, 04 Oct 2026 16:41:36 +0000",
-      "id": 43
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -573,7 +599,7 @@
       "destacada": false,
       "tema": "evalúan",
       "fecha": "Sun, 04 Oct 2026 16:30:36 +0000",
-      "id": 44
+      "id": 46
     },
     {
       "categoria": "politica",
@@ -586,7 +612,7 @@
       "destacada": false,
       "tema": "evaluó",
       "fecha": "Sun, 04 Oct 2026 13:52:03 +0000",
-      "id": 45
+      "id": 47
     }
   ]
 }
