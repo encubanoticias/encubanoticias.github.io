@@ -10,7 +10,6 @@
   <meta name="author" content="EnCuba Pulso">
   <meta name="robots" content="index, follow">
 
-  <!-- Open Graph (Facebook, WhatsApp) -->
   <meta property="og:type" content="website">
   <meta property="og:title" content="EnCuba Pulso — Noticias de Cuba contrastadas y resumidas">
   <meta property="og:description" content="Noticias de Cuba contrastadas: oficial, alternativa e internacional. Resumidas en un solo lugar. Texto y audio.">
@@ -18,7 +17,6 @@
   <meta property="og:site_name" content="EnCuba Pulso">
   <meta property="og:locale" content="es_CU">
 
-  <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="EnCuba Pulso — Noticias de Cuba contrastadas">
   <meta name="twitter:description" content="Noticias de Cuba contrastadas: oficial, alternativa e internacional. Resumidas en un solo lugar.">
@@ -27,7 +25,6 @@
   <meta name="google-site-verification" content="PBcpiUgoleVgwF1M8AK3LLWGSb0-44jylL9uMSyPI2Y" />
   <link rel="stylesheet" href="css/estilo.css">
 
-  <!-- Datos estructurados para Google -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -41,10 +38,7 @@
 </head>
 <body>
 
-</header>
-<div id="ticker" class="ticker oculto">
-  <div class="ticker-texto" id="ticker-texto"></div>
-</div>
+<header>
   <div class="header-top">
     <h1><span>En</span>Cuba Pulso</h1>
     <p class="subtitulo">Noticias de Cuba desde todas las perspectivas: oficial, alternativa e internacional. Resumidas y en audio.</p>
@@ -61,6 +55,10 @@
   </nav>
 </header>
 
+<div id="ticker" class="ticker oculto">
+  <div class="ticker-texto" id="ticker-texto"></div>
+</div>
+
 <main>
 
   <section id="carrusel" class="carrusel"></section>
@@ -69,7 +67,7 @@
     <h2 class="seccion-titulo">🔍 Perspectivas <span class="info-icon" onclick="mostrarInfo()">ⓘ</span></h2>
     <div id="perspectivas" class="perspectivas"></div>
   </section>
-  
+
   <section class="seccion">
     <h2 class="seccion-titulo">🔥 Noticias calientes</h2>
     <div id="calientes" class="calientes"></div>
@@ -109,7 +107,7 @@
       </div>
       <div class="podcast-lista" id="podcast-lista"></div>
     </div>
-</section>
+  </section>
 
 </main>
 
@@ -130,7 +128,7 @@
     <button onclick="cerrarInfo()">Entendido</button>
   </div>
 </div>
-  
+
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="js/app.js"></script>
 </body>
