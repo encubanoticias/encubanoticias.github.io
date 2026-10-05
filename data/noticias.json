@@ -1,21 +1,8 @@
 {
   "fecha": "2026-10-05",
-  "hora": "17:05",
+  "hora": "18:08",
   "total": 30,
   "noticias": [
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Segundo boletín de deportes",
-      "resumen": "Estos son los titulares: -Los hermanos Abe tiñen de oro japonés el Mundial de judo -Djokovic desafía al tiempo y regresa a la final de Beijing -Cubano Orlando Polanco se despide del Mundial de Judo -Cuba por conservar liderato en Liga de Naciones de la Concacaf The post Segundo boletín de deportes f",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/05/segundo-boletin-de-deportes-850/",
-      "destacada": true,
-      "tema": "segundo",
-      "fecha": "Mon, 05 Oct 2026 16:18:32 +0000",
-      "id": 1
-    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
@@ -27,7 +14,7 @@
       "destacada": true,
       "tema": "justicia",
       "fecha": "Mon, 05 Oct 2026 12:35:24 +0000",
-      "id": 2
+      "id": 1
     },
     {
       "categoria": "sociedad",
@@ -40,7 +27,7 @@
       "destacada": true,
       "tema": "vuelve",
       "fecha": "Mon, 05 Oct 2026 14:51:09 +0000",
-      "id": 3
+      "id": 2
     },
     {
       "categoria": "energia",
@@ -53,7 +40,7 @@
       "destacada": true,
       "tema": "tesoro",
       "fecha": "Mon, 05 Oct 2026 09:20:28 +0000",
-      "id": 4
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -66,7 +53,7 @@
       "destacada": true,
       "tema": "tipo_cambio",
       "fecha": "Mon, 05 Oct 2026 09:37:08 +0000",
-      "id": 5
+      "id": 4
     },
     {
       "categoria": "salud",
@@ -76,49 +63,75 @@
       "resumen": "El embajador de Rusia, Víctor Koronelli, dijo que \"tras un largo y difícil trayecto, estos vehículos llegaron a Cuba a pesar del inhumano bloqueo\"",
       "imagen_url": "https://static.14ymedio.com/clip/4e88ee8d-fa5a-4ae0-b810-06a1bb2fca71_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/cuba-recibe-tres-ambulancias-automovil_1_1131527.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "recibe",
       "fecha": "Mon, 05 Oct 2026 08:39:20 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Aduana de Cuba establece nuevas reglas para importaciones comerciales de viajeros y envíos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e208933-s27061-nid342008-aduana-cuba-establece-nuevas-reglas-importaciones",
+      "destacada": false,
+      "tema": "aduana",
+      "fecha": "Mon, 05 Oct 2026 19:54:33 +0200",
       "id": 6
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Demócratas piden a la supervisora cubanoamericana Alina García que se aparte del escrutinio electoral por apoyar la Enmienda 3",
+      "titulo": "La Aduana General de Cuba regula las importaciones personales con nuevas reglas: Esto es lo que debes saber",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e199370-s27061-nid341985-democratas-piden-supervisora-cubanoamericana-alina",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e129488-s27061-nid342010-aduana-general-cuba-regula-importaciones-personales",
       "destacada": false,
-      "tema": "demócratas",
-      "fecha": "Mon, 05 Oct 2026 18:41:28 +0200",
+      "tema": "aduana",
+      "fecha": "Mon, 05 Oct 2026 19:43:25 +0200",
       "id": 7
     },
     {
-      "categoria": "sociedad",
+      "categoria": "economia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "«Hagamos una tregua»: Cándido Fabré pide humanidad al régimen cubano luego del caso de Baby Lores",
+      "titulo": "Cuba autoriza a personas naturales a importar mercancías con carácter comercial y cobrará los aranceles en dólares",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e208933-s27061-nid341989-hagamos-tregua-candido-fabre-pide-humanidad-al",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e208512-s27061-nid342007-cuba-autoriza-personas-naturales-importar-mercancias",
       "destacada": false,
-      "tema": "hagamos",
-      "fecha": "Mon, 05 Oct 2026 18:35:18 +0200",
+      "tema": "tipo_cambio",
+      "fecha": "Mon, 05 Oct 2026 19:32:12 +0200",
       "id": 8
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Paquito de Cuba se disfraza con peluca para burlarse de Anna Bensi cuatro días después de su condena",
+      "titulo": "Poder cubano: cuatro bateadores entre los finalistas al Premio Hank Aaron 2026",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e207888-s27061-nid341990-paquito-cuba-disfraza-peluca-burlarse-anna-bensi",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e197721-s27066-nid342005-poder-cubano-cuatro-bateadores-finalistas-al-premio",
       "destacada": false,
-      "tema": "paquito",
-      "fecha": "Mon, 05 Oct 2026 18:20:53 +0200",
+      "tema": "poder",
+      "fecha": "Mon, 05 Oct 2026 19:20:02 +0200",
       "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "ETECSA interrumpe buena parte de sus servicios en Cuba debido a 'problemas energéticos'",
+      "resumen": "#ETECSA interrumpe buena parte de sus servicios en #Cuba por \"problemas energéticos\". Transfermóvil y nauta dejan de funcionar, mientras la empresa no ofrece plazos para restablecerlos.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791221057_69264.html",
+      "destacada": false,
+      "tema": "etecsa",
+      "fecha": "Mon, 05 Oct 2026 19:24:17 +0200",
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 05 Oct 2026 19:02:41 +0200",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "politica",
@@ -144,7 +157,7 @@
       "destacada": false,
       "tema": "denunciar",
       "fecha": "Mon, 05 Oct 2026 18:49:07 +0200",
-      "id": 11
+      "id": 12
     },
     {
       "categoria": "transporte",
@@ -157,7 +170,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Mon, 05 Oct 2026 18:01:04 +0200",
-      "id": 12
+      "id": 13
     },
     {
       "categoria": "economia",
@@ -170,7 +183,7 @@
       "destacada": false,
       "tema": "precio",
       "fecha": "Mon, 05 Oct 2026 17:30:00 +0200",
-      "id": 13
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -183,7 +196,7 @@
       "destacada": false,
       "tema": "asamblea",
       "fecha": "Mon, 05 Oct 2026 14:12:16 +0200",
-      "id": 14
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -196,7 +209,7 @@
       "destacada": false,
       "tema": "fernández",
       "fecha": "Mon, 05 Oct 2026 13:15:33 +0200",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -209,7 +222,7 @@
       "destacada": false,
       "tema": "contra",
       "fecha": "Mon, 05 Oct 2026 13:01:26 +0200",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "transporte",
@@ -222,7 +235,7 @@
       "destacada": false,
       "tema": "embajada",
       "fecha": "Mon, 05 Oct 2026 12:30:15 +0200",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -235,7 +248,20 @@
       "destacada": false,
       "tema": "marrero",
       "fecha": "Mon, 05 Oct 2026 11:35:16 +0200",
-      "id": 18
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al Día",
+      "resumen": "\\",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480216.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Mon, 05 Oct 2026 14:00:00 -0400",
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -248,7 +274,7 @@
       "destacada": false,
       "tema": "vayan",
       "fecha": "Mon, 05 Oct 2026 13:08:58 -0400",
-      "id": 19
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -261,7 +287,7 @@
       "destacada": false,
       "tema": "futuro",
       "fecha": "Mon, 05 Oct 2026 13:04:28 -0400",
-      "id": 20
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -274,7 +300,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Mon, 05 Oct 2026 13:00:05 -0400",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -287,32 +313,6 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Mon, 05 Oct 2026 12:00:00 -0400",
-      "id": 22
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barrio adentro",
-      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480211.html",
-      "destacada": false,
-      "tema": "barrio",
-      "fecha": "Mon, 05 Oct 2026 11:30:00 -0400",
-      "id": 23
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Canciller de Taiwán recibe a Orlando Gutiérrez-Boronat y aborda la situación de Cuba",
-      "resumen": "El canciller de Taiwán, Lin Chia-lung, se reunió en Phoenix con Orlando Gutiérrez-Boronat, de la Asamblea de la Resistencia Cubana, en un encuentro centrado en la situación de Cuba, el respaldo a las fuerzas democráticas de la isla y la estrategia internacional de la oposición cubana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/canciller-de-taiw%c3%a1n-recibe-a-orlando-guti%c3%a9rrez-boronat-y-aborda-la-situaci%c3%b3n-de-cuba/481317.html",
-      "destacada": false,
-      "tema": "canciller",
-      "fecha": "Mon, 05 Oct 2026 11:21:25 -0400",
       "id": 24
     },
     {
