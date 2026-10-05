@@ -765,8 +765,8 @@ body.oscuro .modal-caja h3 { color: #7EB6FF; }
 /* TICKER */
 .ticker {
   position: sticky;
-  top: 100px;
-  z-index: 99;
+  top: 105px;
+  z-index: 98;
   background: var(--azul);
   color: #fff;
   overflow: hidden;
