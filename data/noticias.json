@@ -1,8 +1,21 @@
 {
   "fecha": "2026-10-05",
-  "hora": "15:08",
+  "hora": "17:05",
   "total": 30,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Segundo boletín de deportes",
+      "resumen": "Estos son los titulares: -Los hermanos Abe tiñen de oro japonés el Mundial de judo -Djokovic desafía al tiempo y regresa a la final de Beijing -Cubano Orlando Polanco se despide del Mundial de Judo -Cuba por conservar liderato en Liga de Naciones de la Concacaf The post Segundo boletín de deportes f",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/05/segundo-boletin-de-deportes-850/",
+      "destacada": true,
+      "tema": "segundo",
+      "fecha": "Mon, 05 Oct 2026 16:18:32 +0000",
+      "id": 1
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
@@ -14,7 +27,20 @@
       "destacada": true,
       "tema": "justicia",
       "fecha": "Mon, 05 Oct 2026 12:35:24 +0000",
-      "id": 1
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EE UU vuelve a contratar a través de Palco a siete trabajadores para su embajada en Cuba",
+      "resumen": "Los aspirantes tienen hasta el jueves 8 y 15 de octubre para postularse, en función de la oferta deseada",
+      "imagen_url": "https://static.14ymedio.com/clip/cc9ba5d6-a90e-4c67-a599-bebb9fd97134_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/ee-uu-vuelve-contratar-traves_1_1131545.html",
+      "destacada": true,
+      "tema": "vuelve",
+      "fecha": "Mon, 05 Oct 2026 14:51:09 +0000",
+      "id": 3
     },
     {
       "categoria": "energia",
@@ -27,7 +53,7 @@
       "destacada": true,
       "tema": "tesoro",
       "fecha": "Mon, 05 Oct 2026 09:20:28 +0000",
-      "id": 2
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -40,7 +66,7 @@
       "destacada": true,
       "tema": "tipo_cambio",
       "fecha": "Mon, 05 Oct 2026 09:37:08 +0000",
-      "id": 3
+      "id": 5
     },
     {
       "categoria": "salud",
@@ -50,62 +76,101 @@
       "resumen": "El embajador de Rusia, Víctor Koronelli, dijo que \"tras un largo y difícil trayecto, estos vehículos llegaron a Cuba a pesar del inhumano bloqueo\"",
       "imagen_url": "https://static.14ymedio.com/clip/4e88ee8d-fa5a-4ae0-b810-06a1bb2fca71_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/cuba-recibe-tres-ambulancias-automovil_1_1131527.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "recibe",
       "fecha": "Mon, 05 Oct 2026 08:39:20 +0000",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Elecciones en Brasil, otra mala noticia para el régimen cubano",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u208253-e192519-s27068-nid341983-elecciones-brasil-otra-mala-noticia-regimen",
-      "destacada": true,
-      "tema": "elecciones",
-      "fecha": "Mon, 05 Oct 2026 16:49:04 +0200",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Miami-Dade vota este martes eliminar 12 rutas de autobús y recortar el servicio nocturno: Hialeah y la Pequeña Habana, entre los más afectados",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e199370-s27061-nid341980-miami-dade-vota-este-martes-eliminar-12-rutas",
-      "destacada": false,
-      "tema": "miami",
-      "fecha": "Mon, 05 Oct 2026 16:43:57 +0200",
       "id": 6
     },
     {
-      "categoria": "economia",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "¡Sorpresa! Paso atrás del dólar y del euro en el mercado informal de divisas en Cuba",
+      "titulo": "Demócratas piden a la supervisora cubanoamericana Alina García que se aparte del escrutinio electoral por apoyar la Enmienda 3",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e129488-s27061-nid341978-sorpresa-paso-atras-dolar-euro-mercado-informal",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e199370-s27061-nid341985-democratas-piden-supervisora-cubanoamericana-alina",
       "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Mon, 05 Oct 2026 16:35:46 +0200",
+      "tema": "demócratas",
+      "fecha": "Mon, 05 Oct 2026 18:41:28 +0200",
       "id": 7
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Un niño cubano recibe juguetes en Cuba con enorme emoción, pero todos terminaron mirando al fondo: un detalle rompió el corazón",
+      "titulo": "«Hagamos una tregua»: Cándido Fabré pide humanidad al régimen cubano luego del caso de Baby Lores",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u65722-e65722-s27065-nid341977-nino-cubano-recibe-juguetes-cuba-enorme-emocion",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e208933-s27061-nid341989-hagamos-tregua-candido-fabre-pide-humanidad-al",
       "destacada": false,
-      "tema": "cubano",
-      "fecha": "Mon, 05 Oct 2026 15:57:00 +0200",
+      "tema": "hagamos",
+      "fecha": "Mon, 05 Oct 2026 18:35:18 +0200",
       "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Paquito de Cuba se disfraza con peluca para burlarse de Anna Bensi cuatro días después de su condena",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e207888-s27061-nid341990-paquito-cuba-disfraza-peluca-burlarse-anna-bensi",
+      "destacada": false,
+      "tema": "paquito",
+      "fecha": "Mon, 05 Oct 2026 18:20:53 +0200",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Silvio Rodríguez se despide de Madrid con entradas de hasta 173 euros y citas de Martí",
+      "resumen": "#SilvioRodríguez cierra su gira por #España, en la que ofreció diez conciertos y tuvo tiempo de amplificar la narrativa del #RégimenCubano. En Madrid, activistas cubanos desplegaron una pancarta con fotos de presos políticos en la entrada de su último concierto.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cultura/1791219761_69263.html",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Mon, 05 Oct 2026 19:02:41 +0200",
+      "id": 10
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Denunciar a Díaz-Canel, Raúl Castro y Manuel Marrero: ¿acciones inútiles?",
+      "resumen": "#CubaDemanda ha presentado denuncias penales contra #DíazCanel, #RaúlCastro y #ManuelMarrero. El experto Edel González opina sobre la utilidad de esas acciones.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1791218947_69089.html",
+      "destacada": false,
+      "tema": "denunciar",
+      "fecha": "Mon, 05 Oct 2026 18:49:07 +0200",
+      "id": 11
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El Gobierno cubano 'flexibiliza' las reglas para los ganaderos: ¿qué pueden hacer ahora con sus animales?",
+      "resumen": "#AnálisisCuba: El Gobierno de #Cuba amplía las facultades que tienen los #ganaderos, pero todavía no les da total libertad para decidir sobre sus #animales. Lee el análisis de Lucía Alfonso Mirabal.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791216064_69206.html",
+      "destacada": false,
+      "tema": "gobierno",
+      "fecha": "Mon, 05 Oct 2026 18:01:04 +0200",
+      "id": 12
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El precio de la gasolina en Cuba: ¿qué dicen los boteros?",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791214200_69260.html",
+      "destacada": false,
+      "tema": "precio",
+      "fecha": "Mon, 05 Oct 2026 17:30:00 +0200",
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -118,7 +183,7 @@
       "destacada": false,
       "tema": "asamblea",
       "fecha": "Mon, 05 Oct 2026 14:12:16 +0200",
-      "id": 9
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -131,7 +196,7 @@
       "destacada": false,
       "tema": "fernández",
       "fecha": "Mon, 05 Oct 2026 13:15:33 +0200",
-      "id": 10
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -144,7 +209,7 @@
       "destacada": false,
       "tema": "contra",
       "fecha": "Mon, 05 Oct 2026 13:01:26 +0200",
-      "id": 11
+      "id": 16
     },
     {
       "categoria": "transporte",
@@ -157,7 +222,7 @@
       "destacada": false,
       "tema": "embajada",
       "fecha": "Mon, 05 Oct 2026 12:30:15 +0200",
-      "id": 12
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -170,59 +235,20 @@
       "destacada": false,
       "tema": "marrero",
       "fecha": "Mon, 05 Oct 2026 11:35:16 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El pastor cubano detenido tras protestar frente al Capitolio sigue incomunicado y sin cargos",
-      "resumen": "Más represión sobre cristianos en #Cuba: un pastor preso, otro citado y un activista incomunicado. \"Han abierto un poderoso frente nuevo\" con las iglesias, advierte la historiadora Alina Bárbara López.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1791179366_69254.html",
-      "destacada": false,
-      "tema": "pastor",
-      "fecha": "Mon, 05 Oct 2026 07:49:26 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El dólar roza los 800 pesos y el euro los 900 en el mercado informal de divisas de Cuba",
-      "resumen": "Inflación al alza en #Cuba: el #dólar roza los 800 pesos y el #euro los 900 en el inestable mercado informal de divisas. El MLC y el dólar canadiense también cotizan al alza.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1791148193_69250.html",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Sun, 04 Oct 2026 23:09:53 +0200",
-      "id": 15
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Industriales, primer equipo con patrocinador privado en el 'béisbol revolucionario' de Cuba",
-      "resumen": "#Industriales se convierte en el primer equipo de la deslucida Serie Nacional de #Béisbol de #Cuba en contar con un patrocinador privado. A Granel, una mipyme de capital extranjero, respaldará al conjunto.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/deportes/1791137573_69247.html",
-      "destacada": false,
-      "tema": "industriales",
-      "fecha": "Sun, 04 Oct 2026 20:12:53 +0200",
-      "id": 16
+      "id": 18
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Anna Bensi agradece apoyo recibido y denuncia el \"discurso mentiroso, humillante, diabólico de la dictadura\"",
-      "resumen": "La influencer y activista cristiana Anna Sofía Benítez Silvente agradeció el respaldo recibido dentro y fuera de Cuba tras el proceso judicial contra ella y su madre, Caridad Silvente, y pidió libertad para Cuba y los presos políticos en la isla.",
+      "titulo": "\"¡Qué se vayan!\": el fuerte mensaje a la dictadura cubana del pastor que protestó en el Capitolio de La Habana",
+      "resumen": "Pastor detenido por protesta en el Capitolio de La Habana lidera desde hace tiempo campaña en redes sociales contra la dictadura cubana",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/anna-bensi-agradece-apoyo-recibido-y-denuncia-el-discurso-mentiroso-humillante-diab%c3%b3lico-de-la-dictadura/481318.html",
+      "enlace_original": "https://www.martinoticias.com/a/qu%c3%a9-se-vayan-el-fuerte-mensaje-a-la-dictadura-cubana-del-pastor-que-protest%c3%b3-en-el-capitolio-de-la-habana/481324.html",
       "destacada": false,
-      "tema": "bensi",
-      "fecha": "Mon, 05 Oct 2026 10:59:02 -0400",
-      "id": 17
+      "tema": "vayan",
+      "fecha": "Mon, 05 Oct 2026 13:08:58 -0400",
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -231,88 +257,62 @@
       "titulo": "El futuro es ya",
       "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480208.html",
+      "enlace_original": "https://www.martinoticias.com/a/el-futuro-es-ya/481319.html",
       "destacada": false,
       "tema": "futuro",
-      "fecha": "Mon, 05 Oct 2026 10:00:00 -0400",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "\"¡Váyanse ya!\": el mensaje en redes sociales a la dictadura del pastor que protestó en el Capitolio de La Habana",
-      "resumen": "Ariel Limias, pastor pentecostal cubano detenido durante una protesta en el Capitolio Nacional de La Habana mientras sostenía un cartel contra la dictadura,llevaba adelante en redes sociales una campaña contra la discriminación política en Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/v%c3%a1yanse-ya-el-mensaje-en-redes-sociales-a-la-dictadura-del-pastor-que-protest%c3%b3-en-el-capitolio-de-la-habana/481273.html",
-      "destacada": false,
-      "tema": "váyanse",
-      "fecha": "Mon, 05 Oct 2026 08:39:27 -0400",
-      "id": 19
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Martí Noticias AM",
-      "resumen": "Revista informativa con los últimos acontecimientos ocurridos en Cuba y el mundo. Con entrevistas y temas de actualidad relacionados a la política, la economía y de interés general.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480207.html",
-      "destacada": false,
-      "tema": "martí",
-      "fecha": "Mon, 05 Oct 2026 08:00:00 -0400",
+      "fecha": "Mon, 05 Oct 2026 13:04:28 -0400",
       "id": 20
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba Habla: \"Ya vendí el televisor, vendí el aire, vendí la cajita”",
-      "resumen": "Madre habanera habla de los sacrificios que ha tenido que hacer para darle de comer a su familia.",
+      "titulo": "Noticiero de Martí Noticias",
+      "resumen": "-La crisis sanitaria se agrava debido a la circulación simultánea de los cuatro serotipos del virus del dengue en la isla. -Cuba se mantiene en el grupo de países con más solicitudes de acción urgente ante el Comité contra la Desaparición Forzada de Naciones Unidas.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-ya-vend%c3%ad-el-televisor-vend%c3%ad-el-aire-vend%c3%ad-la-cajita/480964.html",
+      "enlace_original": "https://www.martinoticias.com/a/noticiero-de-mart%c3%ad-noticias/481323.html",
       "destacada": false,
-      "tema": "habla",
-      "fecha": "Mon, 05 Oct 2026 07:00:00 -0400",
+      "tema": "noticiero",
+      "fecha": "Mon, 05 Oct 2026 13:00:05 -0400",
       "id": 21
     },
     {
-      "categoria": "energia",
+      "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Agua estancada, vidas en riesgo: el dilema de la población cubana para sobrevivir al dengue",
-      "resumen": "En medio de apagones prolongados, montañas de basura y falta de insumos médicos, Cuba enfrenta hoy una de sus batallas más complejas: La circulación simultánea de cuatro serotipos del dengue donde la escasez de combustible paralizó las labores de fumigación.",
+      "titulo": "Noticiero de Radio Martí 12:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/agua-estancada-vidas-en-riesgo-el-dilema-de-la-poblaci%c3%b3n-cubana-para-sobrevivir-al-dengue/481271.html",
+      "enlace_original": "https://www.martinoticias.com/a/480213.html",
       "destacada": false,
-      "tema": "estancada",
-      "fecha": "Sun, 04 Oct 2026 14:41:22 -0400",
+      "tema": "noticiero",
+      "fecha": "Mon, 05 Oct 2026 12:00:00 -0400",
       "id": 22
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba entre los países con más denuncias de desapariciones forzadas ante Comité de la ONU",
-      "resumen": "Cuba se mantiene en 2026 entre los países con más solicitudes de acción urgente ante el Comité contra la Desaparición Forzada de Naciones Unidas (CED), con 17 casos reportados este año y 217 desde 2012, según un informe publicado por la ONU.",
+      "titulo": "Barrio adentro",
+      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-entre-los-pa%c3%adses-con-m%c3%a1s-denuncias-de-desapariciones-forzadas-ante-comit%c3%a9-de-la-onu/481270.html",
+      "enlace_original": "https://www.martinoticias.com/a/480211.html",
       "destacada": false,
-      "tema": "países",
-      "fecha": "Sun, 04 Oct 2026 14:13:23 -0400",
+      "tema": "barrio",
+      "fecha": "Mon, 05 Oct 2026 11:30:00 -0400",
       "id": 23
     },
     {
-      "categoria": "energia",
+      "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Meme Solís y Frankie Marcos serán galardonados en la ceremonia de los Premios Latino 2026 en Madrid",
-      "resumen": "El legado musical cubano será reconocido este lunes en las figuras de Meme Solís y Frankie Marcos, durante la ceremonia de entrega de los Premios Latino, que se celebrará en el Nuevo Teatro Alcalá de Madrid.",
+      "titulo": "Canciller de Taiwán recibe a Orlando Gutiérrez-Boronat y aborda la situación de Cuba",
+      "resumen": "El canciller de Taiwán, Lin Chia-lung, se reunió en Phoenix con Orlando Gutiérrez-Boronat, de la Asamblea de la Resistencia Cubana, en un encuentro centrado en la situación de Cuba, el respaldo a las fuerzas democráticas de la isla y la estrategia internacional de la oposición cubana.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/meme-solis-y-frankie-marcos-seran-premiados-por-su-trayectoria-artistica/481272.html",
+      "enlace_original": "https://www.martinoticias.com/a/canciller-de-taiw%c3%a1n-recibe-a-orlando-guti%c3%a9rrez-boronat-y-aborda-la-situaci%c3%b3n-de-cuba/481317.html",
       "destacada": false,
-      "tema": "solís",
-      "fecha": "Sun, 04 Oct 2026 14:04:35 -0400",
+      "tema": "canciller",
+      "fecha": "Mon, 05 Oct 2026 11:21:25 -0400",
       "id": 24
     },
     {
