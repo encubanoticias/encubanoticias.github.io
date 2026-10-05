@@ -1,8 +1,73 @@
 {
   "fecha": "2026-10-05",
-  "hora": "18:08",
-  "total": 30,
+  "hora": "22:06",
+  "total": 39,
   "noticias": [
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Legado del Che y solidaridad con Cuba centran conversatorio en Italia",
+      "resumen": "Roma, 5 oct (Prensa Latina) El presidente de Casa de las Américas de Cuba, Abel Prieto, calificó de estimulante por su sentido ético, el conversatorio sostenido hoy, en esta capital, con italianos, en su mayoría jóvenes, sobre la trascendencia de Ernesto Che Guevara. The post Legado del Che y solida",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/05/legado-del-che-y-solidaridad-con-cuba-centran-conversatorio-en-italia/",
+      "destacada": true,
+      "tema": "legado",
+      "fecha": "Mon, 05 Oct 2026 21:50:02 +0000",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Béisbol cubano: Matanzas se queda solo en la cima occidental",
+      "resumen": "Matanzas, Cuba, 5 oct (Prensa Latina) Los Cocodrilos de Matanzas encadenaron hoy su segunda blanqueada sobre Cienfuegos, esta vez 2-0, para conservar el invicto y asumir en solitario el liderazgo de occidente en la 65 Serie Nacional de Béisbol de Cuba. The post Béisbol cubano: Matanzas se queda solo",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/05/beisbol-cubano-matanzas-se-queda-solo-en-la-cima-occidental/",
+      "destacada": true,
+      "tema": "béisbol",
+      "fecha": "Mon, 05 Oct 2026 21:12:26 +0000",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Reyes frena a Cienfuegos y regala segundo éxito de campeones de Cuba",
+      "resumen": "Matanzas, Cuba, 5 oct (Prensa Latina) Sin permitir carreras en cinco entradas, el derecho Brian Reyes frenó hoy a Cienfuegos y regaló a los campeones de Matanzas el segundo éxito en la inaugurada 65 Serie Nacional del béisbol cubano. The post Reyes frena a Cienfuegos y regala segundo éxito de campeo",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/05/reyes-frena-a-cienfuegos-y-regala-segundo-exito-de-campeones-de-cuba/",
+      "destacada": true,
+      "tema": "reyes",
+      "fecha": "Mon, 05 Oct 2026 20:56:23 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"Salir de aquí es ser libre\": el 'freestyle' pone en verso las angustias de los jóvenes cubanos",
+      "resumen": "Big M ganó el clasificatorio del Pabellón Cuba y se unió a Reverse y Pirry para representar la Isla en el Mundial de esta disciplina",
+      "imagen_url": "https://static.14ymedio.com/clip/c0d652e0-f41d-4b52-a559-c5bf2b22bbac_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/salir-libre-freestyle-pone-verso_1_1131556.html",
+      "destacada": true,
+      "tema": "salir",
+      "fecha": "Mon, 05 Oct 2026 17:35:11 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La presidenta de México no reporta en su segundo informe el tema de médicos cubanos ni Sembrando Vida",
+      "resumen": "Claudia Sheinbaum tampoco aborda los envíos de Pemex a la Isla realizados en 2025",
+      "imagen_url": "https://static.14ymedio.com/clip/b5b1614c-d931-4748-bfae-fa12889eba22_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/internacional/presidenta-mexico-no-reporta-segundo_1_1131574.html",
+      "destacada": true,
+      "tema": "presidenta",
+      "fecha": "Mon, 05 Oct 2026 20:31:46 +0000",
+      "id": 5
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
@@ -11,10 +76,23 @@
       "resumen": "La Audiencia Nacional desestima el recurso de una familia y subraya que la condición de refugiado se aplica solo a personas perseguidas por “motivos de raza, religión, nacionalidad, opiniones políticas, orientación sexual”",
       "imagen_url": "https://static.14ymedio.com/clip/96635618-fcba-4dac-95a0-d861f8647c6e_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/justicia-espanola-malos-tratos-sufridos_1_1131538.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "justicia",
       "fecha": "Mon, 05 Oct 2026 12:35:24 +0000",
-      "id": 1
+      "id": 6
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El Gobierno promete arroz, azúcar y granos para 883.000 cubanos hasta enero",
+      "resumen": "El primer ministro, Manuel Marrero, admite en el ‘podcast’ de Díaz-Canel que los efectos de las 176 reformas “aún no se aprecian en la calidad de vida de la población”",
+      "imagen_url": "https://static.14ymedio.com/clip/fb3d5837-eea5-4bc2-aefa-45a69895efa8_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/gobierno-promete-arroz-azucar-granos_1_1131557.html",
+      "destacada": false,
+      "tema": "gobierno",
+      "fecha": "Mon, 05 Oct 2026 17:37:21 +0000",
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -24,10 +102,10 @@
       "resumen": "Los aspirantes tienen hasta el jueves 8 y 15 de octubre para postularse, en función de la oferta deseada",
       "imagen_url": "https://static.14ymedio.com/clip/cc9ba5d6-a90e-4c67-a599-bebb9fd97134_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/ee-uu-vuelve-contratar-traves_1_1131545.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "vuelve",
       "fecha": "Mon, 05 Oct 2026 14:51:09 +0000",
-      "id": 2
+      "id": 8
     },
     {
       "categoria": "energia",
@@ -37,88 +115,101 @@
       "resumen": "El secretismo oficial vuelve a alimentar rumores que mezclan enfermedades, apagones, purgas y fantasías subterráneas",
       "imagen_url": "https://static.14ymedio.com/clip/720d6225-1dbe-4e8d-ab3e-0f7e8a784dd9_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/tesoro-capitolio-submarino-bahia-habana_1_1131529.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "tesoro",
       "fecha": "Mon, 05 Oct 2026 09:20:28 +0000",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El petróleo ha sido la estafa de divisas fuertes del castrismo",
-      "resumen": "Antes de la captura de Maduro, el régimen cubano revendía en divisas a Asia y otros mercados de países amigos entre el 60% y el 80% del petróleo que le mandaba Venezuela",
-      "imagen_url": "https://static.14ymedio.com/clip/8000ddad-94f2-478f-94d7-fcd313929438_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/blogs/cajon-de-sastre/petroleo-sido-estafa-divisas-fuertes_132_1131531.html",
-      "destacada": true,
-      "tema": "tipo_cambio",
-      "fecha": "Mon, 05 Oct 2026 09:37:08 +0000",
-      "id": 4
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba recibe tres ambulancias y un automóvil donados por Rusia para los servicios de salud",
-      "resumen": "El embajador de Rusia, Víctor Koronelli, dijo que \"tras un largo y difícil trayecto, estos vehículos llegaron a Cuba a pesar del inhumano bloqueo\"",
-      "imagen_url": "https://static.14ymedio.com/clip/4e88ee8d-fa5a-4ae0-b810-06a1bb2fca71_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/cuba-recibe-tres-ambulancias-automovil_1_1131527.html",
-      "destacada": true,
-      "tema": "recibe",
-      "fecha": "Mon, 05 Oct 2026 08:39:20 +0000",
-      "id": 5
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Aduana de Cuba establece nuevas reglas para importaciones comerciales de viajeros y envíos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e208933-s27061-nid342008-aduana-cuba-establece-nuevas-reglas-importaciones",
-      "destacada": false,
-      "tema": "aduana",
-      "fecha": "Mon, 05 Oct 2026 19:54:33 +0200",
-      "id": 6
+      "id": 9
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La Aduana General de Cuba regula las importaciones personales con nuevas reglas: Esto es lo que debes saber",
+      "titulo": "¿Regresa el macarthismo? Abogado relaciona a Trump y a cubanos con caza de brujas en Miami",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e129488-s27061-nid342010-aduana-general-cuba-regula-importaciones-personales",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e192519-s27061-nid342027-regresa-macarthismo-abogado-relaciona-trump-cubanos",
       "destacada": false,
-      "tema": "aduana",
-      "fecha": "Mon, 05 Oct 2026 19:43:25 +0200",
-      "id": 7
+      "tema": "regresa",
+      "fecha": "Mon, 05 Oct 2026 22:59:24 +0200",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Tu familia en Cuba puede hundir tu caso de asilo en EE.UU.? Willy Allen responde",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e192519-s27061-nid342028-familia-cuba-puede-hundir-caso-asilo-eeuu-willy",
+      "destacada": false,
+      "tema": "familia",
+      "fecha": "Mon, 05 Oct 2026 22:48:02 +0200",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubano autodeportado suplica una visa para acompañar a su hija durante una operación en EE.UU.",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e135253-s27061-nid342022-cubano-autodeportado-suplica-visa-acompanar-hija",
+      "destacada": false,
+      "tema": "cubano",
+      "fecha": "Mon, 05 Oct 2026 21:53:14 +0200",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Abre en Playa el nuevo centro de visados de España en Cuba: primeras colas y dudas entre los solicitantes",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e208933-s27061-nid342017-abre-playa-nuevo-centro-visados-espana-cuba-primeras",
+      "destacada": false,
+      "tema": "playa",
+      "fecha": "Mon, 05 Oct 2026 21:47:24 +0200",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La portuguesa Annie Silva Pais: Hija del jefe de la policía política de Salazar que acabó con libreta de abastecimiento en La Habana",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e208512-s27061-nid342019-portuguesa-annie-silva-pais-hija-jefe-policia",
+      "destacada": false,
+      "tema": "portuguesa",
+      "fecha": "Mon, 05 Oct 2026 21:21:58 +0200",
+      "id": 14
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "'The Atlantic': Washington exigió la renuncia de Díaz-Canel y las conversaciones 'se estancaron'",
+      "resumen": "The Atlantic asegura que #EEUU exigió al régimen la salida de Díaz-Canel y que las conversaciones con #LaHabana \"se estancaron\": \"Hace nueve meses, el cambio de régimen en #Cuba parecía inminente\".",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791231311_69267.html",
+      "destacada": false,
+      "tema": "atlantic",
+      "fecha": "Mon, 05 Oct 2026 22:15:11 +0200",
+      "id": 15
     },
     {
       "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba autoriza a personas naturales a importar mercancías con carácter comercial y cobrará los aranceles en dólares",
-      "resumen": "",
+      "titulo": "La Habana autoriza a las personas naturales a realizar importaciones con carácter comercial",
+      "resumen": "El régimen de #Cuba autoriza a las personas naturales a realizar #importaciones con carácter comercial desde el 12 de octubre. La Aduana cobrará en dólares impuestos de hasta el 30% según el valor de la mercancía.",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e208512-s27061-nid342007-cuba-autoriza-personas-naturales-importar-mercancias",
+      "enlace_original": "https://diariodecuba.com/cuba/1791224859_69266.html",
       "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Mon, 05 Oct 2026 19:32:12 +0200",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Poder cubano: cuatro bateadores entre los finalistas al Premio Hank Aaron 2026",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-05-u1-e197721-s27066-nid342005-poder-cubano-cuatro-bateadores-finalistas-al-premio",
-      "destacada": false,
-      "tema": "poder",
-      "fecha": "Mon, 05 Oct 2026 19:20:02 +0200",
-      "id": 9
+      "tema": "habana",
+      "fecha": "Mon, 05 Oct 2026 20:27:39 +0200",
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -131,7 +222,7 @@
       "destacada": false,
       "tema": "etecsa",
       "fecha": "Mon, 05 Oct 2026 19:24:17 +0200",
-      "id": 10
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -144,7 +235,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 05 Oct 2026 19:02:41 +0200",
-      "id": 11
+      "id": 18
     },
     {
       "categoria": "politica",
@@ -157,7 +248,7 @@
       "destacada": false,
       "tema": "denunciar",
       "fecha": "Mon, 05 Oct 2026 18:49:07 +0200",
-      "id": 12
+      "id": 19
     },
     {
       "categoria": "transporte",
@@ -170,7 +261,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Mon, 05 Oct 2026 18:01:04 +0200",
-      "id": 13
+      "id": 20
     },
     {
       "categoria": "economia",
@@ -183,7 +274,7 @@
       "destacada": false,
       "tema": "precio",
       "fecha": "Mon, 05 Oct 2026 17:30:00 +0200",
-      "id": 14
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -196,7 +287,7 @@
       "destacada": false,
       "tema": "asamblea",
       "fecha": "Mon, 05 Oct 2026 14:12:16 +0200",
-      "id": 15
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -209,111 +300,124 @@
       "destacada": false,
       "tema": "fernández",
       "fecha": "Mon, 05 Oct 2026 13:15:33 +0200",
-      "id": 16
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿El plan de EEUU contra el castrismo huele también a petróleo?",
-      "resumen": "#DonaldTrump ha dicho que el régimen de #Cuba 'caerá pronto', mientras que #MarcoRubio asegura que 'ya cayó'.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791198086_69248.html",
-      "destacada": false,
-      "tema": "contra",
-      "fecha": "Mon, 05 Oct 2026 13:01:26 +0200",
-      "id": 17
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La embajada de EEUU en La Habana abre siete plazas de empleo",
-      "resumen": "La sede diplomática de #EEUU en #Cuba ofrece puestos en seguridad, transporte, logística, diplomacia pública y tecnología, con plazos de solicitud hasta el 15 de octubre.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791196215_69257.html",
-      "destacada": false,
-      "tema": "embajada",
-      "fecha": "Mon, 05 Oct 2026 12:30:15 +0200",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Marrero promete cinco libras de arroz, una de azúcar y una de granos al mes a menos de un millón de cubanos",
-      "resumen": "#SOSCuba: Menos de un millón de #cubanos comenzará a recibir cinco libras de arroz, una de azúcar y una de granos al mes. Pero las entregas podrían durar apenas tres meses, según la intervención de Manuel Marrero en el podcast \"Desde la Presidencia\".",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791192916_69256.html",
-      "destacada": false,
-      "tema": "marrero",
-      "fecha": "Mon, 05 Oct 2026 11:35:16 +0200",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "\\",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480216.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Mon, 05 Oct 2026 14:00:00 -0400",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "\"¡Qué se vayan!\": el fuerte mensaje a la dictadura cubana del pastor que protestó en el Capitolio de La Habana",
-      "resumen": "Pastor detenido por protesta en el Capitolio de La Habana lidera desde hace tiempo campaña en redes sociales contra la dictadura cubana",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/qu%c3%a9-se-vayan-el-fuerte-mensaje-a-la-dictadura-cubana-del-pastor-que-protest%c3%b3-en-el-capitolio-de-la-habana/481324.html",
-      "destacada": false,
-      "tema": "vayan",
-      "fecha": "Mon, 05 Oct 2026 13:08:58 -0400",
-      "id": 21
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El futuro es ya",
-      "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/el-futuro-es-ya/481319.html",
-      "destacada": false,
-      "tema": "futuro",
-      "fecha": "Mon, 05 Oct 2026 13:04:28 -0400",
-      "id": 22
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Martí Noticias",
-      "resumen": "-La crisis sanitaria se agrava debido a la circulación simultánea de los cuatro serotipos del virus del dengue en la isla. -Cuba se mantiene en el grupo de países con más solicitudes de acción urgente ante el Comité contra la Desaparición Forzada de Naciones Unidas.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/noticiero-de-mart%c3%ad-noticias/481323.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Mon, 05 Oct 2026 13:00:05 -0400",
       "id": 23
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 12:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "titulo": "Noticiero de Radio Martí 5:00 PM",
+      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480213.html",
+      "enlace_original": "https://www.martinoticias.com/a/480225.html",
       "destacada": false,
       "tema": "noticiero",
-      "fecha": "Mon, 05 Oct 2026 12:00:00 -0400",
+      "fecha": "Mon, 05 Oct 2026 17:00:30 -0400",
       "id": 24
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al día",
+      "resumen": "Investigación revela ruta de negocios entre México, Panamá y Cuba vinculada a empresas de Gaesa .",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/481336.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Mon, 05 Oct 2026 16:27:44 -0400",
+      "id": 25
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Un cubano entre casi una veintena de extranjeros acusados de delitos electorales en EEUU",
+      "resumen": "Los procesos anunciados abarcan cuatro distritos federales: el Distrito Medio de Florida, el Distrito Este de Luisiana, el Distrito Este de Wisconsin y el Distrito de Minnesota. Las 16 personas señaladas son residentes permanentes legales, de acuerdo con la información oficial.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/un-cubano-entre-casi-una-veintena-de-extranjeros-acusados-de-delitos-electorales-en-eeuu/481335.html",
+      "destacada": false,
+      "tema": "cubano",
+      "fecha": "Mon, 05 Oct 2026 16:06:32 -0400",
+      "id": 26
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Las Noticias Como Son",
+      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480219.html",
+      "destacada": false,
+      "tema": "noticias",
+      "fecha": "Mon, 05 Oct 2026 16:05:30 -0400",
+      "id": 27
+    },
+    {
+      "categoria": "energia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Unión Eléctrica prevé afectación de 1920 MW durante el horario pico de este lunes",
+      "resumen": "El Sistema Eléctrico Nacional (SEN) prevé para este lunes una afectación de 1920 megawatts (MW) durante el horario de máxima demanda, debido a un déficit de capacidad de generación. The post Unión Eléctrica prevé afectación de 1920 MW durante el horario pico de este lunes first appeared on Cubadebat",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/05/union-electrica-preve-afectacion-de-1920-mw-durante-el-horario-pico-de-este-lunes/",
+      "destacada": false,
+      "tema": "unión",
+      "fecha": "Mon, 05 Oct 2026 13:14:55 +0000",
+      "id": 28
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Lula da Silva y Flávio Bolsonaro irán a segunda vuelta en Brasil",
+      "resumen": "Bolsonaro mantuvo ventaja en el escrutinio y Lula ganó terreno hasta reducir la diferencia. La abstención superó el 21%, más de 33 millones de votantes. La derecha crece en el Legislativo. The post Lula da Silva y Flávio Bolsonaro irán a segunda vuelta en Brasil first appeared on Cubadebate.",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/05/lula-da-silva-y-flavio-bolsonaro-iran-a-segunda-vuelta-en-brasil/",
+      "destacada": false,
+      "tema": "silva",
+      "fecha": "Mon, 05 Oct 2026 12:39:50 +0000",
+      "id": 29
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Mercado en el socialismo cubano: ¿Adiós a la planificación?",
+      "resumen": "Cuadrando la Caja aborda la relación entre planificación y mercado en el socialismo cubano ante las transformaciones económicas en curso. Los especialistas coinciden en que el mercado no es ajeno al socialismo y debe ganar peso en la asignación de recursos, pero regulado y subordinado al interés soc",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/05/mercado-en-el-socialismo-cubano-adios-a-la-planificacion/",
+      "destacada": false,
+      "tema": "mercado",
+      "fecha": "Mon, 05 Oct 2026 04:01:37 +0000",
+      "id": 30
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cocodrilos de Matanzas inician defensa de su corona con blanqueada 6-0 sobre Cienfuegos en la 65 Serie Nacional",
+      "resumen": "Los Cocodrilos de Matanzas comenzaron este domingo la defensa de su corona con una victoria de 6-0 sobre los Elefantes de Cienfuegos, en el estreno de ambos equipos en la 65 Serie Nacional de Béisbol de Cuba. El campeón vigente hizo valer su condición de anfitrión en el estadio Victoria de Girón. Th",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/04/cocodrilos-de-matanzas-inician-defensa-de-su-corona-con-blanqueada-6-0-sobre-cienfuegos-en-la-65-serie-nacional/",
+      "destacada": false,
+      "tema": "cocodrilos",
+      "fecha": "Sun, 04 Oct 2026 22:44:55 +0000",
+      "id": 31
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Charón queda eliminado de la competencia individual en el mundial de judo de Bakú",
+      "resumen": "Charón, de 21 años y ubicado en el puesto 19 del ranking mundial, llegaba a la cita mundialista con la aspiración de avanzar y optar por una medalla, sin embargo, se topó con un rival que ya lo había superado en el Grand Slam de París 2026, donde lo venció por yuko en el tiempo de Golden Score. The ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/04/chacon-queda-eliminado-de-la-competencia-individual-en-el-mundial-de-judo-de-baku/",
+      "destacada": false,
+      "tema": "charón",
+      "fecha": "Sun, 04 Oct 2026 18:37:48 +0000",
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -326,7 +430,7 @@
       "destacada": false,
       "tema": "fiesta",
       "fecha": "Mon, 05 Oct 26 07:51:00 +0200",
-      "id": 25
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -339,7 +443,7 @@
       "destacada": false,
       "tema": "propaganda",
       "fecha": "Mon, 05 Oct 26 07:17:00 +0200",
-      "id": 26
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -352,7 +456,7 @@
       "destacada": false,
       "tema": "otaola",
       "fecha": "Mon, 05 Oct 26 07:15:00 +0200",
-      "id": 27
+      "id": 35
     },
     {
       "categoria": "salud",
@@ -365,7 +469,7 @@
       "destacada": false,
       "tema": "médicos",
       "fecha": "Mon, 05 Oct 26 06:39:00 +0200",
-      "id": 28
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -378,7 +482,7 @@
       "destacada": false,
       "tema": "presentan",
       "fecha": "Mon, 05 Oct 26 06:34:00 +0200",
-      "id": 29
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -391,7 +495,20 @@
       "destacada": false,
       "tema": "vivos",
       "fecha": "Mon, 05 Oct 26 06:33:00 +0200",
-      "id": 30
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://actualidad.rt.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EE.UU. lanza una amenaza contra los barcos que desafíen su bloqueo contra Irán",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://actualidad-rt.com/actualidad/631077-eeuu-amenaza-barcos-desafian-bloqueo-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "destacada": false,
+      "tema": "lanza",
+      "fecha": "Mon, 05 Oct 2026 21:13:32 +0000",
+      "id": 39
     }
   ]
 }
