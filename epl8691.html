@@ -144,6 +144,25 @@ main { padding: 1rem; max-width: 900px; margin: 0 auto; }
      <input type="number" id="cfg-vida" min="6" max="168">
      <small>Noticias más viejas se eliminan.</small>
     </div>
+
+
+    <div class="campo">
+  <label>Mensajes del ticker</label>
+  <textarea id="cfg-ticker-texto" rows="3" placeholder="Mensaje 1 / Mensaje 2 / Mensaje 3"></textarea>
+  <small>Separa mensajes con /.</small>
+</div>
+<div class="campo">
+  <label>Velocidad del ticker (segundos)</label>
+  <input type="number" id="cfg-ticker-vel" min="5" max="120">
+</div>
+<div class="campo">
+  <label>Activar ticker</label>
+  <select id="cfg-ticker-activo">
+    <option value="true">Sí</option>
+    <option value="false">No</option>
+  </select>
+</div>  
+
       
       <small>Cuántas noticias mostrar en el carrusel superior.</small>
     </div>
@@ -289,6 +308,9 @@ async function cargarTodo() {
     document.getElementById('cfg-carrusel').value = config.destacadas_carrusel || 9;
     document.getElementById('temas-txt').value = (config.temas_prioritarios || []).join(', ');
     document.getElementById('cfg-vida').value = config.horas_vida_noticias || 48;
+    document.getElementById('cfg-ticker-texto').value = config.ticker_texto || '';
+    document.getElementById('cfg-ticker-vel').value = config.ticker_velocidad || 30;
+    document.getElementById('cfg-ticker-activo').value = String(config.ticker_activo !== false);
   }
 
   const f = await apiGet(`/repos/${REPO}/contents/data/fuentes.json`);
@@ -356,6 +378,9 @@ document.getElementById('guardar-config').onclick = async () => {
   config.max_temas_perspectivas = parseInt(document.getElementById('cfg-persp').value);
   config.destacadas_carrusel = parseInt(document.getElementById('cfg-carrusel').value);
   config.horas_vida_noticias = parseInt(document.getElementById('cfg-vida').value);
+  config.ticker_texto = document.getElementById('cfg-ticker-texto').value;
+  config.ticker_velocidad = parseInt(document.getElementById('cfg-ticker-vel').value);
+  config.ticker_activo = document.getElementById('cfg-ticker-activo').value === 'true';
   const ok = await apiPut(`/repos/${REPO}/contents/data/config.json`,
     JSON.stringify(config, null, 2), 'Actualizar config');
   if (ok) toast('Configuración guardada');
