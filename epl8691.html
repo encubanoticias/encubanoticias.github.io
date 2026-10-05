@@ -138,33 +138,28 @@ main { padding: 1rem; max-width: 900px; margin: 0 auto; }
     <div class="campo">
       <label>Noticias en el carrusel</label>
       <input type="number" id="cfg-carrusel" min="3" max="15">
-
-    <div class="campo">
-     <label>Horas de vida de las noticias</label>
-     <input type="number" id="cfg-vida" min="6" max="168">
-     <small>Noticias más viejas se eliminan.</small>
-    </div>
-
-
-    <div class="campo">
-  <label>Mensajes del ticker</label>
-  <textarea id="cfg-ticker-texto" rows="3" placeholder="Mensaje 1 / Mensaje 2 / Mensaje 3"></textarea>
-  <small>Separa mensajes con /.</small>
-</div>
-<div class="campo">
-  <label>Velocidad del ticker (segundos)</label>
-  <input type="number" id="cfg-ticker-vel" min="5" max="120">
-</div>
-<div class="campo">
-  <label>Activar ticker</label>
-  <select id="cfg-ticker-activo">
-    <option value="true">Sí</option>
-    <option value="false">No</option>
-  </select>
-</div>  
-
-      
       <small>Cuántas noticias mostrar en el carrusel superior.</small>
+    </div>
+    <div class="campo">
+      <label>Horas de vida de las noticias</label>
+      <input type="number" id="cfg-vida" min="6" max="168">
+      <small>Noticias más viejas se eliminan.</small>
+    </div>
+    <div class="campo">
+      <label>Mensajes del ticker</label>
+      <textarea id="cfg-ticker-texto" rows="3" placeholder="Mensaje 1 / Mensaje 2 / Mensaje 3"></textarea>
+      <small>Separa mensajes con /.</small>
+    </div>
+    <div class="campo">
+      <label>Velocidad del ticker (segundos)</label>
+      <input type="number" id="cfg-ticker-vel" min="5" max="120">
+    </div>
+    <div class="campo">
+      <label>Activar ticker</label>
+      <select id="cfg-ticker-activo">
+        <option value="true">Sí</option>
+        <option value="false">No</option>
+      </select>
     </div>
     <button class="btn" id="guardar-config">💾 Guardar configuración</button>
   </section>
