@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-06",
-  "hora": "12:07",
-  "total": 41,
+  "hora": "13:07",
+  "total": 44,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -20,7 +20,7 @@
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "¿Cómo ha transcurrido el primer mes de clases en la educación general",
+      "titulo": "¿Cómo ha transcurrido el primer mes de clases en la educación general?",
       "resumen": "Septiembre dejó una escuela que permanece abierta y activa, pero también mostró cuánto cuesta sostenerla en las actuales circunstancias de bloqueo recrudecido",
       "imagen_url": "",
       "enlace_original": "http://www.granma.cu/cuba/2026-10-06/como-ha-transcurrido-el-primer-mes-de-clases-en-la-educacion-general-06-10-2026-02-10-19",
@@ -56,6 +56,45 @@
       "id": 4
     },
     {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "A 50 años del Crimen de Barbados, Cuba rinde homenaje a sus víctimas",
+      "resumen": "La Habana, 6 oct (Prensa Latina) El presidente de Cuba, Miguel Díaz-Canel, encabezó hoy el homenaje a las víctimas del Crimen de Barbados, al conmemorarse 50 años del atentado terrorista de 1976 que costó la vida a 73 personas. The post A 50 años del Crimen de Barbados, Cuba rinde homenaje a sus víc",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/06/a-50-anos-del-crimen-de-barbados-cuba-rinde-homenaje-a-sus-victimas/",
+      "destacada": true,
+      "tema": "crimen",
+      "fecha": "Tue, 06 Oct 2026 13:08:22 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Geoparque cubano en evaluación por la UNESCO",
+      "resumen": "La Habana, 6 oct (Prensa Latina). Dos representantes de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (Unesco) inician hoy proceso de evaluación in situ del Valle de Viñales como Geoparque Mundial. The post Geoparque cubano en evaluación por la UNESCO first appear",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/06/geoparque-cubano-en-evaluacion-por-la-unesco/",
+      "destacada": false,
+      "tema": "geoparque",
+      "fecha": "Tue, 06 Oct 2026 12:40:27 +0000",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "País Vasco celebrará Día de Cuba el 10 de octubre",
+      "resumen": "Madrid, 6 oct (Prensa Latina) El Día de Cuba en Euskal Herria (País Vasco) en España, será una nueva ocasión para denunciar el bloqueo contra la isla caribeña y a la vez expresar solidaridad de diversas formas. The post País Vasco celebrará Día de Cuba el 10 de octubre first appeared on Noticias Pre",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/06/pais-vasco-celebrara-dia-de-cuba-el-10-de-octubre/",
+      "destacada": false,
+      "tema": "vasco",
+      "fecha": "Tue, 06 Oct 2026 12:21:54 +0000",
+      "id": 7
+    },
+    {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
@@ -63,36 +102,10 @@
       "resumen": "Harare, 6 oct (Prensa Latina) La Embajadora de Cuba en Zimbabwe, Susellys Pérez Mesa, instó hoy a evitar normalizar la hostilidad de Estados Unidos hacia la isla caribeña con el imperativo de poner fin a la máxima presión y el inhumano bloqueo. The post The Herald Zimbabwe: Imperativo poner fin a bl",
       "imagen_url": "",
       "enlace_original": "https://www.prensa-latina.cu/2026/10/06/the-herald-zimbabwe-imperativo-poner-fin-a-bloqueo-de-eeuu-a-cuba/",
-      "destacada": true,
+      "destacada": false,
       "tema": "herald",
       "fecha": "Tue, 06 Oct 2026 12:00:52 +0000",
-      "id": 5
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Denuncian presiones de EEUU por brigada médica cubana en Uruguay",
-      "resumen": "Montevideo, 6 oct (Prensa Latina) El presidente del PIT-CNT, Marcelo Abdala, denunció presiones de Estados Unidos sobre el gobierno uruguayo respecto a la brigada médica cubana que hoy presta servicios desde el Hospital de Ojos “José Martí”, de esta capital. The post Denuncian presiones de EEUU por ",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/06/denuncian-presiones-de-eeuu-por-brigada-medica-cubana-en-uruguay/",
-      "destacada": false,
-      "tema": "denuncian",
-      "fecha": "Tue, 06 Oct 2026 11:52:19 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Con Lula, contra el fascismo, insta mensaje de Casa de las Américas",
-      "resumen": "La Habana, 6 oct (Prensa Latina) Con una campaña mediática feroz contra el líder de los trabajadores y un copioso financiamiento del lobby estadounidense e israelí, lograron la magra diferencia del 1,87 % que lleva a Brasil a la segunda vuelta electoral, denuncia hoy aquí una declaración. The post C",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/06/con-lula-contra-el-fascismo-insta-mensaje-de-casa-de-las-americas/",
-      "destacada": false,
-      "tema": "contra",
-      "fecha": "Tue, 06 Oct 2026 11:33:18 +0000",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -105,7 +118,7 @@
       "destacada": false,
       "tema": "comunican",
       "fecha": "Tue, 06 Oct 2026 10:01:19 +0000",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -118,7 +131,7 @@
       "destacada": false,
       "tema": "iglesia",
       "fecha": "Tue, 06 Oct 2026 10:06:14 +0000",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "politica",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Mon, 05 Oct 2026 17:37:21 +0000",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "energia",
@@ -144,7 +157,7 @@
       "destacada": false,
       "tema": "tesoro",
       "fecha": "Mon, 05 Oct 2026 09:20:28 +0000",
-      "id": 11
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -157,7 +170,33 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Mon, 05 Oct 2026 14:51:09 +0000",
-      "id": 12
+      "id": 13
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«El sector no estatal es nuestro»: La frase de Díaz-Canel que ayuda a entender las medidas de Trump sobre mipymes en Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u207888-e207888-s27061-nid342062-sector-estatal-nuestro-frase-diaz-canel-ayuda",
+      "destacada": false,
+      "tema": "sector",
+      "fecha": "Tue, 06 Oct 2026 14:08:14 +0200",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Para llorar: así reaccionó una niña al reencontrarse con su mamá tras 20 días con sus abuelos en Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u65722-e65722-s27065-nid342064-llorar-asi-reacciono-nina-al-reencontrarse-mama",
+      "destacada": false,
+      "tema": "llorar",
+      "fecha": "Tue, 06 Oct 2026 14:01:07 +0200",
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -170,7 +209,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Tue, 06 Oct 2026 13:00:38 +0200",
-      "id": 13
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -183,20 +222,20 @@
       "destacada": false,
       "tema": "anuncian",
       "fecha": "Tue, 06 Oct 2026 11:45:05 +0200",
-      "id": 14
+      "id": 17
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Régimen dice que Cuba «no es ingenua» ante Trump y aumenta sus capacidades de defensa",
-      "resumen": "",
+      "titulo": "Sin medicinas, aunque se las lleven sus familias, presos cubanos recurren a huelgas de hambre",
+      "resumen": "#SOSCuba: Varios presos cubanos recurren a huelgas de hambre por la falta de medicinas. A uno le habría negado atención médica el oficial del #MININT señalado por #VirgilioMantilla y otros reclusos por amenazas y corrupción.",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e135253-s27061-nid342044-regimen-dice-cuba-ingenua-trump-aumenta-sus",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1791291674_69276.html",
       "destacada": false,
-      "tema": "régimen",
-      "fecha": "Tue, 06 Oct 2026 03:05:18 +0200",
-      "id": 15
+      "tema": "medicinas",
+      "fecha": "Tue, 06 Oct 2026 15:01:14 +0200",
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -209,7 +248,7 @@
       "destacada": false,
       "tema": "españa",
       "fecha": "Tue, 06 Oct 2026 13:38:25 +0200",
-      "id": 16
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -222,7 +261,7 @@
       "destacada": false,
       "tema": "necesita",
       "fecha": "Tue, 06 Oct 2026 13:06:48 +0200",
-      "id": 17
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -235,7 +274,7 @@
       "destacada": false,
       "tema": "elaine",
       "fecha": "Tue, 06 Oct 2026 13:05:46 +0200",
-      "id": 18
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -248,7 +287,7 @@
       "destacada": false,
       "tema": "iglesia",
       "fecha": "Tue, 06 Oct 2026 11:22:18 +0200",
-      "id": 19
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -261,7 +300,7 @@
       "destacada": false,
       "tema": "propaganda",
       "fecha": "Tue, 06 Oct 2026 11:07:43 +0200",
-      "id": 20
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -274,7 +313,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 06 Oct 2026 07:52:35 +0200",
-      "id": 21
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -287,20 +326,20 @@
       "destacada": false,
       "tema": "asesinato",
       "fecha": "Tue, 06 Oct 2026 01:09:53 +0200",
-      "id": 22
+      "id": 25
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "economia",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "'The Atlantic': Washington exigió la renuncia de Díaz-Canel y las conversaciones 'se estancaron'",
-      "resumen": "The Atlantic asegura que #EEUU exigió al régimen la salida de Díaz-Canel y que las conversaciones con #LaHabana \"se estancaron\": \"Hace nueve meses, el cambio de régimen en #Cuba parecía inminente\".",
+      "titulo": "Martinoticias AM",
+      "resumen": "Revista informativa con los últimos acontecimientos ocurridos en Cuba y el mundo. Con entrevistas y temas de actualidad relacionados a la política, la economía y de interés general.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791231311_69267.html",
+      "enlace_original": "https://www.martinoticias.com/a/480275.html",
       "destacada": false,
-      "tema": "atlantic",
-      "fecha": "Mon, 05 Oct 2026 22:15:11 +0200",
-      "id": 23
+      "tema": "martinoticias",
+      "fecha": "Tue, 06 Oct 2026 08:00:00 -0400",
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -313,7 +352,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Tue, 06 Oct 2026 07:00:00 -0400",
-      "id": 24
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -326,7 +365,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Tue, 06 Oct 2026 00:05:30 -0400",
-      "id": 25
+      "id": 28
     },
     {
       "categoria": "transporte",
@@ -339,20 +378,7 @@
       "destacada": false,
       "tema": "libertad",
       "fecha": "Mon, 05 Oct 2026 23:00:00 -0400",
-      "id": 26
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barbacoa de Pepe",
-      "resumen": "La Barbacoa de Pepe es un muestrario de la nostalgia cubana con datos y curiosidades de los temas más variados, para la audiencia cubana. También trataremos temas internacionales y locales, siempre con el fin de educar al Cubano de la Isla. Con la elocuencia de Pepe Forte.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480232.html",
-      "destacada": false,
-      "tema": "barbacoa",
-      "fecha": "Mon, 05 Oct 2026 21:00:00 -0400",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "transporte",
@@ -365,7 +391,7 @@
       "destacada": false,
       "tema": "descargue",
       "fecha": "Tue, 06 Oct 2026 11:10:30 +0000",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "transporte",
@@ -378,7 +404,7 @@
       "destacada": false,
       "tema": "barbados",
       "fecha": "Tue, 06 Oct 2026 04:20:05 +0000",
-      "id": 29
+      "id": 31
     },
     {
       "categoria": "politica",
@@ -391,7 +417,7 @@
       "destacada": false,
       "tema": "mantienen",
       "fecha": "Tue, 06 Oct 2026 01:58:26 +0000",
-      "id": 30
+      "id": 32
     },
     {
       "categoria": "transporte",
@@ -404,7 +430,7 @@
       "destacada": false,
       "tema": "cambia",
       "fecha": "Tue, 06 Oct 2026 00:30:40 +0000",
-      "id": 31
+      "id": 33
     },
     {
       "categoria": "energia",
@@ -417,7 +443,7 @@
       "destacada": false,
       "tema": "concede",
       "fecha": "Mon, 05 Oct 2026 23:33:12 +0000",
-      "id": 32
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -430,7 +456,7 @@
       "destacada": false,
       "tema": "estará",
       "fecha": "Tue, 06 Oct 26 13:58:00 +0200",
-      "id": 33
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -443,7 +469,7 @@
       "destacada": false,
       "tema": "presentaciones",
       "fecha": "Tue, 06 Oct 26 09:25:00 +0200",
-      "id": 34
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -456,7 +482,7 @@
       "destacada": false,
       "tema": "cuentas",
       "fecha": "Tue, 06 Oct 26 09:07:00 +0200",
-      "id": 35
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -469,7 +495,7 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Tue, 06 Oct 26 09:07:00 +0200",
-      "id": 36
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -482,7 +508,7 @@
       "destacada": false,
       "tema": "bilbao",
       "fecha": "Tue, 06 Oct 26 09:02:00 +0200",
-      "id": 37
+      "id": 39
     },
     {
       "categoria": "economia",
@@ -495,7 +521,7 @@
       "destacada": false,
       "tema": "nuevas",
       "fecha": "Tue, 06 Oct 26 08:40:00 +0200",
-      "id": 38
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -508,7 +534,7 @@
       "destacada": false,
       "tema": "veces",
       "fecha": "Tue, 06 Oct 26 08:35:00 +0200",
-      "id": 39
+      "id": 41
     },
     {
       "categoria": "transporte",
@@ -521,7 +547,20 @@
       "destacada": false,
       "tema": "autoriza",
       "fecha": "Tue, 06 Oct 26 08:25:00 +0200",
-      "id": 40
+      "id": 42
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.prensa-latina.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Denuncian presiones de EEUU por brigada médica cubana en Uruguay",
+      "resumen": "Montevideo, 6 oct (Prensa Latina) El presidente del PIT-CNT, Marcelo Abdala, denunció presiones de Estados Unidos sobre el gobierno uruguayo respecto a la brigada médica cubana que hoy presta servicios desde el Hospital de Ojos “José Martí”, de esta capital. The post Denuncian presiones de EEUU por ",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/06/denuncian-presiones-de-eeuu-por-brigada-medica-cubana-en-uruguay/",
+      "destacada": false,
+      "tema": "denuncian",
+      "fecha": "Tue, 06 Oct 2026 11:52:19 +0000",
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -534,7 +573,7 @@
       "destacada": false,
       "tema": "acoge",
       "fecha": "Sun, 04 Oct 2026 19:31:10 +0000",
-      "id": 41
+      "id": 44
     }
   ]
 }
