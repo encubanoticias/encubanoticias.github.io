@@ -1,8 +1,21 @@
 {
   "fecha": "2026-10-06",
-  "hora": "06:07",
-  "total": 37,
+  "hora": "07:07",
+  "total": 40,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "¿Cómo ha transcurrido el primer mes de clases en la educación general",
+      "resumen": "Septiembre dejó una escuela que permanece abierta y activa, pero también mostró cuánto cuesta sostenerla en las actuales circunstancias de bloqueo recrudecido",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-06/como-ha-transcurrido-el-primer-mes-de-clases-en-la-educacion-general-06-10-2026-02-10-19",
+      "destacada": true,
+      "tema": "transcurrido",
+      "fecha": "Tue, 06 Oct 2026 02:10:19 -0400",
+      "id": 1
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
@@ -14,7 +27,7 @@
       "destacada": true,
       "tema": "advierte",
       "fecha": "Sun, 04 Oct 2026 10:10:22 -0400",
-      "id": 1
+      "id": 2
     },
     {
       "categoria": "sociedad",
@@ -27,7 +40,20 @@
       "destacada": true,
       "tema": "jesús",
       "fecha": "Sun, 04 Oct 2026 09:10:24 -0400",
-      "id": 2
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba flexibiliza importación de mercancías excedentes",
+      "resumen": "La Habana, 6 oct (Prensa Latina) Cuba flexibilizó las reglas de importación para personas naturales al permitir el despacho comercial de mercancías que excedan los límites no comerciales, trascendió hoy aquí. The post Cuba flexibiliza importación de mercancías excedentes first appeared on Noticias P",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/06/cuba-flexibiliza-importacion-de-mercancias-excedentes/",
+      "destacada": true,
+      "tema": "flexibiliza",
+      "fecha": "Tue, 06 Oct 2026 06:54:12 +0000",
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -40,7 +66,7 @@
       "destacada": true,
       "tema": "salir",
       "fecha": "Mon, 05 Oct 2026 17:35:11 +0000",
-      "id": 3
+      "id": 5
     },
     {
       "categoria": "salud",
@@ -50,10 +76,10 @@
       "resumen": "Claudia Sheinbaum tampoco aborda los envíos de Pemex a la Isla realizados en 2025",
       "imagen_url": "https://static.14ymedio.com/clip/b5b1614c-d931-4748-bfae-fa12889eba22_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/internacional/presidenta-mexico-no-reporta-segundo_1_1131574.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "presidenta",
       "fecha": "Mon, 05 Oct 2026 20:31:46 +0000",
-      "id": 4
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -63,10 +89,10 @@
       "resumen": "La Audiencia Nacional desestima el recurso de una familia y subraya que la condición de refugiado se aplica solo a personas perseguidas por “motivos de raza, religión, nacionalidad, opiniones políticas, orientación sexual”",
       "imagen_url": "https://static.14ymedio.com/clip/96635618-fcba-4dac-95a0-d861f8647c6e_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/justicia-espanola-malos-tratos-sufridos_1_1131538.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "justicia",
       "fecha": "Mon, 05 Oct 2026 12:35:24 +0000",
-      "id": 5
+      "id": 7
     },
     {
       "categoria": "politica",
@@ -79,7 +105,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Mon, 05 Oct 2026 17:37:21 +0000",
-      "id": 6
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -92,7 +118,7 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Mon, 05 Oct 2026 14:51:09 +0000",
-      "id": 7
+      "id": 9
     },
     {
       "categoria": "energia",
@@ -105,7 +131,7 @@
       "destacada": false,
       "tema": "tesoro",
       "fecha": "Mon, 05 Oct 2026 09:20:28 +0000",
-      "id": 8
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -118,7 +144,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 06 Oct 2026 03:05:18 +0200",
-      "id": 9
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -131,7 +157,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 06 Oct 2026 02:37:12 +0200",
-      "id": 10
+      "id": 12
     },
     {
       "categoria": "energia",
@@ -144,7 +170,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 06 Oct 2026 02:17:33 +0200",
-      "id": 11
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -157,7 +183,7 @@
       "destacada": false,
       "tema": "laritza",
       "fecha": "Tue, 06 Oct 2026 02:10:26 +0200",
-      "id": 12
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -170,7 +196,7 @@
       "destacada": false,
       "tema": "frank",
       "fecha": "Tue, 06 Oct 2026 01:56:15 +0200",
-      "id": 13
+      "id": 15
     },
     {
       "categoria": "economia",
@@ -183,7 +209,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 06 Oct 2026 01:44:30 +0200",
-      "id": 14
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -196,7 +222,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 06 Oct 2026 07:52:35 +0200",
-      "id": 15
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -209,7 +235,7 @@
       "destacada": false,
       "tema": "asesinato",
       "fecha": "Tue, 06 Oct 2026 01:09:53 +0200",
-      "id": 16
+      "id": 18
     },
     {
       "categoria": "politica",
@@ -222,7 +248,7 @@
       "destacada": false,
       "tema": "atlantic",
       "fecha": "Mon, 05 Oct 2026 22:15:11 +0200",
-      "id": 17
+      "id": 19
     },
     {
       "categoria": "economia",
@@ -235,7 +261,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 05 Oct 2026 20:27:39 +0200",
-      "id": 18
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -248,7 +274,7 @@
       "destacada": false,
       "tema": "etecsa",
       "fecha": "Mon, 05 Oct 2026 19:24:17 +0200",
-      "id": 19
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -261,7 +287,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 05 Oct 2026 19:02:41 +0200",
-      "id": 20
+      "id": 22
     },
     {
       "categoria": "politica",
@@ -274,7 +300,7 @@
       "destacada": false,
       "tema": "denunciar",
       "fecha": "Mon, 05 Oct 2026 18:49:07 +0200",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "transporte",
@@ -287,7 +313,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Mon, 05 Oct 2026 18:01:04 +0200",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "economia",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "precio",
       "fecha": "Mon, 05 Oct 2026 17:30:00 +0200",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Tue, 06 Oct 2026 00:05:30 -0400",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "transporte",
@@ -326,7 +352,7 @@
       "destacada": false,
       "tema": "libertad",
       "fecha": "Mon, 05 Oct 2026 23:00:00 -0400",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -339,7 +365,7 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Mon, 05 Oct 2026 21:00:00 -0400",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "transporte",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "barbados",
       "fecha": "Tue, 06 Oct 2026 04:20:05 +0000",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "politica",
@@ -365,7 +391,7 @@
       "destacada": false,
       "tema": "mantienen",
       "fecha": "Tue, 06 Oct 2026 01:58:26 +0000",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "transporte",
@@ -378,7 +404,7 @@
       "destacada": false,
       "tema": "cambia",
       "fecha": "Tue, 06 Oct 2026 00:30:40 +0000",
-      "id": 29
+      "id": 31
     },
     {
       "categoria": "energia",
@@ -391,85 +417,98 @@
       "destacada": false,
       "tema": "concede",
       "fecha": "Mon, 05 Oct 2026 23:33:12 +0000",
-      "id": 30
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "&quot;Cuba está pagando el precio de una admirable dignidad&quot;: Pernando Barrena, europarlamentario de The Left por EH Bildu",
-      "resumen": "Cubainformación.- Estamos en la sede del Parlamento Europeo, donde los días 30 de septiembre y 1 de ...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125278-cuba-esta-pagando-el-precio-de-una-admirable-dignidad-pernando-barrena-europarlamentario-de-the-left-por-eh-bildu.jpg?t=1791223188",
-      "enlace_original": "https://www.cubainformacion.tv/especiales/20261006/125278/125278-cuba-esta-pagando-el-precio-de-una-admirable-dignidad-pernando-barrena-europarlamentario-de-the-left-por-eh-bildu",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Tue, 06 Oct 26 00:00:00 +0200",
-      "id": 31
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Fiesta solidaria “Kuba Eguna” denunciará el genocidio silencioso que sufre Cuba: sábado 10 de octubre, barrio de Errekalde (Bilbao)",
-      "resumen": "Cubainformación.- Bajo el título “Kuba: Blokeo Genozida Gelditu” (Cuba: detener el bloqueo genocida)...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/09/125223-fiesta-solidaria-kuba-eguna-denunciara-el-genocidio-silencioso-que-sufre-cuba-sabado-10-de-octubre-barrio-de-errekalde-bilbao.jpg?t=1790628319",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261005/125223/125223-fiesta-solidaria-kuba-eguna-denunciara-el-genocidio-silencioso-que-sufre-cuba-sabado-10-de-octubre-barrio-de-errekalde-bilbao",
-      "destacada": false,
-      "tema": "fiesta",
-      "fecha": "Mon, 05 Oct 26 07:51:00 +0200",
       "id": 32
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
-      "titulo": "La propaganda anticomunista logra una &quot;victoria&quot; en Washington",
-      "resumen": "El Titan de #Cuba",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125324-la-propaganda-anticomunista-logra-una-victoria-en-washington.jpg?t=1791177458",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261005/125324/125324-la-propaganda-anticomunista-logra-una-victoria-en-washington",
+      "titulo": "Pase de cuentas entre t3rror1stas. Amijail Sánchez destituye a Kiki Naranjo desde prisión en Cuba",
+      "resumen": "Guerrero Cubano con su verdad al desnudo",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125340-pase-de-cuentas-entre-t3rror1stas-amijail-sanchez-destituye-a-kiki-naranjo-desde-prision-en-cuba.jpg?t=1791270468",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261006/125340/125340-pase-de-cuentas-entre-t3rror1stas-amijail-sanchez-destituye-a-kiki-naranjo-desde-prision-en-cuba",
       "destacada": false,
-      "tema": "propaganda",
-      "fecha": "Mon, 05 Oct 26 07:17:00 +0200",
+      "tema": "cuentas",
+      "fecha": "Tue, 06 Oct 26 09:07:00 +0200",
       "id": 33
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
-      "titulo": "Otaola: &quot;El resultado fue inesperado&quot;. Reacciones en Cuba",
-      "resumen": "CUBA No Es Miami",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125323-otaola-el-resultado-fue-inesperado-reacciones-en-cuba.jpg?t=1791177330",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261005/125323/125323-otaola-el-resultado-fue-inesperado-reacciones-en-cuba",
+      "titulo": "Santa palabra",
+      "resumen": "La Florecita Cubana",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125339-santa-palabra.jpg?t=1791270433",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261006/125339/125339-santa-palabra",
       "destacada": false,
-      "tema": "otaola",
-      "fecha": "Mon, 05 Oct 26 07:15:00 +0200",
+      "tema": "santa",
+      "fecha": "Tue, 06 Oct 26 09:07:00 +0200",
       "id": 34
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "&quot;Los médicos cubanos me salvaron la vida. Cuba sufre un asedio medieval en medio de un silencio general&quot;: exdiputado italiano Alessandro Di Battista",
-      "resumen": "Cuba X Siempre",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125320-los-medicos-cubanos-me-salvaron-la-vida-cuba-sufre-un-asedio-medieval-en-medio-de-un-silencio-general-exdiputado-italiano-alessandro-di-battista.jpg?t=1791175387",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261005/125320/125320-los-medicos-cubanos-me-salvaron-la-vida-cuba-sufre-un-asedio-medieval-en-medio-de-un-silencio-general-exdiputado-italiano-alessandro-di-battista",
-      "destacada": false,
-      "tema": "médicos",
-      "fecha": "Mon, 05 Oct 26 06:39:00 +0200",
-      "id": 35
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
-      "titulo": "Presentan en el Pabellón Cuba la obra &quot;Fatima y el parque de la Fraternidad&quot;",
-      "resumen": "Fotos: Marian Eugenia Serrano Estepa.",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125319-presentan-en-el-pabellon-cuba-la-obra-fatima-y-el-parque-de-la-fraternidad.jpg?t=1791175023",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261005/125319/125319-presentan-en-el-pabellon-cuba-la-obra-fatima-y-el-parque-de-la-fraternidad",
+      "titulo": "Bilbao acoge este viernes 9 de octubre la presentación del libro de Hassan Pérez &quot;Desbrozando caminos. Fidel y la conquista del tiempo&quot;",
+      "resumen": "Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125338-bilbao-acoge-este-viernes-9-de-octubre-la-presentacion-del-libro-de-hassan-perez-desbrozando-caminos-fidel-y-la-conquista-del-tiempo.jpg?t=1791270224",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261006/125338/125338-bilbao-acoge-este-viernes-9-de-octubre-la-presentacion-del-libro-de-hassan-perez-desbrozando-caminos-fidel-y-la-conquista-del-tiempo",
       "destacada": false,
-      "tema": "presentan",
-      "fecha": "Mon, 05 Oct 26 06:34:00 +0200",
+      "tema": "bilbao",
+      "fecha": "Tue, 06 Oct 26 09:02:00 +0200",
+      "id": 35
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Nuevas reglas, viejos reclamos en la economía de Cuba: ¿Qué cambia para el sector no estatal?",
+      "resumen": "Cuadrando La Caja.- Las transformaciones económicas y sociales en Cuba abren un nuevo escenario para...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125336-nuevas-reglas-viejos-reclamos-en-la-economia-de-cuba-que-cambia-para-el-sector-no-estatal.jpg?t=1791268974",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261006/125336/125336-nuevas-reglas-viejos-reclamos-en-la-economia-de-cuba-que-cambia-para-el-sector-no-estatal",
+      "destacada": false,
+      "tema": "nuevas",
+      "fecha": "Tue, 06 Oct 26 08:40:00 +0200",
       "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "A veces resistir significa la capacidad de imaginar otro futuro: lo que nos enseña Cuba",
+      "resumen": "Músico, Filósofo, Escritor, Activista. Diario Red Discurso completo de Alfonso Gardi para las jorn...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125334-a-veces-resistir-significa-la-capacidad-de-imaginar-otro-futuro-lo-que-nos-ensena-cuba.jpg?t=1791268637",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261006/125334/125334-a-veces-resistir-significa-la-capacidad-de-imaginar-otro-futuro-lo-que-nos-ensena-cuba",
+      "destacada": false,
+      "tema": "veces",
+      "fecha": "Tue, 06 Oct 26 08:35:00 +0200",
+      "id": 37
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba autoriza importaciones comerciales por vía no comercial para personas naturales",
+      "resumen": "Aeropuerto Internacional José Martí, La Habana, Cuba. Foto: Abel Padrón Padilla/ Cubadebate....",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125331-cuba-autoriza-importaciones-comerciales-por-via-no-comercial-para-personas-naturales.jpg?t=1791268123",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261006/125331/125331-cuba-autoriza-importaciones-comerciales-por-via-no-comercial-para-personas-naturales",
+      "destacada": false,
+      "tema": "autoriza",
+      "fecha": "Tue, 06 Oct 26 08:25:00 +0200",
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "50 años del Crimen de Barbados, herida abierta en Cuba y el Caribe",
+      "resumen": "Cubanos y representantes de naciones caribeñas evocaron hoy el horrendo crimen de Barbados cuando...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125328-50-anos-del-crimen-de-barbados-herida-abierta-en-cuba-y-el-caribe.jpg?t=1791267806",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261006/125328/125328-50-anos-del-crimen-de-barbados-herida-abierta-en-cuba-y-el-caribe",
+      "destacada": false,
+      "tema": "crimen",
+      "fecha": "Tue, 06 Oct 26 08:18:00 +0200",
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -482,7 +521,7 @@
       "destacada": false,
       "tema": "acoge",
       "fecha": "Sun, 04 Oct 2026 19:31:10 +0000",
-      "id": 37
+      "id": 40
     }
   ]
 }
