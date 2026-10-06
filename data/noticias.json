@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-06",
-  "hora": "11:07",
-  "total": 40,
+  "hora": "12:07",
+  "total": 41,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -56,17 +56,43 @@
       "id": 4
     },
     {
-      "categoria": "transporte",
+      "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba: 50 años de memoria e historia",
-      "resumen": "La Habana, 6 oct (Prensa Latina). Cuba recuerda hoy uno de los días más dolorosos de su historia: el 6 de octubre de 1976, cuando un avión de Cubana de Aviación fue destruido en pleno vuelo sobre el Caribe, en un crimen que estremeció al país entero. The post Cuba: 50 años de memoria e historia firs",
+      "titulo": "The Herald Zimbabwe: Imperativo poner fin a bloqueo de EEUU a Cuba",
+      "resumen": "Harare, 6 oct (Prensa Latina) La Embajadora de Cuba en Zimbabwe, Susellys Pérez Mesa, instó hoy a evitar normalizar la hostilidad de Estados Unidos hacia la isla caribeña con el imperativo de poner fin a la máxima presión y el inhumano bloqueo. The post The Herald Zimbabwe: Imperativo poner fin a bl",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/06/cuba-50-anos-de-memoria-e-historia-2/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/06/the-herald-zimbabwe-imperativo-poner-fin-a-bloqueo-de-eeuu-a-cuba/",
       "destacada": true,
-      "tema": "memoria",
-      "fecha": "Tue, 06 Oct 2026 09:51:03 +0000",
+      "tema": "herald",
+      "fecha": "Tue, 06 Oct 2026 12:00:52 +0000",
       "id": 5
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Denuncian presiones de EEUU por brigada médica cubana en Uruguay",
+      "resumen": "Montevideo, 6 oct (Prensa Latina) El presidente del PIT-CNT, Marcelo Abdala, denunció presiones de Estados Unidos sobre el gobierno uruguayo respecto a la brigada médica cubana que hoy presta servicios desde el Hospital de Ojos “José Martí”, de esta capital. The post Denuncian presiones de EEUU por ",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/06/denuncian-presiones-de-eeuu-por-brigada-medica-cubana-en-uruguay/",
+      "destacada": false,
+      "tema": "denuncian",
+      "fecha": "Tue, 06 Oct 2026 11:52:19 +0000",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Con Lula, contra el fascismo, insta mensaje de Casa de las Américas",
+      "resumen": "La Habana, 6 oct (Prensa Latina) Con una campaña mediática feroz contra el líder de los trabajadores y un copioso financiamiento del lobby estadounidense e israelí, lograron la magra diferencia del 1,87 % que lleva a Brasil a la segunda vuelta electoral, denuncia hoy aquí una declaración. The post C",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/06/con-lula-contra-el-fascismo-insta-mensaje-de-casa-de-las-americas/",
+      "destacada": false,
+      "tema": "contra",
+      "fecha": "Tue, 06 Oct 2026 11:33:18 +0000",
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -79,7 +105,7 @@
       "destacada": false,
       "tema": "comunican",
       "fecha": "Tue, 06 Oct 2026 10:01:19 +0000",
-      "id": 6
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -92,7 +118,7 @@
       "destacada": false,
       "tema": "iglesia",
       "fecha": "Tue, 06 Oct 2026 10:06:14 +0000",
-      "id": 7
+      "id": 9
     },
     {
       "categoria": "politica",
@@ -105,7 +131,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Mon, 05 Oct 2026 17:37:21 +0000",
-      "id": 8
+      "id": 10
     },
     {
       "categoria": "energia",
@@ -118,7 +144,7 @@
       "destacada": false,
       "tema": "tesoro",
       "fecha": "Mon, 05 Oct 2026 09:20:28 +0000",
-      "id": 9
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -131,7 +157,20 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Mon, 05 Oct 2026 14:51:09 +0000",
-      "id": 10
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Muere una mujer de un disparo en Cuba al intentar proteger a su hija de su expareja",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e129488-s27061-nid341963-muere-mujer-disparo-cuba-al-intentar-proteger-hija",
+      "destacada": false,
+      "tema": "muere",
+      "fecha": "Tue, 06 Oct 2026 13:00:38 +0200",
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -144,7 +183,7 @@
       "destacada": false,
       "tema": "anuncian",
       "fecha": "Tue, 06 Oct 2026 11:45:05 +0200",
-      "id": 11
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -157,72 +196,20 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 06 Oct 2026 03:05:18 +0200",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Régimen cubano asegura que no hay negociaciones formales con EE.UU.: «Lo que tenemos son canales de comunicación»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e135253-s27061-nid342043-regimen-cubano-asegura-hay-negociaciones-formales",
-      "destacada": false,
-      "tema": "régimen",
-      "fecha": "Tue, 06 Oct 2026 02:37:12 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Giro inesperado en Cuba: dólar y euro bajan al cierre de este lunes",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e135253-s27061-nid342041-giro-inesperado-cuba-dolar-euro-bajan-al-cierre-este",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Tue, 06 Oct 2026 02:17:33 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Laritza Camacho sobre los dirigentes en Cuba: «Deberían salir a protestar contra ellos mismos»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e197721-s27061-nid342040-laritza-camacho-dirigentes-cuba-deberian-salir",
-      "destacada": false,
-      "tema": "laritza",
-      "fecha": "Tue, 06 Oct 2026 02:10:26 +0200",
       "id": 15
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Frank Delgado pierde vuelo a La Habana y arremete contra Aeroméxico: «Que ponga robots»",
-      "resumen": "",
+      "titulo": "España niega asilo político a una familia que dice haber sufrido amenazas y violencia policial en Cuba",
+      "resumen": "#España niega el asilo político a una familia cubana que denuncia amenazas y violencia policial, argumentando que una de las mujeres fue absuelta en un juicio en #Cuba y que el padre no se identifica como opositor al #RégimenCubano.",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e208933-s27061-nid342036-frank-delgado-pierde-vuelo-habana-arremete-contra",
+      "enlace_original": "https://diariodecuba.com/cuba/1791286705_69275.html",
       "destacada": false,
-      "tema": "frank",
-      "fecha": "Tue, 06 Oct 2026 01:56:15 +0200",
+      "tema": "españa",
+      "fecha": "Tue, 06 Oct 2026 13:38:25 +0200",
       "id": 16
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Freno judicial a multas migratorias millonarias de Trump: un cubano recibió una de 1,8 millones de dólares",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e208933-s27061-nid342038-freno-judicial-multas-migratorias-millonarias-trump",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Tue, 06 Oct 2026 01:44:30 +0200",
-      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -235,7 +222,7 @@
       "destacada": false,
       "tema": "necesita",
       "fecha": "Tue, 06 Oct 2026 13:06:48 +0200",
-      "id": 18
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -248,7 +235,7 @@
       "destacada": false,
       "tema": "elaine",
       "fecha": "Tue, 06 Oct 2026 13:05:46 +0200",
-      "id": 19
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -261,7 +248,7 @@
       "destacada": false,
       "tema": "iglesia",
       "fecha": "Tue, 06 Oct 2026 11:22:18 +0200",
-      "id": 20
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -274,7 +261,7 @@
       "destacada": false,
       "tema": "propaganda",
       "fecha": "Tue, 06 Oct 2026 11:07:43 +0200",
-      "id": 21
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -287,7 +274,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 06 Oct 2026 07:52:35 +0200",
-      "id": 22
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -300,7 +287,7 @@
       "destacada": false,
       "tema": "asesinato",
       "fecha": "Tue, 06 Oct 2026 01:09:53 +0200",
-      "id": 23
+      "id": 22
     },
     {
       "categoria": "politica",
@@ -313,20 +300,20 @@
       "destacada": false,
       "tema": "atlantic",
       "fecha": "Mon, 05 Oct 2026 22:15:11 +0200",
-      "id": 24
+      "id": 23
     },
     {
-      "categoria": "economia",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La Habana autoriza a las personas naturales a realizar importaciones con carácter comercial",
-      "resumen": "El régimen de #Cuba autoriza a las personas naturales a realizar #importaciones con carácter comercial desde el 12 de octubre. La Aduana cobrará en dólares impuestos de hasta el 30% según el valor de la mercancía.",
+      "titulo": "Cuba Habla: “¿Qué siento? Dolor, vacío… de todo”",
+      "resumen": "Desde la capital de la isla, madre cubana expresa las dificultades que enfrenta para alimentar a su hija.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791224859_69266.html",
+      "enlace_original": "https://www.martinoticias.com/a/480965.html",
       "destacada": false,
-      "tema": "habana",
-      "fecha": "Mon, 05 Oct 2026 20:27:39 +0200",
-      "id": 25
+      "tema": "habla",
+      "fecha": "Tue, 06 Oct 2026 07:00:00 -0400",
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -339,7 +326,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Tue, 06 Oct 2026 00:05:30 -0400",
-      "id": 26
+      "id": 25
     },
     {
       "categoria": "transporte",
@@ -352,7 +339,7 @@
       "destacada": false,
       "tema": "libertad",
       "fecha": "Mon, 05 Oct 2026 23:00:00 -0400",
-      "id": 27
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -365,6 +352,19 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Mon, 05 Oct 2026 21:00:00 -0400",
+      "id": 27
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Descargue en PDF el libro: “La injusticia tiembla”",
+      "resumen": "La injusticia tiembla reúne el histórico discurso pronunciado por Fidel Castro Ruz el 15 de octubre de 1976 durante las honras fúnebres de las víctimas del atentado contra un avión de Cubana de Aviación frente a Barbados. En sus páginas, el líder cubano reconstruye los hechos del sabotaje, rinde hom",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/libros-libres/2026/10/06/descargue-en-pdf-el-libro-la-injusticia-tiembla/",
+      "destacada": false,
+      "tema": "descargue",
+      "fecha": "Tue, 06 Oct 2026 11:10:30 +0000",
       "id": 28
     },
     {
@@ -423,6 +423,19 @@
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
+      "titulo": "Cuba estará presente en el &quot;Homenaje a los pueblos que resisten al imperialismo, el fascismo y el sionismo&quot;: Madrid, 14 de octubre",
+      "resumen": "Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125345-cuba-estara-presente-en-el-homenaje-a-los-pueblos-que-resisten-al-imperialismo-el-fascismo-y-el-sionismo-madrid-14-de-octubre.jpg?t=1791288165",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261006/125345/125345-cuba-estara-presente-en-el-homenaje-a-los-pueblos-que-resisten-al-imperialismo-el-fascismo-y-el-sionismo-madrid-14-de-octubre",
+      "destacada": false,
+      "tema": "estará",
+      "fecha": "Tue, 06 Oct 26 13:58:00 +0200",
+      "id": 33
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
       "titulo": "Presentaciones de &quot;Desbrozando caminos. Fidel y la conquista del tiempo&quot; de Hassan Pérez: 6 en Espejo, 7 en Málaga, 8 en Mairena del Alcor, 9 y 10 en Bilbao y 13 en Guillena",
       "resumen": "Cubainformación",
       "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125342-presentaciones-de-desbrozando-caminos-fidel-y-la-conquista-del-tiempo-de-hassan-perez-6-en-espejo-7-en-malaga-8-en-mairena-del-alcor-9-y-10-en-bilbao-y-13-en-guillena.jpg?t=1791271722",
@@ -430,7 +443,7 @@
       "destacada": false,
       "tema": "presentaciones",
       "fecha": "Tue, 06 Oct 26 09:25:00 +0200",
-      "id": 33
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -443,7 +456,7 @@
       "destacada": false,
       "tema": "cuentas",
       "fecha": "Tue, 06 Oct 26 09:07:00 +0200",
-      "id": 34
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -456,7 +469,7 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Tue, 06 Oct 26 09:07:00 +0200",
-      "id": 35
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -469,7 +482,7 @@
       "destacada": false,
       "tema": "bilbao",
       "fecha": "Tue, 06 Oct 26 09:02:00 +0200",
-      "id": 36
+      "id": 37
     },
     {
       "categoria": "economia",
@@ -482,7 +495,7 @@
       "destacada": false,
       "tema": "nuevas",
       "fecha": "Tue, 06 Oct 26 08:40:00 +0200",
-      "id": 37
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -495,7 +508,7 @@
       "destacada": false,
       "tema": "veces",
       "fecha": "Tue, 06 Oct 26 08:35:00 +0200",
-      "id": 38
+      "id": 39
     },
     {
       "categoria": "transporte",
@@ -508,7 +521,7 @@
       "destacada": false,
       "tema": "autoriza",
       "fecha": "Tue, 06 Oct 26 08:25:00 +0200",
-      "id": 39
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -521,7 +534,7 @@
       "destacada": false,
       "tema": "acoge",
       "fecha": "Sun, 04 Oct 2026 19:31:10 +0000",
-      "id": 40
+      "id": 41
     }
   ]
 }
