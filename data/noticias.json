@@ -1,8 +1,21 @@
 {
   "fecha": "2026-10-06",
-  "hora": "03:05",
+  "hora": "04:07",
   "total": 36,
   "noticias": [
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Vice primer ministro de Cuba agradece programas de agencia mexicana",
+      "resumen": "Ciudad de México, 5 oct (Prensa Latina) El vice primer ministro y ministro cubano del Comercio Exterior y la Inversión Extranjera, Oscar Pérez-Oliva, expresó hoy gratitud por los programas que ejecuta en la isla la Agencia Mexicana de Cooperación Internacional para el Desarrollo (Amexcid). The post ",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/05/vice-primer-ministro-de-cuba-agradece-programas-de-agencia-mexicana/",
+      "destacada": true,
+      "tema": "primer",
+      "fecha": "Tue, 06 Oct 2026 03:40:41 +0000",
+      "id": 1
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
@@ -14,7 +27,7 @@
       "destacada": true,
       "tema": "salir",
       "fecha": "Mon, 05 Oct 2026 17:35:11 +0000",
-      "id": 1
+      "id": 2
     },
     {
       "categoria": "salud",
@@ -27,7 +40,7 @@
       "destacada": true,
       "tema": "presidenta",
       "fecha": "Mon, 05 Oct 2026 20:31:46 +0000",
-      "id": 2
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -40,7 +53,7 @@
       "destacada": true,
       "tema": "justicia",
       "fecha": "Mon, 05 Oct 2026 12:35:24 +0000",
-      "id": 3
+      "id": 4
     },
     {
       "categoria": "politica",
@@ -53,7 +66,7 @@
       "destacada": true,
       "tema": "gobierno",
       "fecha": "Mon, 05 Oct 2026 17:37:21 +0000",
-      "id": 4
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -63,10 +76,10 @@
       "resumen": "Los aspirantes tienen hasta el jueves 8 y 15 de octubre para postularse, en función de la oferta deseada",
       "imagen_url": "https://static.14ymedio.com/clip/cc9ba5d6-a90e-4c67-a599-bebb9fd97134_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/ee-uu-vuelve-contratar-traves_1_1131545.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "vuelve",
       "fecha": "Mon, 05 Oct 2026 14:51:09 +0000",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "energia",
@@ -79,7 +92,7 @@
       "destacada": false,
       "tema": "tesoro",
       "fecha": "Mon, 05 Oct 2026 09:20:28 +0000",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 06 Oct 2026 03:05:18 +0200",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -105,7 +118,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 06 Oct 2026 02:37:12 +0200",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "energia",
@@ -118,7 +131,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 06 Oct 2026 02:17:33 +0200",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "laritza",
       "fecha": "Tue, 06 Oct 2026 02:10:26 +0200",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -144,7 +157,7 @@
       "destacada": false,
       "tema": "frank",
       "fecha": "Tue, 06 Oct 2026 01:56:15 +0200",
-      "id": 11
+      "id": 12
     },
     {
       "categoria": "economia",
@@ -157,7 +170,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 06 Oct 2026 01:44:30 +0200",
-      "id": 12
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -170,19 +183,6 @@
       "destacada": false,
       "tema": "madre",
       "fecha": "Tue, 06 Oct 2026 01:28:22 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubana estrena pasaporte mexicano y lo compara con el cubano: «Ahora puedo cruzar fronteras con menos obstáculos»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e208933-s27061-nid342035-cubana-estrena-pasaporte-mexicano-compara-cubano",
-      "destacada": false,
-      "tema": "cubana",
-      "fecha": "Tue, 06 Oct 2026 01:15:41 +0200",
       "id": 14
     },
     {
@@ -303,6 +303,19 @@
       "id": 23
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al Día",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480272.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Tue, 06 Oct 2026 00:05:30 -0400",
+      "id": 24
+    },
+    {
       "categoria": "transporte",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
@@ -313,7 +326,7 @@
       "destacada": false,
       "tema": "libertad",
       "fecha": "Mon, 05 Oct 2026 23:00:00 -0400",
-      "id": 24
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -326,7 +339,20 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Mon, 05 Oct 2026 21:00:00 -0400",
-      "id": 25
+      "id": 26
+    },
+    {
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba y EEUU mantienen “canales de comunicación”, pero no hay negociaciones",
+      "resumen": "Cuba y Estados Unidos han mantenido “canales de comunicación”, pero no hay una negociación formal, dijo a Reuters la máxima representante diplomática de La Habana en Washington, mientras el Gobierno del presidente Donald Trump prosigue con su campaña de presión contra la isla. The post Cuba y EEUU m",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/05/cuba-y-eeuu-mantienen-canales-de-comunicacion-pero-no-hay-negociaciones/",
+      "destacada": false,
+      "tema": "mantienen",
+      "fecha": "Tue, 06 Oct 2026 01:58:26 +0000",
+      "id": 27
     },
     {
       "categoria": "transporte",
@@ -339,7 +365,7 @@
       "destacada": false,
       "tema": "cambia",
       "fecha": "Tue, 06 Oct 2026 00:30:40 +0000",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "energia",
@@ -352,32 +378,6 @@
       "destacada": false,
       "tema": "concede",
       "fecha": "Mon, 05 Oct 2026 23:33:12 +0000",
-      "id": 27
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba y EEUU mantienen “canales de comunicación”, pero no hay negociaciones",
-      "resumen": "Cuba y Estados Unidos han mantenido “canales de comunicación”, pero no hay una negociación formal, dijo a Reuters la máxima representante diplomática de La Habana en Washington, mientras el Gobierno del presidente Donald Trump prosigue con su campaña de presión contra la isla. The post Cuba y EEUU m",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/05/cuba-y-eeuu-mantienen-canales-de-comunicacion-pero-no-hay-negociaciones/",
-      "destacada": false,
-      "tema": "mantienen",
-      "fecha": "Mon, 05 Oct 2026 22:58:26 +0000",
-      "id": 28
-    },
-    {
-      "categoria": "energia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "ETECSA reporta afectaciones en Nauta, Transfermóvil y otros servicios por problemas energéticos",
-      "resumen": "La Empresa de Telecomunicaciones de Cuba (ETECSA) informó a través de la red social X que desde la mañana de este lunes se encuentran interrumpidos diferentes sistemas y equipos tecnológicos por problemas energéticos, “lo cual provoca afectaciones en la navegación a través del servicio nauta, los pa",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/05/etecsa-reporta-afectaciones-en-nauta-transfermovil-y-otros-servicios-por-problemas-energeticos/",
-      "destacada": false,
-      "tema": "etecsa",
-      "fecha": "Mon, 05 Oct 2026 22:38:56 +0000",
       "id": 29
     },
     {
