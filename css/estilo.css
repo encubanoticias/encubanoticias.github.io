@@ -788,3 +788,9 @@ body.oscuro .modal-caja h3 { color: #7EB6FF; }
   0% { transform: translateX(0); }
   100% { transform: translateX(-100%); }
 }
+
+.voto-btn.activo {
+  background: #002A8F !important;
+  color: #fff !important;
+  border: 2px solid #002A8F !important;
+}
