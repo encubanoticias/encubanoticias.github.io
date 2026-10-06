@@ -1,33 +1,124 @@
 {
   "fecha": "2026-10-06",
-  "hora": "19:05",
-  "total": 35,
+  "hora": "21:04",
+  "total": 43,
   "noticias": [
+    {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "«Criterio Compartido»: La atención a personas y segmentos de mayor vulnerabilidad en Cuba",
+      "resumen": "La propuesta estará dedicada a reflexionar sobre los esfuerzos que desarrolla el país dirigidos a la atención a personas y segmentos de mayor vulnerabilidad",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-06/criterio-compartido-la-atencion-a-personas-y-segmentos-de-mayor-vulnerabilidad-en-cuba-06-10-2026-12-10-54",
+      "destacada": true,
+      "tema": "criterio",
+      "fecha": "Tue, 06 Oct 2026 12:10:54 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "¿Cómo ha transcurrido el primer mes de clases en la educación general?",
+      "resumen": "Septiembre dejó una escuela que permanece abierta y activa, pero también mostró cuánto cuesta sostenerla en las actuales circunstancias de bloqueo recrudecido",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-06/como-ha-transcurrido-el-primer-mes-de-clases-en-la-educacion-general-06-10-2026-02-10-19",
+      "destacada": true,
+      "tema": "transcurrido",
+      "fecha": "Tue, 06 Oct 2026 02:10:19 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Reportan sismo perceptible en Guantánamo y Santiago de Cuba: magnitud preliminar 3.3 y profundidad 24 km",
+      "resumen": "Un sismo perceptible fue registrado a las 9:21 am del día de hoy, con una magnitud preliminar de 3.3, una profundidad de 24 km. Se recibieron reportes de perceptibilidad de las ciudades de Guantánamo y Santiago de Cuba",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-06/reportan-sismo-perceptible-en-guantanamo-y-santiago-de-cuba-magnitud-preliminar-33-y-profundidad-24-km-06-10-2026-16-10-57",
+      "destacada": true,
+      "tema": "reportan",
+      "fecha": "Tue, 06 Oct 2026 16:10:57 -0400",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cintio Vitier: la columna que el tiempo no ha podido derribar",
+      "resumen": "La obra del poeta y ensayista cubano sigue iluminando el pensamiento intelectual de la isla caribeña",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-06/cintio-vitier-la-columna-que-el-tiempo-no-ha-podido-derribar-06-10-2026-16-10-51",
+      "destacada": true,
+      "tema": "cintio",
+      "fecha": "Tue, 06 Oct 2026 16:10:51 -0400",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba y Vietnam fortalecen cooperación en el ámbito campesino",
+      "resumen": "La colaboración entre ambos países en materia agrícola forma parte de unos vínculos construidos sobre bases históricas",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-06/cuba-y-vietnam-fortalecen-cooperacion-en-el-ambito-campesino-06-10-2026-16-10-04",
+      "destacada": true,
+      "tema": "vietnam",
+      "fecha": "Tue, 06 Oct 2026 16:10:04 -0400",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Los favoritos de la Serie 65",
+      "resumen": "Analizamos cuáles son los equipos con mayores posibilidades de avanzar en la temporada beisbolera cubana",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-06/los-favoritos-de-la-serie-65-06-10-2026-03-10-35",
+      "destacada": false,
+      "tema": "favoritos",
+      "fecha": "Tue, 06 Oct 2026 03:10:35 -0400",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El pueblo cubano y el estadounidense: ¿víctimas colaterales del genocidio?",
+      "resumen": "Apoyados en leyes subversivas, los enemigos de la Isla basan el castigo colectivo en una mentira que tratan de globalizar",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-06/el-pueblo-cubano-y-el-estadounidense-victimas-colaterales-del-genocidio-06-10-2026-03-10-42",
+      "destacada": false,
+      "tema": "pueblo",
+      "fecha": "Tue, 06 Oct 2026 03:10:42 -0400",
+      "id": 7
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cámara de Guatemala exige despejar nuevos bloqueos de carreteras",
+      "resumen": "Ciudad de Guatemala, 6 oct (Prensa Latina) La Cámara del Agro de Guatemala exigió hoy a las autoridades actuar de inmediato ante nuevos bloqueos de vías protagonizados en al menos tres puntos por militares en situación de retiro. The post Cámara de Guatemala exige despejar nuevos bloqueos de carrete",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/06/camara-de-guatemala-exige-despejar-nuevos-bloqueos-de-carreteras/",
+      "destacada": false,
+      "tema": "cámara",
+      "fecha": "Tue, 06 Oct 2026 20:41:54 +0000",
+      "id": 8
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Síntesis de Cuba",
-      "resumen": "SÍNTESIS DE CUBA PARA EMISORAS DE RADIO Y TV, PERIÓDICOS Y REVISTAS The post Síntesis de Cuba first appeared on Noticias Prensa Latina.",
+      "titulo": "Homenaje del deporte cubano a víctimas de Barbados",
+      "resumen": "La Habana, 6 oct (Prensa Latina) El movimiento deportivo cubano homenajeó hoy a las víctimas del Crimen de Barbados, a 50 años del atentado terrorista que segó la vida de un equipo completo de esgrima, entre otras personas. The post Homenaje del deporte cubano a víctimas de Barbados first appeared o",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/06/sintesis-de-cuba-591/",
-      "destacada": true,
-      "tema": "síntesis",
-      "fecha": "Tue, 06 Oct 2026 18:57:28 +0000",
-      "id": 1
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Embajadora de Cuba entrega cartas credenciales a presidente francés",
-      "resumen": "París, 6 oct (Prensa Latina) Las embajadora de Cuba en este país, Yurielkys Sarduy Martínez, entregó formalmente las Cartas Credenciales al presidente francés, Emmanuel Macron, en una ceremonia en el Palacio de Elíseo, indicaron hoy fuentes oficiales. The post Embajadora de Cuba entrega cartas crede",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/06/embajadora-de-cuba-entrega-cartas-credenciales-a-presidente-frances/",
-      "destacada": true,
-      "tema": "embajadora",
-      "fecha": "Tue, 06 Oct 2026 18:36:23 +0000",
-      "id": 2
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/06/homenaje-del-deporte-cubano-a-victimas-de-barbados/",
+      "destacada": false,
+      "tema": "homenaje",
+      "fecha": "Tue, 06 Oct 2026 20:01:15 +0000",
+      "id": 9
     },
     {
       "categoria": "politica",
@@ -37,10 +128,10 @@
       "resumen": "La visita de Díaz-Canel al barrio trae policías, agentes de civil y una prohibición de salir que trastoca hasta las tareas más elementales",
       "imagen_url": "https://static.14ymedio.com/clip/b65d996d-8cea-461b-9ad3-51cf6f70c452_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/blogs/generacion-y/frontera-bajos-edificio-represion-cuba_132_1131609.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "frontera",
       "fecha": "Tue, 06 Oct 2026 18:25:55 +0000",
-      "id": 3
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -50,10 +141,10 @@
       "resumen": "El Departamento de Estado lo niega e insiste en que se sigue conversando, sin resultados",
       "imagen_url": "https://static.14ymedio.com/clip/b137e313-93bb-458d-b466-bd93641c8e65_source-aspect-ratio_default_0.png",
       "enlace_original": "https://www.14ymedio.com/cuba/cuba-ee-uu-comunican-whatsapp_1_1131581.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "comunican",
       "fecha": "Tue, 06 Oct 2026 10:01:19 +0000",
-      "id": 4
+      "id": 11
     },
     {
       "categoria": "salud",
@@ -63,10 +154,10 @@
       "resumen": "Al menos 24 egresados del programa Nelson Mandela-Fidel Castro siguen desempleados en Cabo Oriental y las autoridades lo atribuyen a problemas de presupuesto",
       "imagen_url": "https://static.14ymedio.com/clip/136e8fee-edf8-455d-a607-a5c6b42acd89_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/medicos-sudafricanos-formados-cuba-no_1_1131600.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "médicos",
       "fecha": "Tue, 06 Oct 2026 15:32:07 +0000",
-      "id": 5
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -79,7 +170,7 @@
       "destacada": false,
       "tema": "iglesia",
       "fecha": "Tue, 06 Oct 2026 10:06:14 +0000",
-      "id": 6
+      "id": 13
     },
     {
       "categoria": "energia",
@@ -92,7 +183,7 @@
       "destacada": false,
       "tema": "tesoro",
       "fecha": "Mon, 05 Oct 2026 09:20:28 +0000",
-      "id": 7
+      "id": 14
     },
     {
       "categoria": "politica",
@@ -105,7 +196,33 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Mon, 05 Oct 2026 17:37:21 +0000",
-      "id": 8
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Encuesta de Vanderbilt: tres de cada cuatro cubanos culpan al régimen de la crisis y casi seis de cada diez prefieren vínculos con EE.UU. a la independencia",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e197721-s27061-nid342105-encuesta-vanderbilt-tres-cada-cuatro-cubanos-culpan",
+      "destacada": false,
+      "tema": "encuesta",
+      "fecha": "Tue, 06 Oct 2026 21:17:34 +0200",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Padre soltero con tres hijos denuncia que lo amenazan con cárcel si no abandona un local en La Habana",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e199370-s27061-nid342094-padre-soltero-tres-hijos-denuncia-amenazan-carcel",
+      "destacada": false,
+      "tema": "padre",
+      "fecha": "Tue, 06 Oct 2026 20:17:29 +0200",
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -118,46 +235,20 @@
       "destacada": false,
       "tema": "llega",
       "fecha": "Tue, 06 Oct 2026 19:50:14 +0200",
-      "id": 9
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El primer mes de clases en Cuba, marcado por apagones, falta de transporte y déficit de maestros",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e197721-s27061-nid342093-primer-mes-clases-cuba-marcado-apagones-falta",
-      "destacada": false,
-      "tema": "primer",
-      "fecha": "Tue, 06 Oct 2026 19:39:20 +0200",
-      "id": 10
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La UNE prevé un déficit de hasta 1,831 MW este martes y apagones durante todo el día en Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e197721-s27061-nid342092-une-preve-deficit-1831-mw-este-martes-apagones",
-      "destacada": false,
-      "tema": "prevé",
-      "fecha": "Tue, 06 Oct 2026 19:34:53 +0200",
-      "id": 11
+      "id": 18
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba prohíbe a sucursales de empresas extranjeras importar y exportar, según nuevo decreto",
-      "resumen": "",
+      "titulo": "Nuevo cargamento de ayuda humanitaria de EEUU: 700 módulos serán distribuidos en Ciego de Ávila",
+      "resumen": "Nuevo cargamento de ayuda humanitaria de #EEUU llega a #Cuba: 700 módulos de alimentos e higiene serán distribuidos en Ciego de Ávila, a pesar de las reticencias del régimen.",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e207888-s27061-nid342081-cuba-prohibe-sucursales-empresas-extranjeras",
+      "enlace_original": "https://diariodecuba.com/cuba/1791320136_69281.html",
       "destacada": false,
-      "tema": "prohíbe",
-      "fecha": "Tue, 06 Oct 2026 18:40:02 +0200",
-      "id": 12
+      "tema": "nuevo",
+      "fecha": "Tue, 06 Oct 2026 22:55:36 +0200",
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -170,7 +261,7 @@
       "destacada": false,
       "tema": "demostrada",
       "fecha": "Tue, 06 Oct 2026 20:55:48 +0200",
-      "id": 13
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -183,7 +274,7 @@
       "destacada": false,
       "tema": "nefasto",
       "fecha": "Tue, 06 Oct 2026 19:32:07 +0200",
-      "id": 14
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -196,7 +287,7 @@
       "destacada": false,
       "tema": "mercados",
       "fecha": "Tue, 06 Oct 2026 18:00:14 +0200",
-      "id": 15
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -209,7 +300,7 @@
       "destacada": false,
       "tema": "programa",
       "fecha": "Tue, 06 Oct 2026 15:39:22 +0200",
-      "id": 16
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -222,7 +313,7 @@
       "destacada": false,
       "tema": "medicinas",
       "fecha": "Tue, 06 Oct 2026 15:01:14 +0200",
-      "id": 17
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -235,7 +326,7 @@
       "destacada": false,
       "tema": "españa",
       "fecha": "Tue, 06 Oct 2026 13:38:25 +0200",
-      "id": 18
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -248,7 +339,7 @@
       "destacada": false,
       "tema": "necesita",
       "fecha": "Tue, 06 Oct 2026 13:06:48 +0200",
-      "id": 19
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -261,85 +352,72 @@
       "destacada": false,
       "tema": "elaine",
       "fecha": "Tue, 06 Oct 2026 13:05:46 +0200",
-      "id": 20
+      "id": 27
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Iglesia Episcopal de Cuba apoya a Anna Bensi y pide al régimen escuchar al pueblo",
-      "resumen": "#SOSCuba: La #IglesiaEpiscopalDeCuba expresa solidaridad con #AnnaBensi, rechaza la violencia policial contra los cubanos que ejercen la #LibertadDeExpresión y pide al #RégimenCubano escuchar al pueblo.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791278538_69272.html",
-      "destacada": false,
-      "tema": "iglesia",
-      "fecha": "Tue, 06 Oct 2026 11:22:18 +0200",
-      "id": 21
-    },
-    {
-      "categoria": "sociedad",
+      "categoria": "energia",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Revelan nuevos detalles del arresto de joven cubano que respaldó a influencer Anna Bensi el día de su juicio",
-      "resumen": "Exiliada cubana reveló nuevos detalles sobre arresto de su sobrino por respaldar a influencer Anna Bensi el día de su juicio.",
+      "titulo": "Las Noticias Como Son",
+      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/revelan-nuevos-detalles-del-arresto-de-joven-cubano-que-respald%c3%b3-a-influencer-anna-bensi-el-d%c3%ada-de-su-juicio/481404.html",
+      "enlace_original": "https://www.martinoticias.com/a/480294.html",
       "destacada": false,
-      "tema": "revelan",
-      "fecha": "Tue, 06 Oct 2026 14:45:50 -0400",
-      "id": 22
+      "tema": "noticias",
+      "fecha": "Tue, 06 Oct 2026 16:05:30 -0400",
+      "id": 28
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Tribunal devuelve a Fiscalía el expediente del periodista Henry Constantin",
-      "resumen": "La decisión mantiene en incertidumbre el proceso contra el director de La Hora de Cuba, detenido desde el 16 de septiembre por un supuesto delito de desobediencia.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Ludia Montero conquista dos platas y un bronce; Edisnel Corrales suma tres bronces en el Panamericano de Pesas de Tepic",
+      "resumen": "El torneo reúne a cerca de 200 atletas de 22 países y concluirá el 8 de octubre en la Unidad Deportiva de Nayarit. The post Ludia Montero conquista dos platas y un bronce; Edisnel Corrales suma tres bronces en el Panamericano de Pesas de Tepic first appeared on Cubadebate.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/tribunal-devuelve-a-fiscal%c3%ada-el-expediente-del-periodista-henry-constantin/481401.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/06/ludia-montero-conquista-dos-platas-y-un-bronce-edisnel-corrales-suma-tres-bronces-en-el-panamericano-de-pesas-de-tepic/",
       "destacada": false,
-      "tema": "tribunal",
-      "fecha": "Tue, 06 Oct 2026 14:17:33 -0400",
-      "id": 23
+      "tema": "ludia",
+      "fecha": "Tue, 06 Oct 2026 16:52:09 +0000",
+      "id": 29
+    },
+    {
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Pueblo cubano rinde tributo a víctimas del Crimen de Barbados (+Fotos)",
+      "resumen": "El primer secretario del Comité Central del PCC y presidente de Cuba, Miguel Díaz-Canel Bermúdez, encabezó este martes el homenaje a las víctimas del Crimen de Barbados, al conmemorarse 50 años del atentado terrorista de 1976 que costó la vida a 73 personas. The post Pueblo cubano rinde tributo a ví",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/06/pueblo-cubano-rinde-tributo-a-victimas-del-crimen-de-barbados-fotos/",
+      "destacada": false,
+      "tema": "pueblo",
+      "fecha": "Tue, 06 Oct 2026 14:59:05 +0000",
+      "id": 30
+    },
+    {
+      "categoria": "economia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "¿Hay un mercado de barrio en tu localidad? ¿Cómo funciona?",
+      "resumen": "¿Hay un mercado de barrio en tu localidad? ¿Cómo funciona? ¿Qué productos encuentras allí? ¿Los precios y las ofertas responden a tus necesidades? Cuéntanos tu experiencia. The post ¿Hay un mercado de barrio en tu localidad? ¿Cómo funciona? first appeared on Cubadebate.",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/06/hay-un-mercado-de-barrio-en-tu-localidad-como-funciona/",
+      "destacada": false,
+      "tema": "mercado",
+      "fecha": "Tue, 06 Oct 2026 14:50:34 +0000",
+      "id": 31
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Sismo perceptible en Guantánamo y Santiago de Cuba: Magnitud preliminar 3.3 y profundidad 24 km",
+      "resumen": "Un sismo perceptible fue registrado a las 9:21 am de este martes, con una magnitud preliminar de 3.3 y una profundidad de 24 km. Se recibieron reportes de perceptibilidad de las ciudades de Guantánamo y Santiago de Cuba. Los parámetros están sujetos a revisión por contar con dos estaciones sismológi",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480288.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/06/sismo-perceptible-en-guantanamo-y-santiago-de-cuba-magnitud-preliminar-3-3-y-profundidad-24-km/",
       "destacada": false,
-      "tema": "",
-      "fecha": "Tue, 06 Oct 2026 14:00:00 -0400",
-      "id": 24
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Martí Noticias alcanza los 2 millones de seguidores en Facebook",
-      "resumen": "Martí Noticias alcanzó este domingo los 2 millones de seguidores en Facebook, un hito que refleja su creciente conexión con las audiencias dentro y fuera de Cuba, en medio de un contexto marcado por la censura y la represión informativa en la isla.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/mart%c3%ad-noticias-alcanza-los-2-millones-de-seguidores-en-facebook/481264.html",
-      "destacada": false,
-      "tema": "martí",
-      "fecha": "Tue, 06 Oct 2026 12:19:35 -0400",
-      "id": 25
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "\"Ley del silencio\", así califican la arremetida de La Habana contra la libertad de expresión",
-      "resumen": "El Observatorio Cubano de Derechos Humanos alertó sobre el endurecimiento de los procesos judiciales contra ciudadanos que critican al régimen comunista de Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/ley-del-silencio-as%c3%ad-califican-la-arremetida-de-la-habana-contra-la-libertad-de-expresi%c3%b3n/481395.html",
-      "destacada": false,
-      "tema": "silencio",
-      "fecha": "Tue, 06 Oct 2026 12:04:17 -0400",
-      "id": 26
+      "tema": "sismo",
+      "fecha": "Tue, 06 Oct 2026 14:09:21 +0000",
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -352,7 +430,7 @@
       "destacada": false,
       "tema": "valery",
       "fecha": "Tue, 06 Oct 2026 16:26:05 +0000",
-      "id": 27
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -365,7 +443,7 @@
       "destacada": false,
       "tema": "estará",
       "fecha": "Tue, 06 Oct 26 13:58:00 +0200",
-      "id": 28
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -378,7 +456,7 @@
       "destacada": false,
       "tema": "presentaciones",
       "fecha": "Tue, 06 Oct 26 09:25:00 +0200",
-      "id": 29
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -391,7 +469,7 @@
       "destacada": false,
       "tema": "cuentas",
       "fecha": "Tue, 06 Oct 26 09:07:00 +0200",
-      "id": 30
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -404,7 +482,7 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Tue, 06 Oct 26 09:07:00 +0200",
-      "id": 31
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -417,7 +495,7 @@
       "destacada": false,
       "tema": "bilbao",
       "fecha": "Tue, 06 Oct 26 09:02:00 +0200",
-      "id": 32
+      "id": 38
     },
     {
       "categoria": "economia",
@@ -430,7 +508,7 @@
       "destacada": false,
       "tema": "nuevas",
       "fecha": "Tue, 06 Oct 26 08:40:00 +0200",
-      "id": 33
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -443,7 +521,7 @@
       "destacada": false,
       "tema": "veces",
       "fecha": "Tue, 06 Oct 26 08:35:00 +0200",
-      "id": 34
+      "id": 40
     },
     {
       "categoria": "transporte",
@@ -456,7 +534,33 @@
       "destacada": false,
       "tema": "autoriza",
       "fecha": "Tue, 06 Oct 26 08:25:00 +0200",
-      "id": 35
+      "id": 41
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Avanza Matanzas en cambio de matriz energética de las telecomunicaciones",
+      "resumen": "Gustavo Montesino Reyes, director de la división territorial de la Empresa de Telecomunicaciones de Cuba (Etecsa) en Matanzas, brindó en conferencia de prensa información sobre el panorama general presente en la provincia, así como una actualización del cambio de la matriz energética, alternativa de",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/06/avanza-matanzas-cambio-matriz-energetica-telecomunicaciones/",
+      "destacada": false,
+      "tema": "avanza",
+      "fecha": "Tue, 06 Oct 2026 14:42:55 +0000",
+      "id": 42
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "A 50 años del Crimen de Barbados: Matanzas recuerda a sus mártires y exige justicia",
+      "resumen": "Este 6 de octubre se cumplen 50 años del sabotaje al vuelo 455 de Cubana de Aviación, una de las páginas más dolorosas de la historia de la Isla. En Matanzas, como en toda Cuba, se recordó el crimen de Barbados con un acto de homenaje en las afueras del estadio Victoria de Girón.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/06/50-anos-crimen-de-barbados-matanzas-recuerda/",
+      "destacada": false,
+      "tema": "crimen",
+      "fecha": "Tue, 06 Oct 2026 12:15:00 +0000",
+      "id": 43
     }
   ]
 }
