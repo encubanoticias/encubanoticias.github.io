@@ -1,33 +1,46 @@
 {
   "fecha": "2026-10-06",
-  "hora": "15:08",
-  "total": 37,
+  "hora": "17:06",
+  "total": 41,
   "noticias": [
     {
-      "categoria": "salud",
+      "categoria": "politica",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Rusia dona ambulancias a Cuba para fortalecer la atención materno-infantil",
-      "resumen": "Los vehículos serán destinados a instituciones de salud de La Habana, Matanzas y Santiago de Cuba, con prioridad para el programa de atención materno-infantil",
+      "titulo": "«Criterio Compartido»: La atención a personas y segmentos de mayor vulnerabilidad en Cuba",
+      "resumen": "La propuesta estará dedicada a reflexionar sobre los esfuerzos que desarrolla el país dirigidos a la atención a personas y segmentos de mayor vulnerabilidad",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-06/rusia-dona-ambulancias-a-cuba-para-fortalecer-la-atencion-materno-infantil-06-10-2026-10-10-00",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-06/criterio-compartido-la-atencion-a-personas-y-segmentos-de-mayor-vulnerabilidad-en-cuba-06-10-2026-12-10-54",
       "destacada": true,
-      "tema": "rusia",
-      "fecha": "Tue, 06 Oct 2026 10:10:00 -0400",
+      "tema": "criterio",
+      "fecha": "Tue, 06 Oct 2026 12:10:54 -0400",
       "id": 1
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Barbados: las lecciones que la historia nos dejó para el futuro",
-      "resumen": "Cada vez que escucho a algún cubano defender con vehemencia una agresión a Cuba se me hiela la sangre, y no solo por lo que representaría el hecho en sí, sino porque no concibo que las personas ignoren las lecciones de historia, de una manera tan superficial, que duele en la misma medida en que asom",
+      "titulo": "El pueblo cubano y el estadounidense: ¿víctimas colaterales del genocidio?",
+      "resumen": "Apoyados en leyes subversivas, los enemigos de la Isla basan el castigo colectivo en una mentira que tratan de globalizar",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/opinion/2026-10-06/barbados-las-lecciones-que-la-historia-nos-dejo-para-el-futuro-06-10-2026-03-10-43",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-06/el-pueblo-cubano-y-el-estadounidense-victimas-colaterales-del-genocidio-06-10-2026-03-10-42",
       "destacada": true,
-      "tema": "barbados",
-      "fecha": "Tue, 06 Oct 2026 03:10:43 -0400",
+      "tema": "pueblo",
+      "fecha": "Tue, 06 Oct 2026 03:10:42 -0400",
       "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Inició por Villa Clara la campaña tabacalera en el país",
+      "resumen": "A 1900 hectáreas asciende el plan de este territorio para la campaña tabacalera 2026-2027, que en esta oportunidad tiene la peculiaridad de incluir también a la provincia de Cienfuegos, como una sola entidad rectora del programa en esta región de Cuba&nbsp; &nbsp;",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-06/inicio-por-villa-clara-la-campana-tabacalera-en-el-pais-06-10-2026-11-10-24",
+      "destacada": true,
+      "tema": "inició",
+      "fecha": "Tue, 06 Oct 2026 11:10:24 -0400",
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -40,7 +53,20 @@
       "destacada": true,
       "tema": "comunican",
       "fecha": "Tue, 06 Oct 2026 10:01:19 +0000",
-      "id": 3
+      "id": 4
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Médicos sudafricanos formados en Cuba no encuentran trabajo al regresar a su país",
+      "resumen": "Al menos 24 egresados del programa Nelson Mandela-Fidel Castro siguen desempleados en Cabo Oriental y las autoridades lo atribuyen a problemas de presupuesto",
+      "imagen_url": "https://static.14ymedio.com/clip/136e8fee-edf8-455d-a607-a5c6b42acd89_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/medicos-sudafricanos-formados-cuba-no_1_1131600.html",
+      "destacada": true,
+      "tema": "médicos",
+      "fecha": "Tue, 06 Oct 2026 15:32:07 +0000",
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -50,10 +76,10 @@
       "resumen": "\"No podemos permanecer en silencio ante el dolor que todos estamos sufriendo en esta hora de nuestra historia”, señala en una carta abierta",
       "imagen_url": "https://static.14ymedio.com/clip/6b31c0c8-7b84-4965-b5b2-598c21acf640_source-aspect-ratio_default_0.png",
       "enlace_original": "https://www.14ymedio.com/cuba/iglesia-episcopal-cuba-expresa-solidaridad_1_1131583.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "iglesia",
       "fecha": "Tue, 06 Oct 2026 10:06:14 +0000",
-      "id": 4
+      "id": 6
     },
     {
       "categoria": "politica",
@@ -63,10 +89,10 @@
       "resumen": "El primer ministro, Manuel Marrero, admite en el ‘podcast’ de Díaz-Canel que los efectos de las 176 reformas “aún no se aprecian en la calidad de vida de la población”",
       "imagen_url": "https://static.14ymedio.com/clip/fb3d5837-eea5-4bc2-aefa-45a69895efa8_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/gobierno-promete-arroz-azucar-granos_1_1131557.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "gobierno",
       "fecha": "Mon, 05 Oct 2026 17:37:21 +0000",
-      "id": 5
+      "id": 7
     },
     {
       "categoria": "energia",
@@ -79,7 +105,7 @@
       "destacada": false,
       "tema": "tesoro",
       "fecha": "Mon, 05 Oct 2026 09:20:28 +0000",
-      "id": 6
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -92,7 +118,20 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Mon, 05 Oct 2026 14:51:09 +0000",
-      "id": 7
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba: mercados de barrio y Estado fallido",
+      "resumen": "El régimen de #Cuba anuncia su novedosa solución contra el #desabastecimiento: los #mercados de barrio.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791302414_69262.html",
+      "destacada": false,
+      "tema": "mercados",
+      "fecha": "Tue, 06 Oct 2026 18:00:14 +0200",
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -105,7 +144,7 @@
       "destacada": false,
       "tema": "programa",
       "fecha": "Tue, 06 Oct 2026 15:39:22 +0200",
-      "id": 8
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -118,7 +157,7 @@
       "destacada": false,
       "tema": "medicinas",
       "fecha": "Tue, 06 Oct 2026 15:01:14 +0200",
-      "id": 9
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -131,7 +170,7 @@
       "destacada": false,
       "tema": "españa",
       "fecha": "Tue, 06 Oct 2026 13:38:25 +0200",
-      "id": 10
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -144,7 +183,7 @@
       "destacada": false,
       "tema": "necesita",
       "fecha": "Tue, 06 Oct 2026 13:06:48 +0200",
-      "id": 11
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -157,7 +196,7 @@
       "destacada": false,
       "tema": "elaine",
       "fecha": "Tue, 06 Oct 2026 13:05:46 +0200",
-      "id": 12
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -170,7 +209,7 @@
       "destacada": false,
       "tema": "iglesia",
       "fecha": "Tue, 06 Oct 2026 11:22:18 +0200",
-      "id": 13
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -183,7 +222,7 @@
       "destacada": false,
       "tema": "propaganda",
       "fecha": "Tue, 06 Oct 2026 11:07:43 +0200",
-      "id": 14
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -196,20 +235,72 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 06 Oct 2026 07:52:35 +0200",
-      "id": 15
+      "id": 18
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Un asesinato a tiros en Cárdenas eleva a 57 los feminicidios cometidos en Cuba en 2026",
-      "resumen": "La violencia machista se cobra otra víctima fatal en #Cuba, que eleva a 57 los casos registrados en 2026. Se trata de una madre ultimada a tiros en #Cárdenas, tras intervenir para proteger a su hija del agresor.",
+      "titulo": "Martí Noticias alcanza los 2 millones de seguidores en Facebook",
+      "resumen": "Martí Noticias alcanzó este domingo los 2 millones de seguidores en Facebook, un hito que refleja su creciente conexión con las audiencias dentro y fuera de Cuba, en medio de un contexto marcado por la censura y la represión informativa en la isla.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791241793_69268.html",
+      "enlace_original": "https://www.martinoticias.com/a/mart%c3%ad-noticias-alcanza-los-2-millones-de-seguidores-en-facebook/481264.html",
       "destacada": false,
-      "tema": "asesinato",
-      "fecha": "Tue, 06 Oct 2026 01:09:53 +0200",
-      "id": 16
+      "tema": "martí",
+      "fecha": "Tue, 06 Oct 2026 12:19:35 -0400",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"Ley del silencio\", así califican la arremetida de La Habana contra la libertad de expresión",
+      "resumen": "El Observatorio Cubano de Derechos Humanos alertó sobre el endurecimiento de los procesos judiciales contra ciudadanos que critican al régimen comunista de Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/ley-del-silencio-as%c3%ad-califican-la-arremetida-de-la-habana-contra-la-libertad-de-expresi%c3%b3n/481395.html",
+      "destacada": false,
+      "tema": "silencio",
+      "fecha": "Tue, 06 Oct 2026 12:04:17 -0400",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 12:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480285.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Tue, 06 Oct 2026 12:00:00 -0400",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Barrio adentro",
+      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480282.html",
+      "destacada": false,
+      "tema": "barrio",
+      "fecha": "Tue, 06 Oct 2026 11:30:00 -0400",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"En la noche la policía fue a su casa y se lo llevó\", joven de Alamar detenido por apoyar a su amiga Anna Bensi",
+      "resumen": "Aymee Corominas, exiliada cubana residente en Cutler Bay, denunció la detención de su sobrino Josué Moreno, arrestado tras acompañar a la influencer y activista Anna Sofía Benítez el pasado 1 de septiembre en La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/en-la-noche-la-polic%c3%ada-fue-a-su-casa-y-se-lo-llev%c3%b3-joven-de-alamar-detenido-por-apoyar-a-su-amiga-anna-bensi/481389.html",
+      "destacada": false,
+      "tema": "noche",
+      "fecha": "Tue, 06 Oct 2026 11:28:25 -0400",
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -222,59 +313,20 @@
       "destacada": false,
       "tema": "lawton",
       "fecha": "Tue, 06 Oct 2026 11:00:00 -0400",
-      "id": 17
+      "id": 24
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Tarde y politizado, el reconocimiento de la ONU sobre crisis humanitaria en Cuba",
-      "resumen": "La ONU ha reconocido con dinero de emergencia la gravedad de la situación en Cuba, al incluir a la isla entre las crisis humanitarias peor financiadas del mundo. Pero detrás del nuevo diagnóstico oficial, el deterioro del país venía acumulándose desde mucho antes.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Ludia Montero conquista dos platas y un bronce; Edisnel Corrales suma tres bronces en el Panamericano de Pesas de Tepic",
+      "resumen": "El torneo reúne a cerca de 200 atletas de 22 países y concluirá el 8 de octubre en la Unidad Deportiva de Nayarit. The post Ludia Montero conquista dos platas y un bronce; Edisnel Corrales suma tres bronces en el Panamericano de Pesas de Tepic first appeared on Cubadebate.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/tarde-y-politizado-el-reconocimiento-de-la-onu-sobre-crisis-humanitaria-en-cuba/481386.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/06/ludia-montero-conquista-dos-platas-y-un-bronce-edisnel-corrales-suma-tres-bronces-en-el-panamericano-de-pesas-de-tepic/",
       "destacada": false,
-      "tema": "tarde",
-      "fecha": "Tue, 06 Oct 2026 10:50:27 -0400",
-      "id": 18
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Martinoticias AM",
-      "resumen": "Revista informativa con los últimos acontecimientos ocurridos en Cuba y el mundo. Con entrevistas y temas de actualidad relacionados a la política, la economía y de interés general.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480275.html",
-      "destacada": false,
-      "tema": "martinoticias",
-      "fecha": "Tue, 06 Oct 2026 08:00:00 -0400",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba Habla: “¿Qué siento? Dolor, vacío… de todo”",
-      "resumen": "Desde la capital de la isla, madre cubana expresa las dificultades que enfrenta para alimentar a su hija.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480965.html",
-      "destacada": false,
-      "tema": "habla",
-      "fecha": "Tue, 06 Oct 2026 07:00:00 -0400",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480272.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Tue, 06 Oct 2026 00:05:30 -0400",
-      "id": 21
+      "tema": "ludia",
+      "fecha": "Tue, 06 Oct 2026 16:52:09 +0000",
+      "id": 25
     },
     {
       "categoria": "politica",
@@ -287,7 +339,7 @@
       "destacada": false,
       "tema": "pueblo",
       "fecha": "Tue, 06 Oct 2026 14:59:05 +0000",
-      "id": 22
+      "id": 26
     },
     {
       "categoria": "economia",
@@ -300,7 +352,7 @@
       "destacada": false,
       "tema": "mercado",
       "fecha": "Tue, 06 Oct 2026 14:50:34 +0000",
-      "id": 23
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -313,46 +365,20 @@
       "destacada": false,
       "tema": "sismo",
       "fecha": "Tue, 06 Oct 2026 14:09:21 +0000",
-      "id": 24
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "“Criterio Compartido”: La atención a personas y segmentos de mayor vulnerabilidad en Cuba",
-      "resumen": "La segunda emisión del espacio radial ­“Criterio Compartido”, saldrá al aire este miércoles 7, a las 7 y 15 de la mañana, por Radio Rebelde, con la presencia del Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, en diálogo co",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/06/criterio-compartido-la-atencion-a-personas-y-segmentos-de-mayor-vulnerabilidad-en-cuba/",
-      "destacada": false,
-      "tema": "criterio",
-      "fecha": "Tue, 06 Oct 2026 14:02:46 +0000",
-      "id": 25
+      "id": 28
     },
     {
       "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Guardia cubano que sobrevivió al ataque de Trump en Caracas: “Nuestros compañeros son una gloria para toda Cuba”",
-      "resumen": "Yohandris Torres integraba la Seguridad de Nicolás Maduro cuando los helicópteros estadounidenses descendieron en la capital venezolana. En un homenaje a sus 32 compañeros muertos, habló por primera vez. “Les hicimos más bajas de las que ellos reconocen”, aseguró. The post Guardia cubano que sobrevi",
+      "fuente": "https://periodismodebarrio.org",
+      "fuente_tipo": "alternativa",
+      "titulo": "Valery y un Barrio Cuba en Argentina",
+      "resumen": "La historia de un hombre que sueña con construir una comunidad de migrantes cubanos en Argentina.",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/06/guardia-cubano-que-sobrevivio-al-ataque-de-trump-en-caracas-nuestros-companeros-son-una-gloria-para-toda-cuba/",
+      "enlace_original": "https://periodismodebarrio.org/cubanos-en-argentina-valery-barrio-cuba/",
       "destacada": false,
-      "tema": "guardia",
-      "fecha": "Tue, 06 Oct 2026 13:33:07 +0000",
-      "id": 26
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "COI confirma siete candidaturas para los Juegos Olímpicos de 2036; la sede se decidirá en 2029",
-      "resumen": "Sudáfrica, Turquía, Alemania, Hungría, Qatar, India y Corea del Sur aspiran a organizar la cita estival, mientras el COI mantiene abierto el plazo hasta el 31 de octubre. The post COI confirma siete candidaturas para los Juegos Olímpicos de 2036; la sede se decidirá en 2029 first appeared on Cubadeb",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/06/coi-confirma-siete-candidaturas-para-los-juegos-olimpicos-de-2036-la-sede-se-decidira-en-2029/",
-      "destacada": false,
-      "tema": "confirma",
-      "fecha": "Tue, 06 Oct 2026 13:25:49 +0000",
-      "id": 27
+      "tema": "valery",
+      "fecha": "Tue, 06 Oct 2026 16:26:05 +0000",
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -365,7 +391,7 @@
       "destacada": false,
       "tema": "estará",
       "fecha": "Tue, 06 Oct 26 13:58:00 +0200",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -378,7 +404,7 @@
       "destacada": false,
       "tema": "presentaciones",
       "fecha": "Tue, 06 Oct 26 09:25:00 +0200",
-      "id": 29
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -391,7 +417,7 @@
       "destacada": false,
       "tema": "cuentas",
       "fecha": "Tue, 06 Oct 26 09:07:00 +0200",
-      "id": 30
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -404,7 +430,7 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Tue, 06 Oct 26 09:07:00 +0200",
-      "id": 31
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -417,7 +443,7 @@
       "destacada": false,
       "tema": "bilbao",
       "fecha": "Tue, 06 Oct 26 09:02:00 +0200",
-      "id": 32
+      "id": 34
     },
     {
       "categoria": "economia",
@@ -430,7 +456,7 @@
       "destacada": false,
       "tema": "nuevas",
       "fecha": "Tue, 06 Oct 26 08:40:00 +0200",
-      "id": 33
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -443,7 +469,7 @@
       "destacada": false,
       "tema": "veces",
       "fecha": "Tue, 06 Oct 26 08:35:00 +0200",
-      "id": 34
+      "id": 36
     },
     {
       "categoria": "transporte",
@@ -456,7 +482,20 @@
       "destacada": false,
       "tema": "autoriza",
       "fecha": "Tue, 06 Oct 26 08:25:00 +0200",
-      "id": 35
+      "id": 37
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://actualidad.rt.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Díaz-Canel recuerda el atentado terrorista a Cubana de Aviación y lanza dardo a EE.UU.",
+      "resumen": "Este martes se cumplen 50 años del suceso, en el que fallecieron 73 personas.",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac51777e9ff710ff750612a.jpg",
+      "enlace_original": "https://actualidad-rt.com/actualidad/631204-diaz-canel-recordar-atentado-terrorista?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "destacada": false,
+      "tema": "canel",
+      "fecha": "Tue, 06 Oct 2026 16:19:49 +0000",
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -469,7 +508,20 @@
       "destacada": false,
       "tema": "avanza",
       "fecha": "Tue, 06 Oct 2026 14:42:55 +0000",
-      "id": 36
+      "id": 39
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "A 50 años del Crimen de Barbados: Matanzas recuerda a sus mártires y exige justicia",
+      "resumen": "Este 6 de octubre se cumplen 50 años del sabotaje al vuelo 455 de Cubana de Aviación, una de las páginas más dolorosas de la historia de la Isla. En Matanzas, como en toda Cuba, se recordó el crimen de Barbados con un acto de homenaje en las afueras del estadio Victoria de Girón.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/06/50-anos-crimen-de-barbados-matanzas-recuerda/",
+      "destacada": false,
+      "tema": "crimen",
+      "fecha": "Tue, 06 Oct 2026 12:15:00 +0000",
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -482,7 +534,7 @@
       "destacada": false,
       "tema": "acoge",
       "fecha": "Sun, 04 Oct 2026 19:31:10 +0000",
-      "id": 37
+      "id": 41
     }
   ]
 }
