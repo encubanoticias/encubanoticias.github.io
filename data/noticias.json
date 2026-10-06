@@ -1,20 +1,33 @@
 {
   "fecha": "2026-10-06",
-  "hora": "04:07",
-  "total": 36,
+  "hora": "06:07",
+  "total": 37,
   "noticias": [
     {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Vice primer ministro de Cuba agradece programas de agencia mexicana",
-      "resumen": "Ciudad de México, 5 oct (Prensa Latina) El vice primer ministro y ministro cubano del Comercio Exterior y la Inversión Extranjera, Oscar Pérez-Oliva, expresó hoy gratitud por los programas que ejecuta en la isla la Agencia Mexicana de Cooperación Internacional para el Desarrollo (Amexcid). The post ",
+      "titulo": "Advierte Cuba en Madrid consecuencias de una agresión militar",
+      "resumen": "Durante su intervención ante del Pleno del XII Foro Parlamentario Iberoamericano en Madrid, la vicepresidenta cubana de la Asamblea Nacional del Poder Popular (ANPP), Ana María Mari Machado, subrayó que un hecho así, «desestabilizaría la región de América Latina y el Caribe como Zona de Paz»",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/05/vice-primer-ministro-de-cuba-agradece-programas-de-agencia-mexicana/",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-04/advierte-cuba-en-madrid-consecuencias-de-una-agresion-militar-04-10-2026-10-10-22",
       "destacada": true,
-      "tema": "primer",
-      "fecha": "Tue, 06 Oct 2026 03:40:41 +0000",
+      "tema": "advierte",
+      "fecha": "Sun, 04 Oct 2026 10:10:22 -0400",
       "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Jesús Orta Ruiz: «Hay que tomar cinceles»",
+      "resumen": "Conocido como El Indio Naborí (1922-2005), es uno de los grandes poetas cubanos; recibió el Premio Nacional de Literatura en 1995, así como mereció la Orden Félix Varela de Primer Grado y el título honorífico de Héroe del Trabajo de la República de Cuba",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-04/jesus-orta-ruiz-hay-que-tomar-cinceles-04-10-2026-09-10-24",
+      "destacada": true,
+      "tema": "jesús",
+      "fecha": "Sun, 04 Oct 2026 09:10:24 -0400",
+      "id": 2
     },
     {
       "categoria": "sociedad",
@@ -27,7 +40,7 @@
       "destacada": true,
       "tema": "salir",
       "fecha": "Mon, 05 Oct 2026 17:35:11 +0000",
-      "id": 2
+      "id": 3
     },
     {
       "categoria": "salud",
@@ -40,7 +53,7 @@
       "destacada": true,
       "tema": "presidenta",
       "fecha": "Mon, 05 Oct 2026 20:31:46 +0000",
-      "id": 3
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -53,7 +66,7 @@
       "destacada": true,
       "tema": "justicia",
       "fecha": "Mon, 05 Oct 2026 12:35:24 +0000",
-      "id": 4
+      "id": 5
     },
     {
       "categoria": "politica",
@@ -63,10 +76,10 @@
       "resumen": "El primer ministro, Manuel Marrero, admite en el ‘podcast’ de Díaz-Canel que los efectos de las 176 reformas “aún no se aprecian en la calidad de vida de la población”",
       "imagen_url": "https://static.14ymedio.com/clip/fb3d5837-eea5-4bc2-aefa-45a69895efa8_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/gobierno-promete-arroz-azucar-granos_1_1131557.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "gobierno",
       "fecha": "Mon, 05 Oct 2026 17:37:21 +0000",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -79,7 +92,7 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Mon, 05 Oct 2026 14:51:09 +0000",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "energia",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "tesoro",
       "fecha": "Mon, 05 Oct 2026 09:20:28 +0000",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -105,7 +118,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 06 Oct 2026 03:05:18 +0200",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -118,7 +131,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 06 Oct 2026 02:37:12 +0200",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "energia",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 06 Oct 2026 02:17:33 +0200",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -144,7 +157,7 @@
       "destacada": false,
       "tema": "laritza",
       "fecha": "Tue, 06 Oct 2026 02:10:26 +0200",
-      "id": 11
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -157,7 +170,7 @@
       "destacada": false,
       "tema": "frank",
       "fecha": "Tue, 06 Oct 2026 01:56:15 +0200",
-      "id": 12
+      "id": 13
     },
     {
       "categoria": "economia",
@@ -170,20 +183,20 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 06 Oct 2026 01:44:30 +0200",
-      "id": 13
+      "id": 14
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Madre de soldado muerto en unidad militar cubana denuncia que el MINFAR ignora sus peticiones de justicia tras 13 meses de lucha",
-      "resumen": "",
+      "titulo": "El régimen cubano niega negociaciones con EEUU y dice que refuerza su preparación militar",
+      "resumen": "La encargada de negocios en #EEUU dice que solo hay \"canales de comunicación\" y que el #RégimenCubano \"no es ingenuo\" ante las amenazas de Trump, por lo que refuerza sus capacidades defensivas.",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e197721-s27061-nid342039-madre-soldado-muerto-unidad-militar-cubana-denuncia",
+      "enlace_original": "https://diariodecuba.com/cuba/1791265955_69269.html",
       "destacada": false,
-      "tema": "madre",
-      "fecha": "Tue, 06 Oct 2026 01:28:22 +0200",
-      "id": 14
+      "tema": "régimen",
+      "fecha": "Tue, 06 Oct 2026 07:52:35 +0200",
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -196,7 +209,7 @@
       "destacada": false,
       "tema": "asesinato",
       "fecha": "Tue, 06 Oct 2026 01:09:53 +0200",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "politica",
@@ -209,7 +222,7 @@
       "destacada": false,
       "tema": "atlantic",
       "fecha": "Mon, 05 Oct 2026 22:15:11 +0200",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "economia",
@@ -222,7 +235,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 05 Oct 2026 20:27:39 +0200",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -235,7 +248,7 @@
       "destacada": false,
       "tema": "etecsa",
       "fecha": "Mon, 05 Oct 2026 19:24:17 +0200",
-      "id": 18
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -248,7 +261,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 05 Oct 2026 19:02:41 +0200",
-      "id": 19
+      "id": 20
     },
     {
       "categoria": "politica",
@@ -261,7 +274,7 @@
       "destacada": false,
       "tema": "denunciar",
       "fecha": "Mon, 05 Oct 2026 18:49:07 +0200",
-      "id": 20
+      "id": 21
     },
     {
       "categoria": "transporte",
@@ -274,7 +287,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Mon, 05 Oct 2026 18:01:04 +0200",
-      "id": 21
+      "id": 22
     },
     {
       "categoria": "economia",
@@ -287,19 +300,6 @@
       "destacada": false,
       "tema": "precio",
       "fecha": "Mon, 05 Oct 2026 17:30:00 +0200",
-      "id": 22
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Asamblea de Cineastas Cubanos defiende a Anna Bensi y a su madre y acusa al régimen de 'doble moral'",
-      "resumen": "#SOSCuba: También la Asamblea de Cineastas Cubanos se solidariza con la influencer #AnnaBensi y su madre, Caridad Silvente, condenadas a dos años de limitación de libertad.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cultura/1791202336_69259.html",
-      "destacada": false,
-      "tema": "asamblea",
-      "fecha": "Mon, 05 Oct 2026 14:12:16 +0200",
       "id": 23
     },
     {
@@ -342,6 +342,19 @@
       "id": 26
     },
     {
+      "categoria": "transporte",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Barbados: Memoria que arde y resiste",
+      "resumen": "Era 6 de octubre de 1976 y un avión de Cubana de Aviación despegó de Barbados para quedar, minutos después, partido en dos por la explosión de dos bombas C-4. No hubo sobrevivientes. Barbados es la cara más visible, la más evidente, de una política de terrorismo de Estado que ha probado casi todas s",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/06/barbados-memoria-que-arde-y-resiste/",
+      "destacada": false,
+      "tema": "barbados",
+      "fecha": "Tue, 06 Oct 2026 04:20:05 +0000",
+      "id": 27
+    },
+    {
       "categoria": "politica",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
@@ -352,7 +365,7 @@
       "destacada": false,
       "tema": "mantienen",
       "fecha": "Tue, 06 Oct 2026 01:58:26 +0000",
-      "id": 27
+      "id": 28
     },
     {
       "categoria": "transporte",
@@ -365,7 +378,7 @@
       "destacada": false,
       "tema": "cambia",
       "fecha": "Tue, 06 Oct 2026 00:30:40 +0000",
-      "id": 28
+      "id": 29
     },
     {
       "categoria": "energia",
@@ -378,7 +391,20 @@
       "destacada": false,
       "tema": "concede",
       "fecha": "Mon, 05 Oct 2026 23:33:12 +0000",
-      "id": 29
+      "id": 30
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "&quot;Cuba está pagando el precio de una admirable dignidad&quot;: Pernando Barrena, europarlamentario de The Left por EH Bildu",
+      "resumen": "Cubainformación.- Estamos en la sede del Parlamento Europeo, donde los días 30 de septiembre y 1 de ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125278-cuba-esta-pagando-el-precio-de-una-admirable-dignidad-pernando-barrena-europarlamentario-de-the-left-por-eh-bildu.jpg?t=1791223188",
+      "enlace_original": "https://www.cubainformacion.tv/especiales/20261006/125278/125278-cuba-esta-pagando-el-precio-de-una-admirable-dignidad-pernando-barrena-europarlamentario-de-the-left-por-eh-bildu",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Tue, 06 Oct 26 00:00:00 +0200",
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -391,7 +417,7 @@
       "destacada": false,
       "tema": "fiesta",
       "fecha": "Mon, 05 Oct 26 07:51:00 +0200",
-      "id": 30
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -404,7 +430,7 @@
       "destacada": false,
       "tema": "propaganda",
       "fecha": "Mon, 05 Oct 26 07:17:00 +0200",
-      "id": 31
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -417,7 +443,7 @@
       "destacada": false,
       "tema": "otaola",
       "fecha": "Mon, 05 Oct 26 07:15:00 +0200",
-      "id": 32
+      "id": 34
     },
     {
       "categoria": "salud",
@@ -430,7 +456,7 @@
       "destacada": false,
       "tema": "médicos",
       "fecha": "Mon, 05 Oct 26 06:39:00 +0200",
-      "id": 33
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -443,33 +469,20 @@
       "destacada": false,
       "tema": "presentan",
       "fecha": "Mon, 05 Oct 26 06:34:00 +0200",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Los vivos envidiarán a los muertos",
-      "resumen": "Ana Hurtado - Original en Cubadebate",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125318-los-vivos-envidiaran-a-los-muertos.jpg?t=1791174787",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261005/125318/125318-los-vivos-envidiaran-a-los-muertos",
-      "destacada": false,
-      "tema": "vivos",
-      "fecha": "Mon, 05 Oct 26 06:33:00 +0200",
-      "id": 35
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://actualidad.rt.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La dura realidad con la que se topó un latinoamericano al llegar a Europa: \"Vendí todo para venir\"",
-      "resumen": "El hombre emprendió una nueva vida con todos sus ahorros, convencido de que encontraría trabajo rápidamente. Sin embargo, sus primeros días estuvieron muy lejos de lo que había imaginado.",
-      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac445d559bf5b662161c2c5.png",
-      "enlace_original": "https://actualidad-rt.com/actualidad/631105-dura-realidad-topo-latinoamericano-llegar?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Tue, 06 Oct 2026 03:08:33 +0000",
       "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Acoge estadio matancero inauguración de 65 Serie Nacional",
+      "resumen": "Un engalanado estadio Victoria de Girón acogió hoy la ceremonia de inauguración de la 65 Serie Nacional del béisbol cubano.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/04/acoge-matanzas-inauguracion-de-65-snb/",
+      "destacada": false,
+      "tema": "acoge",
+      "fecha": "Sun, 04 Oct 2026 19:31:10 +0000",
+      "id": 37
     }
   ]
 }
