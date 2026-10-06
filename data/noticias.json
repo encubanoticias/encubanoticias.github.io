@@ -1,8 +1,21 @@
 {
   "fecha": "2026-10-06",
-  "hora": "14:08",
-  "total": 42,
+  "hora": "15:08",
+  "total": 37,
   "noticias": [
+    {
+      "categoria": "salud",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Rusia dona ambulancias a Cuba para fortalecer la atención materno-infantil",
+      "resumen": "Los vehículos serán destinados a instituciones de salud de La Habana, Matanzas y Santiago de Cuba, con prioridad para el programa de atención materno-infantil",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-06/rusia-dona-ambulancias-a-cuba-para-fortalecer-la-atencion-materno-infantil-06-10-2026-10-10-00",
+      "destacada": true,
+      "tema": "rusia",
+      "fecha": "Tue, 06 Oct 2026 10:10:00 -0400",
+      "id": 1
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
@@ -14,72 +27,7 @@
       "destacada": true,
       "tema": "barbados",
       "fecha": "Tue, 06 Oct 2026 03:10:43 -0400",
-      "id": 1
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "¿Cómo ha transcurrido el primer mes de clases en la educación general?",
-      "resumen": "Septiembre dejó una escuela que permanece abierta y activa, pero también mostró cuánto cuesta sostenerla en las actuales circunstancias de bloqueo recrudecido",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-06/como-ha-transcurrido-el-primer-mes-de-clases-en-la-educacion-general-06-10-2026-02-10-19",
-      "destacada": true,
-      "tema": "transcurrido",
-      "fecha": "Tue, 06 Oct 2026 02:10:19 -0400",
       "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Los favoritos de la Serie 65",
-      "resumen": "Analizamos cuáles son los equipos con mayores posibilidades de avanzar en la temporada beisbolera cubana",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-10-06/los-favoritos-de-la-serie-65-06-10-2026-03-10-35",
-      "destacada": true,
-      "tema": "favoritos",
-      "fecha": "Tue, 06 Oct 2026 03:10:35 -0400",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Fallece Leonel Menéndez, pilar de la danza folclórica en Cuba",
-      "resumen": "La Habana, 6 oct (Prensa Latina) El fallecimiento del bailarín y coreógrafo Leonel Menéndez, director del Ballet Folklórico de Mayabeque Orisha Oko, enlutó hoy a la danza cubana y a la cultura de esa occidental provincia cubana, expresaron instituciones culturales. El Conjunto Folklórico Nacional de",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/06/fallece-leonel-menendez-pilar-de-la-danza-folclorica-en-cuba/",
-      "destacada": true,
-      "tema": "fallece",
-      "fecha": "Tue, 06 Oct 2026 13:53:42 +0000",
-      "id": 4
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Debatirán en Criterio Compartido sobre vulnerabilidad en Cuba",
-      "resumen": "La Habana, 6 oct (Prensa Latina) El espacio radial Criterio Compartido saldrá al aire este miércoles 7 por Radio Rebelde para debatir sobre la atención a las personas y segmentos de mayor vulnerabilidad hoy en Cuba. The post Debatirán en Criterio Compartido sobre vulnerabilidad en Cuba first appeare",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/06/debatiran-en-criterio-compartido-sobre-vulnerabilidad-en-cuba/",
-      "destacada": true,
-      "tema": "debatirán",
-      "fecha": "Tue, 06 Oct 2026 13:52:11 +0000",
-      "id": 5
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Autoridades cubanas recuerdan impacto del terrorismo de Estado",
-      "resumen": "La Habana, 5 oct (Prensa Latina) El primer ministro Manuel Marrero subrayó hoy que el dolor del pueblo cubano continúa intacto, a 50 años del Crimen de Barbados. The post Autoridades cubanas recuerdan impacto del terrorismo de Estado first appeared on Noticias Prensa Latina.",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/06/autoridades-cubanas-recuerdan-impacto-del-terrorismo-de-estado/",
-      "destacada": false,
-      "tema": "autoridades",
-      "fecha": "Tue, 06 Oct 2026 13:29:07 +0000",
-      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -89,10 +37,10 @@
       "resumen": "El Departamento de Estado lo niega e insiste en que se sigue conversando, sin resultados",
       "imagen_url": "https://static.14ymedio.com/clip/b137e313-93bb-458d-b466-bd93641c8e65_source-aspect-ratio_default_0.png",
       "enlace_original": "https://www.14ymedio.com/cuba/cuba-ee-uu-comunican-whatsapp_1_1131581.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "comunican",
       "fecha": "Tue, 06 Oct 2026 10:01:19 +0000",
-      "id": 7
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -102,10 +50,10 @@
       "resumen": "\"No podemos permanecer en silencio ante el dolor que todos estamos sufriendo en esta hora de nuestra historia”, señala en una carta abierta",
       "imagen_url": "https://static.14ymedio.com/clip/6b31c0c8-7b84-4965-b5b2-598c21acf640_source-aspect-ratio_default_0.png",
       "enlace_original": "https://www.14ymedio.com/cuba/iglesia-episcopal-cuba-expresa-solidaridad_1_1131583.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "iglesia",
       "fecha": "Tue, 06 Oct 2026 10:06:14 +0000",
-      "id": 8
+      "id": 4
     },
     {
       "categoria": "politica",
@@ -115,10 +63,10 @@
       "resumen": "El primer ministro, Manuel Marrero, admite en el ‘podcast’ de Díaz-Canel que los efectos de las 176 reformas “aún no se aprecian en la calidad de vida de la población”",
       "imagen_url": "https://static.14ymedio.com/clip/fb3d5837-eea5-4bc2-aefa-45a69895efa8_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/gobierno-promete-arroz-azucar-granos_1_1131557.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "gobierno",
       "fecha": "Mon, 05 Oct 2026 17:37:21 +0000",
-      "id": 9
+      "id": 5
     },
     {
       "categoria": "energia",
@@ -131,7 +79,7 @@
       "destacada": false,
       "tema": "tesoro",
       "fecha": "Mon, 05 Oct 2026 09:20:28 +0000",
-      "id": 10
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -144,59 +92,7 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Mon, 05 Oct 2026 14:51:09 +0000",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubano encuentra un video de su madre de hace siete años y no puede contener las lágrimas: «Llama a tu mamá hoy»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u65722-e65722-s27065-nid342067-cubano-encuentra-video-madre-hace-siete-anos",
-      "destacada": false,
-      "tema": "cubano",
-      "fecha": "Tue, 06 Oct 2026 14:36:55 +0200",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Te cancelaron un vuelo entre EE.UU. y Cuba? Cuándo deben devolverte el dinero y por qué no tienes que aceptar un voucher",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e13-s27061-nid342048-te-cancelaron-vuelo-eeuu-cuba-cuando-deben-devolverte",
-      "destacada": false,
-      "tema": "cancelaron",
-      "fecha": "Tue, 06 Oct 2026 14:33:57 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba cambia sus reglas migratorias el 1 de noviembre: qué deben saber los cubanos que viven fuera",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e13-s27061-nid342057-cuba-cambia-sus-reglas-migratorias-1-noviembre-deben",
-      "destacada": false,
-      "tema": "cambia",
-      "fecha": "Tue, 06 Oct 2026 14:29:15 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubana regresa a la isla después de cinco años y la reacción de su madre lo dice todo: «¡Nooooo!»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u65722-e65722-s27065-nid342065-cubana-regresa-isla-despues-cinco-anos-reaccion",
-      "destacada": false,
-      "tema": "cubana",
-      "fecha": "Tue, 06 Oct 2026 14:27:59 +0200",
-      "id": 15
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -209,7 +105,7 @@
       "destacada": false,
       "tema": "programa",
       "fecha": "Tue, 06 Oct 2026 15:39:22 +0200",
-      "id": 16
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -222,7 +118,7 @@
       "destacada": false,
       "tema": "medicinas",
       "fecha": "Tue, 06 Oct 2026 15:01:14 +0200",
-      "id": 17
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -235,7 +131,7 @@
       "destacada": false,
       "tema": "españa",
       "fecha": "Tue, 06 Oct 2026 13:38:25 +0200",
-      "id": 18
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -248,7 +144,7 @@
       "destacada": false,
       "tema": "necesita",
       "fecha": "Tue, 06 Oct 2026 13:06:48 +0200",
-      "id": 19
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -261,7 +157,7 @@
       "destacada": false,
       "tema": "elaine",
       "fecha": "Tue, 06 Oct 2026 13:05:46 +0200",
-      "id": 20
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -274,7 +170,7 @@
       "destacada": false,
       "tema": "iglesia",
       "fecha": "Tue, 06 Oct 2026 11:22:18 +0200",
-      "id": 21
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -287,7 +183,7 @@
       "destacada": false,
       "tema": "propaganda",
       "fecha": "Tue, 06 Oct 2026 11:07:43 +0200",
-      "id": 22
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -300,7 +196,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 06 Oct 2026 07:52:35 +0200",
-      "id": 23
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -313,7 +209,33 @@
       "destacada": false,
       "tema": "asesinato",
       "fecha": "Tue, 06 Oct 2026 01:09:53 +0200",
-      "id": 24
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Lawton Libre",
+      "resumen": "El reconocido opositor cubano Dr. Oscar Elías Biscet aborda la situación de los derechos humanos en Cuba y la conquista de las libertades básicas de los cubanos, bajo el precepto de que “si aprendes a ser libre, todos los seremos”. Correo Electrónico: lawtonlibremarti@gmail.com",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480279.html",
+      "destacada": false,
+      "tema": "lawton",
+      "fecha": "Tue, 06 Oct 2026 11:00:00 -0400",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Tarde y politizado, el reconocimiento de la ONU sobre crisis humanitaria en Cuba",
+      "resumen": "La ONU ha reconocido con dinero de emergencia la gravedad de la situación en Cuba, al incluir a la isla entre las crisis humanitarias peor financiadas del mundo. Pero detrás del nuevo diagnóstico oficial, el deterioro del país venía acumulándose desde mucho antes.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/tarde-y-politizado-el-reconocimiento-de-la-onu-sobre-crisis-humanitaria-en-cuba/481386.html",
+      "destacada": false,
+      "tema": "tarde",
+      "fecha": "Tue, 06 Oct 2026 10:50:27 -0400",
+      "id": 18
     },
     {
       "categoria": "economia",
@@ -326,7 +248,7 @@
       "destacada": false,
       "tema": "martinoticias",
       "fecha": "Tue, 06 Oct 2026 08:00:00 -0400",
-      "id": 25
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -339,7 +261,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Tue, 06 Oct 2026 07:00:00 -0400",
-      "id": 26
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -352,20 +274,46 @@
       "destacada": false,
       "tema": "",
       "fecha": "Tue, 06 Oct 2026 00:05:30 -0400",
-      "id": 27
+      "id": 21
     },
     {
-      "categoria": "transporte",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La libertad es una librería",
-      "resumen": "El verso de Joan Margarit, “La libertad es una librería”, da título a este podcast cuyo sentido es el de animar a la lectura y a crearnos una librería itinerante que viaje en nosotros. Esta quinta temporada tratará de libros sobre la gran literatura, cubana y universal.",
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Pueblo cubano rinde tributo a víctimas del Crimen de Barbados (+Fotos)",
+      "resumen": "El primer secretario del Comité Central del PCC y presidente de Cuba, Miguel Díaz-Canel Bermúdez, encabezó este martes el homenaje a las víctimas del Crimen de Barbados, al conmemorarse 50 años del atentado terrorista de 1976 que costó la vida a 73 personas. The post Pueblo cubano rinde tributo a ví",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480239.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/06/pueblo-cubano-rinde-tributo-a-victimas-del-crimen-de-barbados-fotos/",
       "destacada": false,
-      "tema": "libertad",
-      "fecha": "Mon, 05 Oct 2026 23:00:00 -0400",
-      "id": 28
+      "tema": "pueblo",
+      "fecha": "Tue, 06 Oct 2026 14:59:05 +0000",
+      "id": 22
+    },
+    {
+      "categoria": "economia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "¿Hay un mercado de barrio en tu localidad? ¿Cómo funciona?",
+      "resumen": "¿Hay un mercado de barrio en tu localidad? ¿Cómo funciona? ¿Qué productos encuentras allí? ¿Los precios y las ofertas responden a tus necesidades? Cuéntanos tu experiencia. The post ¿Hay un mercado de barrio en tu localidad? ¿Cómo funciona? first appeared on Cubadebate.",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/06/hay-un-mercado-de-barrio-en-tu-localidad-como-funciona/",
+      "destacada": false,
+      "tema": "mercado",
+      "fecha": "Tue, 06 Oct 2026 14:50:34 +0000",
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Sismo perceptible en Guantánamo y Santiago de Cuba: Magnitud preliminar 3.3 y profundidad 24 km",
+      "resumen": "Un sismo perceptible fue registrado a las 9:21 am de este martes, con una magnitud preliminar de 3.3 y una profundidad de 24 km. Se recibieron reportes de perceptibilidad de las ciudades de Guantánamo y Santiago de Cuba. Los parámetros están sujetos a revisión por contar con dos estaciones sismológi",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/06/sismo-perceptible-en-guantanamo-y-santiago-de-cuba-magnitud-preliminar-3-3-y-profundidad-24-km/",
+      "destacada": false,
+      "tema": "sismo",
+      "fecha": "Tue, 06 Oct 2026 14:09:21 +0000",
+      "id": 24
     },
     {
       "categoria": "politica",
@@ -378,7 +326,7 @@
       "destacada": false,
       "tema": "criterio",
       "fecha": "Tue, 06 Oct 2026 14:02:46 +0000",
-      "id": 29
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -391,7 +339,7 @@
       "destacada": false,
       "tema": "guardia",
       "fecha": "Tue, 06 Oct 2026 13:33:07 +0000",
-      "id": 30
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -404,33 +352,7 @@
       "destacada": false,
       "tema": "confirma",
       "fecha": "Tue, 06 Oct 2026 13:25:49 +0000",
-      "id": 31
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Descargue en PDF el libro: “La injusticia tiembla”",
-      "resumen": "La injusticia tiembla reúne el histórico discurso pronunciado por Fidel Castro Ruz el 15 de octubre de 1976 durante las honras fúnebres de las víctimas del atentado contra un avión de Cubana de Aviación frente a Barbados. En sus páginas, el líder cubano reconstruye los hechos del sabotaje, rinde hom",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/libros-libres/2026/10/06/descargue-en-pdf-el-libro-la-injusticia-tiembla/",
-      "destacada": false,
-      "tema": "descargue",
-      "fecha": "Tue, 06 Oct 2026 11:10:30 +0000",
-      "id": 32
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Barbados: Memoria que arde y resiste",
-      "resumen": "Era 6 de octubre de 1976 y un avión de Cubana de Aviación despegó de Barbados para quedar, minutos después, partido en dos por la explosión de dos bombas C-4. No hubo sobrevivientes. Barbados es la cara más visible, la más evidente, de una política de terrorismo de Estado que ha probado casi todas s",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/06/barbados-memoria-que-arde-y-resiste/",
-      "destacada": false,
-      "tema": "barbados",
-      "fecha": "Tue, 06 Oct 2026 04:20:05 +0000",
-      "id": 33
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -443,7 +365,7 @@
       "destacada": false,
       "tema": "estará",
       "fecha": "Tue, 06 Oct 26 13:58:00 +0200",
-      "id": 34
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -456,7 +378,7 @@
       "destacada": false,
       "tema": "presentaciones",
       "fecha": "Tue, 06 Oct 26 09:25:00 +0200",
-      "id": 35
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -469,7 +391,7 @@
       "destacada": false,
       "tema": "cuentas",
       "fecha": "Tue, 06 Oct 26 09:07:00 +0200",
-      "id": 36
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -482,7 +404,7 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Tue, 06 Oct 26 09:07:00 +0200",
-      "id": 37
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -495,7 +417,7 @@
       "destacada": false,
       "tema": "bilbao",
       "fecha": "Tue, 06 Oct 26 09:02:00 +0200",
-      "id": 38
+      "id": 32
     },
     {
       "categoria": "economia",
@@ -508,7 +430,7 @@
       "destacada": false,
       "tema": "nuevas",
       "fecha": "Tue, 06 Oct 26 08:40:00 +0200",
-      "id": 39
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -521,7 +443,7 @@
       "destacada": false,
       "tema": "veces",
       "fecha": "Tue, 06 Oct 26 08:35:00 +0200",
-      "id": 40
+      "id": 34
     },
     {
       "categoria": "transporte",
@@ -534,7 +456,20 @@
       "destacada": false,
       "tema": "autoriza",
       "fecha": "Tue, 06 Oct 26 08:25:00 +0200",
-      "id": 41
+      "id": 35
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Avanza Matanzas en cambio de matriz energética de las telecomunicaciones",
+      "resumen": "Gustavo Montesino Reyes, director de la división territorial de la Empresa de Telecomunicaciones de Cuba (Etecsa) en Matanzas, brindó en conferencia de prensa información sobre el panorama general presente en la provincia, así como una actualización del cambio de la matriz energética, alternativa de",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/06/avanza-matanzas-cambio-matriz-energetica-telecomunicaciones/",
+      "destacada": false,
+      "tema": "avanza",
+      "fecha": "Tue, 06 Oct 2026 14:42:55 +0000",
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -547,7 +482,7 @@
       "destacada": false,
       "tema": "acoge",
       "fecha": "Sun, 04 Oct 2026 19:31:10 +0000",
-      "id": 42
+      "id": 37
     }
   ]
 }
