@@ -1,21 +1,8 @@
 {
   "fecha": "2026-10-06",
-  "hora": "02:05",
-  "total": 30,
+  "hora": "03:05",
+  "total": 36,
   "noticias": [
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba empata ante San Cristóbal y conserva liderato en Liga de Naciones",
-      "resumen": "Puerto España, 5 oct (Prensa Latina) La selección cubana de fútbol igualó hoy a dos goles con San Cristóbal y Nieves y conservó el liderato del grupo C del Nivel B de la Liga de Naciones de Concacaf. The post Cuba empata ante San Cristóbal y conserva liderato en Liga de Naciones first appeared on No",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/05/cuba-empata-ante-san-cristobal-y-conserva-liderato-en-liga-de-nacione/",
-      "destacada": true,
-      "tema": "empata",
-      "fecha": "Tue, 06 Oct 2026 00:24:19 +0000",
-      "id": 1
-    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
@@ -27,7 +14,7 @@
       "destacada": true,
       "tema": "salir",
       "fecha": "Mon, 05 Oct 2026 17:35:11 +0000",
-      "id": 2
+      "id": 1
     },
     {
       "categoria": "salud",
@@ -40,7 +27,7 @@
       "destacada": true,
       "tema": "presidenta",
       "fecha": "Mon, 05 Oct 2026 20:31:46 +0000",
-      "id": 3
+      "id": 2
     },
     {
       "categoria": "sociedad",
@@ -53,7 +40,7 @@
       "destacada": true,
       "tema": "justicia",
       "fecha": "Mon, 05 Oct 2026 12:35:24 +0000",
-      "id": 4
+      "id": 3
     },
     {
       "categoria": "politica",
@@ -66,7 +53,7 @@
       "destacada": true,
       "tema": "gobierno",
       "fecha": "Mon, 05 Oct 2026 17:37:21 +0000",
-      "id": 5
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -76,10 +63,10 @@
       "resumen": "Los aspirantes tienen hasta el jueves 8 y 15 de octubre para postularse, en función de la oferta deseada",
       "imagen_url": "https://static.14ymedio.com/clip/cc9ba5d6-a90e-4c67-a599-bebb9fd97134_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/ee-uu-vuelve-contratar-traves_1_1131545.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "vuelve",
       "fecha": "Mon, 05 Oct 2026 14:51:09 +0000",
-      "id": 6
+      "id": 5
     },
     {
       "categoria": "energia",
@@ -92,7 +79,111 @@
       "destacada": false,
       "tema": "tesoro",
       "fecha": "Mon, 05 Oct 2026 09:20:28 +0000",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Régimen dice que Cuba «no es ingenua» ante Trump y aumenta sus capacidades de defensa",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e135253-s27061-nid342044-regimen-dice-cuba-ingenua-trump-aumenta-sus",
+      "destacada": false,
+      "tema": "régimen",
+      "fecha": "Tue, 06 Oct 2026 03:05:18 +0200",
       "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Régimen cubano asegura que no hay negociaciones formales con EE.UU.: «Lo que tenemos son canales de comunicación»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e135253-s27061-nid342043-regimen-cubano-asegura-hay-negociaciones-formales",
+      "destacada": false,
+      "tema": "régimen",
+      "fecha": "Tue, 06 Oct 2026 02:37:12 +0200",
+      "id": 8
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Giro inesperado en Cuba: dólar y euro bajan al cierre de este lunes",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e135253-s27061-nid342041-giro-inesperado-cuba-dolar-euro-bajan-al-cierre-este",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Tue, 06 Oct 2026 02:17:33 +0200",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Laritza Camacho sobre los dirigentes en Cuba: «Deberían salir a protestar contra ellos mismos»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e197721-s27061-nid342040-laritza-camacho-dirigentes-cuba-deberian-salir",
+      "destacada": false,
+      "tema": "laritza",
+      "fecha": "Tue, 06 Oct 2026 02:10:26 +0200",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Frank Delgado pierde vuelo a La Habana y arremete contra Aeroméxico: «Que ponga robots»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e208933-s27061-nid342036-frank-delgado-pierde-vuelo-habana-arremete-contra",
+      "destacada": false,
+      "tema": "frank",
+      "fecha": "Tue, 06 Oct 2026 01:56:15 +0200",
+      "id": 11
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Freno judicial a multas migratorias millonarias de Trump: un cubano recibió una de 1,8 millones de dólares",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e208933-s27061-nid342038-freno-judicial-multas-migratorias-millonarias-trump",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Tue, 06 Oct 2026 01:44:30 +0200",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Madre de soldado muerto en unidad militar cubana denuncia que el MINFAR ignora sus peticiones de justicia tras 13 meses de lucha",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e197721-s27061-nid342039-madre-soldado-muerto-unidad-militar-cubana-denuncia",
+      "destacada": false,
+      "tema": "madre",
+      "fecha": "Tue, 06 Oct 2026 01:28:22 +0200",
+      "id": 13
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubana estrena pasaporte mexicano y lo compara con el cubano: «Ahora puedo cruzar fronteras con menos obstáculos»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e208933-s27061-nid342035-cubana-estrena-pasaporte-mexicano-compara-cubano",
+      "destacada": false,
+      "tema": "cubana",
+      "fecha": "Tue, 06 Oct 2026 01:15:41 +0200",
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -105,7 +196,7 @@
       "destacada": false,
       "tema": "asesinato",
       "fecha": "Tue, 06 Oct 2026 01:09:53 +0200",
-      "id": 8
+      "id": 15
     },
     {
       "categoria": "politica",
@@ -118,7 +209,7 @@
       "destacada": false,
       "tema": "atlantic",
       "fecha": "Mon, 05 Oct 2026 22:15:11 +0200",
-      "id": 9
+      "id": 16
     },
     {
       "categoria": "economia",
@@ -131,7 +222,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 05 Oct 2026 20:27:39 +0200",
-      "id": 10
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -144,7 +235,7 @@
       "destacada": false,
       "tema": "etecsa",
       "fecha": "Mon, 05 Oct 2026 19:24:17 +0200",
-      "id": 11
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -157,7 +248,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 05 Oct 2026 19:02:41 +0200",
-      "id": 12
+      "id": 19
     },
     {
       "categoria": "politica",
@@ -170,7 +261,7 @@
       "destacada": false,
       "tema": "denunciar",
       "fecha": "Mon, 05 Oct 2026 18:49:07 +0200",
-      "id": 13
+      "id": 20
     },
     {
       "categoria": "transporte",
@@ -183,7 +274,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Mon, 05 Oct 2026 18:01:04 +0200",
-      "id": 14
+      "id": 21
     },
     {
       "categoria": "economia",
@@ -196,7 +287,7 @@
       "destacada": false,
       "tema": "precio",
       "fecha": "Mon, 05 Oct 2026 17:30:00 +0200",
-      "id": 15
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -209,7 +300,20 @@
       "destacada": false,
       "tema": "asamblea",
       "fecha": "Mon, 05 Oct 2026 14:12:16 +0200",
-      "id": 16
+      "id": 23
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La libertad es una librería",
+      "resumen": "El verso de Joan Margarit, “La libertad es una librería”, da título a este podcast cuyo sentido es el de animar a la lectura y a crearnos una librería itinerante que viaje en nosotros. Esta quinta temporada tratará de libros sobre la gran literatura, cubana y universal.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480239.html",
+      "destacada": false,
+      "tema": "libertad",
+      "fecha": "Mon, 05 Oct 2026 23:00:00 -0400",
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -222,46 +326,7 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Mon, 05 Oct 2026 21:00:00 -0400",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Obispo y clero episcopal de Cuba piden a las autoridades escuchar el clamor del pueblo",
-      "resumen": "En una carta, los religiosos denuncian las penurias de la población y expresan solidaridad con Ana Bensi y su madre.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/obispo-y-clero-episcopal-de-cuba-piden-a-las-autoridades-escuchar-el-clamor-del-pueblo/481385.html",
-      "destacada": false,
-      "tema": "obispo",
-      "fecha": "Mon, 05 Oct 2026 20:23:28 -0400",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 8:00 PM",
-      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480231.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Mon, 05 Oct 2026 20:00:00 -0400",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Acusan de propaganda contra el orden constitucional al pastor que protestó en el Capitolio",
-      "resumen": "Ariel Limias se encuentra incomunicado en el cuartel general de la policía política en La Habana tras su detención el pasado viernes.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/enfrenta-cargos-por-propaganda-contra-el-orden-constitucional-el-pastor-detenido-tras-manifestaci%c3%b3n-en-el-capitolio-de-la-habana/481344.html",
-      "destacada": false,
-      "tema": "acusan",
-      "fecha": "Mon, 05 Oct 2026 18:40:06 -0400",
-      "id": 20
+      "id": 25
     },
     {
       "categoria": "transporte",
@@ -274,7 +339,7 @@
       "destacada": false,
       "tema": "cambia",
       "fecha": "Tue, 06 Oct 2026 00:30:40 +0000",
-      "id": 21
+      "id": 26
     },
     {
       "categoria": "energia",
@@ -287,7 +352,7 @@
       "destacada": false,
       "tema": "concede",
       "fecha": "Mon, 05 Oct 2026 23:33:12 +0000",
-      "id": 22
+      "id": 27
     },
     {
       "categoria": "politica",
@@ -300,7 +365,7 @@
       "destacada": false,
       "tema": "mantienen",
       "fecha": "Mon, 05 Oct 2026 22:58:26 +0000",
-      "id": 23
+      "id": 28
     },
     {
       "categoria": "energia",
@@ -313,7 +378,7 @@
       "destacada": false,
       "tema": "etecsa",
       "fecha": "Mon, 05 Oct 2026 22:38:56 +0000",
-      "id": 24
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -326,7 +391,7 @@
       "destacada": false,
       "tema": "fiesta",
       "fecha": "Mon, 05 Oct 26 07:51:00 +0200",
-      "id": 25
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -339,7 +404,7 @@
       "destacada": false,
       "tema": "propaganda",
       "fecha": "Mon, 05 Oct 26 07:17:00 +0200",
-      "id": 26
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -352,7 +417,7 @@
       "destacada": false,
       "tema": "otaola",
       "fecha": "Mon, 05 Oct 26 07:15:00 +0200",
-      "id": 27
+      "id": 32
     },
     {
       "categoria": "salud",
@@ -365,7 +430,7 @@
       "destacada": false,
       "tema": "médicos",
       "fecha": "Mon, 05 Oct 26 06:39:00 +0200",
-      "id": 28
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -378,7 +443,7 @@
       "destacada": false,
       "tema": "presentan",
       "fecha": "Mon, 05 Oct 26 06:34:00 +0200",
-      "id": 29
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -391,7 +456,20 @@
       "destacada": false,
       "tema": "vivos",
       "fecha": "Mon, 05 Oct 26 06:33:00 +0200",
-      "id": 30
+      "id": 35
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://actualidad.rt.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La dura realidad con la que se topó un latinoamericano al llegar a Europa: \"Vendí todo para venir\"",
+      "resumen": "El hombre emprendió una nueva vida con todos sus ahorros, convencido de que encontraría trabajo rápidamente. Sin embargo, sus primeros días estuvieron muy lejos de lo que había imaginado.",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac445d559bf5b662161c2c5.png",
+      "enlace_original": "https://actualidad-rt.com/actualidad/631105-dura-realidad-topo-latinoamericano-llegar?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Tue, 06 Oct 2026 03:08:33 +0000",
+      "id": 36
     }
   ]
 }
