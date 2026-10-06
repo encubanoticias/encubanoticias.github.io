@@ -794,3 +794,10 @@ body.oscuro .modal-caja h3 { color: #7EB6FF; }
   color: #fff !important;
   border: 2px solid #002A8F !important;
 }
+.voto-btn.activo,
+.voto-btn.activo:hover {
+  background: #002A8F !important;
+  color: #fff !important;
+  border: 2px solid #002A8F !important;
+  box-shadow: 0 0 0 2px rgba(0,42,143,0.2);
+}
