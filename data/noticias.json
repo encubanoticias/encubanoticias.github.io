@@ -1,20 +1,85 @@
 {
   "fecha": "2026-10-06",
-  "hora": "21:04",
-  "total": 43,
+  "hora": "23:04",
+  "total": 49,
   "noticias": [
     {
       "categoria": "politica",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "«Criterio Compartido»: La atención a personas y segmentos de mayor vulnerabilidad en Cuba",
-      "resumen": "La propuesta estará dedicada a reflexionar sobre los esfuerzos que desarrolla el país dirigidos a la atención a personas y segmentos de mayor vulnerabilidad",
+      "titulo": "«¡Y cuando un pueblo enérgico y viril llora, la injusticia tiembla!» (+ Video)",
+      "resumen": "Discurso pronunciado por el Comandante en Jefe Fidel Castro Ruz, Primer Secretario del Comité Central del Partido Comunista de Cuba y Primer Ministro del Gobierno Revolucionario, en el acto de despedida de duelo de las víctimas del avión de Cubana destruido en pleno vuelo, el 6 de octubre, efectuado",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-06/criterio-compartido-la-atencion-a-personas-y-segmentos-de-mayor-vulnerabilidad-en-cuba-06-10-2026-12-10-54",
+      "enlace_original": "http://www.granma.cu/cien-con-fidel/2026-10-06/y-cuando-un-pueblo-energico-y-viril-llora-la-injusticia-tiembla-video-06-10-2026-03-10-38",
       "destacada": true,
-      "tema": "criterio",
-      "fecha": "Tue, 06 Oct 2026 12:10:54 -0400",
+      "tema": "pueblo",
+      "fecha": "Tue, 06 Oct 2026 03:10:38 -0400",
       "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La ironía de una «amenaza»",
+      "resumen": "Cuba es un país que ha perdido a 3 478 de sus hijos mientras otros 2 099 viven con discapacidad a causa de bombas que llegaron desde el norte. Detrás de cada número hay una familia partida en dos. En tanto, como incomprensible y absurda ironía: Cuba es señalada como amenaza y patrocinadora del terro",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/opinion/2026-10-06/la-ironia-de-una-amenaza-06-10-2026-03-10-42",
+      "destacada": true,
+      "tema": "ironía",
+      "fecha": "Tue, 06 Oct 2026 03:10:42 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La cicatriz que no borra el tiempo",
+      "resumen": "Cincuenta años después, la marca indeleble del atentado sigue latente. En la noche de ayer, la juventud cubana recordó a las 73 víctimas del crimen en Barbados con una vigilia. Hoy continúa el homenaje de nuestro pueblo",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-06/la-cicatriz-que-no-borra-el-tiempo-06-10-2026-03-10-16",
+      "destacada": true,
+      "tema": "cicatriz",
+      "fecha": "Tue, 06 Oct 2026 03:10:16 -0400",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba reitera la condena el terrorismo en todas sus formas y manifestaciones",
+      "resumen": "«Se cumplen 50 años del acto terrorista que destruyó un avión de Cubana con 73 vidas a bordo, la mayoría jóvenes, que regresaban a la Patria rebosantes de medallas y alegría por ganarlo todo en Centroamericano de esgrima», recordó, este martes, a través de X, el Primer Secretario del Comité Central ",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-06/cuba-reitera-la-condena-el-terrorismo-en-todas-sus-formas-y-manifestaciones-06-10-2026-17-10-20",
+      "destacada": true,
+      "tema": "reitera",
+      "fecha": "Tue, 06 Oct 2026 17:10:20 -0400",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La injusticia que pesa como una eterna deuda",
+      "resumen": "Cada 6 de octubre, Cuba revive el dolor de aquel día: el nudo en la garganta, el abrazo multiplicado, la ausencia que se sienta a la mesa. Mientras haya memoria y la justicia siga pendiente, Barbados seguirá doliendo",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-06/la-injusticia-que-pesa-como-una-eterna-deuda-06-10-2026-03-10-55",
+      "destacada": true,
+      "tema": "injusticia",
+      "fecha": "Tue, 06 Oct 2026 03:10:55 -0400",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Sigue inmaculado el pitcheo de los Cocodrilos",
+      "resumen": "Matanzas, Sancti Spiritus y Santiago de Cuba son los invictos de la Serie Nacional 65",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-06/sigue-inmaculado-el-pitcheo-de-los-cocodrilos-06-10-2026-17-10-03",
+      "destacada": false,
+      "tema": "sigue",
+      "fecha": "Tue, 06 Oct 2026 17:10:03 -0400",
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -24,101 +89,23 @@
       "resumen": "Septiembre dejó una escuela que permanece abierta y activa, pero también mostró cuánto cuesta sostenerla en las actuales circunstancias de bloqueo recrudecido",
       "imagen_url": "",
       "enlace_original": "http://www.granma.cu/cuba/2026-10-06/como-ha-transcurrido-el-primer-mes-de-clases-en-la-educacion-general-06-10-2026-02-10-19",
-      "destacada": true,
+      "destacada": false,
       "tema": "transcurrido",
       "fecha": "Tue, 06 Oct 2026 02:10:19 -0400",
-      "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Reportan sismo perceptible en Guantánamo y Santiago de Cuba: magnitud preliminar 3.3 y profundidad 24 km",
-      "resumen": "Un sismo perceptible fue registrado a las 9:21 am del día de hoy, con una magnitud preliminar de 3.3, una profundidad de 24 km. Se recibieron reportes de perceptibilidad de las ciudades de Guantánamo y Santiago de Cuba",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-06/reportan-sismo-perceptible-en-guantanamo-y-santiago-de-cuba-magnitud-preliminar-33-y-profundidad-24-km-06-10-2026-16-10-57",
-      "destacada": true,
-      "tema": "reportan",
-      "fecha": "Tue, 06 Oct 2026 16:10:57 -0400",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cintio Vitier: la columna que el tiempo no ha podido derribar",
-      "resumen": "La obra del poeta y ensayista cubano sigue iluminando el pensamiento intelectual de la isla caribeña",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-06/cintio-vitier-la-columna-que-el-tiempo-no-ha-podido-derribar-06-10-2026-16-10-51",
-      "destacada": true,
-      "tema": "cintio",
-      "fecha": "Tue, 06 Oct 2026 16:10:51 -0400",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba y Vietnam fortalecen cooperación en el ámbito campesino",
-      "resumen": "La colaboración entre ambos países en materia agrícola forma parte de unos vínculos construidos sobre bases históricas",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-06/cuba-y-vietnam-fortalecen-cooperacion-en-el-ambito-campesino-06-10-2026-16-10-04",
-      "destacada": true,
-      "tema": "vietnam",
-      "fecha": "Tue, 06 Oct 2026 16:10:04 -0400",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Los favoritos de la Serie 65",
-      "resumen": "Analizamos cuáles son los equipos con mayores posibilidades de avanzar en la temporada beisbolera cubana",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-10-06/los-favoritos-de-la-serie-65-06-10-2026-03-10-35",
-      "destacada": false,
-      "tema": "favoritos",
-      "fecha": "Tue, 06 Oct 2026 03:10:35 -0400",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "El pueblo cubano y el estadounidense: ¿víctimas colaterales del genocidio?",
-      "resumen": "Apoyados en leyes subversivas, los enemigos de la Isla basan el castigo colectivo en una mentira que tratan de globalizar",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-06/el-pueblo-cubano-y-el-estadounidense-victimas-colaterales-del-genocidio-06-10-2026-03-10-42",
-      "destacada": false,
-      "tema": "pueblo",
-      "fecha": "Tue, 06 Oct 2026 03:10:42 -0400",
       "id": 7
     },
     {
-      "categoria": "transporte",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cámara de Guatemala exige despejar nuevos bloqueos de carreteras",
-      "resumen": "Ciudad de Guatemala, 6 oct (Prensa Latina) La Cámara del Agro de Guatemala exigió hoy a las autoridades actuar de inmediato ante nuevos bloqueos de vías protagonizados en al menos tres puntos por militares en situación de retiro. The post Cámara de Guatemala exige despejar nuevos bloqueos de carrete",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/06/camara-de-guatemala-exige-despejar-nuevos-bloqueos-de-carreteras/",
-      "destacada": false,
-      "tema": "cámara",
-      "fecha": "Tue, 06 Oct 2026 20:41:54 +0000",
-      "id": 8
-    },
-    {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Homenaje del deporte cubano a víctimas de Barbados",
-      "resumen": "La Habana, 6 oct (Prensa Latina) El movimiento deportivo cubano homenajeó hoy a las víctimas del Crimen de Barbados, a 50 años del atentado terrorista que segó la vida de un equipo completo de esgrima, entre otras personas. The post Homenaje del deporte cubano a víctimas de Barbados first appeared o",
+      "titulo": "Gallos y Avispas extienden vuelo perfecto el béisbol cubano",
+      "resumen": "La Habana, 6 oct (Prensa Latina) Los Gallos de Sancti Spíritus y las Avispas de Santiago de Cuba conservaron hoy su paso perfecto, al hilvanar sus terceras victorias en la 65 Serie Nacional de Béisbol de Cuba. The post Gallos y Avispas extienden vuelo perfecto el béisbol cubano first appeared on Not",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/06/homenaje-del-deporte-cubano-a-victimas-de-barbados/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/06/gallos-y-avispas-extienden-vuelo-perfecto-el-beisbol-cubano/",
       "destacada": false,
-      "tema": "homenaje",
-      "fecha": "Tue, 06 Oct 2026 20:01:15 +0000",
-      "id": 9
+      "tema": "gallos",
+      "fecha": "Tue, 06 Oct 2026 22:55:42 +0000",
+      "id": 8
     },
     {
       "categoria": "politica",
@@ -131,7 +118,33 @@
       "destacada": false,
       "tema": "frontera",
       "fecha": "Tue, 06 Oct 2026 18:25:55 +0000",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Las autoridades dilatan el proceso contra Henry Constantín, quien cumple 20 días preso",
+      "resumen": "El Observatorio Cubano de Derechos Humanos registra en septiembre más de 340 actos represivos",
+      "imagen_url": "https://static.14ymedio.com/clip/e7120913-b68c-45fb-b209-95b9673e71bf_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/autoridades-dilatan-henry-proceso-constantin_1_1131611.html",
+      "destacada": false,
+      "tema": "autoridades",
+      "fecha": "Tue, 06 Oct 2026 20:54:34 +0000",
       "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Proliferan en Cuba los niños que limpian parabrisas a cambio de una limosna",
+      "resumen": "Los menores se precipitan a los vehículos para ofrecer limpiar los parabrisas y espejos a motos, triciclos y autos",
+      "imagen_url": "https://static.14ymedio.com/clip/0829b5b9-9ff1-4079-8cfa-ffb63b2ca85d_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/proliferan-cuba-ninos-limpian-parabrisas_1_1131620.html",
+      "destacada": false,
+      "tema": "proliferan",
+      "fecha": "Tue, 06 Oct 2026 21:07:27 +0000",
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -144,20 +157,20 @@
       "destacada": false,
       "tema": "comunican",
       "fecha": "Tue, 06 Oct 2026 10:01:19 +0000",
-      "id": 11
+      "id": 12
     },
     {
-      "categoria": "salud",
+      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Médicos sudafricanos formados en Cuba no encuentran trabajo al regresar a su país",
-      "resumen": "Al menos 24 egresados del programa Nelson Mandela-Fidel Castro siguen desempleados en Cabo Oriental y las autoridades lo atribuyen a problemas de presupuesto",
-      "imagen_url": "https://static.14ymedio.com/clip/136e8fee-edf8-455d-a607-a5c6b42acd89_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/medicos-sudafricanos-formados-cuba-no_1_1131600.html",
+      "titulo": "Un ajedrecista cubano conquista una medalla de oro para Ecuador",
+      "resumen": "Eddy Ernesto Enrique Hernández es uno de los nueve competidores de la Isla que defendió otra bandera en la pasada Olimpiada",
+      "imagen_url": "https://static.14ymedio.com/clip/5a107e71-1120-46d7-9496-2e6a507f4f7b_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/deportes/ajedrecista-cubano-conquista-medalla-oro_1_1131613.html",
       "destacada": false,
-      "tema": "médicos",
-      "fecha": "Tue, 06 Oct 2026 15:32:07 +0000",
-      "id": 12
+      "tema": "ajedrecista",
+      "fecha": "Tue, 06 Oct 2026 20:52:41 +0000",
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -170,7 +183,7 @@
       "destacada": false,
       "tema": "iglesia",
       "fecha": "Tue, 06 Oct 2026 10:06:14 +0000",
-      "id": 13
+      "id": 14
     },
     {
       "categoria": "energia",
@@ -183,59 +196,72 @@
       "destacada": false,
       "tema": "tesoro",
       "fecha": "Mon, 05 Oct 2026 09:20:28 +0000",
-      "id": 14
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El Gobierno promete arroz, azúcar y granos para 883.000 cubanos hasta enero",
-      "resumen": "El primer ministro, Manuel Marrero, admite en el ‘podcast’ de Díaz-Canel que los efectos de las 176 reformas “aún no se aprecian en la calidad de vida de la población”",
-      "imagen_url": "https://static.14ymedio.com/clip/fb3d5837-eea5-4bc2-aefa-45a69895efa8_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/gobierno-promete-arroz-azucar-granos_1_1131557.html",
-      "destacada": false,
-      "tema": "gobierno",
-      "fecha": "Mon, 05 Oct 2026 17:37:21 +0000",
       "id": 15
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Encuesta de Vanderbilt: tres de cada cuatro cubanos culpan al régimen de la crisis y casi seis de cada diez prefieren vínculos con EE.UU. a la independencia",
+      "titulo": "La ONU renueva por dos años la misión que investiga crímenes en Venezuela; Cuba votó en contra",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e197721-s27061-nid342105-encuesta-vanderbilt-tres-cada-cuatro-cubanos-culpan",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e199894-s27061-nid342118-onu-renueva-dos-anos-mision-investiga-crimenes",
       "destacada": false,
-      "tema": "encuesta",
-      "fecha": "Tue, 06 Oct 2026 21:17:34 +0200",
+      "tema": "renueva",
+      "fecha": "Tue, 06 Oct 2026 23:55:40 +0200",
       "id": 16
     },
     {
-      "categoria": "sociedad",
+      "categoria": "politica",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Padre soltero con tres hijos denuncia que lo amenazan con cárcel si no abandona un local en La Habana",
+      "titulo": "Hija del creador del Trofin denuncia a Díaz-Canel por el abandono de jubilados en Cuba: «Los han matado en vida»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e199370-s27061-nid342094-padre-soltero-tres-hijos-denuncia-amenazan-carcel",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e13-s27061-nid342115-hija-creador-trofin-denuncia-diaz-canel-abandono",
       "destacada": false,
-      "tema": "padre",
-      "fecha": "Tue, 06 Oct 2026 20:17:29 +0200",
+      "tema": "creador",
+      "fecha": "Tue, 06 Oct 2026 23:50:58 +0200",
       "id": 17
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Llega a Cuba nuevo cargamento de ayuda humanitaria de Estados Unidos",
+      "titulo": "Renunciar a la ciudadanía cubana desde el exterior: requisitos, costo, plazos y por qué el régimen puede rechazar la solicitud",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e135253-s27061-nid342091-llega-cuba-nuevo-cargamento-ayuda-humanitaria",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e13-s27061-nid342116-renunciar-ciudadania-cubana-exterior-requisitos-costo",
       "destacada": false,
-      "tema": "llega",
-      "fecha": "Tue, 06 Oct 2026 19:50:14 +0200",
+      "tema": "renunciar",
+      "fecha": "Tue, 06 Oct 2026 23:47:10 +0200",
       "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Detienen en el aeropuerto de Miami a un cubano que llegó de La Habana con 10 pájaros vivos ocultos en la ropa interior",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e208933-s27061-nid342107-detienen-aeropuerto-miami-cubano-llego-habana-10",
+      "destacada": false,
+      "tema": "detienen",
+      "fecha": "Tue, 06 Oct 2026 23:20:08 +0200",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Qué pasa en la embajada de Cuba en Seúl? La Habana retira de golpe a la mitad de sus diplomáticos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-06-u1-e129488-s27061-nid341976-pasa-embajada-cuba-seul-habana-retira-golpe-mitad",
+      "destacada": false,
+      "tema": "embajada",
+      "fecha": "Tue, 06 Oct 2026 23:17:02 +0200",
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -248,7 +274,7 @@
       "destacada": false,
       "tema": "nuevo",
       "fecha": "Tue, 06 Oct 2026 22:55:36 +0200",
-      "id": 19
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -261,7 +287,7 @@
       "destacada": false,
       "tema": "demostrada",
       "fecha": "Tue, 06 Oct 2026 20:55:48 +0200",
-      "id": 20
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -274,7 +300,7 @@
       "destacada": false,
       "tema": "nefasto",
       "fecha": "Tue, 06 Oct 2026 19:32:07 +0200",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -287,7 +313,7 @@
       "destacada": false,
       "tema": "mercados",
       "fecha": "Tue, 06 Oct 2026 18:00:14 +0200",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "programa",
       "fecha": "Tue, 06 Oct 2026 15:39:22 +0200",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "medicinas",
       "fecha": "Tue, 06 Oct 2026 15:01:14 +0200",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -326,7 +352,7 @@
       "destacada": false,
       "tema": "españa",
       "fecha": "Tue, 06 Oct 2026 13:38:25 +0200",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -339,7 +365,7 @@
       "destacada": false,
       "tema": "necesita",
       "fecha": "Tue, 06 Oct 2026 13:06:48 +0200",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -352,7 +378,59 @@
       "destacada": false,
       "tema": "elaine",
       "fecha": "Tue, 06 Oct 2026 13:05:46 +0200",
-      "id": 27
+      "id": 29
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al día",
+      "resumen": "Manuel Marrero se contradice y deja al régimen cubano al descubierto.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/481417.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Tue, 06 Oct 2026 17:38:12 -0400",
+      "id": 30
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Habana sin agua: averías y apagones agravan la crisis del suministro",
+      "resumen": "En la capital se repiten las imágenes de personas cargando tanques, cubos y cualquier recipiente disponible, mientras otras corren detrás de las pipas que llegan a determinados barrios para intentar conseguir un poco de agua.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/la-habana-sin-agua-aver%c3%adas-y-apagones-agravan-la-crisis-del-suministro/481416.html",
+      "destacada": false,
+      "tema": "habana",
+      "fecha": "Tue, 06 Oct 2026 17:31:55 -0400",
+      "id": 31
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Caída de ETECSA paraliza Nauta, Transfermóvil y las transacciones electrónicas en la mayor parte de Cuba",
+      "resumen": "La caída de servicios clave de ETECSA, como Nauta y Transfermóvil, mantiene paralizadas la conectividad telefónica y las transacciones electrónicas en Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/ca%c3%adda-de-etecsa-paraliza-nauta-transferm%c3%b3vil-y-las-transacciones-electr%c3%b3nicas-en-la-mayor-parte-de-cuba/481413.html",
+      "destacada": false,
+      "tema": "caída",
+      "fecha": "Tue, 06 Oct 2026 17:10:31 -0400",
+      "id": 32
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 5:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480304.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Tue, 06 Oct 2026 17:00:30 -0400",
+      "id": 33
     },
     {
       "categoria": "energia",
@@ -365,7 +443,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Tue, 06 Oct 2026 16:05:30 -0400",
-      "id": 28
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -378,7 +456,7 @@
       "destacada": false,
       "tema": "ludia",
       "fecha": "Tue, 06 Oct 2026 16:52:09 +0000",
-      "id": 29
+      "id": 35
     },
     {
       "categoria": "politica",
@@ -391,7 +469,7 @@
       "destacada": false,
       "tema": "pueblo",
       "fecha": "Tue, 06 Oct 2026 14:59:05 +0000",
-      "id": 30
+      "id": 36
     },
     {
       "categoria": "economia",
@@ -404,7 +482,7 @@
       "destacada": false,
       "tema": "mercado",
       "fecha": "Tue, 06 Oct 2026 14:50:34 +0000",
-      "id": 31
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -417,7 +495,7 @@
       "destacada": false,
       "tema": "sismo",
       "fecha": "Tue, 06 Oct 2026 14:09:21 +0000",
-      "id": 32
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -430,7 +508,7 @@
       "destacada": false,
       "tema": "valery",
       "fecha": "Tue, 06 Oct 2026 16:26:05 +0000",
-      "id": 33
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -443,7 +521,7 @@
       "destacada": false,
       "tema": "estará",
       "fecha": "Tue, 06 Oct 26 13:58:00 +0200",
-      "id": 34
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -456,7 +534,7 @@
       "destacada": false,
       "tema": "presentaciones",
       "fecha": "Tue, 06 Oct 26 09:25:00 +0200",
-      "id": 35
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -469,7 +547,7 @@
       "destacada": false,
       "tema": "cuentas",
       "fecha": "Tue, 06 Oct 26 09:07:00 +0200",
-      "id": 36
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -482,7 +560,7 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Tue, 06 Oct 26 09:07:00 +0200",
-      "id": 37
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -495,7 +573,7 @@
       "destacada": false,
       "tema": "bilbao",
       "fecha": "Tue, 06 Oct 26 09:02:00 +0200",
-      "id": 38
+      "id": 44
     },
     {
       "categoria": "economia",
@@ -508,7 +586,7 @@
       "destacada": false,
       "tema": "nuevas",
       "fecha": "Tue, 06 Oct 26 08:40:00 +0200",
-      "id": 39
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -521,7 +599,7 @@
       "destacada": false,
       "tema": "veces",
       "fecha": "Tue, 06 Oct 26 08:35:00 +0200",
-      "id": 40
+      "id": 46
     },
     {
       "categoria": "transporte",
@@ -534,7 +612,7 @@
       "destacada": false,
       "tema": "autoriza",
       "fecha": "Tue, 06 Oct 26 08:25:00 +0200",
-      "id": 41
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -547,7 +625,7 @@
       "destacada": false,
       "tema": "avanza",
       "fecha": "Tue, 06 Oct 2026 14:42:55 +0000",
-      "id": 42
+      "id": 48
     },
     {
       "categoria": "transporte",
@@ -560,7 +638,7 @@
       "destacada": false,
       "tema": "crimen",
       "fecha": "Tue, 06 Oct 2026 12:15:00 +0000",
-      "id": 43
+      "id": 49
     }
   ]
 }
