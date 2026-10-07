@@ -1,6 +1,6 @@
 {
   "fecha": "2026-10-07",
-  "hora": "19:07",
+  "hora": "21:06",
   "total": 61,
   "noticias": [
     {
@@ -17,6 +17,19 @@
       "id": 1
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El triatlón cubano en la ruta panamericana",
+      "resumen": "Alejandro Rodríguez y Leslie Amat participarán en la Copa Continental de Santa Fe",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-07/el-triatlon-cubano-en-la-ruta-panamericana-07-10-2026-16-10-39",
+      "destacada": true,
+      "tema": "triatlón",
+      "fecha": "Wed, 07 Oct 2026 16:10:39 -0400",
+      "id": 2
+    },
+    {
       "categoria": "politica",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
@@ -27,7 +40,7 @@
       "destacada": true,
       "tema": "pueblo",
       "fecha": "Tue, 06 Oct 2026 03:10:38 -0400",
-      "id": 2
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -40,20 +53,20 @@
       "destacada": true,
       "tema": "ironía",
       "fecha": "Tue, 06 Oct 2026 03:10:42 -0400",
-      "id": 3
+      "id": 4
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "La mayoría del pueblo estadounidense no apoya el uso de la fuerza militar contra Cuba",
-      "resumen": "«Solo el 17 % de los ciudadanos estadounidenses favorece el uso de la fuerza militar para supuestamente \"tomar el control de Cuba\", según una encuesta de The Economist/YouGov»",
+      "titulo": "Diorges Escobar representará a Cuba en mundial de gimnasia artística",
+      "resumen": "Llega tras unas semanas contratado en un club de Sao Paulo, Brasil",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-07/la-mayoria-del-pueblo-estadounidense-no-apoya-el-uso-de-la-fuerza-militar-contra-cuba-07-10-2026-13-10-11",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-07/diorges-escobar-representara-a-cuba-en-mundial-de-gimnasia-artistica-07-10-2026-16-10-28",
       "destacada": true,
-      "tema": "mayoría",
-      "fecha": "Wed, 07 Oct 2026 13:10:11 -0400",
-      "id": 4
+      "tema": "diorges",
+      "fecha": "Wed, 07 Oct 2026 16:10:28 -0400",
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -63,10 +76,10 @@
       "resumen": "Cincuenta años después, la marca indeleble del atentado sigue latente. En la noche de ayer, la juventud cubana recordó a las 73 víctimas del crimen en Barbados con una vigilia. Hoy continúa el homenaje de nuestro pueblo",
       "imagen_url": "",
       "enlace_original": "http://www.granma.cu/cuba/2026-10-06/la-cicatriz-que-no-borra-el-tiempo-06-10-2026-03-10-16",
-      "destacada": true,
+      "destacada": false,
       "tema": "cicatriz",
       "fecha": "Tue, 06 Oct 2026 03:10:16 -0400",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -79,20 +92,33 @@
       "destacada": false,
       "tema": "injusticia",
       "fecha": "Tue, 06 Oct 2026 03:10:55 -0400",
-      "id": 6
+      "id": 7
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Destacan resolución de apoyo a Cuba aprobada por diputados en Italia",
+      "resumen": "Roma, 7 oct (Prensa Latina) La secretaria general del Partido Democrático (PD) de Italia, Elly Schlein, destacó hoy la aprobación en la Comisión de Asuntos Exteriores de la Cámara de Diputados de una resolución de apoyo a Cuba presentada por su formación política. The post Destacan resolución de apo",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/07/destacan-resolucion-de-apoyo-a-cuba-aprobada-por-diputados-en-italia/",
+      "destacada": false,
+      "tema": "destacan",
+      "fecha": "Wed, 07 Oct 2026 20:44:51 +0000",
+      "id": 8
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba recibe respaldo solidario desde Córcega",
-      "resumen": "París, 7 oct (Prensa Latina) Cuba amplió hoy su respaldo solidario en Francia, ahora desde Córcega, donde la edición de este año del festival Terre Corse está dedicado a la isla y su resistencia contra el bloqueo genocida estadounidense. The post Cuba recibe respaldo solidario desde Córcega first ap",
+      "titulo": "Síntesis de Cuba",
+      "resumen": "SÍNTESIS DE CUBA PARA EMISORAS DE RADIO Y TV, PERIÓDICOS Y REVISTAS The post Síntesis de Cuba first appeared on Noticias Prensa Latina.",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/07/cuba-recibe-respaldo-solidario-desde-corcega/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/07/sintesis-de-cuba-592/",
       "destacada": false,
-      "tema": "recibe",
-      "fecha": "Wed, 07 Oct 2026 18:42:00 +0000",
-      "id": 7
+      "tema": "síntesis",
+      "fecha": "Wed, 07 Oct 2026 20:24:47 +0000",
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -105,7 +131,7 @@
       "destacada": false,
       "tema": "bloqueó",
       "fecha": "Wed, 07 Oct 2026 17:36:25 +0000",
-      "id": 8
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -118,7 +144,7 @@
       "destacada": false,
       "tema": "habrá",
       "fecha": "Wed, 07 Oct 2026 16:27:00 +0000",
-      "id": 9
+      "id": 11
     },
     {
       "categoria": "economia",
@@ -131,7 +157,7 @@
       "destacada": false,
       "tema": "estado",
       "fecha": "Wed, 07 Oct 2026 12:37:12 +0000",
-      "id": 10
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -144,7 +170,7 @@
       "destacada": false,
       "tema": "talento",
       "fecha": "Wed, 07 Oct 2026 17:54:21 +0000",
-      "id": 11
+      "id": 13
     },
     {
       "categoria": "transporte",
@@ -157,7 +183,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Wed, 07 Oct 2026 15:10:36 +0000",
-      "id": 12
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -170,7 +196,7 @@
       "destacada": false,
       "tema": "cuatro",
       "fecha": "Wed, 07 Oct 2026 08:48:17 +0000",
-      "id": 13
+      "id": 15
     },
     {
       "categoria": "politica",
@@ -183,7 +209,7 @@
       "destacada": false,
       "tema": "frontera",
       "fecha": "Tue, 06 Oct 2026 18:25:55 +0000",
-      "id": 14
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -196,7 +222,7 @@
       "destacada": false,
       "tema": "proliferan",
       "fecha": "Tue, 06 Oct 2026 21:07:27 +0000",
-      "id": 15
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -209,20 +235,33 @@
       "destacada": false,
       "tema": "comunican",
       "fecha": "Tue, 06 Oct 2026 10:01:19 +0000",
-      "id": 16
+      "id": 18
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Las autoridades dilatan el proceso contra Henry Constantín, quien cumple 20 días preso",
-      "resumen": "El Observatorio Cubano de Derechos Humanos registra en septiembre más de 340 actos represivos",
-      "imagen_url": "https://static.14ymedio.com/clip/e7120913-b68c-45fb-b209-95b9673e71bf_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/autoridades-dilatan-henry-proceso-constantin_1_1131611.html",
+      "titulo": "EE.UU. investiga quién está detrás de los envíos ilegales de combustible a Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-07-u1-e199894-s27061-nid342225-eeuu-investiga-quien-esta-detras-envios-ilegales",
       "destacada": false,
-      "tema": "autoridades",
-      "fecha": "Tue, 06 Oct 2026 20:54:34 +0000",
-      "id": 17
+      "tema": "investiga",
+      "fecha": "Wed, 07 Oct 2026 20:58:59 +0200",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Ana Hurtado juega a la épica de guerra con la vida de los cubanos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-07-u1-e207888-s27061-nid342210-ana-hurtado-juega-epica-guerra-vida-cubanos",
+      "destacada": false,
+      "tema": "hurtado",
+      "fecha": "Wed, 07 Oct 2026 20:41:18 +0200",
+      "id": 20
     },
     {
       "categoria": "energia",
@@ -235,7 +274,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Wed, 07 Oct 2026 20:20:26 +0200",
-      "id": 18
+      "id": 21
     },
     {
       "categoria": "salud",
@@ -248,59 +287,7 @@
       "destacada": false,
       "tema": "uruguay",
       "fecha": "Wed, 07 Oct 2026 20:15:54 +0200",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Delta despidió a 15 trabajadores en Miami tras investigar posibles irregularidades en vuelos a Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-07-u1-e208933-s27061-nid342213-delta-despidio-15-trabajadores-miami-tras-investigar",
-      "destacada": false,
-      "tema": "delta",
-      "fecha": "Wed, 07 Oct 2026 20:05:20 +0200",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Bruno Rodríguez cita encuesta favorable al régimen, pero silencia la voz de los propios cubanos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-07-u1-e207888-s27061-nid342202-bruno-rodriguez-cita-encuesta-favorable-al-regimen",
-      "destacada": false,
-      "tema": "bruno",
-      "fecha": "Wed, 07 Oct 2026 19:51:31 +0200",
-      "id": 21
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Adolescentes cubanos comparten su merienda con un hombre necesitado",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-07-u1-e199370-s27061-nid342214-adolescentes-cubanos-comparten-merienda-hombre",
-      "destacada": false,
-      "tema": "adolescentes",
-      "fecha": "Wed, 07 Oct 2026 19:44:44 +0200",
       "id": 22
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Emprendedora: «La mayor dificultad que atraviesan los negocios privados en Cuba es política»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-07-u1-e208933-s27061-nid342205-emprendedora-mayor-dificultad-atraviesan-negocios",
-      "destacada": false,
-      "tema": "emprendedora",
-      "fecha": "Wed, 07 Oct 2026 19:44:09 +0200",
-      "id": 23
     },
     {
       "categoria": "politica",
@@ -313,7 +300,72 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Wed, 07 Oct 2026 12:03:20 +0000",
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Crecer en Inclusión: un proyecto para transformar el acceso al empleo digno en Cuba",
+      "resumen": "El Ministerio de Trabajo y Seguridad Social (MTTS), junto al Ministerio de Educación (Mined), Fondo de las Naciones Unidas para la Infancia (Unicef) y las diferentes asociaciones de personas en situación de discapacidad, presentó este 7 de octubre —Día Mundial del Trabajo Decente— una iniciativa que",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261007/crecer-en-inclusion-un-proyecto-para-transformar-el-acceso-al-empleo-digno-en-cuba/",
+      "destacada": false,
+      "tema": "crecer",
+      "fecha": "Wed, 07 Oct 2026 20:07:18 +0000",
       "id": 24
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Chequea vicepresidente cubano estrategia de Epicol para implementación de transformaciones",
+      "resumen": "Salvador Valdés Mesa, vicepresidente de la República de Cuba chequeó en la Empresa Pesquera Industrial La Coloma (Epicol) la estrategia de la entidad para la implementación de las 176 medidas que buscan dinamizar la economía",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261007/chequea-vicepresidente-cubano-estrategia-de-epicol-para-implementacion-de-transformaciones/",
+      "destacada": false,
+      "tema": "chequea",
+      "fecha": "Wed, 07 Oct 2026 19:39:13 +0000",
+      "id": 25
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "En La Victoria la tierra aprende a hablar",
+      "resumen": "Ricardo Serrano Masquida convirtió 40 hectáreas de Bayamo en un laboratorio donde la ciencia y la inventiva campesina demuestran que el frutal cubano puede renacer",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261007/en-la-victoria-la-tierra-aprende-a-hablar/",
+      "destacada": false,
+      "tema": "victoria",
+      "fecha": "Wed, 07 Oct 2026 19:20:17 +0000",
+      "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Pesistas cubanos persiguen nueva meta",
+      "resumen": "El Campeonato Continental de Mayores con sede en México les ha permitido ya apuntarse algunas preseas que no solo tributan tranquilidad, sino que demuestran que la ruta marcha bien",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261007/pesistas-cubanos-persiguen-nueva-meta/",
+      "destacada": false,
+      "tema": "pesistas",
+      "fecha": "Wed, 07 Oct 2026 16:37:04 +0000",
+      "id": 27
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Bajo vigilancia de la Seguridad del Estado, Hammer visita a Anna Bensi y 'toma nota' del hostigamiento",
+      "resumen": "Bajo vigilancia de la Seguridad del Estado, Mike Hammer visita a Anna Bensi y \"toma nota\" del hostigamiento. #EEUU denuncia la \"represión para perseguir y silenciar a los cubanos de a pie que ejercen la libertad de expresión\".",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791406341_69294.html",
+      "destacada": false,
+      "tema": "vigilancia",
+      "fecha": "Wed, 07 Oct 2026 22:52:21 +0200",
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -326,7 +378,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Wed, 07 Oct 2026 21:00:39 +0200",
-      "id": 25
+      "id": 29
     },
     {
       "categoria": "salud",
@@ -339,7 +391,7 @@
       "destacada": false,
       "tema": "uruguay",
       "fecha": "Wed, 07 Oct 2026 20:46:04 +0200",
-      "id": 26
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -352,7 +404,7 @@
       "destacada": false,
       "tema": "intercepta",
       "fecha": "Wed, 07 Oct 2026 19:08:43 +0200",
-      "id": 27
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -365,7 +417,7 @@
       "destacada": false,
       "tema": "renueva",
       "fecha": "Wed, 07 Oct 2026 18:15:04 +0200",
-      "id": 28
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -378,7 +430,7 @@
       "destacada": false,
       "tema": "justicia",
       "fecha": "Wed, 07 Oct 2026 18:00:44 +0200",
-      "id": 29
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -391,7 +443,7 @@
       "destacada": false,
       "tema": "vocera",
       "fecha": "Wed, 07 Oct 2026 15:37:16 +0200",
-      "id": 30
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -404,7 +456,7 @@
       "destacada": false,
       "tema": "creador",
       "fecha": "Wed, 07 Oct 2026 14:29:47 +0200",
-      "id": 31
+      "id": 35
     },
     {
       "categoria": "politica",
@@ -417,7 +469,7 @@
       "destacada": false,
       "tema": "hambre",
       "fecha": "Wed, 07 Oct 2026 13:00:47 +0200",
-      "id": 32
+      "id": 36
     },
     {
       "categoria": "energia",
@@ -430,98 +482,98 @@
       "destacada": false,
       "tema": "pemex",
       "fecha": "Wed, 07 Oct 2026 11:32:13 +0200",
-      "id": 33
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Brasil y Uruguay ganan terreno como destino para los cubanos, que dejan atrás el Darién",
-      "resumen": "La #EmigraciónCubana hacia #EEUU por Centroamérica pierde fuerza; #Brasil y #Uruguay se consolidan como destinos para quienes buscan salir de la Isla. Estos son los datos de la #OIM.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791364323_69284.html",
-      "destacada": false,
-      "tema": "brasil",
-      "fecha": "Wed, 07 Oct 2026 11:12:03 +0200",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Más de 200 hombres en riesgo de contraer tuberculosis en prisión de Santiago de Cuba",
-      "resumen": "Al menos tres destacamentos de la Prisión de Boniato, en Santiago de Cuba, están en cuarentena tras detectarse probables casos de tuberculosis.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/m%c3%a1s-de-200-hombres-en-riesgo-de-contraer-tuberculosis-en-prisi%c3%b3n-de-santiago-de-cuba/481473.html",
-      "destacada": false,
-      "tema": "hombres",
-      "fecha": "Wed, 07 Oct 2026 15:07:28 -0400",
-      "id": 35
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las noticias como son",
-      "resumen": "José Luis Ramos en tertulia con Reinaldo Escobar y Alejandro Tur Valladares, comentan sobre la incautación de combustible a Cuba evadiendo sanciones de Estados Unidos. También otras noticias de actualidad.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/las-noticias-como-son/481476.html",
-      "destacada": false,
-      "tema": "noticias",
-      "fecha": "Wed, 07 Oct 2026 15:05:29 -0400",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Oficina de Transmisiones a Cuba rompe récord con 12 nominaciones a los Emmy regionales",
-      "resumen": "La Oficina de Transmisiones a Cuba (OCB) logró un récord histórico de 12 nominaciones a los Suncoast Regional Emmy Awards 2026, en reconocimiento al trabajo de su equipo de Radio y Televisión Martí en categorías que abarcan política, cultura, ciencia, educación e interés humano.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/oficina-de-transmisiones-a-cuba-rompe-r%c3%a9cord-con-12-nominaciones-a-los-emmy-regionales/481474.html",
-      "destacada": false,
-      "tema": "oficina",
-      "fecha": "Wed, 07 Oct 2026 14:58:04 -0400",
       "id": 37
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
+      "titulo": "Noticiero de Radio Martí 5:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480404.html",
+      "enlace_original": "https://www.martinoticias.com/a/480416.html",
       "destacada": false,
-      "tema": "",
-      "fecha": "Wed, 07 Oct 2026 14:00:00 -0400",
+      "tema": "noticiero",
+      "fecha": "Wed, 07 Oct 2026 17:00:30 -0400",
       "id": 38
     },
     {
-      "categoria": "sociedad",
+      "categoria": "economia",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "“El Pollo” Carvajal: Fidel Castro envió 20 mil agentes cubanos a Venezuela",
-      "resumen": "Un borrador de memorias atribuido a Hugo Carvajal Barrios, exjefe de la inteligencia militar venezolana, reaviva las denuncias sobre la magnitud de la infiltración cubana en Venezuela al afirmar que Fidel Castro introdujo con aval de Hugo Chávez a más de 20 mil agentes en el país.",
+      "titulo": "\"Es casi imposible comprar\": cubanos sobre Mercados de Barrio, el nuevo experimento del régimen (VIDEO)",
+      "resumen": "El desmontaje del sistema de bodegas estatales y la libreta de racionamiento con la apertura de los llamados Mercados de Barrio no cambia nada. Los nuevos precios siguen siendo inalcanzables para buena parte de la población, golpeada por una aguda crisis económica y una pobreza creciente.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/el-pollo-carvajal-fidel-castro-envi%c3%b3-20-mil-agentes-cubanos-a-venezuela/481472.html",
+      "enlace_original": "https://www.martinoticias.com/a/es-casi-imposible-comprar-cubanos-sobre-mercados-de-barrio-el-nuevo-experimento-del-r%c3%a9gimen-video/481480.html",
       "destacada": false,
-      "tema": "pollo",
-      "fecha": "Wed, 07 Oct 2026 13:56:33 -0400",
+      "tema": "imposible",
+      "fecha": "Wed, 07 Oct 2026 16:57:52 -0400",
       "id": 39
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Las Noticias Como Son",
+      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480410.html",
+      "destacada": false,
+      "tema": "noticias",
+      "fecha": "Wed, 07 Oct 2026 16:05:30 -0400",
+      "id": 40
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Incendio destruye una vivienda en La Habana",
-      "resumen": "“El dueño de la vivienda se encontraba afuera con su esposa”, explicó el activista. “Lo que sí fue pérdida total la vivienda”.",
+      "titulo": "Noticiero Martí Noticias",
+      "resumen": "Noticiero de Martí Noticias presenta un resumen de las noticias más importantes de Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/incendio-destruye-una-vivienda-en-la-habana/481471.html",
+      "enlace_original": "https://www.martinoticias.com/a/noticiero-mart%c3%ad-noticias/481470.html",
       "destacada": false,
-      "tema": "incendio",
-      "fecha": "Wed, 07 Oct 2026 13:12:49 -0400",
-      "id": 40
+      "tema": "noticiero",
+      "fecha": "Wed, 07 Oct 2026 16:04:45 -0400",
+      "id": 41
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El futuro es ya",
+      "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/el-futuro-es-ya/481464.html",
+      "destacada": false,
+      "tema": "futuro",
+      "fecha": "Wed, 07 Oct 2026 16:01:45 -0400",
+      "id": 42
+    },
+    {
+      "categoria": "salud",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Canarias denuncia un bloqueo total que impide el envío de alimentos y medicamentos a Cuba",
+      "resumen": "El Gobierno de Canarias no puede enviar actualmente contenedores de alimentos y medicamentos a la comunidad canaria en Cuba debido a un “bloqueo total” y busca nuevas vías para mantener la ayuda. La denuncia refleja las trabas que enfrenta la isla para recibir cooperación internacional, en un contex",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/07/canarias-denuncia-un-bloqueo-total-que-impide-el-envio-de-alimentos-y-medicamentos-a-cuba/",
+      "destacada": false,
+      "tema": "canarias",
+      "fecha": "Wed, 07 Oct 2026 20:06:46 +0000",
+      "id": 43
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "\"Cuba sufre un genocidio sin bombas para mostrar que no hay alternativa a este sistema neoliberal\": Irene Montero, europarlamentaria de The Left por Podemos",
+      "resumen": "La eurodiputada Irene Montero, en el marco del evento recién celebrado \"Cuba sí, bloqueo no\" organizado por el grupo parlamentario The Left en entrevista para Cubainformación denunció que el bloqueo de EE.UU contra Cuba constituye un “genocidio silencioso” y reclamó a la UE y a los Estados miembros ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/07/cuba-sufre-un-genocidio-sin-bombas-para-mostrar-que-no-hay-alternativa-a-este-sistema-neoliberal-irene-montero-europarlamentaria-de-the-left-por-podemos/",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Wed, 07 Oct 2026 19:35:44 +0000",
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -534,7 +586,7 @@
       "destacada": false,
       "tema": "lectores",
       "fecha": "Wed, 07 Oct 2026 17:34:21 +0000",
-      "id": 41
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -547,20 +599,7 @@
       "destacada": false,
       "tema": "gallos",
       "fecha": "Wed, 07 Oct 2026 15:15:22 +0000",
-      "id": 42
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Díaz-Canel en Criterio Compartido: La vocación humanista de la Revolución es atender a todos y defender la equidad",
-      "resumen": "El Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, protagonizó este miércoles 7 de octubre la segunda emisión de Criterio Compartido. Durante la emisión se trataron planteamientos sobre vulnerabilidad, discapacidad, servici",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/07/criterio-compartido-diaz-canel-llama-a-escuchar-al-pueblo-y-atender-con-prioridad-a-las-personas-vulnerables/",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Wed, 07 Oct 2026 13:23:37 +0000",
-      "id": 43
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -573,7 +612,7 @@
       "destacada": false,
       "tema": "valery",
       "fecha": "Tue, 06 Oct 2026 16:26:05 +0000",
-      "id": 44
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -586,7 +625,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Wed, 07 Oct 26 08:10:00 +0200",
-      "id": 45
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -599,7 +638,7 @@
       "destacada": false,
       "tema": "negreros",
       "fecha": "Wed, 07 Oct 26 08:09:00 +0200",
-      "id": 46
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -612,7 +651,7 @@
       "destacada": false,
       "tema": "habría",
       "fecha": "Wed, 07 Oct 26 08:08:00 +0200",
-      "id": 47
+      "id": 50
     },
     {
       "categoria": "salud",
@@ -625,7 +664,7 @@
       "destacada": false,
       "tema": "festa",
       "fecha": "Wed, 07 Oct 26 07:58:00 +0200",
-      "id": 48
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -638,7 +677,7 @@
       "destacada": false,
       "tema": "convocada",
       "fecha": "Wed, 07 Oct 26 06:52:00 +0200",
-      "id": 49
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -651,7 +690,7 @@
       "destacada": false,
       "tema": "cristo",
       "fecha": "Wed, 07 Oct 26 06:27:00 +0200",
-      "id": 50
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -664,7 +703,7 @@
       "destacada": false,
       "tema": "programa",
       "fecha": "Wed, 07 Oct 26 06:23:00 +0200",
-      "id": 51
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -677,7 +716,7 @@
       "destacada": false,
       "tema": "contra",
       "fecha": "Wed, 07 Oct 26 06:21:00 +0200",
-      "id": 52
+      "id": 55
     },
     {
       "categoria": "politica",
@@ -690,7 +729,7 @@
       "destacada": false,
       "tema": "rinde",
       "fecha": "Wed, 07 Oct 26 06:17:00 +0200",
-      "id": 53
+      "id": 56
     },
     {
       "categoria": "politica",
@@ -703,7 +742,20 @@
       "destacada": false,
       "tema": "crimen",
       "fecha": "Wed, 07 Oct 26 06:12:00 +0200",
-      "id": 54
+      "id": 57
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.guerrillero.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Chequea Valdés Mesa producción de alimentos en Pinar del Río",
+      "resumen": "Durante la visita a Epicol, Salvador Valdés Mesa, estuvo en el área donde se realizan inversiones para retomar la exportación de langostas vivas Durante dos días el vicepresidente de la República de Cuba, Salvador Valdés Mesa, chequeó la producción de alimentos en la provincia; en la Empresa Pesquer",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/chequea-valdes-mesa-produccion-de-alimentos-en-pinar-del-rio/",
+      "destacada": false,
+      "tema": "chequea",
+      "fecha": "Wed, 07 Oct 2026 18:14:00 +0000",
+      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -716,7 +768,7 @@
       "destacada": false,
       "tema": "constituida",
       "fecha": "Wed, 07 Oct 2026 19:00:02 +0000",
-      "id": 55
+      "id": 59
     },
     {
       "categoria": "transporte",
@@ -729,7 +781,7 @@
       "destacada": false,
       "tema": "rinde",
       "fecha": "Wed, 07 Oct 2026 18:31:10 +0000",
-      "id": 56
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -742,58 +794,6 @@
       "destacada": false,
       "tema": "vigilia",
       "fecha": "Wed, 07 Oct 2026 19:02:07 +0000",
-      "id": 57
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Premio Aldabón 2026 recae en joven escritora matancera",
-      "resumen": "La jornada por el Premio Aldabón 2026, desarrollada los días 4 y 5 de octubre, reafirmó a Matanzas como uno de los epicentros creativos más prolíficos de la literatura cubana actual.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/07/premio-aldabon-2026-recae-en-joven-escritora-matancera/",
-      "destacada": false,
-      "tema": "premio",
-      "fecha": "Wed, 07 Oct 2026 14:29:34 +0000",
-      "id": 58
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barbados: memoria que permanece en Unión de Reyes",
-      "resumen": "La memoria de las víctimas del sabotaje al vuelo CU-455 de Cubana de Aviación estuvo presente en un matutino especial desarrollado en el politécnico Elpidio Berovides, en Unión de Reyes.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/07/barbados-memoria-permanece-en-union-de-reyes/",
-      "destacada": false,
-      "tema": "barbados",
-      "fecha": "Wed, 07 Oct 2026 12:29:00 +0000",
-      "id": 59
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Embarazo adolescente: A tiempo de escribir otro futuro",
-      "resumen": "El embarazo adolescente y las infecciones de transmisión sexual no son fenómenos aislados ni simples asuntos de Salud Pública en la Cuba de hoy. Constituyen, en cambio, síntomas de una realidad social más profunda que interpela a familias, escuelas, comunidades e instituciones.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/07/embarazo-adolescente-a-tiempo-de-escribir-otro-futuro/",
-      "destacada": false,
-      "tema": "embarazo",
-      "fecha": "Wed, 07 Oct 2026 11:58:00 +0000",
-      "id": 60
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Avanza Matanzas en cambio de matriz energética de las telecomunicaciones",
-      "resumen": "Gustavo Montesino Reyes, director de la división territorial de la Empresa de Telecomunicaciones de Cuba (Etecsa) en Matanzas, brindó en conferencia de prensa información sobre el panorama general presente en la provincia, así como una actualización del cambio de la matriz energética, alternativa de",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/06/avanza-matanzas-cambio-matriz-energetica-telecomunicaciones/",
-      "destacada": false,
-      "tema": "avanza",
-      "fecha": "Tue, 06 Oct 2026 14:42:55 +0000",
       "id": 61
     }
   ]
