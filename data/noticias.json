@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-07",
-  "hora": "05:06",
-  "total": 49,
+  "hora": "07:08",
+  "total": 54,
   "noticias": [
     {
       "categoria": "politica",
@@ -267,6 +267,19 @@
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
+      "titulo": "El Tribunal de Camagüey devuelve a la Fiscalía el caso del periodista Henry Constantin, pero sigue preso",
+      "resumen": "Sin dar razones a la defensa, el Tribunal Municipal de #Camagüey devolvió a la Fiscalía el expediente del periodista independiente cubano #Henry Constantin, quien sigue preso y sin juicio.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1791352257_69283.html",
+      "destacada": false,
+      "tema": "tribunal",
+      "fecha": "Wed, 07 Oct 2026 07:50:57 +0200",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
       "titulo": "Trabajos de 'mantenimiento eléctrico' dejan sin agua a buena parte de La Habana",
       "resumen": "Seis municipios de #LaHabana quedan sin #agua por trabajos de mantenimiento eléctrico. Las autoridades prometen que las labores mejorarán el servicio, pero su historial de deficiencias genera desconfianza en los habaneros.",
       "imagen_url": "",
@@ -274,7 +287,7 @@
       "destacada": false,
       "tema": "trabajos",
       "fecha": "Wed, 07 Oct 2026 01:13:33 +0200",
-      "id": 21
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -287,7 +300,7 @@
       "destacada": false,
       "tema": "nuevo",
       "fecha": "Tue, 06 Oct 2026 22:55:36 +0200",
-      "id": 22
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -300,7 +313,7 @@
       "destacada": false,
       "tema": "demostrada",
       "fecha": "Tue, 06 Oct 2026 20:55:48 +0200",
-      "id": 23
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -313,7 +326,7 @@
       "destacada": false,
       "tema": "nefasto",
       "fecha": "Tue, 06 Oct 2026 19:32:07 +0200",
-      "id": 24
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -326,7 +339,7 @@
       "destacada": false,
       "tema": "mercados",
       "fecha": "Tue, 06 Oct 2026 18:00:14 +0200",
-      "id": 25
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -339,7 +352,7 @@
       "destacada": false,
       "tema": "programa",
       "fecha": "Tue, 06 Oct 2026 15:39:22 +0200",
-      "id": 26
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -352,7 +365,7 @@
       "destacada": false,
       "tema": "medicinas",
       "fecha": "Tue, 06 Oct 2026 15:01:14 +0200",
-      "id": 27
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -365,7 +378,7 @@
       "destacada": false,
       "tema": "españa",
       "fecha": "Tue, 06 Oct 2026 13:38:25 +0200",
-      "id": 28
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -378,19 +391,6 @@
       "destacada": false,
       "tema": "necesita",
       "fecha": "Tue, 06 Oct 2026 13:06:48 +0200",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Elaine Acosta: Cuba necesita 'un cambio político' para enfrentar el envejecimiento y la pobreza",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/foro-ddc/1791284746_69273.html",
-      "destacada": false,
-      "tema": "elaine",
-      "fecha": "Tue, 06 Oct 2026 13:05:46 +0200",
       "id": 30
     },
     {
@@ -527,6 +527,58 @@
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
+      "titulo": "Trump redobla la amenaza contra Cuba (parte 2) | Miami en llamas",
+      "resumen": "Jóvenes en Revolución",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125357-trump-redobla-la-amenaza-contra-cuba-parte-2-miami-en-llamas.jpg?t=1791353424",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261007/125357/125357-trump-redobla-la-amenaza-contra-cuba-parte-2-miami-en-llamas",
+      "destacada": false,
+      "tema": "trump",
+      "fecha": "Wed, 07 Oct 26 08:10:00 +0200",
+      "id": 41
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "En Cuba: de negreros y esclavistas a respetables capitalistas...",
+      "resumen": "Pensar la Historia con Eliades Acosta",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125356-en-cuba-de-negreros-y-esclavistas-a-respetables-capitalistas.jpg?t=1791353386",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261007/125356/125356-en-cuba-de-negreros-y-esclavistas-a-respetables-capitalistas",
+      "destacada": false,
+      "tema": "negreros",
+      "fecha": "Wed, 07 Oct 26 08:09:00 +0200",
+      "id": 42
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Qué habría pasado tras la llegada de Baby Lores a Cuba? Duro precedente para quienes destilan odio",
+      "resumen": "Guerrero Cubano con su verdad al desnudo",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125355-que-habria-pasado-tras-la-llegada-de-baby-lores-a-cuba-duro-precedente-para-quienes-destilan-odio.jpg?t=1791353293",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261007/125355/125355-que-habria-pasado-tras-la-llegada-de-baby-lores-a-cuba-duro-precedente-para-quienes-destilan-odio",
+      "destacada": false,
+      "tema": "habría",
+      "fecha": "Wed, 07 Oct 26 08:08:00 +0200",
+      "id": 43
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "19ª Festa de la Solidaritat amb Cub recaudará fondos para instalar placas fotovoltaicas en centros de salud de Santiago de Cuba: Mollet del Vallès, viernes 16 de octubre",
+      "resumen": "Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125354-19a-festa-de-la-solidaritat-amb-cub-recaudara-fondos-para-instalar-placas-fotovoltaicas-en-centros-de-salud-de-santiago-de-cuba-mollet-del-valles-viernes-16-de-octubre.jpg?t=1791352985",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261007/125354/125354-19a-festa-de-la-solidaritat-amb-cub-recaudara-fondos-para-instalar-placas-fotovoltaicas-en-centros-de-salud-de-santiago-de-cuba-mollet-del-valles-viernes-16-de-octubre",
+      "destacada": false,
+      "tema": "festa",
+      "fecha": "Wed, 07 Oct 26 07:58:00 +0200",
+      "id": 44
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
       "titulo": "Convocada Brigada Nórdica de Solidaridad con Cuba, dedicada a Fidel: 23 de noviembre al 6 de diciembre (plazo 6 noviembre)",
       "resumen": "Cubainformación - Foto: Radio Cadena Agramonte. ...",
       "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125353-convocada-brigada-nordica-de-solidaridad-con-cuba-dedicada-a-fidel-23-de-noviembre-al-6-de-diciembre-plazo-6-noviembre.jpg?t=1791348766",
@@ -534,7 +586,7 @@
       "destacada": false,
       "tema": "convocada",
       "fecha": "Wed, 07 Oct 26 06:52:00 +0200",
-      "id": 41
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -547,7 +599,7 @@
       "destacada": false,
       "tema": "cristo",
       "fecha": "Wed, 07 Oct 26 06:27:00 +0200",
-      "id": 42
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -560,7 +612,7 @@
       "destacada": false,
       "tema": "programa",
       "fecha": "Wed, 07 Oct 26 06:23:00 +0200",
-      "id": 43
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -573,7 +625,7 @@
       "destacada": false,
       "tema": "contra",
       "fecha": "Wed, 07 Oct 26 06:21:00 +0200",
-      "id": 44
+      "id": 48
     },
     {
       "categoria": "politica",
@@ -586,7 +638,7 @@
       "destacada": false,
       "tema": "crimen",
       "fecha": "Wed, 07 Oct 26 06:12:00 +0200",
-      "id": 45
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -599,46 +651,59 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 07 Oct 26 02:00:00 +0200",
-      "id": 46
+      "id": 50
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
+      "fuente": "https://www.guerrillero.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba estará presente en el &quot;Homenaje a los pueblos que resisten al imperialismo, el fascismo y el sionismo&quot;: Madrid, 14 de octubre",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125345-cuba-estara-presente-en-el-homenaje-a-los-pueblos-que-resisten-al-imperialismo-el-fascismo-y-el-sionismo-madrid-14-de-octubre.jpg?t=1791288165",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261006/125345/125345-cuba-estara-presente-en-el-homenaje-a-los-pueblos-que-resisten-al-imperialismo-el-fascismo-y-el-sionismo-madrid-14-de-octubre",
+      "titulo": "La Habana se prepara para la edición 47 del Festival Internacional del Nuevo Cine Latinoamericano",
+      "resumen": "La edición 47 del Festival Internacional del Nuevo Cine Latinoamericano (FINCL) se iniciará en La Habana el próximo 3 de diciembre, y en esta ocasión Brasil será el país foco, lo que permitirá un mayor acercamiento a la historia, trascendencia y actualidad de la cinematografía del gigante sudamerica",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/la-habana-se-prepara-para-la-edicion-47-del-festival-internacional-del-nuevo-cine-latinoamericano/",
       "destacada": false,
-      "tema": "estará",
-      "fecha": "Tue, 06 Oct 26 13:58:00 +0200",
-      "id": 47
+      "tema": "habana",
+      "fecha": "Mon, 05 Oct 2026 12:32:11 +0000",
+      "id": 51
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.guerrillero.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "La pelota, otra vez, viva y en juego",
+      "resumen": "En el estadio Victoria de Girón de Matanzas comenzó este domingo la Serie Nacional de Beisbol 65. El partido inaugural entre el equipo local y Cienfuegos dio inicio a un campeonato que representa un reto colosal para todos los factores involucrados. Las limitaciones que nos impone el brutal bloqueo ",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/la-pelota-otra-vez-viva-y-en-juego/",
+      "destacada": false,
+      "tema": "pelota",
+      "fecha": "Mon, 05 Oct 2026 12:29:58 +0000",
+      "id": 52
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
+      "fuente": "https://giron.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "Presentaciones de &quot;Desbrozando caminos. Fidel y la conquista del tiempo&quot; de Hassan Pérez: 6 en Espejo, 7 en Málaga, 8 en Mairena del Alcor, 9 y 10 en Bilbao y 13 en Guillena",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125342-presentaciones-de-desbrozando-caminos-fidel-y-la-conquista-del-tiempo-de-hassan-perez-6-en-espejo-7-en-malaga-8-en-mairena-del-alcor-9-y-10-en-bilbao-y-13-en-guillena.jpg?t=1791271722",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261006/125342/125342-presentaciones-de-desbrozando-caminos-fidel-y-la-conquista-del-tiempo-de-hassan-perez-6-en-espejo-7-en-malaga-8-en-mairena-del-alcor-9-y-10-en-bilbao-y-13-en-guillena",
+      "titulo": "Avanza Matanzas en cambio de matriz energética de las telecomunicaciones",
+      "resumen": "Gustavo Montesino Reyes, director de la división territorial de la Empresa de Telecomunicaciones de Cuba (Etecsa) en Matanzas, brindó en conferencia de prensa información sobre el panorama general presente en la provincia, así como una actualización del cambio de la matriz energética, alternativa de",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/06/avanza-matanzas-cambio-matriz-energetica-telecomunicaciones/",
       "destacada": false,
-      "tema": "presentaciones",
-      "fecha": "Tue, 06 Oct 26 09:25:00 +0200",
-      "id": 48
+      "tema": "avanza",
+      "fecha": "Tue, 06 Oct 2026 14:42:55 +0000",
+      "id": 53
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
+      "categoria": "transporte",
+      "fuente": "https://giron.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "Pase de cuentas entre t3rror1stas. Amijail Sánchez destituye a Kiki Naranjo desde prisión en Cuba",
-      "resumen": "Guerrero Cubano con su verdad al desnudo",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125340-pase-de-cuentas-entre-t3rror1stas-amijail-sanchez-destituye-a-kiki-naranjo-desde-prision-en-cuba.jpg?t=1791270468",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261006/125340/125340-pase-de-cuentas-entre-t3rror1stas-amijail-sanchez-destituye-a-kiki-naranjo-desde-prision-en-cuba",
+      "titulo": "A 50 años del Crimen de Barbados: Matanzas recuerda a sus mártires y exige justicia",
+      "resumen": "Este 6 de octubre se cumplen 50 años del sabotaje al vuelo 455 de Cubana de Aviación, una de las páginas más dolorosas de la historia de la Isla. En Matanzas, como en toda Cuba, se recordó el crimen de Barbados con un acto de homenaje en las afueras del estadio Victoria de Girón.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/06/50-anos-crimen-de-barbados-matanzas-recuerda/",
       "destacada": false,
-      "tema": "cuentas",
-      "fecha": "Tue, 06 Oct 26 09:07:00 +0200",
-      "id": 49
+      "tema": "crimen",
+      "fecha": "Tue, 06 Oct 2026 12:15:00 +0000",
+      "id": 54
     }
   ]
 }
