@@ -1,8 +1,34 @@
 {
   "fecha": "2026-10-07",
-  "hora": "13:10",
-  "total": 53,
+  "hora": "16:10",
+  "total": 55,
   "noticias": [
+    {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Constata Valdés Mesa implementación de transformaciones en la mayor empresa pesquera del país",
+      "resumen": "El vicepresidente cubano se interesó por las ventas, los esquemas financieros, los encargos estatales; e insistió en la importancia de elevar las exportaciones",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-07/constata-valdes-mesa-implementacion-de-transformaciones-en-la-mayor-empresa-pesquera-del-pais-07-10-2026-09-10-54",
+      "destacada": true,
+      "tema": "constata",
+      "fecha": "Wed, 07 Oct 2026 09:10:54 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "«Cuba no se rinde, Cuba no se vende y Cuba no olvida»",
+      "resumen": "Sostuvo el Primer Secretario del Comité Central del Partido Comunista y Presidente de la República, Miguel Díaz-Canel Bermúdez, un encuentro con familiares y compañeros de las víctimas del crimen de Barbados y de otros atentados terroristas contra Cuba, jóvenes miembros del equipo nacional de esgrim",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-06/cuba-no-se-rinde-cuba-no-se-vende-y-cuba-no-olvida-06-10-2026-18-10-08",
+      "destacada": true,
+      "tema": "rinde",
+      "fecha": "Tue, 06 Oct 2026 18:10:08 -0400",
+      "id": 2
+    },
     {
       "categoria": "politica",
       "fuente": "https://www.granma.cu",
@@ -14,7 +40,20 @@
       "destacada": true,
       "tema": "pueblo",
       "fecha": "Tue, 06 Oct 2026 03:10:38 -0400",
-      "id": 1
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Bloquear a Cuba es bloquear también al mundo",
+      "resumen": "En el foro anual «Left Coast Forum» se debatió el acoso a países, organizaciones y personas que se solidarizan con Cuba",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-07/bloquear-a-cuba-es-bloquear-tambien-al-mundo-07-10-2026-09-10-21",
+      "destacada": true,
+      "tema": "bloquear",
+      "fecha": "Wed, 07 Oct 2026 09:10:21 -0400",
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -27,7 +66,20 @@
       "destacada": true,
       "tema": "ironía",
       "fecha": "Tue, 06 Oct 2026 03:10:42 -0400",
-      "id": 2
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Solo hay invictos en el Oriente",
+      "resumen": "Sancti Spíritus y Santiago de Cuba tienen balance de 3-0 en la Serie Nacional 65",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-07/solo-hay-invictos-en-el-oriente-07-10-2026-09-10-55",
+      "destacada": false,
+      "tema": "invictos",
+      "fecha": "Wed, 07 Oct 2026 09:10:55 -0400",
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -37,23 +89,10 @@
       "resumen": "Cincuenta años después, la marca indeleble del atentado sigue latente. En la noche de ayer, la juventud cubana recordó a las 73 víctimas del crimen en Barbados con una vigilia. Hoy continúa el homenaje de nuestro pueblo",
       "imagen_url": "",
       "enlace_original": "http://www.granma.cu/cuba/2026-10-06/la-cicatriz-que-no-borra-el-tiempo-06-10-2026-03-10-16",
-      "destacada": true,
+      "destacada": false,
       "tema": "cicatriz",
       "fecha": "Tue, 06 Oct 2026 03:10:16 -0400",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba reitera la condena el terrorismo en todas sus formas y manifestaciones",
-      "resumen": "«Se cumplen 50 años del acto terrorista que destruyó un avión de Cubana con 73 vidas a bordo, la mayoría jóvenes, que regresaban a la Patria rebosantes de medallas y alegría por ganarlo todo en Centroamericano de esgrima», recordó, este martes, a través de X, el Primer Secretario del Comité Central ",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-06/cuba-reitera-la-condena-el-terrorismo-en-todas-sus-formas-y-manifestaciones-06-10-2026-17-10-20",
-      "destacada": true,
-      "tema": "reitera",
-      "fecha": "Tue, 06 Oct 2026 17:10:20 -0400",
-      "id": 4
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -63,75 +102,23 @@
       "resumen": "Cada 6 de octubre, Cuba revive el dolor de aquel día: el nudo en la garganta, el abrazo multiplicado, la ausencia que se sienta a la mesa. Mientras haya memoria y la justicia siga pendiente, Barbados seguirá doliendo",
       "imagen_url": "",
       "enlace_original": "http://www.granma.cu/cuba/2026-10-06/la-injusticia-que-pesa-como-una-eterna-deuda-06-10-2026-03-10-55",
-      "destacada": true,
+      "destacada": false,
       "tema": "injusticia",
       "fecha": "Tue, 06 Oct 2026 03:10:55 -0400",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Sigue inmaculado el pitcheo de los Cocodrilos",
-      "resumen": "Matanzas, Sancti Spiritus y Santiago de Cuba son los invictos de la Serie Nacional 65",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-10-06/sigue-inmaculado-el-pitcheo-de-los-cocodrilos-06-10-2026-17-10-03",
-      "destacada": false,
-      "tema": "sigue",
-      "fecha": "Tue, 06 Oct 2026 17:10:03 -0400",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "¿Cómo ha transcurrido el primer mes de clases en la educación general?",
-      "resumen": "Septiembre dejó una escuela que permanece abierta y activa, pero también mostró cuánto cuesta sostenerla en las actuales circunstancias de bloqueo recrudecido",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-06/como-ha-transcurrido-el-primer-mes-de-clases-en-la-educacion-general-06-10-2026-02-10-19",
-      "destacada": false,
-      "tema": "transcurrido",
-      "fecha": "Tue, 06 Oct 2026 02:10:19 -0400",
-      "id": 7
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Bloqueo y crisis energética agravan problemas sociales: Díaz-Canel",
-      "resumen": "La Habana, 7 oct (Prensa Latina) El presidente de Cuba, Miguel Díaz-Canel, atribuyó hoy la crisis económica del país a la agresión multidimensional del gobierno de Estados Unidos, situación que, según el mandatario, agrava problemáticas sociales acumuladas desde el periodo especial. The post Bloqueo",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/07/bloqueo-y-crisis-energetica-agravan-problemas-sociales-diaz-canel/",
-      "destacada": false,
-      "tema": "bloqueo",
-      "fecha": "Wed, 07 Oct 2026 13:02:16 +0000",
       "id": 8
     },
     {
-      "categoria": "politica",
+      "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Presidente de Cuba llama a fortalecer la participación ciudadana",
-      "resumen": "La Habana, 7 oct (Prensa Latina) El presidente de Cuba, Miguel Díaz-Canel, insistió hoy en la importancia de promover la participación ciudadana y el control popular para enfrentar la situación actual del país. The post Presidente de Cuba llama a fortalecer la participación ciudadana first appeared ",
+      "titulo": "Proyecto impulsa inclusión sociolaboral de jóvenes en Cuba",
+      "resumen": "La Habana, 7 oct (Prensa Latina) Un nuevo proyecto promoverá la inclusión sociolaboral de adolescentes y jóvenes de 15 a 24 años en situación de vulnerabilidad en Cuba, con énfasis en mujeres y personas con discapacidad, trascendió hoy. The post Proyecto impulsa inclusión sociolaboral de jóvenes en ",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/07/presidente-de-cuba-llama-a-fortalecer-la-participacion-ciudadana/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/07/proyecto-impulsa-inclusion-sociolaboral-de-jovenes-en-cuba/",
       "destacada": false,
-      "tema": "presidente",
-      "fecha": "Wed, 07 Oct 2026 12:50:45 +0000",
+      "tema": "proyecto",
+      "fecha": "Wed, 07 Oct 2026 15:53:17 +0000",
       "id": 9
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Examina parlamento en Bolivia proyecto de ley antibloqueo de viales",
-      "resumen": "La Paz, 7 oct (Prensa Latina) La Comisión de Justicia Plural de la Cámara de Diputados de Bolivia dio su visto bueno a un proyecto de ley que sanciona los bloqueos de carreteras y caminos, divulgaron hoy medios televisivos. The post Examina parlamento en Bolivia proyecto de ley antibloqueo de viales",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/07/examina-parlamento-en-bolivia-proyecto-de-ley-antibloqueo-de-viales/",
-      "destacada": false,
-      "tema": "examina",
-      "fecha": "Wed, 07 Oct 2026 12:35:42 +0000",
-      "id": 10
     },
     {
       "categoria": "economia",
@@ -144,6 +131,19 @@
       "destacada": false,
       "tema": "estado",
       "fecha": "Wed, 07 Oct 2026 12:37:12 +0000",
+      "id": 10
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El Gobierno de Canarias asegura que no puede enviar \"ni un contenedor de alimentos\" a Cuba",
+      "resumen": "El viceconsejero de Acción Exterior lamenta que se haya perdido la interlocución con la Casa Canaria por \"falta de relevo generacional\"",
+      "imagen_url": "https://static.14ymedio.com/clip/c2cf002d-9545-4b70-971d-afc36d0f87f1_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/gobierno-canarias-asegura-no-enviar_1_1131645.html",
+      "destacada": false,
+      "tema": "gobierno",
+      "fecha": "Wed, 07 Oct 2026 15:10:36 +0000",
       "id": 11
     },
     {
@@ -226,45 +226,6 @@
     },
     {
       "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel desafía a Washington: «Cuba no se vende»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-07-u1-e199370-s27061-nid342154-diaz-canel-desafia-washington-cuba-vende",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Wed, 07 Oct 2026 12:56:17 +0200",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Marines de EE.UU. realizan evaluaciones de combate en Puerto Rico en medio de la presión sobre Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-07-u1-e207888-s27061-nid342158-marines-eeuu-realizan-evaluaciones-combate-puerto",
-      "destacada": false,
-      "tema": "marines",
-      "fecha": "Wed, 07 Oct 2026 12:45:30 +0200",
-      "id": 19
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubana denuncia leche condensada en mal estado vendida en tienda estatal en dólares en Pinar del Río",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-07-u1-e208933-s27061-nid342137-cubana-denuncia-leche-condensada-mal-estado-vendida",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Wed, 07 Oct 2026 04:37:32 +0200",
-      "id": 20
-    },
-    {
-      "categoria": "politica",
       "fuente": "https://www.radiocubana.cu",
       "fuente_tipo": "alternativa",
       "titulo": "Díaz-Canel participa en la segunda emisión de «Criterio Compartido» por Radio Rebelde",
@@ -274,7 +235,33 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Wed, 07 Oct 2026 12:03:20 +0000",
-      "id": 21
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Qué justicia puede esperar Henry Constantin tras la devolución de su expediente a la Fiscalía cubana?",
+      "resumen": "#AnálisisCuba: El experto en temas legales Edel González explica por qué la devolución del expediente de #HenryConstantin a la #Fiscalía va contra la igualdad y el derecho a la defensa. Existe una conexión entre esas devoluciones y el alto número de condenas en #Cuba. Lee la explicación aquí.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1791388844_69288.html",
+      "destacada": false,
+      "tema": "justicia",
+      "fecha": "Wed, 07 Oct 2026 18:00:44 +0200",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La vocera Gabriela Fernández se forma en derechos humanos en México tras negar los presos políticos en Cuba",
+      "resumen": "#SOSCuba: Dos años después de afirmar en #España que los manifestantes del #11JCuba cometieron delitos y estarían presos en cualquier parte del mundo, la vocera Gabriela Fernández cursa una Maestría de Derechos Humanos en México.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1791380236_69289.html",
+      "destacada": false,
+      "tema": "vocera",
+      "fecha": "Wed, 07 Oct 2026 15:37:16 +0200",
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -287,7 +274,7 @@
       "destacada": false,
       "tema": "creador",
       "fecha": "Wed, 07 Oct 2026 14:29:47 +0200",
-      "id": 22
+      "id": 21
     },
     {
       "categoria": "politica",
@@ -300,7 +287,7 @@
       "destacada": false,
       "tema": "hambre",
       "fecha": "Wed, 07 Oct 2026 13:00:47 +0200",
-      "id": 23
+      "id": 22
     },
     {
       "categoria": "energia",
@@ -313,7 +300,7 @@
       "destacada": false,
       "tema": "pemex",
       "fecha": "Wed, 07 Oct 2026 11:32:13 +0200",
-      "id": 24
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -326,7 +313,7 @@
       "destacada": false,
       "tema": "brasil",
       "fecha": "Wed, 07 Oct 2026 11:12:03 +0200",
-      "id": 25
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -339,7 +326,7 @@
       "destacada": false,
       "tema": "tribunal",
       "fecha": "Wed, 07 Oct 2026 07:50:57 +0200",
-      "id": 26
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -352,7 +339,7 @@
       "destacada": false,
       "tema": "trabajos",
       "fecha": "Wed, 07 Oct 2026 01:13:33 +0200",
-      "id": 27
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -365,7 +352,7 @@
       "destacada": false,
       "tema": "nuevo",
       "fecha": "Tue, 06 Oct 2026 22:55:36 +0200",
-      "id": 28
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -378,33 +365,72 @@
       "destacada": false,
       "tema": "demostrada",
       "fecha": "Tue, 06 Oct 2026 20:55:48 +0200",
-      "id": 29
+      "id": 28
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "'Un mes nefasto': más represión en septiembre en Cuba y la tendencia es 'ir a peor'",
-      "resumen": "El #OCDH registra 344 acciones represivas en #Cuba durante septiembre y alerta sobre un \"mes nefasto\" para la libertad de expresión y el periodismo independiente. La organización alerta de que la tendencia es \"ir a peor\".",
+      "titulo": "Noticiero de Radio Martí 12:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1791307927_69279.html",
+      "enlace_original": "https://www.martinoticias.com/a/480400.html",
       "destacada": false,
-      "tema": "nefasto",
-      "fecha": "Tue, 06 Oct 2026 19:32:07 +0200",
+      "tema": "noticiero",
+      "fecha": "Wed, 07 Oct 2026 12:00:00 -0400",
+      "id": 29
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EEUU incauta 90 cargamentos de combustible destinados a una entidad cubana sancionada",
+      "resumen": "Autoridades federales de EEUU incautaron y retuvieron 90 cargamentos de biodiésel, valorados en unos 2,8 millones de dólares, con destino a ENETEC S.A., entidad vinculada al gobierno cubano y sancionada por Washington.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/eeuu-incauta-90-cargamentos-de-combustible-destinados-a-una-entidad-cubana-sancionada/481465.html",
+      "destacada": false,
+      "tema": "incauta",
+      "fecha": "Wed, 07 Oct 2026 11:51:06 -0400",
       "id": 30
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba: mercados de barrio y Estado fallido",
-      "resumen": "El régimen de #Cuba anuncia su novedosa solución contra el #desabastecimiento: los #mercados de barrio.",
+      "titulo": "Barrio adentro",
+      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791302414_69262.html",
+      "enlace_original": "https://www.martinoticias.com/a/480398.html",
       "destacada": false,
-      "tema": "mercados",
-      "fecha": "Tue, 06 Oct 2026 18:00:14 +0200",
+      "tema": "barrio",
+      "fecha": "Wed, 07 Oct 2026 11:30:00 -0400",
       "id": 31
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Hammer visita a Anna Bensi y denuncia el hostigamiento del régimen cubano",
+      "resumen": "El jefe de misión de la Embajada de EEUU en Cuba, Mike Hammer, visitó a la creadora de contenido Anna Bensi para expresarle respaldo frente al hostigamiento del régimen cubano.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/hammer-visita-a-anna-bensi-y-denuncia-el-hostigamiento-del-r%c3%a9gimen-cubano/481462.html",
+      "destacada": false,
+      "tema": "hammer",
+      "fecha": "Wed, 07 Oct 2026 10:17:05 -0400",
+      "id": 32
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El futuro es ya",
+      "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480396.html",
+      "destacada": false,
+      "tema": "futuro",
+      "fecha": "Wed, 07 Oct 2026 10:00:00 -0400",
+      "id": 33
     },
     {
       "categoria": "politica",
@@ -417,7 +443,7 @@
       "destacada": false,
       "tema": "confirma",
       "fecha": "Wed, 07 Oct 2026 08:07:39 -0400",
-      "id": 32
+      "id": 34
     },
     {
       "categoria": "economia",
@@ -430,58 +456,32 @@
       "destacada": false,
       "tema": "martinoticias",
       "fecha": "Wed, 07 Oct 2026 08:00:00 -0400",
-      "id": 33
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba Habla: \"Para mi no tenía”",
-      "resumen": "Desde La Habana, joven madre asegura que deja de comer para que sus hijos coman.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-para-mi-no-ten%c3%ada/480966.html",
-      "destacada": false,
-      "tema": "habla",
-      "fecha": "Wed, 07 Oct 2026 07:00:00 -0400",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480393.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Wed, 07 Oct 2026 00:00:30 -0400",
       "id": 35
     },
     {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Una cadena de fallas médicas y un apagón acaban con la vida de un cubano en Palma Soriano",
-      "resumen": "En Palma Soriano, la muerte de Yosvany de la Fé Díaz saca a la luz la precariedad de un sistema de salud sin agua, sin insumos básicos y sin respaldo eléctrico para salvar vidas. ¿Hasta dónde llega la responsabilidad oficial cuando la falta de recursos se vuelve fatal?",
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Gallos y Avispas buscan hoy las primeras barridas de la Serie Nacional",
+      "resumen": "Los Gallos de Sancti Spíritus y Las Avispas de Santiago de Cuba, únicos invictos de la 65.ª Serie Nacional de Béisbol, buscarán hoy las primeras barridas del campeonato en una cuarta jornada que cerrará los duelos particulares de la semana. Ambos llegan con tres victorias sin derrotas y comparten el",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/una-cadena-de-fallas-m%c3%a9dicas-y-un-apag%c3%b3n-acaban-con-la-vida-de-un-cubano-en-palma-soriano/481418.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/07/gallos-y-avispas-buscan-hoy-las-primeras-barridas-de-la-serie-nacional/",
       "destacada": false,
-      "tema": "cadena",
-      "fecha": "Tue, 06 Oct 2026 20:15:03 -0400",
+      "tema": "gallos",
+      "fecha": "Wed, 07 Oct 2026 15:15:22 +0000",
       "id": 36
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 8:00 PM",
-      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Díaz-Canel en Criterio Compartido: La vocación humanista de la Revolución es atender a todos y defender la equidad",
+      "resumen": "El Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, protagonizó este miércoles 7 de octubre la segunda emisión de Criterio Compartido. Durante la emisión se trataron planteamientos sobre vulnerabilidad, discapacidad, servici",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480310.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/07/criterio-compartido-diaz-canel-llama-a-escuchar-al-pueblo-y-atender-con-prioridad-a-las-personas-vulnerables/",
       "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Tue, 06 Oct 2026 20:00:00 -0400",
+      "tema": "canel",
+      "fecha": "Wed, 07 Oct 2026 13:23:37 +0000",
       "id": 37
     },
     {
@@ -512,19 +512,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "A medio siglo de un (otro) crimen terrible",
-      "resumen": "Los hechos remiten directamente a otras evidencias de cómo los imperialistas pretenden —y a menudo consiguen— adueñarse del lenguaje y de su empleo político y jurídico, y cultural. Pese a las reiteradas votaciones, más que mayoritarias, contra el bloqueo en la Asamblea General de la ONU —institución",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/opinion/2026/10/06/a-medio-siglo-de-un-otro-crimen-terrible/",
-      "destacada": false,
-      "tema": "medio",
-      "fecha": "Wed, 07 Oct 2026 01:20:49 +0000",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://periodismodebarrio.org",
       "fuente_tipo": "alternativa",
       "titulo": "Valery y un Barrio Cuba en Argentina",
@@ -534,7 +521,7 @@
       "destacada": false,
       "tema": "valery",
       "fecha": "Tue, 06 Oct 2026 16:26:05 +0000",
-      "id": 41
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -547,7 +534,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Wed, 07 Oct 26 08:10:00 +0200",
-      "id": 42
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -560,7 +547,7 @@
       "destacada": false,
       "tema": "negreros",
       "fecha": "Wed, 07 Oct 26 08:09:00 +0200",
-      "id": 43
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -573,7 +560,7 @@
       "destacada": false,
       "tema": "habría",
       "fecha": "Wed, 07 Oct 26 08:08:00 +0200",
-      "id": 44
+      "id": 43
     },
     {
       "categoria": "salud",
@@ -586,7 +573,7 @@
       "destacada": false,
       "tema": "festa",
       "fecha": "Wed, 07 Oct 26 07:58:00 +0200",
-      "id": 45
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -599,7 +586,7 @@
       "destacada": false,
       "tema": "convocada",
       "fecha": "Wed, 07 Oct 26 06:52:00 +0200",
-      "id": 46
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -612,7 +599,7 @@
       "destacada": false,
       "tema": "cristo",
       "fecha": "Wed, 07 Oct 26 06:27:00 +0200",
-      "id": 47
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -625,7 +612,7 @@
       "destacada": false,
       "tema": "programa",
       "fecha": "Wed, 07 Oct 26 06:23:00 +0200",
-      "id": 48
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -638,7 +625,7 @@
       "destacada": false,
       "tema": "contra",
       "fecha": "Wed, 07 Oct 26 06:21:00 +0200",
-      "id": 49
+      "id": 48
     },
     {
       "categoria": "politica",
@@ -651,7 +638,7 @@
       "destacada": false,
       "tema": "crimen",
       "fecha": "Wed, 07 Oct 26 06:12:00 +0200",
-      "id": 50
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -664,7 +651,59 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 07 Oct 26 02:00:00 +0200",
+      "id": 50
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://actualidad.rt.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"Cuba no es una amenaza\": Canciller comenta el escaso apoyo en EE.UU. a la política hostil de Trump",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://actualidad-rt.com/actualidad/631375-cuba-amenaza-canciller-comenta-escaso-trump?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "destacada": false,
+      "tema": "amenaza",
+      "fecha": "Wed, 07 Oct 2026 15:37:49 +0000",
       "id": 51
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Premio Aldabón 2026 recae en joven escritora matancera",
+      "resumen": "La jornada por el Premio Aldabón 2026, desarrollada los días 4 y 5 de octubre, reafirmó a Matanzas como uno de los epicentros creativos más prolíficos de la literatura cubana actual.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/07/premio-aldabon-2026-recae-en-joven-escritora-matancera/",
+      "destacada": false,
+      "tema": "premio",
+      "fecha": "Wed, 07 Oct 2026 14:29:34 +0000",
+      "id": 52
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Barbados: memoria que permanece en Unión de Reyes",
+      "resumen": "La memoria de las víctimas del sabotaje al vuelo CU-455 de Cubana de Aviación estuvo presente en un matutino especial desarrollado en el politécnico Elpidio Berovides, en Unión de Reyes.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/07/barbados-memoria-permanece-en-union-de-reyes/",
+      "destacada": false,
+      "tema": "barbados",
+      "fecha": "Wed, 07 Oct 2026 12:29:00 +0000",
+      "id": 53
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Embarazo adolescente: A tiempo de escribir otro futuro",
+      "resumen": "El embarazo adolescente y las infecciones de transmisión sexual no son fenómenos aislados ni simples asuntos de Salud Pública en la Cuba de hoy. Constituyen, en cambio, síntomas de una realidad social más profunda que interpela a familias, escuelas, comunidades e instituciones.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/07/embarazo-adolescente-a-tiempo-de-escribir-otro-futuro/",
+      "destacada": false,
+      "tema": "embarazo",
+      "fecha": "Wed, 07 Oct 2026 11:58:00 +0000",
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -677,20 +716,7 @@
       "destacada": false,
       "tema": "avanza",
       "fecha": "Tue, 06 Oct 2026 14:42:55 +0000",
-      "id": 52
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "A 50 años del Crimen de Barbados: Matanzas recuerda a sus mártires y exige justicia",
-      "resumen": "Este 6 de octubre se cumplen 50 años del sabotaje al vuelo 455 de Cubana de Aviación, una de las páginas más dolorosas de la historia de la Isla. En Matanzas, como en toda Cuba, se recordó el crimen de Barbados con un acto de homenaje en las afueras del estadio Victoria de Girón.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/06/50-anos-crimen-de-barbados-matanzas-recuerda/",
-      "destacada": false,
-      "tema": "crimen",
-      "fecha": "Tue, 06 Oct 2026 12:15:00 +0000",
-      "id": 53
+      "id": 55
     }
   ]
 }
