@@ -1,21 +1,8 @@
 {
   "fecha": "2026-10-07",
-  "hora": "16:10",
-  "total": 55,
+  "hora": "17:15",
+  "total": 52,
   "noticias": [
-    {
-      "categoria": "politica",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Constata Valdés Mesa implementación de transformaciones en la mayor empresa pesquera del país",
-      "resumen": "El vicepresidente cubano se interesó por las ventas, los esquemas financieros, los encargos estatales; e insistió en la importancia de elevar las exportaciones",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-07/constata-valdes-mesa-implementacion-de-transformaciones-en-la-mayor-empresa-pesquera-del-pais-07-10-2026-09-10-54",
-      "destacada": true,
-      "tema": "constata",
-      "fecha": "Wed, 07 Oct 2026 09:10:54 -0400",
-      "id": 1
-    },
     {
       "categoria": "politica",
       "fuente": "https://www.granma.cu",
@@ -27,6 +14,19 @@
       "destacada": true,
       "tema": "rinde",
       "fecha": "Tue, 06 Oct 2026 18:10:08 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Constata Valdés Mesa implementación de transformaciones en la mayor empresa pesquera del país",
+      "resumen": "El vicepresidente cubano se interesó por las ventas, los esquemas financieros, los encargos estatales; e insistió en la importancia de elevar las exportaciones",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-07/constata-valdes-mesa-implementacion-de-transformaciones-en-la-mayor-empresa-pesquera-del-pais-07-10-2026-09-10-54",
+      "destacada": true,
+      "tema": "constata",
+      "fecha": "Wed, 07 Oct 2026 09:10:54 -0400",
       "id": 2
     },
     {
@@ -46,19 +46,6 @@
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Bloquear a Cuba es bloquear también al mundo",
-      "resumen": "En el foro anual «Left Coast Forum» se debatió el acoso a países, organizaciones y personas que se solidarizan con Cuba",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-07/bloquear-a-cuba-es-bloquear-tambien-al-mundo-07-10-2026-09-10-21",
-      "destacada": true,
-      "tema": "bloquear",
-      "fecha": "Wed, 07 Oct 2026 09:10:21 -0400",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
       "titulo": "La ironía de una «amenaza»",
       "resumen": "Cuba es un país que ha perdido a 3 478 de sus hijos mientras otros 2 099 viven con discapacidad a causa de bombas que llegaron desde el norte. Detrás de cada número hay una familia partida en dos. En tanto, como incomprensible y absurda ironía: Cuba es señalada como amenaza y patrocinadora del terro",
       "imagen_url": "",
@@ -66,20 +53,20 @@
       "destacada": true,
       "tema": "ironía",
       "fecha": "Tue, 06 Oct 2026 03:10:42 -0400",
-      "id": 5
+      "id": 4
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Solo hay invictos en el Oriente",
-      "resumen": "Sancti Spíritus y Santiago de Cuba tienen balance de 3-0 en la Serie Nacional 65",
+      "titulo": "Bloquear a Cuba es bloquear también al mundo",
+      "resumen": "En el foro anual «Left Coast Forum» se debatió el acoso a países, organizaciones y personas que se solidarizan con Cuba",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-10-07/solo-hay-invictos-en-el-oriente-07-10-2026-09-10-55",
-      "destacada": false,
-      "tema": "invictos",
-      "fecha": "Wed, 07 Oct 2026 09:10:55 -0400",
-      "id": 6
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-07/bloquear-a-cuba-es-bloquear-tambien-al-mundo-07-10-2026-09-10-21",
+      "destacada": true,
+      "tema": "bloquear",
+      "fecha": "Wed, 07 Oct 2026 09:10:21 -0400",
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -92,6 +79,19 @@
       "destacada": false,
       "tema": "cicatriz",
       "fecha": "Tue, 06 Oct 2026 03:10:16 -0400",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Solo hay invictos en el Oriente",
+      "resumen": "Sancti Spíritus y Santiago de Cuba tienen balance de 3-0 en la Serie Nacional 65",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-07/solo-hay-invictos-en-el-oriente-07-10-2026-09-10-55",
+      "destacada": false,
+      "tema": "invictos",
+      "fecha": "Wed, 07 Oct 2026 09:10:55 -0400",
       "id": 7
     },
     {
@@ -111,14 +111,40 @@
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Proyecto impulsa inclusión sociolaboral de jóvenes en Cuba",
-      "resumen": "La Habana, 7 oct (Prensa Latina) Un nuevo proyecto promoverá la inclusión sociolaboral de adolescentes y jóvenes de 15 a 24 años en situación de vulnerabilidad en Cuba, con énfasis en mujeres y personas con discapacidad, trascendió hoy. The post Proyecto impulsa inclusión sociolaboral de jóvenes en ",
+      "titulo": "Vicecanciller de Cuba denuncia ilegalidad de bloqueo energético",
+      "resumen": "La Habana, 7 oct (Prensa Latina) El vicecanciller Carlos Fernández de Cossío denunció hoy la ilegalidad de someter a Cuba a una asfixia económica como castigo colectivo con fines políticos. The post Vicecanciller de Cuba denuncia ilegalidad de bloqueo energético first appeared on Noticias Prensa Lat",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/07/proyecto-impulsa-inclusion-sociolaboral-de-jovenes-en-cuba/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/07/vicecanciller-de-cuba-denuncia-ilegalidad-de-bloqueo-energetico/",
       "destacada": false,
-      "tema": "proyecto",
-      "fecha": "Wed, 07 Oct 2026 15:53:17 +0000",
+      "tema": "vicecanciller",
+      "fecha": "Wed, 07 Oct 2026 17:13:33 +0000",
       "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Destacan poco apoyo de EE.UU. a uso de fuerza militar contra Cuba",
+      "resumen": "La Habana, 7 oct (Prensa Latina) El canciller Bruno Rodríguez destacó hoy que sólo un 17 por ciento de los estadounidenses apoyan el uso de la fuerza militar para, supuestamente, tomar el control de Cuba. The post Destacan poco apoyo de EE.UU. a uso de fuerza militar contra Cuba first appeared on No",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/07/destacan-poco-apoyo-de-ee-uu-a-uso-de-fuerza-militar-contra-cuba/",
+      "destacada": false,
+      "tema": "destacan",
+      "fecha": "Wed, 07 Oct 2026 17:05:30 +0000",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Vigente tradiciones haitianas en provincia de Cuba",
+      "resumen": "Ciego de Ávila, Cuba, 7 oct (Prensa Latina) El Proyecto Sociocultural de Desarrollo Local Yambambó trasciende hoy como un espacio encaminado a enaltecer y preservar las tradiciones haitianas en Tuero, una comunidad con características de vulnerabilidad, en esta central provincia de Cuba. The post Vi",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/07/vigente-tradiciones-haitianas-en-provincia-de-cuba/",
+      "destacada": false,
+      "tema": "vigente",
+      "fecha": "Wed, 07 Oct 2026 16:56:59 +0000",
+      "id": 11
     },
     {
       "categoria": "economia",
@@ -131,7 +157,7 @@
       "destacada": false,
       "tema": "estado",
       "fecha": "Wed, 07 Oct 2026 12:37:12 +0000",
-      "id": 10
+      "id": 12
     },
     {
       "categoria": "transporte",
@@ -144,7 +170,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Wed, 07 Oct 2026 15:10:36 +0000",
-      "id": 11
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -157,7 +183,7 @@
       "destacada": false,
       "tema": "cuatro",
       "fecha": "Wed, 07 Oct 2026 08:48:17 +0000",
-      "id": 12
+      "id": 14
     },
     {
       "categoria": "politica",
@@ -170,7 +196,7 @@
       "destacada": false,
       "tema": "frontera",
       "fecha": "Tue, 06 Oct 2026 18:25:55 +0000",
-      "id": 13
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -183,7 +209,7 @@
       "destacada": false,
       "tema": "proliferan",
       "fecha": "Tue, 06 Oct 2026 21:07:27 +0000",
-      "id": 14
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -196,7 +222,7 @@
       "destacada": false,
       "tema": "comunican",
       "fecha": "Tue, 06 Oct 2026 10:01:19 +0000",
-      "id": 15
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -209,7 +235,7 @@
       "destacada": false,
       "tema": "autoridades",
       "fecha": "Tue, 06 Oct 2026 20:54:34 +0000",
-      "id": 16
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -222,7 +248,7 @@
       "destacada": false,
       "tema": "iglesia",
       "fecha": "Tue, 06 Oct 2026 10:06:14 +0000",
-      "id": 17
+      "id": 19
     },
     {
       "categoria": "politica",
@@ -235,7 +261,33 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Wed, 07 Oct 2026 12:03:20 +0000",
-      "id": 18
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EEUU intercepta un intento de 'exportación ilegal' de combustible a 'una entidad cubana sancionada'",
+      "resumen": "#EEUU incauta 90 cargamentos de #combustible que tenían como destino una entidad #cubana sancionada. Los envíos fueron interceptados en los puertos de Everglades y Houston por un intento de \"exportación ilegal\".",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791392923_69291.html",
+      "destacada": false,
+      "tema": "intercepta",
+      "fecha": "Wed, 07 Oct 2026 19:08:43 +0200",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La ONU renueva su misión de investigación en Venezuela un año después de reducirla por falta de fondos",
+      "resumen": "La ONU renueva su Misión Independiente de Observación para #Venezuela un año después de que el periodista de #DiarioDeCuba Salvador Bracho informara que la crisis de financiamiento del organismo reducía la misión y jugaba a favor del #Chavismo.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/internacional/1791389704_69290.html",
+      "destacada": false,
+      "tema": "renueva",
+      "fecha": "Wed, 07 Oct 2026 18:15:04 +0200",
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -248,7 +300,7 @@
       "destacada": false,
       "tema": "justicia",
       "fecha": "Wed, 07 Oct 2026 18:00:44 +0200",
-      "id": 19
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -261,7 +313,7 @@
       "destacada": false,
       "tema": "vocera",
       "fecha": "Wed, 07 Oct 2026 15:37:16 +0200",
-      "id": 20
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -274,7 +326,7 @@
       "destacada": false,
       "tema": "creador",
       "fecha": "Wed, 07 Oct 2026 14:29:47 +0200",
-      "id": 21
+      "id": 25
     },
     {
       "categoria": "politica",
@@ -287,7 +339,7 @@
       "destacada": false,
       "tema": "hambre",
       "fecha": "Wed, 07 Oct 2026 13:00:47 +0200",
-      "id": 22
+      "id": 26
     },
     {
       "categoria": "energia",
@@ -300,7 +352,7 @@
       "destacada": false,
       "tema": "pemex",
       "fecha": "Wed, 07 Oct 2026 11:32:13 +0200",
-      "id": 23
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -313,7 +365,7 @@
       "destacada": false,
       "tema": "brasil",
       "fecha": "Wed, 07 Oct 2026 11:12:03 +0200",
-      "id": 24
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -326,7 +378,7 @@
       "destacada": false,
       "tema": "tribunal",
       "fecha": "Wed, 07 Oct 2026 07:50:57 +0200",
-      "id": 25
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -339,33 +391,7 @@
       "destacada": false,
       "tema": "trabajos",
       "fecha": "Wed, 07 Oct 2026 01:13:33 +0200",
-      "id": 26
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Nuevo cargamento de ayuda humanitaria de EEUU: 700 módulos serán distribuidos en Ciego de Ávila",
-      "resumen": "Nuevo cargamento de ayuda humanitaria de #EEUU llega a #Cuba: 700 módulos de alimentos e higiene serán distribuidos en Ciego de Ávila, a pesar de las reticencias del régimen.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791320136_69281.html",
-      "destacada": false,
-      "tema": "nuevo",
-      "fecha": "Tue, 06 Oct 2026 22:55:36 +0200",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Demostrada la 'contaminación por microplásticos' en la bahía de La Habana y el río Almendares",
-      "resumen": "Un estudio oficialista detecta altas concentraciones de microplásticos en la bahía de #LaHabana y el río Almendares, como consecuencia directa de la mala gestión de los residuos.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791312948_69280.html",
-      "destacada": false,
-      "tema": "demostrada",
-      "fecha": "Tue, 06 Oct 2026 20:55:48 +0200",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -378,7 +404,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Wed, 07 Oct 2026 12:00:00 -0400",
-      "id": 29
+      "id": 31
     },
     {
       "categoria": "economia",
@@ -391,7 +417,7 @@
       "destacada": false,
       "tema": "incauta",
       "fecha": "Wed, 07 Oct 2026 11:51:06 -0400",
-      "id": 30
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -404,7 +430,7 @@
       "destacada": false,
       "tema": "barrio",
       "fecha": "Wed, 07 Oct 2026 11:30:00 -0400",
-      "id": 31
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -417,7 +443,7 @@
       "destacada": false,
       "tema": "hammer",
       "fecha": "Wed, 07 Oct 2026 10:17:05 -0400",
-      "id": 32
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -430,32 +456,6 @@
       "destacada": false,
       "tema": "futuro",
       "fecha": "Wed, 07 Oct 2026 10:00:00 -0400",
-      "id": 33
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "EEUU confirma que mantiene conversaciones con Cuba, acusa al régimen de rechazar reformas",
-      "resumen": "El Departamento de Estado confirmó que Estados Unidos mantiene conversaciones con el Gobierno cubano, aunque aseguró que La Habana rechaza propuestas que, a juicio de Washington, beneficiarían al pueblo de la isla sin poner en riesgo el control político del régimen.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/eeuu-confirma-que-mantiene-conversaciones-con-cuba-acusa-al-r%c3%a9gimen-de-rechazar-reformas/481419.html",
-      "destacada": false,
-      "tema": "confirma",
-      "fecha": "Wed, 07 Oct 2026 08:07:39 -0400",
-      "id": 34
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Martinoticias AM",
-      "resumen": "Revista informativa con los últimos acontecimientos ocurridos en Cuba y el mundo. Con entrevistas y temas de actualidad relacionados a la política, la economía y de interés general.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480395.html",
-      "destacada": false,
-      "tema": "martinoticias",
-      "fecha": "Wed, 07 Oct 2026 08:00:00 -0400",
       "id": 35
     },
     {
@@ -486,32 +486,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "En video, Cuadrando la caja I \"Nuevas reglas, viejos reclamos: ¿Qué cambia para el sector no estatal?\"",
-      "resumen": "Las transformaciones económicas y sociales en Cuba abren un nuevo escenario para los actores económicos no estatales. Más posibilidades de contratación, menos trámites, nuevas actividades y mayores responsabilidades. ¿Significan estos cambios más oportunidades para emprender, producir y aportar a la",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/06/en-video-cuadrando-la-caja-i-nuevas-reglas-viejos-reclamos-que-cambia-para-el-sector-no-estatal/",
-      "destacada": false,
-      "tema": "video",
-      "fecha": "Wed, 07 Oct 2026 02:55:02 +0000",
-      "id": 38
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "“Cuba no se rinde, Cuba no se vende y Cuba no olvida”",
-      "resumen": "Sostuvo el Primer Secretario del Comité Central del Partido Comunista y Presidente de la República, Miguel Díaz-Canel Bermúdez, un encuentro con familiares y compañeros de las víctimas del crimen de Barbados y de otros atentados terroristas contra Cuba, jóvenes miembros del equipo nacional de esgrim",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/06/cuba-no-se-rinde-cuba-no-se-vende-y-cuba-no-olvida/",
-      "destacada": false,
-      "tema": "rinde",
-      "fecha": "Wed, 07 Oct 2026 02:08:10 +0000",
-      "id": 39
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://periodismodebarrio.org",
       "fuente_tipo": "alternativa",
       "titulo": "Valery y un Barrio Cuba en Argentina",
@@ -521,7 +495,7 @@
       "destacada": false,
       "tema": "valery",
       "fecha": "Tue, 06 Oct 2026 16:26:05 +0000",
-      "id": 40
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -534,7 +508,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Wed, 07 Oct 26 08:10:00 +0200",
-      "id": 41
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -547,7 +521,7 @@
       "destacada": false,
       "tema": "negreros",
       "fecha": "Wed, 07 Oct 26 08:09:00 +0200",
-      "id": 42
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -560,7 +534,7 @@
       "destacada": false,
       "tema": "habría",
       "fecha": "Wed, 07 Oct 26 08:08:00 +0200",
-      "id": 43
+      "id": 41
     },
     {
       "categoria": "salud",
@@ -573,7 +547,7 @@
       "destacada": false,
       "tema": "festa",
       "fecha": "Wed, 07 Oct 26 07:58:00 +0200",
-      "id": 44
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -586,7 +560,7 @@
       "destacada": false,
       "tema": "convocada",
       "fecha": "Wed, 07 Oct 26 06:52:00 +0200",
-      "id": 45
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -599,7 +573,7 @@
       "destacada": false,
       "tema": "cristo",
       "fecha": "Wed, 07 Oct 26 06:27:00 +0200",
-      "id": 46
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -612,7 +586,7 @@
       "destacada": false,
       "tema": "programa",
       "fecha": "Wed, 07 Oct 26 06:23:00 +0200",
-      "id": 47
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -625,7 +599,20 @@
       "destacada": false,
       "tema": "contra",
       "fecha": "Wed, 07 Oct 26 06:21:00 +0200",
-      "id": 48
+      "id": 46
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "“Cuba no se rinde, Cuba no se vende y Cuba no olvida”",
+      "resumen": "René Tamayo León Presidencia Cuba Sostuvo el Primer Secretario del Comité Central del Partido Comun...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125347-cuba-no-se-rinde-cuba-no-se-vende-y-cuba-no-olvida.jpg?t=1791346773",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261007/125347/125347-cuba-no-se-rinde-cuba-no-se-vende-y-cuba-no-olvida",
+      "destacada": false,
+      "tema": "rinde",
+      "fecha": "Wed, 07 Oct 26 06:17:00 +0200",
+      "id": 47
     },
     {
       "categoria": "politica",
@@ -638,33 +625,7 @@
       "destacada": false,
       "tema": "crimen",
       "fecha": "Wed, 07 Oct 26 06:12:00 +0200",
-      "id": 49
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "&quot;Cuba sufre un genocidio sin bombas para mostrar que no hay alternativa a este sistema neoliberal&quot;: Irene Montero, europarlamentaria de The Left por Podemos",
-      "resumen": "Cubainformación.- En el Parlamento Europeo, en el marco del evento recién celebrado y titulado &amp;quot...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125327-cuba-sufre-un-genocidio-sin-bombas-para-mostrar-que-no-hay-alternativa-a-este-sistema-neoliberal-irene-montero-europarlamentaria-de-the-left-por-podemos.jpg?t=1791223207",
-      "enlace_original": "https://www.cubainformacion.tv/especiales/20261007/125327/125327-cuba-sufre-un-genocidio-sin-bombas-para-mostrar-que-no-hay-alternativa-a-este-sistema-neoliberal-irene-montero-europarlamentaria-de-the-left-por-podemos",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Wed, 07 Oct 26 02:00:00 +0200",
-      "id": 50
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://actualidad.rt.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "\"Cuba no es una amenaza\": Canciller comenta el escaso apoyo en EE.UU. a la política hostil de Trump",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://actualidad-rt.com/actualidad/631375-cuba-amenaza-canciller-comenta-escaso-trump?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "destacada": false,
-      "tema": "amenaza",
-      "fecha": "Wed, 07 Oct 2026 15:37:49 +0000",
-      "id": 51
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -677,7 +638,7 @@
       "destacada": false,
       "tema": "premio",
       "fecha": "Wed, 07 Oct 2026 14:29:34 +0000",
-      "id": 52
+      "id": 49
     },
     {
       "categoria": "transporte",
@@ -690,7 +651,7 @@
       "destacada": false,
       "tema": "barbados",
       "fecha": "Wed, 07 Oct 2026 12:29:00 +0000",
-      "id": 53
+      "id": 50
     },
     {
       "categoria": "salud",
@@ -703,7 +664,7 @@
       "destacada": false,
       "tema": "embarazo",
       "fecha": "Wed, 07 Oct 2026 11:58:00 +0000",
-      "id": 54
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -716,7 +677,7 @@
       "destacada": false,
       "tema": "avanza",
       "fecha": "Tue, 06 Oct 2026 14:42:55 +0000",
-      "id": 55
+      "id": 52
     }
   ]
 }
