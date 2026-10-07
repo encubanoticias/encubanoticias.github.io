@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-07",
-  "hora": "07:08",
-  "total": 54,
+  "hora": "09:07",
+  "total": 51,
   "noticias": [
     {
       "categoria": "politica",
@@ -95,6 +95,32 @@
       "id": 7
     },
     {
+      "categoria": "salud",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Senado de Camboya impulsa agenda de cooperación con Cuba",
+      "resumen": "La Habana, 7 oct (Prensa Latina) El segundo vicepresidente del Senado de Camboya, Thun Vathana, destacó en Nom Pen los avances de Cuba en los sectores de la salud, farmacéutico y educativo como pilares básicos de la cooperación bilateral, informó Cubaminrex. The post Senado de Camboya impulsa agenda",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/07/senado-de-camboya-impulsa-agenda-de-cooperacion-con-cuba/",
+      "destacada": false,
+      "tema": "senado",
+      "fecha": "Wed, 07 Oct 2026 07:39:54 +0000",
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Uno de cada cuatro trabajadores cubanos tiene un empleo informal",
+      "resumen": "Las oportunidades de acceder a un trabajo decente, cuyo día internacional se celebra este miércoles, se reducen en una Cuba en policrisis",
+      "imagen_url": "https://static.14ymedio.com/clip/ed10e8bb-4a2c-458e-9ce2-df6237aab74e_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/cuatro-trabajadores-cubanos-empleo-informal_1_1131627.html",
+      "destacada": false,
+      "tema": "cuatro",
+      "fecha": "Wed, 07 Oct 2026 08:48:17 +0000",
+      "id": 9
+    },
+    {
       "categoria": "politica",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -105,20 +131,7 @@
       "destacada": false,
       "tema": "frontera",
       "fecha": "Tue, 06 Oct 2026 18:25:55 +0000",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las autoridades dilatan el proceso contra Henry Constantín, quien cumple 20 días preso",
-      "resumen": "El Observatorio Cubano de Derechos Humanos registra en septiembre más de 340 actos represivos",
-      "imagen_url": "https://static.14ymedio.com/clip/e7120913-b68c-45fb-b209-95b9673e71bf_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/autoridades-dilatan-henry-proceso-constantin_1_1131611.html",
-      "destacada": false,
-      "tema": "autoridades",
-      "fecha": "Tue, 06 Oct 2026 20:54:34 +0000",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "proliferan",
       "fecha": "Tue, 06 Oct 2026 21:07:27 +0000",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -144,20 +157,20 @@
       "destacada": false,
       "tema": "comunican",
       "fecha": "Tue, 06 Oct 2026 10:01:19 +0000",
-      "id": 11
+      "id": 12
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Un ajedrecista cubano conquista una medalla de oro para Ecuador",
-      "resumen": "Eddy Ernesto Enrique Hernández es uno de los nueve competidores de la Isla que defendió otra bandera en la pasada Olimpiada",
-      "imagen_url": "https://static.14ymedio.com/clip/5a107e71-1120-46d7-9496-2e6a507f4f7b_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/deportes/ajedrecista-cubano-conquista-medalla-oro_1_1131613.html",
+      "titulo": "Las autoridades dilatan el proceso contra Henry Constantín, quien cumple 20 días preso",
+      "resumen": "El Observatorio Cubano de Derechos Humanos registra en septiembre más de 340 actos represivos",
+      "imagen_url": "https://static.14ymedio.com/clip/e7120913-b68c-45fb-b209-95b9673e71bf_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/autoridades-dilatan-henry-proceso-constantin_1_1131611.html",
       "destacada": false,
-      "tema": "ajedrecista",
-      "fecha": "Tue, 06 Oct 2026 20:52:41 +0000",
-      "id": 12
+      "tema": "autoridades",
+      "fecha": "Tue, 06 Oct 2026 20:54:34 +0000",
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -170,19 +183,6 @@
       "destacada": false,
       "tema": "iglesia",
       "fecha": "Tue, 06 Oct 2026 10:06:14 +0000",
-      "id": 13
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Un tesoro en el Capitolio y un submarino en la bahía de La Habana calentaron las redes sociales en septiembre",
-      "resumen": "El secretismo oficial vuelve a alimentar rumores que mezclan enfermedades, apagones, purgas y fantasías subterráneas",
-      "imagen_url": "https://static.14ymedio.com/clip/720d6225-1dbe-4e8d-ab3e-0f7e8a784dd9_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/tesoro-capitolio-submarino-bahia-habana_1_1131529.html",
-      "destacada": false,
-      "tema": "tesoro",
-      "fecha": "Mon, 05 Oct 2026 09:20:28 +0000",
       "id": 14
     },
     {
@@ -238,32 +238,6 @@
       "id": 18
     },
     {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Carlos III en La Habana: así luce el famoso centro comercial hoy, vacío y sin productos en dólares",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-07-u1-e199894-s27061-nid342134-carlos-iii-habana-asi-luce-famoso-centro-comercial",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Wed, 07 Oct 2026 02:44:39 +0200",
-      "id": 19
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Así cierra el mercado informal en Cuba: Dólar se mantiene en 770 CUP, euro baja y MLC vuelve a subir",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-07-u1-e208933-s27061-nid342135-asi-cierra-mercado-informal-cuba-dolar-mantiene-770",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Wed, 07 Oct 2026 02:34:00 +0200",
-      "id": 20
-    },
-    {
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
@@ -274,7 +248,7 @@
       "destacada": false,
       "tema": "tribunal",
       "fecha": "Wed, 07 Oct 2026 07:50:57 +0200",
-      "id": 21
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -287,7 +261,7 @@
       "destacada": false,
       "tema": "trabajos",
       "fecha": "Wed, 07 Oct 2026 01:13:33 +0200",
-      "id": 22
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -300,7 +274,7 @@
       "destacada": false,
       "tema": "nuevo",
       "fecha": "Tue, 06 Oct 2026 22:55:36 +0200",
-      "id": 23
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -313,7 +287,7 @@
       "destacada": false,
       "tema": "demostrada",
       "fecha": "Tue, 06 Oct 2026 20:55:48 +0200",
-      "id": 24
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -326,7 +300,7 @@
       "destacada": false,
       "tema": "nefasto",
       "fecha": "Tue, 06 Oct 2026 19:32:07 +0200",
-      "id": 25
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -339,7 +313,7 @@
       "destacada": false,
       "tema": "mercados",
       "fecha": "Tue, 06 Oct 2026 18:00:14 +0200",
-      "id": 26
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -352,7 +326,7 @@
       "destacada": false,
       "tema": "programa",
       "fecha": "Tue, 06 Oct 2026 15:39:22 +0200",
-      "id": 27
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -365,7 +339,7 @@
       "destacada": false,
       "tema": "medicinas",
       "fecha": "Tue, 06 Oct 2026 15:01:14 +0200",
-      "id": 28
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -378,7 +352,7 @@
       "destacada": false,
       "tema": "españa",
       "fecha": "Tue, 06 Oct 2026 13:38:25 +0200",
-      "id": 29
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -391,7 +365,7 @@
       "destacada": false,
       "tema": "necesita",
       "fecha": "Tue, 06 Oct 2026 13:06:48 +0200",
-      "id": 30
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -404,7 +378,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Wed, 07 Oct 2026 00:00:30 -0400",
-      "id": 31
+      "id": 29
     },
     {
       "categoria": "energia",
@@ -417,7 +391,7 @@
       "destacada": false,
       "tema": "cadena",
       "fecha": "Tue, 06 Oct 2026 20:15:03 -0400",
-      "id": 32
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -430,7 +404,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Tue, 06 Oct 2026 20:00:00 -0400",
-      "id": 33
+      "id": 31
     },
     {
       "categoria": "energia",
@@ -443,20 +417,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Tue, 06 Oct 2026 17:31:55 -0400",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Caída de ETECSA paraliza Nauta, Transfermóvil y las transacciones electrónicas en la mayor parte de Cuba",
-      "resumen": "La caída de servicios clave de ETECSA, como Nauta y Transfermóvil, mantiene paralizadas la conectividad telefónica y las transacciones electrónicas en Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/ca%c3%adda-de-etecsa-paraliza-nauta-transferm%c3%b3vil-y-las-transacciones-electr%c3%b3nicas-en-la-mayor-parte-de-cuba/481413.html",
-      "destacada": false,
-      "tema": "caída",
-      "fecha": "Tue, 06 Oct 2026 17:10:31 -0400",
-      "id": 35
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -469,7 +430,7 @@
       "destacada": false,
       "tema": "video",
       "fecha": "Wed, 07 Oct 2026 02:55:02 +0000",
-      "id": 36
+      "id": 33
     },
     {
       "categoria": "politica",
@@ -482,7 +443,7 @@
       "destacada": false,
       "tema": "rinde",
       "fecha": "Wed, 07 Oct 2026 02:08:10 +0000",
-      "id": 37
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -495,7 +456,7 @@
       "destacada": false,
       "tema": "medio",
       "fecha": "Wed, 07 Oct 2026 01:20:49 +0000",
-      "id": 38
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -508,7 +469,7 @@
       "destacada": false,
       "tema": "ludia",
       "fecha": "Tue, 06 Oct 2026 16:52:09 +0000",
-      "id": 39
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -521,7 +482,7 @@
       "destacada": false,
       "tema": "valery",
       "fecha": "Tue, 06 Oct 2026 16:26:05 +0000",
-      "id": 40
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -534,7 +495,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Wed, 07 Oct 26 08:10:00 +0200",
-      "id": 41
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -547,7 +508,7 @@
       "destacada": false,
       "tema": "negreros",
       "fecha": "Wed, 07 Oct 26 08:09:00 +0200",
-      "id": 42
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -560,7 +521,7 @@
       "destacada": false,
       "tema": "habría",
       "fecha": "Wed, 07 Oct 26 08:08:00 +0200",
-      "id": 43
+      "id": 40
     },
     {
       "categoria": "salud",
@@ -573,7 +534,7 @@
       "destacada": false,
       "tema": "festa",
       "fecha": "Wed, 07 Oct 26 07:58:00 +0200",
-      "id": 44
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -586,7 +547,7 @@
       "destacada": false,
       "tema": "convocada",
       "fecha": "Wed, 07 Oct 26 06:52:00 +0200",
-      "id": 45
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -599,7 +560,7 @@
       "destacada": false,
       "tema": "cristo",
       "fecha": "Wed, 07 Oct 26 06:27:00 +0200",
-      "id": 46
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -612,7 +573,7 @@
       "destacada": false,
       "tema": "programa",
       "fecha": "Wed, 07 Oct 26 06:23:00 +0200",
-      "id": 47
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -625,7 +586,7 @@
       "destacada": false,
       "tema": "contra",
       "fecha": "Wed, 07 Oct 26 06:21:00 +0200",
-      "id": 48
+      "id": 45
     },
     {
       "categoria": "politica",
@@ -638,7 +599,7 @@
       "destacada": false,
       "tema": "crimen",
       "fecha": "Wed, 07 Oct 26 06:12:00 +0200",
-      "id": 49
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -651,7 +612,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 07 Oct 26 02:00:00 +0200",
-      "id": 50
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -664,7 +625,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 05 Oct 2026 12:32:11 +0000",
-      "id": 51
+      "id": 48
     },
     {
       "categoria": "politica",
@@ -677,7 +638,7 @@
       "destacada": false,
       "tema": "pelota",
       "fecha": "Mon, 05 Oct 2026 12:29:58 +0000",
-      "id": 52
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -690,7 +651,7 @@
       "destacada": false,
       "tema": "avanza",
       "fecha": "Tue, 06 Oct 2026 14:42:55 +0000",
-      "id": 53
+      "id": 50
     },
     {
       "categoria": "transporte",
@@ -703,7 +664,7 @@
       "destacada": false,
       "tema": "crimen",
       "fecha": "Tue, 06 Oct 2026 12:15:00 +0000",
-      "id": 54
+      "id": 51
     }
   ]
 }
