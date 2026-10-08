@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-08",
-  "hora": "09:07",
-  "total": 57,
+  "hora": "10:08",
+  "total": 58,
   "noticias": [
     {
       "categoria": "politica",
@@ -31,6 +31,19 @@
     },
     {
       "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Exembajador panameño en Cuba denuncia bloqueo EEUU a la isla",
+      "resumen": "Ciudad de Panamá, 8 oct (Prensa Latina) El dos veces embajador de Panamá en Cuba, el abogado Reynaldo Rivera, denunció hoy el bloqueo que Estados Unidos mantiene contra la isla desde hace más de seis décadas. The post Exembajador panameño en Cuba denuncia bloqueo EEUU a la isla first appeared on Not",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/08/exembajador-panameno-en-cuba-denuncia-bloqueo-eeuu-a-la-isla/",
+      "destacada": true,
+      "tema": "exembajador",
+      "fecha": "Thu, 08 Oct 2026 10:04:59 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
       "titulo": "Brascuba se queda sin su socio británico y los cigarros se encarecen",
@@ -40,7 +53,7 @@
       "destacada": true,
       "tema": "brascuba",
       "fecha": "Wed, 07 Oct 2026 22:12:38 +0000",
-      "id": 3
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -53,7 +66,7 @@
       "destacada": true,
       "tema": "bloqueó",
       "fecha": "Wed, 07 Oct 2026 17:36:25 +0000",
-      "id": 4
+      "id": 5
     },
     {
       "categoria": "economia",
@@ -63,10 +76,10 @@
       "resumen": "Un especialista que pidió el anonimato dice que les entregan una tarjeta del Banco del Bienestar para cobrar mensualmente casi 22.000 pesos mexicanos",
       "imagen_url": "https://static.14ymedio.com/clip/e981b8c4-13ed-4d1d-bad1-fd0cc9ce608d_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/internacional/mexico-debe-4-5-millones_1_1131657.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 07 Oct 2026 21:06:08 +0000",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -79,7 +92,7 @@
       "destacada": false,
       "tema": "habrá",
       "fecha": "Wed, 07 Oct 2026 16:27:00 +0000",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "transporte",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Wed, 07 Oct 2026 15:10:36 +0000",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "economia",
@@ -105,7 +118,7 @@
       "destacada": false,
       "tema": "estado",
       "fecha": "Wed, 07 Oct 2026 12:37:12 +0000",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "politica",
@@ -118,7 +131,7 @@
       "destacada": false,
       "tema": "frontera",
       "fecha": "Tue, 06 Oct 2026 18:25:55 +0000",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "cuatro",
       "fecha": "Wed, 07 Oct 2026 08:48:17 +0000",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -144,7 +157,7 @@
       "destacada": false,
       "tema": "proliferan",
       "fecha": "Tue, 06 Oct 2026 21:07:27 +0000",
-      "id": 11
+      "id": 12
     },
     {
       "categoria": "politica",
@@ -157,7 +170,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 08 Oct 2026 04:32:12 +0200",
-      "id": 12
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -170,7 +183,7 @@
       "destacada": false,
       "tema": "castro",
       "fecha": "Thu, 08 Oct 2026 04:20:58 +0200",
-      "id": 13
+      "id": 14
     },
     {
       "categoria": "economia",
@@ -183,7 +196,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 08 Oct 2026 03:15:28 +0200",
-      "id": 14
+      "id": 15
     },
     {
       "categoria": "politica",
@@ -196,7 +209,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 08 Oct 2026 02:53:38 +0200",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "politica",
@@ -209,7 +222,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Wed, 07 Oct 2026 12:03:20 +0000",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "politica",
@@ -222,7 +235,7 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Wed, 07 Oct 2026 22:30:36 +0000",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "politica",
@@ -235,7 +248,7 @@
       "destacada": false,
       "tema": "innovadores",
       "fecha": "Wed, 07 Oct 2026 21:27:25 +0000",
-      "id": 18
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -248,7 +261,7 @@
       "destacada": false,
       "tema": "crecer",
       "fecha": "Wed, 07 Oct 2026 20:07:18 +0000",
-      "id": 19
+      "id": 20
     },
     {
       "categoria": "economia",
@@ -261,7 +274,7 @@
       "destacada": false,
       "tema": "chequea",
       "fecha": "Wed, 07 Oct 2026 19:39:13 +0000",
-      "id": 20
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -274,7 +287,7 @@
       "destacada": false,
       "tema": "victoria",
       "fecha": "Wed, 07 Oct 2026 18:20:17 +0000",
-      "id": 21
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -287,7 +300,20 @@
       "destacada": false,
       "tema": "pesistas",
       "fecha": "Wed, 07 Oct 2026 16:37:04 +0000",
-      "id": 22
+      "id": 23
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Díaz-Canel asegura que la Revolución defiende la 'equidad' mientras crece la desigualdad en Cuba",
+      "resumen": "#SOSCuba: #DíazCanel destaca como un logro que una cubana recibiera tierras en usufructo diez años después de solicitarlas y asegura que el #RégimenCubano defiende la equidad, mientras crece la desigualdad en #Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791452812_69301.html",
+      "destacada": false,
+      "tema": "canel",
+      "fecha": "Thu, 08 Oct 2026 11:46:52 +0200",
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Thu, 08 Oct 2026 08:44:28 +0200",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Thu, 08 Oct 2026 01:10:35 +0200",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -326,7 +352,7 @@
       "destacada": false,
       "tema": "vigilancia",
       "fecha": "Wed, 07 Oct 2026 22:52:21 +0200",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -339,7 +365,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Wed, 07 Oct 2026 21:00:39 +0200",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "salud",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "uruguay",
       "fecha": "Wed, 07 Oct 2026 20:46:04 +0200",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -365,7 +391,7 @@
       "destacada": false,
       "tema": "intercepta",
       "fecha": "Wed, 07 Oct 2026 19:08:43 +0200",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -378,20 +404,7 @@
       "destacada": false,
       "tema": "renueva",
       "fecha": "Wed, 07 Oct 2026 18:15:04 +0200",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Qué justicia puede esperar Henry Constantin tras la devolución de su expediente a la Fiscalía cubana?",
-      "resumen": "#AnálisisCuba: El experto en temas legales Edel González explica por qué la devolución del expediente de #HenryConstantin a la #Fiscalía va contra la igualdad y el derecho a la defensa. Existe una conexión entre esas devoluciones y el alto número de condenas en #Cuba. Lee la explicación aquí.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1791388844_69288.html",
-      "destacada": false,
-      "tema": "justicia",
-      "fecha": "Wed, 07 Oct 2026 18:00:44 +0200",
-      "id": 30
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -404,7 +417,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Thu, 08 Oct 2026 00:00:30 -0400",
-      "id": 31
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -417,7 +430,7 @@
       "destacada": false,
       "tema": "denuncian",
       "fecha": "Wed, 07 Oct 2026 21:04:54 -0400",
-      "id": 32
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -430,20 +443,20 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Wed, 07 Oct 2026 21:00:00 -0400",
-      "id": 33
+      "id": 34
     },
     {
       "categoria": "sociedad",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
-      "titulo": "¿Cómo las nuevas transformaciones económicas pueden reactivar la agricultura cubana?",
+      "titulo": "¿Cómo las nuevas transformaciones económicas pueden reactivar la agricultura cubana? (+Video)",
       "resumen": "Entre las principales novedades se encuentran nuevas posibilidades para el usufructo y administración de tierras, el fortalecimiento de las cooperativas, una comercialización menos burocrática y mayores oportunidades de acceso a insumos, financiamiento y mercados. The post ¿Cómo las nuevas transform",
       "imagen_url": "",
       "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/08/como-las-nuevas-transformaciones-economicas-pueden-reactivar-la-agricultura-cubana/",
       "destacada": false,
       "tema": "nuevas",
       "fecha": "Thu, 08 Oct 2026 04:02:46 +0000",
-      "id": 34
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -456,7 +469,7 @@
       "destacada": false,
       "tema": "santiago",
       "fecha": "Thu, 08 Oct 2026 03:45:52 +0000",
-      "id": 35
+      "id": 36
     },
     {
       "categoria": "politica",
@@ -469,7 +482,7 @@
       "destacada": false,
       "tema": "yaguajay",
       "fecha": "Thu, 08 Oct 2026 01:32:51 +0000",
-      "id": 36
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -482,7 +495,7 @@
       "destacada": false,
       "tema": "mundial",
       "fecha": "Wed, 07 Oct 2026 21:19:46 +0000",
-      "id": 37
+      "id": 38
     },
     {
       "categoria": "salud",
@@ -495,7 +508,7 @@
       "destacada": false,
       "tema": "canarias",
       "fecha": "Wed, 07 Oct 2026 20:06:46 +0000",
-      "id": 38
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -508,7 +521,7 @@
       "destacada": false,
       "tema": "valery",
       "fecha": "Tue, 06 Oct 2026 16:26:05 +0000",
-      "id": 39
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -521,7 +534,7 @@
       "destacada": false,
       "tema": "dentro",
       "fecha": "Thu, 08 Oct 26 07:54:00 +0200",
-      "id": 40
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -534,7 +547,7 @@
       "destacada": false,
       "tema": "silvio",
       "fecha": "Thu, 08 Oct 26 07:53:00 +0200",
-      "id": 41
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -547,7 +560,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Thu, 08 Oct 26 07:52:00 +0200",
-      "id": 42
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -560,7 +573,7 @@
       "destacada": false,
       "tema": "lecciones",
       "fecha": "Thu, 08 Oct 26 07:01:00 +0200",
-      "id": 43
+      "id": 44
     },
     {
       "categoria": "politica",
@@ -573,7 +586,7 @@
       "destacada": false,
       "tema": "importación",
       "fecha": "Thu, 08 Oct 26 06:54:00 +0200",
-      "id": 44
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -586,7 +599,7 @@
       "destacada": false,
       "tema": "imperio",
       "fecha": "Thu, 08 Oct 26 06:51:00 +0200",
-      "id": 45
+      "id": 46
     },
     {
       "categoria": "politica",
@@ -599,7 +612,7 @@
       "destacada": false,
       "tema": "cámara",
       "fecha": "Thu, 08 Oct 26 06:48:00 +0200",
-      "id": 46
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -612,7 +625,7 @@
       "destacada": false,
       "tema": "sabían",
       "fecha": "Thu, 08 Oct 26 06:41:00 +0200",
-      "id": 47
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -625,7 +638,7 @@
       "destacada": false,
       "tema": "hacemos",
       "fecha": "Thu, 08 Oct 26 06:38:00 +0200",
-      "id": 48
+      "id": 49
     },
     {
       "categoria": "politica",
@@ -638,7 +651,7 @@
       "destacada": false,
       "tema": "chequea",
       "fecha": "Wed, 07 Oct 2026 18:14:00 +0000",
-      "id": 49
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -651,7 +664,7 @@
       "destacada": false,
       "tema": "ciudad",
       "fecha": "Wed, 07 Oct 2026 22:02:55 +0000",
-      "id": 50
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -664,7 +677,7 @@
       "destacada": false,
       "tema": "desafío",
       "fecha": "Wed, 07 Oct 2026 22:02:57 +0000",
-      "id": 51
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -677,7 +690,7 @@
       "destacada": false,
       "tema": "aprender",
       "fecha": "Wed, 07 Oct 2026 22:02:52 +0000",
-      "id": 52
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -690,7 +703,7 @@
       "destacada": false,
       "tema": "lugar",
       "fecha": "Wed, 07 Oct 2026 22:02:50 +0000",
-      "id": 53
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -703,7 +716,7 @@
       "destacada": false,
       "tema": "premio",
       "fecha": "Wed, 07 Oct 2026 14:29:34 +0000",
-      "id": 54
+      "id": 55
     },
     {
       "categoria": "politica",
@@ -716,7 +729,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Wed, 07 Oct 2026 12:37:00 +0000",
-      "id": 55
+      "id": 56
     },
     {
       "categoria": "transporte",
@@ -729,7 +742,7 @@
       "destacada": false,
       "tema": "barbados",
       "fecha": "Wed, 07 Oct 2026 12:29:00 +0000",
-      "id": 56
+      "id": 57
     },
     {
       "categoria": "salud",
@@ -742,7 +755,7 @@
       "destacada": false,
       "tema": "embarazo",
       "fecha": "Wed, 07 Oct 2026 11:58:00 +0000",
-      "id": 57
+      "id": 58
     }
   ]
 }
