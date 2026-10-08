@@ -1,20 +1,33 @@
 {
   "fecha": "2026-10-08",
-  "hora": "15:07",
-  "total": 59,
+  "hora": "16:08",
+  "total": 61,
   "noticias": [
     {
-      "categoria": "energia",
+      "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Restableció Etecsa servicios tras afectaciones energéticas",
-      "resumen": "La Empresa de Telecomunicaciones de Cuba, Etecsa, informó este miércoles que fueron restablecidos ya varios servicios afectados por problemas energéticos ocurridos el 5 de octubre, tras acciones ejecutadas junto a la Empresa Eléctrica de La Habana y otras instituciones",
+      "titulo": "«La tierra es para producir»: nuevas normas para incentivar la agricultura cubana",
+      "resumen": "La entrega ya no recae exclusivamente en las comisiones agrarias, sino en los directivos superiores de las empresas, aprobados en sus consejos de dirección, y en los presidentes de las CPA, aprobados en asambleas de socios",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-08/restablecio-etecsa-servicios-tras-afectaciones-energeticas-08-10-2026-10-10-18",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-08/la-tierra-es-para-producir-nuevas-normas-para-incentivar-la-agricultura-cubana-08-10-2026-11-10-26",
       "destacada": true,
-      "tema": "restableció",
-      "fecha": "Thu, 08 Oct 2026 10:10:18 -0400",
+      "tema": "tierra",
+      "fecha": "Thu, 08 Oct 2026 11:10:26 -0400",
       "id": 1
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "«Criterio Compartido»: espacio que se construye entre todos",
+      "resumen": "En la segunda emisión del programa radial «Criterio Compartido», el Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, respondió a las inquietudes de la población. El anfitrión de este espacio afirmó que con las preocupaciones",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-07/criterio-compartido-espacio-que-se-construye-entre-todos-07-10-2026-13-10-08",
+      "destacada": true,
+      "tema": "criterio",
+      "fecha": "Wed, 07 Oct 2026 13:10:08 -0400",
+      "id": 2
     },
     {
       "categoria": "politica",
@@ -27,19 +40,6 @@
       "destacada": true,
       "tema": "canel",
       "fecha": "Wed, 07 Oct 2026 16:10:12 -0400",
-      "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Washington no tiene autoridad alguna para decidir quién puede comerciar con Cuba",
-      "resumen": "El Canciller rechazó las medidas coercitivas unilaterales, de carácter extraterritorial que la Casa Blanca impone a la Isla",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-08/washington-no-tiene-autoridad-alguna-para-decidir-quien-puede-comerciar-con-cuba-08-10-2026-10-10-21",
-      "destacada": true,
-      "tema": "washington",
-      "fecha": "Thu, 08 Oct 2026 10:10:21 -0400",
       "id": 3
     },
     {
@@ -56,68 +56,68 @@
       "id": 4
     },
     {
-      "categoria": "sociedad",
+      "categoria": "energia",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Voleibol olímpico con la mitad de sus países clasificados",
-      "resumen": "Brasil aseguró boletos con sus dos selecciones, mientras Canadá y Cuba representarán a Norceca",
+      "titulo": "Acosta Danza estrena nuevo espectáculo en Reino Unido",
+      "resumen": "Sobre el show se ha dicho que «la exuberante maestría del período Barroco se fusiona con la energía, la creatividad y la vitalidad de la danza cubana»",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-10-08/voleibol-olimpico-con-la-mitad-de-sus-paises-clasificados-08-10-2026-10-10-45",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-08/acosta-danza-estrena-nuevo-espectaculo-en-reino-unido-08-10-2026-11-10-58",
       "destacada": true,
-      "tema": "voleibol",
-      "fecha": "Thu, 08 Oct 2026 10:10:45 -0400",
+      "tema": "acosta",
+      "fecha": "Thu, 08 Oct 2026 11:10:58 -0400",
       "id": 5
     },
     {
-      "categoria": "sociedad",
+      "categoria": "energia",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "La Fiesta de la Cubanía tomará Bayamo con un crisol de arte, historia y orgullo nacional",
-      "resumen": "Con un programa que abarca hasta las tradiciones más raigales, el evento reunirá a premios nacionales, historiadores y líderes culturales en la ciudad granmense",
+      "titulo": "Restableció Etecsa servicios tras afectaciones energéticas",
+      "resumen": "La Empresa de Telecomunicaciones de Cuba, Etecsa, informó este miércoles que fueron restablecidos ya varios servicios afectados por problemas energéticos ocurridos el 5 de octubre, tras acciones ejecutadas junto a la Empresa Eléctrica de La Habana y otras instituciones",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-08/la-fiesta-de-la-cubania-tomara-bayamo-con-un-crisol-de-arte-historia-y-orgullo-nacional-08-10-2026-10-10-00",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-08/restablecio-etecsa-servicios-tras-afectaciones-energeticas-08-10-2026-10-10-18",
       "destacada": false,
-      "tema": "fiesta",
-      "fecha": "Thu, 08 Oct 2026 10:10:00 -0400",
+      "tema": "restableció",
+      "fecha": "Thu, 08 Oct 2026 10:10:18 -0400",
       "id": 6
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Izquierda Unida de Dominicana destaca visita de su secretario a Cuba",
-      "resumen": "Santo Domingo, 8 oct (Prensa Latina) El Movimiento Izquierda Unida (MIU) de Dominicana destacó hoy la visita que realiza a La Habana su secretario general, Miguel Mejía, quien fue recibido por Roberto Morales Ojeda, miembro del Buró Político del Partido Comunista de Cuba (PCC). The post Izquierda Un",
+      "titulo": "Washington no tiene autoridad alguna para decidir quién puede comerciar con Cuba",
+      "resumen": "El Canciller rechazó las medidas coercitivas unilaterales, de carácter extraterritorial que la Casa Blanca impone a la Isla",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/08/izquierda-unida-de-dominicana-destaca-visita-de-su-secretario-a-cuba/",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-08/washington-no-tiene-autoridad-alguna-para-decidir-quien-puede-comerciar-con-cuba-08-10-2026-10-10-21",
       "destacada": false,
-      "tema": "izquierda",
-      "fecha": "Thu, 08 Oct 2026 14:53:35 +0000",
+      "tema": "washington",
+      "fecha": "Thu, 08 Oct 2026 10:10:21 -0400",
       "id": 7
     },
     {
-      "categoria": "politica",
+      "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba reafirma disposición a fortalecer relaciones con India",
-      "resumen": "La Habana, 8 oct (Prensa Latina) El presidente de Cuba, Miguel Díaz-Canel, ratificó hoy la disposición de la nación caribeña a fortalecer las relaciones de amistad y cooperación con India, en un mensaje dirigido al primer ministro de ese país, Narendra Modi. The post Cuba reafirma disposición a fort",
+      "titulo": "Garantiza Cuba diagnóstico temprano de discapacidad auditiva infantil",
+      "resumen": "Holguín, Cuba, 8 oct (Prensa Latina) La realización sistemática del pesquisaje neonatal en la oriental provincia de Holguín consolida hoy el programa nacional cubano de prevención de discapacidades auditivas y visuales en la infancia. The post Garantiza Cuba diagnóstico temprano de discapacidad audi",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/08/cuba-reafirma-disposicion-a-fortalecer-relaciones-con-india/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/08/garantiza-cuba-diagnostico-temprano-de-discapacidad-auditiva-infantil/",
       "destacada": false,
-      "tema": "reafirma",
-      "fecha": "Thu, 08 Oct 2026 14:48:29 +0000",
+      "tema": "garantiza",
+      "fecha": "Thu, 08 Oct 2026 15:34:43 +0000",
       "id": 8
     },
     {
       "categoria": "politica",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Federación sindical de El Salvador expresa solidaridad con Cuba",
-      "resumen": "San Salvador, 8 oct (Prensa Latina) La Federación Unitaria Sindical de El Salvador (FUSS) expresó hoy su firme y fraterna solidaridad con el pueblo y Gobierno Revolucionario de Cuba quienes resisten el bloqueo económico, comercial y financiero impuesto por Estados Unidos. The post Federación sindica",
+      "titulo": "Cuba revisa transformaciones en sector energético",
+      "resumen": "La Habana, 8 oct (Prensa Latina) El presidente Miguel Díaz-Canel valoró como una experiencia de aprendizaje e intercambio la visita realizada ayer por la dirección partidista a entidades que hoy son estratégicas en el sector energético cubano. The post Cuba revisa transformaciones en sector energéti",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/08/federacion-sindical-de-el-salvador-expresa-solidaridad-con-cuba/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/08/cuba-revisa-transformaciones-en-sector-energetico/",
       "destacada": false,
-      "tema": "federación",
-      "fecha": "Thu, 08 Oct 2026 14:22:55 +0000",
+      "tema": "revisa",
+      "fecha": "Thu, 08 Oct 2026 15:16:39 +0000",
       "id": 9
     },
     {
@@ -251,16 +251,16 @@
       "id": 19
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.radiocubana.cu",
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel participa en la segunda emisión de «Criterio Compartido» por Radio Rebelde",
-      "resumen": "El Presidente de la República de Cuba, Miguel Díaz-Canel Bermúdez, dialoga este miércoles con la periodista Bárbara Betancourt en la segunda emisión del espacio radial «Criterio Compartido», que se transmite desde las 7:15 de la mañana por Radio Rebelde. La propuesta está dedicada a reflexionar sobr",
+      "titulo": "La voz de Cuba en Foro Internacional Municipios que Cuidan",
+      "resumen": "La cita favoreció el diálogo entre gobiernos locales, sociedad civil, redes feministas, académicos…, acerca de políticas, financiamientos y articulación territorial",
       "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/diaz-canel-participa-en-la-segunda-emision-de-criterio-compartido-por-radio-rebelde/",
+      "enlace_original": "https://www.trabajadores.cu/20261008/la-voz-de-cuba-en-foro-internacional-municipios-que-cuidan/",
       "destacada": false,
-      "tema": "canel",
-      "fecha": "Wed, 07 Oct 2026 12:03:20 +0000",
+      "tema": "internacional",
+      "fecha": "Thu, 08 Oct 2026 15:19:57 +0000",
       "id": 20
     },
     {
@@ -317,29 +317,16 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "En La Victoria la tierra aprende a hablar",
-      "resumen": "Ricardo Serrano Masquida convirtió 40 hectáreas de Bayamo en un laboratorio donde la ciencia y la inventiva campesina demuestran que el frutal cubano puede renacer",
+      "titulo": "Andy Díaz, único cubano entre los nominados como mejor exponente del atletismo mundial en 2026",
+      "resumen": "El triplista #AndyDíaz es el único cubano entre los nominados por #WorldAthletics como mejor atleta de 2026. Ningún miembro de la estatal #FCA aparece en las listas publicadas en las ramas masculina y femenina.",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261007/en-la-victoria-la-tierra-aprende-a-hablar/",
+      "enlace_original": "https://diariodecuba.com/deportes/1791473283_69306.html",
       "destacada": false,
-      "tema": "victoria",
-      "fecha": "Wed, 07 Oct 2026 18:20:17 +0000",
+      "tema": "único",
+      "fecha": "Thu, 08 Oct 2026 17:28:03 +0200",
       "id": 25
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Pesistas cubanos persiguen nueva meta",
-      "resumen": "El Campeonato Continental de Mayores con sede en México les ha permitido ya apuntarse algunas preseas que no solo tributan tranquilidad, sino que demuestran que la ruta marcha bien",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261007/pesistas-cubanos-persiguen-nueva-meta/",
-      "destacada": false,
-      "tema": "pesistas",
-      "fecha": "Wed, 07 Oct 2026 16:37:04 +0000",
-      "id": 26
     },
     {
       "categoria": "economia",
@@ -352,7 +339,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 08 Oct 2026 14:48:54 +0200",
-      "id": 27
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -365,7 +352,7 @@
       "destacada": false,
       "tema": "cubalex",
       "fecha": "Thu, 08 Oct 2026 13:40:05 +0200",
-      "id": 28
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -378,7 +365,7 @@
       "destacada": false,
       "tema": "exiliados",
       "fecha": "Thu, 08 Oct 2026 13:15:11 +0200",
-      "id": 29
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -391,7 +378,7 @@
       "destacada": false,
       "tema": "datos",
       "fecha": "Thu, 08 Oct 2026 13:01:22 +0200",
-      "id": 30
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -404,7 +391,7 @@
       "destacada": false,
       "tema": "empresaria",
       "fecha": "Thu, 08 Oct 2026 12:13:03 +0200",
-      "id": 31
+      "id": 30
     },
     {
       "categoria": "politica",
@@ -417,7 +404,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 08 Oct 2026 11:46:52 +0200",
-      "id": 32
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -430,32 +417,45 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Thu, 08 Oct 2026 08:44:28 +0200",
+      "id": 32
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 12:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480491.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Thu, 08 Oct 2026 12:00:00 -0400",
       "id": 33
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El régimen aprueba beneficios fiscales para las empresas que empleen a personas con discapacidad",
-      "resumen": "El régimen #cubano aprueba beneficios fiscales para empresas que empleen a personas con #discapacidad y presenta la medida como garantía de \"empleo digno\", mientras crece el abandono asistencial.",
+      "titulo": "Los héroes nacen en octubre: cubanos Mesa y Pagés se visten de gloria",
+      "resumen": "Víctor Mesa Jr. y Andy Pagés emergieron como figuras clave en la postemporada: el villaclareño disparó un jonrón decisivo para que los Rays eliminaran a los Yankees, y el pinareño impulsó dos carreras para que los Dodgers superaran a los Bravos.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791414635_69296.html",
+      "enlace_original": "https://www.martinoticias.com/a/los-heroes-nacen-en-octubre-cubanos-mesa-y-pages-se-visten-de-gloria/481554.html",
       "destacada": false,
-      "tema": "régimen",
-      "fecha": "Thu, 08 Oct 2026 01:10:35 +0200",
+      "tema": "héroes",
+      "fecha": "Thu, 08 Oct 2026 11:51:17 -0400",
       "id": 34
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Lawton Libre",
-      "resumen": "El reconocido opositor cubano Dr. Oscar Elías Biscet aborda la situación de los derechos humanos en Cuba y la conquista de las libertades básicas de los cubanos, bajo el precepto de que “si aprendes a ser libre, todos los seremos”. Correo Electrónico: lawtonlibremarti@gmail.com",
+      "titulo": "Barrio adentro",
+      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480479.html",
+      "enlace_original": "https://www.martinoticias.com/a/480488.html",
       "destacada": false,
-      "tema": "lawton",
-      "fecha": "Thu, 08 Oct 2026 11:00:00 -0400",
+      "tema": "barrio",
+      "fecha": "Thu, 08 Oct 2026 11:30:00 -0400",
       "id": 35
     },
     {
@@ -472,6 +472,45 @@
       "id": 36
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Lawton Libre",
+      "resumen": "El reconocido opositor cubano Dr. Oscar Elías Biscet aborda la situación de los derechos humanos en Cuba y la conquista de las libertades básicas de los cubanos, bajo el precepto de que “si aprendes a ser libre, todos los seremos”. Correo Electrónico: lawtonlibremarti@gmail.com",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480479.html",
+      "destacada": false,
+      "tema": "lawton",
+      "fecha": "Thu, 08 Oct 2026 11:00:00 -0400",
+      "id": 37
+    },
+    {
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba denuncia amenazas de Estados unidos contra países que suministran combustible a la isla",
+      "resumen": "El viceministro cubano de Relaciones Exteriores, Carlos Fernández de Cossío acusó a Estados Unidos de intimidar con amenazas a países y empresas que exportan o transportan combustible hacia Cuba. Subrayó que la importación de combustible por entidades estatales y privadas cubanas es legal conforme a",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/08/cuba-denuncia-amenazas-de-estados-unidos-contra-paises-que-suministran-combustible-a-la-isla/",
+      "destacada": false,
+      "tema": "denuncia",
+      "fecha": "Thu, 08 Oct 2026 15:46:12 +0000",
+      "id": 38
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Archivo CD: Che Guevara: 8 de octubre, día aciago en la Quebrada del Yuro",
+      "resumen": "Cubadebate rescata de su archivo este artículo de la Dra. Maria del Carmen Ariet que recuerda el 8 de octubre de 1967 como el día en que Ernesto Che Guevara fue capturado tras el combate en la Quebrada del Yuro, Bolivia, un episodio marcado por la dureza del terreno, el agotamiento físico de los gue",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/08/archivo-cd-che-guevara-8-de-octubre-dia-aciago-en-la-quebrada-del-yuro/",
+      "destacada": false,
+      "tema": "archivo",
+      "fecha": "Thu, 08 Oct 2026 15:30:52 +0000",
+      "id": 39
+    },
+    {
       "categoria": "salud",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
@@ -482,20 +521,20 @@
       "destacada": false,
       "tema": "envía",
       "fecha": "Thu, 08 Oct 2026 14:14:49 +0000",
-      "id": 37
+      "id": 40
     },
     {
       "categoria": "sociedad",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Denuncia Cuba en la CEPAL el impacto del bloqueo y reafirma su compromiso con la integración regional",
+      "titulo": "Cuba en CEPAL: La integración regional es estratégica para nuestras transformaciones",
       "resumen": "En su intervención ante la CEPAL, la viceministra del Comercio Exterior y la Inversión Extranjera de Cuba, Deborah Rivas Saavedra, agradeció la convocatoria al espacio de reflexión colectiva sobre los desafíos estructurales de la región y las oportunidades a construir de manera conjunta. Asimismo, e",
       "imagen_url": "",
       "enlace_original": "http://www.cubadebate.cu/opinion/2026/10/08/denuncia-cuba-en-la-cepal-el-impacto-del-bloqueo-y-reafirma-su-compromiso-con-la-integracion-regional/",
       "destacada": false,
-      "tema": "denuncia",
+      "tema": "cepal",
       "fecha": "Thu, 08 Oct 2026 13:59:41 +0000",
-      "id": 38
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -508,20 +547,7 @@
       "destacada": false,
       "tema": "nuevas",
       "fecha": "Thu, 08 Oct 2026 04:02:46 +0000",
-      "id": 39
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Santiago de Cuba, único invicto en la Serie Nacional de Béisbol",
-      "resumen": "Las Avispas de Santiago de Cuba noquearon este miércoles 14-4 a los Indios de Guantánamo, para completar la barrida en cuatro juegos y convertirse en el único equipo invicto de la 65.ª Serie Nacional de Béisbol. The post Santiago de Cuba, único invicto en la Serie Nacional de Béisbol first appeared ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/07/santiago-de-cuba-unico-invicto-en-la-serie-nacional-de-beisbol/",
-      "destacada": false,
-      "tema": "santiago",
-      "fecha": "Thu, 08 Oct 2026 03:45:52 +0000",
-      "id": 40
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -534,7 +560,7 @@
       "destacada": false,
       "tema": "valery",
       "fecha": "Tue, 06 Oct 2026 16:26:05 +0000",
-      "id": 41
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -547,7 +573,7 @@
       "destacada": false,
       "tema": "silenciosa",
       "fecha": "Thu, 08 Oct 26 13:20:00 +0200",
-      "id": 42
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -560,7 +586,7 @@
       "destacada": false,
       "tema": "dentro",
       "fecha": "Thu, 08 Oct 26 07:54:00 +0200",
-      "id": 43
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -573,7 +599,7 @@
       "destacada": false,
       "tema": "silvio",
       "fecha": "Thu, 08 Oct 26 07:53:00 +0200",
-      "id": 44
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -586,7 +612,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Thu, 08 Oct 26 07:52:00 +0200",
-      "id": 45
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -599,7 +625,7 @@
       "destacada": false,
       "tema": "lecciones",
       "fecha": "Thu, 08 Oct 26 07:01:00 +0200",
-      "id": 46
+      "id": 48
     },
     {
       "categoria": "politica",
@@ -612,7 +638,7 @@
       "destacada": false,
       "tema": "importación",
       "fecha": "Thu, 08 Oct 26 06:54:00 +0200",
-      "id": 47
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -625,7 +651,7 @@
       "destacada": false,
       "tema": "imperio",
       "fecha": "Thu, 08 Oct 26 06:51:00 +0200",
-      "id": 48
+      "id": 50
     },
     {
       "categoria": "politica",
@@ -638,7 +664,7 @@
       "destacada": false,
       "tema": "cámara",
       "fecha": "Thu, 08 Oct 26 06:48:00 +0200",
-      "id": 49
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -651,7 +677,7 @@
       "destacada": false,
       "tema": "sabían",
       "fecha": "Thu, 08 Oct 26 06:41:00 +0200",
-      "id": 50
+      "id": 52
     },
     {
       "categoria": "politica",
@@ -664,7 +690,7 @@
       "destacada": false,
       "tema": "chequea",
       "fecha": "Wed, 07 Oct 2026 18:14:00 +0000",
-      "id": 51
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -677,7 +703,7 @@
       "destacada": false,
       "tema": "ciudad",
       "fecha": "Wed, 07 Oct 2026 22:02:55 +0000",
-      "id": 52
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -690,7 +716,7 @@
       "destacada": false,
       "tema": "desafío",
       "fecha": "Wed, 07 Oct 2026 22:02:57 +0000",
-      "id": 53
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -703,7 +729,7 @@
       "destacada": false,
       "tema": "aprender",
       "fecha": "Wed, 07 Oct 2026 22:02:52 +0000",
-      "id": 54
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -716,7 +742,33 @@
       "destacada": false,
       "tema": "lugar",
       "fecha": "Wed, 07 Oct 2026 22:02:50 +0000",
-      "id": 55
+      "id": 57
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Matanzas a las puertas de jornadas por la cultura",
+      "resumen": "Matanzas acogerá del 10 al 20 de octubre la 51 Semana de la Cultura Matancera y la Jornada de la Cultura Cubana, una programación integrada por 245...",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/08/matanzas-jornadas-por-la-cultura/",
+      "destacada": false,
+      "tema": "matanzas",
+      "fecha": "Thu, 08 Oct 2026 15:13:42 +0000",
+      "id": 58
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "ETECSA restablece los servicios afectados el pasado 5 de octubre",
+      "resumen": "La Empresa de Telecomunicaciones de Cuba (ETECSA) informó este miércoles que quedaron restablecidos los servicios afectados desde la mañana del lunes 5 de octubre...",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/08/etecsa-restablece-servicios-afectados/",
+      "destacada": false,
+      "tema": "etecsa",
+      "fecha": "Thu, 08 Oct 2026 12:20:00 +0000",
+      "id": 59
     },
     {
       "categoria": "sociedad",
@@ -729,7 +781,7 @@
       "destacada": false,
       "tema": "premio",
       "fecha": "Wed, 07 Oct 2026 14:29:34 +0000",
-      "id": 56
+      "id": 60
     },
     {
       "categoria": "politica",
@@ -742,33 +794,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Wed, 07 Oct 2026 12:37:00 +0000",
-      "id": 57
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barbados: memoria que permanece en Unión de Reyes",
-      "resumen": "La memoria de las víctimas del sabotaje al vuelo CU-455 de Cubana de Aviación estuvo presente en un matutino especial desarrollado en el politécnico Elpidio Berovides, en Unión de Reyes.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/07/barbados-memoria-permanece-en-union-de-reyes/",
-      "destacada": false,
-      "tema": "barbados",
-      "fecha": "Wed, 07 Oct 2026 12:29:00 +0000",
-      "id": 58
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Embarazo adolescente: A tiempo de escribir otro futuro",
-      "resumen": "El embarazo adolescente y las infecciones de transmisión sexual no son fenómenos aislados ni simples asuntos de Salud Pública en la Cuba de hoy. Constituyen, en cambio, síntomas de una realidad social más profunda que interpela a familias, escuelas, comunidades e instituciones.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/07/embarazo-adolescente-a-tiempo-de-escribir-otro-futuro/",
-      "destacada": false,
-      "tema": "embarazo",
-      "fecha": "Wed, 07 Oct 2026 11:58:00 +0000",
-      "id": 59
+      "id": 61
     }
   ]
 }
