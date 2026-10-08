@@ -1,8 +1,21 @@
 {
   "fecha": "2026-10-08",
-  "hora": "13:11",
-  "total": 61,
+  "hora": "15:07",
+  "total": 59,
   "noticias": [
+    {
+      "categoria": "energia",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Restableció Etecsa servicios tras afectaciones energéticas",
+      "resumen": "La Empresa de Telecomunicaciones de Cuba, Etecsa, informó este miércoles que fueron restablecidos ya varios servicios afectados por problemas energéticos ocurridos el 5 de octubre, tras acciones ejecutadas junto a la Empresa Eléctrica de La Habana y otras instituciones",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-08/restablecio-etecsa-servicios-tras-afectaciones-energeticas-08-10-2026-10-10-18",
+      "destacada": true,
+      "tema": "restableció",
+      "fecha": "Thu, 08 Oct 2026 10:10:18 -0400",
+      "id": 1
+    },
     {
       "categoria": "politica",
       "fuente": "https://www.granma.cu",
@@ -14,7 +27,20 @@
       "destacada": true,
       "tema": "canel",
       "fecha": "Wed, 07 Oct 2026 16:10:12 -0400",
-      "id": 1
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Washington no tiene autoridad alguna para decidir quién puede comerciar con Cuba",
+      "resumen": "El Canciller rechazó las medidas coercitivas unilaterales, de carácter extraterritorial que la Casa Blanca impone a la Isla",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-08/washington-no-tiene-autoridad-alguna-para-decidir-quien-puede-comerciar-con-cuba-08-10-2026-10-10-21",
+      "destacada": true,
+      "tema": "washington",
+      "fecha": "Thu, 08 Oct 2026 10:10:21 -0400",
+      "id": 3
     },
     {
       "categoria": "politica",
@@ -27,46 +53,85 @@
       "destacada": true,
       "tema": "rinde",
       "fecha": "Tue, 06 Oct 2026 18:10:08 -0400",
-      "id": 2
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Producción de uniformes escolares enfrenta restricciones en Cuba",
-      "resumen": "La Habana, 8 oct (Prensa Latina) Limitaciones de materias primas, financiamiento y energía eléctrica condicionan hoy la producción de uniformes escolares en Cuba, por lo que se prioriza la entrega de prendas a estudiantes de preescolar, quinto y séptimo grados. The post Producción de uniformes escol",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/08/produccion-de-uniformes-escolares-enfrenta-restricciones-en-cuba/",
-      "destacada": true,
-      "tema": "producción",
-      "fecha": "Thu, 08 Oct 2026 13:03:58 +0000",
-      "id": 3
+      "id": 4
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
+      "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Equipo cubano de boxeo a Puebla con la ausencia del campeón olímpico",
-      "resumen": "La Habana, 8 oct (Prensa Latina) Con la ausencia del campeón olímpico Erislandy Álvarez, la Comisión Nacional de Boxeo anunció hoy el equipo al torneo clasificatorio para los Juegos Panamericanos de Lima 2027, del 17 al 25 próximos en Puebla, México. The post Equipo cubano de boxeo a Puebla con la a",
+      "titulo": "Voleibol olímpico con la mitad de sus países clasificados",
+      "resumen": "Brasil aseguró boletos con sus dos selecciones, mientras Canadá y Cuba representarán a Norceca",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/08/equipo-cubano-de-boxeo-a-puebla-con-la-ausencia-del-campeon-olimpico/",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-08/voleibol-olimpico-con-la-mitad-de-sus-paises-clasificados-08-10-2026-10-10-45",
       "destacada": true,
-      "tema": "equipo",
-      "fecha": "Thu, 08 Oct 2026 12:52:27 +0000",
-      "id": 4
+      "tema": "voleibol",
+      "fecha": "Thu, 08 Oct 2026 10:10:45 -0400",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La Fiesta de la Cubanía tomará Bayamo con un crisol de arte, historia y orgullo nacional",
+      "resumen": "Con un programa que abarca hasta las tradiciones más raigales, el evento reunirá a premios nacionales, historiadores y líderes culturales en la ciudad granmense",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-08/la-fiesta-de-la-cubania-tomara-bayamo-con-un-crisol-de-arte-historia-y-orgullo-nacional-08-10-2026-10-10-00",
+      "destacada": false,
+      "tema": "fiesta",
+      "fecha": "Thu, 08 Oct 2026 10:10:00 -0400",
+      "id": 6
     },
     {
       "categoria": "politica",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Amigos de Cuba en Italia valoran apoyo en Cámara de Diputados",
-      "resumen": "Roma, 8 oct (Prensa Latina) El presidente de la Asociación Nacional de Amistad Italia-Cuba (ANAIC) destacó hoy la resolución aprobada por la Comisión de Asuntos Exteriores de la Cámara de Diputados de Italia, la cual insta a su Gobierno a apoyar a Cuba. The post Amigos de Cuba en Italia valoran apoy",
+      "titulo": "Izquierda Unida de Dominicana destaca visita de su secretario a Cuba",
+      "resumen": "Santo Domingo, 8 oct (Prensa Latina) El Movimiento Izquierda Unida (MIU) de Dominicana destacó hoy la visita que realiza a La Habana su secretario general, Miguel Mejía, quien fue recibido por Roberto Morales Ojeda, miembro del Buró Político del Partido Comunista de Cuba (PCC). The post Izquierda Un",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/08/amigos-de-cuba-en-italia-valoran-apoyo-en-camara-de-diputados/",
-      "destacada": true,
-      "tema": "amigos",
-      "fecha": "Thu, 08 Oct 2026 12:51:54 +0000",
-      "id": 5
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/08/izquierda-unida-de-dominicana-destaca-visita-de-su-secretario-a-cuba/",
+      "destacada": false,
+      "tema": "izquierda",
+      "fecha": "Thu, 08 Oct 2026 14:53:35 +0000",
+      "id": 7
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba reafirma disposición a fortalecer relaciones con India",
+      "resumen": "La Habana, 8 oct (Prensa Latina) El presidente de Cuba, Miguel Díaz-Canel, ratificó hoy la disposición de la nación caribeña a fortalecer las relaciones de amistad y cooperación con India, en un mensaje dirigido al primer ministro de ese país, Narendra Modi. The post Cuba reafirma disposición a fort",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/08/cuba-reafirma-disposicion-a-fortalecer-relaciones-con-india/",
+      "destacada": false,
+      "tema": "reafirma",
+      "fecha": "Thu, 08 Oct 2026 14:48:29 +0000",
+      "id": 8
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Federación sindical de El Salvador expresa solidaridad con Cuba",
+      "resumen": "San Salvador, 8 oct (Prensa Latina) La Federación Unitaria Sindical de El Salvador (FUSS) expresó hoy su firme y fraterna solidaridad con el pueblo y Gobierno Revolucionario de Cuba quienes resisten el bloqueo económico, comercial y financiero impuesto por Estados Unidos. The post Federación sindica",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/08/federacion-sindical-de-el-salvador-expresa-solidaridad-con-cuba/",
+      "destacada": false,
+      "tema": "federación",
+      "fecha": "Thu, 08 Oct 2026 14:22:55 +0000",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El robo, móvil del asesinato de un cubanoamericano a manos de su pareja en La Habana",
+      "resumen": "La víctima, que sangraba abundantemente, logró salir del apartamento y llamar en casa de un vecino al que contó quién lo había agredido",
+      "imagen_url": "https://static.14ymedio.com/clip/4b8ef567-bc5f-47aa-b0d1-233df4a41bcf_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/robo-movil-asesinato-cubanoamericano-manos_1_1131689.html",
+      "destacada": false,
+      "tema": "móvil",
+      "fecha": "Thu, 08 Oct 2026 14:11:07 +0000",
+      "id": 10
     },
     {
       "categoria": "salud",
@@ -79,7 +144,7 @@
       "destacada": false,
       "tema": "vuelto",
       "fecha": "Thu, 08 Oct 2026 10:08:06 +0000",
-      "id": 6
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -92,7 +157,20 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Thu, 08 Oct 2026 10:36:37 +0000",
-      "id": 7
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Un libro reúne ensayos y testimonios sobre la instauración del totalitarismo en Cuba",
+      "resumen": "El volumen pretende recuperar episodios, métodos represivos y testimonios ausentes de los libros de texto oficiales, y reivindicar la memoria de las víctimas de los fusilamientos, el presidio político y el exilio",
+      "imagen_url": "https://static.14ymedio.com/clip/a5736529-8f1f-46bb-b2fa-92dd7fec6264_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cultura/libro-reune-ensayos-testimonios-instauracion_1_1131691.html",
+      "destacada": false,
+      "tema": "libro",
+      "fecha": "Thu, 08 Oct 2026 14:21:04 +0000",
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -105,7 +183,7 @@
       "destacada": false,
       "tema": "brascuba",
       "fecha": "Wed, 07 Oct 2026 22:12:38 +0000",
-      "id": 8
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -118,7 +196,7 @@
       "destacada": false,
       "tema": "bloqueó",
       "fecha": "Wed, 07 Oct 2026 17:36:25 +0000",
-      "id": 9
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -131,7 +209,7 @@
       "destacada": false,
       "tema": "habrá",
       "fecha": "Wed, 07 Oct 2026 16:27:00 +0000",
-      "id": 10
+      "id": 16
     },
     {
       "categoria": "transporte",
@@ -144,7 +222,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Wed, 07 Oct 2026 15:10:36 +0000",
-      "id": 11
+      "id": 17
     },
     {
       "categoria": "economia",
@@ -157,72 +235,20 @@
       "destacada": false,
       "tema": "estado",
       "fecha": "Wed, 07 Oct 2026 12:37:12 +0000",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Denuncian desaparición de dos jóvenes cubanas en Boyeros, La Habana",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e43231-s27061-nid342287-denuncian-desaparicion-dos-jovenes-cubanas-boyeros",
-      "destacada": false,
-      "tema": "denuncian",
-      "fecha": "Thu, 08 Oct 2026 14:13:06 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Justicia española obliga a tramitar la homologación de una estomatóloga formada en Cuba tras casi cinco años de espera",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e13-s27061-nid342276-justicia-espanola-obliga-tramitar-homologacion",
-      "destacada": false,
-      "tema": "justicia",
-      "fecha": "Thu, 08 Oct 2026 14:00:58 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubano ante las promesas de Marrero: «Cree en su delirio que es posible engañar a otra generación de cubanos»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e199370-s27061-nid342271-cubano-promesas-marrero-cree-delirio-posible-enganar",
-      "destacada": false,
-      "tema": "cubano",
-      "fecha": "Thu, 08 Oct 2026 13:45:55 +0200",
-      "id": 15
+      "id": 18
     },
     {
       "categoria": "politica",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Madre cubana pide cobrar como cuidadora de su hijo amputado y Díaz-Canel promete: «Te darán solución»",
+      "titulo": "Años pidiendo una tierra para producir y solo resuelve tras llamar a Díaz-Canel: viceministro admite «mal proceder»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e43231-s27061-nid342284-madre-cubana-pide-cobrar-cuidadora-hijo-amputado-diaz",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e43231-s27061-nid342285-meses-esperando-tierra-tres-dias-resolverlo-tras",
       "destacada": false,
-      "tema": "madre",
-      "fecha": "Thu, 08 Oct 2026 13:45:02 +0200",
-      "id": 16
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Habana registró 91 circuitos sin luz en la madrugada: apagones de más de ocho horas",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e13-s27061-nid342278-habana-registro-91-circuitos-luz-madrugada-apagones-ocho",
-      "destacada": false,
-      "tema": "habana",
-      "fecha": "Thu, 08 Oct 2026 13:32:10 +0200",
-      "id": 17
+      "tema": "pidiendo",
+      "fecha": "Thu, 08 Oct 2026 15:13:43 +0200",
+      "id": 19
     },
     {
       "categoria": "politica",
@@ -235,7 +261,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Wed, 07 Oct 2026 12:03:20 +0000",
-      "id": 18
+      "id": 20
     },
     {
       "categoria": "politica",
@@ -248,7 +274,7 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Wed, 07 Oct 2026 22:30:36 +0000",
-      "id": 19
+      "id": 21
     },
     {
       "categoria": "politica",
@@ -261,7 +287,7 @@
       "destacada": false,
       "tema": "innovadores",
       "fecha": "Wed, 07 Oct 2026 21:27:25 +0000",
-      "id": 20
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -274,7 +300,7 @@
       "destacada": false,
       "tema": "crecer",
       "fecha": "Wed, 07 Oct 2026 20:07:18 +0000",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "economia",
@@ -287,7 +313,7 @@
       "destacada": false,
       "tema": "chequea",
       "fecha": "Wed, 07 Oct 2026 19:39:13 +0000",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "victoria",
       "fecha": "Wed, 07 Oct 2026 18:20:17 +0000",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "pesistas",
       "fecha": "Wed, 07 Oct 2026 16:37:04 +0000",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "economia",
@@ -326,7 +352,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 08 Oct 2026 14:48:54 +0200",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -339,7 +365,7 @@
       "destacada": false,
       "tema": "cubalex",
       "fecha": "Thu, 08 Oct 2026 13:40:05 +0200",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "exiliados",
       "fecha": "Thu, 08 Oct 2026 13:15:11 +0200",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -365,7 +391,7 @@
       "destacada": false,
       "tema": "datos",
       "fecha": "Thu, 08 Oct 2026 13:01:22 +0200",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -378,7 +404,7 @@
       "destacada": false,
       "tema": "empresaria",
       "fecha": "Thu, 08 Oct 2026 12:13:03 +0200",
-      "id": 29
+      "id": 31
     },
     {
       "categoria": "politica",
@@ -391,7 +417,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 08 Oct 2026 11:46:52 +0200",
-      "id": 30
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -404,7 +430,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Thu, 08 Oct 2026 08:44:28 +0200",
-      "id": 31
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -417,72 +443,59 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Thu, 08 Oct 2026 01:10:35 +0200",
-      "id": 32
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Martinoticias AM",
-      "resumen": "Revista informativa con los últimos acontecimientos ocurridos en Cuba y el mundo. Con entrevistas y temas de actualidad relacionados a la política, la economía y de interés general.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480476.html",
-      "destacada": false,
-      "tema": "martinoticias",
-      "fecha": "Thu, 08 Oct 2026 08:00:00 -0400",
-      "id": 33
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Ileana Álvarez directora de OGAT",
-      "resumen": "En Abriendo Espacios conversamos con Ileana Álvarez directora de OGAT sobre la violencia de género en Cuba y los feminicidios.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/ileana-%c3%a1lvarez-directora-de-ogat/481548.html",
-      "destacada": false,
-      "tema": "ileana",
-      "fecha": "Thu, 08 Oct 2026 07:49:50 -0400",
       "id": 34
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba Habla: \"Normalmente no almuerzo para que él almuerce”",
-      "resumen": "Madre habanera explica las dificultades que enfrenta para alimentar a sus hijos.",
+      "titulo": "Lawton Libre",
+      "resumen": "El reconocido opositor cubano Dr. Oscar Elías Biscet aborda la situación de los derechos humanos en Cuba y la conquista de las libertades básicas de los cubanos, bajo el precepto de que “si aprendes a ser libre, todos los seremos”. Correo Electrónico: lawtonlibremarti@gmail.com",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-normalmente-no-almuerzo-para-que-%c3%a9l-almuerce/481165.html",
+      "enlace_original": "https://www.martinoticias.com/a/480479.html",
       "destacada": false,
-      "tema": "habla",
-      "fecha": "Thu, 08 Oct 2026 07:00:00 -0400",
+      "tema": "lawton",
+      "fecha": "Thu, 08 Oct 2026 11:00:00 -0400",
       "id": 35
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
+      "titulo": "Cuba para Cristo",
+      "resumen": "El justo reclamo de un pueblo.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480474.html",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-para-cristo/481547.html",
       "destacada": false,
-      "tema": "",
-      "fecha": "Thu, 08 Oct 2026 00:00:30 -0400",
+      "tema": "cristo",
+      "fecha": "Thu, 08 Oct 2026 11:00:00 -0400",
       "id": 36
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Denuncian detención de pastor en Camagüey tras convocar a una oración por Cuba",
-      "resumen": "El pastor cubano Maikel Pupo Velázquez, de la Iglesia Palabra de Fuego Bendición Sagrada, lleva detenido desde el 26 de septiembre tras convocar una oración pública por Cuba.",
+      "categoria": "salud",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Envía Raúl carta de felicitación por los 45 años de la Universidad de Ciencias Médicas de las FAR",
+      "resumen": "El General de Ejército Raúl Castro Ruz envió una carta de felicitación a oficiales, profesores, cadetes, alumnos y trabajadores civiles de la Ucimed-FAR por el aniversario 45 de la institución. Raúl destacó la formación de profesionales de la Salud que garantizan el aseguramiento médico a las unidad",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/denuncian-detenci%c3%b3n-de-pastor-en-camag%c3%bcey-tras-convocar-a-una-oraci%c3%b3n-por-cuba/481546.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/08/envia-raul-carta-de-felicitacion-por-los-45-anos-de-la-universidad-de-ciencias-medicas-de-las-far/",
       "destacada": false,
-      "tema": "denuncian",
-      "fecha": "Wed, 07 Oct 2026 21:04:54 -0400",
+      "tema": "envía",
+      "fecha": "Thu, 08 Oct 2026 14:14:49 +0000",
       "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Denuncia Cuba en la CEPAL el impacto del bloqueo y reafirma su compromiso con la integración regional",
+      "resumen": "En su intervención ante la CEPAL, la viceministra del Comercio Exterior y la Inversión Extranjera de Cuba, Deborah Rivas Saavedra, agradeció la convocatoria al espacio de reflexión colectiva sobre los desafíos estructurales de la región y las oportunidades a construir de manera conjunta. Asimismo, e",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/opinion/2026/10/08/denuncia-cuba-en-la-cepal-el-impacto-del-bloqueo-y-reafirma-su-compromiso-con-la-integracion-regional/",
+      "destacada": false,
+      "tema": "denuncia",
+      "fecha": "Thu, 08 Oct 2026 13:59:41 +0000",
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -495,7 +508,7 @@
       "destacada": false,
       "tema": "nuevas",
       "fecha": "Thu, 08 Oct 2026 04:02:46 +0000",
-      "id": 38
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -508,46 +521,7 @@
       "destacada": false,
       "tema": "santiago",
       "fecha": "Thu, 08 Oct 2026 03:45:52 +0000",
-      "id": 39
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Yaguajay rememora el 68 aniversario del Frente Norte de Las Villas",
-      "resumen": "La conmemoración, presidida por Deivy Pérez Martín, miembro del Comité Central del Partido Comunista de Cuba y primera secretaria de la organización política en Sancti Spiritus, y Frank Osbel Cañizares Rodríguez, vicegobernador provincial, contó con la participación de una representación del pueblo ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/07/yaguajay-rememora-el-68-aniversario-del-frente-norte-de-las-villas/",
-      "destacada": false,
-      "tema": "yaguajay",
-      "fecha": "Thu, 08 Oct 2026 01:32:51 +0000",
       "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Mundial de Judo 2026: Grigalashvili y Kaju reinan en Bakú; Maylín del Toro cae en su primera salida (+Fotos)",
-      "resumen": "Tato Grigalashvili conquistó su cuarto cetro universal, la japonesa Haruka Kaju se coronó bicampeona mundial y la cubana Maylín del Toro cedió en su primera salida ante la croata Nina Simic por wazari, en la IV jornada del campeonato mundial que se celebra en Bakú. El certamen mantiene a sus favorit",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/07/mundial-de-judo-2026-grigalashvili-y-kaju-reinan-en-baku-maylin-del-toro-cae-en-su-primera-salida-fotos/",
-      "destacada": false,
-      "tema": "mundial",
-      "fecha": "Wed, 07 Oct 2026 21:19:46 +0000",
-      "id": 41
-    },
-    {
-      "categoria": "salud",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Canarias denuncia un bloqueo total que impide el envío de alimentos y medicamentos a Cuba",
-      "resumen": "El Gobierno de Canarias no puede enviar actualmente contenedores de alimentos y medicamentos a la comunidad canaria en Cuba debido a un “bloqueo total” y busca nuevas vías para mantener la ayuda. La denuncia refleja las trabas que enfrenta la isla para recibir cooperación internacional, en un contex",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/07/canarias-denuncia-un-bloqueo-total-que-impide-el-envio-de-alimentos-y-medicamentos-a-cuba/",
-      "destacada": false,
-      "tema": "canarias",
-      "fecha": "Wed, 07 Oct 2026 20:06:46 +0000",
-      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -560,7 +534,7 @@
       "destacada": false,
       "tema": "valery",
       "fecha": "Tue, 06 Oct 2026 16:26:05 +0000",
-      "id": 43
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -573,7 +547,7 @@
       "destacada": false,
       "tema": "silenciosa",
       "fecha": "Thu, 08 Oct 26 13:20:00 +0200",
-      "id": 44
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -586,7 +560,7 @@
       "destacada": false,
       "tema": "dentro",
       "fecha": "Thu, 08 Oct 26 07:54:00 +0200",
-      "id": 45
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -599,7 +573,7 @@
       "destacada": false,
       "tema": "silvio",
       "fecha": "Thu, 08 Oct 26 07:53:00 +0200",
-      "id": 46
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -612,7 +586,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Thu, 08 Oct 26 07:52:00 +0200",
-      "id": 47
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -625,7 +599,7 @@
       "destacada": false,
       "tema": "lecciones",
       "fecha": "Thu, 08 Oct 26 07:01:00 +0200",
-      "id": 48
+      "id": 46
     },
     {
       "categoria": "politica",
@@ -638,7 +612,7 @@
       "destacada": false,
       "tema": "importación",
       "fecha": "Thu, 08 Oct 26 06:54:00 +0200",
-      "id": 49
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -651,7 +625,7 @@
       "destacada": false,
       "tema": "imperio",
       "fecha": "Thu, 08 Oct 26 06:51:00 +0200",
-      "id": 50
+      "id": 48
     },
     {
       "categoria": "politica",
@@ -664,7 +638,7 @@
       "destacada": false,
       "tema": "cámara",
       "fecha": "Thu, 08 Oct 26 06:48:00 +0200",
-      "id": 51
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -677,7 +651,7 @@
       "destacada": false,
       "tema": "sabían",
       "fecha": "Thu, 08 Oct 26 06:41:00 +0200",
-      "id": 52
+      "id": 50
     },
     {
       "categoria": "politica",
@@ -690,7 +664,7 @@
       "destacada": false,
       "tema": "chequea",
       "fecha": "Wed, 07 Oct 2026 18:14:00 +0000",
-      "id": 53
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -703,7 +677,7 @@
       "destacada": false,
       "tema": "ciudad",
       "fecha": "Wed, 07 Oct 2026 22:02:55 +0000",
-      "id": 54
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -716,7 +690,7 @@
       "destacada": false,
       "tema": "desafío",
       "fecha": "Wed, 07 Oct 2026 22:02:57 +0000",
-      "id": 55
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -729,7 +703,7 @@
       "destacada": false,
       "tema": "aprender",
       "fecha": "Wed, 07 Oct 2026 22:02:52 +0000",
-      "id": 56
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -742,7 +716,7 @@
       "destacada": false,
       "tema": "lugar",
       "fecha": "Wed, 07 Oct 2026 22:02:50 +0000",
-      "id": 57
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -755,7 +729,7 @@
       "destacada": false,
       "tema": "premio",
       "fecha": "Wed, 07 Oct 2026 14:29:34 +0000",
-      "id": 58
+      "id": 56
     },
     {
       "categoria": "politica",
@@ -768,7 +742,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Wed, 07 Oct 2026 12:37:00 +0000",
-      "id": 59
+      "id": 57
     },
     {
       "categoria": "transporte",
@@ -781,7 +755,7 @@
       "destacada": false,
       "tema": "barbados",
       "fecha": "Wed, 07 Oct 2026 12:29:00 +0000",
-      "id": 60
+      "id": 58
     },
     {
       "categoria": "salud",
@@ -794,7 +768,7 @@
       "destacada": false,
       "tema": "embarazo",
       "fecha": "Wed, 07 Oct 2026 11:58:00 +0000",
-      "id": 61
+      "id": 59
     }
   ]
 }
