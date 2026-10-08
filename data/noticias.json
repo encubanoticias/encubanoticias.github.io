@@ -1,6 +1,6 @@
 {
   "fecha": "2026-10-08",
-  "hora": "00:06",
+  "hora": "01:09",
   "total": 65,
   "noticias": [
     {
@@ -186,6 +186,32 @@
       "id": 14
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Gran maestro Lázaro Bruzón seguirá hablando sobre Cuba: «No me van a callar»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e197721-s27061-nid342254-gran-maestro-lazaro-bruzon-seguira-hablando-cuba-me",
+      "destacada": false,
+      "tema": "maestro",
+      "fecha": "Thu, 08 Oct 2026 01:39:43 +0200",
+      "id": 15
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Canarias lleva más de un mes sin poder enviar alimentos ni medicinas a sus emigrados en Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e208933-s27061-nid342253-canarias-lleva-mes-poder-enviar-alimentos-ni",
+      "destacada": false,
+      "tema": "canarias",
+      "fecha": "Thu, 08 Oct 2026 01:37:03 +0200",
+      "id": 16
+    },
+    {
       "categoria": "transporte",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
@@ -196,7 +222,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Thu, 08 Oct 2026 00:49:34 +0200",
-      "id": 15
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -209,7 +235,7 @@
       "destacada": false,
       "tema": "diplomático",
       "fecha": "Thu, 08 Oct 2026 00:44:05 +0200",
-      "id": 16
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -222,32 +248,6 @@
       "destacada": false,
       "tema": "cubana",
       "fecha": "Thu, 08 Oct 2026 00:33:45 +0200",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Baby Lores a su madre enferma en Cuba: «Voy a hacer todo lo que esté en mis manos para abrazarte»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e208933-s27061-nid342243-baby-lores-madre-enferma-cuba-voy-hacer-todo-este",
-      "destacada": false,
-      "tema": "lores",
-      "fecha": "Thu, 08 Oct 2026 00:08:42 +0200",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Baby Lores comparte emotivas palabras de su madre enferma en Cuba: «Soy fuerte y voy a seguir fuerte»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e135253-s27061-nid342244-baby-lores-comparte-emotivas-palabras-madre-enferma",
-      "destacada": false,
-      "tema": "lores",
-      "fecha": "Thu, 08 Oct 2026 00:01:02 +0200",
       "id": 19
     },
     {
@@ -462,6 +462,45 @@
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
+      "titulo": "Denuncian detención de pastor en Camagüey tras convocar a una oración por Cuba",
+      "resumen": "El pastor cubano Maikel Pupo Velázquez, de la Iglesia Palabra de Fuego Bendición Sagrada, lleva detenido desde el 26 de septiembre tras convocar una oración pública por Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/denuncian-detenci%c3%b3n-de-pastor-en-camag%c3%bcey-tras-convocar-a-una-oraci%c3%b3n-por-cuba/481546.html",
+      "destacada": false,
+      "tema": "denuncian",
+      "fecha": "Wed, 07 Oct 2026 21:04:54 -0400",
+      "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Barbacoa de Pepe",
+      "resumen": "La Barbacoa de Pepe es un muestrario de la nostalgia cubana con datos y curiosidades de los temas más variados, para la audiencia cubana. También trataremos temas internacionales y locales, siempre con el fin de educar al Cubano de la Isla. Con la elocuencia de Pepe Forte.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480423.html",
+      "destacada": false,
+      "tema": "barbacoa",
+      "fecha": "Wed, 07 Oct 2026 21:00:00 -0400",
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubalex: El caso contra jóvenes de El4tico criminaliza la libertad de expresión",
+      "resumen": "La organización examinó las conclusiones provisionales emitidas el 15 de septiembre contra Ernesto Ricardo Medina y Kamil Zayas Pérez, encarcelados desde el 6 de febrero. La Fiscalía pide ocho años de prisión para Medina y diez para Zayas.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/cubalex-el-caso-contra-j%c3%b3venes-de-el4tico-criminaliza-la-libertad-de-expresi%c3%b3n/481545.html",
+      "destacada": false,
+      "tema": "cubalex",
+      "fecha": "Wed, 07 Oct 2026 20:24:13 -0400",
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
       "titulo": "Noticiero de Radio Martí 8:00 PM",
       "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
       "imagen_url": "",
@@ -469,46 +508,20 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Wed, 07 Oct 2026 20:00:00 -0400",
-      "id": 36
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al día",
-      "resumen": "Golpe a la red de suministro de combustible a Cuba: incautan 90 cargamentos.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/481492.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Wed, 07 Oct 2026 17:47:24 -0400",
-      "id": 37
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba flexibiliza la importación: ¿apertura económica o recaudación en dólares? (VIDEO)",
-      "resumen": "A partir del 12 de octubre, Cuba aplicará nuevas reglas para las importaciones de personas naturales que permitirán formalizar la entrada de mercancías con carácter comercial.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-flexibiliza-la-importaci%c3%b3n-apertura-econ%c3%b3mica-o-recaudaci%c3%b3n-en-d%c3%b3lares-video/481488.html",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Wed, 07 Oct 2026 17:16:17 -0400",
-      "id": 38
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubanos critican los precios de los nuevos mercados de barrio del régimen",
-      "resumen": "El bolsillo de los cubanos tampoco puede costear los precios de los nuevos mercados de barrio",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cubanos-critican-los-precios-de-los-nuevos-mercados-de-barrio-del-r%c3%a9gimen/481489.html",
-      "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Wed, 07 Oct 2026 17:14:55 -0400",
       "id": 39
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Presa política dice que su condena solo tendrá sentido si ayuda a la libertad de Cuba",
+      "resumen": "Ana Ibis Tristá Padilla cumple una condena de 14 años de prisión en la cárcel La Veguita tras un proceso judicial irregular y sin garantías legales.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/presa-pol%c3%adtica-denuncia-el-grave-deterioro-de-su-salud-en-la-c%c3%a1rcel/481495.html",
+      "destacada": false,
+      "tema": "presa",
+      "fecha": "Wed, 07 Oct 2026 18:48:31 -0400",
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -521,7 +534,7 @@
       "destacada": false,
       "tema": "mundial",
       "fecha": "Wed, 07 Oct 2026 21:19:46 +0000",
-      "id": 40
+      "id": 41
     },
     {
       "categoria": "salud",
@@ -534,7 +547,7 @@
       "destacada": false,
       "tema": "canarias",
       "fecha": "Wed, 07 Oct 2026 20:06:46 +0000",
-      "id": 41
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -547,7 +560,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 07 Oct 2026 19:35:44 +0000",
-      "id": 42
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -560,19 +573,6 @@
       "destacada": false,
       "tema": "lectores",
       "fecha": "Wed, 07 Oct 2026 17:34:21 +0000",
-      "id": 43
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Gallos y Avispas buscan hoy las primeras barridas de la Serie Nacional",
-      "resumen": "Los Gallos de Sancti Spíritus y Las Avispas de Santiago de Cuba, únicos invictos de la 65.ª Serie Nacional de Béisbol, buscarán hoy las primeras barridas del campeonato en una cuarta jornada que cerrará los duelos particulares de la semana. Ambos llegan con tres victorias sin derrotas y comparten el",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/07/gallos-y-avispas-buscan-hoy-las-primeras-barridas-de-la-serie-nacional/",
-      "destacada": false,
-      "tema": "gallos",
-      "fecha": "Wed, 07 Oct 2026 15:15:22 +0000",
       "id": 44
     },
     {
