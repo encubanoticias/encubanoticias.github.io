@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-08",
-  "hora": "03:06",
-  "total": 55,
+  "hora": "04:07",
+  "total": 60,
   "noticias": [
     {
       "categoria": "politica",
@@ -20,19 +20,6 @@
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "La injusticia que pesa como una eterna deuda",
-      "resumen": "Cada 6 de octubre, Cuba revive el dolor de aquel día: el nudo en la garganta, el abrazo multiplicado, la ausencia que se sienta a la mesa. Mientras haya memoria y la justicia siga pendiente, Barbados seguirá doliendo",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-06/la-injusticia-que-pesa-como-una-eterna-deuda-06-10-2026-03-10-55",
-      "destacada": true,
-      "tema": "injusticia",
-      "fecha": "Tue, 06 Oct 2026 03:10:55 -0400",
-      "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
       "titulo": "Noel Nicola: «un fundamental desconocido»",
       "resumen": "A 80 años de su natalicio, recordamos al compositor, coordinador nacional del Movimiento&nbsp;de la Nueva Trova y promotor incansable de la música cubana",
       "imagen_url": "",
@@ -40,33 +27,7 @@
       "destacada": true,
       "tema": "nicola",
       "fecha": "Wed, 07 Oct 2026 17:10:23 -0400",
-      "id": 3
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Argentinos recuerdan al Che Guevara",
-      "resumen": "Buenos Aires, 7 oct (Prensa Latina) Argentinos solidarios con causas que consideran justas en Latinoamérica recuerdan hoy al emblemático comandante cubano-argentino Ernesto Che Guevara al conmemorarse el 59 aniversario de su asesinato en La Higuera, Bolivia, el 8 de octubre de 1967. The post Argenti",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/07/argentinos-recuerdan-al-che-guevara/",
-      "destacada": true,
-      "tema": "argentinos",
-      "fecha": "Thu, 08 Oct 2026 01:43:17 +0000",
-      "id": 4
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "‎Estrechan lazos partidos de Cuba y Dominicana",
-      "resumen": "La Habana, 7 oct (Prensa Latina) El miembro del Buró Político del Partido Comunista de Cuba (PCC) Roberto Morales recibió hoy al secretario general del Movimiento de Izquierda Unida (MIU) de República Dominicana, Miguel Mejía, encuentro con el que las organizaciones estrecharon lazos. The post ‎Estr",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/07/estrechan-lazos-partidos-de-cuba-y-dominicana/",
-      "destacada": true,
-      "tema": "estrechan",
-      "fecha": "Thu, 08 Oct 2026 01:33:45 +0000",
-      "id": 5
+      "id": 2
     },
     {
       "categoria": "sociedad",
@@ -76,10 +37,10 @@
       "resumen": "La empresa está ahora totalmente controlada por el Estado y aún no está claro qué ocurrirá con marcas como Dunhill y Rothmans",
       "imagen_url": "https://static.14ymedio.com/clip/967f52b3-7ba1-46d8-8c67-d3af1881c5fd_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/brascuba-queda-socio-britanico-cigarros_1_1131665.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "brascuba",
       "fecha": "Wed, 07 Oct 2026 22:12:38 +0000",
-      "id": 6
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -89,10 +50,10 @@
       "resumen": "Las autoridades no dieron detalles de los exportadores, pero dijeron que la firma sancionada está relacionada también con la interceptación del buque ‘Grace’ procedente de México",
       "imagen_url": "https://static.14ymedio.com/clip/e900f6ea-4536-4102-9742-0853120b5e07_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/ee-uu-bloqueo-90-envios_1_1131653.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "bloqueó",
       "fecha": "Wed, 07 Oct 2026 17:36:25 +0000",
-      "id": 7
+      "id": 4
     },
     {
       "categoria": "economia",
@@ -102,10 +63,10 @@
       "resumen": "Un especialista que pidió el anonimato dice que les entregan una tarjeta del Banco del Bienestar para cobrar mensualmente casi 22.000 pesos mexicanos",
       "imagen_url": "https://static.14ymedio.com/clip/e981b8c4-13ed-4d1d-bad1-fd0cc9ce608d_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/internacional/mexico-debe-4-5-millones_1_1131657.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "tipo_cambio",
       "fecha": "Wed, 07 Oct 2026 21:06:08 +0000",
-      "id": 8
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -118,7 +79,7 @@
       "destacada": false,
       "tema": "habrá",
       "fecha": "Wed, 07 Oct 2026 16:27:00 +0000",
-      "id": 9
+      "id": 6
     },
     {
       "categoria": "transporte",
@@ -131,7 +92,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Wed, 07 Oct 2026 15:10:36 +0000",
-      "id": 10
+      "id": 7
     },
     {
       "categoria": "economia",
@@ -144,7 +105,7 @@
       "destacada": false,
       "tema": "estado",
       "fecha": "Wed, 07 Oct 2026 12:37:12 +0000",
-      "id": 11
+      "id": 8
     },
     {
       "categoria": "politica",
@@ -157,7 +118,7 @@
       "destacada": false,
       "tema": "frontera",
       "fecha": "Tue, 06 Oct 2026 18:25:55 +0000",
-      "id": 12
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -170,7 +131,7 @@
       "destacada": false,
       "tema": "cuatro",
       "fecha": "Wed, 07 Oct 2026 08:48:17 +0000",
-      "id": 13
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -183,7 +144,20 @@
       "destacada": false,
       "tema": "proliferan",
       "fecha": "Tue, 06 Oct 2026 21:07:27 +0000",
-      "id": 14
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Raúl Castro: «Preservar la unidad y la independencia de la Patria sigue siendo nuestra máxima prioridad»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e208574-s27061-nid342259-raul-castro-preservar-unidad-independencia-patria",
+      "destacada": false,
+      "tema": "castro",
+      "fecha": "Thu, 08 Oct 2026 04:20:58 +0200",
+      "id": 12
     },
     {
       "categoria": "economia",
@@ -196,7 +170,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 08 Oct 2026 03:15:28 +0200",
-      "id": 15
+      "id": 13
     },
     {
       "categoria": "politica",
@@ -209,7 +183,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 08 Oct 2026 02:53:38 +0200",
-      "id": 16
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -222,7 +196,7 @@
       "destacada": false,
       "tema": "maestro",
       "fecha": "Thu, 08 Oct 2026 01:39:43 +0200",
-      "id": 17
+      "id": 15
     },
     {
       "categoria": "transporte",
@@ -235,20 +209,98 @@
       "destacada": false,
       "tema": "canarias",
       "fecha": "Thu, 08 Oct 2026 01:37:03 +0200",
+      "id": 16
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Díaz-Canel participa en la segunda emisión de «Criterio Compartido» por Radio Rebelde",
+      "resumen": "El Presidente de la República de Cuba, Miguel Díaz-Canel Bermúdez, dialoga este miércoles con la periodista Bárbara Betancourt en la segunda emisión del espacio radial «Criterio Compartido», que se transmite desde las 7:15 de la mañana por Radio Rebelde. La propuesta está dedicada a reflexionar sobr",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/diaz-canel-participa-en-la-segunda-emision-de-criterio-compartido-por-radio-rebelde/",
+      "destacada": false,
+      "tema": "canel",
+      "fecha": "Wed, 07 Oct 2026 12:03:20 +0000",
+      "id": 17
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Organizaciones sindicales del mundo ratifican su apoyo a Cuba",
+      "resumen": "A través de videoconferencias con las diferentes regiones geográficas, el miembro del Comité Central del Partido y secretario general de la Central de Trabajadores de Cuba (CTC), Osnay Miguel Colina Rodríguez, convocó a sus representantes a que impulsen el voto favorable de los gobiernos de sus país",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261007/organizaciones-sindicales-del-mundo-ratifican-su-apoyo-a-cuba/",
+      "destacada": false,
+      "tema": "organizaciones",
+      "fecha": "Wed, 07 Oct 2026 22:30:36 +0000",
       "id": 18
     },
     {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
+      "categoria": "politica",
+      "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Dos cubanos exiliados envían cartas a universidad mexicana por admitir a presentadora de «Con Filo»",
-      "resumen": "",
+      "titulo": "Innovadores de ayer, de hoy y de mañana",
+      "resumen": "La apertura de la jornada nacional, en la sede central de Etecsa, en el Centro de Negocios de Miramar, contó con la presidencia de Osnay Colina Rodríguez, miembro del Comité Central del Partido y secretario general de la Central de Trabajadores de Cuba y otros dirigentes sindicales, de ministerios y",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e208933-s27061-nid342247-dos-cubanos-exiliados-envian-cartas-universidad",
+      "enlace_original": "https://www.trabajadores.cu/20261007/innovadores-de-ayer-de-hoy-y-de-manana/",
       "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Thu, 08 Oct 2026 00:49:34 +0200",
+      "tema": "innovadores",
+      "fecha": "Wed, 07 Oct 2026 21:27:25 +0000",
       "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Crecer en Inclusión: un proyecto para transformar el acceso al empleo digno en Cuba",
+      "resumen": "El Ministerio de Trabajo y Seguridad Social (MTTS), junto al Ministerio de Educación (Mined), Fondo de las Naciones Unidas para la Infancia (Unicef) y las diferentes asociaciones de personas en situación de discapacidad, presentó este 7 de octubre —Día Mundial del Trabajo Decente— una iniciativa que",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261007/crecer-en-inclusion-un-proyecto-para-transformar-el-acceso-al-empleo-digno-en-cuba/",
+      "destacada": false,
+      "tema": "crecer",
+      "fecha": "Wed, 07 Oct 2026 20:07:18 +0000",
+      "id": 20
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Chequea vicepresidente cubano estrategia de Epicol para implementación de transformaciones",
+      "resumen": "Salvador Valdés Mesa, vicepresidente de la República de Cuba chequeó en la Empresa Pesquera Industrial La Coloma (Epicol) la estrategia de la entidad para la implementación de las 176 medidas que buscan dinamizar la economía",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261007/chequea-vicepresidente-cubano-estrategia-de-epicol-para-implementacion-de-transformaciones/",
+      "destacada": false,
+      "tema": "chequea",
+      "fecha": "Wed, 07 Oct 2026 19:39:13 +0000",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "En La Victoria la tierra aprende a hablar",
+      "resumen": "Ricardo Serrano Masquida convirtió 40 hectáreas de Bayamo en un laboratorio donde la ciencia y la inventiva campesina demuestran que el frutal cubano puede renacer",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261007/en-la-victoria-la-tierra-aprende-a-hablar/",
+      "destacada": false,
+      "tema": "victoria",
+      "fecha": "Wed, 07 Oct 2026 18:20:17 +0000",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Pesistas cubanos persiguen nueva meta",
+      "resumen": "El Campeonato Continental de Mayores con sede en México les ha permitido ya apuntarse algunas preseas que no solo tributan tranquilidad, sino que demuestran que la ruta marcha bien",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261007/pesistas-cubanos-persiguen-nueva-meta/",
+      "destacada": false,
+      "tema": "pesistas",
+      "fecha": "Wed, 07 Oct 2026 16:37:04 +0000",
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -261,7 +313,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Thu, 08 Oct 2026 01:10:35 +0200",
-      "id": 20
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -274,7 +326,7 @@
       "destacada": false,
       "tema": "vigilancia",
       "fecha": "Wed, 07 Oct 2026 22:52:21 +0200",
-      "id": 21
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -287,7 +339,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Wed, 07 Oct 2026 21:00:39 +0200",
-      "id": 22
+      "id": 26
     },
     {
       "categoria": "salud",
@@ -300,7 +352,7 @@
       "destacada": false,
       "tema": "uruguay",
       "fecha": "Wed, 07 Oct 2026 20:46:04 +0200",
-      "id": 23
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -313,7 +365,7 @@
       "destacada": false,
       "tema": "intercepta",
       "fecha": "Wed, 07 Oct 2026 19:08:43 +0200",
-      "id": 24
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -326,7 +378,7 @@
       "destacada": false,
       "tema": "renueva",
       "fecha": "Wed, 07 Oct 2026 18:15:04 +0200",
-      "id": 25
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -339,7 +391,7 @@
       "destacada": false,
       "tema": "justicia",
       "fecha": "Wed, 07 Oct 2026 18:00:44 +0200",
-      "id": 26
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -352,7 +404,7 @@
       "destacada": false,
       "tema": "vocera",
       "fecha": "Wed, 07 Oct 2026 15:37:16 +0200",
-      "id": 27
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -365,7 +417,20 @@
       "destacada": false,
       "tema": "creador",
       "fecha": "Wed, 07 Oct 2026 14:29:47 +0200",
-      "id": 28
+      "id": 32
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al Día",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480474.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Thu, 08 Oct 2026 00:00:30 -0400",
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -378,7 +443,7 @@
       "destacada": false,
       "tema": "denuncian",
       "fecha": "Wed, 07 Oct 2026 21:04:54 -0400",
-      "id": 29
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -391,7 +456,33 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Wed, 07 Oct 2026 21:00:00 -0400",
-      "id": 30
+      "id": 35
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "¿Cómo las nuevas transformaciones económicas pueden reactivar la agricultura cubana?",
+      "resumen": "Entre las principales novedades se encuentran nuevas posibilidades para el usufructo y administración de tierras, el fortalecimiento de las cooperativas, una comercialización menos burocrática y mayores oportunidades de acceso a insumos, financiamiento y mercados. The post ¿Cómo las nuevas transform",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/08/como-las-nuevas-transformaciones-economicas-pueden-reactivar-la-agricultura-cubana/",
+      "destacada": false,
+      "tema": "nuevas",
+      "fecha": "Thu, 08 Oct 2026 04:02:46 +0000",
+      "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Santiago de Cuba, único invicto en la Serie Nacional de Béisbol",
+      "resumen": "Las Avispas de Santiago de Cuba noquearon este miércoles 14-4 a los Indios de Guantánamo, para completar la barrida en cuatro juegos y convertirse en el único equipo invicto de la 65.ª Serie Nacional de Béisbol. The post Santiago de Cuba, único invicto en la Serie Nacional de Béisbol first appeared ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/07/santiago-de-cuba-unico-invicto-en-la-serie-nacional-de-beisbol/",
+      "destacada": false,
+      "tema": "santiago",
+      "fecha": "Thu, 08 Oct 2026 03:45:52 +0000",
+      "id": 37
     },
     {
       "categoria": "politica",
@@ -404,7 +495,7 @@
       "destacada": false,
       "tema": "yaguajay",
       "fecha": "Thu, 08 Oct 2026 01:32:51 +0000",
-      "id": 31
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -417,7 +508,7 @@
       "destacada": false,
       "tema": "mundial",
       "fecha": "Wed, 07 Oct 2026 21:19:46 +0000",
-      "id": 32
+      "id": 39
     },
     {
       "categoria": "salud",
@@ -430,33 +521,7 @@
       "destacada": false,
       "tema": "canarias",
       "fecha": "Wed, 07 Oct 2026 20:06:46 +0000",
-      "id": 33
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "\"Cuba sufre un genocidio sin bombas para mostrar que no hay alternativa a este sistema neoliberal\": Irene Montero, europarlamentaria de The Left por Podemos",
-      "resumen": "La eurodiputada Irene Montero, en el marco del evento recién celebrado \"Cuba sí, bloqueo no\" organizado por el grupo parlamentario The Left en entrevista para Cubainformación denunció que el bloqueo de EE.UU contra Cuba constituye un “genocidio silencioso” y reclamó a la UE y a los Estados miembros ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/07/cuba-sufre-un-genocidio-sin-bombas-para-mostrar-que-no-hay-alternativa-a-este-sistema-neoliberal-irene-montero-europarlamentaria-de-the-left-por-podemos/",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Wed, 07 Oct 2026 19:35:44 +0000",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Tira de los Lectores: Ingenio cubano en tiempos de desafíos",
-      "resumen": "Te invitamos a compartir imágenes que reflejen ideas ingeniosas, soluciones creativas o experiencias de resiliencia en hogares y comunidades cubanas. Puede ser un objeto reutilizado, una reparación, una iniciativa vecinal, una solución creada en casa, un emprendimiento, una experiencia comunitaria o",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/07/tira-de-los-lectores-ingenio-cubano-en-tiempos-de-desafios/",
-      "destacada": false,
-      "tema": "lectores",
-      "fecha": "Wed, 07 Oct 2026 17:34:21 +0000",
-      "id": 35
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -469,7 +534,7 @@
       "destacada": false,
       "tema": "valery",
       "fecha": "Tue, 06 Oct 2026 16:26:05 +0000",
-      "id": 36
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -482,7 +547,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Wed, 07 Oct 26 23:13:00 +0200",
-      "id": 37
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -495,7 +560,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Wed, 07 Oct 26 08:10:00 +0200",
-      "id": 38
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -508,7 +573,7 @@
       "destacada": false,
       "tema": "negreros",
       "fecha": "Wed, 07 Oct 26 08:09:00 +0200",
-      "id": 39
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -521,7 +586,7 @@
       "destacada": false,
       "tema": "habría",
       "fecha": "Wed, 07 Oct 26 08:08:00 +0200",
-      "id": 40
+      "id": 45
     },
     {
       "categoria": "salud",
@@ -534,7 +599,7 @@
       "destacada": false,
       "tema": "festa",
       "fecha": "Wed, 07 Oct 26 07:58:00 +0200",
-      "id": 41
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -547,7 +612,7 @@
       "destacada": false,
       "tema": "convocada",
       "fecha": "Wed, 07 Oct 26 06:52:00 +0200",
-      "id": 42
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -560,7 +625,7 @@
       "destacada": false,
       "tema": "cristo",
       "fecha": "Wed, 07 Oct 26 06:27:00 +0200",
-      "id": 43
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -573,7 +638,7 @@
       "destacada": false,
       "tema": "programa",
       "fecha": "Wed, 07 Oct 26 06:23:00 +0200",
-      "id": 44
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -586,7 +651,7 @@
       "destacada": false,
       "tema": "contra",
       "fecha": "Wed, 07 Oct 26 06:21:00 +0200",
-      "id": 45
+      "id": 50
     },
     {
       "categoria": "politica",
@@ -599,7 +664,7 @@
       "destacada": false,
       "tema": "rinde",
       "fecha": "Wed, 07 Oct 26 06:17:00 +0200",
-      "id": 46
+      "id": 51
     },
     {
       "categoria": "politica",
@@ -612,7 +677,7 @@
       "destacada": false,
       "tema": "chequea",
       "fecha": "Wed, 07 Oct 2026 18:14:00 +0000",
-      "id": 47
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -625,7 +690,7 @@
       "destacada": false,
       "tema": "ciudad",
       "fecha": "Wed, 07 Oct 2026 22:02:55 +0000",
-      "id": 48
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -638,7 +703,7 @@
       "destacada": false,
       "tema": "desafío",
       "fecha": "Wed, 07 Oct 2026 22:02:57 +0000",
-      "id": 49
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -651,7 +716,7 @@
       "destacada": false,
       "tema": "aprender",
       "fecha": "Wed, 07 Oct 2026 22:02:52 +0000",
-      "id": 50
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -664,7 +729,7 @@
       "destacada": false,
       "tema": "lugar",
       "fecha": "Wed, 07 Oct 2026 22:02:50 +0000",
-      "id": 51
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -677,7 +742,7 @@
       "destacada": false,
       "tema": "premio",
       "fecha": "Wed, 07 Oct 2026 14:29:34 +0000",
-      "id": 52
+      "id": 57
     },
     {
       "categoria": "politica",
@@ -690,7 +755,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Wed, 07 Oct 2026 12:37:00 +0000",
-      "id": 53
+      "id": 58
     },
     {
       "categoria": "transporte",
@@ -703,7 +768,7 @@
       "destacada": false,
       "tema": "barbados",
       "fecha": "Wed, 07 Oct 2026 12:29:00 +0000",
-      "id": 54
+      "id": 59
     },
     {
       "categoria": "salud",
@@ -716,7 +781,7 @@
       "destacada": false,
       "tema": "embarazo",
       "fecha": "Wed, 07 Oct 2026 11:58:00 +0000",
-      "id": 55
+      "id": 60
     }
   ]
 }
