@@ -1,34 +1,8 @@
 {
   "fecha": "2026-10-08",
-  "hora": "06:08",
-  "total": 60,
+  "hora": "07:09",
+  "total": 43,
   "noticias": [
-    {
-      "categoria": "politica",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "«Cuba no se rinde, Cuba no se vende y Cuba no olvida»",
-      "resumen": "Sostuvo el Primer Secretario del Comité Central del Partido Comunista y Presidente de la República, Miguel Díaz-Canel Bermúdez, un encuentro con familiares y compañeros de las víctimas del crimen de Barbados y de otros atentados terroristas contra Cuba, jóvenes miembros del equipo nacional de esgrim",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-06/cuba-no-se-rinde-cuba-no-se-vende-y-cuba-no-olvida-06-10-2026-18-10-08",
-      "destacada": true,
-      "tema": "rinde",
-      "fecha": "Tue, 06 Oct 2026 18:10:08 -0400",
-      "id": 1
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Noel Nicola: «un fundamental desconocido»",
-      "resumen": "A 80 años de su natalicio, recordamos al compositor, coordinador nacional del Movimiento&nbsp;de la Nueva Trova y promotor incansable de la música cubana",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-07/noel-nicola-un-fundamental-desconocido-07-10-2026-17-10-23",
-      "destacada": true,
-      "tema": "nicola",
-      "fecha": "Wed, 07 Oct 2026 17:10:23 -0400",
-      "id": 2
-    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
@@ -40,7 +14,7 @@
       "destacada": true,
       "tema": "brascuba",
       "fecha": "Wed, 07 Oct 2026 22:12:38 +0000",
-      "id": 3
+      "id": 1
     },
     {
       "categoria": "sociedad",
@@ -53,7 +27,7 @@
       "destacada": true,
       "tema": "bloqueó",
       "fecha": "Wed, 07 Oct 2026 17:36:25 +0000",
-      "id": 4
+      "id": 2
     },
     {
       "categoria": "economia",
@@ -66,7 +40,7 @@
       "destacada": true,
       "tema": "tipo_cambio",
       "fecha": "Wed, 07 Oct 2026 21:06:08 +0000",
-      "id": 5
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -76,10 +50,10 @@
       "resumen": "Díaz-Canel admite: \"La bancarización no se puede imponer a toda la sociedad\"",
       "imagen_url": "https://static.14ymedio.com/clip/7a104d36-7d3c-4d31-8d03-312d709bbf62_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/cuba-ofrece-ventajas-fiscales-empresas_1_1131650.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "habrá",
       "fecha": "Wed, 07 Oct 2026 16:27:00 +0000",
-      "id": 6
+      "id": 4
     },
     {
       "categoria": "transporte",
@@ -89,10 +63,10 @@
       "resumen": "El viceconsejero de Acción Exterior lamenta que se haya perdido la interlocución con la Casa Canaria por \"falta de relevo generacional\"",
       "imagen_url": "https://static.14ymedio.com/clip/c2cf002d-9545-4b70-971d-afc36d0f87f1_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/gobierno-canarias-asegura-no-enviar_1_1131645.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "gobierno",
       "fecha": "Wed, 07 Oct 2026 15:10:36 +0000",
-      "id": 7
+      "id": 5
     },
     {
       "categoria": "economia",
@@ -105,7 +79,7 @@
       "destacada": false,
       "tema": "estado",
       "fecha": "Wed, 07 Oct 2026 12:37:12 +0000",
-      "id": 8
+      "id": 6
     },
     {
       "categoria": "politica",
@@ -118,7 +92,7 @@
       "destacada": false,
       "tema": "frontera",
       "fecha": "Tue, 06 Oct 2026 18:25:55 +0000",
-      "id": 9
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -131,7 +105,7 @@
       "destacada": false,
       "tema": "cuatro",
       "fecha": "Wed, 07 Oct 2026 08:48:17 +0000",
-      "id": 10
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -144,85 +118,7 @@
       "destacada": false,
       "tema": "proliferan",
       "fecha": "Tue, 06 Oct 2026 21:07:27 +0000",
-      "id": 11
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel: «La crisis también genera la creatividad ciudadana»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e208574-s27061-nid342260-diaz-canel-crisis-tambien-genera-creatividad",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Thu, 08 Oct 2026 04:32:12 +0200",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Raúl Castro: «Preservar la unidad y la independencia de la Patria sigue siendo nuestra máxima prioridad»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e208574-s27061-nid342259-raul-castro-preservar-unidad-independencia-patria",
-      "destacada": false,
-      "tema": "castro",
-      "fecha": "Thu, 08 Oct 2026 04:20:58 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El dólar y el euro terminan el día a la baja: Así cierra el mercado informal en Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e208574-s27061-nid342255-dolar-euro-terminan-dia-baja-asi-cierra-mercado",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Thu, 08 Oct 2026 03:15:28 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel reconoce ahora que «la bancarización no se puede imponer» a todos los cubanos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e197721-s27061-nid342257-diaz-canel-reconoce-ahora-bancarizacion-puede",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Thu, 08 Oct 2026 02:53:38 +0200",
-      "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Gran maestro Lázaro Bruzón seguirá hablando sobre Cuba: «No me van a callar»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e197721-s27061-nid342254-gran-maestro-lazaro-bruzon-seguira-hablando-cuba-me",
-      "destacada": false,
-      "tema": "maestro",
-      "fecha": "Thu, 08 Oct 2026 01:39:43 +0200",
-      "id": 16
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Canarias lleva más de un mes sin poder enviar alimentos ni medicinas a sus emigrados en Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e208933-s27061-nid342253-canarias-lleva-mes-poder-enviar-alimentos-ni",
-      "destacada": false,
-      "tema": "canarias",
-      "fecha": "Thu, 08 Oct 2026 01:37:03 +0200",
-      "id": 17
+      "id": 9
     },
     {
       "categoria": "politica",
@@ -235,7 +131,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Wed, 07 Oct 2026 12:03:20 +0000",
-      "id": 18
+      "id": 10
     },
     {
       "categoria": "politica",
@@ -248,7 +144,7 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Wed, 07 Oct 2026 22:30:36 +0000",
-      "id": 19
+      "id": 11
     },
     {
       "categoria": "politica",
@@ -261,7 +157,7 @@
       "destacada": false,
       "tema": "innovadores",
       "fecha": "Wed, 07 Oct 2026 21:27:25 +0000",
-      "id": 20
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -274,7 +170,7 @@
       "destacada": false,
       "tema": "crecer",
       "fecha": "Wed, 07 Oct 2026 20:07:18 +0000",
-      "id": 21
+      "id": 13
     },
     {
       "categoria": "economia",
@@ -287,7 +183,7 @@
       "destacada": false,
       "tema": "chequea",
       "fecha": "Wed, 07 Oct 2026 19:39:13 +0000",
-      "id": 22
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -300,7 +196,7 @@
       "destacada": false,
       "tema": "victoria",
       "fecha": "Wed, 07 Oct 2026 18:20:17 +0000",
-      "id": 23
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -313,7 +209,20 @@
       "destacada": false,
       "tema": "pesistas",
       "fecha": "Wed, 07 Oct 2026 16:37:04 +0000",
-      "id": 24
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Casi 30.000 cubanos esperan refugio en Uruguay, pero solo 52 han conseguido esa condición",
+      "resumen": "¿Incapacidad institucional y operativa o falta de voluntad política? #Uruguay acumula cerca de 30.000 solicitudes de #refugio de cubanos, pero apenas 52 de estas personas están radicadas en el país con esa condición.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791441868_69300.html",
+      "destacada": false,
+      "tema": "cubanos",
+      "fecha": "Thu, 08 Oct 2026 08:44:28 +0200",
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -326,7 +235,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Thu, 08 Oct 2026 01:10:35 +0200",
-      "id": 25
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -339,7 +248,7 @@
       "destacada": false,
       "tema": "vigilancia",
       "fecha": "Wed, 07 Oct 2026 22:52:21 +0200",
-      "id": 26
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -352,7 +261,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Wed, 07 Oct 2026 21:00:39 +0200",
-      "id": 27
+      "id": 20
     },
     {
       "categoria": "salud",
@@ -365,7 +274,7 @@
       "destacada": false,
       "tema": "uruguay",
       "fecha": "Wed, 07 Oct 2026 20:46:04 +0200",
-      "id": 28
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -378,7 +287,7 @@
       "destacada": false,
       "tema": "intercepta",
       "fecha": "Wed, 07 Oct 2026 19:08:43 +0200",
-      "id": 29
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -391,7 +300,7 @@
       "destacada": false,
       "tema": "renueva",
       "fecha": "Wed, 07 Oct 2026 18:15:04 +0200",
-      "id": 30
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -404,7 +313,7 @@
       "destacada": false,
       "tema": "justicia",
       "fecha": "Wed, 07 Oct 2026 18:00:44 +0200",
-      "id": 31
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -417,20 +326,7 @@
       "destacada": false,
       "tema": "vocera",
       "fecha": "Wed, 07 Oct 2026 15:37:16 +0200",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El creador del Trofín cubano acusa a la cúpula gobernante de 'cinismo' y exige cambios",
-      "resumen": "El científico cubano Raúl González Hernández, creador del #Trofín a #DíazCanel: \"Comprendan que la oportunidad de ustedes se agotó, no prolonguen más el sufrimiento del pueblo\".",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791376187_69287.html",
-      "destacada": false,
-      "tema": "creador",
-      "fecha": "Wed, 07 Oct 2026 14:29:47 +0200",
-      "id": 33
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -443,7 +339,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Thu, 08 Oct 2026 00:00:30 -0400",
-      "id": 34
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -456,7 +352,7 @@
       "destacada": false,
       "tema": "denuncian",
       "fecha": "Wed, 07 Oct 2026 21:04:54 -0400",
-      "id": 35
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -469,7 +365,7 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Wed, 07 Oct 2026 21:00:00 -0400",
-      "id": 36
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -482,7 +378,7 @@
       "destacada": false,
       "tema": "nuevas",
       "fecha": "Thu, 08 Oct 2026 04:02:46 +0000",
-      "id": 37
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -495,7 +391,7 @@
       "destacada": false,
       "tema": "santiago",
       "fecha": "Thu, 08 Oct 2026 03:45:52 +0000",
-      "id": 38
+      "id": 30
     },
     {
       "categoria": "politica",
@@ -508,7 +404,7 @@
       "destacada": false,
       "tema": "yaguajay",
       "fecha": "Thu, 08 Oct 2026 01:32:51 +0000",
-      "id": 39
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -521,7 +417,7 @@
       "destacada": false,
       "tema": "mundial",
       "fecha": "Wed, 07 Oct 2026 21:19:46 +0000",
-      "id": 40
+      "id": 32
     },
     {
       "categoria": "salud",
@@ -534,7 +430,7 @@
       "destacada": false,
       "tema": "canarias",
       "fecha": "Wed, 07 Oct 2026 20:06:46 +0000",
-      "id": 41
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -547,7 +443,7 @@
       "destacada": false,
       "tema": "valery",
       "fecha": "Tue, 06 Oct 2026 16:26:05 +0000",
-      "id": 42
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -560,7 +456,7 @@
       "destacada": false,
       "tema": "dentro",
       "fecha": "Thu, 08 Oct 26 07:54:00 +0200",
-      "id": 43
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -573,7 +469,7 @@
       "destacada": false,
       "tema": "silvio",
       "fecha": "Thu, 08 Oct 26 07:53:00 +0200",
-      "id": 44
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -586,7 +482,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Thu, 08 Oct 26 07:52:00 +0200",
-      "id": 45
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -599,7 +495,7 @@
       "destacada": false,
       "tema": "lecciones",
       "fecha": "Thu, 08 Oct 26 07:01:00 +0200",
-      "id": 46
+      "id": 38
     },
     {
       "categoria": "politica",
@@ -612,7 +508,7 @@
       "destacada": false,
       "tema": "importación",
       "fecha": "Thu, 08 Oct 26 06:54:00 +0200",
-      "id": 47
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -625,7 +521,7 @@
       "destacada": false,
       "tema": "imperio",
       "fecha": "Thu, 08 Oct 26 06:51:00 +0200",
-      "id": 48
+      "id": 40
     },
     {
       "categoria": "politica",
@@ -638,7 +534,7 @@
       "destacada": false,
       "tema": "cámara",
       "fecha": "Thu, 08 Oct 26 06:48:00 +0200",
-      "id": 49
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -651,7 +547,7 @@
       "destacada": false,
       "tema": "sabían",
       "fecha": "Thu, 08 Oct 26 06:41:00 +0200",
-      "id": 50
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -664,124 +560,7 @@
       "destacada": false,
       "tema": "hacemos",
       "fecha": "Thu, 08 Oct 26 06:38:00 +0200",
-      "id": 51
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.guerrillero.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Chequea Valdés Mesa producción de alimentos en Pinar del Río",
-      "resumen": "Durante la visita a Epicol, Salvador Valdés Mesa, estuvo en el área donde se realizan inversiones para retomar la exportación de langostas vivas Durante dos días el vicepresidente de la República de Cuba, Salvador Valdés Mesa, chequeó la producción de alimentos en la provincia; en la Empresa Pesquer",
-      "imagen_url": "",
-      "enlace_original": "https://www.guerrillero.cu/chequea-valdes-mesa-produccion-de-alimentos-en-pinar-del-rio/",
-      "destacada": false,
-      "tema": "chequea",
-      "fecha": "Wed, 07 Oct 2026 18:14:00 +0000",
-      "id": 52
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "La ciudad que cabe en sus páginas",
-      "resumen": "Cuarenta y seis años después de aquel primer “Buenas tardes, Habana”, las formas de hacer periodismo han cambiado, pero permanece el mismo desafío: contar una ciudad que también ha aprendido a transformarse La entrada La ciudad que cabe en sus páginas se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/la-ciudad-que-cabe-en-sus-paginas/",
-      "destacada": false,
-      "tema": "ciudad",
-      "fecha": "Wed, 07 Oct 2026 22:02:55 +0000",
-      "id": 53
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "El desafío de seguir siendo el periódico de los capitalinos",
-      "resumen": "En sus 46 años, Tribuna de La Habana ha cambiado junto con la ciudad y las formas de contarla. El reto continúa siendo el mismo, seguir siendo un medio cercano a los capitalinos en un escenario marcado por las nuevas tecnologías y la transformación del consumo informativo La entrada El desafío de se",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/el-desafio-de-seguir-siendo-el-periodico-de-los-capitalinos/",
-      "destacada": false,
-      "tema": "desafío",
-      "fecha": "Wed, 07 Oct 2026 22:02:57 +0000",
-      "id": 54
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Aprender a mirar La Habana",
-      "resumen": "De una práctica laboral durante el primer año de Periodismo a cuatro años de trabajo en la redacción, un recorrido marcado por el aprendizaje, la historia del medio y una nueva manera de mirar y contar La Habana La entrada Aprender a mirar La Habana se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/aprender-a-mirar-la-habana/",
-      "destacada": false,
-      "tema": "aprender",
-      "fecha": "Wed, 07 Oct 2026 22:02:52 +0000",
-      "id": 55
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Un lugar al que siempre quise volver",
-      "resumen": "Una experiencia de más de cuatro décadas en Tribuna de La Habana, donde Lissette Martín encontró, después de una llegada que no había elegido, un espacio profesional y humano al que siempre decide regresar La entrada Un lugar al que siempre quise volver se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/un-lugar-al-que-siempre-quise-volver/",
-      "destacada": false,
-      "tema": "lugar",
-      "fecha": "Wed, 07 Oct 2026 22:02:50 +0000",
-      "id": 56
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Premio Aldabón 2026 recae en joven escritora matancera",
-      "resumen": "La jornada por el Premio Aldabón 2026, desarrollada los días 4 y 5 de octubre, reafirmó a Matanzas como uno de los epicentros creativos más prolíficos de la literatura cubana actual.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/07/premio-aldabon-2026-recae-en-joven-escritora-matancera/",
-      "destacada": false,
-      "tema": "premio",
-      "fecha": "Wed, 07 Oct 2026 14:29:34 +0000",
-      "id": 57
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel en Criterio Compartido: La vocación humanista de la Revolución es atender a todos y defender la equidad",
-      "resumen": "El Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, protagonizó este miércoles 7 de octubre la segunda emisión de Criterio Compartido, el espacio de Radio Rebelde y la Cadena Nacional de Radio conducido por la periodista Bár",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/07/diaz-canel-en-criterio-compartido-vocacion-humanista/",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Wed, 07 Oct 2026 12:37:00 +0000",
-      "id": 58
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barbados: memoria que permanece en Unión de Reyes",
-      "resumen": "La memoria de las víctimas del sabotaje al vuelo CU-455 de Cubana de Aviación estuvo presente en un matutino especial desarrollado en el politécnico Elpidio Berovides, en Unión de Reyes.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/07/barbados-memoria-permanece-en-union-de-reyes/",
-      "destacada": false,
-      "tema": "barbados",
-      "fecha": "Wed, 07 Oct 2026 12:29:00 +0000",
-      "id": 59
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Embarazo adolescente: A tiempo de escribir otro futuro",
-      "resumen": "El embarazo adolescente y las infecciones de transmisión sexual no son fenómenos aislados ni simples asuntos de Salud Pública en la Cuba de hoy. Constituyen, en cambio, síntomas de una realidad social más profunda que interpela a familias, escuelas, comunidades e instituciones.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/07/embarazo-adolescente-a-tiempo-de-escribir-otro-futuro/",
-      "destacada": false,
-      "tema": "embarazo",
-      "fecha": "Wed, 07 Oct 2026 11:58:00 +0000",
-      "id": 60
+      "id": 43
     }
   ]
 }
