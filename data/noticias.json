@@ -1,8 +1,47 @@
 {
   "fecha": "2026-10-08",
-  "hora": "21:06",
-  "total": 52,
+  "hora": "23:06",
+  "total": 61,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Washington no tiene autoridad para decidir quién puede comerciar con Cuba",
+      "resumen": "El Canciller de la Mayor de las Antillas rechazó las medidas coercitivas unilaterales, de carácter extraterritorial, que la Casa Blanca impone a la Isla",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-08/washington-no-tiene-autoridad-alguna-para-decidir-quien-puede-comerciar-con-cuba-08-10-2026-10-10-21",
+      "destacada": true,
+      "tema": "washington",
+      "fecha": "Thu, 08 Oct 2026 10:10:21 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "«Sin miedo al sacrificio, sabremos actuar digna y serenamente a la altura de las circunstancias»",
+      "resumen": "Manifiesto al pueblo de Cuba de Fidel Castro y combatientes",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cien-con-fidel/2026-10-08/sin-miedo-al-sacrificio-sabremos-actuar-digna-y-serenamente-a-la-altura-de-las-circunstancias-08-10-2026-11-10-07",
+      "destacada": true,
+      "tema": "miedo",
+      "fecha": "Thu, 08 Oct 2026 11:10:07 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Diputados italianos aprueban resolución de apoyo a Cuba",
+      "resumen": "La Comisión de Asuntos Exteriores de la Cámara de Diputados de Italia aprobó una resolución que insta a su Gobierno a apoyar al pueblo cubano ante los graves daños ocasionados al país por el bloqueo del Gobierno de Estados Unidos",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-08/diputados-italianos-aprueban-resolucion-de-apoyo-a-cuba",
+      "destacada": true,
+      "tema": "diputados",
+      "fecha": "Thu, 08 Oct 2026 13:10:26 -0400",
+      "id": 3
+    },
     {
       "categoria": "transporte",
       "fuente": "https://www.granma.cu",
@@ -14,20 +53,7 @@
       "destacada": true,
       "tema": "envía",
       "fecha": "Wed, 07 Oct 2026 16:10:55 -0400",
-      "id": 1
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Diputados italianos aprueban resolución de apoyo a Cuba",
-      "resumen": "La Comisión de Asuntos Exteriores de la Cámara de Diputados de Italia aprobó una resolución que insta a su Gobierno a apoyar al pueblo cubano ante los graves daños ocasionados al país por el bloqueo del gobierno de Estados Unidos",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-08/diputados-italianos-aprueban-resolucion-de-apoyo-a-cuba",
-      "destacada": true,
-      "tema": "diputados",
-      "fecha": "Thu, 08 Oct 2026 13:10:26 -0400",
-      "id": 2
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -40,20 +66,7 @@
       "destacada": true,
       "tema": "continúa",
       "fecha": "Wed, 07 Oct 2026 17:10:17 -0400",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Brasil será el país foco del 47 Festival Internacional del Nuevo Cine Latinoamericano",
-      "resumen": "La cita, prevista del 3 al 13 de diciembre en La Habana, tendrá acento brasileño y abordará la inteligencia artificial en la producción cinematográfica como eje temático central",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-08/brasil-sera-el-pais-foco-del-47-festival-internacional-del-nuevo-cine-latinoamericano-08-10-2026-14-10-33",
-      "destacada": true,
-      "tema": "brasil",
-      "fecha": "Thu, 08 Oct 2026 14:10:33 -0400",
-      "id": 4
+      "id": 5
     },
     {
       "categoria": "politica",
@@ -63,62 +76,88 @@
       "resumen": "En la segunda emisión del programa radial «Criterio Compartido», el Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, respondió a las inquietudes de la población. El anfitrión de este espacio afirmó que con las preocupaciones",
       "imagen_url": "",
       "enlace_original": "http://www.granma.cu/cuba/2026-10-07/criterio-compartido-espacio-que-se-construye-entre-todos-07-10-2026-13-10-08",
-      "destacada": true,
+      "destacada": false,
       "tema": "criterio",
       "fecha": "Wed, 07 Oct 2026 13:10:08 -0400",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "El boxeo cubano pone la mira en los Panamericanos de Lima",
-      "resumen": "Resaltan la ausencia de Erislandy Álvarez y el debut de Erick Daniel Castillo",
+      "titulo": "Brasil será el país foco del 47 Festival Internacional del Nuevo Cine Latinoamericano",
+      "resumen": "La cita, prevista del 3 al 13 de diciembre en La Habana, tendrá acento brasileño y abordará la inteligencia artificial en la producción cinematográfica como eje temático central",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-10-08/el-boxeo-cubano-pone-la-mira-en-los-panamericanos-de-lima-08-10-2026-14-10-18",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-08/brasil-sera-el-pais-foco-del-47-festival-internacional-del-nuevo-cine-latinoamericano-08-10-2026-14-10-33",
       "destacada": false,
-      "tema": "boxeo",
-      "fecha": "Thu, 08 Oct 2026 14:10:18 -0400",
-      "id": 6
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Díaz-Canel llama a fortalecer las soluciones desde la comunidad",
-      "resumen": "El Presidente insistió en aprovechar las capacidades existentes en los barrios&nbsp;y articularlas con los actores económicos estatales y no estatales",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-07/diaz-canel-llama-a-fortalecer-las-soluciones-desde-la-comunidad-07-10-2026-16-10-12",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Wed, 07 Oct 2026 16:10:12 -0400",
+      "tema": "brasil",
+      "fecha": "Thu, 08 Oct 2026 14:10:33 -0400",
       "id": 7
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
+      "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Distinguen a personalidades cubanas con el Doctorado Nobilis Causa 2026",
-      "resumen": "Se trata, subrayó el Movimiento en su comunicado, de enaltecer «la labor y la trayectoria de los y las protagonistas de nuestro tiempo, hombres y mujeres que han entregado su vida y su talento a la construcción de un mundo mejor»",
+      "titulo": "Perú: Flores para Che Guevara a 59 años de caída en combate",
+      "resumen": "Lima, 8 oct (Prensa Latina) La encargada de Negocios de Cuba en Perú, embajadora Yamila Pita, afirmó que Che Guevara estaría hoy en la primera línea de combate, frente a la escalada de agresiones de Estados Unidos contra la isla. The post Perú: Flores para Che Guevara a 59 años de caída en combate f",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-08/distinguen-a-personalidades-cubanas-con-el-doctorado-nobilis-causa-2026-08-10-2026-14-10-24",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/08/peru-flores-para-che-guevara-a-59-anos-de-caida-en-combate/",
       "destacada": false,
-      "tema": "distinguen",
-      "fecha": "Thu, 08 Oct 2026 14:10:24 -0400",
+      "tema": "flores",
+      "fecha": "Thu, 08 Oct 2026 22:45:13 +0000",
       "id": 8
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
+      "categoria": "energia",
+      "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "«La tierra es para producir»: nuevas normas para incentivar la agricultura cubana",
-      "resumen": "La entrega ya no recae exclusivamente en las comisiones agrarias, sino en los directivos superiores de las empresas, aprobados en sus consejos de dirección, y en los presidentes de las CPA, aprobados en asambleas de socios",
+      "titulo": "Agradece Cuba apoyo de Unesco a su lucha contra el bloqueo de EEUU",
+      "resumen": "París, 8 oct (Prensa Latina) Cuba agradeció hoy a la Unesco su crucial apoyo a la lucha contra el bloqueo económico, comercial y financiero, aplicado por más de seis décadas por Estados Unidos contra la isla, recrudecido con un cerco energético. The post Agradece Cuba apoyo de Unesco a su lucha cont",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-08/la-tierra-es-para-producir-nuevas-normas-para-incentivar-la-agricultura-cubana-08-10-2026-11-10-26",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/08/agradece-cuba-apoyo-de-unesco-a-su-lucha-contra-el-bloqueo-de-eeuu/",
       "destacada": false,
-      "tema": "tierra",
-      "fecha": "Thu, 08 Oct 2026 11:10:26 -0400",
+      "tema": "agradece",
+      "fecha": "Thu, 08 Oct 2026 21:22:34 +0000",
       "id": 9
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cardiología, ultrasonidos obstétricos, odontología: la medicina privada desafía las prohibiciones en Cuba",
+      "resumen": "Una clínica dental de La Habana confirma a ‘14ymedio’ que cobra 300 dólares por una corona de zirconio, mientras un negocio de Camagüey publicita chequeos médicos por 105",
+      "imagen_url": "https://static.14ymedio.com/clip/a3ec4f58-c8bc-448d-a7b4-79b1335f4789_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/cardiologia-ultrasonidos-obstetricos-odontologia-medicina_1_1131706.html",
+      "destacada": false,
+      "tema": "cardiología",
+      "fecha": "Thu, 08 Oct 2026 21:05:55 +0000",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Habana huele a gasolina y a aguas albañales",
+      "resumen": "Mientras el negocio del combustible acelera obras en Ayestarán, la basura, las ruinas y los sin techo se extienden por la ciudad",
+      "imagen_url": "https://static.14ymedio.com/clip/1e2a2b48-43ca-41da-bda1-3c80b61a769f_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/habana-huele-gasolina-aguas-albanales_1_1131709.html",
+      "destacada": false,
+      "tema": "habana",
+      "fecha": "Thu, 08 Oct 2026 21:32:08 +0000",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EE UU se jacta de haber reducido la trata de personas del régimen cubano con las misiones",
+      "resumen": "Mientras que a principios de 2025 había 24.000 trabajadores de la Isla en el extranjero, hoy hay entre 6.000 y 9.000 menos, indica un informe del Departamento de Estado",
+      "imagen_url": "https://static.14ymedio.com/clip/21588aed-b4b4-414b-97aa-49c8fe08189d_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/ee-uu-jacta-haber-reducido_1_1131713.html",
+      "destacada": false,
+      "tema": "jacta",
+      "fecha": "Thu, 08 Oct 2026 21:53:16 +0000",
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -131,7 +170,7 @@
       "destacada": false,
       "tema": "móvil",
       "fecha": "Thu, 08 Oct 2026 14:11:07 +0000",
-      "id": 10
+      "id": 13
     },
     {
       "categoria": "salud",
@@ -144,33 +183,7 @@
       "destacada": false,
       "tema": "periodistas",
       "fecha": "Thu, 08 Oct 2026 17:49:45 +0000",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Varias protestas interrumpen un mitin de Trump en Texas",
-      "resumen": "Uno de los manifestantes llevaba una camiseta con el mensaje “SOS Cuba” y terminó escoltado fuera del recinto",
-      "imagen_url": "https://static.14ymedio.com/clip/78712f0c-8189-4a78-91b4-35d37b361338_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/internacional/protestas-interrumpen-mitin-trump-texas_1_1131696.html",
-      "destacada": false,
-      "tema": "varias",
-      "fecha": "Thu, 08 Oct 2026 15:47:10 +0000",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Para el régimen cubano, la interceptación por EE UU de petroleros se asemeja a un acto de “piratería”",
-      "resumen": "EE UU anunció la confiscación de más de 2,2 millones de litros de biodiésel destinados a una empresa cubana sancionada por Estados Unidos",
-      "imagen_url": "https://static.14ymedio.com/clip/18161cf5-3100-40f7-bfe3-e6149a64886e_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/regimen-cubano-interceptacion-ee-uu_1_1131672.html",
-      "destacada": false,
-      "tema": "régimen",
-      "fecha": "Thu, 08 Oct 2026 10:36:37 +0000",
-      "id": 13
+      "id": 14
     },
     {
       "categoria": "salud",
@@ -183,7 +196,20 @@
       "destacada": false,
       "tema": "vuelto",
       "fecha": "Thu, 08 Oct 2026 10:08:06 +0000",
-      "id": 14
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Para el régimen cubano, la interceptación por EE UU de petroleros se asemeja a un acto de “piratería”",
+      "resumen": "EE UU anunció la confiscación de más de 2,2 millones de litros de biodiésel destinados a una empresa cubana sancionada por Estados Unidos",
+      "imagen_url": "https://static.14ymedio.com/clip/18161cf5-3100-40f7-bfe3-e6149a64886e_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/regimen-cubano-interceptacion-ee-uu_1_1131672.html",
+      "destacada": false,
+      "tema": "régimen",
+      "fecha": "Thu, 08 Oct 2026 10:36:37 +0000",
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -196,20 +222,7 @@
       "destacada": false,
       "tema": "brascuba",
       "fecha": "Wed, 07 Oct 2026 22:12:38 +0000",
-      "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "EE UU bloqueó 90 envíos de combustible dirigidos a la estatal cubana Enetec",
-      "resumen": "Las autoridades no dieron detalles de los exportadores, pero dijeron que la firma sancionada está relacionada también con la interceptación del buque ‘Grace’ procedente de México",
-      "imagen_url": "https://static.14ymedio.com/clip/e900f6ea-4536-4102-9742-0853120b5e07_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/ee-uu-bloqueo-90-envios_1_1131653.html",
-      "destacada": false,
-      "tema": "bloqueó",
-      "fecha": "Wed, 07 Oct 2026 17:36:25 +0000",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -222,85 +235,85 @@
       "destacada": false,
       "tema": "habrá",
       "fecha": "Wed, 07 Oct 2026 16:27:00 +0000",
-      "id": 17
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El Gobierno de Canarias asegura que no puede enviar \"ni un contenedor de alimentos\" a Cuba",
-      "resumen": "El viceconsejero de Acción Exterior lamenta que se haya perdido la interlocución con la Casa Canaria por \"falta de relevo generacional\"",
-      "imagen_url": "https://static.14ymedio.com/clip/c2cf002d-9545-4b70-971d-afc36d0f87f1_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/gobierno-canarias-asegura-no-enviar_1_1131645.html",
-      "destacada": false,
-      "tema": "gobierno",
-      "fecha": "Wed, 07 Oct 2026 15:10:36 +0000",
       "id": 18
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "EE.UU. evalúa que masones cubanos participen en la distribución de ayuda humanitaria",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e208933-s27061-nid342348-eeuu-evalua-masones-cubanos-participen-distribucion",
+      "titulo": "EE UU bloqueó 90 envíos de combustible dirigidos a la estatal cubana Enetec",
+      "resumen": "Las autoridades no dieron detalles de los exportadores, pero dijeron que la firma sancionada está relacionada también con la interceptación del buque ‘Grace’ procedente de México",
+      "imagen_url": "https://static.14ymedio.com/clip/e900f6ea-4536-4102-9742-0853120b5e07_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/ee-uu-bloqueo-90-envios_1_1131653.html",
       "destacada": false,
-      "tema": "evalúa",
-      "fecha": "Thu, 08 Oct 2026 21:56:03 +0200",
+      "tema": "bloqueó",
+      "fecha": "Wed, 07 Oct 2026 17:36:25 +0000",
       "id": 19
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Nueve peloteros cubanos integran la selección de España para el Clasificatorio al Premier 12",
+      "titulo": "Diputada italiana culpa a EE.UU. de la crisis en Cuba, pero guarda silencio sobre los presos políticos y la represión",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e197721-s27066-nid342345-nueve-peloteros-cubanos-integran-seleccion-espana",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e208933-s27061-nid342352-diputada-italiana-culpa-eeuu-crisis-cuba-guarda",
       "destacada": false,
-      "tema": "nueve",
-      "fecha": "Thu, 08 Oct 2026 21:54:11 +0200",
+      "tema": "diputada",
+      "fecha": "Thu, 08 Oct 2026 23:44:35 +0200",
       "id": 20
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubano en Malta se declara culpable de amenazar de muerte a su expareja y su familia",
+      "titulo": "¿Cómo tener un cuerpo fuerte y dinámico que conquiste la libertad de Cuba?",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e208933-s27061-nid342335-cubano-malta-declara-culpable-amenazar-expareja",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u208253-e192519-s27068-nid342354-tener-cuerpo-fuerte-dinamico-conquiste-libertad",
       "destacada": false,
-      "tema": "cubano",
-      "fecha": "Thu, 08 Oct 2026 21:35:46 +0200",
+      "tema": "tener",
+      "fecha": "Thu, 08 Oct 2026 23:36:07 +0200",
       "id": 21
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Régimen cubano promociona nuevos mercados de barrio en Granma, pero vecinos le recuerdan: «El bolsillo es el gran juez»",
+      "titulo": "La BIA avala multar a inmigrantes que aceptan la salida voluntaria y no se van: lo que deben saber los cubanos",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e208933-s27061-nid342341-regimen-cubano-promociona-nuevos-mercados-barrio",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e43231-s27061-nid342298-bia-avala-multar-inmigrantes-aceptan-salida",
       "destacada": false,
-      "tema": "régimen",
-      "fecha": "Thu, 08 Oct 2026 20:53:49 +0200",
+      "tema": "avala",
+      "fecha": "Thu, 08 Oct 2026 23:30:04 +0200",
       "id": 22
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Madrid pierde un pedazo de Cuba: cierra el restaurante Zara tras 62 años de historia",
+      "titulo": "Exigen respuestas a Uruguay por las demoras del refugio de miles de cubanos: «La dignidad humana no puede quedar en una lista de espera»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e13-s27061-nid342342-madrid-pierde-pedazo-cuba-cierra-restaurante-zara-tras",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e197721-s27061-nid342350-exigen-respuestas-uruguay-demoras-refugio-miles",
       "destacada": false,
-      "tema": "madrid",
-      "fecha": "Thu, 08 Oct 2026 20:38:09 +0200",
+      "tema": "exigen",
+      "fecha": "Thu, 08 Oct 2026 23:12:15 +0200",
       "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Asaltan al hermano de Yosmany Mayeta en Santiago de Cuba: «Le propinaron varios golpes en la cabeza»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e43231-s27061-nid342347-asaltan-al-hermano-yosmany-mayeta-santiago-cuba-le",
+      "destacada": false,
+      "tema": "asaltan",
+      "fecha": "Thu, 08 Oct 2026 23:07:05 +0200",
+      "id": 24
     },
     {
       "categoria": "politica",
@@ -313,7 +326,85 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Wed, 07 Oct 2026 12:03:20 +0000",
-      "id": 24
+      "id": 25
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Jornada de la Cultura Cubana: identidad, creación y memoria en el centenario de Fidel Castro",
+      "resumen": "Entre homenajes, presentaciones y encuentros, la Jornada de la Cultura Cubana se proyectará como una celebración de la historia y, al mismo tiempo, como una mirada hacia el futuro",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261008/jornada-de-la-cultura-cubana-identidad-creacion-y-memoria-en-el-centenario-de-fidel-castro/",
+      "destacada": false,
+      "tema": "jornada",
+      "fecha": "Thu, 08 Oct 2026 18:04:14 +0000",
+      "id": 26
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Mundial de Judo 2026-Día 4: Grigalasvili, Kaju y nuestra Maylín del Toro",
+      "resumen": "Bakú.- La mañana estuvo bien fresca, pero el georginao Tato Grigalasvili (81 kg), la japonesa Haruka Kaju (63 kg) y la cubana Maylín del Toro (63 kg) fueron de los primeros en llegar al tatami de entrenamiento de la National Gymnastic Arena. Y de los últimos en irse, solo que los dos primeros iban f",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261008/mundial-de-judo-2026-dia-4-grigalasvili-kaju-y-nuestra-maylin-del-toro/",
+      "destacada": false,
+      "tema": "mundial",
+      "fecha": "Thu, 08 Oct 2026 16:21:58 +0000",
+      "id": 27
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "La voz de Cuba en Foro Internacional Municipios que Cuidan",
+      "resumen": "La cita favoreció el diálogo entre gobiernos locales, sociedad civil, redes feministas, académicos…, acerca de políticas, financiamientos y articulación territorial",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261008/la-voz-de-cuba-en-foro-internacional-municipios-que-cuidan/",
+      "destacada": false,
+      "tema": "internacional",
+      "fecha": "Thu, 08 Oct 2026 15:19:57 +0000",
+      "id": 28
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Organizaciones sindicales del mundo ratifican su apoyo a Cuba",
+      "resumen": "A través de videoconferencias con las diferentes regiones geográficas, el miembro del Comité Central del Partido y secretario general de la Central de Trabajadores de Cuba (CTC), Osnay Miguel Colina Rodríguez, convocó a sus representantes a que impulsen el voto favorable de los gobiernos de sus país",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261007/organizaciones-sindicales-del-mundo-ratifican-su-apoyo-a-cuba/",
+      "destacada": false,
+      "tema": "organizaciones",
+      "fecha": "Wed, 07 Oct 2026 22:30:36 +0000",
+      "id": 29
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Innovadores de ayer, de hoy y de mañana",
+      "resumen": "La apertura de la jornada nacional, en la sede central de Etecsa, en el Centro de Negocios de Miramar, contó con la presidencia de Osnay Colina Rodríguez, miembro del Comité Central del Partido y secretario general de la Central de Trabajadores de Cuba y otros dirigentes sindicales, de ministerios y",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261007/innovadores-de-ayer-de-hoy-y-de-manana/",
+      "destacada": false,
+      "tema": "innovadores",
+      "fecha": "Wed, 07 Oct 2026 21:27:25 +0000",
+      "id": 30
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Al menos 12 muertes bajo custodia del régimen cubano en septiembre, la cifra mensual más alta desde febrero",
+      "resumen": "Al menos 12 personas murieron bajo custodia del Estado #cubano en septiembre, la cifra mensual más alta desde febrero. Diez fallecieron en establecimientos penitenciarios y dos, en unidades militares.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1791494098_69310.html",
+      "destacada": false,
+      "tema": "menos",
+      "fecha": "Thu, 08 Oct 2026 23:14:58 +0200",
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -326,7 +417,7 @@
       "destacada": false,
       "tema": "llega",
       "fecha": "Thu, 08 Oct 2026 19:22:22 +0200",
-      "id": 25
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -339,7 +430,7 @@
       "destacada": false,
       "tema": "único",
       "fecha": "Thu, 08 Oct 2026 17:28:03 +0200",
-      "id": 26
+      "id": 33
     },
     {
       "categoria": "economia",
@@ -352,7 +443,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 08 Oct 2026 14:48:54 +0200",
-      "id": 27
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -365,7 +456,7 @@
       "destacada": false,
       "tema": "cubalex",
       "fecha": "Thu, 08 Oct 2026 13:40:05 +0200",
-      "id": 28
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -378,7 +469,7 @@
       "destacada": false,
       "tema": "exiliados",
       "fecha": "Thu, 08 Oct 2026 13:15:11 +0200",
-      "id": 29
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -391,7 +482,7 @@
       "destacada": false,
       "tema": "datos",
       "fecha": "Thu, 08 Oct 2026 13:01:22 +0200",
-      "id": 30
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -404,33 +495,72 @@
       "destacada": false,
       "tema": "empresaria",
       "fecha": "Thu, 08 Oct 2026 12:13:03 +0200",
-      "id": 31
+      "id": 38
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel asegura que la Revolución defiende la 'equidad' mientras crece la desigualdad en Cuba",
-      "resumen": "#SOSCuba: #DíazCanel destaca como un logro que una cubana recibiera tierras en usufructo diez años después de solicitarlas y asegura que el #RégimenCubano defiende la equidad, mientras crece la desigualdad en #Cuba.",
+      "titulo": "EEUU evalúa sumar a los masones a la entrega de asistencia en Cuba",
+      "resumen": "Mike Hammer, jefe de misión de la Embajada de Estados Unidos en Cuba, se reunió con el escritor y líder masónico Ángel Santiesteban Prats para explorar una posible participación de la masonería en la distribución de ayuda humanitaria estadounidense.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791452812_69301.html",
+      "enlace_original": "https://www.martinoticias.com/a/eeuu-eval%c3%baa-sumar-a-los-masones-a-la-entrega-de-asistencia-en-cuba/481576.html",
       "destacada": false,
-      "tema": "canel",
-      "fecha": "Thu, 08 Oct 2026 11:46:52 +0200",
-      "id": 32
+      "tema": "evalúa",
+      "fecha": "Thu, 08 Oct 2026 17:58:25 -0400",
+      "id": 39
     },
     {
       "categoria": "energia",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Las Noticias Como Son",
-      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
+      "titulo": "“Es como si se burlaran de nosotros”: cubanos no pueden cumplir las medidas contra el brote digestivo",
+      "resumen": "Varias regiones de Cuba enfrentan un brote de enfermedades digestivas y virus estomacales con síntomas como vómitos, diarreas y fiebre alta, en medio de apagones, falta de agua potable y escasez de medicamentos.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480507.html",
+      "enlace_original": "https://www.martinoticias.com/a/es-como-si-se-burlaran-de-nosotros-cubanos-no-pueden-cumplir-las-medidas-contra-el-brote-digestivo/481563.html",
       "destacada": false,
-      "tema": "noticias",
-      "fecha": "Thu, 08 Oct 2026 16:05:30 -0400",
-      "id": 33
+      "tema": "burlaran",
+      "fecha": "Thu, 08 Oct 2026 17:44:54 -0400",
+      "id": 40
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EEUU alerta sobre represión a libertad de expresión en Cuba",
+      "resumen": "Natalia Molano, portavoz del Departamento de Estado en español, explica cómo el gobierno de EEUU sigue de cerca los casos de jóvenes cubanos en proceso judicial por sus opiniones críticas contra el régimen.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/eeuu-preocupado-por-represi%c3%b3n-a-libertad-de-expresi%c3%b3n/481572.html",
+      "destacada": false,
+      "tema": "alerta",
+      "fecha": "Thu, 08 Oct 2026 17:05:36 -0400",
+      "id": 41
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al día",
+      "resumen": "¡FILTRACIÓN! Revelan el paraíso secreto de Fidel Castro: ¿quién lo disfruta hoy?",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/481575.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Thu, 08 Oct 2026 17:05:28 -0400",
+      "id": 42
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 5:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480515.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Thu, 08 Oct 2026 17:00:30 -0400",
+      "id": 43
     },
     {
       "categoria": "salud",
@@ -443,7 +573,7 @@
       "destacada": false,
       "tema": "movimiento",
       "fecha": "Thu, 08 Oct 2026 19:42:57 +0000",
-      "id": 34
+      "id": 44
     },
     {
       "categoria": "energia",
@@ -456,7 +586,7 @@
       "destacada": false,
       "tema": "visita",
       "fecha": "Thu, 08 Oct 2026 19:12:34 +0000",
-      "id": 35
+      "id": 45
     },
     {
       "categoria": "energia",
@@ -469,7 +599,7 @@
       "destacada": false,
       "tema": "usted",
       "fecha": "Thu, 08 Oct 2026 18:17:07 +0000",
-      "id": 36
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -482,7 +612,7 @@
       "destacada": false,
       "tema": "tarde",
       "fecha": "Thu, 08 Oct 2026 17:18:08 +0000",
-      "id": 37
+      "id": 47
     },
     {
       "categoria": "politica",
@@ -495,7 +625,7 @@
       "destacada": false,
       "tema": "presidió",
       "fecha": "Thu, 08 Oct 2026 17:05:00 +0000",
-      "id": 38
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -508,7 +638,7 @@
       "destacada": false,
       "tema": "recuerdan",
       "fecha": "Thu, 08 Oct 26 20:09:00 +0200",
-      "id": 39
+      "id": 49
     },
     {
       "categoria": "politica",
@@ -521,7 +651,7 @@
       "destacada": false,
       "tema": "revisa",
       "fecha": "Thu, 08 Oct 26 20:07:00 +0200",
-      "id": 40
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -534,7 +664,7 @@
       "destacada": false,
       "tema": "trabaja",
       "fecha": "Thu, 08 Oct 26 20:04:00 +0200",
-      "id": 41
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -547,7 +677,7 @@
       "destacada": false,
       "tema": "silenciosa",
       "fecha": "Thu, 08 Oct 26 13:20:00 +0200",
-      "id": 42
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -560,7 +690,7 @@
       "destacada": false,
       "tema": "dentro",
       "fecha": "Thu, 08 Oct 26 07:54:00 +0200",
-      "id": 43
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -573,7 +703,7 @@
       "destacada": false,
       "tema": "silvio",
       "fecha": "Thu, 08 Oct 26 07:53:00 +0200",
-      "id": 44
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -586,7 +716,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Thu, 08 Oct 26 07:52:00 +0200",
-      "id": 45
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -599,7 +729,7 @@
       "destacada": false,
       "tema": "lecciones",
       "fecha": "Thu, 08 Oct 26 07:01:00 +0200",
-      "id": 46
+      "id": 56
     },
     {
       "categoria": "politica",
@@ -612,7 +742,7 @@
       "destacada": false,
       "tema": "importación",
       "fecha": "Thu, 08 Oct 26 06:54:00 +0200",
-      "id": 47
+      "id": 57
     },
     {
       "categoria": "politica",
@@ -625,59 +755,46 @@
       "destacada": false,
       "tema": "chequea",
       "fecha": "Wed, 07 Oct 2026 18:14:00 +0000",
-      "id": 48
+      "id": 58
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
+      "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "Matanzas a las puertas de jornadas por la cultura",
-      "resumen": "Matanzas acogerá del 10 al 20 de octubre la 51 Semana de la Cultura Matancera y la Jornada de la Cultura Cubana, una programación integrada por 245...",
+      "titulo": "Restableció Etecsa servicios tras afectaciones energéticas",
+      "resumen": "La entidad precisó que se mantiene la evaluación del comportamiento de los sistemas y plataformas, mientras continúan las labores de recuperación La entrada Restableció Etecsa servicios tras afectaciones energéticas se publicó primero en Tribuna de La Habana.",
       "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/08/matanzas-jornadas-por-la-cultura/",
+      "enlace_original": "https://www.tribuna.cu/restablecio-etecsa-servicios-tras-afectaciones-energeticas/",
       "destacada": false,
-      "tema": "matanzas",
-      "fecha": "Thu, 08 Oct 2026 15:13:42 +0000",
-      "id": 49
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "ETECSA restablece los servicios afectados el pasado 5 de octubre",
-      "resumen": "La Empresa de Telecomunicaciones de Cuba (ETECSA) informó este miércoles que quedaron restablecidos los servicios afectados desde la mañana del lunes 5 de octubre...",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/08/etecsa-restablece-servicios-afectados/",
-      "destacada": false,
-      "tema": "etecsa",
-      "fecha": "Thu, 08 Oct 2026 12:20:00 +0000",
-      "id": 50
+      "tema": "restableció",
+      "fecha": "Thu, 08 Oct 2026 20:26:38 +0000",
+      "id": 59
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
+      "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "Premio Aldabón 2026 recae en joven escritora matancera",
-      "resumen": "La jornada por el Premio Aldabón 2026, desarrollada los días 4 y 5 de octubre, reafirmó a Matanzas como uno de los epicentros creativos más prolíficos de la literatura cubana actual.",
+      "titulo": "Isaías se convirtió en primer huracán de la temporada 2026",
+      "resumen": "El Instituto de Meteorología de Cuba informó que la tormenta tropical Isaías ganó en intensidad sobre el golfo de México y se convirtió en huracán categoría uno en la escala Saffir‑Simpson La entrada Isaías se convirtió en primer huracán de la temporada 2026 se publicó primero en Tribuna de La Haban",
       "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/07/premio-aldabon-2026-recae-en-joven-escritora-matancera/",
+      "enlace_original": "https://www.tribuna.cu/isaias-se-convirtio-en-primer-huracan-de-la-temporada-2026/",
       "destacada": false,
-      "tema": "premio",
-      "fecha": "Wed, 07 Oct 2026 14:29:34 +0000",
-      "id": 51
+      "tema": "isaías",
+      "fecha": "Thu, 08 Oct 2026 20:18:02 +0000",
+      "id": 60
     },
     {
-      "categoria": "politica",
-      "fuente": "https://giron.cu/",
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel en Criterio Compartido: La vocación humanista de la Revolución es atender a todos y defender la equidad",
-      "resumen": "El Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, protagonizó este miércoles 7 de octubre la segunda emisión de Criterio Compartido, el espacio de Radio Rebelde y la Cadena Nacional de Radio conducido por la periodista Bár",
+      "titulo": "Anuncian programa de actividades de la Jornada de la Cultura Cubana",
+      "resumen": "El programa de actividades por la Jornada de la Cultura Cubana, dedicado al centenario del natalicio de Fidel Castro (1926-2016) y a los 50 años de creado el Mincult, fue anunciado en conferencia de prensa celebrada en el Salón de Mayo del Pabellón Cuba La entrada Anuncian programa de actividades de",
       "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/07/diaz-canel-en-criterio-compartido-vocacion-humanista/",
+      "enlace_original": "https://www.tribuna.cu/anuncian-programa-de-actividades-de-la-jornada-de-la-cultura-cubana/",
       "destacada": false,
-      "tema": "canel",
-      "fecha": "Wed, 07 Oct 2026 12:37:00 +0000",
-      "id": 52
+      "tema": "anuncian",
+      "fecha": "Thu, 08 Oct 2026 19:47:31 +0000",
+      "id": 61
     }
   ]
 }
