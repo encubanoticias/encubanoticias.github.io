@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-08",
-  "hora": "10:08",
-  "total": 58,
+  "hora": "12:08",
+  "total": 51,
   "noticias": [
     {
       "categoria": "politica",
@@ -30,17 +30,30 @@
       "id": 2
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Exembajador panameño en Cuba denuncia bloqueo EEUU a la isla",
-      "resumen": "Ciudad de Panamá, 8 oct (Prensa Latina) El dos veces embajador de Panamá en Cuba, el abogado Reynaldo Rivera, denunció hoy el bloqueo que Estados Unidos mantiene contra la isla desde hace más de seis décadas. The post Exembajador panameño en Cuba denuncia bloqueo EEUU a la isla first appeared on Not",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/08/exembajador-panameno-en-cuba-denuncia-bloqueo-eeuu-a-la-isla/",
+      "categoria": "salud",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Han vuelto los médicos cubanos a Jamaica, ahora con contratos individuales",
+      "resumen": "El ministro de Salud Christopher Tufton sitúa en 200 los profesionales de la Isla que ya ya están desplegados en el terreno",
+      "imagen_url": "https://static.14ymedio.com/clip/59650c3b-12bc-487f-bd3b-27bc2004bffc_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/han-vuelto-medicos-cubanos-jamaica_1_1131669.html",
       "destacada": true,
-      "tema": "exembajador",
-      "fecha": "Thu, 08 Oct 2026 10:04:59 +0000",
+      "tema": "vuelto",
+      "fecha": "Thu, 08 Oct 2026 10:08:06 +0000",
       "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Para el régimen cubano, la interceptación por EE UU de petroleros se asemeja a un acto de “piratería”",
+      "resumen": "EE UU anunció la confiscación de más de 2,2 millones de litros de biodiésel destinados a una empresa cubana sancionada por Estados Unidos",
+      "imagen_url": "https://static.14ymedio.com/clip/18161cf5-3100-40f7-bfe3-e6149a64886e_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/regimen-cubano-interceptacion-ee-uu_1_1131672.html",
+      "destacada": true,
+      "tema": "régimen",
+      "fecha": "Thu, 08 Oct 2026 10:36:37 +0000",
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -53,7 +66,7 @@
       "destacada": true,
       "tema": "brascuba",
       "fecha": "Wed, 07 Oct 2026 22:12:38 +0000",
-      "id": 4
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -63,22 +76,9 @@
       "resumen": "Las autoridades no dieron detalles de los exportadores, pero dijeron que la firma sancionada está relacionada también con la interceptación del buque ‘Grace’ procedente de México",
       "imagen_url": "https://static.14ymedio.com/clip/e900f6ea-4536-4102-9742-0853120b5e07_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/ee-uu-bloqueo-90-envios_1_1131653.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "bloqueó",
       "fecha": "Wed, 07 Oct 2026 17:36:25 +0000",
-      "id": 5
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "México debe casi 4,5 millones de dólares a médicos cubanos por concepto de vivienda y alimentos",
-      "resumen": "Un especialista que pidió el anonimato dice que les entregan una tarjeta del Banco del Bienestar para cobrar mensualmente casi 22.000 pesos mexicanos",
-      "imagen_url": "https://static.14ymedio.com/clip/e981b8c4-13ed-4d1d-bad1-fd0cc9ce608d_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/internacional/mexico-debe-4-5-millones_1_1131657.html",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Wed, 07 Oct 2026 21:06:08 +0000",
       "id": 6
     },
     {
@@ -122,45 +122,6 @@
     },
     {
       "categoria": "politica",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La frontera está en los bajos de mi edificio",
-      "resumen": "La visita de Díaz-Canel al barrio trae policías, agentes de civil y una prohibición de salir que trastoca hasta las tareas más elementales",
-      "imagen_url": "https://static.14ymedio.com/clip/b65d996d-8cea-461b-9ad3-51cf6f70c452_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/blogs/generacion-y/frontera-bajos-edificio-represion-cuba_132_1131609.html",
-      "destacada": false,
-      "tema": "frontera",
-      "fecha": "Tue, 06 Oct 2026 18:25:55 +0000",
-      "id": 10
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Uno de cada cuatro trabajadores cubanos tiene un empleo informal",
-      "resumen": "Las oportunidades de acceder a un trabajo decente, cuyo día internacional se celebra este miércoles, se reducen en una Cuba en policrisis",
-      "imagen_url": "https://static.14ymedio.com/clip/ed10e8bb-4a2c-458e-9ce2-df6237aab74e_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/cuatro-trabajadores-cubanos-empleo-informal_1_1131627.html",
-      "destacada": false,
-      "tema": "cuatro",
-      "fecha": "Wed, 07 Oct 2026 08:48:17 +0000",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Proliferan en Cuba los niños que limpian parabrisas a cambio de una limosna",
-      "resumen": "Los menores se precipitan a los vehículos para ofrecer limpiar los parabrisas y espejos a motos, triciclos y autos",
-      "imagen_url": "https://static.14ymedio.com/clip/0829b5b9-9ff1-4079-8cfa-ffb63b2ca85d_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/proliferan-cuba-ninos-limpian-parabrisas_1_1131620.html",
-      "destacada": false,
-      "tema": "proliferan",
-      "fecha": "Tue, 06 Oct 2026 21:07:27 +0000",
-      "id": 12
-    },
-    {
-      "categoria": "politica",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
       "titulo": "Díaz-Canel: «La crisis también genera la creatividad ciudadana»",
@@ -170,7 +131,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 08 Oct 2026 04:32:12 +0200",
-      "id": 13
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -183,46 +144,7 @@
       "destacada": false,
       "tema": "castro",
       "fecha": "Thu, 08 Oct 2026 04:20:58 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El dólar y el euro terminan el día a la baja: Así cierra el mercado informal en Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e208574-s27061-nid342255-dolar-euro-terminan-dia-baja-asi-cierra-mercado",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Thu, 08 Oct 2026 03:15:28 +0200",
-      "id": 15
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel reconoce ahora que «la bancarización no se puede imponer» a todos los cubanos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e197721-s27061-nid342257-diaz-canel-reconoce-ahora-bancarizacion-puede",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Thu, 08 Oct 2026 02:53:38 +0200",
-      "id": 16
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.radiocubana.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel participa en la segunda emisión de «Criterio Compartido» por Radio Rebelde",
-      "resumen": "El Presidente de la República de Cuba, Miguel Díaz-Canel Bermúdez, dialoga este miércoles con la periodista Bárbara Betancourt en la segunda emisión del espacio radial «Criterio Compartido», que se transmite desde las 7:15 de la mañana por Radio Rebelde. La propuesta está dedicada a reflexionar sobr",
-      "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/diaz-canel-participa-en-la-segunda-emision-de-criterio-compartido-por-radio-rebelde/",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Wed, 07 Oct 2026 12:03:20 +0000",
-      "id": 17
+      "id": 11
     },
     {
       "categoria": "politica",
@@ -235,7 +157,7 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Wed, 07 Oct 2026 22:30:36 +0000",
-      "id": 18
+      "id": 12
     },
     {
       "categoria": "politica",
@@ -248,7 +170,7 @@
       "destacada": false,
       "tema": "innovadores",
       "fecha": "Wed, 07 Oct 2026 21:27:25 +0000",
-      "id": 19
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -261,7 +183,7 @@
       "destacada": false,
       "tema": "crecer",
       "fecha": "Wed, 07 Oct 2026 20:07:18 +0000",
-      "id": 20
+      "id": 14
     },
     {
       "categoria": "economia",
@@ -274,7 +196,7 @@
       "destacada": false,
       "tema": "chequea",
       "fecha": "Wed, 07 Oct 2026 19:39:13 +0000",
-      "id": 21
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -287,7 +209,7 @@
       "destacada": false,
       "tema": "victoria",
       "fecha": "Wed, 07 Oct 2026 18:20:17 +0000",
-      "id": 22
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -300,7 +222,59 @@
       "destacada": false,
       "tema": "pesistas",
       "fecha": "Wed, 07 Oct 2026 16:37:04 +0000",
-      "id": 23
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubalex cuestiona la acusación contra El4tico: opiniones en redes convertidas en pruebas de delito",
+      "resumen": "#Cubalex denuncia que las conclusiones fiscales del caso El4tico y sus creadores Ernesto Ricardo Medina y Kamil Zayas Pérez evidencian severas restricciones a la libertad de expresión.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1791459605_69304.html",
+      "destacada": false,
+      "tema": "cubalex",
+      "fecha": "Thu, 08 Oct 2026 13:40:05 +0200",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Exiliados cubanos alertan a una universidad mexicana sobre la vocera del régimen Gabriela Fernández",
+      "resumen": "#SOSCuba: Los #ExiliadosCubanos José Luis Tan Estrada, Avana de la Torre y José Luis Gallego exponen los antecedentes de Gabriela Fernández Álvarez, quien cursará una maestría de #DerechosHumanos en la #UASLP, tras desacreditar a activistas y opositores en #Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1791458111_69303.html",
+      "destacada": false,
+      "tema": "exiliados",
+      "fecha": "Thu, 08 Oct 2026 13:15:11 +0200",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba en datos: accede aquí a todas las encuestas de DIARIO DE CUBA",
+      "resumen": "¿Cómo viven, piensan y proyectan el&nbsp;futuro los cubanos? #DiarioDeCuba y #Cubadata diseccionan la sociedad #cubana en un momento de transformaciones y deterioro.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/foro-ddc/1791457282_69285.html",
+      "destacada": false,
+      "tema": "datos",
+      "fecha": "Thu, 08 Oct 2026 13:01:22 +0200",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Empresaria cubana: 'La mayor dificultad que atraviesan los negocios privados en Cuba es política'",
+      "resumen": "Empresaria cubana: las nuevas restricciones bancarias de #EEUU no necesariamente tendrán un impacto generalizado, en un país donde el sector privado ya opera bajo fuerte incertidumbre financiera y regulatoria.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1791454383_69302.html",
+      "destacada": false,
+      "tema": "empresaria",
+      "fecha": "Thu, 08 Oct 2026 12:13:03 +0200",
+      "id": 21
     },
     {
       "categoria": "politica",
@@ -313,7 +287,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 08 Oct 2026 11:46:52 +0200",
-      "id": 24
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -326,7 +300,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Thu, 08 Oct 2026 08:44:28 +0200",
-      "id": 25
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -339,7 +313,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Thu, 08 Oct 2026 01:10:35 +0200",
-      "id": 26
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -352,59 +326,46 @@
       "destacada": false,
       "tema": "vigilancia",
       "fecha": "Wed, 07 Oct 2026 22:52:21 +0200",
+      "id": 25
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Martinoticias AM",
+      "resumen": "Revista informativa con los últimos acontecimientos ocurridos en Cuba y el mundo. Con entrevistas y temas de actualidad relacionados a la política, la economía y de interés general.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480476.html",
+      "destacada": false,
+      "tema": "martinoticias",
+      "fecha": "Thu, 08 Oct 2026 08:00:00 -0400",
+      "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Ileana Álvarez directora de OGAT",
+      "resumen": "En Abriendo Espacios conversamos con Ileana Álvarez directora de OGAT sobre la violencia de género en Cuba y los feminicidios.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/ileana-%c3%a1lvarez-directora-de-ogat/481548.html",
+      "destacada": false,
+      "tema": "ileana",
+      "fecha": "Thu, 08 Oct 2026 07:49:50 -0400",
       "id": 27
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La Habana responde a EEUU por la incautación de combustible: 'es ilegal la piratería y el pillaje'",
-      "resumen": "#LaHabana responde a #EEUU por la incautación de #combustible. El vicecanciller Carlos Fernández de Cossío acusa a #Washington de \"piratería y pillaje\" y de desplegar una política \"inmoral y criminal\".",
+      "titulo": "Cuba Habla: \"Normalmente no almuerzo para que él almuerce”",
+      "resumen": "Madre habanera explica las dificultades que enfrenta para alimentar a sus hijos.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791399639_69295.html",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-normalmente-no-almuerzo-para-que-%c3%a9l-almuerce/481165.html",
       "destacada": false,
-      "tema": "habana",
-      "fecha": "Wed, 07 Oct 2026 21:00:39 +0200",
+      "tema": "habla",
+      "fecha": "Thu, 08 Oct 2026 07:00:00 -0400",
       "id": 28
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Uruguay pagará directamente a los médicos cubanos y no al Gobierno de Cuba",
-      "resumen": "#Uruguay modifica el esquema de la #BrigadaMédicaCubana tras cuestionamientos de #EEUU sobre pagos al Gobierno de #Cuba",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791398764_69292.html",
-      "destacada": false,
-      "tema": "uruguay",
-      "fecha": "Wed, 07 Oct 2026 20:46:04 +0200",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "EEUU intercepta un intento de 'exportación ilegal' de combustible a 'una entidad cubana sancionada'",
-      "resumen": "#EEUU incauta 90 cargamentos de #combustible que tenían como destino una entidad #cubana sancionada. Los envíos fueron interceptados en los puertos de Everglades y Houston por un intento de \"exportación ilegal\".",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791392923_69291.html",
-      "destacada": false,
-      "tema": "intercepta",
-      "fecha": "Wed, 07 Oct 2026 19:08:43 +0200",
-      "id": 30
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La ONU renueva su misión de investigación en Venezuela un año después de reducirla por falta de fondos",
-      "resumen": "La ONU renueva su Misión Independiente de Observación para #Venezuela un año después de que el periodista de #DiarioDeCuba Salvador Bracho informara que la crisis de financiamiento del organismo reducía la misión y jugaba a favor del #Chavismo.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/internacional/1791389704_69290.html",
-      "destacada": false,
-      "tema": "renueva",
-      "fecha": "Wed, 07 Oct 2026 18:15:04 +0200",
-      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -417,7 +378,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Thu, 08 Oct 2026 00:00:30 -0400",
-      "id": 32
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -430,7 +391,7 @@
       "destacada": false,
       "tema": "denuncian",
       "fecha": "Wed, 07 Oct 2026 21:04:54 -0400",
-      "id": 33
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -443,7 +404,7 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Wed, 07 Oct 2026 21:00:00 -0400",
-      "id": 34
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -456,7 +417,7 @@
       "destacada": false,
       "tema": "nuevas",
       "fecha": "Thu, 08 Oct 2026 04:02:46 +0000",
-      "id": 35
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -469,7 +430,7 @@
       "destacada": false,
       "tema": "santiago",
       "fecha": "Thu, 08 Oct 2026 03:45:52 +0000",
-      "id": 36
+      "id": 33
     },
     {
       "categoria": "politica",
@@ -482,7 +443,7 @@
       "destacada": false,
       "tema": "yaguajay",
       "fecha": "Thu, 08 Oct 2026 01:32:51 +0000",
-      "id": 37
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -495,7 +456,7 @@
       "destacada": false,
       "tema": "mundial",
       "fecha": "Wed, 07 Oct 2026 21:19:46 +0000",
-      "id": 38
+      "id": 35
     },
     {
       "categoria": "salud",
@@ -508,7 +469,7 @@
       "destacada": false,
       "tema": "canarias",
       "fecha": "Wed, 07 Oct 2026 20:06:46 +0000",
-      "id": 39
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -521,7 +482,20 @@
       "destacada": false,
       "tema": "valery",
       "fecha": "Tue, 06 Oct 2026 16:26:05 +0000",
-      "id": 40
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "“Cuba es hoy una Gaza silenciosa; quedarse de brazos cruzados ante este crimen significa ser cómplice”: Hassan Pérez",
+      "resumen": "Alejandro Massia - SCCA José Martí / Cubainformación ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125375-cuba-es-hoy-una-gaza-silenciosa-quedarse-de-brazos-cruzados-ante-este-crimen-significa-ser-complice-hassan-perez.jpg?t=1791458519",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261008/125375/125375-cuba-es-hoy-una-gaza-silenciosa-quedarse-de-brazos-cruzados-ante-este-crimen-significa-ser-complice-hassan-perez",
+      "destacada": false,
+      "tema": "silenciosa",
+      "fecha": "Thu, 08 Oct 26 13:20:00 +0200",
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -534,7 +508,7 @@
       "destacada": false,
       "tema": "dentro",
       "fecha": "Thu, 08 Oct 26 07:54:00 +0200",
-      "id": 41
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -547,7 +521,7 @@
       "destacada": false,
       "tema": "silvio",
       "fecha": "Thu, 08 Oct 26 07:53:00 +0200",
-      "id": 42
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -560,7 +534,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Thu, 08 Oct 26 07:52:00 +0200",
-      "id": 43
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -573,7 +547,7 @@
       "destacada": false,
       "tema": "lecciones",
       "fecha": "Thu, 08 Oct 26 07:01:00 +0200",
-      "id": 44
+      "id": 42
     },
     {
       "categoria": "politica",
@@ -586,7 +560,7 @@
       "destacada": false,
       "tema": "importación",
       "fecha": "Thu, 08 Oct 26 06:54:00 +0200",
-      "id": 45
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -599,7 +573,7 @@
       "destacada": false,
       "tema": "imperio",
       "fecha": "Thu, 08 Oct 26 06:51:00 +0200",
-      "id": 46
+      "id": 44
     },
     {
       "categoria": "politica",
@@ -612,7 +586,7 @@
       "destacada": false,
       "tema": "cámara",
       "fecha": "Thu, 08 Oct 26 06:48:00 +0200",
-      "id": 47
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -625,20 +599,7 @@
       "destacada": false,
       "tema": "sabían",
       "fecha": "Thu, 08 Oct 26 06:41:00 +0200",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Hacemos Cuba: prevención y enfrentamiento de las conductas asociadas a la evasión fiscal",
-      "resumen": "Canal Caribe - Foto: El Artemiseño.- Hacemos Cuba analiza la prevención y enfrentamiento de las cond...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125363-hacemos-cuba-prevencion-y-enfrentamiento-de-las-conductas-asociadas-a-la-evasion-fiscal.jpg?t=1791434364",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261008/125363/125363-hacemos-cuba-prevencion-y-enfrentamiento-de-las-conductas-asociadas-a-la-evasion-fiscal",
-      "destacada": false,
-      "tema": "hacemos",
-      "fecha": "Thu, 08 Oct 26 06:38:00 +0200",
-      "id": 49
+      "id": 46
     },
     {
       "categoria": "politica",
@@ -651,59 +612,7 @@
       "destacada": false,
       "tema": "chequea",
       "fecha": "Wed, 07 Oct 2026 18:14:00 +0000",
-      "id": 50
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "La ciudad que cabe en sus páginas",
-      "resumen": "Cuarenta y seis años después de aquel primer “Buenas tardes, Habana”, las formas de hacer periodismo han cambiado, pero permanece el mismo desafío: contar una ciudad que también ha aprendido a transformarse La entrada La ciudad que cabe en sus páginas se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/la-ciudad-que-cabe-en-sus-paginas/",
-      "destacada": false,
-      "tema": "ciudad",
-      "fecha": "Wed, 07 Oct 2026 22:02:55 +0000",
-      "id": 51
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "El desafío de seguir siendo el periódico de los capitalinos",
-      "resumen": "En sus 46 años, Tribuna de La Habana ha cambiado junto con la ciudad y las formas de contarla. El reto continúa siendo el mismo, seguir siendo un medio cercano a los capitalinos en un escenario marcado por las nuevas tecnologías y la transformación del consumo informativo La entrada El desafío de se",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/el-desafio-de-seguir-siendo-el-periodico-de-los-capitalinos/",
-      "destacada": false,
-      "tema": "desafío",
-      "fecha": "Wed, 07 Oct 2026 22:02:57 +0000",
-      "id": 52
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Aprender a mirar La Habana",
-      "resumen": "De una práctica laboral durante el primer año de Periodismo a cuatro años de trabajo en la redacción, un recorrido marcado por el aprendizaje, la historia del medio y una nueva manera de mirar y contar La Habana La entrada Aprender a mirar La Habana se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/aprender-a-mirar-la-habana/",
-      "destacada": false,
-      "tema": "aprender",
-      "fecha": "Wed, 07 Oct 2026 22:02:52 +0000",
-      "id": 53
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Un lugar al que siempre quise volver",
-      "resumen": "Una experiencia de más de cuatro décadas en Tribuna de La Habana, donde Lissette Martín encontró, después de una llegada que no había elegido, un espacio profesional y humano al que siempre decide regresar La entrada Un lugar al que siempre quise volver se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/un-lugar-al-que-siempre-quise-volver/",
-      "destacada": false,
-      "tema": "lugar",
-      "fecha": "Wed, 07 Oct 2026 22:02:50 +0000",
-      "id": 54
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -716,7 +625,7 @@
       "destacada": false,
       "tema": "premio",
       "fecha": "Wed, 07 Oct 2026 14:29:34 +0000",
-      "id": 55
+      "id": 48
     },
     {
       "categoria": "politica",
@@ -729,7 +638,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Wed, 07 Oct 2026 12:37:00 +0000",
-      "id": 56
+      "id": 49
     },
     {
       "categoria": "transporte",
@@ -742,7 +651,7 @@
       "destacada": false,
       "tema": "barbados",
       "fecha": "Wed, 07 Oct 2026 12:29:00 +0000",
-      "id": 57
+      "id": 50
     },
     {
       "categoria": "salud",
@@ -755,7 +664,7 @@
       "destacada": false,
       "tema": "embarazo",
       "fecha": "Wed, 07 Oct 2026 11:58:00 +0000",
-      "id": 58
+      "id": 51
     }
   ]
 }
