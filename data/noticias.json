@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-10-07",
-  "hora": "23:04",
-  "total": 61,
+  "fecha": "2026-10-08",
+  "hora": "00:06",
+  "total": 65,
   "noticias": [
     {
       "categoria": "politica",
@@ -56,16 +56,16 @@
       "id": 4
     },
     {
-      "categoria": "sociedad",
+      "categoria": "economia",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Avispas alzan vuelo solitario en el béisbol cubano",
-      "resumen": "Santiago de Cuba, 7 oct (Prensa Latina) Santiago de Cuba quedó hoy como único invicto de la 65 Serie Nacional de Béisbol de Cuba, tras noquear 14-4 a Guantánamo y completar una barrida que confirmó su fortaleza ofensiva. The post Avispas alzan vuelo solitario en el béisbol cubano first appeared on N",
+      "titulo": "Cuba expone ante Cepal impacto del bloqueo y aboga por integración",
+      "resumen": "Santo Domingo, 7 oct (Prensa Latina) Cuba denunció hoy ante la Comisión Económica para América Latina y el Caribe (Cepal) el impacto de las medidas estadounidenses sobre su economía y señaló que estas restringen el acceso a tecnologías, equipamiento industrial y financiamiento. The post Cuba expone ",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/07/avispas-alzan-vuelo-solitario-en-el-beisbol-cubano/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/07/cuba-expone-ante-cepal-impacto-del-bloqueo-y-aboga-por-integracion/",
       "destacada": true,
-      "tema": "avispas",
-      "fecha": "Wed, 07 Oct 2026 21:45:33 +0000",
+      "tema": "expone",
+      "fecha": "Thu, 08 Oct 2026 00:01:37 +0000",
       "id": 5
     },
     {
@@ -186,6 +186,71 @@
       "id": 14
     },
     {
+      "categoria": "transporte",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Dos cubanos exiliados envían cartas a universidad mexicana por admitir a presentadora de «Con Filo»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e208933-s27061-nid342247-dos-cubanos-exiliados-envian-cartas-universidad",
+      "destacada": false,
+      "tema": "cubanos",
+      "fecha": "Thu, 08 Oct 2026 00:49:34 +0200",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Diplomático cubano responde a decomiso de combustible: «Es ilegal hostigar buques en aguas internacionales»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e199894-s27061-nid342248-diplomatico-cubano-responde-decomiso-combustible",
+      "destacada": false,
+      "tema": "diplomático",
+      "fecha": "Thu, 08 Oct 2026 00:44:05 +0200",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubana denuncia ríos de agua en las calles de La Lisa mientras no llega a las casas",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e197721-s27061-nid342245-cubana-denuncia-rios-agua-calles-lisa-mientras-llega",
+      "destacada": false,
+      "tema": "cubana",
+      "fecha": "Thu, 08 Oct 2026 00:33:45 +0200",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Baby Lores a su madre enferma en Cuba: «Voy a hacer todo lo que esté en mis manos para abrazarte»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e208933-s27061-nid342243-baby-lores-madre-enferma-cuba-voy-hacer-todo-este",
+      "destacada": false,
+      "tema": "lores",
+      "fecha": "Thu, 08 Oct 2026 00:08:42 +0200",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Baby Lores comparte emotivas palabras de su madre enferma en Cuba: «Soy fuerte y voy a seguir fuerte»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e135253-s27061-nid342244-baby-lores-comparte-emotivas-palabras-madre-enferma",
+      "destacada": false,
+      "tema": "lores",
+      "fecha": "Thu, 08 Oct 2026 00:01:02 +0200",
+      "id": 19
+    },
+    {
       "categoria": "politica",
       "fuente": "https://www.radiocubana.cu",
       "fuente_tipo": "alternativa",
@@ -196,7 +261,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Wed, 07 Oct 2026 12:03:20 +0000",
-      "id": 15
+      "id": 20
     },
     {
       "categoria": "politica",
@@ -209,7 +274,7 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Wed, 07 Oct 2026 22:30:36 +0000",
-      "id": 16
+      "id": 21
     },
     {
       "categoria": "politica",
@@ -222,7 +287,7 @@
       "destacada": false,
       "tema": "innovadores",
       "fecha": "Wed, 07 Oct 2026 21:27:25 +0000",
-      "id": 17
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -235,7 +300,7 @@
       "destacada": false,
       "tema": "crecer",
       "fecha": "Wed, 07 Oct 2026 20:07:18 +0000",
-      "id": 18
+      "id": 23
     },
     {
       "categoria": "economia",
@@ -248,7 +313,7 @@
       "destacada": false,
       "tema": "chequea",
       "fecha": "Wed, 07 Oct 2026 19:39:13 +0000",
-      "id": 19
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -261,7 +326,7 @@
       "destacada": false,
       "tema": "victoria",
       "fecha": "Wed, 07 Oct 2026 18:20:17 +0000",
-      "id": 20
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -274,7 +339,20 @@
       "destacada": false,
       "tema": "pesistas",
       "fecha": "Wed, 07 Oct 2026 16:37:04 +0000",
-      "id": 21
+      "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El régimen aprueba beneficios fiscales para las empresas que empleen a personas con discapacidad",
+      "resumen": "El régimen #cubano aprueba beneficios fiscales para empresas que empleen a personas con #discapacidad y presenta la medida como garantía de \"empleo digno\", mientras crece el abandono asistencial.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791414635_69296.html",
+      "destacada": false,
+      "tema": "régimen",
+      "fecha": "Thu, 08 Oct 2026 01:10:35 +0200",
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -287,7 +365,7 @@
       "destacada": false,
       "tema": "vigilancia",
       "fecha": "Wed, 07 Oct 2026 22:52:21 +0200",
-      "id": 22
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -300,7 +378,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Wed, 07 Oct 2026 21:00:39 +0200",
-      "id": 23
+      "id": 29
     },
     {
       "categoria": "salud",
@@ -313,7 +391,7 @@
       "destacada": false,
       "tema": "uruguay",
       "fecha": "Wed, 07 Oct 2026 20:46:04 +0200",
-      "id": 24
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -326,7 +404,7 @@
       "destacada": false,
       "tema": "intercepta",
       "fecha": "Wed, 07 Oct 2026 19:08:43 +0200",
-      "id": 25
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -339,7 +417,7 @@
       "destacada": false,
       "tema": "renueva",
       "fecha": "Wed, 07 Oct 2026 18:15:04 +0200",
-      "id": 26
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -352,7 +430,7 @@
       "destacada": false,
       "tema": "justicia",
       "fecha": "Wed, 07 Oct 2026 18:00:44 +0200",
-      "id": 27
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -365,7 +443,7 @@
       "destacada": false,
       "tema": "vocera",
       "fecha": "Wed, 07 Oct 2026 15:37:16 +0200",
-      "id": 28
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -378,33 +456,20 @@
       "destacada": false,
       "tema": "creador",
       "fecha": "Wed, 07 Oct 2026 14:29:47 +0200",
-      "id": 29
+      "id": 35
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El hambre pone a prueba a las escuelas cubanas y frena el aprendizaje de los niños",
-      "resumen": "\"Un niño con #hambre no aprende\", dice una maestra de Santiago de #Cuba, donde la irregularidad en el suministro de alimentos a las #escuelas pone a prueba a padres y docentes, y afecta el aprendizaje. Lee el reportaje de Laura Sarmiento.",
+      "titulo": "Noticiero de Radio Martí 8:00 PM",
+      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791370847_69278.html",
+      "enlace_original": "https://www.martinoticias.com/a/480422.html",
       "destacada": false,
-      "tema": "hambre",
-      "fecha": "Wed, 07 Oct 2026 13:00:47 +0200",
-      "id": 30
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Pemex redujo a cero los envíos de petróleo a Cuba en el segundo trimestre de 2026",
-      "resumen": "#Pemex no registra exportaciones de petróleo a #Cuba entre abril y junio, pero se desconoce si el Gobierno de #México envía crudo a la Isla por otra vía. Una analista pone en duda que los envíos hubieran evitado los apagones en Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791365533_69286.html",
-      "destacada": false,
-      "tema": "pemex",
-      "fecha": "Wed, 07 Oct 2026 11:32:13 +0200",
-      "id": 31
+      "tema": "noticiero",
+      "fecha": "Wed, 07 Oct 2026 20:00:00 -0400",
+      "id": 36
     },
     {
       "categoria": "politica",
@@ -417,7 +482,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Wed, 07 Oct 2026 17:47:24 -0400",
-      "id": 32
+      "id": 37
     },
     {
       "categoria": "economia",
@@ -430,7 +495,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 07 Oct 2026 17:16:17 -0400",
-      "id": 33
+      "id": 38
     },
     {
       "categoria": "economia",
@@ -443,20 +508,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Wed, 07 Oct 2026 17:14:55 -0400",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 5:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480416.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Wed, 07 Oct 2026 17:00:30 -0400",
-      "id": 35
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -469,7 +521,7 @@
       "destacada": false,
       "tema": "mundial",
       "fecha": "Wed, 07 Oct 2026 21:19:46 +0000",
-      "id": 36
+      "id": 40
     },
     {
       "categoria": "salud",
@@ -482,7 +534,7 @@
       "destacada": false,
       "tema": "canarias",
       "fecha": "Wed, 07 Oct 2026 20:06:46 +0000",
-      "id": 37
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -495,7 +547,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 07 Oct 2026 19:35:44 +0000",
-      "id": 38
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -508,7 +560,7 @@
       "destacada": false,
       "tema": "lectores",
       "fecha": "Wed, 07 Oct 2026 17:34:21 +0000",
-      "id": 39
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -521,7 +573,7 @@
       "destacada": false,
       "tema": "gallos",
       "fecha": "Wed, 07 Oct 2026 15:15:22 +0000",
-      "id": 40
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -534,7 +586,7 @@
       "destacada": false,
       "tema": "valery",
       "fecha": "Tue, 06 Oct 2026 16:26:05 +0000",
-      "id": 41
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -547,7 +599,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Wed, 07 Oct 26 23:13:00 +0200",
-      "id": 42
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -560,7 +612,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Wed, 07 Oct 26 08:10:00 +0200",
-      "id": 43
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -573,7 +625,7 @@
       "destacada": false,
       "tema": "negreros",
       "fecha": "Wed, 07 Oct 26 08:09:00 +0200",
-      "id": 44
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -586,7 +638,7 @@
       "destacada": false,
       "tema": "habría",
       "fecha": "Wed, 07 Oct 26 08:08:00 +0200",
-      "id": 45
+      "id": 49
     },
     {
       "categoria": "salud",
@@ -599,7 +651,7 @@
       "destacada": false,
       "tema": "festa",
       "fecha": "Wed, 07 Oct 26 07:58:00 +0200",
-      "id": 46
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -612,7 +664,7 @@
       "destacada": false,
       "tema": "convocada",
       "fecha": "Wed, 07 Oct 26 06:52:00 +0200",
-      "id": 47
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -625,7 +677,7 @@
       "destacada": false,
       "tema": "cristo",
       "fecha": "Wed, 07 Oct 26 06:27:00 +0200",
-      "id": 48
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -638,7 +690,7 @@
       "destacada": false,
       "tema": "programa",
       "fecha": "Wed, 07 Oct 26 06:23:00 +0200",
-      "id": 49
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -651,7 +703,7 @@
       "destacada": false,
       "tema": "contra",
       "fecha": "Wed, 07 Oct 26 06:21:00 +0200",
-      "id": 50
+      "id": 54
     },
     {
       "categoria": "politica",
@@ -664,7 +716,7 @@
       "destacada": false,
       "tema": "rinde",
       "fecha": "Wed, 07 Oct 26 06:17:00 +0200",
-      "id": 51
+      "id": 55
     },
     {
       "categoria": "politica",
@@ -677,7 +729,7 @@
       "destacada": false,
       "tema": "chequea",
       "fecha": "Wed, 07 Oct 2026 18:14:00 +0000",
-      "id": 52
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -690,7 +742,7 @@
       "destacada": false,
       "tema": "ciudad",
       "fecha": "Wed, 07 Oct 2026 22:02:55 +0000",
-      "id": 53
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -703,7 +755,7 @@
       "destacada": false,
       "tema": "desafío",
       "fecha": "Wed, 07 Oct 2026 22:02:57 +0000",
-      "id": 54
+      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -716,7 +768,7 @@
       "destacada": false,
       "tema": "aprender",
       "fecha": "Wed, 07 Oct 2026 22:02:52 +0000",
-      "id": 55
+      "id": 59
     },
     {
       "categoria": "sociedad",
@@ -729,7 +781,7 @@
       "destacada": false,
       "tema": "lugar",
       "fecha": "Wed, 07 Oct 2026 22:02:50 +0000",
-      "id": 56
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -742,7 +794,7 @@
       "destacada": false,
       "tema": "premio",
       "fecha": "Wed, 07 Oct 2026 14:29:34 +0000",
-      "id": 57
+      "id": 61
     },
     {
       "categoria": "politica",
@@ -755,7 +807,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Wed, 07 Oct 2026 12:37:00 +0000",
-      "id": 58
+      "id": 62
     },
     {
       "categoria": "transporte",
@@ -768,7 +820,7 @@
       "destacada": false,
       "tema": "barbados",
       "fecha": "Wed, 07 Oct 2026 12:29:00 +0000",
-      "id": 59
+      "id": 63
     },
     {
       "categoria": "salud",
@@ -781,7 +833,7 @@
       "destacada": false,
       "tema": "embarazo",
       "fecha": "Wed, 07 Oct 2026 11:58:00 +0000",
-      "id": 60
+      "id": 64
     },
     {
       "categoria": "sociedad",
@@ -794,7 +846,7 @@
       "destacada": false,
       "tema": "avanza",
       "fecha": "Tue, 06 Oct 2026 14:42:55 +0000",
-      "id": 61
+      "id": 65
     }
   ]
 }
