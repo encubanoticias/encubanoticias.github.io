@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-09",
-  "hora": "00:08",
-  "total": 62,
+  "hora": "01:11",
+  "total": 67,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -95,16 +95,16 @@
       "id": 7
     },
     {
-      "categoria": "sociedad",
+      "categoria": "economia",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Perú: Flores para Che Guevara a 59 años de su asesinato",
-      "resumen": "Lima, 8 oct (Prensa Latina) La encargada de Negocios de Cuba en Perú, embajadora Yamila Pita, afirmó que Che Guevara estaría hoy en la primera línea de combate, frente a la escalada de agresiones de Estados Unidos contra la isla. The post Perú: Flores para Che Guevara a 59 años de su asesinato first",
+      "titulo": "Cuba destaca prioridades digitales en foro regional de la Cepal",
+      "resumen": "Santo Domingo, 8 oct (Prensa Latina) Cuba considera la transformación digital y la inteligencia artificial (IA) prioridades nacionales para modernizar su economía, impulsar la innovación y fortalecer la soberanía tecnológica, afirmó hoy la viceministra de Comercio Exterior y la Inversión Extranjera,",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/08/peru-flores-para-che-guevara-a-59-anos-de-caida-en-combate/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/08/cuba-destaca-prioridades-digitales-en-foro-regional-de-la-cepal/",
       "destacada": false,
-      "tema": "flores",
-      "fecha": "Thu, 08 Oct 2026 22:45:13 +0000",
+      "tema": "destaca",
+      "fecha": "Fri, 09 Oct 2026 00:33:25 +0000",
       "id": 8
     },
     {
@@ -238,6 +238,71 @@
       "id": 18
     },
     {
+      "categoria": "energia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Radio Ángulo, otra emisora en Cuba afectada por los apagones",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-09-u1-e199894-s27061-nid342366-radio-angulo-otra-emisora-cuba-afectada-apagones",
+      "destacada": false,
+      "tema": "radio",
+      "fecha": "Fri, 09 Oct 2026 02:27:21 +0200",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba amplía hasta el 7 de noviembre el plazo para inscribir vehículos armados por partes y piezas",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-09-u1-e199894-s27061-nid342365-cuba-amplia-7-noviembre-plazo-inscribir-vehiculos",
+      "destacada": false,
+      "tema": "amplía",
+      "fecha": "Fri, 09 Oct 2026 02:20:24 +0200",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Arrestan en Miami a otro cubano que llegó de La Habana con 11 aves vivas escondidas entre la ropa",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-09-u1-e208933-s27061-nid342364-arrestan-miami-otro-cubano-llego-habana-11-aves",
+      "destacada": false,
+      "tema": "arrestan",
+      "fecha": "Fri, 09 Oct 2026 01:54:58 +0200",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Salvador Valdés Mesa a los cubanos: «Hay que trabajar para salir de la crisis»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-09-u1-e197721-s27061-nid342363-salvador-valdes-mesa-cubanos-hay-trabajar-salir",
+      "destacada": false,
+      "tema": "salvador",
+      "fecha": "Fri, 09 Oct 2026 01:42:40 +0200",
+      "id": 22
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Díaz-Canel: «Todavía no nos hemos dado cuenta de la transición energética que estamos protagonizando»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-09-u1-e208933-s27061-nid342360-diaz-canel-todavia-nos-hemos-dado-cuenta-transicion",
+      "destacada": false,
+      "tema": "canel",
+      "fecha": "Fri, 09 Oct 2026 01:41:01 +0200",
+      "id": 23
+    },
+    {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
@@ -248,7 +313,7 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Fri, 09 Oct 2026 00:57:35 +0200",
-      "id": 19
+      "id": 24
     },
     {
       "categoria": "politica",
@@ -261,20 +326,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Fri, 09 Oct 2026 00:51:47 +0200",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Diputada italiana culpa a EE.UU. de la crisis en Cuba, pero guarda silencio sobre los presos políticos y la represión",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-08-u1-e208933-s27061-nid342352-diputada-italiana-culpa-eeuu-crisis-cuba-guarda",
-      "destacada": false,
-      "tema": "diputada",
-      "fecha": "Thu, 08 Oct 2026 23:44:35 +0200",
-      "id": 21
+      "id": 25
     },
     {
       "categoria": "politica",
@@ -287,7 +339,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Wed, 07 Oct 2026 12:03:20 +0000",
-      "id": 22
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -300,7 +352,7 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Thu, 08 Oct 2026 18:04:14 +0000",
-      "id": 23
+      "id": 27
     },
     {
       "categoria": "transporte",
@@ -313,7 +365,7 @@
       "destacada": false,
       "tema": "mundial",
       "fecha": "Thu, 08 Oct 2026 16:21:58 +0000",
-      "id": 24
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -326,7 +378,7 @@
       "destacada": false,
       "tema": "internacional",
       "fecha": "Thu, 08 Oct 2026 15:19:57 +0000",
-      "id": 25
+      "id": 29
     },
     {
       "categoria": "politica",
@@ -339,7 +391,7 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Wed, 07 Oct 2026 22:30:36 +0000",
-      "id": 26
+      "id": 30
     },
     {
       "categoria": "salud",
@@ -352,7 +404,7 @@
       "destacada": false,
       "tema": "washington",
       "fecha": "Fri, 09 Oct 2026 01:11:21 +0200",
-      "id": 27
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -365,7 +417,7 @@
       "destacada": false,
       "tema": "menos",
       "fecha": "Thu, 08 Oct 2026 23:14:58 +0200",
-      "id": 28
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -378,7 +430,7 @@
       "destacada": false,
       "tema": "llega",
       "fecha": "Thu, 08 Oct 2026 19:22:22 +0200",
-      "id": 29
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -391,7 +443,7 @@
       "destacada": false,
       "tema": "único",
       "fecha": "Thu, 08 Oct 2026 17:28:03 +0200",
-      "id": 30
+      "id": 34
     },
     {
       "categoria": "economia",
@@ -404,7 +456,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 08 Oct 2026 14:48:54 +0200",
-      "id": 31
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -417,7 +469,7 @@
       "destacada": false,
       "tema": "cubalex",
       "fecha": "Thu, 08 Oct 2026 13:40:05 +0200",
-      "id": 32
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -430,7 +482,7 @@
       "destacada": false,
       "tema": "exiliados",
       "fecha": "Thu, 08 Oct 2026 13:15:11 +0200",
-      "id": 33
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -443,7 +495,20 @@
       "destacada": false,
       "tema": "datos",
       "fecha": "Thu, 08 Oct 2026 13:01:22 +0200",
-      "id": 34
+      "id": 38
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Investigación sobre corrupción en la salud pública cubana gana el Premio Roche 2026",
+      "resumen": "La investigación “La privatización silenciosa: prácticas de corrupción en el Sistema Nacional de Salud Cubana” ganó el Premio Roche de Periodismo en Salud 2026 en la categoría de Periodismo escrito.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/investigaci%c3%b3n-sobre-corrupci%c3%b3n-en-la-salud-p%c3%bablica-cubana-gana-el-premio-roche-2026/481568.html",
+      "destacada": false,
+      "tema": "investigación",
+      "fecha": "Thu, 08 Oct 2026 20:41:39 -0400",
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -456,7 +521,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Thu, 08 Oct 2026 20:00:00 -0400",
-      "id": 35
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -469,7 +534,7 @@
       "destacada": false,
       "tema": "evalúa",
       "fecha": "Thu, 08 Oct 2026 17:58:25 -0400",
-      "id": 36
+      "id": 41
     },
     {
       "categoria": "energia",
@@ -482,7 +547,7 @@
       "destacada": false,
       "tema": "burlaran",
       "fecha": "Thu, 08 Oct 2026 17:44:54 -0400",
-      "id": 37
+      "id": 42
     },
     {
       "categoria": "politica",
@@ -495,7 +560,7 @@
       "destacada": false,
       "tema": "alerta",
       "fecha": "Thu, 08 Oct 2026 17:05:36 -0400",
-      "id": 38
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -508,7 +573,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Thu, 08 Oct 2026 17:05:28 -0400",
-      "id": 39
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -521,7 +586,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Thu, 08 Oct 2026 17:00:30 -0400",
-      "id": 40
+      "id": 45
     },
     {
       "categoria": "salud",
@@ -534,7 +599,7 @@
       "destacada": false,
       "tema": "movimiento",
       "fecha": "Thu, 08 Oct 2026 19:42:57 +0000",
-      "id": 41
+      "id": 46
     },
     {
       "categoria": "energia",
@@ -547,7 +612,7 @@
       "destacada": false,
       "tema": "visita",
       "fecha": "Thu, 08 Oct 2026 19:12:34 +0000",
-      "id": 42
+      "id": 47
     },
     {
       "categoria": "energia",
@@ -560,7 +625,7 @@
       "destacada": false,
       "tema": "usted",
       "fecha": "Thu, 08 Oct 2026 18:17:07 +0000",
-      "id": 43
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -573,7 +638,7 @@
       "destacada": false,
       "tema": "tarde",
       "fecha": "Thu, 08 Oct 2026 17:18:08 +0000",
-      "id": 44
+      "id": 49
     },
     {
       "categoria": "politica",
@@ -586,7 +651,7 @@
       "destacada": false,
       "tema": "presidió",
       "fecha": "Thu, 08 Oct 2026 17:05:00 +0000",
-      "id": 45
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -599,7 +664,7 @@
       "destacada": false,
       "tema": "recuerdan",
       "fecha": "Thu, 08 Oct 26 20:09:00 +0200",
-      "id": 46
+      "id": 51
     },
     {
       "categoria": "politica",
@@ -612,7 +677,7 @@
       "destacada": false,
       "tema": "revisa",
       "fecha": "Thu, 08 Oct 26 20:07:00 +0200",
-      "id": 47
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -625,7 +690,7 @@
       "destacada": false,
       "tema": "trabaja",
       "fecha": "Thu, 08 Oct 26 20:04:00 +0200",
-      "id": 48
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -638,7 +703,7 @@
       "destacada": false,
       "tema": "silenciosa",
       "fecha": "Thu, 08 Oct 26 13:20:00 +0200",
-      "id": 49
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -651,7 +716,7 @@
       "destacada": false,
       "tema": "dentro",
       "fecha": "Thu, 08 Oct 26 07:54:00 +0200",
-      "id": 50
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -664,7 +729,7 @@
       "destacada": false,
       "tema": "silvio",
       "fecha": "Thu, 08 Oct 26 07:53:00 +0200",
-      "id": 51
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -677,7 +742,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Thu, 08 Oct 26 07:52:00 +0200",
-      "id": 52
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -690,7 +755,7 @@
       "destacada": false,
       "tema": "lecciones",
       "fecha": "Thu, 08 Oct 26 07:01:00 +0200",
-      "id": 53
+      "id": 58
     },
     {
       "categoria": "politica",
@@ -703,7 +768,7 @@
       "destacada": false,
       "tema": "importación",
       "fecha": "Thu, 08 Oct 26 06:54:00 +0200",
-      "id": 54
+      "id": 59
     },
     {
       "categoria": "politica",
@@ -716,7 +781,7 @@
       "destacada": false,
       "tema": "chequea",
       "fecha": "Wed, 07 Oct 2026 18:14:00 +0000",
-      "id": 55
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -729,7 +794,7 @@
       "destacada": false,
       "tema": "restableció",
       "fecha": "Thu, 08 Oct 2026 20:26:38 +0000",
-      "id": 56
+      "id": 61
     },
     {
       "categoria": "sociedad",
@@ -742,7 +807,7 @@
       "destacada": false,
       "tema": "isaías",
       "fecha": "Thu, 08 Oct 2026 20:18:02 +0000",
-      "id": 57
+      "id": 62
     },
     {
       "categoria": "sociedad",
@@ -755,7 +820,7 @@
       "destacada": false,
       "tema": "anuncian",
       "fecha": "Thu, 08 Oct 2026 19:47:31 +0000",
-      "id": 58
+      "id": 63
     },
     {
       "categoria": "sociedad",
@@ -768,7 +833,7 @@
       "destacada": false,
       "tema": "matanzas",
       "fecha": "Thu, 08 Oct 2026 15:13:42 +0000",
-      "id": 59
+      "id": 64
     },
     {
       "categoria": "energia",
@@ -781,7 +846,7 @@
       "destacada": false,
       "tema": "etecsa",
       "fecha": "Thu, 08 Oct 2026 12:20:00 +0000",
-      "id": 60
+      "id": 65
     },
     {
       "categoria": "politica",
@@ -794,7 +859,7 @@
       "destacada": false,
       "tema": "chequea",
       "fecha": "Thu, 08 Oct 2026 10:32:00 +0000",
-      "id": 61
+      "id": 66
     },
     {
       "categoria": "sociedad",
@@ -807,7 +872,7 @@
       "destacada": false,
       "tema": "premio",
       "fecha": "Wed, 07 Oct 2026 14:29:34 +0000",
-      "id": 62
+      "id": 67
     }
   ]
 }
