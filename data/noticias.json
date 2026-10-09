@@ -1,8 +1,99 @@
 {
   "fecha": "2026-10-09",
-  "hora": "07:09",
-  "total": 50,
+  "hora": "09:08",
+  "total": 61,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Washington no tiene autoridad para decidir quién puede comerciar con Cuba",
+      "resumen": "El Canciller de la Mayor de las Antillas rechazó las medidas coercitivas unilaterales, de carácter extraterritorial, que la Casa Blanca impone a la Isla",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-08/washington-no-tiene-autoridad-alguna-para-decidir-quien-puede-comerciar-con-cuba-08-10-2026-10-10-21",
+      "destacada": true,
+      "tema": "washington",
+      "fecha": "Thu, 08 Oct 2026 10:10:21 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "«Sin miedo al sacrificio, sabremos actuar digna y serenamente a la altura de las circunstancias»",
+      "resumen": "Manifiesto al pueblo de Cuba de Fidel Castro y combatientes",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cien-con-fidel/2026-10-08/sin-miedo-al-sacrificio-sabremos-actuar-digna-y-serenamente-a-la-altura-de-las-circunstancias-08-10-2026-11-10-07",
+      "destacada": true,
+      "tema": "miedo",
+      "fecha": "Thu, 08 Oct 2026 11:10:07 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Diputados italianos aprueban resolución de apoyo a Cuba",
+      "resumen": "La Comisión de Asuntos Exteriores de la Cámara de Diputados de Italia aprobó una resolución que insta a su Gobierno a apoyar al pueblo cubano ante los graves daños ocasionados al país por el bloqueo del Gobierno de Estados Unidos",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-08/diputados-italianos-aprueban-resolucion-de-apoyo-a-cuba",
+      "destacada": true,
+      "tema": "diputados",
+      "fecha": "Thu, 08 Oct 2026 13:10:26 -0400",
+      "id": 3
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Envía General de Ejército Raúl Castro Ruz carta de felicitación por los 45 años de la Universidad de Ciencias Médicas de las FAR",
+      "resumen": "El General de Ejército Raúl Castro Ruz envió una carta de felicitación a oficiales, profesores, cadetes, alumnos y trabajadores civiles de la Universidad de Ciencias Médicas de las Fuerzas Armadas Revolucionarias (UCIMED-FAR), con motivo del aniversario 45 de la institución",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-07/envia-general-de-ejercito-raul-castro-ruz-carta-de-felicitacion-por-los-45-anos-de-la-universidad-de-ciencias-medicas-de-las-far-07-10-2026-16-10-55",
+      "destacada": true,
+      "tema": "envía",
+      "fecha": "Wed, 07 Oct 2026 16:10:55 -0400",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Continúa la producción y comercialización de uniformes para grados priorizados",
+      "resumen": "El acceso al uniforme escolar continúa siendo una dificultad para numerosas familias cubanas, que desde hace varios cursos enfrentan problemas de disponibilidad de las prendas",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-07/continua-la-produccion-y-comercializacion-de-uniformes-para-grados-priorizados-07-10-2026-17-10-17",
+      "destacada": true,
+      "tema": "continúa",
+      "fecha": "Wed, 07 Oct 2026 17:10:17 -0400",
+      "id": 5
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "«Criterio Compartido»: espacio que se construye entre todos",
+      "resumen": "En la segunda emisión del programa radial «Criterio Compartido», el Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, respondió a las inquietudes de la población. El anfitrión de este espacio afirmó que con las preocupaciones",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-07/criterio-compartido-espacio-que-se-construye-entre-todos-07-10-2026-13-10-08",
+      "destacada": false,
+      "tema": "criterio",
+      "fecha": "Wed, 07 Oct 2026 13:10:08 -0400",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Brasil será el país foco del 47 Festival Internacional del Nuevo Cine Latinoamericano",
+      "resumen": "La cita, prevista del 3 al 13 de diciembre en La Habana, tendrá acento brasileño y abordará la inteligencia artificial en la producción cinematográfica como eje temático central",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-08/brasil-sera-el-pais-foco-del-47-festival-internacional-del-nuevo-cine-latinoamericano-08-10-2026-14-10-33",
+      "destacada": false,
+      "tema": "brasil",
+      "fecha": "Thu, 08 Oct 2026 14:10:33 -0400",
+      "id": 7
+    },
     {
       "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
@@ -11,10 +102,10 @@
       "resumen": "Una clínica dental de La Habana confirma a ‘14ymedio’ que cobra 300 dólares por una corona de zirconio, mientras un negocio de Camagüey publicita chequeos médicos por 105",
       "imagen_url": "https://static.14ymedio.com/clip/a3ec4f58-c8bc-448d-a7b4-79b1335f4789_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/cardiologia-ultrasonidos-obstetricos-odontologia-medicina_1_1131706.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "cardiología",
       "fecha": "Thu, 08 Oct 2026 21:05:55 +0000",
-      "id": 1
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -24,10 +115,10 @@
       "resumen": "Mientras el negocio del combustible acelera obras en Ayestarán, la basura, las ruinas y los sin techo se extienden por la ciudad",
       "imagen_url": "https://static.14ymedio.com/clip/1e2a2b48-43ca-41da-bda1-3c80b61a769f_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/habana-huele-gasolina-aguas-albanales_1_1131709.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "habana",
       "fecha": "Thu, 08 Oct 2026 21:32:08 +0000",
-      "id": 2
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -37,10 +128,10 @@
       "resumen": "Mientras que a principios de 2025 había 24.000 trabajadores de la Isla en el extranjero, hoy hay entre 6.000 y 9.000 menos, indica un informe del Departamento de Estado",
       "imagen_url": "https://static.14ymedio.com/clip/21588aed-b4b4-414b-97aa-49c8fe08189d_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/ee-uu-jacta-haber-reducido_1_1131713.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "jacta",
       "fecha": "Thu, 08 Oct 2026 21:53:16 +0000",
-      "id": 3
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -50,10 +141,10 @@
       "resumen": "La víctima, que sangraba abundantemente, logró salir del apartamento y llamar en casa de un vecino al que contó quién lo había agredido",
       "imagen_url": "https://static.14ymedio.com/clip/4b8ef567-bc5f-47aa-b0d1-233df4a41bcf_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/robo-movil-asesinato-cubanoamericano-manos_1_1131689.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "móvil",
       "fecha": "Thu, 08 Oct 2026 14:11:07 +0000",
-      "id": 4
+      "id": 11
     },
     {
       "categoria": "salud",
@@ -63,10 +154,10 @@
       "resumen": "La investigación, publicada por Casa Palanca, documenta los pagos ilegales que deben abonar los cubanos para recibir servicios médicos que deben ser gratuitos",
       "imagen_url": "https://static.14ymedio.com/clip/9deda68a-94bc-4e57-86d9-05f13ca04d68_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/periodistas-cubanas-ganan-premio-roche_1_1131703.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "periodistas",
       "fecha": "Thu, 08 Oct 2026 17:49:45 +0000",
-      "id": 5
+      "id": 12
     },
     {
       "categoria": "salud",
@@ -79,7 +170,7 @@
       "destacada": false,
       "tema": "vuelto",
       "fecha": "Thu, 08 Oct 2026 10:08:06 +0000",
-      "id": 6
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -92,7 +183,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Thu, 08 Oct 2026 10:36:37 +0000",
-      "id": 7
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -105,7 +196,7 @@
       "destacada": false,
       "tema": "brascuba",
       "fecha": "Wed, 07 Oct 2026 22:12:38 +0000",
-      "id": 8
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -118,7 +209,7 @@
       "destacada": false,
       "tema": "habrá",
       "fecha": "Wed, 07 Oct 2026 16:27:00 +0000",
-      "id": 9
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -131,7 +222,7 @@
       "destacada": false,
       "tema": "bloqueó",
       "fecha": "Wed, 07 Oct 2026 17:36:25 +0000",
-      "id": 10
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -144,7 +235,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Fri, 09 Oct 2026 05:08:42 +0200",
-      "id": 11
+      "id": 18
     },
     {
       "categoria": "salud",
@@ -157,7 +248,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Fri, 09 Oct 2026 03:55:10 +0200",
-      "id": 12
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -170,7 +261,7 @@
       "destacada": false,
       "tema": "cuánto",
       "fecha": "Fri, 09 Oct 2026 03:51:14 +0200",
-      "id": 13
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -183,7 +274,7 @@
       "destacada": false,
       "tema": "dengue",
       "fecha": "Fri, 09 Oct 2026 02:57:29 +0200",
-      "id": 14
+      "id": 21
     },
     {
       "categoria": "economia",
@@ -196,20 +287,20 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 09 Oct 2026 02:36:08 +0200",
-      "id": 15
+      "id": 22
     },
     {
-      "categoria": "energia",
-      "fuente": "https://www.cibercuba.com",
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Radio Ángulo, otra emisora en Cuba afectada por los apagones",
-      "resumen": "",
+      "titulo": "Díaz-Canel participa en la segunda emisión de «Criterio Compartido» por Radio Rebelde",
+      "resumen": "El Presidente de la República de Cuba, Miguel Díaz-Canel Bermúdez, dialoga este miércoles con la periodista Bárbara Betancourt en la segunda emisión del espacio radial «Criterio Compartido», que se transmite desde las 7:15 de la mañana por Radio Rebelde. La propuesta está dedicada a reflexionar sobr",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-09-u1-e199894-s27061-nid342366-radio-angulo-otra-emisora-cuba-afectada-apagones",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/diaz-canel-participa-en-la-segunda-emision-de-criterio-compartido-por-radio-rebelde/",
       "destacada": false,
-      "tema": "radio",
-      "fecha": "Fri, 09 Oct 2026 02:27:21 +0200",
-      "id": 16
+      "tema": "canel",
+      "fecha": "Wed, 07 Oct 2026 12:03:20 +0000",
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -222,7 +313,7 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Thu, 08 Oct 2026 18:04:14 +0000",
-      "id": 17
+      "id": 24
     },
     {
       "categoria": "transporte",
@@ -235,7 +326,7 @@
       "destacada": false,
       "tema": "mundial",
       "fecha": "Thu, 08 Oct 2026 16:21:58 +0000",
-      "id": 18
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -248,7 +339,7 @@
       "destacada": false,
       "tema": "internacional",
       "fecha": "Thu, 08 Oct 2026 15:19:57 +0000",
-      "id": 19
+      "id": 26
     },
     {
       "categoria": "politica",
@@ -261,20 +352,33 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Wed, 07 Oct 2026 22:30:36 +0000",
-      "id": 20
+      "id": 27
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Bruno Rodríguez protesta por el combustible que incautó EEUU: 'A Cuba le asiste la verdad'",
+      "resumen": "#SOSCuba: #BrunoRodríguez reacciona a la incautación de combustible por #EEUU después que Fernández de Cossío. Dice que las medidas de Washington no afectan solo a #Cuba, sino también al resto de la comunidad internacional.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791534854_69312.html",
+      "destacada": false,
+      "tema": "bruno",
+      "fecha": "Fri, 09 Oct 2026 10:34:14 +0200",
+      "id": 28
     },
     {
       "categoria": "salud",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Washington defiende que su 'presión diplomática' ha reducido la exportación de médicos cubanos",
+      "titulo": "Washington: la 'presión diplomática' ha reducido la exportación de médicos cubanos",
       "resumen": "#Washington atribuye a su presión diplomática la reducción del envío de profesionales #cubanos al exterior. Sin embargo, mantiene a #LaHabana en la categoría más grave de trata de personas.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1791501081_69311.html",
       "destacada": false,
       "tema": "washington",
       "fecha": "Fri, 09 Oct 2026 01:11:21 +0200",
-      "id": 21
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -287,7 +391,7 @@
       "destacada": false,
       "tema": "menos",
       "fecha": "Thu, 08 Oct 2026 23:14:58 +0200",
-      "id": 22
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -300,7 +404,7 @@
       "destacada": false,
       "tema": "llega",
       "fecha": "Thu, 08 Oct 2026 19:22:22 +0200",
-      "id": 23
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -313,7 +417,7 @@
       "destacada": false,
       "tema": "único",
       "fecha": "Thu, 08 Oct 2026 17:28:03 +0200",
-      "id": 24
+      "id": 32
     },
     {
       "categoria": "economia",
@@ -326,7 +430,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 08 Oct 2026 14:48:54 +0200",
-      "id": 25
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -339,7 +443,7 @@
       "destacada": false,
       "tema": "cubalex",
       "fecha": "Thu, 08 Oct 2026 13:40:05 +0200",
-      "id": 26
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -352,20 +456,7 @@
       "destacada": false,
       "tema": "exiliados",
       "fecha": "Thu, 08 Oct 2026 13:15:11 +0200",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba en datos: accede aquí a todas las encuestas de DIARIO DE CUBA",
-      "resumen": "¿Cómo viven, piensan y proyectan el&nbsp;futuro los cubanos? #DiarioDeCuba y #Cubadata diseccionan la sociedad #cubana en un momento de transformaciones y deterioro.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/foro-ddc/1791457282_69285.html",
-      "destacada": false,
-      "tema": "datos",
-      "fecha": "Thu, 08 Oct 2026 13:01:22 +0200",
-      "id": 28
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -378,7 +469,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Fri, 09 Oct 2026 00:00:30 -0400",
-      "id": 29
+      "id": 36
     },
     {
       "categoria": "salud",
@@ -391,7 +482,7 @@
       "destacada": false,
       "tema": "investigación",
       "fecha": "Thu, 08 Oct 2026 20:41:39 -0400",
-      "id": 30
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -404,7 +495,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Thu, 08 Oct 2026 20:00:00 -0400",
-      "id": 31
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -417,7 +508,7 @@
       "destacada": false,
       "tema": "evalúa",
       "fecha": "Thu, 08 Oct 2026 17:58:25 -0400",
-      "id": 32
+      "id": 39
     },
     {
       "categoria": "energia",
@@ -430,7 +521,7 @@
       "destacada": false,
       "tema": "burlaran",
       "fecha": "Thu, 08 Oct 2026 17:44:54 -0400",
-      "id": 33
+      "id": 40
     },
     {
       "categoria": "politica",
@@ -443,20 +534,7 @@
       "destacada": false,
       "tema": "alerta",
       "fecha": "Thu, 08 Oct 2026 17:05:36 -0400",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 5:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480515.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Thu, 08 Oct 2026 17:00:30 -0400",
-      "id": 35
+      "id": 41
     },
     {
       "categoria": "economia",
@@ -469,7 +547,7 @@
       "destacada": false,
       "tema": "datos",
       "fecha": "Fri, 09 Oct 2026 05:46:10 +0000",
-      "id": 36
+      "id": 42
     },
     {
       "categoria": "politica",
@@ -482,7 +560,7 @@
       "destacada": false,
       "tema": "canciller",
       "fecha": "Fri, 09 Oct 2026 04:48:55 +0000",
-      "id": 37
+      "id": 43
     },
     {
       "categoria": "economia",
@@ -495,7 +573,7 @@
       "destacada": false,
       "tema": "concurso",
       "fecha": "Fri, 09 Oct 2026 02:30:12 +0000",
-      "id": 38
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -508,7 +586,33 @@
       "destacada": false,
       "tema": "chapeando",
       "fecha": "Fri, 09 Oct 2026 01:22:10 +0000",
-      "id": 39
+      "id": 45
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Badalona rinde homenaje al Che en el 59 aniversario de su asesinato (+Fotos)",
+      "resumen": "Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125392-badalona-rinde-homenaje-al-che-en-el-59-aniversario-de-su-asesinato-fotos.jpg?t=1791536228",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261009/125392/125392-badalona-rinde-homenaje-al-che-en-el-59-aniversario-de-su-asesinato-fotos",
+      "destacada": false,
+      "tema": "badalona",
+      "fecha": "Fri, 09 Oct 26 10:52:00 +0200",
+      "id": 46
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Otxarkoaga iniciará el Lenin Eguna con la presentación del libro &quot;Voces con Fidel&quot;: Bilbao, 16 de octubre",
+      "resumen": "Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125391-otxarkoaga-iniciara-el-lenin-eguna-con-la-presentacion-del-libro-voces-con-fidel-bilbao-16-de-octubre.jpg?t=1791528010",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261009/125391/125391-otxarkoaga-iniciara-el-lenin-eguna-con-la-presentacion-del-libro-voces-con-fidel-bilbao-16-de-octubre",
+      "destacada": false,
+      "tema": "otxarkoaga",
+      "fecha": "Fri, 09 Oct 26 08:36:00 +0200",
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -521,7 +625,7 @@
       "destacada": false,
       "tema": "octubre",
       "fecha": "Fri, 09 Oct 26 08:22:00 +0200",
-      "id": 40
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -534,7 +638,7 @@
       "destacada": false,
       "tema": "mother",
       "fecha": "Fri, 09 Oct 26 08:17:00 +0200",
-      "id": 41
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -547,7 +651,7 @@
       "destacada": false,
       "tema": "entrevista",
       "fecha": "Fri, 09 Oct 26 08:16:00 +0200",
-      "id": 42
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -560,7 +664,7 @@
       "destacada": false,
       "tema": "victoria",
       "fecha": "Fri, 09 Oct 26 08:15:00 +0200",
-      "id": 43
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -573,7 +677,7 @@
       "destacada": false,
       "tema": "traición",
       "fecha": "Fri, 09 Oct 26 08:13:00 +0200",
-      "id": 44
+      "id": 52
     },
     {
       "categoria": "politica",
@@ -586,33 +690,20 @@
       "destacada": false,
       "tema": "república",
       "fecha": "Fri, 09 Oct 26 08:03:00 +0200",
-      "id": 45
+      "id": 53
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
+      "categoria": "politica",
+      "fuente": "https://www.guerrillero.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "El Che permanece entre la juventud: vivo, como no lo quería el enemigo",
-      "resumen": "Alina Perera Robbio Presidencia Cuba Marcado por reflexiones y sentimientos revolucionarios, tuvo lu...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125380-el-che-permanece-entre-la-juventud-vivo-como-no-lo-queria-el-enemigo.jpg?t=1791525294",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261009/125380/125380-el-che-permanece-entre-la-juventud-vivo-como-no-lo-queria-el-enemigo",
+      "titulo": "Chequea Valdés Mesa producción de alimentos en Pinar del Río",
+      "resumen": "Durante la visita a Epicol, Salvador Valdés Mesa, estuvo en el área donde se realizan inversiones para retomar la exportación de langostas vivas Durante dos días el vicepresidente de la República de Cuba, Salvador Valdés Mesa, chequeó la producción de alimentos en la provincia; en la Empresa Pesquer",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/chequea-valdes-mesa-produccion-de-alimentos-en-pinar-del-rio/",
       "destacada": false,
-      "tema": "permanece",
-      "fecha": "Fri, 09 Oct 26 07:52:00 +0200",
-      "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Persisten vacíos en la atención integral a personas intersexuales",
-      "resumen": "Durante la presentación del libro I Consenso Cubano sobre Intersexualidades. Desarrollo sexual difer...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125288-persisten-vacios-en-la-atencion-integral-a-personas-intersexuales.jpg?t=1791019710",
-      "enlace_original": "https://www.cubainformacion.tv/genero/20261009/125288/125288-persisten-vacios-en-la-atencion-integral-a-personas-intersexuales",
-      "destacada": false,
-      "tema": "persisten",
-      "fecha": "Fri, 09 Oct 26 07:00:00 +0200",
-      "id": 47
+      "tema": "chequea",
+      "fecha": "Wed, 07 Oct 2026 18:14:00 +0000",
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -625,7 +716,7 @@
       "destacada": false,
       "tema": "camino",
       "fecha": "Fri, 09 Oct 2026 02:04:12 +0000",
-      "id": 48
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -638,7 +729,7 @@
       "destacada": false,
       "tema": "restableció",
       "fecha": "Thu, 08 Oct 2026 20:26:38 +0000",
-      "id": 49
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -651,7 +742,59 @@
       "destacada": false,
       "tema": "isaías",
       "fecha": "Thu, 08 Oct 2026 20:18:02 +0000",
-      "id": 50
+      "id": 57
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Matanzas a las puertas de jornadas por la cultura",
+      "resumen": "Matanzas acogerá del 10 al 20 de octubre la 51 Semana de la Cultura Matancera y la Jornada de la Cultura Cubana, una programación integrada por 245...",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/08/matanzas-jornadas-por-la-cultura/",
+      "destacada": false,
+      "tema": "matanzas",
+      "fecha": "Thu, 08 Oct 2026 15:13:42 +0000",
+      "id": 58
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "ETECSA restablece los servicios afectados el pasado 5 de octubre",
+      "resumen": "La Empresa de Telecomunicaciones de Cuba (ETECSA) informó este miércoles que quedaron restablecidos los servicios afectados desde la mañana del lunes 5 de octubre...",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/08/etecsa-restablece-servicios-afectados/",
+      "destacada": false,
+      "tema": "etecsa",
+      "fecha": "Thu, 08 Oct 2026 12:20:00 +0000",
+      "id": 59
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Chequea vicepresidente Salvador Valdés Mesa estrategias productivas en Matanzas",
+      "resumen": "Los planes de alimentación en lo que resta del año y las estrategias para elevar rendimientos fueron debatidas este jueves en Matanzas en un encuentro presidido por el vicepresidente de la República de Cuba, Salvador Valdés Mesa.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/08/chequea-valdes-mesa-estrategias-productivas-en-matanzas/",
+      "destacada": false,
+      "tema": "chequea",
+      "fecha": "Thu, 08 Oct 2026 10:32:00 +0000",
+      "id": 60
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Premio Aldabón 2026 recae en joven escritora matancera",
+      "resumen": "La jornada por el Premio Aldabón 2026, desarrollada los días 4 y 5 de octubre, reafirmó a Matanzas como uno de los epicentros creativos más prolíficos de la literatura cubana actual.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/07/premio-aldabon-2026-recae-en-joven-escritora-matancera/",
+      "destacada": false,
+      "tema": "premio",
+      "fecha": "Wed, 07 Oct 2026 14:29:34 +0000",
+      "id": 61
     }
   ]
 }
