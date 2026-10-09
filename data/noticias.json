@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-09",
-  "hora": "20:04",
-  "total": 48,
+  "hora": "21:06",
+  "total": 46,
   "noticias": [
     {
       "categoria": "politica",
@@ -83,19 +83,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Dominicana: Frente Amplio exige fin del bloqueo de EEUU a Cuba",
-      "resumen": "Santo Domingo, 9 oct (Prensa Latina) La dirigente política dominicana María Teresa Cabrera reafirmó hoy su solidaridad con Cuba y exigió el fin del bloqueo de Estados Unidos, días antes de que la Asamblea General de la ONU vote una resolución que demanda su levantamiento. The post Dominicana: Frente",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/09/dominicana-frente-amplio-exige-fin-del-bloqueo-de-eeuu-a-cuba/",
-      "destacada": false,
-      "tema": "dominicana",
-      "fecha": "Fri, 09 Oct 2026 19:44:03 +0000",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
       "titulo": "Menos cola y servicio más ágil en el nuevo centro de visados para España en La Habana",
@@ -105,7 +92,7 @@
       "destacada": false,
       "tema": "menos",
       "fecha": "Fri, 09 Oct 2026 19:36:25 +0000",
-      "id": 8
+      "id": 7
     },
     {
       "categoria": "salud",
@@ -118,7 +105,7 @@
       "destacada": false,
       "tema": "servicios",
       "fecha": "Fri, 09 Oct 2026 15:04:50 +0000",
-      "id": 9
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -131,7 +118,7 @@
       "destacada": false,
       "tema": "actor",
       "fecha": "Fri, 09 Oct 2026 14:51:43 +0000",
-      "id": 10
+      "id": 9
     },
     {
       "categoria": "economia",
@@ -144,7 +131,7 @@
       "destacada": false,
       "tema": "cardiología",
       "fecha": "Thu, 08 Oct 2026 21:05:55 +0000",
-      "id": 11
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -157,7 +144,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Thu, 08 Oct 2026 21:32:08 +0000",
-      "id": 12
+      "id": 11
     },
     {
       "categoria": "salud",
@@ -170,7 +157,7 @@
       "destacada": false,
       "tema": "vuelto",
       "fecha": "Thu, 08 Oct 2026 10:08:06 +0000",
-      "id": 13
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -183,7 +170,7 @@
       "destacada": false,
       "tema": "cubana",
       "fecha": "Fri, 09 Oct 2026 20:57:24 +0200",
-      "id": 14
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -196,7 +183,7 @@
       "destacada": false,
       "tema": "después",
       "fecha": "Fri, 09 Oct 2026 20:54:59 +0200",
-      "id": 15
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -209,7 +196,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Fri, 09 Oct 2026 20:43:46 +0200",
-      "id": 16
+      "id": 15
     },
     {
       "categoria": "economia",
@@ -222,7 +209,7 @@
       "destacada": false,
       "tema": "rostros",
       "fecha": "Fri, 09 Oct 2026 19:20:03 +0000",
-      "id": 17
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -235,7 +222,7 @@
       "destacada": false,
       "tema": "coast",
       "fecha": "Fri, 09 Oct 2026 13:58:56 +0000",
-      "id": 18
+      "id": 17
     },
     {
       "categoria": "salud",
@@ -248,6 +235,19 @@
       "destacada": false,
       "tema": "macuba",
       "fecha": "Fri, 09 Oct 2026 13:56:14 +0000",
+      "id": 18
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Las exportaciones agrícolas y alimentarias de EEUU a Cuba aumentan un 54,6% en un mes",
+      "resumen": "Las #exportaciones agrícolas de #EEUU a #Cuba aumentaron un 54,6% en agosto, hasta los 42,9 millones de dólares. El #pollo congelado encabezó las compras, en medio de la crisis de abastecimiento en la Isla.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1791578118_69328.html",
+      "destacada": false,
+      "tema": "exportaciones",
+      "fecha": "Fri, 09 Oct 2026 22:35:18 +0200",
       "id": 19
     },
     {
@@ -356,28 +356,28 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Este es el color del agua 'potable' que reciben residentes en Santiago de Cuba",
-      "resumen": "",
+      "titulo": "British American Tobacco abandona Brascuba tras casi 30 años de operaciones en Cuba",
+      "resumen": "British American Tobacco vendió el 50 % de Brascuba y salió del negocio tras casi tres décadas de operaciones en Cuba.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791541366_69314.html",
+      "enlace_original": "https://www.martinoticias.com/a/british-american-tobacco-abandona-brascuba-tras-casi-30-a%c3%b1os-de-operaciones-en-cuba/481662.html",
       "destacada": false,
-      "tema": "color",
-      "fecha": "Fri, 09 Oct 2026 12:22:46 +0200",
+      "tema": "british",
+      "fecha": "Fri, 09 Oct 2026 16:27:29 -0400",
       "id": 28
     },
     {
-      "categoria": "energia",
+      "categoria": "transporte",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Las Noticias Como Son",
-      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
+      "titulo": "Las noticias como son",
+      "resumen": "Amado Gil y José Luis Ramos, con Hildebrando Chaviano Y José Luis Tan Estrada abordan el nuevo récord de importaciones de combustible a Cuba desde EEUU. Proliferan consultas, tratamientos y pruebas médicas en manos de privadas, aunque el régimen lo prohíbe. Científico cubano critica al régimen.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480618.html",
+      "enlace_original": "https://www.martinoticias.com/a/las-noticias-como-son/481667.html",
       "destacada": false,
       "tema": "noticias",
-      "fecha": "Fri, 09 Oct 2026 16:00:30 -0400",
+      "fecha": "Fri, 09 Oct 2026 16:15:05 -0400",
       "id": 29
     },
     {
@@ -394,19 +394,6 @@
       "id": 30
     },
     {
-      "categoria": "transporte",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Sabor y tradición: Pan chino, pan de calabaza, pan de plátano",
-      "resumen": "En esta nueva entrega de “Sabor y tradición”, Silvia Mayra nos invita a explorar alternativas para la cocina cubana con tres recetas: pan chino casero, pan de calabaza y pan de plátano. Un recorrido por las tradiciones culinarias y el aprovechamiento de los ingredientes disponibles para llevar nueva",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/09/sabor-y-tradicion-pan-chino-pan-de-calabaza-pan-de-platano/",
-      "destacada": false,
-      "tema": "sabor",
-      "fecha": "Fri, 09 Oct 2026 15:45:17 +0000",
-      "id": 31
-    },
-    {
       "categoria": "salud",
       "fuente": "https://periodismodebarrio.org",
       "fuente_tipo": "alternativa",
@@ -417,7 +404,7 @@
       "destacada": false,
       "tema": "salud",
       "fecha": "Fri, 09 Oct 2026 15:42:11 +0000",
-      "id": 32
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -430,7 +417,7 @@
       "destacada": false,
       "tema": "badalona",
       "fecha": "Fri, 09 Oct 26 10:52:00 +0200",
-      "id": 33
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -443,7 +430,7 @@
       "destacada": false,
       "tema": "otxarkoaga",
       "fecha": "Fri, 09 Oct 26 08:36:00 +0200",
-      "id": 34
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -456,7 +443,7 @@
       "destacada": false,
       "tema": "octubre",
       "fecha": "Fri, 09 Oct 26 08:22:00 +0200",
-      "id": 35
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -469,7 +456,7 @@
       "destacada": false,
       "tema": "mother",
       "fecha": "Fri, 09 Oct 26 08:17:00 +0200",
-      "id": 36
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -482,7 +469,7 @@
       "destacada": false,
       "tema": "entrevista",
       "fecha": "Fri, 09 Oct 26 08:16:00 +0200",
-      "id": 37
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -495,7 +482,7 @@
       "destacada": false,
       "tema": "victoria",
       "fecha": "Fri, 09 Oct 26 08:15:00 +0200",
-      "id": 38
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -508,7 +495,7 @@
       "destacada": false,
       "tema": "traición",
       "fecha": "Fri, 09 Oct 26 08:13:00 +0200",
-      "id": 39
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -521,7 +508,7 @@
       "destacada": false,
       "tema": "poner",
       "fecha": "Fri, 09 Oct 2026 12:04:00 +0000",
-      "id": 40
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -534,7 +521,7 @@
       "destacada": false,
       "tema": "generaciones",
       "fecha": "Fri, 09 Oct 2026 20:07:14 +0000",
-      "id": 41
+      "id": 40
     },
     {
       "categoria": "transporte",
@@ -547,7 +534,7 @@
       "destacada": false,
       "tema": "actualizan",
       "fecha": "Fri, 09 Oct 2026 19:53:16 +0000",
-      "id": 42
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -560,20 +547,7 @@
       "destacada": false,
       "tema": "operación",
       "fecha": "Fri, 09 Oct 2026 18:20:40 +0000",
-      "id": 43
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Che: un faro que ilumina las luchas por la justicia",
-      "resumen": "El Che vive en cada gesto de rebeldía, en cada puño alzado, en cada corazón que se niega a aceptar la injusticia como destino. La entrada Che: un faro que ilumina las luchas por la justicia se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/che-un-faro-que-ilumina-las-luchas-por-la-justicia/",
-      "destacada": false,
-      "tema": "ilumina",
-      "fecha": "Fri, 09 Oct 2026 18:14:40 +0000",
-      "id": 44
+      "id": 42
     },
     {
       "categoria": "transporte",
@@ -586,7 +560,7 @@
       "destacada": false,
       "tema": "extiende",
       "fecha": "Fri, 09 Oct 2026 13:50:41 +0000",
-      "id": 45
+      "id": 43
     },
     {
       "categoria": "transporte",
@@ -599,7 +573,7 @@
       "destacada": false,
       "tema": "ferrer",
       "fecha": "Fri, 09 Oct 2026 12:34:00 +0000",
-      "id": 46
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -612,7 +586,7 @@
       "destacada": false,
       "tema": "matanzas",
       "fecha": "Thu, 08 Oct 2026 15:13:42 +0000",
-      "id": 47
+      "id": 45
     },
     {
       "categoria": "energia",
@@ -625,7 +599,7 @@
       "destacada": false,
       "tema": "etecsa",
       "fecha": "Thu, 08 Oct 2026 12:20:00 +0000",
-      "id": 48
+      "id": 46
     }
   ]
 }
