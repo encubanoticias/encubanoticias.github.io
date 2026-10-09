@@ -1,21 +1,8 @@
 {
   "fecha": "2026-10-09",
-  "hora": "12:08",
-  "total": 51,
+  "hora": "13:10",
+  "total": 49,
   "noticias": [
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Washington no tiene autoridad para decidir quién puede comerciar con Cuba",
-      "resumen": "El Canciller de la Mayor de las Antillas rechazó las medidas coercitivas unilaterales, de carácter extraterritorial, que la Casa Blanca impone a la Isla",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-08/washington-no-tiene-autoridad-alguna-para-decidir-quien-puede-comerciar-con-cuba-08-10-2026-10-10-21",
-      "destacada": true,
-      "tema": "washington",
-      "fecha": "Thu, 08 Oct 2026 10:10:21 -0400",
-      "id": 1
-    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
@@ -27,20 +14,7 @@
       "destacada": true,
       "tema": "miedo",
       "fecha": "Thu, 08 Oct 2026 11:10:07 -0400",
-      "id": 2
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Diputados italianos aprueban resolución de apoyo a Cuba",
-      "resumen": "La Comisión de Asuntos Exteriores de la Cámara de Diputados de Italia aprobó una resolución que insta a su Gobierno a apoyar al pueblo cubano ante los graves daños ocasionados al país por el bloqueo del Gobierno de Estados Unidos",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-08/diputados-italianos-aprueban-resolucion-de-apoyo-a-cuba",
-      "destacada": true,
-      "tema": "diputados",
-      "fecha": "Thu, 08 Oct 2026 13:10:26 -0400",
-      "id": 3
+      "id": 1
     },
     {
       "categoria": "transporte",
@@ -53,7 +27,20 @@
       "destacada": true,
       "tema": "envía",
       "fecha": "Wed, 07 Oct 2026 16:10:55 -0400",
-      "id": 4
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Washington no tiene autoridad para decidir quién puede comerciar con Cuba",
+      "resumen": "El Canciller de la Mayor de las Antillas rechazó las medidas coercitivas unilaterales, de carácter extraterritorial, que la Casa Blanca impone a la Isla",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-08/washington-no-tiene-autoridad-alguna-para-decidir-quien-puede-comerciar-con-cuba-08-10-2026-10-10-21",
+      "destacada": true,
+      "tema": "washington",
+      "fecha": "Thu, 08 Oct 2026 10:10:21 -0400",
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -66,33 +53,20 @@
       "destacada": true,
       "tema": "continúa",
       "fecha": "Wed, 07 Oct 2026 17:10:17 -0400",
-      "id": 5
+      "id": 4
     },
     {
       "categoria": "politica",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "«Criterio Compartido»: espacio que se construye entre todos",
-      "resumen": "En la segunda emisión del programa radial «Criterio Compartido», el Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, respondió a las inquietudes de la población. El anfitrión de este espacio afirmó que con las preocupaciones",
+      "titulo": "Diputados italianos aprueban resolución de apoyo a Cuba",
+      "resumen": "La Comisión de Asuntos Exteriores de la Cámara de Diputados de Italia aprobó una resolución que insta a su Gobierno a apoyar al pueblo cubano ante los graves daños ocasionados al país por el bloqueo del Gobierno de Estados Unidos",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-07/criterio-compartido-espacio-que-se-construye-entre-todos-07-10-2026-13-10-08",
-      "destacada": false,
-      "tema": "criterio",
-      "fecha": "Wed, 07 Oct 2026 13:10:08 -0400",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Brasil será el país foco del 47 Festival Internacional del Nuevo Cine Latinoamericano",
-      "resumen": "La cita, prevista del 3 al 13 de diciembre en La Habana, tendrá acento brasileño y abordará la inteligencia artificial en la producción cinematográfica como eje temático central",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-08/brasil-sera-el-pais-foco-del-47-festival-internacional-del-nuevo-cine-latinoamericano-08-10-2026-14-10-33",
-      "destacada": false,
-      "tema": "brasil",
-      "fecha": "Thu, 08 Oct 2026 14:10:33 -0400",
-      "id": 7
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-08/diputados-italianos-aprueban-resolucion-de-apoyo-a-cuba",
+      "destacada": true,
+      "tema": "diputados",
+      "fecha": "Thu, 08 Oct 2026 13:10:26 -0400",
+      "id": 5
     },
     {
       "categoria": "economia",
@@ -105,7 +79,7 @@
       "destacada": false,
       "tema": "cardiología",
       "fecha": "Thu, 08 Oct 2026 21:05:55 +0000",
-      "id": 8
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -118,7 +92,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Thu, 08 Oct 2026 21:32:08 +0000",
-      "id": 9
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -131,7 +105,7 @@
       "destacada": false,
       "tema": "jacta",
       "fecha": "Thu, 08 Oct 2026 21:53:16 +0000",
-      "id": 10
+      "id": 8
     },
     {
       "categoria": "salud",
@@ -144,7 +118,7 @@
       "destacada": false,
       "tema": "vuelto",
       "fecha": "Thu, 08 Oct 2026 10:08:06 +0000",
-      "id": 11
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -157,7 +131,7 @@
       "destacada": false,
       "tema": "móvil",
       "fecha": "Thu, 08 Oct 2026 14:11:07 +0000",
-      "id": 12
+      "id": 10
     },
     {
       "categoria": "salud",
@@ -170,7 +144,7 @@
       "destacada": false,
       "tema": "periodistas",
       "fecha": "Thu, 08 Oct 2026 17:49:45 +0000",
-      "id": 13
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -183,7 +157,7 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Thu, 08 Oct 2026 18:04:14 +0000",
-      "id": 14
+      "id": 12
     },
     {
       "categoria": "transporte",
@@ -196,7 +170,7 @@
       "destacada": false,
       "tema": "mundial",
       "fecha": "Thu, 08 Oct 2026 16:21:58 +0000",
-      "id": 15
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -209,20 +183,7 @@
       "destacada": false,
       "tema": "internacional",
       "fecha": "Thu, 08 Oct 2026 15:19:57 +0000",
-      "id": 16
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Organizaciones sindicales del mundo ratifican su apoyo a Cuba",
-      "resumen": "A través de videoconferencias con las diferentes regiones geográficas, el miembro del Comité Central del Partido y secretario general de la Central de Trabajadores de Cuba (CTC), Osnay Miguel Colina Rodríguez, convocó a sus representantes a que impulsen el voto favorable de los gobiernos de sus país",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261007/organizaciones-sindicales-del-mundo-ratifican-su-apoyo-a-cuba/",
-      "destacada": false,
-      "tema": "organizaciones",
-      "fecha": "Wed, 07 Oct 2026 22:30:36 +0000",
-      "id": 17
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -235,20 +196,20 @@
       "destacada": false,
       "tema": "quiénes",
       "fecha": "Fri, 09 Oct 2026 12:59:36 +0200",
-      "id": 18
+      "id": 15
     },
     {
       "categoria": "transporte",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Mike Hammer se reúne con el líder masón y escritor cubano Ángel Santiesteban",
+      "titulo": "Hammer se reúne con Ángel Santiesteban: los masones cubanos podrían distribuir ayuda enviada por EEUU",
       "resumen": "#SOSCuba: #MikeHammer y Ángel Santiesteban hablan sobre la posibilidad de que los masones cubanos participen en la entrega de ayuda humanitaria que envía Washington a #Cuba.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1791542820_69317.html",
       "destacada": false,
       "tema": "hammer",
       "fecha": "Fri, 09 Oct 2026 12:47:00 +0200",
-      "id": 19
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -261,7 +222,7 @@
       "destacada": false,
       "tema": "color",
       "fecha": "Fri, 09 Oct 2026 12:22:46 +0200",
-      "id": 20
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -274,7 +235,7 @@
       "destacada": false,
       "tema": "asiste",
       "fecha": "Fri, 09 Oct 2026 10:34:14 +0200",
-      "id": 21
+      "id": 18
     },
     {
       "categoria": "salud",
@@ -287,7 +248,7 @@
       "destacada": false,
       "tema": "washington",
       "fecha": "Fri, 09 Oct 2026 01:11:21 +0200",
-      "id": 22
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -300,7 +261,7 @@
       "destacada": false,
       "tema": "menos",
       "fecha": "Thu, 08 Oct 2026 23:14:58 +0200",
-      "id": 23
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -313,7 +274,7 @@
       "destacada": false,
       "tema": "llega",
       "fecha": "Thu, 08 Oct 2026 19:22:22 +0200",
-      "id": 24
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -326,7 +287,20 @@
       "destacada": false,
       "tema": "único",
       "fecha": "Thu, 08 Oct 2026 17:28:03 +0200",
-      "id": 25
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Prestigiosa organización pide apoyo internacional para pastor encarcelado en Camagüey",
+      "resumen": "Christian Solidarity Worldwide pidió este viernes a la comunidad internacional que exija la liberación inmediata del pastor cubano Maikel Pupo Velázquez, detenido en Camagüey tras ser acusado de “desobediencia” por convocar una oración pública por Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/prestigiosa-organizaci%c3%b3n-pide-apoyo-internacional-para-pastor-encarcelado-en-camag%c3%bcey/481629.html",
+      "destacada": false,
+      "tema": "prestigiosa",
+      "fecha": "Fri, 09 Oct 2026 08:40:28 -0400",
+      "id": 23
     },
     {
       "categoria": "economia",
@@ -339,7 +313,7 @@
       "destacada": false,
       "tema": "martinoticias",
       "fecha": "Fri, 09 Oct 2026 08:00:00 -0400",
-      "id": 26
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -352,7 +326,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Fri, 09 Oct 2026 07:00:00 -0400",
-      "id": 27
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -365,7 +339,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Fri, 09 Oct 2026 00:00:30 -0400",
-      "id": 28
+      "id": 26
     },
     {
       "categoria": "salud",
@@ -378,7 +352,7 @@
       "destacada": false,
       "tema": "investigación",
       "fecha": "Thu, 08 Oct 2026 20:41:39 -0400",
-      "id": 29
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -391,20 +365,20 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Thu, 08 Oct 2026 20:00:00 -0400",
-      "id": 30
+      "id": 28
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "EEUU evalúa sumar a los masones a la entrega de asistencia en Cuba",
-      "resumen": "Mike Hammer, jefe de misión de la Embajada de Estados Unidos en Cuba, se reunió con el escritor y líder masónico Ángel Santiesteban Prats para explorar una posible participación de la masonería en la distribución de ayuda humanitaria estadounidense.",
+      "categoria": "transporte",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Sabor y tradición: Pan chino, pan de calabaza, pan de plátano",
+      "resumen": "En esta nueva entrega de “Sabor y tradición”, Silvia Mayra nos invita a explorar alternativas para la cocina cubana con tres recetas: pan chino casero, pan de calabaza y pan de plátano. Un recorrido por las tradiciones culinarias y el aprovechamiento de los ingredientes disponibles para llevar nueva",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/eeuu-eval%c3%baa-sumar-a-los-masones-a-la-entrega-de-asistencia-en-cuba/481576.html",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/09/sabor-y-tradicion-pan-chino-pan-de-calabaza-pan-de-platano/",
       "destacada": false,
-      "tema": "evalúa",
-      "fecha": "Thu, 08 Oct 2026 17:58:25 -0400",
-      "id": 31
+      "tema": "sabor",
+      "fecha": "Fri, 09 Oct 2026 12:42:17 +0000",
+      "id": 29
     },
     {
       "categoria": "economia",
@@ -417,7 +391,7 @@
       "destacada": false,
       "tema": "datos",
       "fecha": "Fri, 09 Oct 2026 05:46:10 +0000",
-      "id": 32
+      "id": 30
     },
     {
       "categoria": "politica",
@@ -430,7 +404,7 @@
       "destacada": false,
       "tema": "canciller",
       "fecha": "Fri, 09 Oct 2026 04:48:55 +0000",
-      "id": 33
+      "id": 31
     },
     {
       "categoria": "economia",
@@ -443,7 +417,7 @@
       "destacada": false,
       "tema": "concurso",
       "fecha": "Fri, 09 Oct 2026 02:30:12 +0000",
-      "id": 34
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -456,7 +430,7 @@
       "destacada": false,
       "tema": "chapeando",
       "fecha": "Fri, 09 Oct 2026 01:22:10 +0000",
-      "id": 35
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -469,7 +443,7 @@
       "destacada": false,
       "tema": "badalona",
       "fecha": "Fri, 09 Oct 26 10:52:00 +0200",
-      "id": 36
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -482,7 +456,7 @@
       "destacada": false,
       "tema": "otxarkoaga",
       "fecha": "Fri, 09 Oct 26 08:36:00 +0200",
-      "id": 37
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -495,7 +469,7 @@
       "destacada": false,
       "tema": "octubre",
       "fecha": "Fri, 09 Oct 26 08:22:00 +0200",
-      "id": 38
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -508,7 +482,7 @@
       "destacada": false,
       "tema": "mother",
       "fecha": "Fri, 09 Oct 26 08:17:00 +0200",
-      "id": 39
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -521,7 +495,7 @@
       "destacada": false,
       "tema": "entrevista",
       "fecha": "Fri, 09 Oct 26 08:16:00 +0200",
-      "id": 40
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -534,7 +508,7 @@
       "destacada": false,
       "tema": "victoria",
       "fecha": "Fri, 09 Oct 26 08:15:00 +0200",
-      "id": 41
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -547,7 +521,7 @@
       "destacada": false,
       "tema": "traición",
       "fecha": "Fri, 09 Oct 26 08:13:00 +0200",
-      "id": 42
+      "id": 40
     },
     {
       "categoria": "politica",
@@ -560,7 +534,7 @@
       "destacada": false,
       "tema": "república",
       "fecha": "Fri, 09 Oct 26 08:03:00 +0200",
-      "id": 43
+      "id": 41
     },
     {
       "categoria": "politica",
@@ -573,7 +547,7 @@
       "destacada": false,
       "tema": "chequea",
       "fecha": "Wed, 07 Oct 2026 18:14:00 +0000",
-      "id": 44
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -586,7 +560,7 @@
       "destacada": false,
       "tema": "camino",
       "fecha": "Fri, 09 Oct 2026 02:04:12 +0000",
-      "id": 45
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -599,7 +573,7 @@
       "destacada": false,
       "tema": "restableció",
       "fecha": "Thu, 08 Oct 2026 20:26:38 +0000",
-      "id": 46
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -612,7 +586,7 @@
       "destacada": false,
       "tema": "isaías",
       "fecha": "Thu, 08 Oct 2026 20:18:02 +0000",
-      "id": 47
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -625,7 +599,7 @@
       "destacada": false,
       "tema": "matanzas",
       "fecha": "Thu, 08 Oct 2026 15:13:42 +0000",
-      "id": 48
+      "id": 46
     },
     {
       "categoria": "energia",
@@ -638,7 +612,7 @@
       "destacada": false,
       "tema": "etecsa",
       "fecha": "Thu, 08 Oct 2026 12:20:00 +0000",
-      "id": 49
+      "id": 47
     },
     {
       "categoria": "politica",
@@ -651,7 +625,7 @@
       "destacada": false,
       "tema": "chequea",
       "fecha": "Thu, 08 Oct 2026 10:32:00 +0000",
-      "id": 50
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -664,7 +638,7 @@
       "destacada": false,
       "tema": "premio",
       "fecha": "Wed, 07 Oct 2026 14:29:34 +0000",
-      "id": 51
+      "id": 49
     }
   ]
 }
