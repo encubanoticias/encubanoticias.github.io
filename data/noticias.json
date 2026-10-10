@@ -1,8 +1,60 @@
 {
   "fecha": "2026-10-10",
-  "hora": "18:04",
-  "total": 60,
+  "hora": "19:06",
+  "total": 67,
   "noticias": [
+    {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La defensa también pasa por cómo pensamos el presente y el futuro del país desde la comunidad (+ Video)",
+      "resumen": "El Presidente del Consejo de Defensa Nacional, Miguel Díaz-Canel Bermúdez, participó este viernes, Día Nacional de la Defensa, en un ejercicio del Consejo de Defensa de Zona Colón Nuevo Vedado, en el municipio capitalino de Plaza de la Revolución",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-09/la-defensa-tambien-pasa-por-como-pensamos-el-presente-y-el-futuro-del-pais-desde-la-comunidad-09-10-2026-18-10-47",
+      "destacada": true,
+      "tema": "defensa",
+      "fecha": "Fri, 09 Oct 2026 18:10:47 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Pinar remontó y ganó en la fecha cuando se acabaron los invictos",
+      "resumen": "También Sancti Spíritus igualó a Santiago de Cuba en la punta de la región oriental",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-10/pinar-remonto-y-gano-en-la-fecha-cuando-se-acabaron-los-invictos-10-10-2026-14-10-12",
+      "destacada": true,
+      "tema": "pinar",
+      "fecha": "Sat, 10 Oct 2026 14:10:12 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El boxeo femenino cubano escribirá su estreno mundial juvenil",
+      "resumen": "También la delegación buscará recuperar su senda dorada en el sexo masculino",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-10/el-boxeo-femenino-cubano-escribira-su-estreno-mundial-juvenil-10-10-2026-14-10-53",
+      "destacada": true,
+      "tema": "boxeo",
+      "fecha": "Sat, 10 Oct 2026 14:10:53 -0400",
+      "id": 3
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Escritora cubana María Elena Llana, propuesta al Premio Cervantes 2026",
+      "resumen": "Con esta nominación, la autora de Casas del Vedado se une a Fina García Marruz y Dulce María Loynaz —quien lo obtuvo en 1992— como las únicas cubanas en ser postuladas a este galardón",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-10/escritora-cubana-maria-elena-llana-propuesta-al-premio-cervantes-2026-10-10-2026-15-10-25",
+      "destacada": true,
+      "tema": "escritora",
+      "fecha": "Sat, 10 Oct 2026 15:10:25 -0400",
+      "id": 4
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
@@ -14,7 +66,7 @@
       "destacada": true,
       "tema": "nobel",
       "fecha": "Sat, 10 Oct 2026 09:10:41 -0400",
-      "id": 1
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -24,23 +76,10 @@
       "resumen": "Otorgan Premio de la Paz Seán MacBride 2026 a la Freedom Flotilla Coalition, la Global Sumud Flotilla y el Convoy Nuestra América",
       "imagen_url": "",
       "enlace_original": "http://www.granma.cu/mundo/2026-10-09/la-solidaridad-puede-convertirse-en-una-fuerza-mas-poderosa-que-cualquier-bloqueo-09-10-2026-13-10-26",
-      "destacada": true,
+      "destacada": false,
       "tema": "solidaridad",
       "fecha": "Fri, 09 Oct 2026 13:10:26 -0400",
-      "id": 2
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Impulsan sistemas alimentarios sostenibles en el occidente de Cuba",
-      "resumen": "El proyecto fortalece sus capacidades operativas con el propósito de ampliar el monitoreo en los territorios y el acompañamiento técnico a productores, cooperativas, gobiernos locales, instituciones científicas y otros actores vinculados a su implementación",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-10/impulsan-sistemas-alimentarios-sostenibles-en-el-occidente-de-cuba-10-10-2026-08-10-45",
-      "destacada": true,
-      "tema": "impulsan",
-      "fecha": "Sat, 10 Oct 2026 08:10:45 -0400",
-      "id": 3
+      "id": 6
     },
     {
       "categoria": "energia",
@@ -50,10 +89,10 @@
       "resumen": "La Habana, 10 oct (Prensa Latina) La Unión Eléctrica de Cuba informó hoy sobre una desconexión parcial del Sistema Electroenergético Nacional (SEN) en la región oriental del país tras el disparo de la línea de transmisión de 220 kilovoltios Nuevitas-Las Tunas. The post Sistema eléctrico cubano sufre",
       "imagen_url": "",
       "enlace_original": "https://www.prensa-latina.cu/2026/10/10/sistema-electrico-cubano-sufre-desconexion-parcial-en-region-oriental/",
-      "destacada": true,
+      "destacada": false,
       "tema": "sistema",
       "fecha": "Sat, 10 Oct 2026 17:57:34 +0000",
-      "id": 4
+      "id": 7
     },
     {
       "categoria": "energia",
@@ -63,10 +102,10 @@
       "resumen": "Santo Domingo, 10 oct (Prensa Latina) Cuba impulsa transformaciones económicas y regulatorias en el sector energético ante las restricciones de combustible, afirmó hoy el viceministro primero de Energía y Minas, Argelio Jesús Abad, durante un encuentro de solidaridad en la República Dominicana. The ",
       "imagen_url": "",
       "enlace_original": "https://www.prensa-latina.cu/2026/10/10/viceprimer-ministro-cubano-aborda-crisis-energetica-en-dominicana/",
-      "destacada": true,
+      "destacada": false,
       "tema": "viceprimer",
       "fecha": "Sat, 10 Oct 2026 17:42:33 +0000",
-      "id": 5
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -79,33 +118,20 @@
       "destacada": false,
       "tema": "rechaza",
       "fecha": "Sat, 10 Oct 2026 17:23:31 +0000",
-      "id": 6
+      "id": 9
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Canciller cubano felicita al Partido del Trabajo de Corea",
-      "resumen": "La Habana, 10 oct (Prensa Latina) El canciller de Cuba, Bruno Rodríguez, felicitó hoy al Partido del Trabajo de Corea por el aniversario 81 de su fundación y reafirmó la voluntad de fortalecer los vínculos históricos bilaterales. The post Canciller cubano felicita al Partido del Trabajo de Corea fir",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/10/canciller-cubano-felicita-al-partido-del-trabajo-de-corea/",
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Una nueva desconexión parcial del SEN deja sin electricidad al oriente de Cuba",
+      "resumen": "El disparo de una línea de alta tensión entre Nuevitas y Las Tunas agrava la crisis energética, tras ocho colapsos totales del sistema en lo que va de año",
+      "imagen_url": "https://static.14ymedio.com/clip/4b2f3c23-ad54-440d-be59-75f228c2e738_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/nueva-desconexion-parcial-sen-deja_1_1131805.html",
       "destacada": false,
-      "tema": "canciller",
-      "fecha": "Sat, 10 Oct 2026 16:58:24 +0000",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Autoridades cubanas evocan inicio de las luchas independentistas",
-      "resumen": "La Habana, 10 oct (Prensa Latina) Autoridades cubanas evocaron hoy el aniversario 158 del inicio de las luchas por la independencia, fecha que marcó el comienzo de la guerra contra el colonialismo español y abrió el camino hacia la construcción de la nación. The post Autoridades cubanas evocan inici",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/10/autoridades-cubanas-evocan-inicio-de-las-luchas-independentistas/",
-      "destacada": false,
-      "tema": "autoridades",
-      "fecha": "Sat, 10 Oct 2026 16:48:53 +0000",
-      "id": 8
+      "tema": "nueva",
+      "fecha": "Sat, 10 Oct 2026 18:31:41 +0000",
+      "id": 10
     },
     {
       "categoria": "economia",
@@ -118,7 +144,33 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sat, 10 Oct 2026 14:37:50 +0000",
-      "id": 9
+      "id": 11
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Fogones de aserrín y marabú por diésel: algunas soluciones de la llamada “transición energética” en Cuba",
+      "resumen": "Mientras el estadio Sandino y las radiobases de Etecsa incorporan paneles, una panadería estatal sustituye el derivado del petróleo por leña para sobrevivir a los apagones",
+      "imagen_url": "https://static.14ymedio.com/clip/ef268f3e-5f9a-4c1e-a27d-49f462aef450_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/fogones-aserrin-marabu-diesel-soluciones_1_1131803.html",
+      "destacada": false,
+      "tema": "fogones",
+      "fecha": "Sat, 10 Oct 2026 18:35:32 +0000",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "A la Nobel de la Paz Navi Pillay nunca le preocuparon las violaciones de derechos humanos en Cuba y China",
+      "resumen": "“La ganadora es una absoluta vergüenza\" por haber sido “cómplice del genocidio uigur”, denunció UN Watch",
+      "imagen_url": "https://static.14ymedio.com/clip/fb87466a-b38e-42a6-b5d6-fb69248866c4_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/internacional/nobel-paz-navi-pillay-le_1_1131801.html",
+      "destacada": false,
+      "tema": "nobel",
+      "fecha": "Sat, 10 Oct 2026 18:03:29 +0000",
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -131,20 +183,7 @@
       "destacada": false,
       "tema": "menos",
       "fecha": "Fri, 09 Oct 2026 19:36:25 +0000",
-      "id": 10
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Servicios médicos privados en Cuba: el Gobierno lo ve como un delito, la población como una solución",
-      "resumen": "Las autoridades sanitarias de Camagüey amenazan con \"todo el rigor de la ley a quienes infrinjan la normativa”",
-      "imagen_url": "https://static.14ymedio.com/clip/a09a3225-236d-43c3-bded-d22b131f6356_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/servicios-medicos-privados-cuba-gobierno_1_1131738.html",
-      "destacada": false,
-      "tema": "servicios",
-      "fecha": "Fri, 09 Oct 2026 15:04:50 +0000",
-      "id": 11
+      "id": 14
     },
     {
       "categoria": "economia",
@@ -157,72 +196,85 @@
       "destacada": false,
       "tema": "cardiología",
       "fecha": "Thu, 08 Oct 2026 21:05:55 +0000",
-      "id": 12
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba prevé apagones de hasta 1,680 MW en el horario pico de este sábado",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e208574-s27061-nid342524-cuba-preve-apagones-1680-mw-horario-pico-este-sabado",
-      "destacada": false,
-      "tema": "prevé",
-      "fecha": "Sat, 10 Oct 2026 18:15:02 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Judo cubano se va sin medallas en torneo individual del mundial en Bakú",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e208512-s27066-nid342523-judo-cubano-naufraga-medallas-torneo-individual",
-      "destacada": false,
-      "tema": "cubano",
-      "fecha": "Sat, 10 Oct 2026 18:11:41 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Hermana de preso político al régimen cubano: «¿Tengo que esperar 14 años para estar de nuevo con mi hermano?»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e207888-s27061-nid342521-hermana-preso-politico-al-regimen-cubano-tengo",
-      "destacada": false,
-      "tema": "hermana",
-      "fecha": "Sat, 10 Oct 2026 18:10:17 +0200",
       "id": 15
     },
     {
+      "categoria": "salud",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Servicios médicos privados en Cuba: el Gobierno lo ve como un delito, la población como una solución",
+      "resumen": "Las autoridades sanitarias de Camagüey amenazan con \"todo el rigor de la ley a quienes infrinjan la normativa”",
+      "imagen_url": "https://static.14ymedio.com/clip/a09a3225-236d-43c3-bded-d22b131f6356_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/servicios-medicos-privados-cuba-gobierno_1_1131738.html",
+      "destacada": false,
+      "tema": "servicios",
+      "fecha": "Fri, 09 Oct 2026 15:04:50 +0000",
+      "id": 16
+    },
+    {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "158 años después del Grito de Yara: de la aspiración de prosperidad a la crisis alimentaria en Cuba",
+      "titulo": "El informe de trata de personas de EE.UU. vuelve a señalar el reclutamiento de cubanos como mercenarios en Ucrania",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e13-s27061-nid342509-158-anos-despues-grito-yara-aspiracion-prosperidad",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e207888-s27061-nid342532-informe-trata-personas-eeuu-vuelve-senalar",
       "destacada": false,
-      "tema": "después",
-      "fecha": "Sat, 10 Oct 2026 17:50:02 +0200",
-      "id": 16
+      "tema": "informe",
+      "fecha": "Sat, 10 Oct 2026 19:40:20 +0200",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Del Grito de Yara al éxodo cubano: 158 años después, una nación que pierde población",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e13-s27061-nid342512-grito-yara-al-exodo-cubano-158-anos-despues-nacion",
+      "destacada": false,
+      "tema": "grito",
+      "fecha": "Sat, 10 Oct 2026 19:38:37 +0200",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Niña cubana de 12 años vende dulces para ayudar a su familia: «La casa se nos cayó»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e199370-s27061-nid342531-nina-cubana-12-anos-vende-dulces-ayudar-familia-casa",
+      "destacada": false,
+      "tema": "cubana",
+      "fecha": "Sat, 10 Oct 2026 19:32:16 +0200",
+      "id": 19
     },
     {
       "categoria": "energia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El Grito de Yara, a oscuras: Cuba llega al 10 de octubre tras semanas de apagones extremos",
+      "titulo": "Apagón masivo en la zona oriental de Cuba tras disparo de la línea Nuevitas-Las Tunas",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e13-s27061-nid342507-grito-yara-oscuras-cuba-llega-al-10-octubre-tras-semanas",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e208574-s27061-nid342534-apagon-masivo-zona-oriental-cuba-tras-disparo-linea",
       "destacada": false,
-      "tema": "grito",
-      "fecha": "Sat, 10 Oct 2026 17:24:29 +0200",
-      "id": 17
+      "tema": "apagón",
+      "fecha": "Sat, 10 Oct 2026 19:30:11 +0200",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Mensaje de Mike Hammer por el 10 de octubre: «Los cubanos de a pie quieren decidir su destino»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e208512-s27061-nid342530-mensaje-mike-hammer-10-octubre-cubanos-pie-quieren",
+      "destacada": false,
+      "tema": "mensaje",
+      "fecha": "Sat, 10 Oct 2026 19:08:00 +0200",
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -235,7 +287,7 @@
       "destacada": false,
       "tema": "homenaje",
       "fecha": "Sat, 10 Oct 2026 17:58:58 +0000",
-      "id": 18
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -248,7 +300,7 @@
       "destacada": false,
       "tema": "unidos",
       "fecha": "Sat, 10 Oct 2026 17:50:07 +0000",
-      "id": 19
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -261,7 +313,7 @@
       "destacada": false,
       "tema": "ejemplo",
       "fecha": "Sat, 10 Oct 2026 17:41:50 +0000",
-      "id": 20
+      "id": 24
     },
     {
       "categoria": "politica",
@@ -274,7 +326,7 @@
       "destacada": false,
       "tema": "demajagua",
       "fecha": "Sat, 10 Oct 2026 14:17:45 +0000",
-      "id": 21
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -287,7 +339,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Sat, 10 Oct 2026 13:00:13 +0000",
-      "id": 22
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -300,7 +352,7 @@
       "destacada": false,
       "tema": "fiesta",
       "fecha": "Fri, 09 Oct 2026 23:22:52 +0000",
-      "id": 23
+      "id": 27
     },
     {
       "categoria": "economia",
@@ -313,7 +365,20 @@
       "destacada": false,
       "tema": "rostros",
       "fecha": "Fri, 09 Oct 2026 19:20:03 +0000",
-      "id": 24
+      "id": 28
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Muere el escritor Manuel Pereira, el discípulo de Lezama que rompió con el régimen cubano",
+      "resumen": "Adiós al #ManuelPereira, \"el ensayista que escribía novelas\", uno de los últimos alumnos del autor de \"Paradiso\", José Lezama Lima.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cultura/1791657672_69336.html",
+      "destacada": false,
+      "tema": "muere",
+      "fecha": "Sat, 10 Oct 2026 20:41:12 +0200",
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -326,7 +391,7 @@
       "destacada": false,
       "tema": "libros",
       "fecha": "Sat, 10 Oct 2026 18:29:09 +0200",
-      "id": 25
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -339,7 +404,7 @@
       "destacada": false,
       "tema": "dormir",
       "fecha": "Sat, 10 Oct 2026 18:00:47 +0200",
-      "id": 26
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -352,7 +417,7 @@
       "destacada": false,
       "tema": "suman",
       "fecha": "Sat, 10 Oct 2026 16:33:58 +0200",
-      "id": 27
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -365,7 +430,7 @@
       "destacada": false,
       "tema": "datos",
       "fecha": "Sat, 10 Oct 2026 15:00:42 +0200",
-      "id": 28
+      "id": 33
     },
     {
       "categoria": "politica",
@@ -378,7 +443,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sat, 10 Oct 2026 13:59:19 +0200",
-      "id": 29
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -391,7 +456,7 @@
       "destacada": false,
       "tema": "santiago",
       "fecha": "Sat, 10 Oct 2026 13:23:08 +0200",
-      "id": 30
+      "id": 35
     },
     {
       "categoria": "politica",
@@ -404,7 +469,7 @@
       "destacada": false,
       "tema": "cupet",
       "fecha": "Sat, 10 Oct 2026 11:47:14 +0200",
-      "id": 31
+      "id": 36
     },
     {
       "categoria": "salud",
@@ -417,7 +482,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Sat, 10 Oct 2026 01:15:12 +0200",
-      "id": 32
+      "id": 37
     },
     {
       "categoria": "economia",
@@ -430,20 +495,59 @@
       "destacada": false,
       "tema": "exportaciones",
       "fecha": "Fri, 09 Oct 2026 22:35:18 +0200",
-      "id": 33
+      "id": 38
     },
     {
       "categoria": "energia",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La termoeléctrica Guiteras vuelve a salir del sistema apenas cinco días después de su anterior avería",
-      "resumen": "La termoeléctrica Guiteras vuelve a salir del sistema apenas cinco días después de su anterior avería. Su parada eleva los #apagones en #Cuba, mientras las autoridades prometen restablecerla \"en pocas horas\".",
+      "titulo": "Evangélicos se unen en oración por Cuba: \"Están convocando a mucha gente\" (VIDEO)",
+      "resumen": "La jornada de fe por la libertad espiritual de la nación se realiza en medio de denuncias de persecución religiosa y hostigamiento contra voces críticas.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791570801_69329.html",
+      "enlace_original": "https://www.martinoticias.com/a/evang%c3%a9licos-se-unen-en-oraci%c3%b3n-por-cuba-est%c3%a1n-convocando-a-mucha-gente-video/481744.html",
       "destacada": false,
-      "tema": "termoeléctrica",
-      "fecha": "Fri, 09 Oct 2026 20:33:21 +0200",
-      "id": 34
+      "tema": "evangélicos",
+      "fecha": "Sat, 10 Oct 2026 14:39:09 -0400",
+      "id": 39
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Colapsa el Sistema Eléctrico Nacional (SEN) en el oriente de Cuba",
+      "resumen": "Colapso parcial del sistema eléctrico en el oriente de Cuba tras sufrir apagones de hasta 50 horas y 20 minutos de luz.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/colapsa-el-sistema-electrico-nacional-sen-en-el-oriente-de-cuba/481746.html",
+      "destacada": false,
+      "tema": "colapsa",
+      "fecha": "Sat, 10 Oct 2026 14:28:54 -0400",
+      "id": 40
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Teatro a oscuras: El arte que desafía los apagones en La Habana",
+      "resumen": "El grupo cubano Impulso Teatro ensaya a oscuras en La Habana frente a apagones de 24 horas, utilizando lámparas portátiles y velas para mantener la actividad cultural. A pesar de la falta de electricidad y audio, actores de varias generaciones resisten para preservar el arte en el país.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/teatro-a-oscuras-el-arte-que-desaf%c3%ada-los-apagones-en-la-habana/481747.html",
+      "destacada": false,
+      "tema": "teatro",
+      "fecha": "Sat, 10 Oct 2026 14:21:30 -0400",
+      "id": 41
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Exportaciones de combustible de EEUU a Cuba marcan récord en agosto",
+      "resumen": "Mientras millones de cubanos enfrentan apagones prolongados, dificultades para conseguir combustible y una crisis económica que afecta prácticamente todos los sectores del país, las exportaciones estadounidenses de productos petroleros hacia Cuba continúan aumentando y alcanzaron un nuevo récord men",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481741.html",
+      "destacada": false,
+      "tema": "exportaciones",
+      "fecha": "Sat, 10 Oct 2026 14:16:46 -0400",
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -456,7 +560,7 @@
       "destacada": false,
       "tema": "brigada",
       "fecha": "Sat, 10 Oct 2026 14:00:00 -0400",
-      "id": 35
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -469,20 +573,7 @@
       "destacada": false,
       "tema": "suárez",
       "fecha": "Sat, 10 Oct 2026 13:35:48 -0400",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "De cara al sol",
-      "resumen": "“De cara al sol” es una tribuna martiana que da voz a quienes bajo el régimen dictatorial cubano. Para Cuba que sufre, nuestra primera palabra; para quienes dentro de Cuba son llevados a oscuras prisiones, el primer pensamiento.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480716.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Sat, 10 Oct 2026 12:30:00 -0400",
-      "id": 37
+      "id": 44
     },
     {
       "categoria": "politica",
@@ -495,7 +586,7 @@
       "destacada": false,
       "tema": "preside",
       "fecha": "Sat, 10 Oct 2026 15:06:46 +0000",
-      "id": 38
+      "id": 45
     },
     {
       "categoria": "economia",
@@ -508,7 +599,7 @@
       "destacada": false,
       "tema": "precios",
       "fecha": "Sat, 10 Oct 2026 12:30:20 +0000",
-      "id": 39
+      "id": 46
     },
     {
       "categoria": "energia",
@@ -521,7 +612,7 @@
       "destacada": false,
       "tema": "frustran",
       "fecha": "Sat, 10 Oct 2026 04:36:35 +0000",
-      "id": 40
+      "id": 47
     },
     {
       "categoria": "salud",
@@ -534,7 +625,7 @@
       "destacada": false,
       "tema": "salud",
       "fecha": "Fri, 09 Oct 2026 15:42:11 +0000",
-      "id": 41
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -547,7 +638,7 @@
       "destacada": false,
       "tema": "mirada",
       "fecha": "Sat, 10 Oct 26 14:54:00 +0200",
-      "id": 42
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -560,7 +651,7 @@
       "destacada": false,
       "tema": "fracaso",
       "fecha": "Sat, 10 Oct 26 10:33:00 +0200",
-      "id": 43
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -573,7 +664,7 @@
       "destacada": false,
       "tema": "representante",
       "fecha": "Sat, 10 Oct 26 10:30:00 +0200",
-      "id": 44
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -586,7 +677,7 @@
       "destacada": false,
       "tema": "brasil",
       "fecha": "Sat, 10 Oct 26 10:27:00 +0200",
-      "id": 45
+      "id": 52
     },
     {
       "categoria": "politica",
@@ -599,7 +690,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sat, 10 Oct 26 10:19:00 +0200",
-      "id": 46
+      "id": 53
     },
     {
       "categoria": "politica",
@@ -612,7 +703,7 @@
       "destacada": false,
       "tema": "canciller",
       "fecha": "Sat, 10 Oct 26 10:15:00 +0200",
-      "id": 47
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -625,7 +716,7 @@
       "destacada": false,
       "tema": "evasión",
       "fecha": "Sat, 10 Oct 26 10:12:00 +0200",
-      "id": 48
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -638,7 +729,7 @@
       "destacada": false,
       "tema": "cocinar",
       "fecha": "Sat, 10 Oct 26 10:06:00 +0200",
-      "id": 49
+      "id": 56
     },
     {
       "categoria": "transporte",
@@ -651,7 +742,7 @@
       "destacada": false,
       "tema": "datos",
       "fecha": "Sat, 10 Oct 26 09:39:00 +0200",
-      "id": 50
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -664,7 +755,7 @@
       "destacada": false,
       "tema": "brechas",
       "fecha": "Sat, 10 Oct 26 07:00:00 +0200",
-      "id": 51
+      "id": 58
     },
     {
       "categoria": "politica",
@@ -677,7 +768,7 @@
       "destacada": false,
       "tema": "encabeza",
       "fecha": "Sat, 10 Oct 2026 16:06:01 +0000",
-      "id": 52
+      "id": 59
     },
     {
       "categoria": "politica",
@@ -690,7 +781,7 @@
       "destacada": false,
       "tema": "serie",
       "fecha": "Sat, 10 Oct 2026 13:16:00 +0000",
-      "id": 53
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -703,7 +794,7 @@
       "destacada": false,
       "tema": "poner",
       "fecha": "Fri, 09 Oct 2026 12:04:00 +0000",
-      "id": 54
+      "id": 61
     },
     {
       "categoria": "politica",
@@ -716,7 +807,7 @@
       "destacada": false,
       "tema": "céspedes",
       "fecha": "Sat, 10 Oct 2026 15:55:18 +0000",
-      "id": 55
+      "id": 62
     },
     {
       "categoria": "sociedad",
@@ -729,7 +820,7 @@
       "destacada": false,
       "tema": "gestas",
       "fecha": "Sat, 10 Oct 2026 17:21:16 +0000",
-      "id": 56
+      "id": 63
     },
     {
       "categoria": "sociedad",
@@ -742,7 +833,7 @@
       "destacada": false,
       "tema": "injerto",
       "fecha": "Sat, 10 Oct 2026 16:50:26 +0000",
-      "id": 57
+      "id": 64
     },
     {
       "categoria": "sociedad",
@@ -755,7 +846,7 @@
       "destacada": false,
       "tema": "través",
       "fecha": "Sat, 10 Oct 2026 17:17:39 +0000",
-      "id": 58
+      "id": 65
     },
     {
       "categoria": "transporte",
@@ -768,7 +859,7 @@
       "destacada": false,
       "tema": "extiende",
       "fecha": "Fri, 09 Oct 2026 13:50:41 +0000",
-      "id": 59
+      "id": 66
     },
     {
       "categoria": "transporte",
@@ -781,7 +872,7 @@
       "destacada": false,
       "tema": "ferrer",
       "fecha": "Fri, 09 Oct 2026 12:34:00 +0000",
-      "id": 60
+      "id": 67
     }
   ]
 }
