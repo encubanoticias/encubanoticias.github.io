@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-10",
-  "hora": "04:06",
-  "total": 53,
+  "hora": "06:06",
+  "total": 55,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -95,30 +95,17 @@
       "id": 7
     },
     {
-      "categoria": "transporte",
+      "categoria": "salud",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Comunistas de Villa Crespo, Buenos Aires, también recuerdan al Che",
-      "resumen": "Buenos Aires, 9 oct (Prensa Latina) El Espacio Cultural Don Osvaldo, de la barriada porteña de Villa Crespo, fue hoy anfitrión ideal de un recordatorio al legendario revolucionario argentino-cubano Ernesto Che Guevara en ocasión del 59 aniversario de su caída en combate en Bolivia. The post Comunist",
+      "titulo": "Homenaje versus patrañas de EEUU a médicos cubanos en Uruguay",
+      "resumen": "Montevideo, 10 oct (Prensa Latina) El presidente de la central sindical unitaria uruguaya (PIT-CNT), Marcelo Abdala, calificó de basura y patrañas los ataques de Estados Unidos contra la colaboración médica que Cuba presta a Uruguay desde hace 19 años. The post Homenaje versus patrañas de EEUU a méd",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/09/comunistas-de-villa-crespo-buenos-aires-tambien-recuerdan-al-che/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/10/homenaje-versus-patranas-de-eeuu-a-medicos-cubanos-en-uruguay/",
       "destacada": false,
-      "tema": "comunistas",
-      "fecha": "Sat, 10 Oct 2026 03:15:29 +0000",
+      "tema": "homenaje",
+      "fecha": "Sat, 10 Oct 2026 04:30:08 +0000",
       "id": 8
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Universidad Nicaragüense destaca legado del Che Guevara",
-      "resumen": "Managua, 9 oct (Prensa Latina) Estudiantes y docentes de la Universidad Nacional Autónoma de Nicaragua (UNAN-Managua) destacaron hoy el legado del guerrillero argentino-cubano Ernesto Che Guevara, al conmemorarse el aniversario 59 de su asesinato en Bolivia. The post Universidad Nicaragüense destaca",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/09/universidad-nicaraguense-destaca-legado-del-che-guevara/",
-      "destacada": false,
-      "tema": "universidad",
-      "fecha": "Sat, 10 Oct 2026 01:23:18 +0000",
-      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -131,7 +118,7 @@
       "destacada": false,
       "tema": "menos",
       "fecha": "Fri, 09 Oct 2026 19:36:25 +0000",
-      "id": 10
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -144,7 +131,7 @@
       "destacada": false,
       "tema": "tensiones",
       "fecha": "Fri, 09 Oct 2026 20:03:47 +0000",
-      "id": 11
+      "id": 10
     },
     {
       "categoria": "transporte",
@@ -157,7 +144,7 @@
       "destacada": false,
       "tema": "atletas",
       "fecha": "Fri, 09 Oct 2026 20:43:43 +0000",
-      "id": 12
+      "id": 11
     },
     {
       "categoria": "salud",
@@ -170,7 +157,7 @@
       "destacada": false,
       "tema": "servicios",
       "fecha": "Fri, 09 Oct 2026 15:04:50 +0000",
-      "id": 13
+      "id": 12
     },
     {
       "categoria": "economia",
@@ -183,7 +170,7 @@
       "destacada": false,
       "tema": "cardiología",
       "fecha": "Thu, 08 Oct 2026 21:05:55 +0000",
-      "id": 14
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -196,6 +183,19 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Thu, 08 Oct 2026 21:32:08 +0000",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubana ante los basureros en La Habana: «Caminar Cuba entera ahora mismo es sentir asco»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e209395-s27061-nid342480-cubana-basureros-habana-caminar-cuba-entera-ahora",
+      "destacada": false,
+      "tema": "cubana",
+      "fecha": "Sat, 10 Oct 2026 06:15:12 +0200",
       "id": 15
     },
     {
@@ -433,6 +433,32 @@
       "id": 33
     },
     {
+      "categoria": "energia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Frustran robo de aceite dieléctrico en subestación eléctrica de Guanabacoa",
+      "resumen": "Un intento de robo de aceite dieléctrico fue detectado y frustrado en la subestación eléctrica Cubana de Bronce, ubicada en el municipio habanero de Guanabacoa, informó la Empresa Eléctrica de La Habana. De acuerdo con la entidad, el transformador no sufrió daños y los autores del hecho fueron captu",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/10/frustran-robo-de-aceite-dielectrico-en-subestacion-electrica-de-guanabacoa/",
+      "destacada": false,
+      "tema": "frustran",
+      "fecha": "Sat, 10 Oct 2026 04:36:35 +0000",
+      "id": 34
+    },
+    {
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cocinar con carbón y leña: la cara visible del bloqueo energético",
+      "resumen": "La crisis energética, agudizada por la presión de Estados Unidos para bloquear el suministro de petróleo a Cuba, devuelve a los hogares a métodos de cocción del pasado. Lo que antes era tradición, hoy es una estrategia de supervivencia diaria. The post Cocinar con carbón y leña: la cara visible del ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/fotorreportajes/2026/10/10/cocinar-con-carbon-y-lena-la-cara-visible-del-bloqueo-energetico/",
+      "destacada": false,
+      "tema": "cocinar",
+      "fecha": "Sat, 10 Oct 2026 04:06:43 +0000",
+      "id": 35
+    },
+    {
       "categoria": "transporte",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
@@ -443,7 +469,7 @@
       "destacada": false,
       "tema": "villa",
       "fecha": "Sat, 10 Oct 2026 03:40:32 +0000",
-      "id": 34
+      "id": 36
     },
     {
       "categoria": "politica",
@@ -456,7 +482,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sat, 10 Oct 2026 03:08:22 +0000",
-      "id": 35
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -469,7 +495,7 @@
       "destacada": false,
       "tema": "serie",
       "fecha": "Sat, 10 Oct 2026 01:33:12 +0000",
-      "id": 36
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -482,7 +508,7 @@
       "destacada": false,
       "tema": "badalona",
       "fecha": "Sat, 10 Oct 2026 00:46:46 +0000",
-      "id": 37
+      "id": 39
     },
     {
       "categoria": "salud",
@@ -495,7 +521,20 @@
       "destacada": false,
       "tema": "salud",
       "fecha": "Fri, 09 Oct 2026 15:42:11 +0000",
-      "id": 38
+      "id": 40
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba: Brechas de género, imagen y derechos en la industria musical",
+      "resumen": "La industria musical reproduce, con particular crudeza, brechas de género que atraviesan al conjunto...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125289-cuba-brechas-de-genero-imagen-y-derechos-en-la-industria-musical.jpg?t=1791020143",
+      "enlace_original": "https://www.cubainformacion.tv/genero/20261010/125289/125289-cuba-brechas-de-genero-imagen-y-derechos-en-la-industria-musical",
+      "destacada": false,
+      "tema": "brechas",
+      "fecha": "Sat, 10 Oct 26 07:00:00 +0200",
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -508,7 +547,7 @@
       "destacada": false,
       "tema": "badalona",
       "fecha": "Fri, 09 Oct 26 10:52:00 +0200",
-      "id": 39
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -521,7 +560,7 @@
       "destacada": false,
       "tema": "otxarkoaga",
       "fecha": "Fri, 09 Oct 26 08:36:00 +0200",
-      "id": 40
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -534,7 +573,7 @@
       "destacada": false,
       "tema": "octubre",
       "fecha": "Fri, 09 Oct 26 08:22:00 +0200",
-      "id": 41
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -547,7 +586,7 @@
       "destacada": false,
       "tema": "mother",
       "fecha": "Fri, 09 Oct 26 08:17:00 +0200",
-      "id": 42
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -560,7 +599,7 @@
       "destacada": false,
       "tema": "entrevista",
       "fecha": "Fri, 09 Oct 26 08:16:00 +0200",
-      "id": 43
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -573,20 +612,7 @@
       "destacada": false,
       "tema": "victoria",
       "fecha": "Fri, 09 Oct 26 08:15:00 +0200",
-      "id": 44
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "¡Traición descarada! Díaz Balart se deslinda públicamente de María Elvira y Carlos Giménez",
-      "resumen": "Guerrero Cubano con su verdad al desnudo",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125384-traicion-descarada-diaz-balart-se-deslinda-publicamente-de-maria-elvira-y-carlos-gimenez.jpg?t=1791526426",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261009/125384/125384-traicion-descarada-diaz-balart-se-deslinda-publicamente-de-maria-elvira-y-carlos-gimenez",
-      "destacada": false,
-      "tema": "traición",
-      "fecha": "Fri, 09 Oct 26 08:13:00 +0200",
-      "id": 45
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -599,7 +625,7 @@
       "destacada": false,
       "tema": "poner",
       "fecha": "Fri, 09 Oct 2026 12:04:00 +0000",
-      "id": 46
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -612,7 +638,7 @@
       "destacada": false,
       "tema": "generaciones",
       "fecha": "Fri, 09 Oct 2026 20:07:14 +0000",
-      "id": 47
+      "id": 49
     },
     {
       "categoria": "transporte",
@@ -625,7 +651,7 @@
       "destacada": false,
       "tema": "actualizan",
       "fecha": "Fri, 09 Oct 2026 19:53:16 +0000",
-      "id": 48
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -638,7 +664,7 @@
       "destacada": false,
       "tema": "operación",
       "fecha": "Fri, 09 Oct 2026 18:20:40 +0000",
-      "id": 49
+      "id": 51
     },
     {
       "categoria": "transporte",
@@ -651,7 +677,7 @@
       "destacada": false,
       "tema": "extiende",
       "fecha": "Fri, 09 Oct 2026 13:50:41 +0000",
-      "id": 50
+      "id": 52
     },
     {
       "categoria": "transporte",
@@ -664,7 +690,7 @@
       "destacada": false,
       "tema": "ferrer",
       "fecha": "Fri, 09 Oct 2026 12:34:00 +0000",
-      "id": 51
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -677,7 +703,7 @@
       "destacada": false,
       "tema": "matanzas",
       "fecha": "Thu, 08 Oct 2026 15:13:42 +0000",
-      "id": 52
+      "id": 54
     },
     {
       "categoria": "energia",
@@ -690,7 +716,7 @@
       "destacada": false,
       "tema": "etecsa",
       "fecha": "Thu, 08 Oct 2026 12:20:00 +0000",
-      "id": 53
+      "id": 55
     }
   ]
 }
