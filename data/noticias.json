@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-10",
-  "hora": "07:07",
-  "total": 54,
+  "hora": "09:04",
+  "total": 51,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -381,45 +381,6 @@
       "id": 29
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480682.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Sat, 10 Oct 2026 00:00:30 -0400",
-      "id": 30
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El diablo del capitolio de La Habana",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481080.html",
-      "destacada": false,
-      "tema": "diablo",
-      "fecha": "Fri, 09 Oct 2026 21:00:00 -0400",
-      "id": 31
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Barbacoa de Pepe",
-      "resumen": "La Barbacoa de Pepe es un muestrario de la nostalgia cubana con datos y curiosidades de los temas más variados, para la audiencia cubana. También trataremos temas internacionales y locales, siempre con el fin de educar al Cubano de la Isla. Con la elocuencia de Pepe Forte.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480639.html",
-      "destacada": false,
-      "tema": "barbacoa",
-      "fecha": "Fri, 09 Oct 2026 21:00:00 -0400",
-      "id": 32
-    },
-    {
       "categoria": "energia",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
@@ -430,7 +391,7 @@
       "destacada": false,
       "tema": "frustran",
       "fecha": "Sat, 10 Oct 2026 04:36:35 +0000",
-      "id": 33
+      "id": 30
     },
     {
       "categoria": "politica",
@@ -443,7 +404,7 @@
       "destacada": false,
       "tema": "cocinar",
       "fecha": "Sat, 10 Oct 2026 04:06:43 +0000",
-      "id": 34
+      "id": 31
     },
     {
       "categoria": "transporte",
@@ -456,7 +417,7 @@
       "destacada": false,
       "tema": "villa",
       "fecha": "Sat, 10 Oct 2026 03:40:32 +0000",
-      "id": 35
+      "id": 32
     },
     {
       "categoria": "politica",
@@ -469,7 +430,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sat, 10 Oct 2026 03:08:22 +0000",
-      "id": 36
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -482,7 +443,7 @@
       "destacada": false,
       "tema": "serie",
       "fecha": "Sat, 10 Oct 2026 01:33:12 +0000",
-      "id": 37
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -495,7 +456,7 @@
       "destacada": false,
       "tema": "badalona",
       "fecha": "Sat, 10 Oct 2026 00:46:46 +0000",
-      "id": 38
+      "id": 35
     },
     {
       "categoria": "salud",
@@ -508,7 +469,85 @@
       "destacada": false,
       "tema": "salud",
       "fecha": "Fri, 09 Oct 2026 15:42:11 +0000",
+      "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Fracaso total: Intentaron sabotear a Silvio Rodríguez en España y esto pasó",
+      "resumen": "Vídeo: Justo al Medio - La gira por España del cantautor cubano Silvio Rodríguez provocó manifesta...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125405-fracaso-total-intentaron-sabotear-a-silvio-rodriguez-en-espana-y-esto-paso.jpg?t=1791621689",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261010/125405/125405-fracaso-total-intentaron-sabotear-a-silvio-rodriguez-en-espana-y-esto-paso",
+      "destacada": false,
+      "tema": "fracaso",
+      "fecha": "Sat, 10 Oct 26 10:33:00 +0200",
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Representante de Comunidad de Sant’Egidio denuncia bloqueo a Cuba",
+      "resumen": "Prensa Latina - El director para Centroamérica de la Comunidad de Sant&amp;#39;Egidio, Giovanni Impagli...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125404-representante-de-comunidad-de-sant-egidio-denuncia-bloqueo-a-cuba.jpg?t=1791621143",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261010/125404/125404-representante-de-comunidad-de-sant-egidio-denuncia-bloqueo-a-cuba",
+      "destacada": false,
+      "tema": "representante",
+      "fecha": "Sat, 10 Oct 26 10:30:00 +0200",
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba y Brasil evocan 40 años del restablecimiento de nexos oficiales",
+      "resumen": "Prensa Latina - Imágenes: Martha Isabel Andrés - Brasil y Cuba celebraron hoy las cuatro décadas del...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125403-cuba-y-brasil-evocan-40-anos-del-restablecimiento-de-nexos-oficiales.jpg?t=1791620959",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261010/125403/125403-cuba-y-brasil-evocan-40-anos-del-restablecimiento-de-nexos-oficiales",
+      "destacada": false,
+      "tema": "brasil",
+      "fecha": "Sat, 10 Oct 26 10:27:00 +0200",
       "id": 39
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Canciller Bruno Rodríguez: A Cuba le asiste la verdad, la razón y el Derecho Internacional",
+      "resumen": "Texto e imagen: Cubadebate “El gobierno de EE.UU. carece de autoridad práctica y moral para decidir ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125400-canciller-bruno-rodriguez-a-cuba-le-asiste-la-verdad-la-razon-y-el-derecho-internacional.jpg?t=1791620226",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261010/125400/125400-canciller-bruno-rodriguez-a-cuba-le-asiste-la-verdad-la-razon-y-el-derecho-internacional",
+      "destacada": false,
+      "tema": "canciller",
+      "fecha": "Sat, 10 Oct 26 10:15:00 +0200",
+      "id": 40
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Evasión fiscal en Cuba: ¿pagar la deuda evita un proceso penal?",
+      "resumen": "Texto: Granma - Imagen: Radio Rebelde - Vídeo: Canal Caribe - La detección de operaciones financier...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125399-evasion-fiscal-en-cuba-pagar-la-deuda-evita-un-proceso-penal.jpg?t=1791620054",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261010/125399/125399-evasion-fiscal-en-cuba-pagar-la-deuda-evita-un-proceso-penal",
+      "destacada": false,
+      "tema": "evasión",
+      "fecha": "Sat, 10 Oct 26 10:12:00 +0200",
+      "id": 41
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba en datos: El bloqueo contra Cuba, anatomía de una asfixia cotidiana en el transporte",
+      "resumen": "Por Frank Martínez Rivero - Imagen: Cubadebate (generada con IA Gemini) ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125396-cuba-en-datos-el-bloqueo-contra-cuba-anatomia-de-una-asfixia-cotidiana-en-el-transporte.jpg?t=1791618952",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261010/125396/125396-cuba-en-datos-el-bloqueo-contra-cuba-anatomia-de-una-asfixia-cotidiana-en-el-transporte",
+      "destacada": false,
+      "tema": "datos",
+      "fecha": "Sat, 10 Oct 26 09:39:00 +0200",
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -521,85 +560,7 @@
       "destacada": false,
       "tema": "brechas",
       "fecha": "Sat, 10 Oct 26 07:00:00 +0200",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Badalona rinde homenaje al Che en el 59 aniversario de su asesinato (+Fotos)",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125392-badalona-rinde-homenaje-al-che-en-el-59-aniversario-de-su-asesinato-fotos.jpg?t=1791536228",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261009/125392/125392-badalona-rinde-homenaje-al-che-en-el-59-aniversario-de-su-asesinato-fotos",
-      "destacada": false,
-      "tema": "badalona",
-      "fecha": "Fri, 09 Oct 26 10:52:00 +0200",
-      "id": 41
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Otxarkoaga iniciará el Lenin Eguna con la presentación del libro &quot;Voces con Fidel&quot;: Bilbao, 16 de octubre",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125391-otxarkoaga-iniciara-el-lenin-eguna-con-la-presentacion-del-libro-voces-con-fidel-bilbao-16-de-octubre.jpg?t=1791528010",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261009/125391/125391-otxarkoaga-iniciara-el-lenin-eguna-con-la-presentacion-del-libro-voces-con-fidel-bilbao-16-de-octubre",
-      "destacada": false,
-      "tema": "otxarkoaga",
-      "fecha": "Fri, 09 Oct 26 08:36:00 +0200",
-      "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Un 6 de octubre: Washington y el atentado a un avión de Cubana",
-      "resumen": "Hernando Calvo Ospina - Original en Mediapart",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125390-un-6-de-octubre-washington-y-el-atentado-a-un-avion-de-cubana.jpg?t=1791526930",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261009/125390/125390-un-6-de-octubre-washington-y-el-atentado-a-un-avion-de-cubana",
-      "destacada": false,
-      "tema": "octubre",
-      "fecha": "Fri, 09 Oct 26 08:22:00 +0200",
       "id": 43
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "His Mother Has Alzheimer’s. He Came to Cuba for a Breakthrough Treatment",
-      "resumen": "Belly of The Beast Cuba",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125389-his-mother-has-alzheimer-s-he-came-to-cuba-for-a-breakthrough-treatment.jpg?t=1791526631",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261009/125389/125389-his-mother-has-alzheimer-s-he-came-to-cuba-for-a-breakthrough-treatment",
-      "destacada": false,
-      "tema": "mother",
-      "fecha": "Fri, 09 Oct 26 08:17:00 +0200",
-      "id": 44
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Entrevista a Gerardo Guillén Nieto",
-      "resumen": "Europa x Cuba",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125388-entrevista-a-gerardo-guillen-nieto.jpg?t=1791526599",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261009/125388/125388-entrevista-a-gerardo-guillen-nieto",
-      "destacada": false,
-      "tema": "entrevista",
-      "fecha": "Fri, 09 Oct 26 08:16:00 +0200",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Hasta la Victoria Siempre, Comandante Che Guevara!! Viva Cuba Soberana",
-      "resumen": "El Titan de #Cuba",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125386-hasta-la-victoria-siempre-comandante-che-guevara-viva-cuba-soberana.jpg?t=1791526520",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261009/125386/125386-hasta-la-victoria-siempre-comandante-che-guevara-viva-cuba-soberana",
-      "destacada": false,
-      "tema": "victoria",
-      "fecha": "Fri, 09 Oct 26 08:15:00 +0200",
-      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -612,7 +573,7 @@
       "destacada": false,
       "tema": "poner",
       "fecha": "Fri, 09 Oct 2026 12:04:00 +0000",
-      "id": 47
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -625,7 +586,7 @@
       "destacada": false,
       "tema": "generaciones",
       "fecha": "Fri, 09 Oct 2026 20:07:14 +0000",
-      "id": 48
+      "id": 45
     },
     {
       "categoria": "transporte",
@@ -638,7 +599,7 @@
       "destacada": false,
       "tema": "actualizan",
       "fecha": "Fri, 09 Oct 2026 19:53:16 +0000",
-      "id": 49
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -651,7 +612,7 @@
       "destacada": false,
       "tema": "operación",
       "fecha": "Fri, 09 Oct 2026 18:20:40 +0000",
-      "id": 50
+      "id": 47
     },
     {
       "categoria": "transporte",
@@ -664,7 +625,7 @@
       "destacada": false,
       "tema": "extiende",
       "fecha": "Fri, 09 Oct 2026 13:50:41 +0000",
-      "id": 51
+      "id": 48
     },
     {
       "categoria": "transporte",
@@ -677,7 +638,7 @@
       "destacada": false,
       "tema": "ferrer",
       "fecha": "Fri, 09 Oct 2026 12:34:00 +0000",
-      "id": 52
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -690,7 +651,7 @@
       "destacada": false,
       "tema": "matanzas",
       "fecha": "Thu, 08 Oct 2026 15:13:42 +0000",
-      "id": 53
+      "id": 50
     },
     {
       "categoria": "energia",
@@ -703,7 +664,7 @@
       "destacada": false,
       "tema": "etecsa",
       "fecha": "Thu, 08 Oct 2026 12:20:00 +0000",
-      "id": 54
+      "id": 51
     }
   ]
 }
