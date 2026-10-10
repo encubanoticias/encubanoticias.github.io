@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-10",
-  "hora": "12:05",
-  "total": 48,
+  "hora": "13:07",
+  "total": 55,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -30,6 +30,19 @@
       "id": 2
     },
     {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Impulsan sistemas alimentarios sostenibles en el occidente de Cuba",
+      "resumen": "El proyecto fortalece sus capacidades operativas con el propósito de ampliar el monitoreo en los territorios y el acompañamiento técnico a productores, cooperativas, gobiernos locales, instituciones científicas y otros actores vinculados a su implementación",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-10/impulsan-sistemas-alimentarios-sostenibles-en-el-occidente-de-cuba-10-10-2026-08-10-45",
+      "destacada": true,
+      "tema": "impulsan",
+      "fecha": "Sat, 10 Oct 2026 08:10:45 -0400",
+      "id": 3
+    },
+    {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
@@ -40,72 +53,46 @@
       "destacada": true,
       "tema": "heridas",
       "fecha": "Fri, 09 Oct 2026 18:10:25 -0400",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Tú también tuviste una pañoleta azul",
-      "resumen": "Cada 8 de octubre, niñas y niños cubanos se inician como pioneros en un acto que rinde tributo al Guerrillero Heroico, Ernesto Guevara de la Serna",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-08/tu-tambien-tuviste-una-panoleta-azul-08-10-2026-12-10-22",
-      "destacada": true,
-      "tema": "también",
-      "fecha": "Thu, 08 Oct 2026 12:10:22 -0400",
       "id": 4
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
+      "categoria": "energia",
+      "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "El arte de resucitar equipos: la vida que no se negocia",
-      "resumen": "Con 45 años de entrega a su profesión y cientos de innovaciones a su cuenta, Ángel es muestra de lo que somos capaces de hacer los cubanos: cuando nos aprietan los obstáculos buscamos el modo de sortearlos",
+      "titulo": "Cuba denuncia en ONU bloqueo de EEUU y rechaza genocidio en Gaza",
+      "resumen": "París, 10 oct (Prensa Latina) Cuba denunció en la Unesco el bloqueo de Estados Unidos como un castigo colectivo aplicado por más de seis décadas y reforzado con un bloqueo energético, indicaron hoy fuentes diplomáticas en esta capital. The post Cuba denuncia en ONU bloqueo de EEUU y rechaza genocidi",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-09/el-arte-de-resucitar-equipos-la-vida-que-no-se-negocia-09-10-2026-17-10-55",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/10/cuba-denuncia-en-onu-bloqueo-de-eeuu-y-rechaza-genocidio-en-gaza/",
       "destacada": true,
-      "tema": "resucitar",
-      "fecha": "Fri, 09 Oct 2026 17:10:55 -0400",
+      "tema": "denuncia",
+      "fecha": "Sat, 10 Oct 2026 13:05:12 +0000",
       "id": 5
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
+      "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Las medallas cada vez más lejanas en el Mundial de judo",
-      "resumen": "Iván Silva logró las dos primeras victorias de la delegación cubana, pero no pudo discutir preseas",
+      "titulo": "Curbelo cae y Cuba se despide del Mundial de Judo",
+      "resumen": "Bakú, 10 oct (Prensa Latina) La cubana Dayanara Curbelo cayó hoy ante la francesa Romane Dicko en la ronda de 32 de más de 78 kilogramos y puso fin a la participación de su país en el torneo individual del Campeonato Mundial de Judo. The post Curbelo cae y Cuba se despide del Mundial de Judo first a",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-10-09/las-medallas-cada-vez-mas-lejanas-en-el-mundial-de-judo-09-10-2026-16-10-06",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/10/curbelo-cae-y-cuba-se-despide-del-mundial-de-judo/",
       "destacada": false,
-      "tema": "medallas",
-      "fecha": "Fri, 09 Oct 2026 16:10:06 -0400",
+      "tema": "curbelo",
+      "fecha": "Sat, 10 Oct 2026 13:02:42 +0000",
       "id": 6
     },
     {
-      "categoria": "salud",
+      "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Continúan encuentros de negocios turísticos en ciudad cubana",
-      "resumen": "Cienfuegos, Cuba, 10 oct (Prensa Latina) El Foro de Inversiones La Perla del Sur prosigue hoy aquí con recorridos por instalaciones de turismo de salud en Yaguanabo, la Villa Internacional de Campismo Guajimico y la playa Rancho Luna. The post Continúan encuentros de negocios turísticos en ciudad cu",
+      "titulo": "Béisbol cubano: entre bates encendidos y márgenes estrechos",
+      "resumen": "La Habana, 9 oct (ACN) La 65 Serie Nacional de Béisbol entra hoy en otra jornada marcada por la paridad, una ofensiva desbordada y un calendario corto que deja poco margen para corregir el rumbo. The post Béisbol cubano: entre bates encendidos y márgenes estrechos first appeared on Noticias Prensa L",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/10/continuan-encuentros-de-negocios-turisticos-en-ciudad-cubana/",
-      "destacada": false,
-      "tema": "continúan",
-      "fecha": "Sat, 10 Oct 2026 11:56:59 +0000",
-      "id": 7
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Béisbol japonés: Raidel cae y Canario enciende la postemporada",
-      "resumen": "Tokio, 10 oct (Prensa Latina) La postemporada de la Liga Japonesa de Béisbol Profesional comenzó hoy con dos partidos de alto voltaje, marcados por el revés del cubano Raidel Martínez y un jonrón decisivo del dominicano Alexander Canario. The post Béisbol japonés: Raidel cae y Canario enciende la po",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/10/beisbol-japones-raidel-cae-y-canario-enciende-la-postemporada/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/10/beisbol-cubano-entre-bates-encendidos-y-margenes-estrechos/",
       "destacada": false,
       "tema": "béisbol",
-      "fecha": "Sat, 10 Oct 2026 11:51:27 +0000",
-      "id": 8
+      "fecha": "Sat, 10 Oct 2026 12:08:32 +0000",
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -118,7 +105,7 @@
       "destacada": false,
       "tema": "menos",
       "fecha": "Fri, 09 Oct 2026 19:36:25 +0000",
-      "id": 9
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -131,7 +118,7 @@
       "destacada": false,
       "tema": "tensiones",
       "fecha": "Fri, 09 Oct 2026 20:03:47 +0000",
-      "id": 10
+      "id": 9
     },
     {
       "categoria": "transporte",
@@ -144,7 +131,7 @@
       "destacada": false,
       "tema": "atletas",
       "fecha": "Fri, 09 Oct 2026 20:43:43 +0000",
-      "id": 11
+      "id": 10
     },
     {
       "categoria": "salud",
@@ -157,7 +144,7 @@
       "destacada": false,
       "tema": "servicios",
       "fecha": "Fri, 09 Oct 2026 15:04:50 +0000",
-      "id": 12
+      "id": 11
     },
     {
       "categoria": "economia",
@@ -170,7 +157,7 @@
       "destacada": false,
       "tema": "cardiología",
       "fecha": "Thu, 08 Oct 2026 21:05:55 +0000",
-      "id": 13
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -183,46 +170,98 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Thu, 08 Oct 2026 21:32:08 +0000",
+      "id": 13
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubana denuncia demora en cirugía de su esposo en el hospital Calixto García y pide ayuda",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e13-s27061-nid342492-cubana-denuncia-demora-cirugia-esposo-hospital-calixto",
+      "destacada": false,
+      "tema": "cubana",
+      "fecha": "Sat, 10 Oct 2026 14:45:35 +0200",
       "id": 14
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubana: «¿A dónde irá la vida que se consume en cuentas que no alcanzan?»",
+      "titulo": "Cubano muestra las calles de Panamá tras el terremoto: «Una experiencia horrible»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e209395-s27061-nid342485-cubana-donde-ira-vida-consume-cuentas-alcanzan",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e13-s27061-nid342489-cubano-muestra-calles-panama-tras-terremoto-experiencia",
       "destacada": false,
-      "tema": "cubana",
-      "fecha": "Sat, 10 Oct 2026 08:22:42 +0200",
+      "tema": "cubano",
+      "fecha": "Sat, 10 Oct 2026 14:43:57 +0200",
       "id": 15
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubana ante los basureros en La Habana: «Caminar Cuba entera ahora mismo es sentir asco»",
+      "titulo": "158 años del Grito de Yara: las libertades que reclamó Carlos Manuel de Céspedes siguen restringidas en Cuba",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e209395-s27061-nid342480-cubana-basureros-habana-caminar-cuba-entera-ahora",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e13-s27061-nid342500-158-anos-grito-yara-libertades-reclamo-carlos-manuel",
       "destacada": false,
-      "tema": "cubana",
-      "fecha": "Sat, 10 Oct 2026 06:15:12 +0200",
+      "tema": "grito",
+      "fecha": "Sat, 10 Oct 2026 14:31:43 +0200",
       "id": 16
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "INDER niega desatención a la Gloria Deportiva de Cuba Bernardo Comas",
+      "titulo": "Prensa española alerta del colapso turístico de Cuba: 64% menos visitantes y el PIB caería un 10%",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e209395-s27061-nid342471-inder-niega-desatencion-gloria-deportiva-cuba",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e13-s27061-nid342493-prensa-espanola-alerta-colapso-turistico-cuba-64-menos",
       "destacada": false,
-      "tema": "inder",
-      "fecha": "Sat, 10 Oct 2026 04:19:35 +0200",
+      "tema": "prensa",
+      "fecha": "Sat, 10 Oct 2026 14:27:03 +0200",
       "id": 17
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Precios asequibles? Cubanos reaccionan ante mercado de barrio en Cienfuegos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e199370-s27061-nid342502-precios-asequibles-cubanos-reaccionan-mercado-barrio",
+      "destacada": false,
+      "tema": "precios",
+      "fecha": "Sat, 10 Oct 2026 13:43:29 +0200",
+      "id": 18
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Díaz-Canel a la izquierda en México: «El bloqueo a Cuba es una amenaza para cualquier estado soberano»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e199370-s27061-nid342499-diaz-canel-izquierda-mexico-bloqueo-cuba-amenaza",
+      "destacada": false,
+      "tema": "canel",
+      "fecha": "Sat, 10 Oct 2026 13:11:33 +0200",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Anec La Habana anuncia próximo curso",
+      "resumen": "Se trata de Contabilidad para no contadores",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261010/anec-la-habana-anuncia-proximo-curso/",
+      "destacada": false,
+      "tema": "habana",
+      "fecha": "Sat, 10 Oct 2026 13:00:13 +0000",
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -235,7 +274,7 @@
       "destacada": false,
       "tema": "fiesta",
       "fecha": "Fri, 09 Oct 2026 23:22:52 +0000",
-      "id": 18
+      "id": 21
     },
     {
       "categoria": "economia",
@@ -248,7 +287,20 @@
       "destacada": false,
       "tema": "rostros",
       "fecha": "Fri, 09 Oct 2026 19:20:03 +0000",
-      "id": 19
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Sin datos y en la calle: así se conectan a internet los cubanos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791637242_69320.html",
+      "destacada": false,
+      "tema": "datos",
+      "fecha": "Sat, 10 Oct 2026 15:00:42 +0200",
+      "id": 23
     },
     {
       "categoria": "politica",
@@ -261,7 +313,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sat, 10 Oct 2026 13:59:19 +0200",
-      "id": 20
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -274,7 +326,7 @@
       "destacada": false,
       "tema": "santiago",
       "fecha": "Sat, 10 Oct 2026 13:23:08 +0200",
-      "id": 21
+      "id": 25
     },
     {
       "categoria": "politica",
@@ -287,7 +339,7 @@
       "destacada": false,
       "tema": "cupet",
       "fecha": "Sat, 10 Oct 2026 11:47:14 +0200",
-      "id": 22
+      "id": 26
     },
     {
       "categoria": "salud",
@@ -300,7 +352,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Sat, 10 Oct 2026 01:15:12 +0200",
-      "id": 23
+      "id": 27
     },
     {
       "categoria": "economia",
@@ -313,7 +365,7 @@
       "destacada": false,
       "tema": "exportaciones",
       "fecha": "Fri, 09 Oct 2026 22:35:18 +0200",
-      "id": 24
+      "id": 28
     },
     {
       "categoria": "energia",
@@ -326,7 +378,7 @@
       "destacada": false,
       "tema": "termoeléctrica",
       "fecha": "Fri, 09 Oct 2026 20:33:21 +0200",
-      "id": 25
+      "id": 29
     },
     {
       "categoria": "economia",
@@ -339,7 +391,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 09 Oct 2026 19:24:47 +0200",
-      "id": 26
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -352,7 +404,7 @@
       "destacada": false,
       "tema": "pensar",
       "fecha": "Fri, 09 Oct 2026 18:37:59 +0200",
-      "id": 27
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -365,20 +417,33 @@
       "destacada": false,
       "tema": "ellos",
       "fecha": "Fri, 09 Oct 2026 18:10:58 +0200",
-      "id": 28
+      "id": 32
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El Cubano y su Fe",
-      "resumen": "El cubano y su fe intenta adentrarse en el alma de un pueblo que a pesar de las dificultades e incertidumbres, nunca pierde su Fe en el futuro. El cubano y su Fe, es conducido por el Padre Castor José Álvarez Devesa.",
+      "titulo": "Abriendo Espacios",
+      "resumen": "Un programa dedicado a conocer la realidad de la violencia de género en Cuba. Una espacio para dar voz a la mujer cubana.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480697.html",
+      "enlace_original": "https://www.martinoticias.com/a/480706.html",
       "destacada": false,
-      "tema": "cubano",
-      "fecha": "Sat, 10 Oct 2026 08:00:00 -0400",
-      "id": 29
+      "tema": "abriendo",
+      "fecha": "Sat, 10 Oct 2026 09:00:00 -0400",
+      "id": 33
+    },
+    {
+      "categoria": "economia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Tope o no tope de precios: el debate que renace todos los días",
+      "resumen": "Del dicho al hecho media la vieja disputa entre controlar o liberar precios, topar o no topar. Spoiler: los topes de precios pueden ganar tiempo en una crisis, pero rara vez ganan la guerra. The post Tope o no tope de precios: el debate que renace todos los días first appeared on Cubadebate.",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/10/tope-o-no-tope-de-precios-el-debate-que-renace-todos-los-dias/",
+      "destacada": false,
+      "tema": "precios",
+      "fecha": "Sat, 10 Oct 2026 12:30:20 +0000",
+      "id": 34
     },
     {
       "categoria": "energia",
@@ -391,7 +456,7 @@
       "destacada": false,
       "tema": "frustran",
       "fecha": "Sat, 10 Oct 2026 04:36:35 +0000",
-      "id": 30
+      "id": 35
     },
     {
       "categoria": "politica",
@@ -404,7 +469,7 @@
       "destacada": false,
       "tema": "cocinar",
       "fecha": "Sat, 10 Oct 2026 04:06:43 +0000",
-      "id": 31
+      "id": 36
     },
     {
       "categoria": "transporte",
@@ -417,7 +482,7 @@
       "destacada": false,
       "tema": "villa",
       "fecha": "Sat, 10 Oct 2026 03:40:32 +0000",
-      "id": 32
+      "id": 37
     },
     {
       "categoria": "politica",
@@ -430,7 +495,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sat, 10 Oct 2026 03:08:22 +0000",
-      "id": 33
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -443,20 +508,7 @@
       "destacada": false,
       "tema": "serie",
       "fecha": "Sat, 10 Oct 2026 01:33:12 +0000",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Badalona rinde homenaje al Che en el aniversario 59 de su asesinato",
-      "resumen": "Badalona acogió el tradicional homenaje al Che Guevara, dedicado este año a expresar solidaridad con Cuba ante el bloqueo estadounidense y las dificultades que enfrenta la población. The post Badalona rinde homenaje al Che en el aniversario 59 de su asesinato first appeared on Cubadebate.",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/09/badalona-rinde-homenaje-al-che-en-el-aniversario-59-de-su-asesinato/",
-      "destacada": false,
-      "tema": "badalona",
-      "fecha": "Sat, 10 Oct 2026 00:46:46 +0000",
-      "id": 35
+      "id": 39
     },
     {
       "categoria": "salud",
@@ -469,7 +521,20 @@
       "destacada": false,
       "tema": "salud",
       "fecha": "Fri, 09 Oct 2026 15:42:11 +0000",
-      "id": 36
+      "id": 40
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Mirada a la Guerra Grande en Cuba",
+      "resumen": "Noel Manzanares Blanco* - Radio Cadena Agramonte - Cubainformación.- Dio lugar a la emergencia de pr...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125406-mirada-a-la-guerra-grande-en-cuba.jpg?t=1791636843",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261010/125406/125406-mirada-a-la-guerra-grande-en-cuba",
+      "destacada": false,
+      "tema": "mirada",
+      "fecha": "Sat, 10 Oct 26 14:54:00 +0200",
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -482,7 +547,7 @@
       "destacada": false,
       "tema": "fracaso",
       "fecha": "Sat, 10 Oct 26 10:33:00 +0200",
-      "id": 37
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -495,7 +560,7 @@
       "destacada": false,
       "tema": "representante",
       "fecha": "Sat, 10 Oct 26 10:30:00 +0200",
-      "id": 38
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -508,7 +573,7 @@
       "destacada": false,
       "tema": "brasil",
       "fecha": "Sat, 10 Oct 26 10:27:00 +0200",
-      "id": 39
+      "id": 44
     },
     {
       "categoria": "politica",
@@ -521,7 +586,7 @@
       "destacada": false,
       "tema": "canciller",
       "fecha": "Sat, 10 Oct 26 10:15:00 +0200",
-      "id": 40
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -534,7 +599,7 @@
       "destacada": false,
       "tema": "evasión",
       "fecha": "Sat, 10 Oct 26 10:12:00 +0200",
-      "id": 41
+      "id": 46
     },
     {
       "categoria": "transporte",
@@ -547,7 +612,7 @@
       "destacada": false,
       "tema": "datos",
       "fecha": "Sat, 10 Oct 26 09:39:00 +0200",
-      "id": 42
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -560,7 +625,7 @@
       "destacada": false,
       "tema": "brechas",
       "fecha": "Sat, 10 Oct 26 07:00:00 +0200",
-      "id": 43
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -573,7 +638,46 @@
       "destacada": false,
       "tema": "poner",
       "fecha": "Fri, 09 Oct 2026 12:04:00 +0000",
-      "id": 44
+      "id": 49
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Generaciones de cubanos y latinoamericanos evocan legado del Guerrillero Heroico Ernesto Che Guevara",
+      "resumen": "El Che dedicó su vida a luchar por la justicia social, frente al colonialismo y el imperialismo que sustentaba la explotación del hombre por el hombre, cercenando la soberanía e independencia de los pueblos del Sur La entrada Generaciones de cubanos y latinoamericanos evocan legado del Guerrillero H",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/generaciones-de-cubanos-y-latinoamericanos-evocan-legado-del-guerrillero-heroico-ernesto-che-guevara/",
+      "destacada": false,
+      "tema": "generaciones",
+      "fecha": "Fri, 09 Oct 2026 20:07:14 +0000",
+      "id": 50
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Actualizan sobre trabajos de rehabilitación de redes de gas manufacturado en Infanta y Manglar",
+      "resumen": "La Empresa de Gas Manufacturado reitera el llamado a peatones y conductores a respetar las señalizaciones en la vía pública para evitar accidentes La entrada Actualizan sobre trabajos de rehabilitación de redes de gas manufacturado en Infanta y Manglar se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/actualizan-sobre-trabajos-de-rehabilitacion-de-redes-de-gas-manufacturado-en-infanta-y-manglar/",
+      "destacada": false,
+      "tema": "actualizan",
+      "fecha": "Fri, 09 Oct 2026 19:53:16 +0000",
+      "id": 51
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Operación ZR/Rifle: los más de 600 proyectos de asesinar a Fidel",
+      "resumen": "En el tradicional espacio ¨Sábado del Libro¨ se presentará este 10 de octubre el título “La Guerra Secreta: Operación ZR/Rifle”, del General de División ( r) Fabián Escalante Font La entrada Operación ZR/Rifle: los más de 600 proyectos de asesinar a Fidel se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/operacion-zr-rifle-los-mas-de-600-proyectos-de-asesinar-a-fidel/",
+      "destacada": false,
+      "tema": "operación",
+      "fecha": "Fri, 09 Oct 2026 18:20:40 +0000",
+      "id": 52
     },
     {
       "categoria": "transporte",
@@ -586,7 +690,7 @@
       "destacada": false,
       "tema": "extiende",
       "fecha": "Fri, 09 Oct 2026 13:50:41 +0000",
-      "id": 45
+      "id": 53
     },
     {
       "categoria": "transporte",
@@ -599,7 +703,7 @@
       "destacada": false,
       "tema": "ferrer",
       "fecha": "Fri, 09 Oct 2026 12:34:00 +0000",
-      "id": 46
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -612,20 +716,7 @@
       "destacada": false,
       "tema": "matanzas",
       "fecha": "Thu, 08 Oct 2026 15:13:42 +0000",
-      "id": 47
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "ETECSA restablece los servicios afectados el pasado 5 de octubre",
-      "resumen": "La Empresa de Telecomunicaciones de Cuba (ETECSA) informó este miércoles que quedaron restablecidos los servicios afectados desde la mañana del lunes 5 de octubre...",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/08/etecsa-restablece-servicios-afectados/",
-      "destacada": false,
-      "tema": "etecsa",
-      "fecha": "Thu, 08 Oct 2026 12:20:00 +0000",
-      "id": 48
+      "id": 55
     }
   ]
 }
