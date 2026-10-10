@@ -1,33 +1,72 @@
 {
   "fecha": "2026-10-10",
-  "hora": "15:04",
-  "total": 52,
+  "hora": "17:04",
+  "total": 49,
   "noticias": [
     {
-      "categoria": "salud",
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba y el Nobel, nominaciones y ausencias",
+      "resumen": "A propósito del reciente anuncio de los Premios Nobel 2026, un recorrido por las candidaturas cubanas",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-10/cuba-y-el-nobel-nominaciones-y-ausencias-10-10-2026-09-10-41",
+      "destacada": true,
+      "tema": "nobel",
+      "fecha": "Sat, 10 Oct 2026 09:10:41 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "«La solidaridad puede convertirse en una fuerza más poderosa que cualquier bloqueo»",
+      "resumen": "Otorgan Premio de la Paz Seán MacBride 2026 a la Freedom Flotilla Coalition, la Global Sumud Flotilla y el Convoy Nuestra América",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-09/la-solidaridad-puede-convertirse-en-una-fuerza-mas-poderosa-que-cualquier-bloqueo-09-10-2026-13-10-26",
+      "destacada": true,
+      "tema": "solidaridad",
+      "fecha": "Fri, 09 Oct 2026 13:10:26 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Impulsan sistemas alimentarios sostenibles en el occidente de Cuba",
+      "resumen": "El proyecto fortalece sus capacidades operativas con el propósito de ampliar el monitoreo en los territorios y el acompañamiento técnico a productores, cooperativas, gobiernos locales, instituciones científicas y otros actores vinculados a su implementación",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-10/impulsan-sistemas-alimentarios-sostenibles-en-el-occidente-de-cuba-10-10-2026-08-10-45",
+      "destacada": true,
+      "tema": "impulsan",
+      "fecha": "Sat, 10 Oct 2026 08:10:45 -0400",
+      "id": 3
+    },
+    {
+      "categoria": "politica",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Argentinos relanzan campaña por más paneles solares para Cuba",
-      "resumen": "Buenos Aires, 10 oct (Prensa Latina) Luego de llevar a la isla equipos de paneles solares para familias con enfermos electrodependientes, el Movimiento Argentino de Solidaridad reimpulsa hoy la campaña “Estamos con Cuba” para adquirir dos sistemas más potentes para un hospital en La Habana. The post",
+      "titulo": "Canciller cubano felicita al Partido del Trabajo de Corea",
+      "resumen": "La Habana, 10 oct (Prensa Latina) El canciller de Cuba, Bruno Rodríguez, felicitó hoy al Partido del Trabajo de Corea por el aniversario 81 de su fundación y reafirmó la voluntad de fortalecer los vínculos históricos bilaterales. The post Canciller cubano felicita al Partido del Trabajo de Corea fir",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/10/argentinos-relanzan-campana-por-mas-paneles-solares-para-cuba/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/10/canciller-cubano-felicita-al-partido-del-trabajo-de-corea/",
       "destacada": true,
-      "tema": "argentinos",
-      "fecha": "Sat, 10 Oct 2026 14:58:30 +0000",
-      "id": 1
+      "tema": "canciller",
+      "fecha": "Sat, 10 Oct 2026 16:58:24 +0000",
+      "id": 4
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba lanza jornada de celebración por aniversario 68 de la Revolución",
-      "resumen": "La Habana, 10 oct (Prensa Latina) Cuba lanzó hoy la convocatoria a la jornada conmemorativa por el aniversario 68 del Triunfo de la Revolución, a celebrarse el próximo 1 de enero en un contexto marcado por el recrudecimiento del bloqueo de Estados Unidos. The post Cuba lanza jornada de celebración p",
+      "titulo": "Autoridades cubanas evocan inicio de las luchas independentistas",
+      "resumen": "La Habana, 10 oct (Prensa Latina) Autoridades cubanas evocaron hoy el aniversario 158 del inicio de las luchas por la independencia, fecha que marcó el comienzo de la guerra contra el colonialismo español y abrió el camino hacia la construcción de la nación. The post Autoridades cubanas evocan inici",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/10/cuba-lanza-jornada-de-celebracion-por-aniversario-68-de-la-revolucion/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/10/autoridades-cubanas-evocan-inicio-de-las-luchas-independentistas/",
       "destacada": true,
-      "tema": "lanza",
-      "fecha": "Sat, 10 Oct 2026 14:38:58 +0000",
-      "id": 2
+      "tema": "autoridades",
+      "fecha": "Sat, 10 Oct 2026 16:48:53 +0000",
+      "id": 5
     },
     {
       "categoria": "economia",
@@ -37,10 +76,10 @@
       "resumen": "Caracas llegó a mandar a la Isla hasta 157.000 barriles diarios, tres veces más que la cantidad acordada con Hugo Chávez en el año 2000",
       "imagen_url": "https://static.14ymedio.com/clip/a4b67a1b-d0f4-45a9-9bd8-c198c7467a3e_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/expertos-evaluan-deuda-petrolera-cuba_1_1131795.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sat, 10 Oct 2026 14:37:50 +0000",
-      "id": 3
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -50,10 +89,10 @@
       "resumen": "La empresa internacional contratado por Madrid está sometida a la regla que obliga las sedes diplomáticas en Cuba a pasar por la estatal Palco para gestionar su personal",
       "imagen_url": "https://static.14ymedio.com/clip/5a5e2c55-f7e6-4d4b-bef3-40e7721912c4_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/cola-servicio-agil-nuevo-centro_1_1131761.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "menos",
       "fecha": "Fri, 09 Oct 2026 19:36:25 +0000",
-      "id": 4
+      "id": 7
     },
     {
       "categoria": "salud",
@@ -63,10 +102,10 @@
       "resumen": "Las autoridades sanitarias de Camagüey amenazan con \"todo el rigor de la ley a quienes infrinjan la normativa”",
       "imagen_url": "https://static.14ymedio.com/clip/a09a3225-236d-43c3-bded-d22b131f6356_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/servicios-medicos-privados-cuba-gobierno_1_1131738.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "servicios",
       "fecha": "Fri, 09 Oct 2026 15:04:50 +0000",
-      "id": 5
+      "id": 8
     },
     {
       "categoria": "economia",
@@ -79,105 +118,66 @@
       "destacada": false,
       "tema": "cardiología",
       "fecha": "Thu, 08 Oct 2026 21:05:55 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Nueva decisión de la BIA dificulta el asilo en EE.UU. a ciudadanos de la UE: Qué implica para los cubanos con pasaporte español",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e199370-s27061-nid342510-nueva-decision-bia-dificulta-asilo-eeuu-ciudadanos",
-      "destacada": false,
-      "tema": "nueva",
-      "fecha": "Sat, 10 Oct 2026 15:42:56 +0200",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Madre denuncia 15 días en celda de castigo para preso político cubano por recitar un poema",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e13-s27061-nid342498-madre-denuncia-15-dias-celda-castigo-preso-politico",
-      "destacada": false,
-      "tema": "madre",
-      "fecha": "Sat, 10 Oct 2026 15:06:01 +0200",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Aymée Nuviola contra el régimen cubano: «No he visto gente que odie más a su propio pueblo»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e13-s27061-nid342494-aymee-nuviola-contra-regimen-cubano-he-visto-gente-odie",
-      "destacada": false,
-      "tema": "aymée",
-      "fecha": "Sat, 10 Oct 2026 15:02:17 +0200",
       "id": 9
     },
     {
-      "categoria": "sociedad",
+      "categoria": "energia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Otero Alcántara: «El gran problema de la dictadura cubana es la corrupción»",
+      "titulo": "El Grito de Yara, a oscuras: Cuba llega al 10 de octubre tras semanas de apagones extremos",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e13-s27061-nid342495-otero-alcantara-gran-problema-dictadura-cubana",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e13-s27061-nid342507-grito-yara-oscuras-cuba-llega-al-10-octubre-tras-semanas",
       "destacada": false,
-      "tema": "otero",
-      "fecha": "Sat, 10 Oct 2026 15:00:46 +0200",
+      "tema": "grito",
+      "fecha": "Sat, 10 Oct 2026 17:24:29 +0200",
       "id": 10
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubalex registra 12 muertes bajo custodia del régimen cubano en septiembre",
+      "titulo": "158 años del Grito de Yara y más de 1.300 presos políticos en Cuba",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e199370-s27061-nid342504-cubalex-registra-12-muertes-bajo-custodia-regimen",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e13-s27061-nid342506-158-anos-grito-yara-1300-presos-politicos-cuba",
       "destacada": false,
-      "tema": "cubalex",
-      "fecha": "Sat, 10 Oct 2026 14:55:05 +0200",
+      "tema": "grito",
+      "fecha": "Sat, 10 Oct 2026 16:57:22 +0200",
       "id": 11
     },
     {
-      "categoria": "salud",
+      "categoria": "economia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubana denuncia demora en cirugía de su esposo en el hospital Calixto García y pide ayuda",
+      "titulo": "¿Cuánto vale el dólar en Cuba este fin de semana? Así amanece el mercado informal",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e13-s27061-nid342492-cubana-denuncia-demora-cirugia-esposo-hospital-calixto",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e199370-s27061-nid342515-cuanto-vale-dolar-cuba-este-fin-semana-asi-amanece",
       "destacada": false,
-      "tema": "cubana",
-      "fecha": "Sat, 10 Oct 2026 14:45:35 +0200",
+      "tema": "tipo_cambio",
+      "fecha": "Sat, 10 Oct 2026 16:51:51 +0200",
       "id": 12
     },
     {
-      "categoria": "sociedad",
+      "categoria": "energia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubano muestra las calles de Panamá tras el terremoto: «Una experiencia horrible»",
+      "titulo": "Cuba no traslada al lunes el descanso del 10 de octubre: quién cobra doble y cuánto corresponde pagar",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e13-s27061-nid342489-cubano-muestra-calles-panama-tras-terremoto-experiencia",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-10-u1-e13-s27061-nid342513-cuba-traslada-al-lunes-descanso-10-octubre-quien-cobra",
       "destacada": false,
-      "tema": "cubano",
-      "fecha": "Sat, 10 Oct 2026 14:43:57 +0200",
+      "tema": "traslada",
+      "fecha": "Sat, 10 Oct 2026 16:50:35 +0200",
       "id": 13
     },
     {
-      "categoria": "sociedad",
+      "categoria": "politica",
       "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "alternativa",
       "titulo": "La Demajagua, inicio de libertad",
-      "resumen": "El 10 de Octubre de 1868, justo un sábado hace 158 años, Céspedes lanzó el grito de independencia en el batey de su ingenio La Demajagua. Se convertía en el jefe de la revolución que recién comenzaba a fraguarse y juró ante la bandera cubana, luchar hasta alcanzar la libertad de la Patria",
+      "resumen": "Miguel Díaz-Canel Bermúdez, Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, asistió hoy al acto por el aniversario 158 del inicio de la primera de las contiendas por la independencia que pasaría a la historia nacional como la Guerra de los Diez Años",
       "imagen_url": "",
       "enlace_original": "https://www.trabajadores.cu/20261010/la-demajagua-inicio-de-libertad/",
       "destacada": false,
@@ -228,6 +228,32 @@
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
+      "titulo": "Sin libros y sin llamadas, el castigo del escritor cubano Barrenechea en la cárcel de Guamajal",
+      "resumen": "El #escritorcubano #JoséGabrielBarrenechea fue trasladado a un penal de máximo rigor, donde comparte cubículo con reclusos violentos. Está sin acceso a libros y a llamadas, denuncia el #InstitutoPatmos.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1791649749_69335.html",
+      "destacada": false,
+      "tema": "libros",
+      "fecha": "Sat, 10 Oct 2026 18:29:09 +0200",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "'Vivo sin dormir porque me llevan los animales': el hurto y sacrificio ilegal, sin freno en Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791648047_69321.html",
+      "destacada": false,
+      "tema": "dormir",
+      "fecha": "Sat, 10 Oct 2026 18:00:47 +0200",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
       "titulo": "Suman 200 los sanitarios cubanos en Jamaica con contratos individuales y sin tajada para La Habana",
       "resumen": "#Jamaica recontrata a cubanos y ya son 200 sanitarios en su sistema público, sin intermediación de #LaHabana. \"Nos han dado permiso de trabajo y residencia\", dice una enfermera a #DiarioDeCuba.",
       "imagen_url": "",
@@ -235,7 +261,7 @@
       "destacada": false,
       "tema": "suman",
       "fecha": "Sat, 10 Oct 2026 16:33:58 +0200",
-      "id": 18
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -248,7 +274,7 @@
       "destacada": false,
       "tema": "datos",
       "fecha": "Sat, 10 Oct 2026 15:00:42 +0200",
-      "id": 19
+      "id": 21
     },
     {
       "categoria": "politica",
@@ -261,7 +287,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sat, 10 Oct 2026 13:59:19 +0200",
-      "id": 20
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -274,7 +300,7 @@
       "destacada": false,
       "tema": "santiago",
       "fecha": "Sat, 10 Oct 2026 13:23:08 +0200",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "politica",
@@ -287,7 +313,7 @@
       "destacada": false,
       "tema": "cupet",
       "fecha": "Sat, 10 Oct 2026 11:47:14 +0200",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "salud",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Sat, 10 Oct 2026 01:15:12 +0200",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "economia",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "exportaciones",
       "fecha": "Fri, 09 Oct 2026 22:35:18 +0200",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "energia",
@@ -326,72 +352,20 @@
       "destacada": false,
       "tema": "termoeléctrica",
       "fecha": "Fri, 09 Oct 2026 20:33:21 +0200",
-      "id": 25
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Casi 75 millones de dólares en un mes: récord de las exportaciones de combustible de EEUU a Cuba",
-      "resumen": "Las exportaciones de #combustible de #EEUU a #Cuba alcanzaron un récord en agosto, con casi 75 millones de dólares. En 2026, las ventas rozan los 232 millones y confirman su tendencia al alza.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1791566687_69327.html",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Fri, 09 Oct 2026 19:24:47 +0200",
-      "id": 26
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Pensar el arte desde el agotamiento. La curadora cubana Dayneris Brito, en París",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cultura/1791563879_69326.html",
-      "destacada": false,
-      "tema": "pensar",
-      "fecha": "Fri, 09 Oct 2026 18:37:59 +0200",
       "id": 27
     },
     {
-      "categoria": "economia",
+      "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El agua, un lujo cada vez más caro en La Habana",
-      "resumen": "Mientras persisten los problemas de abastecimiento, muchas familias habaneras se ven obligadas a pagar precios exorbitantes para acceder al agua. Los vendedores en bicitaxis y camiones eléctricos cobran entre 2.000 y 3.000 pesos cubanos por un tanque de 55 galones.",
+      "titulo": "De cara al sol",
+      "resumen": "“De cara al sol” es una tribuna martiana que da voz a quienes bajo el régimen dictatorial cubano. Para Cuba que sufre, nuestra primera palabra; para quienes dentro de Cuba son llevados a oscuras prisiones, el primer pensamiento.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/el-agua-un-lujo-cada-vez-m%c3%a1s-caro-en-la-habana/481737.html",
+      "enlace_original": "https://www.martinoticias.com/a/480716.html",
       "destacada": false,
-      "tema": "habana",
-      "fecha": "Sat, 10 Oct 2026 10:17:54 -0400",
+      "tema": "",
+      "fecha": "Sat, 10 Oct 2026 12:30:00 -0400",
       "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Incomunicado y encerrado junto a reos violentos, el escritor cubano José Gabriel Barrenechea",
-      "resumen": "El escritor y periodista independiente José Gabriel Barrenechea Chávez fue trasladado a la prisión de Guamajal, en Santa Clara, donde permanece incomunicado y con restricciones para recibir libros y libretas, denunció el pastor Mario Félix Lleonart, director del Instituto Patmos.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/incomunicado-y-encerrado-junto-a-reos-violentos-el-escritor-cubano-jos%c3%a9-gabriel-barrenechea/481646.html",
-      "destacada": false,
-      "tema": "incomunicado",
-      "fecha": "Sat, 10 Oct 2026 09:19:00 -0400",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Abriendo Espacios",
-      "resumen": "Un programa dedicado a conocer la realidad de la violencia de género en Cuba. Una espacio para dar voz a la mujer cubana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480706.html",
-      "destacada": false,
-      "tema": "abriendo",
-      "fecha": "Sat, 10 Oct 2026 09:00:00 -0400",
-      "id": 30
     },
     {
       "categoria": "politica",
@@ -404,7 +378,7 @@
       "destacada": false,
       "tema": "preside",
       "fecha": "Sat, 10 Oct 2026 15:06:46 +0000",
-      "id": 31
+      "id": 29
     },
     {
       "categoria": "economia",
@@ -417,7 +391,7 @@
       "destacada": false,
       "tema": "precios",
       "fecha": "Sat, 10 Oct 2026 12:30:20 +0000",
-      "id": 32
+      "id": 30
     },
     {
       "categoria": "energia",
@@ -430,7 +404,7 @@
       "destacada": false,
       "tema": "frustran",
       "fecha": "Sat, 10 Oct 2026 04:36:35 +0000",
-      "id": 33
+      "id": 31
     },
     {
       "categoria": "politica",
@@ -443,20 +417,7 @@
       "destacada": false,
       "tema": "cocinar",
       "fecha": "Sat, 10 Oct 2026 04:06:43 +0000",
-      "id": 34
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Villa Clara abre primera tienda de Cuba para la venta minorista de madera y subproductos forestales",
-      "resumen": "“La Casa del Forestal” comercializa tablas, vigas, tableros de construcción, posturas de plantas y otros recursos agroforestales, con pagos en efectivo y por vía electrónica. The post Villa Clara abre primera tienda de Cuba para la venta minorista de madera y subproductos forestales first appeared o",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/09/villa-clara-abre-primera-tienda-de-cuba-para-la-venta-minorista-de-madera-y-subproductos-forestales/",
-      "destacada": false,
-      "tema": "villa",
-      "fecha": "Sat, 10 Oct 2026 03:40:32 +0000",
-      "id": 35
+      "id": 32
     },
     {
       "categoria": "salud",
@@ -469,7 +430,7 @@
       "destacada": false,
       "tema": "salud",
       "fecha": "Fri, 09 Oct 2026 15:42:11 +0000",
-      "id": 36
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -482,7 +443,7 @@
       "destacada": false,
       "tema": "mirada",
       "fecha": "Sat, 10 Oct 26 14:54:00 +0200",
-      "id": 37
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -495,7 +456,7 @@
       "destacada": false,
       "tema": "fracaso",
       "fecha": "Sat, 10 Oct 26 10:33:00 +0200",
-      "id": 38
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -508,7 +469,7 @@
       "destacada": false,
       "tema": "representante",
       "fecha": "Sat, 10 Oct 26 10:30:00 +0200",
-      "id": 39
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -521,7 +482,7 @@
       "destacada": false,
       "tema": "brasil",
       "fecha": "Sat, 10 Oct 26 10:27:00 +0200",
-      "id": 40
+      "id": 37
     },
     {
       "categoria": "politica",
@@ -534,7 +495,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sat, 10 Oct 26 10:19:00 +0200",
-      "id": 41
+      "id": 38
     },
     {
       "categoria": "politica",
@@ -547,7 +508,7 @@
       "destacada": false,
       "tema": "canciller",
       "fecha": "Sat, 10 Oct 26 10:15:00 +0200",
-      "id": 42
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -560,7 +521,7 @@
       "destacada": false,
       "tema": "evasión",
       "fecha": "Sat, 10 Oct 26 10:12:00 +0200",
-      "id": 43
+      "id": 40
     },
     {
       "categoria": "transporte",
@@ -573,7 +534,7 @@
       "destacada": false,
       "tema": "datos",
       "fecha": "Sat, 10 Oct 26 09:39:00 +0200",
-      "id": 44
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -586,19 +547,58 @@
       "destacada": false,
       "tema": "brechas",
       "fecha": "Sat, 10 Oct 26 07:00:00 +0200",
+      "id": 42
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.guerrillero.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Encabeza Díaz-Canel acto por inicio de las luchas independentistas",
+      "resumen": "&#160;Miguel Díaz-Canel Bermúdez, Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, asiste hoy al acto por el aniversario 158 del inicio de la primera de las contiendas por la independencia que pasaría a la historia nacional como la Guerra de los Diez A",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/encabeza-diaz-canel-acto-por-inicio-de-las-luchas-independentistas/",
+      "destacada": false,
+      "tema": "encabeza",
+      "fecha": "Sat, 10 Oct 2026 16:06:01 +0000",
+      "id": 43
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.guerrillero.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Poner los pies en el campo (II)",
+      "resumen": "Epígrafe: Ley de Tierra Agropecuaria y Forestal La Ley 185 de la Tierra Agropecuaria y Forestal incluye un conjunto de 19 normas jurídicas que actualizan el marco legal de la agricultura cubana en aras de dinamizar la producción de alimentos y avanzar hacia la soberanía alimentaria. La reciente legi",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/poner-los-pies-en-el-campo-ii/",
+      "destacada": false,
+      "tema": "poner",
+      "fecha": "Fri, 09 Oct 2026 12:04:00 +0000",
+      "id": 44
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Céspedes vuelve a la plaza",
+      "resumen": "Ante el monumento al Padre de la Patria, La Habana conmemoró el aniversario 158 del inicio de las luchas por la independencia de Cuba, con la presencia del Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez La entrada Céspedes ",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/cespedes-vuelve-a-la-plaza/",
+      "destacada": false,
+      "tema": "céspedes",
+      "fecha": "Sat, 10 Oct 2026 15:55:18 +0000",
       "id": 45
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://actualidad.rt.com",
+      "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "\"Pelearon hasta la última munición\": Petro rinde homenaje a los 32 cubanos fallecidos durante el secuestro de Maduro",
-      "resumen": "Según el exmandatario, los cadáveres fueron salvados de \"caer en manos de Estados Unidos\" solo gracias a un sobreviviente.",
-      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6aca396ee9ff71796d052107.jpg",
-      "enlace_original": "https://actualidad-rt.com/actualidad/631839-solos-petro-homenaje-cubanos-secuestro-maduro?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "titulo": "Injerto, fractura y renacimiento",
+      "resumen": "La exposición del artista Alberto Domínguez estará abierta hasta noviembre en el Centro Hispanoamericano de Cultura La entrada Injerto, fractura y renacimiento se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/injerto-fractura-y-renacimiento/",
       "destacada": false,
-      "tema": "pelearon",
-      "fecha": "Sat, 10 Oct 2026 13:28:57 +0000",
+      "tema": "injerto",
+      "fecha": "Sat, 10 Oct 2026 16:50:26 +0000",
       "id": 46
     },
     {
@@ -616,32 +616,6 @@
     },
     {
       "categoria": "transporte",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Actualizan sobre trabajos de rehabilitación de redes de gas manufacturado en Infanta y Manglar",
-      "resumen": "La Empresa de Gas Manufacturado reitera el llamado a peatones y conductores a respetar las señalizaciones en la vía pública para evitar accidentes La entrada Actualizan sobre trabajos de rehabilitación de redes de gas manufacturado en Infanta y Manglar se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/actualizan-sobre-trabajos-de-rehabilitacion-de-redes-de-gas-manufacturado-en-infanta-y-manglar/",
-      "destacada": false,
-      "tema": "actualizan",
-      "fecha": "Fri, 09 Oct 2026 19:53:16 +0000",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Operación ZR/Rifle: los más de 600 proyectos de asesinar a Fidel",
-      "resumen": "En el tradicional espacio ¨Sábado del Libro¨ se presentará este 10 de octubre el título “La Guerra Secreta: Operación ZR/Rifle”, del General de División ( r) Fabián Escalante Font La entrada Operación ZR/Rifle: los más de 600 proyectos de asesinar a Fidel se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/operacion-zr-rifle-los-mas-de-600-proyectos-de-asesinar-a-fidel/",
-      "destacada": false,
-      "tema": "operación",
-      "fecha": "Fri, 09 Oct 2026 18:20:40 +0000",
-      "id": 49
-    },
-    {
-      "categoria": "transporte",
       "fuente": "https://giron.cu/",
       "fuente_tipo": "alternativa",
       "titulo": "Extiende Mitrans inscripción de vehículos armados por partes y piezas",
@@ -651,7 +625,7 @@
       "destacada": false,
       "tema": "extiende",
       "fecha": "Fri, 09 Oct 2026 13:50:41 +0000",
-      "id": 50
+      "id": 48
     },
     {
       "categoria": "transporte",
@@ -664,20 +638,7 @@
       "destacada": false,
       "tema": "ferrer",
       "fecha": "Fri, 09 Oct 2026 12:34:00 +0000",
-      "id": 51
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Matanzas a las puertas de jornadas por la cultura",
-      "resumen": "Matanzas acogerá del 10 al 20 de octubre la 51 Semana de la Cultura Matancera y la Jornada de la Cultura Cubana, una programación integrada por 245...",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/08/matanzas-jornadas-por-la-cultura/",
-      "destacada": false,
-      "tema": "matanzas",
-      "fecha": "Thu, 08 Oct 2026 15:13:42 +0000",
-      "id": 52
+      "id": 49
     }
   ]
 }
