@@ -1,8 +1,47 @@
 {
   "fecha": "2026-10-11",
-  "hora": "13:07",
-  "total": 57,
+  "hora": "15:05",
+  "total": 60,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Película cubana Neurótica Anónima nominada a los Goya",
+      "resumen": "El filme de Jorge Perugorría aspira en la categoría de Mejor Película Iberoamericana",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-11/pelicula-cubana-neurotica-anonima-nominada-a-los-goya-11-10-2026-10-10-10",
+      "destacada": true,
+      "tema": "película",
+      "fecha": "Sun, 11 Oct 2026 10:10:10 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Demajagua: Semilla de la emancipación nacional",
+      "resumen": "El 10 de octubre de 1868, en el ingenio Demajagua, Carlos Manuel de Céspedes inició la lucha armada&nbsp;por la independencia de Cuba. Aquel alzamiento no fue solo un hecho militar: se convirtió en símbolo&nbsp;de valentía y altruismo, en semilla viva que todo cubano debería evocar con reverencia",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-09/demajagua-semilla-de-la-emancipacion-nacional-09-10-2026-16-10-38",
+      "destacada": true,
+      "tema": "demajagua",
+      "fecha": "Fri, 09 Oct 2026 16:10:38 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Las heridas del cerco económico también tienen rostro de mujer",
+      "resumen": "Las consecuencias del bloqueo contra la Isla recaen de manera&nbsp;desproporcionada sobre las mujeres y las niñas",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-09/las-heridas-del-cerco-economico-tambien-tienen-rostro-de-mujer-09-10-2026-18-10-25",
+      "destacada": true,
+      "tema": "heridas",
+      "fecha": "Fri, 09 Oct 2026 18:10:25 -0400",
+      "id": 3
+    },
     {
       "categoria": "politica",
       "fuente": "https://www.granma.cu",
@@ -14,59 +53,46 @@
       "destacada": true,
       "tema": "canciller",
       "fecha": "Sat, 10 Oct 2026 16:10:02 -0400",
-      "id": 1
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "La zona de Defensa es estratégica para enfrentar una situación excepcional",
-      "resumen": "La Zona de Defensa Camilo Cienfuegos, en el municipio Habana del Este, agrupa a cerca de 8 800 pobladores y ha centrado su labor en fortalecer la preparación de las&nbsp;23 brigadas de producción y defensa",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-09/la-zona-de-defensa-es-estrategica-para-enfrentar-una-situacion-excepcional-09-10-2026-14-10-38",
-      "destacada": true,
-      "tema": "defensa",
-      "fecha": "Fri, 09 Oct 2026 14:10:38 -0400",
-      "id": 2
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "La defensa también pasa por cómo pensamos el presente y el futuro del país desde la comunidad (+ Video)",
-      "resumen": "El Presidente del Consejo de Defensa Nacional, Miguel Díaz-Canel Bermúdez, participó este viernes, Día Nacional de la Defensa, en un ejercicio del Consejo de Defensa de Zona Colón Nuevo Vedado, en el municipio capitalino de Plaza de la Revolución",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-09/la-defensa-tambien-pasa-por-como-pensamos-el-presente-y-el-futuro-del-pais-desde-la-comunidad-09-10-2026-18-10-47",
-      "destacada": true,
-      "tema": "defensa",
-      "fecha": "Fri, 09 Oct 2026 18:10:47 -0400",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Pinar remontó y ganó en la fecha cuando se acabaron los invictos",
-      "resumen": "También Sancti Spíritus igualó a Santiago de Cuba en la punta de la región oriental",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-10-10/pinar-remonto-y-gano-en-la-fecha-cuando-se-acabaron-los-invictos-10-10-2026-14-10-12",
-      "destacada": true,
-      "tema": "pinar",
-      "fecha": "Sat, 10 Oct 2026 14:10:12 -0400",
       "id": 4
     },
     {
-      "categoria": "energia",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Escritora cubana María Elena Llana, propuesta al Premio Cervantes 2026",
-      "resumen": "Con esta nominación, la autora de Casas del Vedado se une a Fina García Marruz y Dulce María Loynaz —quien lo obtuvo en 1992— como las únicas cubanas en ser postuladas a este galardón",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-10/escritora-cubana-maria-elena-llana-propuesta-al-premio-cervantes-2026-10-10-2026-15-10-25",
+      "categoria": "economia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Puros de lujo para el mundo, tabaco “del malo” para los fumadores cubanos",
+      "resumen": "Habanos S.A. vende en Londres estuches de tres Cohiba por 860 dólares, mientras en la Isla se fuma ejemplares sin marca por 150 pesos",
+      "imagen_url": "https://static.14ymedio.com/clip/377fca68-2a59-4c0a-9a76-6aa58de3a7b4_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/puros-lujo-mundo-tabaco-malo_1_1131819.html",
       "destacada": true,
-      "tema": "escritora",
-      "fecha": "Sat, 10 Oct 2026 15:10:25 -0400",
+      "tema": "puros",
+      "fecha": "Sun, 11 Oct 2026 13:18:57 +0000",
       "id": 5
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El régimen tilda de “persecución enfermiza” el informe de EE UU sobre los médicos cubanos",
+      "resumen": "El canciller califica de “unilateral y mendaz” el documento sobre el trabajo forzoso en las misiones sanitarias, pero no desmiente las cifras ni los mecanismos de control que describe el reporte",
+      "imagen_url": "https://static.14ymedio.com/clip/38fa9ae1-8fe2-45a6-b5d7-beb1da3ce7e4_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/bruno-rodriguez-tilda-persecucion-enfermiza_1_1131809.html",
+      "destacada": false,
+      "tema": "régimen",
+      "fecha": "Sun, 11 Oct 2026 11:15:41 +0000",
+      "id": 6
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Díaz-Canel reafirma su amistad con Corea del Norte tras reducir su presencia diplomática en Seúl",
+      "resumen": "La Habana retiró sin explicaciones a la mitad de sus diplomáticos en Corea del Sur, aunque niega que la decisión tenga motivaciones políticas",
+      "imagen_url": "https://static.14ymedio.com/clip/bb3c4984-546c-4a96-98d4-02236d675571_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/diaz-canel-reafirma-amistad-corea_1_1131811.html",
+      "destacada": false,
+      "tema": "canel",
+      "fecha": "Sun, 11 Oct 2026 11:40:09 +0000",
+      "id": 7
     },
     {
       "categoria": "energia",
@@ -79,7 +105,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Sat, 10 Oct 2026 18:31:41 +0000",
-      "id": 6
+      "id": 8
     },
     {
       "categoria": "economia",
@@ -92,7 +118,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sat, 10 Oct 2026 14:37:50 +0000",
-      "id": 7
+      "id": 9
     },
     {
       "categoria": "energia",
@@ -105,20 +131,7 @@
       "destacada": false,
       "tema": "fogones",
       "fecha": "Sat, 10 Oct 2026 18:35:32 +0000",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "A la Nobel de la Paz Navi Pillay nunca le preocuparon las violaciones de derechos humanos en Cuba y China",
-      "resumen": "“La ganadora es una absoluta vergüenza\" por haber sido “cómplice del genocidio uigur”, denunció UN Watch",
-      "imagen_url": "https://static.14ymedio.com/clip/fb87466a-b38e-42a6-b5d6-fb69248866c4_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/internacional/nobel-paz-navi-pillay-le_1_1131801.html",
-      "destacada": false,
-      "tema": "nobel",
-      "fecha": "Sat, 10 Oct 2026 18:03:29 +0000",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -131,20 +144,46 @@
       "destacada": false,
       "tema": "menos",
       "fecha": "Fri, 09 Oct 2026 19:36:25 +0000",
-      "id": 10
+      "id": 11
     },
     {
-      "categoria": "salud",
-      "fuente": "https://www.14ymedio.com",
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Servicios médicos privados en Cuba: el Gobierno lo ve como un delito, la población como una solución",
-      "resumen": "Las autoridades sanitarias de Camagüey amenazan con \"todo el rigor de la ley a quienes infrinjan la normativa”",
-      "imagen_url": "https://static.14ymedio.com/clip/a09a3225-236d-43c3-bded-d22b131f6356_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/servicios-medicos-privados-cuba-gobierno_1_1131738.html",
+      "titulo": "Así amanece el mercado informal en Cuba: dólar y euro comienzan el domingo al alza",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e135253-s27061-nid342604-asi-amanece-mercado-informal-cuba-dolar-euro",
       "destacada": false,
-      "tema": "servicios",
-      "fecha": "Fri, 09 Oct 2026 15:04:50 +0000",
-      "id": 11
+      "tema": "tipo_cambio",
+      "fecha": "Sun, 11 Oct 2026 16:22:17 +0200",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Diez aeropuertos cubanos mantienen aviso de combustible no disponible hasta el 1 de noviembre",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e13-s27061-nid342602-diez-aeropuertos-cubanos-mantienen-aviso-combustible",
+      "destacada": false,
+      "tema": "aeropuertos",
+      "fecha": "Sun, 11 Oct 2026 15:38:20 +0200",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Odisea de una cubana para volar de La Habana a Madrid con escala en Panamá: «Todo empezó súper bien»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e199370-s27061-nid342598-odisea-cubana-volar-habana-madrid-escala-panama-todo",
+      "destacada": false,
+      "tema": "odisea",
+      "fecha": "Sun, 11 Oct 2026 15:31:24 +0200",
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -157,7 +196,7 @@
       "destacada": false,
       "tema": "petro",
       "fecha": "Sun, 11 Oct 2026 13:57:05 +0200",
-      "id": 12
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -170,33 +209,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Sun, 11 Oct 2026 13:48:10 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cae en 1.018 el número de votantes españoles inscritos en Cuba en un solo mes",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e13-s27061-nid342589-cae-1018-numero-votantes-espanoles-inscritos-cuba-solo",
-      "destacada": false,
-      "tema": "número",
-      "fecha": "Sun, 11 Oct 2026 10:55:36 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "EE.UU. bombardea un buque comercial que intentó romper el bloqueo naval a Irán: CENTCOM difunde el video",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e13-s27061-nid342587-eeuu-bombardea-buque-comercial-intento-romper-bloqueo",
-      "destacada": false,
-      "tema": "bombardea",
-      "fecha": "Sun, 11 Oct 2026 10:47:04 +0200",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -209,7 +222,7 @@
       "destacada": false,
       "tema": "homenaje",
       "fecha": "Sat, 10 Oct 2026 17:58:58 +0000",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -222,7 +235,7 @@
       "destacada": false,
       "tema": "unidos",
       "fecha": "Sat, 10 Oct 2026 17:50:07 +0000",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -235,7 +248,7 @@
       "destacada": false,
       "tema": "ejemplo",
       "fecha": "Sat, 10 Oct 2026 17:41:50 +0000",
-      "id": 18
+      "id": 19
     },
     {
       "categoria": "politica",
@@ -248,7 +261,7 @@
       "destacada": false,
       "tema": "demajagua",
       "fecha": "Sat, 10 Oct 2026 14:17:45 +0000",
-      "id": 19
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -261,7 +274,20 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Sat, 10 Oct 2026 13:00:13 +0000",
-      "id": 20
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La policía política cubana amenaza a la pareja de Henry Constantin durante una visita a prisión",
+      "resumen": "La periodista independiente Alejandra García, interrogada y amenazada durante la visita a su pareja, el también periodista #HenryConstantin en prisión.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1791726597_69346.html",
+      "destacada": false,
+      "tema": "policía",
+      "fecha": "Sun, 11 Oct 2026 15:49:57 +0200",
+      "id": 22
     },
     {
       "categoria": "politica",
@@ -274,7 +300,7 @@
       "destacada": false,
       "tema": "punto",
       "fecha": "Sun, 11 Oct 2026 15:00:22 +0200",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -287,7 +313,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Sun, 11 Oct 2026 14:31:57 +0200",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "asere",
       "fecha": "Sun, 11 Oct 2026 13:03:54 +0200",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "emigración",
       "fecha": "Sun, 11 Oct 2026 12:29:47 +0200",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -326,7 +352,7 @@
       "destacada": false,
       "tema": "ángel",
       "fecha": "Sun, 11 Oct 2026 12:05:33 +0200",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -339,7 +365,7 @@
       "destacada": false,
       "tema": "pesistas",
       "fecha": "Sun, 11 Oct 2026 10:42:39 +0200",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "politica",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "bruno",
       "fecha": "Sat, 10 Oct 2026 23:50:27 +0200",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "energia",
@@ -365,33 +391,46 @@
       "destacada": false,
       "tema": "dispara",
       "fecha": "Sat, 10 Oct 2026 21:54:38 +0200",
-      "id": 28
+      "id": 30
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "salud",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Muere el escritor Manuel Pereira, el discípulo de Lezama que rompió con el régimen cubano",
-      "resumen": "Adiós al #ManuelPereira, \"el ensayista que escribía novelas\", uno de los últimos alumnos del autor de \"Paradiso\", José Lezama Lima.",
+      "titulo": "Tragedia y negligencia en Santiago de Cuba: El calvario que condenó a un paciente con peritonitis",
+      "resumen": "En el hospital Juan Bruno Zayas de Santiago de Cuba, donde los insumos escasean pero las excusas sobran, la muerte de un querido vecino de Nuevo Bamba expuso la realidad de un sistema sanitario al borde del colapso.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cultura/1791657672_69336.html",
+      "enlace_original": "https://www.martinoticias.com/a/tragedia-y-negligencia-en-santiago-de-cuba-el-calvario-que-conden%c3%b3-a-un-paciente-con-peritonitis/481755.html",
       "destacada": false,
-      "tema": "muere",
-      "fecha": "Sat, 10 Oct 2026 20:41:12 +0200",
-      "id": 29
+      "tema": "tragedia",
+      "fecha": "Sun, 11 Oct 2026 10:20:08 -0400",
+      "id": 31
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Nuevo libro sigue el rastro de Rusia en La Habana tras el mayor enigma del espionaje moderno",
+      "titulo": "Pareja de Henry Constantín denuncia interrogatorio y amenazas tras visita en prisión: \"estoy firme con él\"",
+      "resumen": "La pareja del periodista cubano Henry Constantín, Alejandra García, denunció que fue interrogada y amenazada por agentes de la Seguridad del Estado tras visitar al reportero en la prisión Kilo 7, en Camagüey, donde permanece recluido desde septiembre acusado de desobediencia.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/pareja-de-henry-constant%c3%adn-denuncia-interrogatorio-y-amenazas-tras-visita-en-prisi%c3%b3n-estoy-firme-con-%c3%a9l/481754.html",
+      "destacada": false,
+      "tema": "pareja",
+      "fecha": "Sun, 11 Oct 2026 09:27:04 -0400",
+      "id": 32
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El síndrome de La Habana: nuevo libro sigue el rastro de Rusia tras el mayor enigma del espionaje moderno",
       "resumen": "Productores de 60 Minutes, de CBS, publican explosiva investigación de una década sobre los sucesos conocidos como \"Síndrome de La Habana\". El investigador Christo Grozev rastreó a oficiales de la inteligencia militar (GRU) rusa y detectó un posible equipo técnico en Cuba.",
       "imagen_url": "",
       "enlace_original": "https://www.martinoticias.com/a/nuevo-libro-sigue-el-rastro-de-rusia-en-la-habana-tras-el-mayor-enigma-del-espionaje-moderno/481753.html",
       "destacada": false,
-      "tema": "nuevo",
+      "tema": "síndrome",
       "fecha": "Sun, 11 Oct 2026 08:35:03 -0400",
-      "id": 30
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -404,7 +443,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Sun, 11 Oct 2026 08:00:00 -0400",
-      "id": 31
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -417,7 +456,7 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Sun, 11 Oct 2026 07:00:30 -0400",
-      "id": 32
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -430,7 +469,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Sun, 11 Oct 2026 07:00:00 -0400",
-      "id": 33
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -443,7 +482,46 @@
       "destacada": false,
       "tema": "postmoderno",
       "fecha": "Sat, 10 Oct 2026 20:00:00 -0400",
-      "id": 34
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Alejandro Rodríguez brilla en la Copa Continental de Triatlón de Santa Fe",
+      "resumen": "El cubano Alejandro Rodríguez conquistó este sábado la medalla de bronce en la Copa Continental de Triatlón de Santa Fe, Argentina. “El Kenya”, como también le llaman, detuvo el cronómetro en 54:30 minutos en la modalidad sprint. The post Alejandro Rodríguez brilla en la Copa Continental de Triatlón",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/11/alejandro-rodriguez-brilla-en-la-copa-continental-de-triatlon-de-santa-fe/",
+      "destacada": false,
+      "tema": "alejandro",
+      "fecha": "Sun, 11 Oct 2026 14:40:30 +0000",
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Mundial de judo, final: el silencio de los nuestros",
+      "resumen": "Con la derrota 4-0 en el torneo por equipos ante la selección de Turquía este domingo 11 de octubre, Cuba se despidió del 47 Campeonato Mundial de Judo con una de sus actuaciones más pálidas y silenciosas de los últimos años en estos certámenes. ¿Qué pasó? ¿Hay explicación para tan bajo rendimiento?",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/opinion/2026/10/11/mundial-de-judo-final-el-silencio-de-los-nuestros/",
+      "destacada": false,
+      "tema": "mundial",
+      "fecha": "Sun, 11 Oct 2026 14:34:28 +0000",
+      "id": 39
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Sancti Spíritus inaugura el primer mercado de abasto mayorista de Cuba",
+      "resumen": "La instalación, administrada por la Comercializadora Mayorista ITH Trinidad, reúne ofertas de empresas estatales y privadas; así como una firma extranjera. Las personas naturales también podrán comprar sin contrato previo, con un importe mínimo de 200 USD o 24 000 pesos en moneda nacional. The post ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/11/sancti-spiritus-inaugura-el-primer-mercado-de-abasto-mayorista-de-cuba/",
+      "destacada": false,
+      "tema": "sancti",
+      "fecha": "Sun, 11 Oct 2026 13:30:10 +0000",
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -456,7 +534,7 @@
       "destacada": false,
       "tema": "camino",
       "fecha": "Sun, 11 Oct 2026 12:37:39 +0000",
-      "id": 35
+      "id": 41
     },
     {
       "categoria": "energia",
@@ -469,33 +547,7 @@
       "destacada": false,
       "tema": "capturan",
       "fecha": "Sun, 11 Oct 2026 12:20:43 +0000",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "La Palma da inicio a la campaña tabacalera 2026-2027; Pinar del Río aportará más de 12 mil hectáreas",
-      "resumen": "La campaña tabacalera 2026-2027 comenzó oficialmente este 10 de octubre en el municipio pinareño de La Palma, durante el acto nacional celebrado en una fecha que conmemora el inicio de las luchas por la independencia de Cuba. The post La Palma da inicio a la campaña tabacalera 2026-2027; Pinar del R",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/11/la-palma-da-inicio-a-la-campana-tabacalera-2026-2027-pinar-del-rio-aportara-mas-de-12-mil-hectareas/",
-      "destacada": false,
-      "tema": "palma",
-      "fecha": "Sun, 11 Oct 2026 10:15:02 +0000",
-      "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Sancti Spíritus acogió su primer foro de negocios turísticos para impulsar inversión extranjera",
-      "resumen": "Con el reto de seguir fomentando la inversión extranjera y potenciar emprendimientos sostenibles que contribuyan a dinamizar el sector turístico, la provincia de Sancti Spíritus, uno de los principales destinos de Cuba, acogió hasta hoy el primer foro para promover la cartera de proyectos de este ce",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/11/sancti-spiritus-acogio-su-primer-foro-de-negocios-turisticos-para-impulsar-inversion-extranjera/",
-      "destacada": false,
-      "tema": "sancti",
-      "fecha": "Sun, 11 Oct 2026 10:03:59 +0000",
-      "id": 38
+      "id": 42
     },
     {
       "categoria": "salud",
@@ -508,7 +560,7 @@
       "destacada": false,
       "tema": "salud",
       "fecha": "Fri, 09 Oct 2026 15:42:11 +0000",
-      "id": 39
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -521,7 +573,7 @@
       "destacada": false,
       "tema": "numeroso",
       "fecha": "Sun, 11 Oct 26 13:58:00 +0200",
-      "id": 40
+      "id": 44
     },
     {
       "categoria": "economia",
@@ -534,7 +586,7 @@
       "destacada": false,
       "tema": "precios",
       "fecha": "Sun, 11 Oct 26 12:19:00 +0200",
-      "id": 41
+      "id": 45
     },
     {
       "categoria": "energia",
@@ -547,7 +599,7 @@
       "destacada": false,
       "tema": "isaías",
       "fecha": "Sun, 11 Oct 26 12:17:00 +0200",
-      "id": 42
+      "id": 46
     },
     {
       "categoria": "politica",
@@ -560,7 +612,7 @@
       "destacada": false,
       "tema": "fuerza",
       "fecha": "Sun, 11 Oct 26 12:14:00 +0200",
-      "id": 43
+      "id": 47
     },
     {
       "categoria": "energia",
@@ -573,7 +625,7 @@
       "destacada": false,
       "tema": "informa",
       "fecha": "Sun, 11 Oct 26 12:12:00 +0200",
-      "id": 44
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -586,7 +638,7 @@
       "destacada": false,
       "tema": "reconoce",
       "fecha": "Sun, 11 Oct 26 12:05:00 +0200",
-      "id": 45
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -599,7 +651,7 @@
       "destacada": false,
       "tema": "innova",
       "fecha": "Sun, 11 Oct 26 12:03:00 +0200",
-      "id": 46
+      "id": 50
     },
     {
       "categoria": "energia",
@@ -612,7 +664,7 @@
       "destacada": false,
       "tema": "estadio",
       "fecha": "Sun, 11 Oct 26 11:54:00 +0200",
-      "id": 47
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -625,7 +677,7 @@
       "destacada": false,
       "tema": "abrirá",
       "fecha": "Sun, 11 Oct 26 11:14:00 +0200",
-      "id": 48
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -638,7 +690,7 @@
       "destacada": false,
       "tema": "argentinos",
       "fecha": "Sun, 11 Oct 26 11:12:00 +0200",
-      "id": 49
+      "id": 53
     },
     {
       "categoria": "politica",
@@ -651,7 +703,7 @@
       "destacada": false,
       "tema": "encabeza",
       "fecha": "Sat, 10 Oct 2026 16:06:01 +0000",
-      "id": 50
+      "id": 54
     },
     {
       "categoria": "politica",
@@ -664,59 +716,59 @@
       "destacada": false,
       "tema": "serie",
       "fecha": "Sat, 10 Oct 2026 13:16:00 +0000",
-      "id": 51
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Céspedes vuelve a la plaza",
-      "resumen": "Ante el monumento al Padre de la Patria, La Habana conmemoró el aniversario 158 del inicio de las luchas por la independencia de Cuba, con la presencia del Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez La entrada Céspedes ",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/cespedes-vuelve-a-la-plaza/",
-      "destacada": false,
-      "tema": "céspedes",
-      "fecha": "Sat, 10 Oct 2026 15:55:18 +0000",
-      "id": 52
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las gestas independentistas del pueblo cubano: un histórico legado de dignidad y patriotismo",
-      "resumen": "El inicio de la epopeya emancipadora de la Isla del colonialismo español aconteció el 10 de octubre de 1868, se le conoce como Guerra de los Diez Años o Guerra del 68, y su objetivo principal fue conquistar la independencia de España La entrada Las gestas independentistas del pueblo cubano: un histó",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/las-gestas-independentistas-del-pueblo-cubano-un-historico-legado-de-dignidad-y-patriotismo/",
-      "destacada": false,
-      "tema": "gestas",
-      "fecha": "Sat, 10 Oct 2026 17:21:16 +0000",
-      "id": 53
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Injerto, fractura y renacimiento",
-      "resumen": "La exposición del artista Alberto Domínguez estará abierta hasta noviembre en el Centro Hispanoamericano de Cultura La entrada Injerto, fractura y renacimiento se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/injerto-fractura-y-renacimiento/",
-      "destacada": false,
-      "tema": "injerto",
-      "fecha": "Sat, 10 Oct 2026 16:50:26 +0000",
-      "id": 54
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "A través de mi ventana",
-      "resumen": "Desde hace algún tiempo laboro en la modalidad de teletrabajo y sin darme cuenta me he acostumbrado a sentir sonidos, olores, sensaciones nuevas… a través de mi ventana La entrada A través de mi ventana se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/a-traves-de-mi-ventana/",
-      "destacada": false,
-      "tema": "través",
-      "fecha": "Sat, 10 Oct 2026 17:17:39 +0000",
       "id": 55
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Frustran robo de aceite dieléctrico en subestación eléctrica de La Habana",
+      "resumen": "Un intento de robo de aceite dieléctrico fue detectado y frustrado en la subestación eléctrica Cubana de Bronce, ubicada en el municipio habanero de Guanabacoa La entrada Frustran robo de aceite dieléctrico en subestación eléctrica de La Habana se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/frustran-robo-de-aceite-dielectrico-en-subestacion-electrica-de-la-habana/",
+      "destacada": false,
+      "tema": "frustran",
+      "fecha": "Sun, 11 Oct 2026 15:03:32 +0000",
+      "id": 56
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Autoridades de La Habana chequean labores constructivas en Hospital Docente Ginecobstétrico Ramón González Coro",
+      "resumen": "El primer secretario del Comité Provincial del Partido Comunista de Cuba (PCC) en La Habana, Liván Izquierdo Alonso, integrante del Comité Central del PCC; y Reynold Delfín García Moreira, vicegobernador de la capital, chequearon las labores constructivas que se ejecutan en el Hospital Docente Ginec",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/autoridades-de-la-habana-chequean-labores-constructivas-en-hospital-docente-ginecobstetrico-ramon-gonzalez-coro/",
+      "destacada": false,
+      "tema": "autoridades",
+      "fecha": "Sun, 11 Oct 2026 14:09:23 +0000",
+      "id": 57
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Pago del mes de octubre a jubilados y pensionados en La Habana",
+      "resumen": "El Banco Metropolitano de La Habana informa el cronograma de pago del mes de octubre de 2026 La entrada Pago del mes de octubre a jubilados y pensionados en La Habana se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/pago-del-mes-de-octubre-a-jubilados-y-pensionados-en-la-habana/",
+      "destacada": false,
+      "tema": "octubre",
+      "fecha": "Sun, 11 Oct 2026 13:39:44 +0000",
+      "id": 58
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Toque de campana resuena por la cultura en Matanzas",
+      "resumen": "El ya tradicional toque de campana en el parque conocido como \"De la Rueda\", anunció hoy el comienzo de la Jornada de la Cultura Cubana y Matancera,",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/11/toque-de-campana-resuena-por-la-cultura-matanzas/",
+      "destacada": false,
+      "tema": "toque",
+      "fecha": "Sun, 11 Oct 2026 12:42:38 +0000",
+      "id": 59
     },
     {
       "categoria": "sociedad",
@@ -729,20 +781,7 @@
       "destacada": false,
       "tema": "destaca",
       "fecha": "Sat, 10 Oct 2026 09:17:00 +0000",
-      "id": 56
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Extiende Mitrans inscripción de vehículos armados por partes y piezas",
-      "resumen": "El Ministerio del Transporte de Cuba (Mitrans) informó hoy que se prorrogó hasta el 7 de noviembre próximo el proceso de inscripción de los vehículos armados por partes y piezas (VAP), establecido por la Resolución 47/2026 y publicado en la Gaceta Oficial Extraordinaria 83 el 4 de agosto último.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/09/extiende-mitrans-inscripcion-vehiculos-partes-piezas/",
-      "destacada": false,
-      "tema": "extiende",
-      "fecha": "Fri, 09 Oct 2026 13:50:41 +0000",
-      "id": 57
+      "id": 60
     }
   ]
 }
