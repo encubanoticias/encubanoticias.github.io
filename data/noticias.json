@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-11",
-  "hora": "03:06",
-  "total": 64,
+  "hora": "05:06",
+  "total": 60,
   "noticias": [
     {
       "categoria": "politica",
@@ -72,6 +72,19 @@
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
+      "titulo": "Residentes cubanos en Panamá demandan fin del bloqueo EEUU a la isla",
+      "resumen": "Ciudad de Panamá, 11 oct (Prensa Latina) La Asociación Martiana de Cubanos Residentes en Panamá (Amcrp) celebra hoy su XIV Encuentro Nacional, cita en la que condenará el bloqueo de Estados Unidos y reafirmará su solidaridad con la isla. The post Residentes cubanos en Panamá demandan fin del bloqueo",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/11/residentes-cubanos-en-panama-demandan-fin-del-bloqueo-eeuu-a-la-isla/",
+      "destacada": false,
+      "tema": "residentes",
+      "fecha": "Sun, 11 Oct 2026 05:00:35 +0000",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
       "titulo": "Homenaje a Fidel Castro en seminario internacional en México",
       "resumen": "Ciudad de México, 10 oct (Prensa Latina) Participantes en el XXX Seminario Internacional “Los partidos y una nueva sociedad” rindieron homenaje al centenario del natalicio del líder histórico de la Revolución cubana, Fidel Castro, destacó hoy la Embajada de la isla en México. The post Homenaje a Fid",
       "imagen_url": "",
@@ -79,19 +92,6 @@
       "destacada": false,
       "tema": "homenaje",
       "fecha": "Sun, 11 Oct 2026 02:03:17 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Presidente Cuba felicita a Corea por aniversario Partido del Trabajo",
-      "resumen": "La Habana, 10 oct (Prensa Latina) El presidente de Cuba, Miguel Díaz-Canel, felicitó hoy al máximo dirigente de la República Popular Democrática de Corea (RPDC), Kim Jong Un, y a los militantes del Partido del Trabajo por el aniversario 81 de su fundación. The post Presidente Cuba felicita a Corea p",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/10/presidente-cuba-felicita-a-corea-por-aniversario-partido-del-trabajo/",
-      "destacada": false,
-      "tema": "presidente",
-      "fecha": "Sat, 10 Oct 2026 23:45:34 +0000",
       "id": 7
     },
     {
@@ -226,45 +226,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "ICE detiene a cubano con antecedentes por delitos en Miami: Entra a lista «lo peor de lo peor»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e208574-s27061-nid342574-ice-detiene-cubano-antecedentes-crimenes-miami-entra",
-      "destacada": false,
-      "tema": "detiene",
-      "fecha": "Sun, 11 Oct 2026 01:53:33 +0200",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Trabajador eléctrico de Santiago de Cuba que perdió una mano enfrenta trabas burocráticas para cobrar su indemnización",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e209363-s27061-nid342568-trabajador-electrico-santiago-cuba-perdio-mano",
-      "destacada": false,
-      "tema": "trabajador",
-      "fecha": "Sun, 11 Oct 2026 01:34:34 +0200",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Agua turbia y enfermedades diarreicas encienden las alarmas en Santiago de Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e209363-s27061-nid342566-agua-turbia-enfermedades-diarreicas-encienden",
-      "destacada": false,
-      "tema": "turbia",
-      "fecha": "Sun, 11 Oct 2026 01:13:49 +0200",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "alternativa",
       "titulo": "Homenaje a nuestros próceres en el día de la independencia",
@@ -274,7 +235,7 @@
       "destacada": false,
       "tema": "homenaje",
       "fecha": "Sat, 10 Oct 2026 17:58:58 +0000",
-      "id": 21
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -287,7 +248,7 @@
       "destacada": false,
       "tema": "unidos",
       "fecha": "Sat, 10 Oct 2026 17:50:07 +0000",
-      "id": 22
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -300,7 +261,7 @@
       "destacada": false,
       "tema": "ejemplo",
       "fecha": "Sat, 10 Oct 2026 17:41:50 +0000",
-      "id": 23
+      "id": 20
     },
     {
       "categoria": "politica",
@@ -313,7 +274,7 @@
       "destacada": false,
       "tema": "demajagua",
       "fecha": "Sat, 10 Oct 2026 14:17:45 +0000",
-      "id": 24
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -326,7 +287,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Sat, 10 Oct 2026 13:00:13 +0000",
-      "id": 25
+      "id": 22
     },
     {
       "categoria": "politica",
@@ -339,7 +300,7 @@
       "destacada": false,
       "tema": "bruno",
       "fecha": "Sat, 10 Oct 2026 23:50:27 +0200",
-      "id": 26
+      "id": 23
     },
     {
       "categoria": "energia",
@@ -352,7 +313,7 @@
       "destacada": false,
       "tema": "dispara",
       "fecha": "Sat, 10 Oct 2026 21:54:38 +0200",
-      "id": 27
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -365,7 +326,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Sat, 10 Oct 2026 20:41:12 +0200",
-      "id": 28
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -378,7 +339,7 @@
       "destacada": false,
       "tema": "libros",
       "fecha": "Sat, 10 Oct 2026 18:29:09 +0200",
-      "id": 29
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -391,7 +352,7 @@
       "destacada": false,
       "tema": "dormir",
       "fecha": "Sat, 10 Oct 2026 18:00:47 +0200",
-      "id": 30
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -404,7 +365,7 @@
       "destacada": false,
       "tema": "suman",
       "fecha": "Sat, 10 Oct 2026 16:33:58 +0200",
-      "id": 31
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -417,7 +378,7 @@
       "destacada": false,
       "tema": "datos",
       "fecha": "Sat, 10 Oct 2026 15:00:42 +0200",
-      "id": 32
+      "id": 29
     },
     {
       "categoria": "politica",
@@ -430,7 +391,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sat, 10 Oct 2026 13:59:19 +0200",
-      "id": 33
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -443,7 +404,7 @@
       "destacada": false,
       "tema": "santiago",
       "fecha": "Sat, 10 Oct 2026 13:23:08 +0200",
-      "id": 34
+      "id": 31
     },
     {
       "categoria": "politica",
@@ -456,7 +417,7 @@
       "destacada": false,
       "tema": "cupet",
       "fecha": "Sat, 10 Oct 2026 11:47:14 +0200",
-      "id": 35
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -469,7 +430,7 @@
       "destacada": false,
       "tema": "postmoderno",
       "fecha": "Sat, 10 Oct 2026 20:00:00 -0400",
-      "id": 36
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -482,7 +443,7 @@
       "destacada": false,
       "tema": "oposición",
       "fecha": "Sat, 10 Oct 2026 17:00:00 -0400",
-      "id": 37
+      "id": 34
     },
     {
       "categoria": "energia",
@@ -495,7 +456,7 @@
       "destacada": false,
       "tema": "estadio",
       "fecha": "Sat, 10 Oct 2026 23:34:22 +0000",
-      "id": 38
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -508,7 +469,7 @@
       "destacada": false,
       "tema": "afronta",
       "fecha": "Sat, 10 Oct 2026 23:18:45 +0000",
-      "id": 39
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -521,7 +482,7 @@
       "destacada": false,
       "tema": "innova",
       "fecha": "Sat, 10 Oct 2026 23:09:37 +0000",
-      "id": 40
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -534,7 +495,7 @@
       "destacada": false,
       "tema": "reconoce",
       "fecha": "Sat, 10 Oct 2026 22:53:24 +0000",
-      "id": 41
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -547,7 +508,7 @@
       "destacada": false,
       "tema": "asedio",
       "fecha": "Sat, 10 Oct 2026 22:27:13 +0000",
-      "id": 42
+      "id": 39
     },
     {
       "categoria": "transporte",
@@ -560,7 +521,7 @@
       "destacada": false,
       "tema": "fuerza",
       "fecha": "Sat, 10 Oct 2026 20:52:56 +0000",
-      "id": 43
+      "id": 40
     },
     {
       "categoria": "salud",
@@ -573,7 +534,7 @@
       "destacada": false,
       "tema": "salud",
       "fecha": "Fri, 09 Oct 2026 15:42:11 +0000",
-      "id": 44
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -586,7 +547,7 @@
       "destacada": false,
       "tema": "mirada",
       "fecha": "Sat, 10 Oct 26 14:54:00 +0200",
-      "id": 45
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -599,7 +560,7 @@
       "destacada": false,
       "tema": "fracaso",
       "fecha": "Sat, 10 Oct 26 10:33:00 +0200",
-      "id": 46
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -612,7 +573,7 @@
       "destacada": false,
       "tema": "representante",
       "fecha": "Sat, 10 Oct 26 10:30:00 +0200",
-      "id": 47
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -625,7 +586,7 @@
       "destacada": false,
       "tema": "brasil",
       "fecha": "Sat, 10 Oct 26 10:27:00 +0200",
-      "id": 48
+      "id": 45
     },
     {
       "categoria": "politica",
@@ -638,7 +599,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sat, 10 Oct 26 10:19:00 +0200",
-      "id": 49
+      "id": 46
     },
     {
       "categoria": "politica",
@@ -651,7 +612,7 @@
       "destacada": false,
       "tema": "canciller",
       "fecha": "Sat, 10 Oct 26 10:15:00 +0200",
-      "id": 50
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -664,7 +625,7 @@
       "destacada": false,
       "tema": "evasión",
       "fecha": "Sat, 10 Oct 26 10:12:00 +0200",
-      "id": 51
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -677,7 +638,7 @@
       "destacada": false,
       "tema": "cocinar",
       "fecha": "Sat, 10 Oct 26 10:06:00 +0200",
-      "id": 52
+      "id": 49
     },
     {
       "categoria": "transporte",
@@ -690,20 +651,7 @@
       "destacada": false,
       "tema": "datos",
       "fecha": "Sat, 10 Oct 26 09:39:00 +0200",
-      "id": 53
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba: Brechas de género, imagen y derechos en la industria musical",
-      "resumen": "La industria musical reproduce, con particular crudeza, brechas de género que atraviesan al conjunto...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125289-cuba-brechas-de-genero-imagen-y-derechos-en-la-industria-musical.jpg?t=1791020143",
-      "enlace_original": "https://www.cubainformacion.tv/genero/20261010/125289/125289-cuba-brechas-de-genero-imagen-y-derechos-en-la-industria-musical",
-      "destacada": false,
-      "tema": "brechas",
-      "fecha": "Sat, 10 Oct 26 07:00:00 +0200",
-      "id": 54
+      "id": 50
     },
     {
       "categoria": "politica",
@@ -716,7 +664,7 @@
       "destacada": false,
       "tema": "encabeza",
       "fecha": "Sat, 10 Oct 2026 16:06:01 +0000",
-      "id": 55
+      "id": 51
     },
     {
       "categoria": "politica",
@@ -729,7 +677,7 @@
       "destacada": false,
       "tema": "serie",
       "fecha": "Sat, 10 Oct 2026 13:16:00 +0000",
-      "id": 56
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -742,7 +690,7 @@
       "destacada": false,
       "tema": "poner",
       "fecha": "Fri, 09 Oct 2026 12:04:00 +0000",
-      "id": 57
+      "id": 53
     },
     {
       "categoria": "politica",
@@ -755,7 +703,7 @@
       "destacada": false,
       "tema": "céspedes",
       "fecha": "Sat, 10 Oct 2026 15:55:18 +0000",
-      "id": 58
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -768,7 +716,7 @@
       "destacada": false,
       "tema": "gestas",
       "fecha": "Sat, 10 Oct 2026 17:21:16 +0000",
-      "id": 59
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -781,7 +729,7 @@
       "destacada": false,
       "tema": "injerto",
       "fecha": "Sat, 10 Oct 2026 16:50:26 +0000",
-      "id": 60
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -794,7 +742,7 @@
       "destacada": false,
       "tema": "través",
       "fecha": "Sat, 10 Oct 2026 17:17:39 +0000",
-      "id": 61
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -807,7 +755,7 @@
       "destacada": false,
       "tema": "destaca",
       "fecha": "Sat, 10 Oct 2026 09:17:00 +0000",
-      "id": 62
+      "id": 58
     },
     {
       "categoria": "transporte",
@@ -820,7 +768,7 @@
       "destacada": false,
       "tema": "extiende",
       "fecha": "Fri, 09 Oct 2026 13:50:41 +0000",
-      "id": 63
+      "id": 59
     },
     {
       "categoria": "transporte",
@@ -833,7 +781,7 @@
       "destacada": false,
       "tema": "ferrer",
       "fecha": "Fri, 09 Oct 2026 12:34:00 +0000",
-      "id": 64
+      "id": 60
     }
   ]
 }
