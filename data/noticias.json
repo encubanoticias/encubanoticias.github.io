@@ -1,86 +1,8 @@
 {
   "fecha": "2026-10-11",
-  "hora": "11:04",
-  "total": 52,
+  "hora": "12:06",
+  "total": 49,
   "noticias": [
-    {
-      "categoria": "politica",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Canciller cubano: «nuevamente el gobierno estadounidense insiste en la mentira para intentar manipular la opinión pública internacional»",
-      "resumen": "El canciller cubano denunció el nuevo informe unilateral de EE.UU. sobre Trata de Personas",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-10/canciller-cubano-nuevamente-el-gobierno-estadounidense-insiste-en-la-mentira-para-intentar-manipular-la-opinion-publica-internacional-10-10-2026-16-10-02",
-      "destacada": true,
-      "tema": "canciller",
-      "fecha": "Sat, 10 Oct 2026 16:10:02 -0400",
-      "id": 1
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "La zona de Defensa es estratégica para enfrentar una situación excepcional",
-      "resumen": "La Zona de Defensa Camilo Cienfuegos, en el municipio Habana del Este, agrupa a cerca de 8 800 pobladores y ha centrado su labor en fortalecer la preparación de las&nbsp;23 brigadas de producción y defensa",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-09/la-zona-de-defensa-es-estrategica-para-enfrentar-una-situacion-excepcional-09-10-2026-14-10-38",
-      "destacada": true,
-      "tema": "defensa",
-      "fecha": "Fri, 09 Oct 2026 14:10:38 -0400",
-      "id": 2
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "La defensa también pasa por cómo pensamos el presente y el futuro del país desde la comunidad (+ Video)",
-      "resumen": "El Presidente del Consejo de Defensa Nacional, Miguel Díaz-Canel Bermúdez, participó este viernes, Día Nacional de la Defensa, en un ejercicio del Consejo de Defensa de Zona Colón Nuevo Vedado, en el municipio capitalino de Plaza de la Revolución",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-09/la-defensa-tambien-pasa-por-como-pensamos-el-presente-y-el-futuro-del-pais-desde-la-comunidad-09-10-2026-18-10-47",
-      "destacada": true,
-      "tema": "defensa",
-      "fecha": "Fri, 09 Oct 2026 18:10:47 -0400",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Pinar remontó y ganó en la fecha cuando se acabaron los invictos",
-      "resumen": "También Sancti Spíritus igualó a Santiago de Cuba en la punta de la región oriental",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-10-10/pinar-remonto-y-gano-en-la-fecha-cuando-se-acabaron-los-invictos-10-10-2026-14-10-12",
-      "destacada": true,
-      "tema": "pinar",
-      "fecha": "Sat, 10 Oct 2026 14:10:12 -0400",
-      "id": 4
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Escritora cubana María Elena Llana, propuesta al Premio Cervantes 2026",
-      "resumen": "Con esta nominación, la autora de Casas del Vedado se une a Fina García Marruz y Dulce María Loynaz —quien lo obtuvo en 1992— como las únicas cubanas en ser postuladas a este galardón",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-10/escritora-cubana-maria-elena-llana-propuesta-al-premio-cervantes-2026-10-10-2026-15-10-25",
-      "destacada": true,
-      "tema": "escritora",
-      "fecha": "Sat, 10 Oct 2026 15:10:25 -0400",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Estados Unidos inhabilita un buque de carga en el golfo de Omán",
-      "resumen": "Mascate, 11 oct (Prensa Latina) El Mando Central de Estados Unidos (Centcom) anunció hoy que inhabilitó un buque de carga comercial en el golfo de Omán, al alegar que intentaba eludir el bloqueo naval impuesto por Washington a los puertos iraníes. The post Estados Unidos inhabilita un buque de carga",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/11/estados-unidos-inhabilita-un-buque-de-carga-en-el-golfo-de-oman/",
-      "destacada": false,
-      "tema": "estados",
-      "fecha": "Sun, 11 Oct 2026 10:50:06 +0000",
-      "id": 6
-    },
     {
       "categoria": "energia",
       "fuente": "https://www.14ymedio.com",
@@ -89,10 +11,10 @@
       "resumen": "El disparo de una línea de alta tensión entre Nuevitas y Las Tunas agrava la crisis energética, tras ocho colapsos totales del sistema en lo que va de año",
       "imagen_url": "https://static.14ymedio.com/clip/4b2f3c23-ad54-440d-be59-75f228c2e738_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/nueva-desconexion-parcial-sen-deja_1_1131805.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "nueva",
       "fecha": "Sat, 10 Oct 2026 18:31:41 +0000",
-      "id": 7
+      "id": 1
     },
     {
       "categoria": "economia",
@@ -102,10 +24,10 @@
       "resumen": "Caracas llegó a mandar a la Isla hasta 157.000 barriles diarios, tres veces más que la cantidad acordada con Hugo Chávez en el año 2000",
       "imagen_url": "https://static.14ymedio.com/clip/a4b67a1b-d0f4-45a9-9bd8-c198c7467a3e_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/expertos-evaluan-deuda-petrolera-cuba_1_1131795.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "tipo_cambio",
       "fecha": "Sat, 10 Oct 2026 14:37:50 +0000",
-      "id": 8
+      "id": 2
     },
     {
       "categoria": "energia",
@@ -115,10 +37,10 @@
       "resumen": "Mientras el estadio Sandino y las radiobases de Etecsa incorporan paneles, una panadería estatal sustituye el derivado del petróleo por leña para sobrevivir a los apagones",
       "imagen_url": "https://static.14ymedio.com/clip/ef268f3e-5f9a-4c1e-a27d-49f462aef450_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/fogones-aserrin-marabu-diesel-soluciones_1_1131803.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "fogones",
       "fecha": "Sat, 10 Oct 2026 18:35:32 +0000",
-      "id": 9
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -128,10 +50,10 @@
       "resumen": "“La ganadora es una absoluta vergüenza\" por haber sido “cómplice del genocidio uigur”, denunció UN Watch",
       "imagen_url": "https://static.14ymedio.com/clip/fb87466a-b38e-42a6-b5d6-fb69248866c4_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/internacional/nobel-paz-navi-pillay-le_1_1131801.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "nobel",
       "fecha": "Sat, 10 Oct 2026 18:03:29 +0000",
-      "id": 10
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -141,10 +63,10 @@
       "resumen": "La empresa internacional contratado por Madrid está sometida a la regla que obliga las sedes diplomáticas en Cuba a pasar por la estatal Palco para gestionar su personal",
       "imagen_url": "https://static.14ymedio.com/clip/5a5e2c55-f7e6-4d4b-bef3-40e7721912c4_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/cola-servicio-agil-nuevo-centro_1_1131761.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "menos",
       "fecha": "Fri, 09 Oct 2026 19:36:25 +0000",
-      "id": 11
+      "id": 5
     },
     {
       "categoria": "salud",
@@ -157,7 +79,7 @@
       "destacada": false,
       "tema": "servicios",
       "fecha": "Fri, 09 Oct 2026 15:04:50 +0000",
-      "id": 12
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -170,7 +92,7 @@
       "destacada": false,
       "tema": "número",
       "fecha": "Sun, 11 Oct 2026 10:55:36 +0200",
-      "id": 13
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -183,7 +105,7 @@
       "destacada": false,
       "tema": "bombardea",
       "fecha": "Sun, 11 Oct 2026 10:47:04 +0200",
-      "id": 14
+      "id": 8
     },
     {
       "categoria": "energia",
@@ -196,7 +118,72 @@
       "destacada": false,
       "tema": "crisis",
       "fecha": "Sun, 11 Oct 2026 06:24:22 +0200",
-      "id": 15
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Homenaje a nuestros próceres en el día de la independencia",
+      "resumen": "Ofrendas florales a nombre del pueblo de Cuba fueron colocadas ante los sitios de reposo eterno de Carlos Manuel de Céspedes, Padre de la Patria, y José Martí, Héroe Nacional, en el cementerio patrimonial de Santa Ifigenia",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261010/homenaje-a-nuestros-proceres-en-el-dia-de-la-independencia/",
+      "destacada": false,
+      "tema": "homenaje",
+      "fecha": "Sat, 10 Oct 2026 17:58:58 +0000",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Unidos por el bien de las comunidades",
+      "resumen": "Arribaron al territorio pinero dos residentes de tercer año de la especialidad de Urología, procedentes de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261010/unidos-por-el-bien-de-las-comunidades/",
+      "destacada": false,
+      "tema": "unidos",
+      "fecha": "Sat, 10 Oct 2026 17:50:07 +0000",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Ejemplo de resistencia ante el sacrificio",
+      "resumen": "La Guerra de los Diez Años legó para las nuevas generaciones de cubanos ejemplos sublimes de sacrificio sin abandonar los principios",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261010/ejemplo-de-resistencia-ante-el-sacrificio/",
+      "destacada": false,
+      "tema": "ejemplo",
+      "fecha": "Sat, 10 Oct 2026 17:41:50 +0000",
+      "id": 12
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Demajagua, inicio de libertad",
+      "resumen": "Miguel Díaz-Canel Bermúdez, Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, asistió hoy al acto por el aniversario 158 del inicio de la Guerra de los Diez Años, efectuado en la emblemática Plaza de Armas, en el casco histórico habanero",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261010/la-demajagua-inicio-de-libertad/",
+      "destacada": false,
+      "tema": "demajagua",
+      "fecha": "Sat, 10 Oct 2026 14:17:45 +0000",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Anec La Habana anuncia próximo curso",
+      "resumen": "Se trata de Contabilidad para no contadores",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261010/anec-la-habana-anuncia-proximo-curso/",
+      "destacada": false,
+      "tema": "habana",
+      "fecha": "Sat, 10 Oct 2026 13:00:13 +0000",
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -209,7 +196,7 @@
       "destacada": false,
       "tema": "asere",
       "fecha": "Sun, 11 Oct 2026 13:03:54 +0200",
-      "id": 16
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -222,7 +209,7 @@
       "destacada": false,
       "tema": "emigración",
       "fecha": "Sun, 11 Oct 2026 12:29:47 +0200",
-      "id": 17
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -235,7 +222,7 @@
       "destacada": false,
       "tema": "ángel",
       "fecha": "Sun, 11 Oct 2026 12:05:33 +0200",
-      "id": 18
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -248,7 +235,7 @@
       "destacada": false,
       "tema": "pesistas",
       "fecha": "Sun, 11 Oct 2026 10:42:39 +0200",
-      "id": 19
+      "id": 18
     },
     {
       "categoria": "politica",
@@ -261,7 +248,7 @@
       "destacada": false,
       "tema": "bruno",
       "fecha": "Sat, 10 Oct 2026 23:50:27 +0200",
-      "id": 20
+      "id": 19
     },
     {
       "categoria": "energia",
@@ -274,7 +261,7 @@
       "destacada": false,
       "tema": "dispara",
       "fecha": "Sat, 10 Oct 2026 21:54:38 +0200",
-      "id": 21
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -287,7 +274,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Sat, 10 Oct 2026 20:41:12 +0200",
-      "id": 22
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -300,7 +287,7 @@
       "destacada": false,
       "tema": "libros",
       "fecha": "Sat, 10 Oct 2026 18:29:09 +0200",
-      "id": 23
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -313,6 +300,19 @@
       "destacada": false,
       "tema": "dormir",
       "fecha": "Sat, 10 Oct 2026 18:00:47 +0200",
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El Cubano y su Fe",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480755.html",
+      "destacada": false,
+      "tema": "cubano",
+      "fecha": "Sun, 11 Oct 2026 08:00:00 -0400",
       "id": 24
     },
     {
@@ -551,45 +551,6 @@
     },
     {
       "categoria": "politica",
-      "fuente": "https://www.guerrillero.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Encabeza Díaz-Canel acto por inicio de las luchas independentistas",
-      "resumen": "&#160;Miguel Díaz-Canel Bermúdez, Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, asiste hoy al acto por el aniversario 158 del inicio de la primera de las contiendas por la independencia que pasaría a la historia nacional como la Guerra de los Diez A",
-      "imagen_url": "",
-      "enlace_original": "https://www.guerrillero.cu/encabeza-diaz-canel-acto-por-inicio-de-las-luchas-independentistas/",
-      "destacada": false,
-      "tema": "encabeza",
-      "fecha": "Sat, 10 Oct 2026 16:06:01 +0000",
-      "id": 43
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.guerrillero.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Serie Nacional: la paridad enciende la lucha por la cima",
-      "resumen": "La 65.ª Serie Nacional de Béisbol vivirá hoy otra jornada de duelos parejos, con Pinar del Río en solitario al frente de Occidente y Santiago de Cuba y Sancti Spíritus compartiendo la cima oriental. En un campeonato comprimido a 44 partidos por equipo en la fase clasificatoria, cada resultado comien",
-      "imagen_url": "",
-      "enlace_original": "https://www.guerrillero.cu/serie-nacional-la-paridad-enciende-la-lucha-por-la-cima/",
-      "destacada": false,
-      "tema": "serie",
-      "fecha": "Sat, 10 Oct 2026 13:16:00 +0000",
-      "id": 44
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.guerrillero.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Poner los pies en el campo (II)",
-      "resumen": "Epígrafe: Ley de Tierra Agropecuaria y Forestal La Ley 185 de la Tierra Agropecuaria y Forestal incluye un conjunto de 19 normas jurídicas que actualizan el marco legal de la agricultura cubana en aras de dinamizar la producción de alimentos y avanzar hacia la soberanía alimentaria. La reciente legi",
-      "imagen_url": "",
-      "enlace_original": "https://www.guerrillero.cu/poner-los-pies-en-el-campo-ii/",
-      "destacada": false,
-      "tema": "poner",
-      "fecha": "Fri, 09 Oct 2026 12:04:00 +0000",
-      "id": 45
-    },
-    {
-      "categoria": "politica",
       "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "alternativa",
       "titulo": "Céspedes vuelve a la plaza",
@@ -599,7 +560,7 @@
       "destacada": false,
       "tema": "céspedes",
       "fecha": "Sat, 10 Oct 2026 15:55:18 +0000",
-      "id": 46
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -612,7 +573,7 @@
       "destacada": false,
       "tema": "gestas",
       "fecha": "Sat, 10 Oct 2026 17:21:16 +0000",
-      "id": 47
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -625,7 +586,7 @@
       "destacada": false,
       "tema": "injerto",
       "fecha": "Sat, 10 Oct 2026 16:50:26 +0000",
-      "id": 48
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -638,7 +599,7 @@
       "destacada": false,
       "tema": "través",
       "fecha": "Sat, 10 Oct 2026 17:17:39 +0000",
-      "id": 49
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -651,7 +612,7 @@
       "destacada": false,
       "tema": "destaca",
       "fecha": "Sat, 10 Oct 2026 09:17:00 +0000",
-      "id": 50
+      "id": 47
     },
     {
       "categoria": "transporte",
@@ -664,7 +625,7 @@
       "destacada": false,
       "tema": "extiende",
       "fecha": "Fri, 09 Oct 2026 13:50:41 +0000",
-      "id": 51
+      "id": 48
     },
     {
       "categoria": "transporte",
@@ -677,7 +638,7 @@
       "destacada": false,
       "tema": "ferrer",
       "fecha": "Fri, 09 Oct 2026 12:34:00 +0000",
-      "id": 52
+      "id": 49
     }
   ]
 }
