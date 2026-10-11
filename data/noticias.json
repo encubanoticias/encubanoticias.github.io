@@ -1,6 +1,6 @@
 {
   "fecha": "2026-10-11",
-  "hora": "05:06",
+  "hora": "06:07",
   "total": 60,
   "noticias": [
     {
@@ -82,19 +82,6 @@
       "id": 6
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Homenaje a Fidel Castro en seminario internacional en México",
-      "resumen": "Ciudad de México, 10 oct (Prensa Latina) Participantes en el XXX Seminario Internacional “Los partidos y una nueva sociedad” rindieron homenaje al centenario del natalicio del líder histórico de la Revolución cubana, Fidel Castro, destacó hoy la Embajada de la isla en México. The post Homenaje a Fid",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/10/homenaje-a-fidel-castro-en-seminario-internacional-en-mexico/",
-      "destacada": false,
-      "tema": "homenaje",
-      "fecha": "Sun, 11 Oct 2026 02:03:17 +0000",
-      "id": 7
-    },
-    {
       "categoria": "energia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -105,7 +92,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Sat, 10 Oct 2026 18:31:41 +0000",
-      "id": 8
+      "id": 7
     },
     {
       "categoria": "economia",
@@ -118,7 +105,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sat, 10 Oct 2026 14:37:50 +0000",
-      "id": 9
+      "id": 8
     },
     {
       "categoria": "energia",
@@ -131,7 +118,7 @@
       "destacada": false,
       "tema": "fogones",
       "fecha": "Sat, 10 Oct 2026 18:35:32 +0000",
-      "id": 10
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -144,7 +131,7 @@
       "destacada": false,
       "tema": "nobel",
       "fecha": "Sat, 10 Oct 2026 18:03:29 +0000",
-      "id": 11
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -157,7 +144,7 @@
       "destacada": false,
       "tema": "menos",
       "fecha": "Fri, 09 Oct 2026 19:36:25 +0000",
-      "id": 12
+      "id": 11
     },
     {
       "categoria": "salud",
@@ -170,6 +157,19 @@
       "destacada": false,
       "tema": "servicios",
       "fecha": "Fri, 09 Oct 2026 15:04:50 +0000",
+      "id": 12
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La crisis eléctrica también empuja a conexiones ilegales: tres personas detenidas en La Habana Vieja",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e209363-s27061-nid342582-crisis-electrica-tambien-empuja-conexiones-ilegales",
+      "destacada": false,
+      "tema": "crisis",
+      "fecha": "Sun, 11 Oct 2026 06:24:22 +0200",
       "id": 13
     },
     {
