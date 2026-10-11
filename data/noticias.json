@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-11",
-  "hora": "17:05",
-  "total": 58,
+  "hora": "19:05",
+  "total": 52,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -17,30 +17,17 @@
       "id": 1
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Las heridas del cerco económico también tienen rostro de mujer",
-      "resumen": "Las consecuencias del bloqueo contra la Isla recaen de manera&nbsp;desproporcionada sobre las mujeres y las niñas",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-09/las-heridas-del-cerco-economico-tambien-tienen-rostro-de-mujer-09-10-2026-18-10-25",
-      "destacada": true,
-      "tema": "heridas",
-      "fecha": "Fri, 09 Oct 2026 18:10:25 -0400",
-      "id": 2
-    },
-    {
       "categoria": "politica",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Canciller cubano: «nuevamente el gobierno estadounidense insiste en la mentira para intentar manipular la opinión pública internacional»",
-      "resumen": "El canciller cubano denunció el nuevo informe unilateral de EE.UU. sobre Trata de Personas",
+      "titulo": "Impulsan sistemas alimentarios sostenibles en el occidente de Cuba",
+      "resumen": "El proyecto fortalece sus capacidades operativas con el propósito de ampliar el monitoreo en los territorios y el acompañamiento técnico a productores, cooperativas, gobiernos locales, instituciones científicas y otros actores vinculados a su implementación",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-10/canciller-cubano-nuevamente-el-gobierno-estadounidense-insiste-en-la-mentira-para-intentar-manipular-la-opinion-publica-internacional-10-10-2026-16-10-02",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-10/impulsan-sistemas-alimentarios-sostenibles-en-el-occidente-de-cuba-10-10-2026-08-10-45",
       "destacada": true,
-      "tema": "canciller",
-      "fecha": "Sat, 10 Oct 2026 16:10:02 -0400",
-      "id": 3
+      "tema": "impulsan",
+      "fecha": "Sat, 10 Oct 2026 08:10:45 -0400",
+      "id": 2
     },
     {
       "categoria": "economia",
@@ -53,7 +40,7 @@
       "destacada": true,
       "tema": "puros",
       "fecha": "Sun, 11 Oct 2026 13:18:57 +0000",
-      "id": 4
+      "id": 3
     },
     {
       "categoria": "salud",
@@ -66,7 +53,7 @@
       "destacada": true,
       "tema": "régimen",
       "fecha": "Sun, 11 Oct 2026 11:15:41 +0000",
-      "id": 5
+      "id": 4
     },
     {
       "categoria": "politica",
@@ -76,9 +63,22 @@
       "resumen": "La Habana retiró sin explicaciones a la mitad de sus diplomáticos en Corea del Sur, aunque niega que la decisión tenga motivaciones políticas",
       "imagen_url": "https://static.14ymedio.com/clip/bb3c4984-546c-4a96-98d4-02236d675571_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/diaz-canel-reafirma-amistad-corea_1_1131811.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "canel",
       "fecha": "Sun, 11 Oct 2026 11:40:09 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Dos personas en una motocicleta asesinan a balazos a un cubano en Cancún",
+      "resumen": "Las autoridades confirman a ‘14ymedio’ que ninguna persona se ha presentado a identificar a la víctima",
+      "imagen_url": "https://static.14ymedio.com/clip/afef51c6-8f73-43b4-904b-3321dbf6a0c6_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/migracion/personas-motocicleta-asesinan-balazos-cubano_1_1131838.html",
+      "destacada": false,
+      "tema": "personas",
+      "fecha": "Sun, 11 Oct 2026 17:57:30 +0000",
       "id": 6
     },
     {
@@ -135,120 +135,16 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "GAESA abrirá un resort de lujo en medio de la crisis en Cuba: Así es el Hotel Playa Luxury Varadero",
+      "titulo": "Charcos y basureros, lo único que prospera en La Habana en medio de la expansión del dengue",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e199370-s27061-nid342611-gaesa-abrira-resort-lujo-medio-crisis-cuba-asi-hotel",
+      "enlace_original": "https://diariodecuba.com/cuba/1791744989_69315.html",
       "destacada": false,
-      "tema": "gaesa",
-      "fecha": "Sun, 11 Oct 2026 18:09:06 +0200",
+      "tema": "charcos",
+      "fecha": "Sun, 11 Oct 2026 20:56:29 +0200",
       "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Pequeña Habana celebrará una fiesta cubana gratuita el 15 de octubre con música y dominó",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e13-s27061-nid342612-pequena-habana-celebrara-fiesta-cubana-gratuita-15",
-      "destacada": false,
-      "tema": "pequeña",
-      "fecha": "Sun, 11 Oct 2026 17:29:55 +0200",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "España habilita citas de primer pasaporte en La Habana para inscritos hasta el 30 de junio",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e13-s27061-nid342613-espana-habilita-citas-primer-pasaporte-habana-inscritos",
-      "destacada": false,
-      "tema": "españa",
-      "fecha": "Sun, 11 Oct 2026 17:29:28 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Nueva estafa telefónica en Cuba vacía cuentas de Transfermóvil con un falso «código»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e135253-s27061-nid342610-nueva-estafa-telefonica-cuba-vacia-cuentas",
-      "destacada": false,
-      "tema": "nueva",
-      "fecha": "Sun, 11 Oct 2026 17:18:25 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubana visita hotel de Jibacoa y cuenta lo que encontró",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e199370-s27061-nid342605-cubana-visita-hotel-jibacoa-cuenta-encontro",
-      "destacada": false,
-      "tema": "cubana",
-      "fecha": "Sun, 11 Oct 2026 17:09:08 +0200",
-      "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Homenaje proletario a Camilo y Che",
-      "resumen": "Cientos de cubanas y cubanos se movilizaron durante sábado y domingo en jornadas de labores voluntarias y productivas",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261011/homenaje-proletario-a-camilo-y-che/",
-      "destacada": false,
-      "tema": "homenaje",
-      "fecha": "Sun, 11 Oct 2026 15:36:42 +0000",
-      "id": 16
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Diez días que estremecieron a Cuba",
-      "resumen": "De La Demajagua a Bayamo, la chispa que encendió la manigua",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261011/diez-dias-que-estremecieron-a-cuba/",
-      "destacada": false,
-      "tema": "estremecieron",
-      "fecha": "Sun, 11 Oct 2026 15:20:33 +0000",
-      "id": 17
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Macuba reestrena en saludo al Día de la Cultura Cubana",
-      "resumen": "Mamarrachos volvió a escena este sábado 10 de octubre en Estudio Teatro Macuba, en la ciudad santiaguera, con el protagonismo de actores y actrices del núcleo artístico homónimo",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261011/macuba-reestrena-en-saludo-al-dia-de-la-cultura-cubana/",
-      "destacada": false,
-      "tema": "macuba",
-      "fecha": "Sun, 11 Oct 2026 13:56:14 +0000",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Homenaje a nuestros próceres en el día de la independencia",
-      "resumen": "Ofrendas florales a nombre del pueblo de Cuba fueron colocadas ante los sitios de reposo eterno de Carlos Manuel de Céspedes, Padre de la Patria, y José Martí, Héroe Nacional, en el cementerio patrimonial de Santa Ifigenia",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261010/homenaje-a-nuestros-proceres-en-el-dia-de-la-independencia/",
-      "destacada": false,
-      "tema": "homenaje",
-      "fecha": "Sat, 10 Oct 2026 17:58:58 +0000",
-      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -261,7 +157,7 @@
       "destacada": false,
       "tema": "gaviota",
       "fecha": "Sun, 11 Oct 2026 18:54:35 +0200",
-      "id": 20
+      "id": 12
     },
     {
       "categoria": "economia",
@@ -274,7 +170,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sun, 11 Oct 2026 17:22:21 +0200",
-      "id": 21
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -287,7 +183,7 @@
       "destacada": false,
       "tema": "policía",
       "fecha": "Sun, 11 Oct 2026 15:49:57 +0200",
-      "id": 22
+      "id": 14
     },
     {
       "categoria": "politica",
@@ -300,7 +196,7 @@
       "destacada": false,
       "tema": "punto",
       "fecha": "Sun, 11 Oct 2026 15:00:22 +0200",
-      "id": 23
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -313,7 +209,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Sun, 11 Oct 2026 14:31:57 +0200",
-      "id": 24
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -326,7 +222,7 @@
       "destacada": false,
       "tema": "asere",
       "fecha": "Sun, 11 Oct 2026 13:03:54 +0200",
-      "id": 25
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -339,7 +235,7 @@
       "destacada": false,
       "tema": "emigración",
       "fecha": "Sun, 11 Oct 2026 12:29:47 +0200",
-      "id": 26
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -352,20 +248,20 @@
       "destacada": false,
       "tema": "ángel",
       "fecha": "Sun, 11 Oct 2026 12:05:33 +0200",
-      "id": 27
+      "id": 19
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "transporte",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Dos pesistas cubanos abandonan la delegación en México antes de los Panamericanos de Lima 2027",
-      "resumen": "Las fugas vuelven a afectar al #DeporteCubano a menos de un año de los #Panamericanos de Lima: los pesistas Yeniuska Mirabal y Yorelvis Machado dejan el clasificatorio de Tepic en #México.",
+      "titulo": "Estrena en Uruguay serie documental “Caminos de libertad” realizada por Martí Noticias",
+      "resumen": "Martí Noticias estrenó en Montevideo la serie documental “Caminos de libertad”, centrada en los testimonios de la más reciente diáspora cubana en Uruguay. El lanzamiento coincidió con el 20 aniversario del Comité Uruguayo por la Democracia en Cuba, fundado en 2006.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/deportes/1791708159_69342.html",
+      "enlace_original": "https://www.martinoticias.com/a/estrena-en-uruguay-serie-documental-caminos-de-libertad-realizada-por-mart%c3%ad-noticias/481758.html",
       "destacada": false,
-      "tema": "pesistas",
-      "fecha": "Sun, 11 Oct 2026 10:42:39 +0200",
-      "id": 28
+      "tema": "estrena",
+      "fecha": "Sun, 11 Oct 2026 14:32:40 -0400",
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -378,7 +274,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Sun, 11 Oct 2026 12:00:00 -0400",
-      "id": 29
+      "id": 21
     },
     {
       "categoria": "economia",
@@ -391,7 +287,7 @@
       "destacada": false,
       "tema": "develan",
       "fecha": "Sun, 11 Oct 2026 11:54:44 -0400",
-      "id": 30
+      "id": 22
     },
     {
       "categoria": "salud",
@@ -404,7 +300,7 @@
       "destacada": false,
       "tema": "tragedia",
       "fecha": "Sun, 11 Oct 2026 10:20:08 -0400",
-      "id": 31
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -417,7 +313,7 @@
       "destacada": false,
       "tema": "pareja",
       "fecha": "Sun, 11 Oct 2026 09:27:04 -0400",
-      "id": 32
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -430,7 +326,7 @@
       "destacada": false,
       "tema": "síndrome",
       "fecha": "Sun, 11 Oct 2026 08:35:03 -0400",
-      "id": 33
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -443,7 +339,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Sun, 11 Oct 2026 08:00:00 -0400",
-      "id": 34
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -456,7 +352,7 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Sun, 11 Oct 2026 07:00:30 -0400",
-      "id": 35
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -469,20 +365,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Sun, 11 Oct 2026 07:00:00 -0400",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Postmoderno",
-      "resumen": "El cineasta cubanoamericano Joe Cardona y sus invitados rompen los muros culturales que han aislado a Cuba por mucho tiempo y tienden un puente musical para conocer la música que una vez fue censurada, prohibida y descartada.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480740.html",
-      "destacada": false,
-      "tema": "postmoderno",
-      "fecha": "Sat, 10 Oct 2026 20:00:00 -0400",
-      "id": 37
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -495,7 +378,7 @@
       "destacada": false,
       "tema": "alejandro",
       "fecha": "Sun, 11 Oct 2026 14:40:30 +0000",
-      "id": 38
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -508,7 +391,7 @@
       "destacada": false,
       "tema": "mundial",
       "fecha": "Sun, 11 Oct 2026 14:34:28 +0000",
-      "id": 39
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -521,33 +404,98 @@
       "destacada": false,
       "tema": "sancti",
       "fecha": "Sun, 11 Oct 2026 13:30:10 +0000",
-      "id": 40
+      "id": 31
     },
     {
       "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "El camino: un homenaje fílmico a la juventud cubana",
-      "resumen": "A las nuevas generaciones se les rinde homenaje en la película El camino, ópera prima como director del actor cubano Omar Alí, cuya presentación especial fue este sábado en el capitalino cine Yara, como parte de las celebraciones de la Jornada por la Cultura Cubana y el aniversario 50 del Ministerio",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/11/el-camino-un-homenaje-filmico-a-la-juventud-cubana/",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Italia: sobre la moción de apoyo a Cuba, aprobada por unanimidad por la Comisión de Asuntos Exteriores del Parlamento",
+      "resumen": "Argentino Tellini - Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125430-italia-sobre-la-mocion-de-apoyo-a-cuba-aprobada-por-unanimidad-por-la-comision-de-asuntos-exteriores-del-parlamento.jpg?t=1791740145",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261011/125430/125430-italia-sobre-la-mocion-de-apoyo-a-cuba-aprobada-por-unanimidad-por-la-comision-de-asuntos-exteriores-del-parlamento",
       "destacada": false,
-      "tema": "camino",
-      "fecha": "Sun, 11 Oct 2026 12:37:39 +0000",
-      "id": 41
+      "tema": "italia",
+      "fecha": "Sun, 11 Oct 26 19:35:00 +0200",
+      "id": 32
     },
     {
-      "categoria": "energia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Capturan a tres personas por realizar conexiones eléctricas ilegales en La Habana Vieja",
-      "resumen": "Tres personas fueron capturadas en la noche de este viernes mientras realizaban conexiones eléctricas ilegales en Aponte esquina Corrales, en el municipio capitalino de La Habana Vieja, informó Lázaro Bárbaro Torres Delgado, presidente de la Asamblea Municipal del Poder Popular (AMPP) de ese municip",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/11/capturan-a-tres-personas-por-realizar-conexiones-electricas-ilegales-en-la-habana-vieja/",
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "10 de octubre: una fecha grabada a fuego en la historia de Cuba",
+      "resumen": "La historia de la terquedad cubana en defensa de la Patria tiene su explicación, y hay que saber co...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125429-10-de-octubre-una-fecha-grabada-a-fuego-en-la-historia-de-cuba.jpg?t=1791739726",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261011/125429/125429-10-de-octubre-una-fecha-grabada-a-fuego-en-la-historia-de-cuba",
       "destacada": false,
-      "tema": "capturan",
-      "fecha": "Sun, 11 Oct 2026 12:20:43 +0000",
-      "id": 42
+      "tema": "octubre",
+      "fecha": "Sun, 11 Oct 26 19:26:00 +0200",
+      "id": 33
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Che: ¿tú y yo en La Habana viviendo en esta casa?",
+      "resumen": "Pedro Jorge Velázquez / El Necio",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125428-che-tu-y-yo-en-la-habana-viviendo-en-esta-casa.jpg?t=1791739242",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261011/125428/125428-che-tu-y-yo-en-la-habana-viviendo-en-esta-casa",
+      "destacada": false,
+      "tema": "habana",
+      "fecha": "Sun, 11 Oct 26 19:20:00 +0200",
+      "id": 34
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Un pueblo en la búsqueda de alternativas junto a su gobierno",
+      "resumen": "El Titan de #Cuba",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125427-un-pueblo-en-la-busqueda-de-alternativas-junto-a-su-gobierno.jpg?t=1791739212",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261011/125427/125427-un-pueblo-en-la-busqueda-de-alternativas-junto-a-su-gobierno",
+      "destacada": false,
+      "tema": "pueblo",
+      "fecha": "Sun, 11 Oct 26 19:20:00 +0200",
+      "id": 35
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Perdón España: los cubanos no somos como este especimen",
+      "resumen": "Pedro Jorge Velázquez / El Necio",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125426-perdon-espana-los-cubanos-no-somos-como-este-especimen.jpg?t=1791739086",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261011/125426/125426-perdon-espana-los-cubanos-no-somos-como-este-especimen",
+      "destacada": false,
+      "tema": "perdón",
+      "fecha": "Sun, 11 Oct 26 19:18:00 +0200",
+      "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Anna Bensi y el anticristo ¿Fusilarán en Cuba a terroristas de la lancha que venían a matar cubanos?",
+      "resumen": "Guerrero Cubano con su verdad al desnudo",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125425-anna-bensi-y-el-anticristo-fusilaran-en-cuba-a-terroristas-de-la-lancha-que-venian-a-matar-cubanos.jpg?t=1791739054",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261011/125425/125425-anna-bensi-y-el-anticristo-fusilaran-en-cuba-a-terroristas-de-la-lancha-que-venian-a-matar-cubanos",
+      "destacada": false,
+      "tema": "bensi",
+      "fecha": "Sun, 11 Oct 26 19:17:00 +0200",
+      "id": 37
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Gobierno de EE. UU. habla de “libertad económica”, pero lanza una persecución contra emprendedores privados de Cuba",
+      "resumen": "Pedro Jorge Velázquez / El Necio",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125424-gobierno-de-ee-uu-habla-de-libertad-economica-pero-lanza-una-persecucion-contra-emprendedores-privados-de-cuba.jpg?t=1791738589",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261011/125424/125424-gobierno-de-ee-uu-habla-de-libertad-economica-pero-lanza-una-persecucion-contra-emprendedores-privados-de-cuba",
+      "destacada": false,
+      "tema": "gobierno",
+      "fecha": "Sun, 11 Oct 26 19:09:00 +0200",
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -560,7 +508,7 @@
       "destacada": false,
       "tema": "pascual",
       "fecha": "Sun, 11 Oct 26 19:03:00 +0200",
-      "id": 43
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -573,7 +521,7 @@
       "destacada": false,
       "tema": "numeroso",
       "fecha": "Sun, 11 Oct 26 13:58:00 +0200",
-      "id": 44
+      "id": 40
     },
     {
       "categoria": "economia",
@@ -586,98 +534,7 @@
       "destacada": false,
       "tema": "precios",
       "fecha": "Sun, 11 Oct 26 12:19:00 +0200",
-      "id": 45
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Isaías deja dos muertos y cerca de un millón de usuarios sin electricidad en Estados Unidos",
-      "resumen": "Cubadebate - Imagen: Telesur - El huracán Isaías, degradado este sábado a ciclón postropical, dejó ...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125417-isaias-deja-dos-muertos-y-cerca-de-un-millon-de-usuarios-sin-electricidad-en-estados-unidos.jpg?t=1791713944",
-      "enlace_original": "https://www.cubainformacion.tv/mundo/20261011/125417/125417-isaias-deja-dos-muertos-y-cerca-de-un-millon-de-usuarios-sin-electricidad-en-estados-unidos",
-      "destacada": false,
-      "tema": "isaías",
-      "fecha": "Sun, 11 Oct 26 12:17:00 +0200",
-      "id": 46
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "EEUU y Cuba: La fuerza no tiene la razón",
-      "resumen": "Por Fulton Armstrong, Philip Brenner - El gobierno de Trump ha estado aplicando en Cuba su credo de...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125416-eeuu-y-cuba-la-fuerza-no-tiene-la-razon.jpg?t=1791713801",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261011/125416/125416-eeuu-y-cuba-la-fuerza-no-tiene-la-razon",
-      "destacada": false,
-      "tema": "fuerza",
-      "fecha": "Sun, 11 Oct 26 12:14:00 +0200",
-      "id": 47
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "UNE informa sobre restablecimiento del servicio eléctrico en el oriente del país",
-      "resumen": "Cubadebate - Vídeo: Canal Caribe - La Unión Eléctrica (UNE) confirmó que, a las 15:17 de este sábado...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125415-une-informa-sobre-restablecimiento-del-servicio-electrico-en-el-oriente-del-pais.jpg?t=1791713629",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261011/125415/125415-une-informa-sobre-restablecimiento-del-servicio-electrico-en-el-oriente-del-pais",
-      "destacada": false,
-      "tema": "informa",
-      "fecha": "Sun, 11 Oct 26 12:12:00 +0200",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Reconoce movimiento sindical uruguayo solidaridad de Brigada Médica cubana",
-      "resumen": "Cubadebate - Imagen: El Popular - Vídeo: Canal Caribe - El histórico local sindical del Cerro de Mon...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125413-reconoce-movimiento-sindical-uruguayo-solidaridad-de-brigada-medica-cubana.jpg?t=1791713238",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261011/125413/125413-reconoce-movimiento-sindical-uruguayo-solidaridad-de-brigada-medica-cubana",
-      "destacada": false,
-      "tema": "reconoce",
-      "fecha": "Sun, 11 Oct 26 12:05:00 +0200",
-      "id": 49
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "INNOVA 2026: Ciencia joven que teje el futuro de Cuba desde cada rincón del país",
-      "resumen": "Por Leonel Fuentes García - Bajo un formato híbrido que rompió las barreras geográficas y de conect...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125412-innova-2026-ciencia-joven-que-teje-el-futuro-de-cuba-desde-cada-rincon-del-pais.jpg?t=1791713132",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261011/125412/125412-innova-2026-ciencia-joven-que-teje-el-futuro-de-cuba-desde-cada-rincon-del-pais",
-      "destacada": false,
-      "tema": "innova",
-      "fecha": "Sun, 11 Oct 26 12:03:00 +0200",
-      "id": 50
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "El estadio Sandino de Santa Clara será la primera instalación deportiva de Cuba con energía solar fotovoltaica",
-      "resumen": "Cubadebate - Imagen: CMHW - Vídeo: Canal Caribe - El estadio de Béisbol “Augusto César Sandino”, de ...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125411-el-estadio-sandino-de-santa-clara-sera-la-primera-instalacion-deportiva-de-cuba-con-energia-solar-fotovoltaica.jpg?t=1791712946",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261011/125411/125411-el-estadio-sandino-de-santa-clara-sera-la-primera-instalacion-deportiva-de-cuba-con-energia-solar-fotovoltaica",
-      "destacada": false,
-      "tema": "estadio",
-      "fecha": "Sun, 11 Oct 26 11:54:00 +0200",
-      "id": 51
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba abrirá coloquio internacional sobre culturas originarias",
-      "resumen": "Prensa Latina - La Casa de las Américas de La Habana presentó hoy el programa de su VII Coloquio Int...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125410-cuba-abrira-coloquio-internacional-sobre-culturas-originarias.jpg?t=1791710158",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261011/125410/125410-cuba-abrira-coloquio-internacional-sobre-culturas-originarias",
-      "destacada": false,
-      "tema": "abrirá",
-      "fecha": "Sun, 11 Oct 26 11:14:00 +0200",
-      "id": 52
+      "id": 41
     },
     {
       "categoria": "politica",
@@ -690,7 +547,7 @@
       "destacada": false,
       "tema": "encabeza",
       "fecha": "Sat, 10 Oct 2026 16:06:01 +0000",
-      "id": 53
+      "id": 42
     },
     {
       "categoria": "politica",
@@ -703,7 +560,7 @@
       "destacada": false,
       "tema": "serie",
       "fecha": "Sat, 10 Oct 2026 13:16:00 +0000",
-      "id": 54
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -716,7 +573,20 @@
       "destacada": false,
       "tema": "guerra",
       "fecha": "Sun, 11 Oct 2026 16:29:31 +0000",
-      "id": 55
+      "id": 44
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Capturan a tres personas por realizar conexiones eléctricas ilegales en La Habana Vieja",
+      "resumen": "Las fuerzas de la Policía Nacional Revolucionaria (PNR) sorprendieron in fraganti a los implicados. Durante el operativo fueron ocupadas dos escaleras, instrumentos de trabajo y varios metros de cable La entrada Capturan a tres personas por realizar conexiones eléctricas ilegales en La Habana Vieja ",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/capturan-a-tres-personas-por-realizar-conexiones-electricas-ilegales-en-la-habana-vieja/",
+      "destacada": false,
+      "tema": "capturan",
+      "fecha": "Sun, 11 Oct 2026 15:48:53 +0000",
+      "id": 45
     },
     {
       "categoria": "energia",
@@ -729,7 +599,7 @@
       "destacada": false,
       "tema": "frustran",
       "fecha": "Sun, 11 Oct 2026 15:03:32 +0000",
-      "id": 56
+      "id": 46
     },
     {
       "categoria": "salud",
@@ -742,7 +612,7 @@
       "destacada": false,
       "tema": "autoridades",
       "fecha": "Sun, 11 Oct 2026 14:09:23 +0000",
-      "id": 57
+      "id": 47
     },
     {
       "categoria": "economia",
@@ -755,7 +625,59 @@
       "destacada": false,
       "tema": "octubre",
       "fecha": "Sun, 11 Oct 2026 13:39:44 +0000",
-      "id": 58
+      "id": 48
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cooperación Cuba-Italia consolida la fruticultura en Matanzas",
+      "resumen": "La iniciativa de la Agencia Italiana de Cooperación para el Desarrollo (AICS), CubaFruta, desde hace varios años trabaja en el fortalecimiento de las cadenas de valor de variedades de frutas en Los Arabos, Colón, Calimete y Jagüey Grande",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/11/cooperacion-cuba-italia-consolida-fruticultura/",
+      "destacada": false,
+      "tema": "cooperación",
+      "fecha": "Sun, 11 Oct 2026 12:57:00 +0000",
+      "id": 49
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Brigada de Instructores de Arte José Martí : 22 años en defensa de nuestra identidad",
+      "resumen": "La Brigada de Instructores de Arte José Martí (BIAJM) celebra su aniversario 22 con un amplio programa de actividades que se extenderá hasta el próximo 20 de octubre, como parte de la Jornada de la Cultura Cubana, bajo el lema «Arte, identidad y compromiso».",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/11/brigada-instructores-de-arte-22-anos-defensa-nuestra-identidad/",
+      "destacada": false,
+      "tema": "brigada",
+      "fecha": "Sun, 11 Oct 2026 12:47:00 +0000",
+      "id": 50
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Toque de campana resuena por la cultura en Matanzas",
+      "resumen": "El ya tradicional toque de campana en el parque conocido como \"De la Rueda\", anunció hoy el comienzo de la Jornada de la Cultura Cubana y Matancera,",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/11/toque-de-campana-resuena-por-la-cultura-matanzas/",
+      "destacada": false,
+      "tema": "toque",
+      "fecha": "Sun, 11 Oct 2026 12:42:38 +0000",
+      "id": 51
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Destaca Iván Silva en Campeonato Mundial de Judo",
+      "resumen": "Al alcanzar los octavos de final en la categoría de hasta 100 kilogramos, el matancero Iván Silva levantó los ánimos de la representación cubana al lograr la actuación más destacada de Cuba hasta el momento en el Campeonato Mundial de Judo de Bakú, Azerbaiyán.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/10/ivan-silva-campeonato-mundial-judo/",
+      "destacada": false,
+      "tema": "destaca",
+      "fecha": "Sat, 10 Oct 2026 09:17:00 +0000",
+      "id": 52
     }
   ]
 }
