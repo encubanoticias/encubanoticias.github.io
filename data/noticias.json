@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-11",
-  "hora": "15:05",
-  "total": 60,
+  "hora": "17:05",
+  "total": 58,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -20,19 +20,6 @@
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Demajagua: Semilla de la emancipación nacional",
-      "resumen": "El 10 de octubre de 1868, en el ingenio Demajagua, Carlos Manuel de Céspedes inició la lucha armada&nbsp;por la independencia de Cuba. Aquel alzamiento no fue solo un hecho militar: se convirtió en símbolo&nbsp;de valentía y altruismo, en semilla viva que todo cubano debería evocar con reverencia",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-09/demajagua-semilla-de-la-emancipacion-nacional-09-10-2026-16-10-38",
-      "destacada": true,
-      "tema": "demajagua",
-      "fecha": "Fri, 09 Oct 2026 16:10:38 -0400",
-      "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
       "titulo": "Las heridas del cerco económico también tienen rostro de mujer",
       "resumen": "Las consecuencias del bloqueo contra la Isla recaen de manera&nbsp;desproporcionada sobre las mujeres y las niñas",
       "imagen_url": "",
@@ -40,7 +27,7 @@
       "destacada": true,
       "tema": "heridas",
       "fecha": "Fri, 09 Oct 2026 18:10:25 -0400",
-      "id": 3
+      "id": 2
     },
     {
       "categoria": "politica",
@@ -53,7 +40,7 @@
       "destacada": true,
       "tema": "canciller",
       "fecha": "Sat, 10 Oct 2026 16:10:02 -0400",
-      "id": 4
+      "id": 3
     },
     {
       "categoria": "economia",
@@ -66,7 +53,7 @@
       "destacada": true,
       "tema": "puros",
       "fecha": "Sun, 11 Oct 2026 13:18:57 +0000",
-      "id": 5
+      "id": 4
     },
     {
       "categoria": "salud",
@@ -76,10 +63,10 @@
       "resumen": "El canciller califica de “unilateral y mendaz” el documento sobre el trabajo forzoso en las misiones sanitarias, pero no desmiente las cifras ni los mecanismos de control que describe el reporte",
       "imagen_url": "https://static.14ymedio.com/clip/38fa9ae1-8fe2-45a6-b5d7-beb1da3ce7e4_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/bruno-rodriguez-tilda-persecucion-enfermiza_1_1131809.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "régimen",
       "fecha": "Sun, 11 Oct 2026 11:15:41 +0000",
-      "id": 6
+      "id": 5
     },
     {
       "categoria": "politica",
@@ -92,6 +79,19 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sun, 11 Oct 2026 11:40:09 +0000",
+      "id": 6
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Vuelve la luz en el oriente, la zona del país más castigada por los apagones",
+      "resumen": "Tres personas fueron detenidas por la policía en La Habana Vieja cuando realizaban conexiones eléctricas ilegales",
+      "imagen_url": "https://static.14ymedio.com/clip/f3e4b7e6-52ae-4636-9a3a-629eeb4ff099_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/vuelve-luz-oriente-zona-pais_1_1131825.html",
+      "destacada": false,
+      "tema": "vuelve",
+      "fecha": "Sun, 11 Oct 2026 15:03:21 +0000",
       "id": 7
     },
     {
@@ -135,81 +135,107 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Menos cola y servicio más ágil en el nuevo centro de visados para España en La Habana",
-      "resumen": "La empresa internacional contratado por Madrid está sometida a la regla que obliga las sedes diplomáticas en Cuba a pasar por la estatal Palco para gestionar su personal",
-      "imagen_url": "https://static.14ymedio.com/clip/5a5e2c55-f7e6-4d4b-bef3-40e7721912c4_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/cola-servicio-agil-nuevo-centro_1_1131761.html",
+      "titulo": "GAESA abrirá un resort de lujo en medio de la crisis en Cuba: Así es el Hotel Playa Luxury Varadero",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e199370-s27061-nid342611-gaesa-abrira-resort-lujo-medio-crisis-cuba-asi-hotel",
       "destacada": false,
-      "tema": "menos",
-      "fecha": "Fri, 09 Oct 2026 19:36:25 +0000",
+      "tema": "gaesa",
+      "fecha": "Sun, 11 Oct 2026 18:09:06 +0200",
       "id": 11
     },
     {
-      "categoria": "economia",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Así amanece el mercado informal en Cuba: dólar y euro comienzan el domingo al alza",
+      "titulo": "Pequeña Habana celebrará una fiesta cubana gratuita el 15 de octubre con música y dominó",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e135253-s27061-nid342604-asi-amanece-mercado-informal-cuba-dolar-euro",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e13-s27061-nid342612-pequena-habana-celebrara-fiesta-cubana-gratuita-15",
       "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Sun, 11 Oct 2026 16:22:17 +0200",
+      "tema": "pequeña",
+      "fecha": "Sun, 11 Oct 2026 17:29:55 +0200",
       "id": 12
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Diez aeropuertos cubanos mantienen aviso de combustible no disponible hasta el 1 de noviembre",
+      "titulo": "España habilita citas de primer pasaporte en La Habana para inscritos hasta el 30 de junio",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e13-s27061-nid342602-diez-aeropuertos-cubanos-mantienen-aviso-combustible",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e13-s27061-nid342613-espana-habilita-citas-primer-pasaporte-habana-inscritos",
       "destacada": false,
-      "tema": "aeropuertos",
-      "fecha": "Sun, 11 Oct 2026 15:38:20 +0200",
+      "tema": "españa",
+      "fecha": "Sun, 11 Oct 2026 17:29:28 +0200",
       "id": 13
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Odisea de una cubana para volar de La Habana a Madrid con escala en Panamá: «Todo empezó súper bien»",
+      "titulo": "Nueva estafa telefónica en Cuba vacía cuentas de Transfermóvil con un falso «código»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e199370-s27061-nid342598-odisea-cubana-volar-habana-madrid-escala-panama-todo",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e135253-s27061-nid342610-nueva-estafa-telefonica-cuba-vacia-cuentas",
       "destacada": false,
-      "tema": "odisea",
-      "fecha": "Sun, 11 Oct 2026 15:31:24 +0200",
+      "tema": "nueva",
+      "fecha": "Sun, 11 Oct 2026 17:18:25 +0200",
       "id": 14
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Petro relata la captura de Maduro y provoca una visible incomodidad en Johana Tablada y otros funcionarios cubanos",
+      "titulo": "Cubana visita hotel de Jibacoa y cuenta lo que encontró",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e207888-s27061-nid342595-petro-relata-captura-maduro-provoca-visible",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e199370-s27061-nid342605-cubana-visita-hotel-jibacoa-cuenta-encontro",
       "destacada": false,
-      "tema": "petro",
-      "fecha": "Sun, 11 Oct 2026 13:57:05 +0200",
+      "tema": "cubana",
+      "fecha": "Sun, 11 Oct 2026 17:09:08 +0200",
       "id": 15
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Trump redujo la inmigración legal 2,7 veces más que la ilegal: Así afectan sus medidas a los cubanos",
-      "resumen": "",
+      "titulo": "Homenaje proletario a Camilo y Che",
+      "resumen": "Cientos de cubanas y cubanos se movilizaron durante sábado y domingo en jornadas de labores voluntarias y productivas",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e199370-s27061-nid342592-trump-redujo-inmigracion-legal-27-veces-ilegal-asi",
+      "enlace_original": "https://www.trabajadores.cu/20261011/homenaje-proletario-a-camilo-y-che/",
       "destacada": false,
-      "tema": "trump",
-      "fecha": "Sun, 11 Oct 2026 13:48:10 +0200",
+      "tema": "homenaje",
+      "fecha": "Sun, 11 Oct 2026 15:36:42 +0000",
       "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Diez días que estremecieron a Cuba",
+      "resumen": "De La Demajagua a Bayamo, la chispa que encendió la manigua",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261011/diez-dias-que-estremecieron-a-cuba/",
+      "destacada": false,
+      "tema": "estremecieron",
+      "fecha": "Sun, 11 Oct 2026 15:20:33 +0000",
+      "id": 17
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Macuba reestrena en saludo al Día de la Cultura Cubana",
+      "resumen": "Mamarrachos volvió a escena este sábado 10 de octubre en Estudio Teatro Macuba, en la ciudad santiaguera, con el protagonismo de actores y actrices del núcleo artístico homónimo",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261011/macuba-reestrena-en-saludo-al-dia-de-la-cultura-cubana/",
+      "destacada": false,
+      "tema": "macuba",
+      "fecha": "Sun, 11 Oct 2026 13:56:14 +0000",
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -222,58 +248,32 @@
       "destacada": false,
       "tema": "homenaje",
       "fecha": "Sat, 10 Oct 2026 17:58:58 +0000",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Unidos por el bien de las comunidades",
-      "resumen": "Arribaron al territorio pinero dos residentes de tercer año de la especialidad de Urología, procedentes de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261010/unidos-por-el-bien-de-las-comunidades/",
-      "destacada": false,
-      "tema": "unidos",
-      "fecha": "Sat, 10 Oct 2026 17:50:07 +0000",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Ejemplo de resistencia ante el sacrificio",
-      "resumen": "La Guerra de los Diez Años legó para las nuevas generaciones de cubanos ejemplos sublimes de sacrificio sin abandonar los principios",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261010/ejemplo-de-resistencia-ante-el-sacrificio/",
-      "destacada": false,
-      "tema": "ejemplo",
-      "fecha": "Sat, 10 Oct 2026 17:41:50 +0000",
       "id": 19
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.trabajadores.cu",
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La Demajagua, inicio de libertad",
-      "resumen": "Miguel Díaz-Canel Bermúdez, Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, asistió hoy al acto por el aniversario 158 del inicio de la Guerra de los Diez Años, efectuado en la emblemática Plaza de Armas, en el casco histórico habanero",
+      "titulo": "Gaviota reabre 85 habitaciones de lujo en Varadero, pero mantiene cerrada casi toda su planta hotelera",
+      "resumen": "#GAESA celebra que opera 3.470 habitaciones de hoteles en #Cuba, menos del 12% de las más de 30.000 que declara en su sitio oficial.",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261010/la-demajagua-inicio-de-libertad/",
+      "enlace_original": "https://diariodecuba.com/economia/1791737675_69348.html",
       "destacada": false,
-      "tema": "demajagua",
-      "fecha": "Sat, 10 Oct 2026 14:17:45 +0000",
+      "tema": "gaviota",
+      "fecha": "Sun, 11 Oct 2026 18:54:35 +0200",
       "id": 20
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
+      "categoria": "economia",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Anec La Habana anuncia próximo curso",
-      "resumen": "Se trata de Contabilidad para no contadores",
+      "titulo": "Cuba estrena un mercado de abasto mayorista con compras mínimas de 200 dólares",
+      "resumen": "Empresas estatales, mipymes, una firma extranjera, más compras mínimas de 200 dólares, así es el primer #MercadoMayorista en #Cuba.",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261010/anec-la-habana-anuncia-proximo-curso/",
+      "enlace_original": "https://diariodecuba.com/economia/1791732141_69347.html",
       "destacada": false,
-      "tema": "habana",
-      "fecha": "Sat, 10 Oct 2026 13:00:13 +0000",
+      "tema": "tipo_cambio",
+      "fecha": "Sun, 11 Oct 2026 17:22:21 +0200",
       "id": 21
     },
     {
@@ -368,29 +368,29 @@
       "id": 28
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Bruno Rodríguez tacha de 'persecución enfermiza' el informe de EEUU sobre trata de personas",
-      "resumen": "El ministro de Relaciones Exteriores del #RégimenCubano califica de \"persecución enfermiza a la colaboración médica cubana\" el nuevo Informe sobre la Trata de Personas de #Washington.",
+      "titulo": "Noticiero de Radio Martí 12:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791669027_69339.html",
+      "enlace_original": "https://www.martinoticias.com/a/480756.html",
       "destacada": false,
-      "tema": "bruno",
-      "fecha": "Sat, 10 Oct 2026 23:50:27 +0200",
+      "tema": "noticiero",
+      "fecha": "Sun, 11 Oct 2026 12:00:00 -0400",
       "id": 29
     },
     {
-      "categoria": "energia",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "economia",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Se dispara la línea Nuevitas-Las Tunas y el oriente cubano se desconecta del sistema eléctrico",
-      "resumen": "Una desconexión parcial del sistema eléctrico cubano apaga el oriente de #Cuba. Ocurre horas después de que la Guiteras volviera a generar y en medio de un déficit previsto de 1.680 MW para esta noche de sábado.",
+      "titulo": "Develan un banco en la Ermita de la Caridad en honor a las víctimas del remolcador 13 de Marzo",
+      "resumen": "Un banco conmemorativo fue inaugurado este sábado en el Malecón del Santuario Nacional de la Ermita de la Caridad, en Miami, para honrar a las víctimas del remolcador 13 de Marzo y a todos los cubanos fallecidos en el mar al intentar escapar de la dictadura.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791662078_69338.html",
+      "enlace_original": "https://www.martinoticias.com/a/develan-un-banco-en-la-ermita-de-la-caridad-en-honor-a-las-v%c3%adctimas-del-remolcador-13-de-marzo/481756.html",
       "destacada": false,
-      "tema": "dispara",
-      "fecha": "Sat, 10 Oct 2026 21:54:38 +0200",
+      "tema": "develan",
+      "fecha": "Sun, 11 Oct 2026 11:54:44 -0400",
       "id": 30
     },
     {
@@ -550,16 +550,16 @@
       "id": 42
     },
     {
-      "categoria": "salud",
-      "fuente": "https://periodismodebarrio.org",
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
-      "titulo": "Salud mental y resistencia: la crisis como norma en Cuba",
-      "resumen": "En una investigación realizada entre julio y noviembre de 2025, un 66% de las 415 personas encuestadas quedó en el rango severo de ansiedad.",
-      "imagen_url": "",
-      "enlace_original": "https://periodismodebarrio.org/salud-mental-en-cuba-apagones-crisis/",
+      "titulo": "Pascual Serrano y Aníbal Garzón presentarán en Sabadell el libro &quot;Voces con Fidel&quot;: el 22 de octubre",
+      "resumen": "Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125423-pascual-serrano-y-anibal-garzon-presentaran-en-sabadell-el-libro-voces-con-fidel-el-22-de-octubre.jpg?t=1791738376",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261011/125423/125423-pascual-serrano-y-anibal-garzon-presentaran-en-sabadell-el-libro-voces-con-fidel-el-22-de-octubre",
       "destacada": false,
-      "tema": "salud",
-      "fecha": "Fri, 09 Oct 2026 15:42:11 +0000",
+      "tema": "pascual",
+      "fecha": "Sun, 11 Oct 26 19:03:00 +0200",
       "id": 43
     },
     {
@@ -680,19 +680,6 @@
       "id": 52
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Argentinos relanzan campaña por más paneles solares para Cuba",
-      "resumen": "Prensa Latina - Vídeo: Telesur - Luego de llevar a la isla equipos de paneles solares para familias ...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125409-argentinos-relanzan-campana-por-mas-paneles-solares-para-cuba.jpg?t=1791710015",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261011/125409/125409-argentinos-relanzan-campana-por-mas-paneles-solares-para-cuba",
-      "destacada": false,
-      "tema": "argentinos",
-      "fecha": "Sun, 11 Oct 26 11:12:00 +0200",
-      "id": 53
-    },
-    {
       "categoria": "politica",
       "fuente": "https://www.guerrillero.cu/",
       "fuente_tipo": "alternativa",
@@ -703,7 +690,7 @@
       "destacada": false,
       "tema": "encabeza",
       "fecha": "Sat, 10 Oct 2026 16:06:01 +0000",
-      "id": 54
+      "id": 53
     },
     {
       "categoria": "politica",
@@ -716,6 +703,19 @@
       "destacada": false,
       "tema": "serie",
       "fecha": "Sat, 10 Oct 2026 13:16:00 +0000",
+      "id": 54
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Guerra Fría de Douglas Pérez",
+      "resumen": "La muestra reúne referencias de la tradición clásica y religiosa con elementos de la cultura popular y propone, en cambio, una visión más compleja de la realidad contemporánea La entrada La Guerra Fría de Douglas Pérez se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/la-guerra-fria-de-douglas-perez/",
+      "destacada": false,
+      "tema": "guerra",
+      "fecha": "Sun, 11 Oct 2026 16:29:31 +0000",
       "id": 55
     },
     {
@@ -756,32 +756,6 @@
       "tema": "octubre",
       "fecha": "Sun, 11 Oct 2026 13:39:44 +0000",
       "id": 58
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Toque de campana resuena por la cultura en Matanzas",
-      "resumen": "El ya tradicional toque de campana en el parque conocido como \"De la Rueda\", anunció hoy el comienzo de la Jornada de la Cultura Cubana y Matancera,",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/11/toque-de-campana-resuena-por-la-cultura-matanzas/",
-      "destacada": false,
-      "tema": "toque",
-      "fecha": "Sun, 11 Oct 2026 12:42:38 +0000",
-      "id": 59
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Destaca Iván Silva en Campeonato Mundial de Judo",
-      "resumen": "Al alcanzar los octavos de final en la categoría de hasta 100 kilogramos, el matancero Iván Silva levantó los ánimos de la representación cubana al lograr la actuación más destacada de Cuba hasta el momento en el Campeonato Mundial de Judo de Bakú, Azerbaiyán.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/10/ivan-silva-campeonato-mundial-judo/",
-      "destacada": false,
-      "tema": "destaca",
-      "fecha": "Sat, 10 Oct 2026 09:17:00 +0000",
-      "id": 60
     }
   ]
 }
