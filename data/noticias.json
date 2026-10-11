@@ -1,19 +1,19 @@
 {
   "fecha": "2026-10-11",
-  "hora": "21:05",
-  "total": 60,
+  "hora": "23:05",
+  "total": 59,
   "noticias": [
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Película cubana Neurótica Anónima nominada a los Goya",
-      "resumen": "El filme de Jorge Perugorría aspira en la categoría de Mejor Película Iberoamericana",
+      "titulo": "Cuba y el Nobel, nominaciones y ausencias",
+      "resumen": "A propósito del reciente anuncio de los Premios Nobel 2026, un recorrido por las candidaturas cubanas",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-11/pelicula-cubana-neurotica-anonima-nominada-a-los-goya-11-10-2026-10-10-10",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-10/cuba-y-el-nobel-nominaciones-y-ausencias-10-10-2026-09-10-41",
       "destacada": true,
-      "tema": "película",
-      "fecha": "Sun, 11 Oct 2026 10:10:10 -0400",
+      "tema": "nobel",
+      "fecha": "Sat, 10 Oct 2026 09:10:41 -0400",
       "id": 1
     },
     {
@@ -31,16 +31,55 @@
     },
     {
       "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Película cubana Neurótica Anónima nominada a los Goya",
+      "resumen": "El filme de Jorge Perugorría aspira en la categoría de Mejor Película Iberoamericana",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-11/pelicula-cubana-neurotica-anonima-nominada-a-los-goya-11-10-2026-10-10-10",
+      "destacada": true,
+      "tema": "película",
+      "fecha": "Sun, 11 Oct 2026 10:10:10 -0400",
+      "id": 3
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Pinar del Río sostiene el paso ganador en el béisbol cubano",
+      "resumen": "Pinar del Río, Cuba, 11 oct (Prensa Latina) Los Vegueros pinareños prolongaron hoy su racha ganadora a seis partidos y conservaron el mando occidental de la 65 Serie Nacional de Béisbol de Cuba. The post Pinar del Río sostiene el paso ganador en el béisbol cubano first appeared on Noticias Prensa La",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/11/pinar-del-rio-sostiene-el-paso-ganador-en-el-beisbol-cubano/",
+      "destacada": true,
+      "tema": "pinar",
+      "fecha": "Sun, 11 Oct 2026 21:55:45 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba: Díaz-Canel destaca memoria histórica ante agresión ideológica",
+      "resumen": "La Habana, 11 oct (Prensa Latina) El presidente Miguel Díaz-Canel sostuvo un encuentro con historiadores cubanos, donde destacó la defensa de la memoria histórica como pilar de la independencia nacional frente a la agresión ideológica contemporánea, informó hoy el diario Granma. The post Cuba: Díaz-",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/11/cuba-diaz-canel-destaca-memoria-historica-ante-agresion-ideologica/",
+      "destacada": true,
+      "tema": "canel",
+      "fecha": "Sun, 11 Oct 2026 21:23:11 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
       "titulo": "Tributo en Italia al Che Guevara y a emigrante Dino Pogolotti",
       "resumen": "Roma, 11 oct (Prensa Latina) Autoridades locales y miembros de organizaciones solidarias con Cuba en la ciudad italiana de Collegno rindieron homenaje hoy a Ernesto Che Guevara, en el aniversario 59 de su asesinato, el pasado 9 de octubre. The post Tributo en Italia al Che Guevara y a emigrante Dino",
       "imagen_url": "",
       "enlace_original": "https://www.prensa-latina.cu/2026/10/11/tributo-en-italia-al-che-guevara-y-a-emigrante-dino-pogolotti/",
-      "destacada": true,
+      "destacada": false,
       "tema": "tributo",
       "fecha": "Sun, 11 Oct 2026 20:47:38 +0000",
-      "id": 3
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -50,23 +89,10 @@
       "resumen": "Ciudad de Panamá, 11 oct (Prensa Latina) La Asociación Martiana de Cubanos Residentes en Panamá (Amcrp) ratificó hoy su compromiso con la defensa de la Patria natal frente al recrudecimiento de las medidas coercitivas impuestas por Estados Unidos hace más de seis décadas. The post Cubanos residentes",
       "imagen_url": "",
       "enlace_original": "https://www.prensa-latina.cu/2026/10/11/cubanos-residentes-en-panama-ratifican-defensa-de-la-patria/",
-      "destacada": true,
+      "destacada": false,
       "tema": "cubanos",
       "fecha": "Sun, 11 Oct 2026 20:39:06 +0000",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Manuel de Falla habita en la danza del Ballet Español de Cuba",
-      "resumen": "La Habana, 11 oct (Prensa Latina) En el marco del aniversario 150 de su natalicio, el célebre compositor español Manuel de Falla (1876-1946) habita en cada latir y movimiento del Ballet Español de Cuba, compañía que presentará hoy aquí un espectáculo en su honor. The post Manuel de Falla habita en l",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/11/manuel-de-falla-habita-en-la-danza-del-ballet-espanol-de-cuba/",
-      "destacada": true,
-      "tema": "manuel",
-      "fecha": "Sun, 11 Oct 2026 19:41:01 +0000",
-      "id": 5
+      "id": 7
     },
     {
       "categoria": "economia",
@@ -79,7 +105,7 @@
       "destacada": false,
       "tema": "puros",
       "fecha": "Sun, 11 Oct 2026 13:18:57 +0000",
-      "id": 6
+      "id": 8
     },
     {
       "categoria": "salud",
@@ -92,7 +118,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Sun, 11 Oct 2026 11:15:41 +0000",
-      "id": 7
+      "id": 9
     },
     {
       "categoria": "politica",
@@ -105,7 +131,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sun, 11 Oct 2026 11:40:09 +0000",
-      "id": 8
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -118,7 +144,7 @@
       "destacada": false,
       "tema": "personas",
       "fecha": "Sun, 11 Oct 2026 17:57:30 +0000",
-      "id": 9
+      "id": 11
     },
     {
       "categoria": "energia",
@@ -131,7 +157,7 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Sun, 11 Oct 2026 15:03:21 +0000",
-      "id": 10
+      "id": 12
     },
     {
       "categoria": "energia",
@@ -144,7 +170,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Sat, 10 Oct 2026 18:31:41 +0000",
-      "id": 11
+      "id": 13
     },
     {
       "categoria": "economia",
@@ -157,7 +183,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sat, 10 Oct 2026 14:37:50 +0000",
-      "id": 12
+      "id": 14
     },
     {
       "categoria": "energia",
@@ -170,98 +196,46 @@
       "destacada": false,
       "tema": "fogones",
       "fecha": "Sat, 10 Oct 2026 18:35:32 +0000",
-      "id": 13
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Uruguay abre nueva vía de residencia permanente que podría beneficiar a miles de cubanos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e135253-s27061-nid342651-uruguay-abre-nueva-residencia-permanente-podria",
-      "destacada": false,
-      "tema": "uruguay",
-      "fecha": "Sun, 11 Oct 2026 22:31:22 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cancelaciones en vuelos de Air China entre Pekín y La Habana, una de las dos aerolíneas que aún unen Europa con Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e135253-s27061-nid342647-embajada-china-alerta-cancelaciones-vuelos-air-china",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Sun, 11 Oct 2026 21:55:02 +0200",
       "id": 15
     },
     {
-      "categoria": "politica",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "De Raúl Castro a Miguel Díaz-Canel: La muerte de la libreta de abastecimiento y el futuro de las bodegas en Cuba",
+      "titulo": "Cubano se sorprende al presenciar solemne marcha de masones en Holguín: «Nunca había visto esto»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u199370-e199370-s27061-nid342625-raul-castro-miguel-diaz-canel-libreta",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208933-s27061-nid342658-cubano-sorprende-al-presenciar-solemne-marcha",
       "destacada": false,
-      "tema": "castro",
-      "fecha": "Sun, 11 Oct 2026 21:51:58 +0200",
+      "tema": "cubano",
+      "fecha": "Mon, 12 Oct 2026 00:21:26 +0200",
       "id": 16
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Iglesia bautista en La Habana entrega alimentos, ropa y artículos del hogar a ancianos y familias desfavorecidas",
+      "titulo": "Con protagonismo cubano, España vence a Italia y clasifica al Premier 12",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e209363-s27061-nid342644-iglesia-bautista-habana-entrega-alimentos-ropa",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e197721-s27066-nid342657-protagonismo-cubano-espana-vence-italia-clasifica-al",
       "destacada": false,
-      "tema": "iglesia",
-      "fecha": "Sun, 11 Oct 2026 21:25:11 +0200",
+      "tema": "protagonismo",
+      "fecha": "Mon, 12 Oct 2026 00:14:25 +0200",
       "id": 17
     },
     {
-      "categoria": "sociedad",
+      "categoria": "salud",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Desaparece un adolescente de 16 años arrastrado por el mar en la bahía de La Habana: suspenden la búsqueda por el fuerte oleaje",
+      "titulo": "Denuncia negligencia médica familia de hombre que murió en hospital de Santiago de Cuba",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e208933-s27061-nid342645-desaparece-adolescente-16-anos-arrastrado-mar-bahia",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e208512-s27061-nid342650-denuncia-negligencia-medica-familia-hombre-murio",
       "destacada": false,
-      "tema": "desaparece",
-      "fecha": "Sun, 11 Oct 2026 21:19:46 +0200",
+      "tema": "denuncia",
+      "fecha": "Sun, 11 Oct 2026 22:44:40 +0200",
       "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Sólo queremos ser libres e iguales»: vigencia del Manifiesto del 10 de Octubre, según historiadora cubana",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e209395-s27061-nid342621-solo-queremos-ser-libres-iguales-vigencia-manifiesto",
-      "destacada": false,
-      "tema": "queremos",
-      "fecha": "Sun, 11 Oct 2026 21:11:59 +0200",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Síndrome de La Habana: libro apunta a Rusia y denuncia presunto encubrimiento en EE.UU.",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-11-u1-e13-s27061-nid342643-sindrome-habana-libro-apunta-rusia-denuncia-presunto",
-      "destacada": false,
-      "tema": "síndrome",
-      "fecha": "Sun, 11 Oct 2026 20:56:45 +0200",
-      "id": 20
     },
     {
       "categoria": "economia",
@@ -274,7 +248,7 @@
       "destacada": false,
       "tema": "sindicato",
       "fecha": "Sun, 11 Oct 2026 19:44:44 +0000",
-      "id": 21
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -287,7 +261,7 @@
       "destacada": false,
       "tema": "mundial",
       "fecha": "Sun, 11 Oct 2026 19:00:47 +0000",
-      "id": 22
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -300,7 +274,7 @@
       "destacada": false,
       "tema": "homenaje",
       "fecha": "Sun, 11 Oct 2026 15:36:42 +0000",
-      "id": 23
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -313,7 +287,7 @@
       "destacada": false,
       "tema": "estremecieron",
       "fecha": "Sun, 11 Oct 2026 15:20:33 +0000",
-      "id": 24
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -326,7 +300,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Sun, 11 Oct 2026 21:16:51 +0200",
-      "id": 25
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -339,7 +313,7 @@
       "destacada": false,
       "tema": "charcos",
       "fecha": "Sun, 11 Oct 2026 20:56:29 +0200",
-      "id": 26
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -352,7 +326,7 @@
       "destacada": false,
       "tema": "gaviota",
       "fecha": "Sun, 11 Oct 2026 18:54:35 +0200",
-      "id": 27
+      "id": 25
     },
     {
       "categoria": "economia",
@@ -365,7 +339,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sun, 11 Oct 2026 17:22:21 +0200",
-      "id": 28
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -378,7 +352,7 @@
       "destacada": false,
       "tema": "policía",
       "fecha": "Sun, 11 Oct 2026 15:49:57 +0200",
-      "id": 29
+      "id": 27
     },
     {
       "categoria": "politica",
@@ -391,7 +365,7 @@
       "destacada": false,
       "tema": "punto",
       "fecha": "Sun, 11 Oct 2026 15:00:22 +0200",
-      "id": 30
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -404,7 +378,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Sun, 11 Oct 2026 14:31:57 +0200",
-      "id": 31
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -417,20 +391,7 @@
       "destacada": false,
       "tema": "asere",
       "fecha": "Sun, 11 Oct 2026 13:03:54 +0200",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La emigración reduce el censo español electoral en Cuba por primera vez en años",
-      "resumen": "#LaHabana registra más de mil bajas del censo español electoral, que coincide con salidas de cubanos nacionalizados hacia España y terceros países.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791714587_69344.html",
-      "destacada": false,
-      "tema": "emigración",
-      "fecha": "Sun, 11 Oct 2026 12:29:47 +0200",
-      "id": 33
+      "id": 30
     },
     {
       "categoria": "transporte",
@@ -443,7 +404,7 @@
       "destacada": false,
       "tema": "estrena",
       "fecha": "Sun, 11 Oct 2026 14:32:40 -0400",
-      "id": 34
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -456,7 +417,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Sun, 11 Oct 2026 12:00:00 -0400",
-      "id": 35
+      "id": 32
     },
     {
       "categoria": "economia",
@@ -469,7 +430,7 @@
       "destacada": false,
       "tema": "develan",
       "fecha": "Sun, 11 Oct 2026 11:54:44 -0400",
-      "id": 36
+      "id": 33
     },
     {
       "categoria": "salud",
@@ -482,7 +443,7 @@
       "destacada": false,
       "tema": "tragedia",
       "fecha": "Sun, 11 Oct 2026 10:20:08 -0400",
-      "id": 37
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -495,7 +456,7 @@
       "destacada": false,
       "tema": "pareja",
       "fecha": "Sun, 11 Oct 2026 09:27:04 -0400",
-      "id": 38
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -508,7 +469,7 @@
       "destacada": false,
       "tema": "síndrome",
       "fecha": "Sun, 11 Oct 2026 08:35:03 -0400",
-      "id": 39
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -521,7 +482,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Sun, 11 Oct 2026 08:00:00 -0400",
-      "id": 40
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -534,7 +495,7 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Sun, 11 Oct 2026 07:00:30 -0400",
-      "id": 41
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -547,7 +508,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Sun, 11 Oct 2026 07:00:00 -0400",
-      "id": 42
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -560,7 +521,7 @@
       "destacada": false,
       "tema": "postulan",
       "fecha": "Sun, 11 Oct 2026 20:32:20 +0000",
-      "id": 43
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -573,20 +534,7 @@
       "destacada": false,
       "tema": "alejandro",
       "fecha": "Sun, 11 Oct 2026 14:40:30 +0000",
-      "id": 44
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Mundial de judo, final: el silencio de los nuestros",
-      "resumen": "Con la derrota 4-0 en el torneo por equipos ante la selección de Turquía este domingo 11 de octubre, Cuba se despidió del 47 Campeonato Mundial de Judo con una de sus actuaciones más pálidas y silenciosas de los últimos años en estos certámenes. ¿Qué pasó? ¿Hay explicación para tan bajo rendimiento?",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/opinion/2026/10/11/mundial-de-judo-final-el-silencio-de-los-nuestros/",
-      "destacada": false,
-      "tema": "mundial",
-      "fecha": "Sun, 11 Oct 2026 14:34:28 +0000",
-      "id": 45
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -599,7 +547,7 @@
       "destacada": false,
       "tema": "italia",
       "fecha": "Sun, 11 Oct 26 19:35:00 +0200",
-      "id": 46
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -612,7 +560,7 @@
       "destacada": false,
       "tema": "octubre",
       "fecha": "Sun, 11 Oct 26 19:26:00 +0200",
-      "id": 47
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -625,7 +573,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Sun, 11 Oct 26 19:20:00 +0200",
-      "id": 48
+      "id": 44
     },
     {
       "categoria": "politica",
@@ -638,7 +586,7 @@
       "destacada": false,
       "tema": "pueblo",
       "fecha": "Sun, 11 Oct 26 19:20:00 +0200",
-      "id": 49
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -651,7 +599,7 @@
       "destacada": false,
       "tema": "perdón",
       "fecha": "Sun, 11 Oct 26 19:18:00 +0200",
-      "id": 50
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -664,7 +612,7 @@
       "destacada": false,
       "tema": "bensi",
       "fecha": "Sun, 11 Oct 26 19:17:00 +0200",
-      "id": 51
+      "id": 47
     },
     {
       "categoria": "politica",
@@ -677,7 +625,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Sun, 11 Oct 26 19:09:00 +0200",
-      "id": 52
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -690,7 +638,7 @@
       "destacada": false,
       "tema": "pascual",
       "fecha": "Sun, 11 Oct 26 19:03:00 +0200",
-      "id": 53
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -703,7 +651,7 @@
       "destacada": false,
       "tema": "numeroso",
       "fecha": "Sun, 11 Oct 26 13:58:00 +0200",
-      "id": 54
+      "id": 50
     },
     {
       "categoria": "economia",
@@ -716,7 +664,20 @@
       "destacada": false,
       "tema": "precios",
       "fecha": "Sun, 11 Oct 26 12:19:00 +0200",
-      "id": 55
+      "id": 51
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.guerrillero.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Pinar del Río, sede del acto nacional por el inicio de las siembras de la campaña tabacalera",
+      "resumen": "La Empresa de Acopio y Beneficio de Tabaco La Palma, fue sede del acto nacional por el inicio de las siembras de la campaña tabacalera 2026/27. La entidad fue designada por los resultados en la contienda precedente, resaltó Marino Murillo Jorge, presidente del grupo empresarial Tabacuba. Alrededor d",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/pinar-del-rio-sede-del-acto-nacional-por-el-inicio-de-las-siembras-de-la-campana-tabacalera/",
+      "destacada": false,
+      "tema": "pinar",
+      "fecha": "Sat, 10 Oct 2026 20:26:00 +0000",
+      "id": 52
     },
     {
       "categoria": "politica",
@@ -729,7 +690,7 @@
       "destacada": false,
       "tema": "encabeza",
       "fecha": "Sat, 10 Oct 2026 16:06:01 +0000",
-      "id": 56
+      "id": 53
     },
     {
       "categoria": "politica",
@@ -742,7 +703,33 @@
       "destacada": false,
       "tema": "serie",
       "fecha": "Sat, 10 Oct 2026 13:16:00 +0000",
-      "id": 57
+      "id": 54
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Presidente del INRH constató en estaciones de bombeo de La Habana estabilidad del servicio de agua a la población",
+      "resumen": "Durante la visita, comprobó el funcionamiento operativo de las instalaciones, así como el avance de las acciones de reparación y mantenimiento que se ejecutan en estos puntos vitales para la red hidráulica de la capital La entrada Presidente del INRH constató en estaciones de bombeo de La Habana est",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/presidente-del-inrh-constato-en-estaciones-de-bombeo-de-la-habana-estabilidad-del-servicio-de-agua-a-la-poblacion/",
+      "destacada": false,
+      "tema": "presidente",
+      "fecha": "Sun, 11 Oct 2026 21:37:52 +0000",
+      "id": 55
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Guerra Fría de Douglas Pérez",
+      "resumen": "La muestra reúne referencias de la tradición clásica y religiosa con elementos de la cultura popular y propone, en cambio, una visión más compleja de la realidad contemporánea La entrada La Guerra Fría de Douglas Pérez se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/la-guerra-fria-de-douglas-perez/",
+      "destacada": false,
+      "tema": "guerra",
+      "fecha": "Sun, 11 Oct 2026 16:29:31 +0000",
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -755,7 +742,7 @@
       "destacada": false,
       "tema": "cooperación",
       "fecha": "Sun, 11 Oct 2026 12:57:00 +0000",
-      "id": 58
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -768,7 +755,7 @@
       "destacada": false,
       "tema": "brigada",
       "fecha": "Sun, 11 Oct 2026 12:47:00 +0000",
-      "id": 59
+      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -781,7 +768,7 @@
       "destacada": false,
       "tema": "toque",
       "fecha": "Sun, 11 Oct 2026 12:42:38 +0000",
-      "id": 60
+      "id": 59
     }
   ]
 }
