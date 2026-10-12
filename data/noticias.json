@@ -1,20 +1,33 @@
 {
   "fecha": "2026-10-12",
-  "hora": "19:08",
-  "total": 51,
+  "hora": "21:06",
+  "total": 49,
   "noticias": [
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
+      "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Artista cubana Dayana Lorente gana premio de canto de ópera en Italia",
-      "resumen": "Roma, 12 oct (Prensa Latina) La mezzosoprano cubana radicada en Italia Dayana Lorente se encuentra entre los ganadores de la XIV edición del Concurso Internacional de canto de ópera Fausto Ricci, de la ciudad de Viterbo, informó hoy el sitio web XXI Secolo. The post Artista cubana Dayana Lorente gan",
+      "titulo": "Más allá de vigilar el tiempo y el clima",
+      "resumen": "Fruto de la fusión del antiguo Observatorio Nacional con el departamento de Meteorología creado quince meses antes por la Academia de Ciencias de Cuba, el 12 de octubre de 1965 fue constituido el Instituto de Meteorología, en ceremonia solemne efectuada en el hemiciclo del Capitolio Nacional",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/12/artista-cubana-dayana-lorente-gana-premio-de-canto-de-opera-en-italia/",
+      "enlace_original": "http://www.granma.cu/ciencia/2026-10-12/mas-alla-de-vigilar-el-tiempo-y-el-clima-12-10-2026-17-10-37",
       "destacada": true,
-      "tema": "artista",
-      "fecha": "Mon, 12 Oct 2026 18:42:38 +0000",
+      "tema": "vigilar",
+      "fecha": "Mon, 12 Oct 2026 17:10:37 -0400",
       "id": 1
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Las importaciones de combustible del sector privado no cubren las necesidades energéticas de Cuba",
+      "resumen": "El ministro de Energía y Minas explicó el alcance de esas operaciones comerciales, las perspectivas de la minería y los avances de la transición energética, en medio de las restricciones que afectan al país",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-12/las-importaciones-de-combustible-del-sector-privado-no-cubren-las-necesidades-energeticas-de-cuba-12-10-2026-15-10-52",
+      "destacada": true,
+      "tema": "importaciones",
+      "fecha": "Mon, 12 Oct 2026 15:10:52 -0400",
+      "id": 2
     },
     {
       "categoria": "economia",
@@ -27,7 +40,33 @@
       "destacada": true,
       "tema": "arroz",
       "fecha": "Mon, 12 Oct 2026 15:59:42 +0000",
-      "id": 2
+      "id": 3
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Uruguay da una alternativa de residencia por arraigo a casi 30.000 cubanos",
+      "resumen": "El Gobierno de Yamandú Orsi firma un decreto que abre la puerta a miles de migrantes con solicitud de refugio pendiente",
+      "imagen_url": "https://static.14ymedio.com/clip/97261b5f-8d68-48fb-9256-dad1c567a199_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/migracion/uruguay-da-alternativa-residencia-arraigo_1_1131883.html",
+      "destacada": true,
+      "tema": "uruguay",
+      "fecha": "Mon, 12 Oct 2026 19:59:31 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "De la O Levy niega vínculos de la estatal Enetec con los 90 envíos de combustible confiscados en EE UU",
+      "resumen": "En entrevista con Reuters, el ministro cubano de Energía no ve inconveniente la posible compra de las acciones de Sherritt por un empresario cercano a Trump",
+      "imagen_url": "https://static.14ymedio.com/clip/392bb1ce-dbea-46d9-8075-01ca0449aea9_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/levy-niega-vinculos-estatal-enetec_1_1131879.html",
+      "destacada": true,
+      "tema": "niega",
+      "fecha": "Mon, 12 Oct 2026 18:50:22 +0000",
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -37,23 +76,10 @@
       "resumen": "Podría tratarse del primer accidente con carburante importado de EE UU a través de testaferros privados, en violación de las sanciones de Washington",
       "imagen_url": "https://static.14ymedio.com/clip/41db919f-062f-4d72-bc39-3f5cc73e0f81_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/cinco-heridos-critico-incendio-tanque_1_1131867.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "cinco",
       "fecha": "Mon, 12 Oct 2026 16:33:16 +0000",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Muere Raúl Borges, el padre que dedicó casi tres décadas a luchar por la libertad de su hijo",
-      "resumen": "El activista, fallecido a los 86 años, se convirtió en una de las voces más persistentes en defensa de los presos políticos cubanos",
-      "imagen_url": "https://static.14ymedio.com/clip/7f0612c5-1ce0-4167-9940-0c176fdbdd8b_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/muere-raul-borges-padre-dedico_1_1131868.html",
-      "destacada": true,
-      "tema": "muere",
-      "fecha": "Mon, 12 Oct 2026 16:30:02 +0000",
-      "id": 4
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -63,10 +89,10 @@
       "resumen": "La embajada china confirma suspensiones temporales mientras los pasajeros denuncian falta de información y dificultades para reclamar",
       "imagen_url": "https://static.14ymedio.com/clip/be32ed58-4f7b-49ff-a0fb-ed0b588d6c52_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/cancelaciones-air-china-dejan-varados_1_1131860.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "cancelaciones",
       "fecha": "Mon, 12 Oct 2026 15:57:48 +0000",
-      "id": 5
+      "id": 7
     },
     {
       "categoria": "economia",
@@ -79,7 +105,7 @@
       "destacada": false,
       "tema": "puros",
       "fecha": "Sun, 11 Oct 2026 13:18:57 +0000",
-      "id": 6
+      "id": 8
     },
     {
       "categoria": "salud",
@@ -92,7 +118,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Sun, 11 Oct 2026 11:15:41 +0000",
-      "id": 7
+      "id": 9
     },
     {
       "categoria": "politica",
@@ -105,7 +131,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sun, 11 Oct 2026 11:40:09 +0000",
-      "id": 8
+      "id": 10
     },
     {
       "categoria": "energia",
@@ -118,124 +144,72 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Sun, 11 Oct 2026 15:03:21 +0000",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "España asegura que protege los datos de los cubanos en su Consulado, pero el contrato con Palco no incluye cláusulas específicas",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208933-s27061-nid342704-espana-asegura-protege-datos-cubanos-consulado",
-      "destacada": false,
-      "tema": "españa",
-      "fecha": "Mon, 12 Oct 2026 19:21:19 +0200",
-      "id": 10
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cineasta Juan Carlos Cremata: \"En Cuba no les importan los vivos, imagínate los muertos\"",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e192519-s27061-nid342556-cineasta-juan-carlos-cremata-cuba-les-importan-vivos",
-      "destacada": false,
-      "tema": "cineasta",
-      "fecha": "Mon, 12 Oct 2026 18:50:01 +0200",
       "id": 11
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "España paga a Palco unos 270 euros mensuales por trabajador en su Consulado de La Habana; el salario pactado ronda los 3,700 pesos",
+      "titulo": "«Estamos perdidos»: Seidy La Niña cuenta lo que le pasó con un cubano que la vio en short y chancletas en Downtown Miami",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208933-s27061-nid342700-espana-paga-palco-unos-270-euros-mensuales",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u208487-e208487-s27065-nid342718-estamos-perdidos-seidy-nina-cuenta-le-paso",
       "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Mon, 12 Oct 2026 18:36:51 +0200",
+      "tema": "estamos",
+      "fecha": "Mon, 12 Oct 2026 22:02:50 +0200",
       "id": 12
     },
     {
-      "categoria": "economia",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Un solo licitador y 100 % por precio: Así adjudicó Exteriores 1,13 millones de euros a la empresa estatal cubana Palco",
+      "titulo": "Rusia negocia recuperar los vuelos a Cuba tras desplome del 73% en la llegada de turistas rusos",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208512-s27061-nid342703-solo-licitador-100-precio-asi-adjudico-exteriores",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208933-s27061-nid342715-rusia-negocia-recuperar-vuelos-cuba-tras-desplome-73",
       "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Mon, 12 Oct 2026 18:34:33 +0200",
+      "tema": "rusia",
+      "fecha": "Mon, 12 Oct 2026 21:46:42 +0200",
       "id": 13
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "«El cubano ha demostrado que sabe morir»: el MINFAR desempolva el discurso del sacrificio en medio de la crisis",
+      "titulo": "Politóloga venezolana: \"El régimen cubano está en su momento más débil\"",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208487-s27061-nid342702-cubano-ha-demostrado-sabe-morir-minfar-desempolva",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e192519-s27061-nid342552-politologa-venezolana-regimen-cubano-esta-momento",
       "destacada": false,
-      "tema": "cubano",
-      "fecha": "Mon, 12 Oct 2026 18:31:42 +0200",
+      "tema": "politóloga",
+      "fecha": "Mon, 12 Oct 2026 21:35:06 +0200",
       "id": 14
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Muere en La Habana Raúl Borges, padre del expreso político Ernesto Borges",
+      "titulo": "Nuevo récord: la dictadura cubana mantiene 1.372 presos políticos, entre ellos 40 menores, según Prisoners Defenders",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208512-s27061-nid342701-muere-habana-raul-borges-padre-expreso-politico",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208512-s27061-nid342713-nuevo-record-dictadura-cubana-mantiene-1372-presos",
       "destacada": false,
-      "tema": "muere",
-      "fecha": "Mon, 12 Oct 2026 18:09:03 +0200",
+      "tema": "nuevo",
+      "fecha": "Mon, 12 Oct 2026 21:21:58 +0200",
       "id": 15
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Contrato de España con PALCO deja en manos del régimen cubano quién trabaja dentro del Consulado en La Habana",
-      "resumen": "",
+      "titulo": "Corina, esa manera de quedarse",
+      "resumen": "Actriz de hondura, pedagoga exigente y generosa, mujer de convicciones y afectos profundos, Corina Mestre permanece en la memoria de sus discípulos, colegas y de Cuba",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208487-s27061-nid342698-contrato-espana-palco-deja-manos-regimen-cubano",
+      "enlace_original": "https://www.trabajadores.cu/20261012/corina-esa-manera-de-quedarse/",
       "destacada": false,
-      "tema": "contrato",
-      "fecha": "Mon, 12 Oct 2026 17:46:37 +0200",
+      "tema": "corina",
+      "fecha": "Mon, 12 Oct 2026 19:33:56 +0000",
       "id": 16
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Gobierno de Pedro Sánchez admite contratos por más de 1,6 millones de euros con empresa del régimen cubano",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208487-s27061-nid342697-gobierno-pedro-sanchez-admite-contratos-16-millones",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Mon, 12 Oct 2026 17:03:42 +0200",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "España admite que Cuba le impide contratar directamente a sus empleados en La Habana",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e129488-s27061-nid342696-espana-sometio-al-minrex-contrato-palco-consulado",
-      "destacada": false,
-      "tema": "españa",
-      "fecha": "Mon, 12 Oct 2026 16:48:10 +0200",
-      "id": 18
     },
     {
       "categoria": "salud",
@@ -248,6 +222,32 @@
       "destacada": false,
       "tema": "abrazado",
       "fecha": "Sun, 11 Oct 2026 22:39:33 +0000",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El 'castigo extendido': Cubalex documenta cómo el presidio político asfixia y empobrece a las familias cubanas",
+      "resumen": "Los #PresosPolíticos #cubano que carecen de una red de apoyo quedan \"en la indigencia\", mientras las familiares asumen los gastos de manutención y sufren hostigamiento y represalias.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1791838696_69362.html",
+      "destacada": false,
+      "tema": "castigo",
+      "fecha": "Mon, 12 Oct 2026 22:58:16 +0200",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Libertad y recursos para que prosperen los negocios, pide un pizzero cubano que cocina con carbón",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791837180_69318.html",
+      "destacada": false,
+      "tema": "libertad",
+      "fecha": "Mon, 12 Oct 2026 22:33:00 +0200",
       "id": 19
     },
     {
@@ -343,94 +343,120 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El derecho a heredar en Cuba: ¿qué pasa con los emigrados?",
-      "resumen": "Haberse ido de #Cuba ya no incapacita para #heredar. Lucía Alfonso Mirabal explica qué pasa con los cubanos que no pueden entrar al país, qué obstáculos existen para que los emigrados puedan ejercer el derecho y qué vacíos legales existen.",
+      "titulo": "Noticiero de Radio Martí 5:00 PM",
+      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791802936_69156.html",
+      "enlace_original": "https://www.martinoticias.com/a/480786.html",
       "destacada": false,
-      "tema": "derecho",
-      "fecha": "Mon, 12 Oct 2026 13:02:16 +0200",
+      "tema": "noticiero",
+      "fecha": "Mon, 12 Oct 2026 17:00:30 -0400",
       "id": 27
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Air China encadena cancelaciones en la ruta Madrid-La Habana y deja a cubanos varados",
-      "resumen": "#AirChina cancela y reprograma vuelos a #Cuba desde #Madrid y deja a cubanos en la incertidumbre para viajar a la Isla o volver a España.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791799932_69352.html",
-      "destacada": false,
-      "tema": "china",
-      "fecha": "Mon, 12 Oct 2026 12:12:12 +0200",
-      "id": 28
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "\\",
+      "titulo": "Cuba al día",
+      "resumen": "El Departamento de Estado vuelve a colocar a Cuba en el nivel 3, la peor calificación, en su informe anual sobre la trata de personas. Esto y más en Cuba al día.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480777.html",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/481816.html",
       "destacada": false,
       "tema": "",
-      "fecha": "Mon, 12 Oct 2026 14:00:00 -0400",
+      "fecha": "Mon, 12 Oct 2026 16:14:37 -0400",
+      "id": 28
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Las Noticias Como Son",
+      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480780.html",
+      "destacada": false,
+      "tema": "noticias",
+      "fecha": "Mon, 12 Oct 2026 16:05:30 -0400",
       "id": 29
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Violencia y atropellos: Agresión al preso político Yandi Dita expone abusos en las cárceles cubanas",
-      "resumen": "El preso político Yandi Dita Rodríguez fue brutalmente golpeado, en un episodio que evidencia el uso sistemático de la violencia física, el aislamiento arbitrario y los tratos crueles como métodos de castigo.",
+      "titulo": "Tatuador cubano Oscar Echevarría continúa detenido tras protestar contra el régimen en Sancti Spíritus",
+      "resumen": "Con consignas antigubernamentales coreadas desde la azotea de su propia casa, en Sancti Spíritus, el tatuador Oscar Echevarría Rubio alzó la voz contra el sistema comunista en un grito de desesperación que terminó con su arresto.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/violencia-y-atropellos-agresi%c3%b3n-al-preso-pol%c3%adtico-yandi-dita-expone-abusos-en-las-c%c3%a1rceles-cubanas/481812.html",
+      "enlace_original": "https://www.martinoticias.com/a/tatuador-cubano-oscar-echevarr%c3%ada-contin%c3%baa-detenido-tras-protestar-contra-el-r%c3%a9gimen-en-sancti-sp%c3%adritus/481815.html",
       "destacada": false,
-      "tema": "violencia",
-      "fecha": "Mon, 12 Oct 2026 13:31:03 -0400",
+      "tema": "tatuador",
+      "fecha": "Mon, 12 Oct 2026 15:57:37 -0400",
       "id": 30
     },
     {
-      "categoria": "sociedad",
+      "categoria": "transporte",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Martí Noticias",
-      "resumen": "Noticiero de Martí Noticias presenta un resumen de las noticias más importantes de Cuba y el mundo.",
+      "titulo": "Cubanos que ingresaron antes de 2026 podrían obtener residencia permanente en Uruguay por arraigo",
+      "resumen": "La diputada de origen cubano Leydis Aguilera celebró la aprobación de la normativa, que establece una vía para acceder a la residencia permanente por arraigo a extranjeros que ingresaron al país antes del 1 de enero de 2026.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/noticiero-de-mart%c3%ad-noticias/481808.html",
+      "enlace_original": "https://www.martinoticias.com/a/cubanos-que-ingresaron-antes-de-2026-podr%c3%adan-obtener-residencia-permanente-en-uruguay-por-arraigo/481811.html",
       "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Mon, 12 Oct 2026 12:50:34 -0400",
+      "tema": "cubanos",
+      "fecha": "Mon, 12 Oct 2026 15:19:17 -0400",
       "id": 31
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El futuro es ya",
-      "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Embajada de China en Cuba alerta sobre cambios y cancelaciones de vuelos de Air China",
+      "resumen": "Por razones técnicas, los horarios de los vuelos CA865 (Pekín-La Habana) y CA866 (La Habana-Pekín), operados por Air China, han experimentado cambios frecuentes recientemente, y algunas operaciones han sido canceladas temporalmente. La Embajada de China en Cuba recuerda a los pasajeros que tengan pr",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/el-futuro-es-ya/481803.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/12/embajada-de-china-en-cuba-alerta-sobre-cambios-y-cancelaciones-de-vuelos-de-air-china/",
       "destacada": false,
-      "tema": "futuro",
-      "fecha": "Mon, 12 Oct 2026 12:31:40 -0400",
+      "tema": "embajada",
+      "fecha": "Mon, 12 Oct 2026 20:29:07 +0000",
       "id": 32
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 12:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Presentarán \"Lydia Cabrera en su laguna sagrada\" en Librería Fayad Jamís",
+      "resumen": "Como parte de la Jornada Letras de cubanía, y en ocasión del Día de la Cultura Cubana, será presentado mañana martes 13 de octubre, a las 11:00 a.m. en la Librería Fayad Jamís —Obispo 261 entre Cuba y Aguiar— el libro \"Lydia Cabrera en su laguna sagrada\", de Natalia Bolívar Aróstegui (1934-2023) y N",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480774.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/12/presentaran-lydia-cabrera-en-su-laguna-sagrada-en-libreria-fayad-jamis/",
       "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Mon, 12 Oct 2026 12:00:00 -0400",
+      "tema": "presentarán",
+      "fecha": "Mon, 12 Oct 2026 19:48:25 +0000",
       "id": 33
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Inauguran en Argentina cátedra dedicada a la obra de Titón",
+      "resumen": "Una cátedra abierta para el estudio de la obra del fallecido realizador cubano Tomás Gutiérrez Alea (1928-1996), fue fundada en Argentina, bajo la égida de Facultad de Arte y Diseño de Universidad de Misiones, resaltan fuentes oficiales. La actriz cubana Mirtha Ibarra, viuda de Gutiérrez Alea (Titón",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/12/inauguran-en-argentina-catedra-dedicada-a-la-obra-de-titon/",
+      "destacada": false,
+      "tema": "inauguran",
+      "fecha": "Mon, 12 Oct 2026 19:35:25 +0000",
+      "id": 34
+    },
+    {
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Presidente cubano denuncia en la FAO impacto del bloqueo",
+      "resumen": "El presidente de Cuba, Miguel Díaz-Canel, denunció en el Foro Mundial de la Alimentación (FAO), el impacto de las sanciones económicas de Estados Unidos sobre la producción y distribución de alimentos en la isla. Durante la apertura del evento, celebrado en Roma, declaró en un videomensaje que las d",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/12/presidente-cubano-denuncia-en-la-fao-impacto-del-bloqueo/",
+      "destacada": false,
+      "tema": "presidente",
+      "fecha": "Mon, 12 Oct 2026 19:08:57 +0000",
+      "id": 35
     },
     {
       "categoria": "salud",
@@ -443,7 +469,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 12 Oct 26 17:56:00 +0200",
-      "id": 34
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -456,7 +482,7 @@
       "destacada": false,
       "tema": "osmany",
       "fecha": "Mon, 12 Oct 26 09:08:00 +0200",
-      "id": 35
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -469,7 +495,7 @@
       "destacada": false,
       "tema": "emisora",
       "fecha": "Mon, 12 Oct 26 08:11:00 +0200",
-      "id": 36
+      "id": 38
     },
     {
       "categoria": "transporte",
@@ -482,7 +508,7 @@
       "destacada": false,
       "tema": "lleno",
       "fecha": "Mon, 12 Oct 26 08:05:00 +0200",
-      "id": 37
+      "id": 39
     },
     {
       "categoria": "salud",
@@ -495,7 +521,7 @@
       "destacada": false,
       "tema": "enfrenta",
       "fecha": "Mon, 12 Oct 26 08:02:00 +0200",
-      "id": 38
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -508,7 +534,7 @@
       "destacada": false,
       "tema": "conciencia",
       "fecha": "Mon, 12 Oct 26 08:01:00 +0200",
-      "id": 39
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -521,7 +547,7 @@
       "destacada": false,
       "tema": "sancti",
       "fecha": "Mon, 12 Oct 26 08:00:00 +0200",
-      "id": 40
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -534,7 +560,7 @@
       "destacada": false,
       "tema": "tributo",
       "fecha": "Mon, 12 Oct 26 07:59:00 +0200",
-      "id": 41
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -547,7 +573,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Mon, 12 Oct 26 07:54:00 +0200",
-      "id": 42
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -560,20 +586,7 @@
       "destacada": false,
       "tema": "proyecto",
       "fecha": "Mon, 12 Oct 26 07:52:00 +0200",
-      "id": 43
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.guerrillero.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Pinar del Río, sede del acto nacional por el inicio de las siembras de la campaña tabacalera",
-      "resumen": "La Empresa de Acopio y Beneficio de Tabaco La Palma, fue sede del acto nacional por el inicio de las siembras de la campaña tabacalera 2026/27. La entidad fue designada por los resultados en la contienda precedente, resaltó Marino Murillo Jorge, presidente del grupo empresarial Tabacuba. Alrededor d",
-      "imagen_url": "",
-      "enlace_original": "https://www.guerrillero.cu/pinar-del-rio-sede-del-acto-nacional-por-el-inicio-de-las-siembras-de-la-campana-tabacalera/",
-      "destacada": false,
-      "tema": "pinar",
-      "fecha": "Sat, 10 Oct 2026 20:26:00 +0000",
-      "id": 44
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -586,7 +599,7 @@
       "destacada": false,
       "tema": "alfonso",
       "fecha": "Mon, 12 Oct 2026 19:00:49 +0000",
-      "id": 45
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -599,7 +612,7 @@
       "destacada": false,
       "tema": "voluntarios",
       "fecha": "Mon, 12 Oct 2026 15:13:07 +0000",
-      "id": 46
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -612,7 +625,7 @@
       "destacada": false,
       "tema": "casas",
       "fecha": "Mon, 12 Oct 2026 15:06:31 +0000",
-      "id": 47
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -625,46 +638,7 @@
       "destacada": false,
       "tema": "estudiantes",
       "fecha": "Sun, 11 Oct 2026 23:29:13 +0000",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cooperación Cuba-Italia consolida la fruticultura en Matanzas",
-      "resumen": "La iniciativa de la Agencia Italiana de Cooperación para el Desarrollo (AICS), CubaFruta, desde hace varios años trabaja en el fortalecimiento de las cadenas de valor de variedades de frutas en Los Arabos, Colón, Calimete y Jagüey Grande",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/11/cooperacion-cuba-italia-consolida-fruticultura/",
-      "destacada": false,
-      "tema": "cooperación",
-      "fecha": "Sun, 11 Oct 2026 12:57:00 +0000",
       "id": 49
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Brigada de Instructores de Arte José Martí : 22 años en defensa de nuestra identidad",
-      "resumen": "La Brigada de Instructores de Arte José Martí (BIAJM) celebra su aniversario 22 con un amplio programa de actividades que se extenderá hasta el próximo 20 de octubre, como parte de la Jornada de la Cultura Cubana, bajo el lema «Arte, identidad y compromiso».",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/11/brigada-instructores-de-arte-22-anos-defensa-nuestra-identidad/",
-      "destacada": false,
-      "tema": "brigada",
-      "fecha": "Sun, 11 Oct 2026 12:47:00 +0000",
-      "id": 50
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Toque de campana resuena por la cultura en Matanzas",
-      "resumen": "El ya tradicional toque de campana en el parque conocido como \"De la Rueda\", anunció hoy el comienzo de la Jornada de la Cultura Cubana y Matancera,",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/11/toque-de-campana-resuena-por-la-cultura-matanzas/",
-      "destacada": false,
-      "tema": "toque",
-      "fecha": "Sun, 11 Oct 2026 12:42:38 +0000",
-      "id": 51
     }
   ]
 }
