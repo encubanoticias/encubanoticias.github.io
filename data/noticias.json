@@ -1,6 +1,6 @@
 {
   "fecha": "2026-10-12",
-  "hora": "01:12",
+  "hora": "03:08",
   "total": 55,
   "noticias": [
     {
@@ -147,6 +147,45 @@
       "id": 11
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Muere cubano tras ser baleado por dos sujetos desde una motocicleta en Cancún",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208512-s27061-nid342673-muere-cubano-tras-ser-baleado-dos-sujetos",
+      "destacada": false,
+      "tema": "muere",
+      "fecha": "Mon, 12 Oct 2026 03:54:06 +0200",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Activista: «La Constitución cubana proclama un socialismo que nunca existió»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e209395-s27061-nid342666-activista-constitucion-cubana-proclama-socialismo",
+      "destacada": false,
+      "tema": "activista",
+      "fecha": "Mon, 12 Oct 2026 03:29:18 +0200",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Actriz y narradora oral cubana Coralia Rodríguez recibirá premio «Valores de la Cultura 2026» en España",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e209395-s27061-nid342659-actriz-narradora-oral-cubana-coralia-rodriguez",
+      "destacada": false,
+      "tema": "actriz",
+      "fecha": "Mon, 12 Oct 2026 02:51:32 +0200",
+      "id": 14
+    },
+    {
       "categoria": "economia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
@@ -157,7 +196,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 12 Oct 2026 02:08:53 +0200",
-      "id": 12
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -170,45 +209,6 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Mon, 12 Oct 2026 01:56:03 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubanos con refugio pendiente en Uruguay: estos son los requisitos para acceder a la nueva residencia permanente",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e135253-s27061-nid342663-cubanos-refugio-pendiente-uruguay-estos-son",
-      "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Mon, 12 Oct 2026 00:59:09 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba inicia una «difícil» campaña tabacalera con una meta de 20.000 hectáreas",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208512-s27061-nid342662-cuba-inicia-dificil-campana-tabacalera-meta-20000",
-      "destacada": false,
-      "tema": "inicia",
-      "fecha": "Mon, 12 Oct 2026 00:51:43 +0200",
-      "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Fallece el legendario pelotero cubano Héctor Olivera a los 73 años",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e209395-s27061-nid342649-fallecio-estelar-pelotero-cubano-hector-olivera-73",
-      "destacada": false,
-      "tema": "fallece",
-      "fecha": "Mon, 12 Oct 2026 00:38:06 +0200",
       "id": 16
     },
     {
