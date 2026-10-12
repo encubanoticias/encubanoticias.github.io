@@ -1,46 +1,20 @@
 {
   "fecha": "2026-10-12",
-  "hora": "16:08",
-  "total": 49,
+  "hora": "18:06",
+  "total": 53,
   "noticias": [
-    {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Sindicalista pide a Gobierno dominicano votar contra bloqueo a Cuba",
-      "resumen": "Santo Domingo, 12 oct (Prensa Latina) El dirigente sindical Efraín Sánchez llamó hoy a fortalecer la solidaridad con Cuba y exhortó al Gobierno dominicano a votar a favor de la Resolución que demanda el fin del bloqueo impuesto por Estados Unidos a la isla. The post Sindicalista pide a Gobierno domi",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/12/sindicalista-pide-a-gobierno-dominicano-votar-contra-bloqueo-a-cuba/",
-      "destacada": true,
-      "tema": "sindicalista",
-      "fecha": "Mon, 12 Oct 2026 15:37:17 +0000",
-      "id": 1
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba recuerda víctimas de Boca de Samá",
-      "resumen": "La Habana, 12 oct (Prensa Latina) El secretario de Organización del Comité Central del Partido Comunista de Cuba, Roberto Morales, evocó hoy a las víctimas de los sucesos terroristas perpetrados en Boca de Samá, en oriente de la isla. The post Cuba recuerda víctimas de Boca de Samá first appeared on",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/12/cuba-recuerda-victimas-de-boca-de-sama/",
-      "destacada": true,
-      "tema": "recuerda",
-      "fecha": "Mon, 12 Oct 2026 15:32:15 +0000",
-      "id": 2
-    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Síntesis de Cuba",
-      "resumen": "SÍNTESIS DE CUBA PARA EMISORAS DE RADIO Y TV, PERIÓDICOS Y REVISTAS The post Síntesis de Cuba first appeared on Noticias Prensa Latina.",
+      "titulo": "Cuba felicita a Guinea Ecuatorial en su fiesta nacional",
+      "resumen": "La Habana, 12 oct (Prensa Latina) La Cancillería de Cuba felicitó hoy a la hermana República de Guinea Ecuatorial en ocasión de conmemorarse el aniversario 58 de la proclamación de su independencia. The post Cuba felicita a Guinea Ecuatorial en su fiesta nacional first appeared on Noticias Prensa La",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/12/sintesis-de-cuba-595/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/12/cuba-felicita-a-guinea-ecuatorial-en-su-fiesta-nacional/",
       "destacada": true,
-      "tema": "síntesis",
-      "fecha": "Mon, 12 Oct 2026 15:30:46 +0000",
-      "id": 3
+      "tema": "felicita",
+      "fecha": "Mon, 12 Oct 2026 16:56:07 +0000",
+      "id": 1
     },
     {
       "categoria": "economia",
@@ -53,6 +27,32 @@
       "destacada": true,
       "tema": "arroz",
       "fecha": "Mon, 12 Oct 2026 15:59:42 +0000",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cinco heridos, uno en estado crítico, en el incendio de un tanque de combustible de Azcuba en Manzanillo",
+      "resumen": "Podría tratarse del primer accidente con carburante importado de EE UU a través de testaferros privados, en violación de las sanciones de Washington",
+      "imagen_url": "https://static.14ymedio.com/clip/41db919f-062f-4d72-bc39-3f5cc73e0f81_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/cinco-heridos-critico-incendio-tanque_1_1131867.html",
+      "destacada": true,
+      "tema": "cinco",
+      "fecha": "Mon, 12 Oct 2026 16:33:16 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Muere Raúl Borges, el padre que dedicó casi tres décadas a luchar por la libertad de su hijo",
+      "resumen": "El activista, fallecido a los 86 años, se convirtió en una de las voces más persistentes en defensa de los presos políticos cubanos",
+      "imagen_url": "https://static.14ymedio.com/clip/7f0612c5-1ce0-4167-9940-0c176fdbdd8b_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/muere-raul-borges-padre-dedico_1_1131868.html",
+      "destacada": true,
+      "tema": "muere",
+      "fecha": "Mon, 12 Oct 2026 16:30:02 +0000",
       "id": 4
     },
     {
@@ -69,19 +69,6 @@
       "id": 5
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Muere en México Manuel Pereira, el escritor cubano que se llevó La Habana al exilio",
-      "resumen": "Desaparece un escritor que atravesó el entusiasmo revolucionario, conoció de cerca a los grandes nombres del 'boom' latinoamericano y terminó encontrando en el exilio la libertad que le faltó en la Isla",
-      "imagen_url": "https://static.14ymedio.com/clip/df943b92-e787-4731-be95-e1afc0139e4b_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/muere-mexico-manuel-pereira-escritor_1_1131843.html",
-      "destacada": false,
-      "tema": "muere",
-      "fecha": "Mon, 12 Oct 2026 10:17:43 +0000",
-      "id": 6
-    },
-    {
       "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -92,7 +79,7 @@
       "destacada": false,
       "tema": "puros",
       "fecha": "Sun, 11 Oct 2026 13:18:57 +0000",
-      "id": 7
+      "id": 6
     },
     {
       "categoria": "salud",
@@ -105,7 +92,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Sun, 11 Oct 2026 11:15:41 +0000",
-      "id": 8
+      "id": 7
     },
     {
       "categoria": "politica",
@@ -118,7 +105,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sun, 11 Oct 2026 11:40:09 +0000",
-      "id": 9
+      "id": 8
     },
     {
       "categoria": "energia",
@@ -131,7 +118,98 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Sun, 11 Oct 2026 15:03:21 +0000",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "España asegura que protege los datos de los cubanos en su Consulado, pero el contrato con Palco no incluye cláusulas específicas",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208933-s27061-nid342704-espana-asegura-protege-datos-cubanos-consulado",
+      "destacada": false,
+      "tema": "españa",
+      "fecha": "Mon, 12 Oct 2026 19:21:19 +0200",
       "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cineasta Juan Carlos Cremata: \"En Cuba no les importan los vivos, imagínate los muertos\"",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e192519-s27061-nid342556-cineasta-juan-carlos-cremata-cuba-les-importan-vivos",
+      "destacada": false,
+      "tema": "cineasta",
+      "fecha": "Mon, 12 Oct 2026 18:50:01 +0200",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "España paga a Palco unos 270 euros mensuales por trabajador en su Consulado de La Habana; el salario pactado ronda los 3,700 pesos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208933-s27061-nid342700-espana-paga-palco-unos-270-euros-mensuales",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Mon, 12 Oct 2026 18:36:51 +0200",
+      "id": 12
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Un solo licitador y 100 % por precio: Así adjudicó Exteriores 1,13 millones de euros a la empresa estatal cubana Palco",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208512-s27061-nid342703-solo-licitador-100-precio-asi-adjudico-exteriores",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Mon, 12 Oct 2026 18:34:33 +0200",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«El cubano ha demostrado que sabe morir»: el MINFAR desempolva el discurso del sacrificio en medio de la crisis",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208487-s27061-nid342702-cubano-ha-demostrado-sabe-morir-minfar-desempolva",
+      "destacada": false,
+      "tema": "cubano",
+      "fecha": "Mon, 12 Oct 2026 18:31:42 +0200",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Muere en La Habana Raúl Borges, padre del expreso político Ernesto Borges",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208512-s27061-nid342701-muere-habana-raul-borges-padre-expreso-politico",
+      "destacada": false,
+      "tema": "muere",
+      "fecha": "Mon, 12 Oct 2026 18:09:03 +0200",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Contrato de España con PALCO deja en manos del régimen cubano quién trabaja dentro del Consulado en La Habana",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208487-s27061-nid342698-contrato-espana-palco-deja-manos-regimen-cubano",
+      "destacada": false,
+      "tema": "contrato",
+      "fecha": "Mon, 12 Oct 2026 17:46:37 +0200",
+      "id": 16
     },
     {
       "categoria": "politica",
@@ -144,7 +222,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 12 Oct 2026 17:03:42 +0200",
-      "id": 11
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -157,59 +235,7 @@
       "destacada": false,
       "tema": "españa",
       "fecha": "Mon, 12 Oct 2026 16:48:10 +0200",
-      "id": 12
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La semana comienza con el dólar y el euro al alza en Cuba: Estos son los precios",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e129488-s27061-nid342694-semana-comienza-dolar-al-alza-euro-baja-cuba-estos",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Mon, 12 Oct 2026 16:20:24 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Morales Ojeda rescata una frase de Raúl Castro para presumir de la «influencia» del Partido sobre las masas",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208487-s27061-nid342691-morales-ojeda-rescata-frase-raul-castro-presumir",
-      "destacada": false,
-      "tema": "morales",
-      "fecha": "Mon, 12 Oct 2026 15:18:13 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Régimen cubano niega vínculos con 90 cargamentos de combustible incautados en EE.UU.",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e129488-s27061-nid342690-regimen-cubano-niega-vinculos-90-cargamentos",
-      "destacada": false,
-      "tema": "régimen",
-      "fecha": "Mon, 12 Oct 2026 15:06:27 +0200",
-      "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Escándalo en la masonería cubana: filtran cartas sobre presunta colaboración de un ex gran maestro con la Seguridad del Estado",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e129488-s27061-nid342688-escandalo-masoneria-cubana-aparecen-cartas-presunta",
-      "destacada": false,
-      "tema": "escándalo",
-      "fecha": "Mon, 12 Oct 2026 14:42:57 +0200",
-      "id": 16
+      "id": 18
     },
     {
       "categoria": "salud",
@@ -222,7 +248,20 @@
       "destacada": false,
       "tema": "abrazado",
       "fecha": "Sun, 11 Oct 2026 22:39:33 +0000",
-      "id": 17
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El régimen cubano cambia de idea y niega su vinculación con el combustible incautado en EEUU",
+      "resumen": "El régimen #cubano niega cualquier vínculo con el #combustible incautado en #EEUU, pese a que días atrás defendió la legalidad de los envíos: \"Podemos asegurarles que no existía ningún contrato\".",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791825833_69361.html",
+      "destacada": false,
+      "tema": "régimen",
+      "fecha": "Mon, 12 Oct 2026 19:23:53 +0200",
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -235,7 +274,7 @@
       "destacada": false,
       "tema": "peloteros",
       "fecha": "Mon, 12 Oct 2026 16:43:33 +0200",
-      "id": 18
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -248,7 +287,7 @@
       "destacada": false,
       "tema": "medallas",
       "fecha": "Mon, 12 Oct 2026 14:36:48 +0200",
-      "id": 19
+      "id": 22
     },
     {
       "categoria": "salud",
@@ -261,7 +300,7 @@
       "destacada": false,
       "tema": "minería",
       "fecha": "Mon, 12 Oct 2026 14:18:02 +0200",
-      "id": 20
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -274,7 +313,7 @@
       "destacada": false,
       "tema": "incendio",
       "fecha": "Mon, 12 Oct 2026 13:20:31 +0200",
-      "id": 21
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -287,7 +326,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Mon, 12 Oct 2026 13:08:00 +0200",
-      "id": 22
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -300,7 +339,7 @@
       "destacada": false,
       "tema": "derecho",
       "fecha": "Mon, 12 Oct 2026 13:02:16 +0200",
-      "id": 23
+      "id": 26
     },
     {
       "categoria": "transporte",
@@ -313,7 +352,7 @@
       "destacada": false,
       "tema": "china",
       "fecha": "Mon, 12 Oct 2026 12:12:12 +0200",
-      "id": 24
+      "id": 27
     },
     {
       "categoria": "economia",
@@ -326,20 +365,59 @@
       "destacada": false,
       "tema": "mipyme",
       "fecha": "Mon, 12 Oct 2026 11:45:38 +0200",
-      "id": 25
+      "id": 28
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Uruguay abre una salida al limbo migratorio de miles de cubanos",
-      "resumen": "Un decreto presidencial contempla la residencia permanente para solicitantes de #refugio en #Uruguay: se abre la posibilidad para miles de #cubanos, pero con estos requisitos.",
+      "titulo": "Cuba al Día",
+      "resumen": "\\",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791788975_69351.html",
+      "enlace_original": "https://www.martinoticias.com/a/480777.html",
       "destacada": false,
-      "tema": "uruguay",
-      "fecha": "Mon, 12 Oct 2026 09:09:35 +0200",
-      "id": 26
+      "tema": "",
+      "fecha": "Mon, 12 Oct 2026 14:00:00 -0400",
+      "id": 29
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Violencia y atropellos: Agresión al preso político Yandi Dita expone abusos en las cárceles cubanas",
+      "resumen": "El preso político Yandi Dita Rodríguez fue brutalmente golpeado, en un episodio que evidencia el uso sistemático de la violencia física, el aislamiento arbitrario y los tratos crueles como métodos de castigo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/violencia-y-atropellos-agresi%c3%b3n-al-preso-pol%c3%adtico-yandi-dita-expone-abusos-en-las-c%c3%a1rceles-cubanas/481812.html",
+      "destacada": false,
+      "tema": "violencia",
+      "fecha": "Mon, 12 Oct 2026 13:31:03 -0400",
+      "id": 30
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Martí Noticias",
+      "resumen": "Noticiero de Martí Noticias presenta un resumen de las noticias más importantes de Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/noticiero-de-mart%c3%ad-noticias/481808.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Mon, 12 Oct 2026 12:50:34 -0400",
+      "id": 31
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El futuro es ya",
+      "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/el-futuro-es-ya/481803.html",
+      "destacada": false,
+      "tema": "futuro",
+      "fecha": "Mon, 12 Oct 2026 12:31:40 -0400",
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -352,98 +430,46 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Mon, 12 Oct 2026 12:00:00 -0400",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barrio adentro",
-      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480772.html",
-      "destacada": false,
-      "tema": "barrio",
-      "fecha": "Mon, 12 Oct 2026 11:30:00 -0400",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Corea del Norte, el espejo donde se ve el régimen de La Habana",
-      "resumen": "Las relaciones entre Cuba y Corea del Norte responden más a una estrategia de supervivencia política mutua que a un intercambio económico relevante, sostienen expertos, en medio de recientes gestos de La Habana que reafirman su cercanía con Pyongyang.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/corea-del-norte-el-espejo-donde-se-ve-el-r%c3%a9gimen-de-la-habana/481757.html",
-      "destacada": false,
-      "tema": "corea",
-      "fecha": "Mon, 12 Oct 2026 10:48:33 -0400",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Caminos de libertad: Rompiendo el mito de la Revolución cubana",
-      "resumen": "Tres cubanos relatan su camino al exilio en Uruguay: Dayceé, médica que desertó de una misión en Brasil; Yunier, artista de Holguín que participó en las protestas del 11J; y Alex, joven de la Sierra Maestra que redescubrió su identidad cubana lejos de la isla.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/caminos-de-libertad-rompiendo-el-mito-de-la-revoluci%c3%b3n-cubana/481661.html",
-      "destacada": false,
-      "tema": "caminos",
-      "fecha": "Mon, 12 Oct 2026 10:00:00 -0400",
-      "id": 30
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El futuro es ya",
-      "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480769.html",
-      "destacada": false,
-      "tema": "futuro",
-      "fecha": "Mon, 12 Oct 2026 10:00:00 -0400",
-      "id": 31
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Fallece en Cuba Raúl Borges Álvarez, padre del ex preso político Ernesto Borges",
-      "resumen": "Borges convirtió la libertad de su hijo en una causa personal durante años; Ernesto fue excarcelado el 24 de abril de 2025, después de casi 27 años en la cárcel.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/fallece-en-cuba-ra%c3%bal-borges-%c3%a1lvarez-padre-del-ex-preso-pol%c3%adtico-ernesto-borges/481800.html",
-      "destacada": false,
-      "tema": "fallece",
-      "fecha": "Mon, 12 Oct 2026 09:01:49 -0400",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba promueve agroalimentación sostenible en foro mundial de la FAO",
-      "resumen": "Cuba participa en el Foro Mundial de la Alimentación de la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), que tiene lugar en Roma, bajo el lema Innovar hoy para nutrir mañana. La delegación cubana está presidida por los ministros de la Agricultura, Ydael Jesús Pérez",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/12/cuba-promueve-agroalimentacion-sostenible-en-foro-mundial-de-la-fao/",
-      "destacada": false,
-      "tema": "promueve",
-      "fecha": "Mon, 12 Oct 2026 15:32:17 +0000",
       "id": 33
     },
     {
       "categoria": "sociedad",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba felicita a España por su fiesta nacional",
-      "resumen": "La Fiesta Nacional de España o Día de la Hispanidad conmemora la efeméride histórica de la llegada a América de la expedición encabezada por Cristóbal Colón, un hito histórico trascendental para el país, con el que se inició un periodo de proyección lingüística y cultural en América. Todo ello ocurr",
+      "titulo": "CubaFruta consolida fruticultura en Matanzas con apoyo italiano",
+      "resumen": "Un programa de cooperación entre Cuba e Italia dedicado a la producción frutícola, con énfasis en la piña y el aguacate, arrojó resultados favorables para 1 400 asociados de cooperativas de Matanzas. La embajadora de Italia en Cuba, Simona De Martino, resaltó el aporte de la iniciativa al fortalecim",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/12/cuba-felicita-a-espana-por-su-fiesta-nacional/",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/12/cubafruta-consolida-fruticultura-en-matanzas-con-apoyo-italiano/",
       "destacada": false,
-      "tema": "felicita",
-      "fecha": "Mon, 12 Oct 2026 14:59:26 +0000",
+      "tema": "cubafruta",
+      "fecha": "Mon, 12 Oct 2026 17:57:40 +0000",
       "id": 34
+    },
+    {
+      "categoria": "economia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba flexibiliza la exploración y explotación de petróleo y gas y abre nuevas vías a la inversión privada",
+      "resumen": "Cuba aprobó un nuevo marco jurídico para el desarrollo de la industria del petróleo y el gas que amplía las posibilidades de participación de inversionistas extranjeros y actores económicos privados nacionales en un sector estratégico para la economía. The post Cuba flexibiliza la exploración y expl",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/12/cuba-flexibiliza-la-exploracion-y-explotacion-de-petroleo-y-gas-y-abre-nuevas-vias-a-la-inversion-privada/",
+      "destacada": false,
+      "tema": "flexibiliza",
+      "fecha": "Mon, 12 Oct 2026 17:09:15 +0000",
+      "id": 35
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Empresas europeas tienen prohibido vender a los hospitales de Cuba: lo compruebo personalmente",
+      "resumen": "Aníbal Garzón* - Especial para Cubainformación...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125444-empresas-europeas-tienen-prohibido-vender-a-los-hospitales-de-cuba-lo-compruebo-personalmente.jpg?t=1791822097",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261012/125444/125444-empresas-europeas-tienen-prohibido-vender-a-los-hospitales-de-cuba-lo-compruebo-personalmente",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Mon, 12 Oct 26 17:56:00 +0200",
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -456,7 +482,7 @@
       "destacada": false,
       "tema": "osmany",
       "fecha": "Mon, 12 Oct 26 09:08:00 +0200",
-      "id": 35
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -469,7 +495,7 @@
       "destacada": false,
       "tema": "emisora",
       "fecha": "Mon, 12 Oct 26 08:11:00 +0200",
-      "id": 36
+      "id": 38
     },
     {
       "categoria": "transporte",
@@ -482,7 +508,7 @@
       "destacada": false,
       "tema": "lleno",
       "fecha": "Mon, 12 Oct 26 08:05:00 +0200",
-      "id": 37
+      "id": 39
     },
     {
       "categoria": "salud",
@@ -495,7 +521,7 @@
       "destacada": false,
       "tema": "enfrenta",
       "fecha": "Mon, 12 Oct 26 08:02:00 +0200",
-      "id": 38
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -508,7 +534,7 @@
       "destacada": false,
       "tema": "conciencia",
       "fecha": "Mon, 12 Oct 26 08:01:00 +0200",
-      "id": 39
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -521,7 +547,7 @@
       "destacada": false,
       "tema": "sancti",
       "fecha": "Mon, 12 Oct 26 08:00:00 +0200",
-      "id": 40
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -534,7 +560,7 @@
       "destacada": false,
       "tema": "tributo",
       "fecha": "Mon, 12 Oct 26 07:59:00 +0200",
-      "id": 41
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -547,7 +573,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Mon, 12 Oct 26 07:54:00 +0200",
-      "id": 42
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -560,20 +586,7 @@
       "destacada": false,
       "tema": "proyecto",
       "fecha": "Mon, 12 Oct 26 07:52:00 +0200",
-      "id": 43
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Conversando con el maestro del videoclip cubano Orlando Cruzata, Premio Maestro de Juventudes",
-      "resumen": "Cubavisión Internacional.- Como parte de las actividades por los 40 años de la Asociación Hermanos S...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125431-conversando-con-el-maestro-del-videoclip-cubano-orlando-cruzata-premio-maestro-de-juventudes.jpg?t=1791784304",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261012/125431/125431-conversando-con-el-maestro-del-videoclip-cubano-orlando-cruzata-premio-maestro-de-juventudes",
-      "destacada": false,
-      "tema": "conversando",
-      "fecha": "Mon, 12 Oct 26 07:49:00 +0200",
-      "id": 44
+      "id": 45
     },
     {
       "categoria": "politica",
@@ -586,7 +599,7 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Sat, 10 Oct 2026 20:26:00 +0000",
-      "id": 45
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -599,7 +612,7 @@
       "destacada": false,
       "tema": "voluntarios",
       "fecha": "Mon, 12 Oct 2026 15:13:07 +0000",
-      "id": 46
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -612,7 +625,7 @@
       "destacada": false,
       "tema": "casas",
       "fecha": "Mon, 12 Oct 2026 15:06:31 +0000",
-      "id": 47
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -625,7 +638,7 @@
       "destacada": false,
       "tema": "estudiantes",
       "fecha": "Sun, 11 Oct 2026 23:29:13 +0000",
-      "id": 48
+      "id": 49
     },
     {
       "categoria": "politica",
@@ -638,7 +651,46 @@
       "destacada": false,
       "tema": "presidente",
       "fecha": "Sun, 11 Oct 2026 21:37:52 +0000",
-      "id": 49
+      "id": 50
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cooperación Cuba-Italia consolida la fruticultura en Matanzas",
+      "resumen": "La iniciativa de la Agencia Italiana de Cooperación para el Desarrollo (AICS), CubaFruta, desde hace varios años trabaja en el fortalecimiento de las cadenas de valor de variedades de frutas en Los Arabos, Colón, Calimete y Jagüey Grande",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/11/cooperacion-cuba-italia-consolida-fruticultura/",
+      "destacada": false,
+      "tema": "cooperación",
+      "fecha": "Sun, 11 Oct 2026 12:57:00 +0000",
+      "id": 51
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Brigada de Instructores de Arte José Martí : 22 años en defensa de nuestra identidad",
+      "resumen": "La Brigada de Instructores de Arte José Martí (BIAJM) celebra su aniversario 22 con un amplio programa de actividades que se extenderá hasta el próximo 20 de octubre, como parte de la Jornada de la Cultura Cubana, bajo el lema «Arte, identidad y compromiso».",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/11/brigada-instructores-de-arte-22-anos-defensa-nuestra-identidad/",
+      "destacada": false,
+      "tema": "brigada",
+      "fecha": "Sun, 11 Oct 2026 12:47:00 +0000",
+      "id": 52
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Toque de campana resuena por la cultura en Matanzas",
+      "resumen": "El ya tradicional toque de campana en el parque conocido como \"De la Rueda\", anunció hoy el comienzo de la Jornada de la Cultura Cubana y Matancera,",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/11/toque-de-campana-resuena-por-la-cultura-matanzas/",
+      "destacada": false,
+      "tema": "toque",
+      "fecha": "Sun, 11 Oct 2026 12:42:38 +0000",
+      "id": 53
     }
   ]
 }
