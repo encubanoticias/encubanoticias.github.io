@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-12",
-  "hora": "06:10",
-  "total": 53,
+  "hora": "07:15",
+  "total": 55,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -43,6 +43,19 @@
       "id": 3
     },
     {
+      "categoria": "transporte",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Organizaciones solidarias en Filipinas contra bloqueo de EEUU a Cuba",
+      "resumen": "Manila, 12 oct (Prensa Latina) Organizaciones de solidaridad y representantes de partidos políticos en Filipinas patentizaron su apoyo a Cuba frente a la arremetida de Estados Unidos, que continúa hoy sus presiones para que no entren combustibles a la isla. The post Organizaciones solidarias en Fili",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/12/organizaciones-solidarias-en-filipinas-contra-bloqueo-de-eeuu-a-cuba/",
+      "destacada": true,
+      "tema": "organizaciones",
+      "fecha": "Mon, 12 Oct 2026 07:07:53 +0000",
+      "id": 4
+    },
+    {
       "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -53,7 +66,7 @@
       "destacada": true,
       "tema": "puros",
       "fecha": "Sun, 11 Oct 2026 13:18:57 +0000",
-      "id": 4
+      "id": 5
     },
     {
       "categoria": "salud",
@@ -63,10 +76,10 @@
       "resumen": "El canciller califica de “unilateral y mendaz” el documento sobre el trabajo forzoso en las misiones sanitarias, pero no desmiente las cifras ni los mecanismos de control que describe el reporte",
       "imagen_url": "https://static.14ymedio.com/clip/38fa9ae1-8fe2-45a6-b5d7-beb1da3ce7e4_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/bruno-rodriguez-tilda-persecucion-enfermiza_1_1131809.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "régimen",
       "fecha": "Sun, 11 Oct 2026 11:15:41 +0000",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "politica",
@@ -79,7 +92,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sun, 11 Oct 2026 11:40:09 +0000",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "personas",
       "fecha": "Sun, 11 Oct 2026 17:57:30 +0000",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "energia",
@@ -105,7 +118,7 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Sun, 11 Oct 2026 15:03:21 +0000",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "energia",
@@ -118,7 +131,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Sat, 10 Oct 2026 18:31:41 +0000",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "economia",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sat, 10 Oct 2026 14:37:50 +0000",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "energia",
@@ -144,7 +157,7 @@
       "destacada": false,
       "tema": "fogones",
       "fecha": "Sat, 10 Oct 2026 18:35:32 +0000",
-      "id": 11
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -157,7 +170,7 @@
       "destacada": false,
       "tema": "ulises",
       "fecha": "Mon, 12 Oct 2026 04:39:31 +0200",
-      "id": 12
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -170,7 +183,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Mon, 12 Oct 2026 03:54:06 +0200",
-      "id": 13
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -183,7 +196,7 @@
       "destacada": false,
       "tema": "activista",
       "fecha": "Mon, 12 Oct 2026 03:29:18 +0200",
-      "id": 14
+      "id": 15
     },
     {
       "categoria": "salud",
@@ -196,7 +209,7 @@
       "destacada": false,
       "tema": "abrazado",
       "fecha": "Sun, 11 Oct 2026 22:39:33 +0000",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "economia",
@@ -209,7 +222,20 @@
       "destacada": false,
       "tema": "sindicato",
       "fecha": "Sun, 11 Oct 2026 19:44:44 +0000",
-      "id": 16
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Uruguay abre una salida al limbo migratorio de miles de cubanos",
+      "resumen": "Un decreto presidencial contempla la residencia permanente para solicitantes de #refugio en #Uruguay: se abre la posibilidad para miles de #cubanos, pero con estos requisitos.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791788975_69351.html",
+      "destacada": false,
+      "tema": "uruguay",
+      "fecha": "Mon, 12 Oct 2026 09:09:35 +0200",
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -222,7 +248,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Sun, 11 Oct 2026 21:16:51 +0200",
-      "id": 17
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -235,7 +261,7 @@
       "destacada": false,
       "tema": "charcos",
       "fecha": "Sun, 11 Oct 2026 20:56:29 +0200",
-      "id": 18
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -248,7 +274,7 @@
       "destacada": false,
       "tema": "gaviota",
       "fecha": "Sun, 11 Oct 2026 18:54:35 +0200",
-      "id": 19
+      "id": 21
     },
     {
       "categoria": "economia",
@@ -261,7 +287,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sun, 11 Oct 2026 17:22:21 +0200",
-      "id": 20
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -274,7 +300,7 @@
       "destacada": false,
       "tema": "policía",
       "fecha": "Sun, 11 Oct 2026 15:49:57 +0200",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "politica",
@@ -287,7 +313,7 @@
       "destacada": false,
       "tema": "punto",
       "fecha": "Sun, 11 Oct 2026 15:00:22 +0200",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Sun, 11 Oct 2026 14:31:57 +0200",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "asere",
       "fecha": "Sun, 11 Oct 2026 13:03:54 +0200",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "transporte",
@@ -326,7 +352,7 @@
       "destacada": false,
       "tema": "estrena",
       "fecha": "Sun, 11 Oct 2026 14:32:40 -0400",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -339,7 +365,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Sun, 11 Oct 2026 12:00:00 -0400",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "economia",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "develan",
       "fecha": "Sun, 11 Oct 2026 11:54:44 -0400",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "salud",
@@ -365,7 +391,7 @@
       "destacada": false,
       "tema": "tragedia",
       "fecha": "Sun, 11 Oct 2026 10:20:08 -0400",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -378,7 +404,7 @@
       "destacada": false,
       "tema": "pareja",
       "fecha": "Sun, 11 Oct 2026 09:27:04 -0400",
-      "id": 29
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -391,7 +417,7 @@
       "destacada": false,
       "tema": "síndrome",
       "fecha": "Sun, 11 Oct 2026 08:35:03 -0400",
-      "id": 30
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -404,7 +430,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Sun, 11 Oct 2026 08:00:00 -0400",
-      "id": 31
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -417,7 +443,7 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Sun, 11 Oct 2026 07:00:30 -0400",
-      "id": 32
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -430,7 +456,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Sun, 11 Oct 2026 07:00:00 -0400",
-      "id": 33
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -443,7 +469,7 @@
       "destacada": false,
       "tema": "postulan",
       "fecha": "Sun, 11 Oct 2026 20:32:20 +0000",
-      "id": 34
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -456,7 +482,33 @@
       "destacada": false,
       "tema": "alejandro",
       "fecha": "Sun, 11 Oct 2026 14:40:30 +0000",
-      "id": 35
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Osmany García, la Diosa y Otaola desatan el pandemónium en la industria del odio contra Cuba",
+      "resumen": "Guerrero Cubano con su verdad al desnudo",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125442-osmany-garcia-la-diosa-y-otaola-desatan-el-pandemonium-en-la-industria-del-odio-contra-cuba.jpg?t=1791788930",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261012/125442/125442-osmany-garcia-la-diosa-y-otaola-desatan-el-pandemonium-en-la-industria-del-odio-contra-cuba",
+      "destacada": false,
+      "tema": "osmany",
+      "fecha": "Mon, 12 Oct 26 09:08:00 +0200",
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Emisora vasca Naiz Irratia recorre en cinco entregas la historia de la Revolución cubana, con entrevistas en euskara a cubanas y cubanos residentes en Euskal Herria",
+      "resumen": "El pódcast especial Kuba, Bizi Iraultza (Cuba: Revolución Vital), creación del periodista Hegoi Bela...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125441-emisora-vasca-naiz-irratia-recorre-en-cinco-entregas-la-historia-de-la-revolucion-cubana-con-entrevistas-en-euskara-a-cubanas-y-cubanos-residentes-en-euskal-herria.jpg?t=1791785797",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261012/125441/125441-emisora-vasca-naiz-irratia-recorre-en-cinco-entregas-la-historia-de-la-revolucion-cubana-con-entrevistas-en-euskara-a-cubanas-y-cubanos-residentes-en-euskal-herria",
+      "destacada": false,
+      "tema": "emisora",
+      "fecha": "Mon, 12 Oct 26 08:11:00 +0200",
+      "id": 39
     },
     {
       "categoria": "transporte",
@@ -469,7 +521,7 @@
       "destacada": false,
       "tema": "lleno",
       "fecha": "Mon, 12 Oct 26 08:05:00 +0200",
-      "id": 36
+      "id": 40
     },
     {
       "categoria": "salud",
@@ -482,7 +534,7 @@
       "destacada": false,
       "tema": "enfrenta",
       "fecha": "Mon, 12 Oct 26 08:02:00 +0200",
-      "id": 37
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -495,7 +547,7 @@
       "destacada": false,
       "tema": "conciencia",
       "fecha": "Mon, 12 Oct 26 08:01:00 +0200",
-      "id": 38
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -508,7 +560,7 @@
       "destacada": false,
       "tema": "sancti",
       "fecha": "Mon, 12 Oct 26 08:00:00 +0200",
-      "id": 39
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -521,7 +573,7 @@
       "destacada": false,
       "tema": "tributo",
       "fecha": "Mon, 12 Oct 26 07:59:00 +0200",
-      "id": 40
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -534,7 +586,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Mon, 12 Oct 26 07:54:00 +0200",
-      "id": 41
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -547,7 +599,7 @@
       "destacada": false,
       "tema": "proyecto",
       "fecha": "Mon, 12 Oct 26 07:52:00 +0200",
-      "id": 42
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -560,33 +612,7 @@
       "destacada": false,
       "tema": "conversando",
       "fecha": "Mon, 12 Oct 26 07:49:00 +0200",
-      "id": 43
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Néstor Kohan denuncia política genocida hacia Cuba",
-      "resumen": "La 36 - Radio Centenario.- En nuestro contacto internacional, desde argentina conversamos con el fil...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125435-nestor-kohan-denuncia-politica-genocida-hacia-cuba.jpg?t=1791784684",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261012/125435/125435-nestor-kohan-denuncia-politica-genocida-hacia-cuba",
-      "destacada": false,
-      "tema": "néstor",
-      "fecha": "Mon, 12 Oct 26 04:00:00 +0200",
-      "id": 44
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Italia: sobre la moción de apoyo a Cuba, aprobada por unanimidad por la Comisión de Asuntos Exteriores del Parlamento",
-      "resumen": "Argentino Tellini - Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125430-italia-sobre-la-mocion-de-apoyo-a-cuba-aprobada-por-unanimidad-por-la-comision-de-asuntos-exteriores-del-parlamento.jpg?t=1791740145",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261011/125430/125430-italia-sobre-la-mocion-de-apoyo-a-cuba-aprobada-por-unanimidad-por-la-comision-de-asuntos-exteriores-del-parlamento",
-      "destacada": false,
-      "tema": "italia",
-      "fecha": "Sun, 11 Oct 26 19:35:00 +0200",
-      "id": 45
+      "id": 47
     },
     {
       "categoria": "politica",
@@ -599,7 +625,7 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Sat, 10 Oct 2026 20:26:00 +0000",
-      "id": 46
+      "id": 48
     },
     {
       "categoria": "politica",
@@ -612,7 +638,7 @@
       "destacada": false,
       "tema": "encabeza",
       "fecha": "Sat, 10 Oct 2026 16:06:01 +0000",
-      "id": 47
+      "id": 49
     },
     {
       "categoria": "politica",
@@ -625,7 +651,7 @@
       "destacada": false,
       "tema": "serie",
       "fecha": "Sat, 10 Oct 2026 13:16:00 +0000",
-      "id": 48
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -638,7 +664,7 @@
       "destacada": false,
       "tema": "estudiantes",
       "fecha": "Sun, 11 Oct 2026 23:29:13 +0000",
-      "id": 49
+      "id": 51
     },
     {
       "categoria": "politica",
@@ -651,7 +677,7 @@
       "destacada": false,
       "tema": "presidente",
       "fecha": "Sun, 11 Oct 2026 21:37:52 +0000",
-      "id": 50
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -664,7 +690,7 @@
       "destacada": false,
       "tema": "cooperación",
       "fecha": "Sun, 11 Oct 2026 12:57:00 +0000",
-      "id": 51
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -677,7 +703,7 @@
       "destacada": false,
       "tema": "brigada",
       "fecha": "Sun, 11 Oct 2026 12:47:00 +0000",
-      "id": 52
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -690,7 +716,7 @@
       "destacada": false,
       "tema": "toque",
       "fecha": "Sun, 11 Oct 2026 12:42:38 +0000",
-      "id": 53
+      "id": 55
     }
   ]
 }
