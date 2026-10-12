@@ -1,6 +1,6 @@
 {
   "fecha": "2026-10-12",
-  "hora": "03:08",
+  "hora": "04:08",
   "total": 55,
   "noticias": [
     {
@@ -43,6 +43,19 @@
       "id": 3
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Neurótica Anónima, de Cuba, en la carrera por los Premios Goya",
+      "resumen": "La Habana, 12 oct (Prensa Latina) La cinta cubana Neurótica Anónima figura hoy entre las nominadas a Mejor Película Iberoamericana en los Premios Goya, noticia que enorgullece por su impacto internacional y haber sido elegida para competir con producciones de 19 países. The post Neurótica Anónima, d",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/12/neurotica-anonima-de-cuba-en-la-carrera-por-los-premios-goya/",
+      "destacada": true,
+      "tema": "neurótica",
+      "fecha": "Mon, 12 Oct 2026 04:08:57 +0000",
+      "id": 4
+    },
+    {
       "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -53,7 +66,7 @@
       "destacada": true,
       "tema": "puros",
       "fecha": "Sun, 11 Oct 2026 13:18:57 +0000",
-      "id": 4
+      "id": 5
     },
     {
       "categoria": "salud",
@@ -63,10 +76,10 @@
       "resumen": "El canciller califica de “unilateral y mendaz” el documento sobre el trabajo forzoso en las misiones sanitarias, pero no desmiente las cifras ni los mecanismos de control que describe el reporte",
       "imagen_url": "https://static.14ymedio.com/clip/38fa9ae1-8fe2-45a6-b5d7-beb1da3ce7e4_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/bruno-rodriguez-tilda-persecucion-enfermiza_1_1131809.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "régimen",
       "fecha": "Sun, 11 Oct 2026 11:15:41 +0000",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "politica",
@@ -79,7 +92,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sun, 11 Oct 2026 11:40:09 +0000",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "personas",
       "fecha": "Sun, 11 Oct 2026 17:57:30 +0000",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "energia",
@@ -105,7 +118,7 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Sun, 11 Oct 2026 15:03:21 +0000",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "energia",
@@ -118,7 +131,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Sat, 10 Oct 2026 18:31:41 +0000",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "economia",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sat, 10 Oct 2026 14:37:50 +0000",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "energia",
@@ -144,7 +157,20 @@
       "destacada": false,
       "tema": "fogones",
       "fecha": "Sat, 10 Oct 2026 18:35:32 +0000",
-      "id": 11
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Ulises Toirac: «El trancazo de emigrar» y sus miles de historias en Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e209395-s27061-nid342669-ulises-toirac-trancazo-emigrar-sus-miles-historias",
+      "destacada": false,
+      "tema": "ulises",
+      "fecha": "Mon, 12 Oct 2026 04:39:31 +0200",
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -157,7 +183,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Mon, 12 Oct 2026 03:54:06 +0200",
-      "id": 12
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -170,7 +196,7 @@
       "destacada": false,
       "tema": "activista",
       "fecha": "Mon, 12 Oct 2026 03:29:18 +0200",
-      "id": 13
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -183,32 +209,6 @@
       "destacada": false,
       "tema": "actriz",
       "fecha": "Mon, 12 Oct 2026 02:51:32 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Así cierra el mercado informal en Cuba: el dólar y el euro ganan terreno al cierre del día",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e197721-s27061-nid342670-asi-cierra-mercado-informal-cuba-dolar-euro-ganan",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Mon, 12 Oct 2026 02:08:53 +0200",
-      "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Régimen cubano construye 18 viviendas de contenedores y materiales ligeros en Santiago de Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208933-s27061-nid342667-regimen-cubano-construye-18-viviendas-contenedores",
-      "destacada": false,
-      "tema": "régimen",
-      "fecha": "Mon, 12 Oct 2026 01:56:03 +0200",
       "id": 16
     },
     {
