@@ -1,20 +1,33 @@
 {
   "fecha": "2026-10-12",
-  "hora": "12:12",
+  "hora": "14:14",
   "total": 49,
   "noticias": [
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
+      "categoria": "salud",
+      "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Película cubana Neurótica Anónima nominada a los Goya",
-      "resumen": "El filme de Jorge Perugorría aspira en la categoría de Mejor Película Iberoamericana",
+      "titulo": "Paneles en Cuba y la solidaridad imposible de bloquear por EEUU",
+      "resumen": "Bruselas, 12 oct (Prensa Latina) Grupos de solidaridad, amigos de Cuba y la embajada de esa isla en Bélgica celebran hoy una demostración de cómo la solidaridad, imposible de bloquear por Estados Unidos, llega esta vez con paneles solares para un centro hospitalario. The post Paneles en Cuba y la so",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-11/pelicula-cubana-neurotica-anonima-nominada-a-los-goya-11-10-2026-10-10-10",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/12/paneles-en-cuba-y-la-solidaridad-imposible-de-bloquear-por-eeuu/",
       "destacada": true,
-      "tema": "película",
-      "fecha": "Sun, 11 Oct 2026 10:10:10 -0400",
+      "tema": "paneles",
+      "fecha": "Mon, 12 Oct 2026 14:00:25 +0000",
       "id": 1
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Presidente de Cuba desea pronta recuperación al papa León XIV",
+      "resumen": "La Habana, 12 oct (Prensa Latina) El presidente de Cuba, Miguel Díaz-Canel, deseó hoy éxitos al papa León XIV, quien se someterá a una cirugía para remover un nódulo pulmonar, e hizo votos por el pronto y pleno restablecimiento del Sumo Pontífice. The post Presidente de Cuba desea pronta recuperació",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/12/presidente-de-cuba-desea-pronta-recuperacion-al-papa-leon-xiv/",
+      "destacada": true,
+      "tema": "presidente",
+      "fecha": "Mon, 12 Oct 2026 13:58:56 +0000",
+      "id": 2
     },
     {
       "categoria": "sociedad",
@@ -27,7 +40,7 @@
       "destacada": true,
       "tema": "muere",
       "fecha": "Mon, 12 Oct 2026 10:17:43 +0000",
-      "id": 2
+      "id": 3
     },
     {
       "categoria": "economia",
@@ -40,7 +53,7 @@
       "destacada": true,
       "tema": "puros",
       "fecha": "Sun, 11 Oct 2026 13:18:57 +0000",
-      "id": 3
+      "id": 4
     },
     {
       "categoria": "salud",
@@ -53,7 +66,7 @@
       "destacada": true,
       "tema": "régimen",
       "fecha": "Sun, 11 Oct 2026 11:15:41 +0000",
-      "id": 4
+      "id": 5
     },
     {
       "categoria": "politica",
@@ -63,10 +76,10 @@
       "resumen": "La Habana retiró sin explicaciones a la mitad de sus diplomáticos en Corea del Sur, aunque niega que la decisión tenga motivaciones políticas",
       "imagen_url": "https://static.14ymedio.com/clip/bb3c4984-546c-4a96-98d4-02236d675571_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/diaz-canel-reafirma-amistad-corea_1_1131811.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "canel",
       "fecha": "Sun, 11 Oct 2026 11:40:09 +0000",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "energia",
@@ -79,7 +92,7 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Sun, 11 Oct 2026 15:03:21 +0000",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "energia",
@@ -92,32 +105,19 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Sat, 10 Oct 2026 18:31:41 +0000",
-      "id": 7
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Expertos evalúan la deuda petrolera de Cuba con Venezuela en un mínimo de 20.000 millones de dólares",
-      "resumen": "Caracas llegó a mandar a la Isla hasta 157.000 barriles diarios, tres veces más que la cantidad acordada con Hugo Chávez en el año 2000",
-      "imagen_url": "https://static.14ymedio.com/clip/a4b67a1b-d0f4-45a9-9bd8-c198c7467a3e_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/expertos-evaluan-deuda-petrolera-cuba_1_1131795.html",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Sat, 10 Oct 2026 14:37:50 +0000",
       "id": 8
     },
     {
-      "categoria": "energia",
-      "fuente": "https://www.14ymedio.com",
+      "categoria": "transporte",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Fogones de aserrín y marabú por diésel: algunas soluciones de la llamada “transición energética” en Cuba",
-      "resumen": "Mientras el estadio Sandino y las radiobases de Etecsa incorporan paneles, una panadería estatal sustituye el derivado del petróleo por leña para sobrevivir a los apagones",
-      "imagen_url": "https://static.14ymedio.com/clip/ef268f3e-5f9a-4c1e-a27d-49f462aef450_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/fogones-aserrin-marabu-diesel-soluciones_1_1131803.html",
+      "titulo": "Asesor del alcalde de Nueva York se reunió con Díaz-Canel en Cuba y relató los lujos de su viaje",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e129488-s27061-nid342684-asesor-alcalde-nueva-york-reunio-diaz-canel-cuba",
       "destacada": false,
-      "tema": "fogones",
-      "fecha": "Sat, 10 Oct 2026 18:35:32 +0000",
+      "tema": "asesor",
+      "fecha": "Mon, 12 Oct 2026 13:51:23 +0200",
       "id": 9
     },
     {
@@ -137,6 +137,32 @@
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
+      "titulo": "Cuba se va sin medallas del Mundial de Judo de Bakú pero una atleta nacida en la Isla sube al podio",
+      "resumen": "La judoca #AyumiLeiva es la única cubana que sube al podio en el Mundial de #Bakú2026, pero su medalla de bronce es para #España. La selección nacional de #Cuba se despide con apenas dos victorias en 13 combates. #DeporteCubano #Judo.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/deportes/1791808608_69356.html",
+      "destacada": false,
+      "tema": "medallas",
+      "fecha": "Mon, 12 Oct 2026 14:36:48 +0200",
+      "id": 11
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La minería ilegal, de 'actividad informal para sobrevivir' a problema de salud pública en Las Tunas",
+      "resumen": "#SOSCuba: #Cubanos entre 25 y 30 años presentan insuficiencia renal aguda en #LasTunas debido a la minería ilegal de oro. La prensa oficial reconoce que es una actividad económica de supervivencia.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791807482_69355.html",
+      "destacada": false,
+      "tema": "minería",
+      "fecha": "Mon, 12 Oct 2026 14:18:02 +0200",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
       "titulo": "Un incendio en una entidad de AZCUBA en Manzanillo deja un herido grave y otro en estado crítico",
       "resumen": "Un #incendio en un contenedor de #combustible en #Azutecnia, #Manzanillo, cuyas causas se desconocen de momento, deja cinco trabajadores heridos, uno en estado crítico y otro grave.",
       "imagen_url": "",
@@ -144,7 +170,7 @@
       "destacada": false,
       "tema": "incendio",
       "fecha": "Mon, 12 Oct 2026 13:20:31 +0200",
-      "id": 11
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -157,7 +183,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Mon, 12 Oct 2026 13:08:00 +0200",
-      "id": 12
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -170,7 +196,7 @@
       "destacada": false,
       "tema": "derecho",
       "fecha": "Mon, 12 Oct 2026 13:02:16 +0200",
-      "id": 13
+      "id": 15
     },
     {
       "categoria": "transporte",
@@ -183,7 +209,7 @@
       "destacada": false,
       "tema": "china",
       "fecha": "Mon, 12 Oct 2026 12:12:12 +0200",
-      "id": 14
+      "id": 16
     },
     {
       "categoria": "economia",
@@ -196,7 +222,7 @@
       "destacada": false,
       "tema": "mipyme",
       "fecha": "Mon, 12 Oct 2026 11:45:38 +0200",
-      "id": 15
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -209,7 +235,7 @@
       "destacada": false,
       "tema": "uruguay",
       "fecha": "Mon, 12 Oct 2026 09:09:35 +0200",
-      "id": 16
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -222,33 +248,46 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Sun, 11 Oct 2026 21:16:51 +0200",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Charcos y basureros, lo único que prospera en La Habana en medio de la expansión del dengue",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791744989_69315.html",
-      "destacada": false,
-      "tema": "charcos",
-      "fecha": "Sun, 11 Oct 2026 20:56:29 +0200",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Gaviota reabre 85 habitaciones de lujo en Varadero, pero mantiene cerrada casi toda su planta hotelera",
-      "resumen": "#GAESA celebra que opera 3.470 habitaciones de hoteles en #Cuba, menos del 12% de las más de 30.000 que declara en su sitio oficial.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1791737675_69348.html",
-      "destacada": false,
-      "tema": "gaviota",
-      "fecha": "Sun, 11 Oct 2026 18:54:35 +0200",
       "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El futuro es ya",
+      "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480769.html",
+      "destacada": false,
+      "tema": "futuro",
+      "fecha": "Mon, 12 Oct 2026 10:00:00 -0400",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Caminos de libertad: Rompiendo el mito de la Revolución cubana",
+      "resumen": "Tres cubanos relatan su camino al exilio en Uruguay: Dayceé, médica que desertó de una misión en Brasil; Yunier, artista de Holguín que participó en las protestas del 11J; y Alex, joven de la Sierra Maestra que redescubrió su identidad cubana lejos de la isla.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/caminos-de-libertad-rompiendo-el-mito-de-la-revoluci%c3%b3n-cubana/481661.html",
+      "destacada": false,
+      "tema": "caminos",
+      "fecha": "Mon, 12 Oct 2026 10:00:00 -0400",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Fallece en Cuba Raúl Borges Álvarez, padre del ex preso político Ernesto Borges",
+      "resumen": "Borges convirtió la libertad de su hijo en una causa personal durante años; Ernesto fue excarcelado el 24 de abril de 2025, después de casi 27 años en la cárcel.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/fallece-en-cuba-ra%c3%bal-borges-%c3%a1lvarez-padre-del-ex-preso-pol%c3%adtico-ernesto-borges/481800.html",
+      "destacada": false,
+      "tema": "fallece",
+      "fecha": "Mon, 12 Oct 2026 09:01:49 -0400",
+      "id": 22
     },
     {
       "categoria": "economia",
@@ -261,7 +300,7 @@
       "destacada": false,
       "tema": "martí",
       "fecha": "Mon, 12 Oct 2026 08:00:00 -0400",
-      "id": 20
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -274,7 +313,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Mon, 12 Oct 2026 07:00:00 -0400",
-      "id": 21
+      "id": 24
     },
     {
       "categoria": "transporte",
@@ -287,7 +326,7 @@
       "destacada": false,
       "tema": "estrena",
       "fecha": "Sun, 11 Oct 2026 14:32:40 -0400",
-      "id": 22
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -300,7 +339,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Sun, 11 Oct 2026 12:00:00 -0400",
-      "id": 23
+      "id": 26
     },
     {
       "categoria": "economia",
@@ -313,7 +352,7 @@
       "destacada": false,
       "tema": "develan",
       "fecha": "Sun, 11 Oct 2026 11:54:44 -0400",
-      "id": 24
+      "id": 27
     },
     {
       "categoria": "salud",
@@ -326,59 +365,33 @@
       "destacada": false,
       "tema": "tragedia",
       "fecha": "Sun, 11 Oct 2026 10:20:08 -0400",
-      "id": 25
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Pareja de Henry Constantín denuncia interrogatorio y amenazas tras visita en prisión: \"estoy firme con él\"",
-      "resumen": "La pareja del periodista cubano Henry Constantín, Alejandra García, denunció que fue interrogada y amenazada por agentes de la Seguridad del Estado tras visitar al reportero en la prisión Kilo 7, en Camagüey, donde permanece recluido desde septiembre acusado de desobediencia.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/pareja-de-henry-constant%c3%adn-denuncia-interrogatorio-y-amenazas-tras-visita-en-prisi%c3%b3n-estoy-firme-con-%c3%a9l/481754.html",
-      "destacada": false,
-      "tema": "pareja",
-      "fecha": "Sun, 11 Oct 2026 09:27:04 -0400",
-      "id": 26
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El síndrome de La Habana: nuevo libro sigue el rastro de Rusia tras el mayor enigma del espionaje moderno",
-      "resumen": "Productores de 60 Minutes, de CBS, publican explosiva investigación de una década sobre los sucesos conocidos como \"Síndrome de La Habana\". El investigador Christo Grozev rastreó a oficiales de la inteligencia militar (GRU) rusa y detectó un posible equipo técnico en Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/nuevo-libro-sigue-el-rastro-de-rusia-en-la-habana-tras-el-mayor-enigma-del-espionaje-moderno/481753.html",
-      "destacada": false,
-      "tema": "síndrome",
-      "fecha": "Sun, 11 Oct 2026 08:35:03 -0400",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El Cubano y su Fe",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480755.html",
-      "destacada": false,
-      "tema": "cubano",
-      "fecha": "Sun, 11 Oct 2026 08:00:00 -0400",
       "id": 28
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Santa Misa",
-      "resumen": "La misa dominical transmitida para Cuba desde el Santuario Nacional de Nuestra Señor de la Caridad, un templo católico de la Arquidiócesis de Miami dedicado a la Patrona de Cuba.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Rinden en Italia tributo al Che Guevara y Dino Pogolotti (+Fotos)",
+      "resumen": "Autoridades locales y miembros de organizaciones solidarias con Cuba en la ciudad italiana de Collegno rindieron homenaje a Ernesto Che Guevara en el aniversario 59 de su asesinato, ocurrido el pasado 9 de octubre, mientras que el embajador cubano en Italia, Jorge Luis Cepero Aguiar, visitó el Valle",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480754.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/12/rinden-en-italia-tributo-al-che-guevara-y-dino-pogolotti-fotos/",
       "destacada": false,
-      "tema": "santa",
-      "fecha": "Sun, 11 Oct 2026 07:00:30 -0400",
+      "tema": "rinden",
+      "fecha": "Mon, 12 Oct 2026 13:13:04 +0000",
       "id": 29
+    },
+    {
+      "categoria": "economia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuadrando la Caja: Nuevas reglas, viejos reclamos: ¿Qué cambia para el sector no estatal? (+Video)",
+      "resumen": "En los últimos años, el sector no estatal ha ganado terreno dentro de la economía; sin embargo, no han sido pocas las dificultades que también ha encontrado este sector para su desarrollo. ¿Qué cambia con las nuevas reglas del juego a partir de la aplicación de las nuevas transformaciones económicas",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/12/cuadrando-la-caja-nuevas-reglas-viejos-reclamos-que-cambia-para-el-sector-no-estatal-video/",
+      "destacada": false,
+      "tema": "cuadrando",
+      "fecha": "Mon, 12 Oct 2026 12:22:20 +0000",
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -391,19 +404,6 @@
       "destacada": false,
       "tema": "postulan",
       "fecha": "Sun, 11 Oct 2026 20:32:20 +0000",
-      "id": 30
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Alejandro Rodríguez brilla en la Copa Continental de Triatlón de Santa Fe",
-      "resumen": "El cubano Alejandro Rodríguez conquistó este sábado la medalla de bronce en la Copa Continental de Triatlón de Santa Fe, Argentina. “El Kenya”, como también le llaman, detuvo el cronómetro en 54:30 minutos en la modalidad sprint. The post Alejandro Rodríguez brilla en la Copa Continental de Triatlón",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/11/alejandro-rodriguez-brilla-en-la-copa-continental-de-triatlon-de-santa-fe/",
-      "destacada": false,
-      "tema": "alejandro",
-      "fecha": "Sun, 11 Oct 2026 14:40:30 +0000",
       "id": 31
     },
     {
@@ -537,6 +537,19 @@
       "id": 41
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Fiesta Nacional de España, orgullo nacional con arraigo en Cuba",
+      "resumen": "La Habana, 12 oct (Prensa Latina) La cultura de la nación ibérica muestra tradiciones y arraigo en Cuba con la celebración por estos días de múltiples espectáculos, en homenaje a la Fiesta Nacional de España, cuya gala promete hoy aquí emociones y sensibilidad artística. The post Fiesta Nacional de ",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/12/fiesta-nacional-de-espana-orgullo-nacional-con-arraigo-en-cuba/",
+      "destacada": false,
+      "tema": "fiesta",
+      "fecha": "Mon, 12 Oct 2026 14:15:59 +0000",
+      "id": 42
+    },
+    {
       "categoria": "politica",
       "fuente": "https://www.guerrillero.cu/",
       "fuente_tipo": "alternativa",
@@ -547,7 +560,7 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Sat, 10 Oct 2026 20:26:00 +0000",
-      "id": 42
+      "id": 43
     },
     {
       "categoria": "politica",
@@ -560,19 +573,6 @@
       "destacada": false,
       "tema": "encabeza",
       "fecha": "Sat, 10 Oct 2026 16:06:01 +0000",
-      "id": 43
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.guerrillero.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Serie Nacional: la paridad enciende la lucha por la cima",
-      "resumen": "La 65.ª Serie Nacional de Béisbol vivirá hoy otra jornada de duelos parejos, con Pinar del Río en solitario al frente de Occidente y Santiago de Cuba y Sancti Spíritus compartiendo la cima oriental. En un campeonato comprimido a 44 partidos por equipo en la fase clasificatoria, cada resultado comien",
-      "imagen_url": "",
-      "enlace_original": "https://www.guerrillero.cu/serie-nacional-la-paridad-enciende-la-lucha-por-la-cima/",
-      "destacada": false,
-      "tema": "serie",
-      "fecha": "Sat, 10 Oct 2026 13:16:00 +0000",
       "id": 44
     },
     {
