@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-12",
-  "hora": "11:09",
-  "total": 52,
+  "hora": "12:12",
+  "total": 49,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -18,15 +18,15 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba de amistad y solidaridad en el País Vasco",
-      "resumen": "Madrid, 12 oct (Prensa Latina) Cuba estuvo en el centro de numerosas actividades en Bilbao, con muestras de amistad y solidaridad a propósito de la fecha de l0 de octubre. The post Cuba de amistad y solidaridad en el País Vasco first appeared on Noticias Prensa Latina.",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/12/cuba-de-amistad-y-solidaridad-en-el-pais-vasco/",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Muere en México Manuel Pereira, el escritor cubano que se llevó La Habana al exilio",
+      "resumen": "Desaparece un escritor que atravesó el entusiasmo revolucionario, conoció de cerca a los grandes nombres del 'boom' latinoamericano y terminó encontrando en el exilio la libertad que le faltó en la Isla",
+      "imagen_url": "https://static.14ymedio.com/clip/df943b92-e787-4731-be95-e1afc0139e4b_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/muere-mexico-manuel-pereira-escritor_1_1131843.html",
       "destacada": true,
-      "tema": "amistad",
-      "fecha": "Mon, 12 Oct 2026 10:13:17 +0000",
+      "tema": "muere",
+      "fecha": "Mon, 12 Oct 2026 10:17:43 +0000",
       "id": 2
     },
     {
@@ -43,19 +43,6 @@
       "id": 3
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Muere en México Manuel Pereira, el escritor cubano que se llevó La Habana al exilio",
-      "resumen": "Desaparece un escritor que atravesó el entusiasmo revolucionario, conoció de cerca a los grandes nombres del 'boom' latinoamericano y terminó encontrando en el exilio la libertad que le faltó en la Isla",
-      "imagen_url": "https://static.14ymedio.com/clip/df943b92-e787-4731-be95-e1afc0139e4b_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/muere-mexico-manuel-pereira-escritor_1_1131843.html",
-      "destacada": true,
-      "tema": "muere",
-      "fecha": "Mon, 12 Oct 2026 10:17:43 +0000",
-      "id": 4
-    },
-    {
       "categoria": "salud",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -66,7 +53,7 @@
       "destacada": true,
       "tema": "régimen",
       "fecha": "Sun, 11 Oct 2026 11:15:41 +0000",
-      "id": 5
+      "id": 4
     },
     {
       "categoria": "politica",
@@ -76,23 +63,10 @@
       "resumen": "La Habana retiró sin explicaciones a la mitad de sus diplomáticos en Corea del Sur, aunque niega que la decisión tenga motivaciones políticas",
       "imagen_url": "https://static.14ymedio.com/clip/bb3c4984-546c-4a96-98d4-02236d675571_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/diaz-canel-reafirma-amistad-corea_1_1131811.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "canel",
       "fecha": "Sun, 11 Oct 2026 11:40:09 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Dos personas en una motocicleta asesinan a balazos a un cubano en Cancún",
-      "resumen": "Las autoridades confirman a ‘14ymedio’ que ninguna persona se ha presentado a identificar a la víctima",
-      "imagen_url": "https://static.14ymedio.com/clip/afef51c6-8f73-43b4-904b-3321dbf6a0c6_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/migracion/personas-motocicleta-asesinan-balazos-cubano_1_1131838.html",
-      "destacada": false,
-      "tema": "personas",
-      "fecha": "Sun, 11 Oct 2026 17:57:30 +0000",
-      "id": 7
+      "id": 5
     },
     {
       "categoria": "energia",
@@ -105,7 +79,7 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Sun, 11 Oct 2026 15:03:21 +0000",
-      "id": 8
+      "id": 6
     },
     {
       "categoria": "energia",
@@ -118,7 +92,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Sat, 10 Oct 2026 18:31:41 +0000",
-      "id": 9
+      "id": 7
     },
     {
       "categoria": "economia",
@@ -131,7 +105,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sat, 10 Oct 2026 14:37:50 +0000",
-      "id": 10
+      "id": 8
     },
     {
       "categoria": "energia",
@@ -144,7 +118,7 @@
       "destacada": false,
       "tema": "fogones",
       "fecha": "Sat, 10 Oct 2026 18:35:32 +0000",
-      "id": 11
+      "id": 9
     },
     {
       "categoria": "salud",
@@ -157,20 +131,20 @@
       "destacada": false,
       "tema": "abrazado",
       "fecha": "Sun, 11 Oct 2026 22:39:33 +0000",
-      "id": 12
+      "id": 10
     },
     {
-      "categoria": "economia",
-      "fuente": "https://www.trabajadores.cu",
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Los 31 del Sindicato de Turismo",
-      "resumen": "La organización festejará la fecha en un momento en extremo complejo para tan relevante sector de la economía cubana",
+      "titulo": "Un incendio en una entidad de AZCUBA en Manzanillo deja un herido grave y otro en estado crítico",
+      "resumen": "Un #incendio en un contenedor de #combustible en #Azutecnia, #Manzanillo, cuyas causas se desconocen de momento, deja cinco trabajadores heridos, uno en estado crítico y otro grave.",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261011/los-31-del-sindicato-de-turismo/",
+      "enlace_original": "https://diariodecuba.com/cuba/1791804031_69354.html",
       "destacada": false,
-      "tema": "sindicato",
-      "fecha": "Sun, 11 Oct 2026 19:44:44 +0000",
-      "id": 13
+      "tema": "incendio",
+      "fecha": "Mon, 12 Oct 2026 13:20:31 +0200",
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -183,7 +157,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Mon, 12 Oct 2026 13:08:00 +0200",
-      "id": 14
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -196,7 +170,7 @@
       "destacada": false,
       "tema": "derecho",
       "fecha": "Mon, 12 Oct 2026 13:02:16 +0200",
-      "id": 15
+      "id": 13
     },
     {
       "categoria": "transporte",
@@ -209,7 +183,7 @@
       "destacada": false,
       "tema": "china",
       "fecha": "Mon, 12 Oct 2026 12:12:12 +0200",
-      "id": 16
+      "id": 14
     },
     {
       "categoria": "economia",
@@ -222,7 +196,7 @@
       "destacada": false,
       "tema": "mipyme",
       "fecha": "Mon, 12 Oct 2026 11:45:38 +0200",
-      "id": 17
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -235,7 +209,7 @@
       "destacada": false,
       "tema": "uruguay",
       "fecha": "Mon, 12 Oct 2026 09:09:35 +0200",
-      "id": 18
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -248,7 +222,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Sun, 11 Oct 2026 21:16:51 +0200",
-      "id": 19
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -261,7 +235,7 @@
       "destacada": false,
       "tema": "charcos",
       "fecha": "Sun, 11 Oct 2026 20:56:29 +0200",
-      "id": 20
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -274,20 +248,20 @@
       "destacada": false,
       "tema": "gaviota",
       "fecha": "Sun, 11 Oct 2026 18:54:35 +0200",
-      "id": 21
+      "id": 19
     },
     {
       "categoria": "economia",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba estrena un mercado de abasto mayorista con compras mínimas de 200 dólares",
-      "resumen": "Empresas estatales, mipymes, una firma extranjera, más compras mínimas de 200 dólares, así es el primer #MercadoMayorista en #Cuba.",
+      "titulo": "Martí Noticias AM",
+      "resumen": "Revista informativa con los últimos acontecimientos ocurridos en Cuba y el mundo. Con entrevistas y temas de actualidad relacionados a la política, la economía y de interés general.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1791732141_69347.html",
+      "enlace_original": "https://www.martinoticias.com/a/480768.html",
       "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Sun, 11 Oct 2026 17:22:21 +0200",
-      "id": 22
+      "tema": "martí",
+      "fecha": "Mon, 12 Oct 2026 08:00:00 -0400",
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -300,7 +274,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Mon, 12 Oct 2026 07:00:00 -0400",
-      "id": 23
+      "id": 21
     },
     {
       "categoria": "transporte",
@@ -313,7 +287,7 @@
       "destacada": false,
       "tema": "estrena",
       "fecha": "Sun, 11 Oct 2026 14:32:40 -0400",
-      "id": 24
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -326,7 +300,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Sun, 11 Oct 2026 12:00:00 -0400",
-      "id": 25
+      "id": 23
     },
     {
       "categoria": "economia",
@@ -339,7 +313,7 @@
       "destacada": false,
       "tema": "develan",
       "fecha": "Sun, 11 Oct 2026 11:54:44 -0400",
-      "id": 26
+      "id": 24
     },
     {
       "categoria": "salud",
@@ -352,7 +326,7 @@
       "destacada": false,
       "tema": "tragedia",
       "fecha": "Sun, 11 Oct 2026 10:20:08 -0400",
-      "id": 27
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -365,7 +339,7 @@
       "destacada": false,
       "tema": "pareja",
       "fecha": "Sun, 11 Oct 2026 09:27:04 -0400",
-      "id": 28
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -378,7 +352,7 @@
       "destacada": false,
       "tema": "síndrome",
       "fecha": "Sun, 11 Oct 2026 08:35:03 -0400",
-      "id": 29
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -391,7 +365,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Sun, 11 Oct 2026 08:00:00 -0400",
-      "id": 30
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -404,20 +378,7 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Sun, 11 Oct 2026 07:00:30 -0400",
-      "id": 31
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba Habla: \"Como que me da deseos de llorar”",
-      "resumen": "Madre cubana desde La Habana habla de escasez y falta de comida para ella y sus hijos.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-como-que-me-da-deseos-de-llorar/481169.html",
-      "destacada": false,
-      "tema": "habla",
-      "fecha": "Sun, 11 Oct 2026 07:00:00 -0400",
-      "id": 32
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -430,7 +391,7 @@
       "destacada": false,
       "tema": "postulan",
       "fecha": "Sun, 11 Oct 2026 20:32:20 +0000",
-      "id": 33
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -443,7 +404,7 @@
       "destacada": false,
       "tema": "alejandro",
       "fecha": "Sun, 11 Oct 2026 14:40:30 +0000",
-      "id": 34
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -456,7 +417,7 @@
       "destacada": false,
       "tema": "osmany",
       "fecha": "Mon, 12 Oct 26 09:08:00 +0200",
-      "id": 35
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -469,7 +430,7 @@
       "destacada": false,
       "tema": "emisora",
       "fecha": "Mon, 12 Oct 26 08:11:00 +0200",
-      "id": 36
+      "id": 33
     },
     {
       "categoria": "transporte",
@@ -482,7 +443,7 @@
       "destacada": false,
       "tema": "lleno",
       "fecha": "Mon, 12 Oct 26 08:05:00 +0200",
-      "id": 37
+      "id": 34
     },
     {
       "categoria": "salud",
@@ -495,7 +456,7 @@
       "destacada": false,
       "tema": "enfrenta",
       "fecha": "Mon, 12 Oct 26 08:02:00 +0200",
-      "id": 38
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -508,7 +469,7 @@
       "destacada": false,
       "tema": "conciencia",
       "fecha": "Mon, 12 Oct 26 08:01:00 +0200",
-      "id": 39
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -521,7 +482,7 @@
       "destacada": false,
       "tema": "sancti",
       "fecha": "Mon, 12 Oct 26 08:00:00 +0200",
-      "id": 40
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -534,7 +495,7 @@
       "destacada": false,
       "tema": "tributo",
       "fecha": "Mon, 12 Oct 26 07:59:00 +0200",
-      "id": 41
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -547,7 +508,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Mon, 12 Oct 26 07:54:00 +0200",
-      "id": 42
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -560,7 +521,7 @@
       "destacada": false,
       "tema": "proyecto",
       "fecha": "Mon, 12 Oct 26 07:52:00 +0200",
-      "id": 43
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -573,7 +534,7 @@
       "destacada": false,
       "tema": "conversando",
       "fecha": "Mon, 12 Oct 26 07:49:00 +0200",
-      "id": 44
+      "id": 41
     },
     {
       "categoria": "politica",
@@ -586,7 +547,7 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Sat, 10 Oct 2026 20:26:00 +0000",
-      "id": 45
+      "id": 42
     },
     {
       "categoria": "politica",
@@ -599,7 +560,7 @@
       "destacada": false,
       "tema": "encabeza",
       "fecha": "Sat, 10 Oct 2026 16:06:01 +0000",
-      "id": 46
+      "id": 43
     },
     {
       "categoria": "politica",
@@ -612,7 +573,7 @@
       "destacada": false,
       "tema": "serie",
       "fecha": "Sat, 10 Oct 2026 13:16:00 +0000",
-      "id": 47
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -625,7 +586,7 @@
       "destacada": false,
       "tema": "estudiantes",
       "fecha": "Sun, 11 Oct 2026 23:29:13 +0000",
-      "id": 48
+      "id": 45
     },
     {
       "categoria": "politica",
@@ -638,7 +599,7 @@
       "destacada": false,
       "tema": "presidente",
       "fecha": "Sun, 11 Oct 2026 21:37:52 +0000",
-      "id": 49
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -651,7 +612,7 @@
       "destacada": false,
       "tema": "cooperación",
       "fecha": "Sun, 11 Oct 2026 12:57:00 +0000",
-      "id": 50
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -664,7 +625,7 @@
       "destacada": false,
       "tema": "brigada",
       "fecha": "Sun, 11 Oct 2026 12:47:00 +0000",
-      "id": 51
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -677,7 +638,7 @@
       "destacada": false,
       "tema": "toque",
       "fecha": "Sun, 11 Oct 2026 12:42:38 +0000",
-      "id": 52
+      "id": 49
     }
   ]
 }
