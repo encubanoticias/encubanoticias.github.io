@@ -1,6 +1,6 @@
 {
   "fecha": "2026-10-12",
-  "hora": "09:09",
+  "hora": "11:09",
   "total": 52,
   "noticias": [
     {
@@ -17,6 +17,19 @@
       "id": 1
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba de amistad y solidaridad en el País Vasco",
+      "resumen": "Madrid, 12 oct (Prensa Latina) Cuba estuvo en el centro de numerosas actividades en Bilbao, con muestras de amistad y solidaridad a propósito de la fecha de l0 de octubre. The post Cuba de amistad y solidaridad en el País Vasco first appeared on Noticias Prensa Latina.",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/12/cuba-de-amistad-y-solidaridad-en-el-pais-vasco/",
+      "destacada": true,
+      "tema": "amistad",
+      "fecha": "Mon, 12 Oct 2026 10:13:17 +0000",
+      "id": 2
+    },
+    {
       "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -27,7 +40,20 @@
       "destacada": true,
       "tema": "puros",
       "fecha": "Sun, 11 Oct 2026 13:18:57 +0000",
-      "id": 2
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Muere en México Manuel Pereira, el escritor cubano que se llevó La Habana al exilio",
+      "resumen": "Desaparece un escritor que atravesó el entusiasmo revolucionario, conoció de cerca a los grandes nombres del 'boom' latinoamericano y terminó encontrando en el exilio la libertad que le faltó en la Isla",
+      "imagen_url": "https://static.14ymedio.com/clip/df943b92-e787-4731-be95-e1afc0139e4b_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/muere-mexico-manuel-pereira-escritor_1_1131843.html",
+      "destacada": true,
+      "tema": "muere",
+      "fecha": "Mon, 12 Oct 2026 10:17:43 +0000",
+      "id": 4
     },
     {
       "categoria": "salud",
@@ -40,7 +66,7 @@
       "destacada": true,
       "tema": "régimen",
       "fecha": "Sun, 11 Oct 2026 11:15:41 +0000",
-      "id": 3
+      "id": 5
     },
     {
       "categoria": "politica",
@@ -50,10 +76,10 @@
       "resumen": "La Habana retiró sin explicaciones a la mitad de sus diplomáticos en Corea del Sur, aunque niega que la decisión tenga motivaciones políticas",
       "imagen_url": "https://static.14ymedio.com/clip/bb3c4984-546c-4a96-98d4-02236d675571_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/diaz-canel-reafirma-amistad-corea_1_1131811.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "canel",
       "fecha": "Sun, 11 Oct 2026 11:40:09 +0000",
-      "id": 4
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -63,10 +89,10 @@
       "resumen": "Las autoridades confirman a ‘14ymedio’ que ninguna persona se ha presentado a identificar a la víctima",
       "imagen_url": "https://static.14ymedio.com/clip/afef51c6-8f73-43b4-904b-3321dbf6a0c6_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/migracion/personas-motocicleta-asesinan-balazos-cubano_1_1131838.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "personas",
       "fecha": "Sun, 11 Oct 2026 17:57:30 +0000",
-      "id": 5
+      "id": 7
     },
     {
       "categoria": "energia",
@@ -79,7 +105,7 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Sun, 11 Oct 2026 15:03:21 +0000",
-      "id": 6
+      "id": 8
     },
     {
       "categoria": "energia",
@@ -92,7 +118,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Sat, 10 Oct 2026 18:31:41 +0000",
-      "id": 7
+      "id": 9
     },
     {
       "categoria": "economia",
@@ -105,7 +131,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sat, 10 Oct 2026 14:37:50 +0000",
-      "id": 8
+      "id": 10
     },
     {
       "categoria": "energia",
@@ -118,46 +144,7 @@
       "destacada": false,
       "tema": "fogones",
       "fecha": "Sat, 10 Oct 2026 18:35:32 +0000",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Ulises Toirac: «El trancazo de emigrar» y sus miles de historias en Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e209395-s27061-nid342669-ulises-toirac-trancazo-emigrar-sus-miles-historias",
-      "destacada": false,
-      "tema": "ulises",
-      "fecha": "Mon, 12 Oct 2026 04:39:31 +0200",
-      "id": 10
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Muere cubano tras ser baleado por dos sujetos desde una motocicleta en Cancún",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208512-s27061-nid342673-muere-cubano-tras-ser-baleado-dos-sujetos",
-      "destacada": false,
-      "tema": "muere",
-      "fecha": "Mon, 12 Oct 2026 03:54:06 +0200",
       "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Activista: «La Constitución cubana proclama un socialismo que nunca existió»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e209395-s27061-nid342666-activista-constitucion-cubana-proclama-socialismo",
-      "destacada": false,
-      "tema": "activista",
-      "fecha": "Mon, 12 Oct 2026 03:29:18 +0200",
-      "id": 12
     },
     {
       "categoria": "salud",
@@ -170,7 +157,7 @@
       "destacada": false,
       "tema": "abrazado",
       "fecha": "Sun, 11 Oct 2026 22:39:33 +0000",
-      "id": 13
+      "id": 12
     },
     {
       "categoria": "economia",
@@ -183,7 +170,59 @@
       "destacada": false,
       "tema": "sindicato",
       "fecha": "Sun, 11 Oct 2026 19:44:44 +0000",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Los cubanos pasan todo el día en la calle, buscando qué comer y cómo sobrevivir",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791803280_69316.html",
+      "destacada": false,
+      "tema": "cubanos",
+      "fecha": "Mon, 12 Oct 2026 13:08:00 +0200",
       "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El derecho a heredar en Cuba: ¿qué pasa con los emigrados?",
+      "resumen": "Haberse ido de #Cuba ya no incapacita para #heredar. Lucía Alfonso Mirabal explica qué pasa con los cubanos que no pueden entrar al país, qué obstáculos existen para que los emigrados puedan ejercer el derecho y qué vacíos legales existen.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791802936_69156.html",
+      "destacada": false,
+      "tema": "derecho",
+      "fecha": "Mon, 12 Oct 2026 13:02:16 +0200",
+      "id": 15
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Air China encadena cancelaciones en la ruta Madrid-La Habana y deja a cubanos varados",
+      "resumen": "#AirChina cancela y reprograma vuelos a #Cuba desde #Madrid y deja a cubanos en la incertidumbre para viajar a la Isla o volver a España.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791799932_69352.html",
+      "destacada": false,
+      "tema": "china",
+      "fecha": "Mon, 12 Oct 2026 12:12:12 +0200",
+      "id": 16
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Una mipyme privada rescata del hundimiento a una granja porcina estatal en Artemisa",
+      "resumen": "La #mipyme #DonPereda resuelve en ocho meses los problemas que la gestión estatal no fue capaz de resolver en dos años en #CríaLindero, una granja del #EstadoCubano en #Artemisa.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791798338_69353.html",
+      "destacada": false,
+      "tema": "mipyme",
+      "fecha": "Mon, 12 Oct 2026 11:45:38 +0200",
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -196,7 +235,7 @@
       "destacada": false,
       "tema": "uruguay",
       "fecha": "Mon, 12 Oct 2026 09:09:35 +0200",
-      "id": 15
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -209,7 +248,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Sun, 11 Oct 2026 21:16:51 +0200",
-      "id": 16
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -222,7 +261,7 @@
       "destacada": false,
       "tema": "charcos",
       "fecha": "Sun, 11 Oct 2026 20:56:29 +0200",
-      "id": 17
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -235,7 +274,7 @@
       "destacada": false,
       "tema": "gaviota",
       "fecha": "Sun, 11 Oct 2026 18:54:35 +0200",
-      "id": 18
+      "id": 21
     },
     {
       "categoria": "economia",
@@ -248,58 +287,19 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sun, 11 Oct 2026 17:22:21 +0200",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La policía política cubana amenaza a la pareja de Henry Constantin durante una visita a prisión",
-      "resumen": "La periodista independiente Alejandra García, interrogada y amenazada durante la visita a su pareja, el también periodista #HenryConstantin en prisión.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1791726597_69346.html",
-      "destacada": false,
-      "tema": "policía",
-      "fecha": "Sun, 11 Oct 2026 15:49:57 +0200",
-      "id": 20
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "A punto de perder una pierna por una grave enfermedad, el Gobierno cubano le niega la pensión",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791723622_69322.html",
-      "destacada": false,
-      "tema": "punto",
-      "fecha": "Sun, 11 Oct 2026 15:00:22 +0200",
-      "id": 21
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba ya no es un país",
-      "resumen": "Los que aún quedamos en #Cuba no es por una decisión propia. El periodista #JorgeEnriqueRodríguez escribe su bitácora desde #LaHabana.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791721917_69345.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Sun, 11 Oct 2026 14:31:57 +0200",
       "id": 22
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "¡Asere, qué bolá! Celebremos el centenario de la Academia Cubana de la Lengua",
-      "resumen": "#RAE. La publicación de la nueva edición del 'Diccionario de la Lengua Española' incluirá 100 #cubanismos inéditos.",
+      "titulo": "Cuba Habla: \"Aquí la sitiuación es bastante mala”",
+      "resumen": "“Me da mucho dolor no poder darle todo lo que quisiera darle” asegura madre desde La Habana acerca de la alimentación de sus hijos.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cultura/1791716634_69337.html",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-aqu%c3%ad-la-sitiuaci%c3%b3n-es-bastante-mala/481173.html",
       "destacada": false,
-      "tema": "asere",
-      "fecha": "Sun, 11 Oct 2026 13:03:54 +0200",
+      "tema": "habla",
+      "fecha": "Mon, 12 Oct 2026 07:00:00 -0400",
       "id": 23
     },
     {
