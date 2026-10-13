@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-13",
-  "hora": "04:08",
-  "total": 47,
+  "hora": "05:08",
+  "total": 49,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -30,6 +30,19 @@
       "id": 2
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Embajador de Cuba en Pakistán dialoga con familias cubano-pakistaníes",
+      "resumen": "Islamabad, 13 oct (Prensa Latina) El embajador de Cuba en Pakistán, Damián Cordero Torres, mantuvo un encuentro con familias residentes aquí, integradas por cubanas y pakistaníes graduados de medicina en la isla, informó hoy la Embajada. The post Embajador de Cuba en Pakistán dialoga con familias cu",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/13/embajador-de-cuba-en-pakistan-dialoga-con-familias-cubano-pakistanies/",
+      "destacada": true,
+      "tema": "embajador",
+      "fecha": "Tue, 13 Oct 2026 04:54:59 +0000",
+      "id": 3
+    },
+    {
       "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -40,7 +53,7 @@
       "destacada": true,
       "tema": "habana",
       "fecha": "Mon, 12 Oct 2026 21:49:19 +0000",
-      "id": 3
+      "id": 4
     },
     {
       "categoria": "economia",
@@ -53,7 +66,7 @@
       "destacada": true,
       "tema": "arroz",
       "fecha": "Mon, 12 Oct 2026 15:59:42 +0000",
-      "id": 4
+      "id": 5
     },
     {
       "categoria": "politica",
@@ -63,10 +76,10 @@
       "resumen": "El Gobierno de Yamandú Orsi firma un decreto que abre la puerta a miles de migrantes con solicitud de refugio pendiente",
       "imagen_url": "https://static.14ymedio.com/clip/97261b5f-8d68-48fb-9256-dad1c567a199_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/migracion/uruguay-da-alternativa-residencia-arraigo_1_1131883.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "uruguay",
       "fecha": "Mon, 12 Oct 2026 19:59:31 +0000",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "energia",
@@ -79,7 +92,7 @@
       "destacada": false,
       "tema": "niega",
       "fecha": "Mon, 12 Oct 2026 18:50:22 +0000",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "cinco",
       "fecha": "Mon, 12 Oct 2026 16:33:16 +0000",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -105,7 +118,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Mon, 12 Oct 2026 16:30:02 +0000",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "politica",
@@ -118,7 +131,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sun, 11 Oct 2026 11:40:09 +0000",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "energia",
@@ -131,7 +144,20 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Sun, 11 Oct 2026 15:03:21 +0000",
-      "id": 10
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Recaudador de impuestos de Miami-Dade pide investigar presuntos vínculos con el régimen cubano de un asesor del alcalde de Nueva York",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u1-e135253-s27061-nid342740-recaudador-impuestos-miami-dade-pide-investigar",
+      "destacada": false,
+      "tema": "recaudador",
+      "fecha": "Tue, 13 Oct 2026 05:15:39 +0200",
+      "id": 12
     },
     {
       "categoria": "economia",
@@ -144,7 +170,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 02:30:26 +0200",
-      "id": 11
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -157,20 +183,7 @@
       "destacada": false,
       "tema": "cancelaciones",
       "fecha": "Tue, 13 Oct 2026 01:21:13 +0200",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Dos hombres buscados por el asesinato de un joven cubano en Guyana se entregan a la Policía",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u1-e208933-s27061-nid342730-dos-hombres-buscados-joven-cubano-guyana-entregan",
-      "destacada": false,
-      "tema": "hombres",
-      "fecha": "Tue, 13 Oct 2026 01:01:19 +0200",
-      "id": 13
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -183,7 +196,7 @@
       "destacada": false,
       "tema": "lanzan",
       "fecha": "Mon, 12 Oct 2026 21:14:02 +0000",
-      "id": 14
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -196,7 +209,7 @@
       "destacada": false,
       "tema": "holguín",
       "fecha": "Mon, 12 Oct 2026 22:56:59 +0000",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "energia",
@@ -209,7 +222,7 @@
       "destacada": false,
       "tema": "actualiza",
       "fecha": "Mon, 12 Oct 2026 22:09:56 +0000",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -222,7 +235,7 @@
       "destacada": false,
       "tema": "corina",
       "fecha": "Mon, 12 Oct 2026 19:33:56 +0000",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "salud",
@@ -235,7 +248,20 @@
       "destacada": false,
       "tema": "abrazado",
       "fecha": "Sun, 11 Oct 2026 22:39:33 +0000",
-      "id": 18
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Muere Manolo del Valle, una voz emblemática del bolero cubano",
+      "resumen": "Adiós a #ManoloDelValle, intérprete de 'Es mejor vivir así' y 'Celos del viento y el mar', la voz que marcó una etapa de la orquesta Original de Manzanillo.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cultura/1791866457_69367.html",
+      "destacada": false,
+      "tema": "muere",
+      "fecha": "Tue, 13 Oct 2026 06:40:57 +0200",
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -248,7 +274,7 @@
       "destacada": false,
       "tema": "cubalex",
       "fecha": "Tue, 13 Oct 2026 01:11:28 +0200",
-      "id": 19
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -261,7 +287,7 @@
       "destacada": false,
       "tema": "castigo",
       "fecha": "Mon, 12 Oct 2026 22:58:16 +0200",
-      "id": 20
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -274,7 +300,7 @@
       "destacada": false,
       "tema": "libertad",
       "fecha": "Mon, 12 Oct 2026 22:33:00 +0200",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "politica",
@@ -287,7 +313,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 12 Oct 2026 20:42:49 +0200",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Mon, 12 Oct 2026 19:23:53 +0200",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "peloteros",
       "fecha": "Mon, 12 Oct 2026 16:43:33 +0200",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -326,7 +352,7 @@
       "destacada": false,
       "tema": "medallas",
       "fecha": "Mon, 12 Oct 2026 14:36:48 +0200",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "salud",
@@ -339,20 +365,7 @@
       "destacada": false,
       "tema": "minería",
       "fecha": "Mon, 12 Oct 2026 14:18:02 +0200",
-      "id": 26
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Un incendio en una entidad de AZCUBA en Manzanillo deja un herido grave y otro en estado crítico",
-      "resumen": "Un #incendio en un contenedor de #combustible en #Azutecnia, #Manzanillo, cuyas causas se desconocen de momento, deja cinco trabajadores heridos, uno en estado crítico y otro grave.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791804031_69354.html",
-      "destacada": false,
-      "tema": "incendio",
-      "fecha": "Mon, 12 Oct 2026 13:20:31 +0200",
-      "id": 27
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -365,7 +378,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Tue, 13 Oct 2026 00:05:30 -0400",
-      "id": 28
+      "id": 29
     },
     {
       "categoria": "transporte",
@@ -378,7 +391,7 @@
       "destacada": false,
       "tema": "libertad",
       "fecha": "Mon, 12 Oct 2026 23:00:00 -0400",
-      "id": 29
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -391,7 +404,7 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Mon, 12 Oct 2026 21:00:00 -0400",
-      "id": 30
+      "id": 31
     },
     {
       "categoria": "economia",
@@ -404,7 +417,7 @@
       "destacada": false,
       "tema": "liberar",
       "fecha": "Tue, 13 Oct 2026 04:06:01 +0000",
-      "id": 31
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -417,7 +430,7 @@
       "destacada": false,
       "tema": "embajada",
       "fecha": "Mon, 12 Oct 2026 20:29:07 +0000",
-      "id": 32
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -430,7 +443,7 @@
       "destacada": false,
       "tema": "presentarán",
       "fecha": "Mon, 12 Oct 2026 19:48:25 +0000",
-      "id": 33
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -443,7 +456,59 @@
       "destacada": false,
       "tema": "inauguran",
       "fecha": "Mon, 12 Oct 2026 19:35:25 +0000",
-      "id": 34
+      "id": 35
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Cómo beneficia a las mujeres el nuevo Código de Trabajo de Cuba?",
+      "resumen": "Isel Quintana Freyre y Gabriela Milena Padrón Morejón - Revista Mujeres.- Que los años dedicados al ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125420-como-beneficia-a-las-mujeres-el-nuevo-codigo-de-trabajo-de-cuba.jpg?t=1791733678",
+      "enlace_original": "https://www.cubainformacion.tv/genero/20261013/125420/125420-como-beneficia-a-las-mujeres-el-nuevo-codigo-de-trabajo-de-cuba",
+      "destacada": false,
+      "tema": "beneficia",
+      "fecha": "Tue, 13 Oct 26 07:00:00 +0200",
+      "id": 36
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba flexibiliza la exploración y explotación de petróleo y gas y abre nuevas vías a la inversión privada",
+      "resumen": "Conferencia de prensa sobre nuevo decreto ley sobre petroleo y gas....",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125452-cuba-flexibiliza-la-exploracion-y-explotacion-de-petroleo-y-gas-y-abre-nuevas-vias-a-la-inversion-privada.jpg?t=1791867275",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261013/125452/125452-cuba-flexibiliza-la-exploracion-y-explotacion-de-petroleo-y-gas-y-abre-nuevas-vias-a-la-inversion-privada",
+      "destacada": false,
+      "tema": "flexibiliza",
+      "fecha": "Tue, 13 Oct 26 06:53:00 +0200",
+      "id": 37
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Presidente cubano denuncia en la FAO impacto del bloqueo",
+      "resumen": "Cubadebate El presidente de Cuba, Miguel Díaz-Canel, denunció en el Foro Mundial de la Alimentación...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125451-presidente-cubano-denuncia-en-la-fao-impacto-del-bloqueo.jpg?t=1791867168",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261013/125451/125451-presidente-cubano-denuncia-en-la-fao-impacto-del-bloqueo",
+      "destacada": false,
+      "tema": "presidente",
+      "fecha": "Tue, 13 Oct 26 06:50:00 +0200",
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "&quot;Cantas o mueres, como el sinsonte&quot;: Ariel Díaz, trovador cubano",
+      "resumen": "Así piensa el músico cubano para quien la trova es una suerte de adicción. Foto: Cortesía del entrev...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125450-cantas-o-mueres-como-el-sinsonte-ariel-diaz-trovador-cubano.jpg?t=1791867041",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261013/125450/125450-cantas-o-mueres-como-el-sinsonte-ariel-diaz-trovador-cubano",
+      "destacada": false,
+      "tema": "cantas",
+      "fecha": "Tue, 13 Oct 26 06:48:00 +0200",
+      "id": 39
     },
     {
       "categoria": "salud",
@@ -456,7 +521,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 12 Oct 26 17:56:00 +0200",
-      "id": 35
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -469,7 +534,7 @@
       "destacada": false,
       "tema": "osmany",
       "fecha": "Mon, 12 Oct 26 09:08:00 +0200",
-      "id": 36
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -482,7 +547,7 @@
       "destacada": false,
       "tema": "emisora",
       "fecha": "Mon, 12 Oct 26 08:11:00 +0200",
-      "id": 37
+      "id": 42
     },
     {
       "categoria": "transporte",
@@ -495,7 +560,7 @@
       "destacada": false,
       "tema": "lleno",
       "fecha": "Mon, 12 Oct 26 08:05:00 +0200",
-      "id": 38
+      "id": 43
     },
     {
       "categoria": "salud",
@@ -508,71 +573,6 @@
       "destacada": false,
       "tema": "enfrenta",
       "fecha": "Mon, 12 Oct 26 08:02:00 +0200",
-      "id": 39
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Conciencia de la revolución y revolución de la conciencia",
-      "resumen": "Una fuerza invencible en el corazón del pueblo cubano Conciencia de la revolución y revolución de la...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125438-conciencia-de-la-revolucion-y-revolucion-de-la-conciencia.jpg?t=1791784935",
-      "enlace_original": "https://www.cubainformacion.tv/opinion/20261012/125438/125438-conciencia-de-la-revolucion-y-revolucion-de-la-conciencia",
-      "destacada": false,
-      "tema": "conciencia",
-      "fecha": "Mon, 12 Oct 26 08:01:00 +0200",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Sancti Spíritus inaugura el primer mercado de abasto mayorista de Cuba",
-      "resumen": "La iniciativa se relaciona con las transformaciones económicas y sociales que buscan ampliar las fac...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125437-sancti-spiritus-inaugura-el-primer-mercado-de-abasto-mayorista-de-cuba.jpg?t=1791784875",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261012/125437/125437-sancti-spiritus-inaugura-el-primer-mercado-de-abasto-mayorista-de-cuba",
-      "destacada": false,
-      "tema": "sancti",
-      "fecha": "Mon, 12 Oct 26 08:00:00 +0200",
-      "id": 41
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Tributo en Italia al Che Guevara y a Dino Pogolotti",
-      "resumen": "Roma, 11 oct (Prensa Latina) Autoridades locales y miembros de organizaciones solidarias con Cuba en...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125436-tributo-en-italia-al-che-guevara-y-a-dino-pogolotti.jpg?t=1791784778",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261012/125436/125436-tributo-en-italia-al-che-guevara-y-a-dino-pogolotti",
-      "destacada": false,
-      "tema": "tributo",
-      "fecha": "Mon, 12 Oct 26 07:59:00 +0200",
-      "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Bloqueo de EEUU y solidaridad hacia Cuba en encuentro en Roma convocado por el diario Il Manifesto",
-      "resumen": "Roma, 11 oct (Prensa Latina) La denuncia del bloqueo estadounidense contra Cuba y la importancia de ...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125434-bloqueo-de-eeuu-y-solidaridad-hacia-cuba-en-encuentro-en-roma-convocado-por-el-diario-il-manifesto.jpg?t=1791784563",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261012/125434/125434-bloqueo-de-eeuu-y-solidaridad-hacia-cuba-en-encuentro-en-roma-convocado-por-el-diario-il-manifesto",
-      "destacada": false,
-      "tema": "bloqueo",
-      "fecha": "Mon, 12 Oct 26 07:54:00 +0200",
-      "id": 43
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Proyecto sociocultural Top Arte acerca las artes plásticas a las enseñanzas primaria y secundaria",
-      "resumen": "Cubavisión Internacional.- Con sede en Centro Habana y extendiendo su base de operaciones a otros mu...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125433-proyecto-sociocultural-top-arte-acerca-las-artes-plasticas-a-las-ensenanzas-primaria-y-secundaria.jpg?t=1791784421",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261012/125433/125433-proyecto-sociocultural-top-arte-acerca-las-artes-plasticas-a-las-ensenanzas-primaria-y-secundaria",
-      "destacada": false,
-      "tema": "proyecto",
-      "fecha": "Mon, 12 Oct 26 07:52:00 +0200",
       "id": 44
     },
     {
@@ -613,6 +613,32 @@
       "tema": "voluntarios",
       "fecha": "Mon, 12 Oct 2026 15:13:07 +0000",
       "id": 47
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Punto cubano para celebrar a la ciudad de Matanzas",
+      "resumen": "Décimas improvisadas, tonadas, y canciones típicas del punto cubano, se escucharon hoy en habitual peña de tradiciones campesinas efectuada en el centro llamado...",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/12/punto-cubano-para-celebrar-matanzas/",
+      "destacada": false,
+      "tema": "punto",
+      "fecha": "Mon, 12 Oct 2026 12:40:00 +0000",
+      "id": 48
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cooperación Cuba-Italia consolida la fruticultura en Matanzas",
+      "resumen": "La iniciativa de la Agencia Italiana de Cooperación para el Desarrollo (AICS), CubaFruta, desde hace varios años trabaja en el fortalecimiento de las cadenas de valor de variedades de frutas en Los Arabos, Colón, Calimete y Jagüey Grande",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/11/cooperacion-cuba-italia-consolida-fruticultura/",
+      "destacada": false,
+      "tema": "cooperación",
+      "fecha": "Sun, 11 Oct 2026 12:57:00 +0000",
+      "id": 49
     }
   ]
 }
