@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-10-12",
-  "hora": "23:06",
-  "total": 52,
+  "fecha": "2026-10-13",
+  "hora": "00:09",
+  "total": 44,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -43,19 +43,6 @@
       "id": 3
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Pinar del Río extiende su racha triunfal en el béisbol cubano",
-      "resumen": "Pinar del Río, Cuba, 12 oct (Prensa Latina) Los Vegueros de Pinar del Río extendieron hoy a siete su cadena de victorias en la 65 Serie Nacional de Béisbol, tras derrotar 6-3 a los Piratas de La Isla y completar la barrida en su compromiso particular. The post Pinar del Río extiende su racha triunfa",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/12/pinar-del-rio-extiende-su-racha-triunfal-en-el-beisbol-cubano/",
-      "destacada": true,
-      "tema": "pinar",
-      "fecha": "Mon, 12 Oct 2026 22:09:09 +0000",
-      "id": 4
-    },
-    {
       "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -66,7 +53,7 @@
       "destacada": true,
       "tema": "habana",
       "fecha": "Mon, 12 Oct 2026 21:49:19 +0000",
-      "id": 5
+      "id": 4
     },
     {
       "categoria": "economia",
@@ -76,10 +63,10 @@
       "resumen": "La compra mínima es de 200 dólares o 24.000 pesos, con tarjeta o en efectivo En la misma ciudad, la Empresa Cárnica abre su primera tienda minorista",
       "imagen_url": "https://static.14ymedio.com/clip/2dd2f611-9041-4c6d-aa86-93da7682439e_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/arroz-panales-whisky-figuran-mercado_1_1131864.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "arroz",
       "fecha": "Mon, 12 Oct 2026 15:59:42 +0000",
-      "id": 6
+      "id": 5
     },
     {
       "categoria": "politica",
@@ -92,7 +79,7 @@
       "destacada": false,
       "tema": "uruguay",
       "fecha": "Mon, 12 Oct 2026 19:59:31 +0000",
-      "id": 7
+      "id": 6
     },
     {
       "categoria": "energia",
@@ -105,7 +92,7 @@
       "destacada": false,
       "tema": "niega",
       "fecha": "Mon, 12 Oct 2026 18:50:22 +0000",
-      "id": 8
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -118,7 +105,7 @@
       "destacada": false,
       "tema": "cinco",
       "fecha": "Mon, 12 Oct 2026 16:33:16 +0000",
-      "id": 9
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -131,7 +118,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Mon, 12 Oct 2026 16:30:02 +0000",
-      "id": 10
+      "id": 9
     },
     {
       "categoria": "politica",
@@ -144,7 +131,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sun, 11 Oct 2026 11:40:09 +0000",
-      "id": 11
+      "id": 10
     },
     {
       "categoria": "energia",
@@ -157,7 +144,7 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Sun, 11 Oct 2026 15:03:21 +0000",
-      "id": 12
+      "id": 11
     },
     {
       "categoria": "energia",
@@ -170,7 +157,7 @@
       "destacada": false,
       "tema": "monjas",
       "fecha": "Mon, 12 Oct 2026 23:53:27 +0200",
-      "id": 13
+      "id": 12
     },
     {
       "categoria": "transporte",
@@ -183,7 +170,7 @@
       "destacada": false,
       "tema": "canciller",
       "fecha": "Mon, 12 Oct 2026 23:51:06 +0200",
-      "id": 14
+      "id": 13
     },
     {
       "categoria": "energia",
@@ -196,20 +183,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Mon, 12 Oct 2026 23:20:23 +0200",
-      "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.radiocubana.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Lanzan jornada de celebración por aniversario 68 de la Revolución cubana",
-      "resumen": "Cuba lanzó este sábado la convocatoria a la jornada conmemorativa por el aniversario 68 del Triunfo de la Revolución, a celebrarse el próximo 1 de enero en un contexto marcado por el recrudecimiento del bloqueo de Estados Unidos. Al intervenir en el acto por el aniversario 158 del inicio de las guer",
-      "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/lanzan-jornada-de-celebracion-por-aniversario-68-de-la-revolucion-cubana/",
-      "destacada": false,
-      "tema": "lanzan",
-      "fecha": "Mon, 12 Oct 2026 21:14:02 +0000",
-      "id": 16
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -222,7 +196,7 @@
       "destacada": false,
       "tema": "holguín",
       "fecha": "Mon, 12 Oct 2026 22:56:59 +0000",
-      "id": 17
+      "id": 15
     },
     {
       "categoria": "energia",
@@ -235,7 +209,7 @@
       "destacada": false,
       "tema": "actualiza",
       "fecha": "Mon, 12 Oct 2026 22:09:56 +0000",
-      "id": 18
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -248,7 +222,7 @@
       "destacada": false,
       "tema": "corina",
       "fecha": "Mon, 12 Oct 2026 19:33:56 +0000",
-      "id": 19
+      "id": 17
     },
     {
       "categoria": "salud",
@@ -261,7 +235,20 @@
       "destacada": false,
       "tema": "abrazado",
       "fecha": "Sun, 11 Oct 2026 22:39:33 +0000",
-      "id": 20
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "682: Cubalex publica una 'recopilación verificada' de los presos políticos del régimen",
+      "resumen": "#Cubalex publica una 'recopilación verificada y en constante actualización' de los #PresosPolíticos del régimen de #Cuba. Se trata de 682 nombres que \"no constituyen un censo completo\", debido a la opacidad oficial.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1791846688_69364.html",
+      "destacada": false,
+      "tema": "cubalex",
+      "fecha": "Tue, 13 Oct 2026 01:11:28 +0200",
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -274,7 +261,7 @@
       "destacada": false,
       "tema": "castigo",
       "fecha": "Mon, 12 Oct 2026 22:58:16 +0200",
-      "id": 21
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -287,7 +274,7 @@
       "destacada": false,
       "tema": "libertad",
       "fecha": "Mon, 12 Oct 2026 22:33:00 +0200",
-      "id": 22
+      "id": 21
     },
     {
       "categoria": "politica",
@@ -300,7 +287,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 12 Oct 2026 20:42:49 +0200",
-      "id": 23
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -313,7 +300,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Mon, 12 Oct 2026 19:23:53 +0200",
-      "id": 24
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -326,7 +313,7 @@
       "destacada": false,
       "tema": "peloteros",
       "fecha": "Mon, 12 Oct 2026 16:43:33 +0200",
-      "id": 25
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -339,7 +326,7 @@
       "destacada": false,
       "tema": "medallas",
       "fecha": "Mon, 12 Oct 2026 14:36:48 +0200",
-      "id": 26
+      "id": 25
     },
     {
       "categoria": "salud",
@@ -352,7 +339,7 @@
       "destacada": false,
       "tema": "minería",
       "fecha": "Mon, 12 Oct 2026 14:18:02 +0200",
-      "id": 27
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -365,20 +352,20 @@
       "destacada": false,
       "tema": "incendio",
       "fecha": "Mon, 12 Oct 2026 13:20:31 +0200",
-      "id": 28
+      "id": 27
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Los cubanos pasan todo el día en la calle, buscando qué comer y cómo sobrevivir",
-      "resumen": "",
+      "titulo": "Noticiero de Radio Martí 8:00 PM",
+      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791803280_69316.html",
+      "enlace_original": "https://www.martinoticias.com/a/480792.html",
       "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Mon, 12 Oct 2026 13:08:00 +0200",
-      "id": 29
+      "tema": "noticiero",
+      "fecha": "Mon, 12 Oct 2026 20:00:00 -0400",
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -391,7 +378,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Mon, 12 Oct 2026 17:00:30 -0400",
-      "id": 30
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -404,7 +391,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Mon, 12 Oct 2026 16:14:37 -0400",
-      "id": 31
+      "id": 30
     },
     {
       "categoria": "energia",
@@ -417,59 +404,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Mon, 12 Oct 2026 16:05:30 -0400",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Embajada de China en Cuba alerta sobre cambios y cancelaciones de vuelos de Air China",
-      "resumen": "Por razones técnicas, los horarios de los vuelos CA865 (Pekín-La Habana) y CA866 (La Habana-Pekín), operados por Air China, han experimentado cambios frecuentes recientemente, y algunas operaciones han sido canceladas temporalmente. La Embajada de China en Cuba recuerda a los pasajeros que tengan pr",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/12/embajada-de-china-en-cuba-alerta-sobre-cambios-y-cancelaciones-de-vuelos-de-air-china/",
-      "destacada": false,
-      "tema": "embajada",
-      "fecha": "Mon, 12 Oct 2026 20:29:07 +0000",
-      "id": 33
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Presentarán \"Lydia Cabrera en su laguna sagrada\" en Librería Fayad Jamís",
-      "resumen": "Como parte de la Jornada Letras de cubanía, y en ocasión del Día de la Cultura Cubana, será presentado mañana martes 13 de octubre, a las 11:00 a.m. en la Librería Fayad Jamís —Obispo 261 entre Cuba y Aguiar— el libro \"Lydia Cabrera en su laguna sagrada\", de Natalia Bolívar Aróstegui (1934-2023) y N",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/12/presentaran-lydia-cabrera-en-su-laguna-sagrada-en-libreria-fayad-jamis/",
-      "destacada": false,
-      "tema": "presentarán",
-      "fecha": "Mon, 12 Oct 2026 19:48:25 +0000",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Inauguran en Argentina cátedra dedicada a la obra de Titón",
-      "resumen": "Una cátedra abierta para el estudio de la obra del fallecido realizador cubano Tomás Gutiérrez Alea (1928-1996), fue fundada en Argentina, bajo la égida de Facultad de Arte y Diseño de Universidad de Misiones, resaltan fuentes oficiales. La actriz cubana Mirtha Ibarra, viuda de Gutiérrez Alea (Titón",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/12/inauguran-en-argentina-catedra-dedicada-a-la-obra-de-titon/",
-      "destacada": false,
-      "tema": "inauguran",
-      "fecha": "Mon, 12 Oct 2026 19:35:25 +0000",
-      "id": 35
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Presidente cubano denuncia en la FAO impacto del bloqueo",
-      "resumen": "El presidente de Cuba, Miguel Díaz-Canel, denunció en el Foro Mundial de la Alimentación (FAO), el impacto de las sanciones económicas de Estados Unidos sobre la producción y distribución de alimentos en la isla. Durante la apertura del evento, celebrado en Roma, declaró en un videomensaje que las d",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/12/presidente-cubano-denuncia-en-la-fao-impacto-del-bloqueo/",
-      "destacada": false,
-      "tema": "presidente",
-      "fecha": "Mon, 12 Oct 2026 19:08:57 +0000",
-      "id": 36
+      "id": 31
     },
     {
       "categoria": "salud",
@@ -482,7 +417,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 12 Oct 26 17:56:00 +0200",
-      "id": 37
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -495,7 +430,7 @@
       "destacada": false,
       "tema": "osmany",
       "fecha": "Mon, 12 Oct 26 09:08:00 +0200",
-      "id": 38
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -508,7 +443,7 @@
       "destacada": false,
       "tema": "emisora",
       "fecha": "Mon, 12 Oct 26 08:11:00 +0200",
-      "id": 39
+      "id": 34
     },
     {
       "categoria": "transporte",
@@ -521,7 +456,7 @@
       "destacada": false,
       "tema": "lleno",
       "fecha": "Mon, 12 Oct 26 08:05:00 +0200",
-      "id": 40
+      "id": 35
     },
     {
       "categoria": "salud",
@@ -534,7 +469,7 @@
       "destacada": false,
       "tema": "enfrenta",
       "fecha": "Mon, 12 Oct 26 08:02:00 +0200",
-      "id": 41
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -547,7 +482,7 @@
       "destacada": false,
       "tema": "conciencia",
       "fecha": "Mon, 12 Oct 26 08:01:00 +0200",
-      "id": 42
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -560,7 +495,7 @@
       "destacada": false,
       "tema": "sancti",
       "fecha": "Mon, 12 Oct 26 08:00:00 +0200",
-      "id": 43
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -573,7 +508,7 @@
       "destacada": false,
       "tema": "tributo",
       "fecha": "Mon, 12 Oct 26 07:59:00 +0200",
-      "id": 44
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -586,7 +521,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Mon, 12 Oct 26 07:54:00 +0200",
-      "id": 45
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -599,46 +534,7 @@
       "destacada": false,
       "tema": "proyecto",
       "fecha": "Mon, 12 Oct 26 07:52:00 +0200",
-      "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba avanza en la creación de una red de gastronomía ligera",
-      "resumen": "como parte como parte de las transformaciones que experimenta el sector del comercio, la gastronomía y los servicios La entrada Cuba avanza en la creación de una red de gastronomía ligera se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/cuba-avanza-en-la-creacion-de-una-red-de-gastronomia-ligera/",
-      "destacada": false,
-      "tema": "avanza",
-      "fecha": "Mon, 12 Oct 2026 22:20:22 +0000",
-      "id": 47
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Lizt Alfonso Dance Cuba elogia la Hispanidad con una Gran Gala",
-      "resumen": "El Día de la Hispanidad deviene en motivo de festejo para la compañía Lizt Alfonso Dance Cuba (LADC) y la Embajada de España La entrada Lizt Alfonso Dance Cuba elogia la Hispanidad con una Gran Gala se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/lizt-alfonso-dance-cuba-elogia-la-hispanidad-con-una-gran-gala/",
-      "destacada": false,
-      "tema": "alfonso",
-      "fecha": "Mon, 12 Oct 2026 19:00:49 +0000",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Voluntarios se alistan para Marabana",
-      "resumen": "El 15 de noviembre próximo tendrá lugar la 40 edición de Marabana, evento para el cual se trabaja intensamente por parte de su voluntariado La entrada Voluntarios se alistan para Marabana se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/voluntarios-se-alistan-para-marabana/",
-      "destacada": false,
-      "tema": "voluntarios",
-      "fecha": "Mon, 12 Oct 2026 15:13:07 +0000",
-      "id": 49
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -651,7 +547,7 @@
       "destacada": false,
       "tema": "punto",
       "fecha": "Mon, 12 Oct 2026 12:40:00 +0000",
-      "id": 50
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -664,7 +560,7 @@
       "destacada": false,
       "tema": "cooperación",
       "fecha": "Sun, 11 Oct 2026 12:57:00 +0000",
-      "id": 51
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -677,7 +573,7 @@
       "destacada": false,
       "tema": "brigada",
       "fecha": "Sun, 11 Oct 2026 12:47:00 +0000",
-      "id": 52
+      "id": 44
     }
   ]
 }
