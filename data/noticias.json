@@ -1,45 +1,45 @@
 {
   "fecha": "2026-10-13",
-  "hora": "01:13",
-  "total": 47,
+  "hora": "03:07",
+  "total": 50,
   "noticias": [
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba denuncia en la FAO el bloqueo y el cerco energético como obstáculos a la seguridad alimentaria",
-      "resumen": "Mensaje del Presidente cubano Miguel Díaz-Canel Bermúdez al Foro Mundial de la Alimentación que organiza cada año la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO)&nbsp;",
+      "titulo": "Defender lo nuestro",
+      "resumen": "Como parte de la Jornada de la Cultura Cubana ha sido concebido un programa en el que la escuela y el barrio deben ser beneficiarios y protagonistas",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-12/diaz-canel-denuncia-en-la-fao-el-impacto-del-bloqueo-de-ee-uu-sobre-el-derecho-a-la-alimentacion-en-cuba-12-10-2026-17-10-08",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-13/jornada-por-la-cultura-cubana-defender-lo-nuestro-09-10-2026-11-10-39",
       "destacada": true,
-      "tema": "denuncia",
-      "fecha": "Mon, 12 Oct 2026 17:10:08 -0400",
+      "tema": "defender",
+      "fecha": "Tue, 13 Oct 2026 11:10:39 -0400",
       "id": 1
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Más allá de vigilar el tiempo y el clima",
-      "resumen": "Fruto de la fusión del antiguo Observatorio Nacional con el departamento de Meteorología creado quince meses antes por la Academia de Ciencias de Cuba, el 12 de octubre de 1965 fue constituido el Instituto de Meteorología, en ceremonia solemne efectuada en el hemiciclo del Capitolio Nacional",
+      "titulo": "La historia en defensa de la Patria hay que saber contarla",
+      "resumen": "El pasado 10 de octubre, Cuba lanzó la convocatoria a la jornada conmemorativa por el aniversario 68 del Triunfo de la Revolución, que se celebrará el próximo 1ro. de enero&nbsp;en un contexto marcado por el recrudecimiento del bloqueo de Estados Unidos",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/ciencia/2026-10-12/mas-alla-de-vigilar-el-tiempo-y-el-clima-12-10-2026-17-10-37",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-13/la-historia-de-la-terquedad-cubana-en-defensa-de-la-patria-tiene-su-explicacion-y-hay-que-saber-contarla-11-10-2026-09-10-12",
       "destacada": true,
-      "tema": "vigilar",
-      "fecha": "Mon, 12 Oct 2026 17:10:37 -0400",
+      "tema": "historia",
+      "fecha": "Tue, 13 Oct 2026 09:10:12 -0400",
       "id": 2
     },
     {
-      "categoria": "energia",
-      "fuente": "https://www.granma.cu",
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Las importaciones de combustible del sector privado no cubren las necesidades energéticas de Cuba",
-      "resumen": "El ministro de Energía y Minas explicó el alcance de esas operaciones comerciales, las perspectivas de la minería y los avances de la transición energética, en medio de las restricciones que afectan al país",
+      "titulo": "Firman convenios de colaboración universidad cubana y mexicana",
+      "resumen": "Cienfuegos, Cuba, 12 oct (Prensa Latina) La Universidad de Cienfuegos “Carlos Rafael Rodríguez” (UCf), de Cuba, y la Universidad Politécnica de Yucatán, de México, oficializaron hoy un convenio de colaboración con la presencia de autoridades y representantes de ambas instituciones. The post Firman c",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-12/las-importaciones-de-combustible-del-sector-privado-no-cubren-las-necesidades-energeticas-de-cuba-12-10-2026-15-10-52",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/12/firman-convenios-de-colaboracion-universidad-cubana-y-mexicana/",
       "destacada": true,
-      "tema": "importaciones",
-      "fecha": "Mon, 12 Oct 2026 15:10:52 -0400",
+      "tema": "firman",
+      "fecha": "Tue, 13 Oct 2026 01:36:05 +0000",
       "id": 3
     },
     {
@@ -147,6 +147,19 @@
       "id": 11
     },
     {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Euro se acerca a los 900 pesos en Cuba mientras el dólar también sigue subiendo",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u1-e135253-s27061-nid342735-euro-acerca-900-pesos-cuba-mientras-dolar-tambien",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Tue, 13 Oct 2026 02:30:26 +0200",
+      "id": 12
+    },
+    {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
@@ -157,7 +170,7 @@
       "destacada": false,
       "tema": "cancelaciones",
       "fecha": "Tue, 13 Oct 2026 01:21:13 +0200",
-      "id": 12
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -170,7 +183,7 @@
       "destacada": false,
       "tema": "hombres",
       "fecha": "Tue, 13 Oct 2026 01:01:19 +0200",
-      "id": 13
+      "id": 14
     },
     {
       "categoria": "energia",
@@ -183,32 +196,19 @@
       "destacada": false,
       "tema": "monjas",
       "fecha": "Mon, 12 Oct 2026 23:53:27 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Canciller uruguayo pide diálogo dentro de Cuba y ofrece enviar paneles solares ante la crisis",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208933-s27061-nid342726-canciller-uruguayo-pide-dialogo-dentro-cuba-ofrece",
-      "destacada": false,
-      "tema": "canciller",
-      "fecha": "Mon, 12 Oct 2026 23:51:06 +0200",
       "id": 15
     },
     {
-      "categoria": "energia",
-      "fuente": "https://www.cibercuba.com",
+      "categoria": "sociedad",
+      "fuente": "https://www.radiocubana.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Régimen cubano presume en Rusia de «soberanía digital» mientras los apagones dejan sin internet a la población",
-      "resumen": "",
+      "titulo": "Lanzan jornada de celebración por aniversario 68 de la Revolución cubana",
+      "resumen": "Cuba lanzó este sábado la convocatoria a la jornada conmemorativa por el aniversario 68 del Triunfo de la Revolución, a celebrarse el próximo 1 de enero en un contexto marcado por el recrudecimiento del bloqueo de Estados Unidos. Al intervenir en el acto por el aniversario 158 del inicio de las guer",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-12-u1-e208933-s27061-nid342720-regimen-cubano-presume-rusia-soberania-digital",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/lanzan-jornada-de-celebracion-por-aniversario-68-de-la-revolucion-cubana/",
       "destacada": false,
-      "tema": "régimen",
-      "fecha": "Mon, 12 Oct 2026 23:20:23 +0200",
+      "tema": "lanzan",
+      "fecha": "Mon, 12 Oct 2026 21:14:02 +0000",
       "id": 16
     },
     {
@@ -590,6 +590,45 @@
     },
     {
       "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba avanza en la creación de una red de gastronomía ligera",
+      "resumen": "La creación de una red de gastronomía ligera, que dinamizará la actividad gastronómica en el país, avanza con la publicación de la Resolución 29/2026 en la Gaceta Oficial de la República, como parte como parte de las transformaciones que experimenta el sector del comercio, la gastronomía y los servi",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/cuba-avanza-en-la-creacion-de-una-red-de-gastronomia-ligera/",
+      "destacada": false,
+      "tema": "avanza",
+      "fecha": "Mon, 12 Oct 2026 22:20:22 +0000",
+      "id": 46
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Lizt Alfonso Dance Cuba elogia la Hispanidad con una Gran Gala",
+      "resumen": "El Día de la Hispanidad deviene en motivo de festejo para la compañía Lizt Alfonso Dance Cuba (LADC) y la Embajada de España La entrada Lizt Alfonso Dance Cuba elogia la Hispanidad con una Gran Gala se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/lizt-alfonso-dance-cuba-elogia-la-hispanidad-con-una-gran-gala/",
+      "destacada": false,
+      "tema": "alfonso",
+      "fecha": "Mon, 12 Oct 2026 19:00:49 +0000",
+      "id": 47
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Voluntarios se alistan para Marabana",
+      "resumen": "El 15 de noviembre próximo tendrá lugar la 40 edición de Marabana, evento para el cual se trabaja intensamente por parte de su voluntariado La entrada Voluntarios se alistan para Marabana se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/voluntarios-se-alistan-para-marabana/",
+      "destacada": false,
+      "tema": "voluntarios",
+      "fecha": "Mon, 12 Oct 2026 15:13:07 +0000",
+      "id": 48
+    },
+    {
+      "categoria": "sociedad",
       "fuente": "https://giron.cu/",
       "fuente_tipo": "alternativa",
       "titulo": "Punto cubano para celebrar a la ciudad de Matanzas",
@@ -599,7 +638,7 @@
       "destacada": false,
       "tema": "punto",
       "fecha": "Mon, 12 Oct 2026 12:40:00 +0000",
-      "id": 46
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -612,7 +651,7 @@
       "destacada": false,
       "tema": "cooperación",
       "fecha": "Sun, 11 Oct 2026 12:57:00 +0000",
-      "id": 47
+      "id": 50
     }
   ]
 }
