@@ -1,20 +1,85 @@
 {
   "fecha": "2026-10-13",
-  "hora": "13:16",
-  "total": 44,
+  "hora": "15:10",
+  "total": 45,
   "noticias": [
+    {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba compartirá experiencias en ciencia e innovación en foro de FAO",
+      "resumen": "El ministro cubano de Ciencia, Tecnología y Medio Ambiente (Citma), Armando Rodríguez Batista, intervendrá hoy en la sesión de alto nivel del evento Ciencia e Innovación del Foro Mundial de Alimentación (WFF) que sesiona en esta capital",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-13/cuba-compartira-experiencias-en-ciencia-e-innovacion-en-foro-de-fao-13-10-2026-09-10-12",
+      "destacada": true,
+      "tema": "compartirá",
+      "fecha": "Tue, 13 Oct 2026 09:10:12 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba felicita a trabajadores bancarios y azucareros en su día",
+      "resumen": "La Habana, 13 oct (Prensa Latina) El miembro del Buró Político del Comité Central del PCC, Roberto Morales, envió hoy una felicitación a los trabajadores azucareros y bancarios en su jornada conmemorativa. \"Felicitamos a los trabajadores azucareros y bancarios en su día, con la seguridad de su parti",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/13/cuba-felicita-a-trabajadores-bancarios-y-azucareros-en-su-dia/",
+      "destacada": true,
+      "tema": "felicita",
+      "fecha": "Tue, 13 Oct 2026 15:10:26 +0000",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Continúa en Cuba espacio de diálogo sobre Culturas Originarias",
+      "resumen": "La Habana, 13 oct (Prensa Latina) Tras una exitosa apertura la víspera, el VII Coloquio Internacional de Estudios sobre Culturas Originarias de América continúa hoy aquí con conferencias y videoponencias sobre revitalización lingüística, rituales indígenas, arqueología cubana, entre otros temas. The",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/13/continua-en-cuba-espacio-de-dialogo-sobre-culturas-originarias/",
+      "destacada": true,
+      "tema": "continúa",
+      "fecha": "Tue, 13 Oct 2026 15:05:56 +0000",
+      "id": 3
+    },
     {
       "categoria": "politica",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Presidente de Djibouti reconoció resiliencia del pueblo de Cuba",
-      "resumen": "Djibouti, 13 oct (Prensa Latina) El presidente de Djibouti, Ismail Omar Guelleh, reconoció la capacidad de resiliencia del pueblo de Cuba y la importancia de fortalecer la cooperación bilateral, tras recibir las cartas credenciales del embajador caribeño, Julio César Sánchez Martínez. The post Presi",
+      "titulo": "Presidente timorense se reúne con embajadora cubana",
+      "resumen": "La Habana, 13 oct (Prensa Latina) El presidente de Timor Leste, José Ramos-Horta, recibió a la jefa de la misión diplomática cubana Alina Aldama en cordial encuentro, en la sede del Palacio Presidencial Nicolau Lobato. The post Presidente timorense se reúne con embajadora cubana first appeared on No",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/13/presidente-de-djibouti-reconocio-resiliencia-del-pueblo-de-cuba/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/13/presidente-timorense-se-reune-con-embajadora-cubana/",
       "destacada": true,
       "tema": "presidente",
-      "fecha": "Tue, 13 Oct 2026 12:47:38 +0000",
-      "id": 1
+      "fecha": "Tue, 13 Oct 2026 15:03:54 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Zimbabwe reitera respaldo a Cuba frente a bloqueo de Estados Unidos",
+      "resumen": "Harare, 13 oct (Prensa Latina) El Ministro de Asuntos Exteriores y Comercio Internacional de Zimbabwe, Amon Murwira, ratificó hoy a la Embajadora de Cuba, Susellys Pérez Mesa, el invariable respaldo al reclamo del levantamiento del bloqueo impuesto por Estados Unidos a la isla. The post Zimbabwe rei",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/13/zimbabwe-reitera-respaldo-a-cuba-frente-a-bloqueo-de-estados-unidos/",
+      "destacada": true,
+      "tema": "zimbabwe",
+      "fecha": "Tue, 13 Oct 2026 15:00:37 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba comparte experiencias en Ciencia y Tecnología en foro de FAO",
+      "resumen": "Roma, 13 oct (Prensa Latina) El ministro cubano de Ciencia, Tecnología y Medio Ambiente (Citma), Armando Rodríguez Batista, subrayó hoy en esta capital que desarrollar sistemas agroalimentarios debe ser tarea no solo de los ministerios de Agricultura, sino de toda la sociedad. The post Cuba comparte",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/13/cuba-comparte-experiencias-en-ciencia-y-tecnologia-en-foro-de-fao/",
+      "destacada": false,
+      "tema": "comparte",
+      "fecha": "Tue, 13 Oct 2026 15:00:34 +0000",
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -24,10 +89,23 @@
       "resumen": "La candidata al Senado, Angie Nixon, califica al mandatario como \"deportador en jefe”",
       "imagen_url": "https://static.14ymedio.com/clip/7888322f-55f7-475e-9410-f79f99affe19_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/candidata-democrata-florida-estima-13_1_1131891.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "candidata",
       "fecha": "Tue, 13 Oct 2026 10:06:58 +0000",
-      "id": 2
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Septiembre cierra con cuatro muertos y 79 violaciones de derechos en las cárceles cubanas",
+      "resumen": "Casi la mitad de los eventos represivos el mes pasado afectó a las personas privadas de libertad, “algunas de las cuales protestaron dentro de los centros de reclusión”",
+      "imagen_url": "https://static.14ymedio.com/clip/1a6d33bc-8903-45a8-b316-07e5c6179ba4_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/septiembre-cierra-cuatro-muertos-79_1_1131887.html",
+      "destacada": false,
+      "tema": "septiembre",
+      "fecha": "Tue, 13 Oct 2026 09:27:30 +0000",
+      "id": 8
     },
     {
       "categoria": "economia",
@@ -37,23 +115,10 @@
       "resumen": "Las nuevas normas permiten la participación de mipymes nacionales y empresas extranjeras en la exploración y producción",
       "imagen_url": "https://static.14ymedio.com/clip/a3da3805-815b-47b3-bc4f-8e05adb92a97_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/habana-atraer-inversiones-privadas-sector_1_1131886.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 12 Oct 2026 21:49:19 +0000",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Septiembre cierra con cuatro muertos y 79 violaciones de derechos en las cárceles cubanas",
-      "resumen": "El Centro de Documentación de Prisiones Cubanas alerta de un subregistro de los casos por la opacidad del régimen, que niega el acceso a observadores independientes",
-      "imagen_url": "https://static.14ymedio.com/clip/1a6d33bc-8903-45a8-b316-07e5c6179ba4_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/septiembre-cierra-cuatro-muertos-79_1_1131887.html",
-      "destacada": true,
-      "tema": "septiembre",
-      "fecha": "Tue, 13 Oct 2026 09:27:30 +0000",
-      "id": 4
+      "id": 9
     },
     {
       "categoria": "economia",
@@ -63,10 +128,10 @@
       "resumen": "La compra mínima es de 200 dólares o 24.000 pesos, con tarjeta o en efectivo En la misma ciudad, la Empresa Cárnica abre su primera tienda minorista",
       "imagen_url": "https://static.14ymedio.com/clip/2dd2f611-9041-4c6d-aa86-93da7682439e_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/arroz-panales-whisky-figuran-mercado_1_1131864.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "arroz",
       "fecha": "Mon, 12 Oct 2026 15:59:42 +0000",
-      "id": 5
+      "id": 10
     },
     {
       "categoria": "energia",
@@ -79,7 +144,7 @@
       "destacada": false,
       "tema": "niega",
       "fecha": "Mon, 12 Oct 2026 18:50:22 +0000",
-      "id": 6
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -92,71 +157,6 @@
       "destacada": false,
       "tema": "cinco",
       "fecha": "Mon, 12 Oct 2026 16:33:16 +0000",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Muere Raúl Borges, el padre que dedicó casi tres décadas a luchar por la libertad de su hijo",
-      "resumen": "El activista, fallecido a los 86 años, se convirtió en una de las voces más persistentes en defensa de los presos políticos cubanos",
-      "imagen_url": "https://static.14ymedio.com/clip/7f0612c5-1ce0-4167-9940-0c176fdbdd8b_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/muere-raul-borges-padre-dedico_1_1131868.html",
-      "destacada": false,
-      "tema": "muere",
-      "fecha": "Mon, 12 Oct 2026 16:30:02 +0000",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Régimen cubano se muestra dispuesto a mantener negocio minero con Sherritt si entra inversor cercano a Trump",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u1-e207888-s27061-nid342749-regimen-cubano-muestra-dispuesto-mantener-negocio",
-      "destacada": false,
-      "tema": "régimen",
-      "fecha": "Tue, 13 Oct 2026 13:43:05 +0200",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Muere el cantante Manolo del Valle, voz emblemática del bolero cubano",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u1-e129488-s27061-nid342748-muere-manolo-valle-voz-emblematica-bolero-cubano",
-      "destacada": false,
-      "tema": "muere",
-      "fecha": "Tue, 13 Oct 2026 12:42:17 +0200",
-      "id": 10
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuatro muertos y 79 violaciones de derechos en cárceles de Cuba en septiembre, según Centro de Documentación de Prisiones Cubanas",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u1-e43231-s27061-nid342746-cuatro-muertos-79-violaciones-derechos-carceles-cuba",
-      "destacada": false,
-      "tema": "cuatro",
-      "fecha": "Tue, 13 Oct 2026 12:19:52 +0200",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Recaudador de impuestos de Miami-Dade pide investigar presuntos vínculos con el régimen cubano de un asesor del alcalde de Nueva York",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u1-e135253-s27061-nid342740-recaudador-impuestos-miami-dade-pide-investigar",
-      "destacada": false,
-      "tema": "recaudador",
-      "fecha": "Tue, 13 Oct 2026 05:15:39 +0200",
       "id": 12
     },
     {
@@ -177,26 +177,13 @@
       "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "alternativa",
       "titulo": "El rostro humano de los servicios bancarios en Cuba",
-      "resumen": "Cada 13 de octubre, Cuba celebra el Día del Trabajador Bancario, una fecha que conmemora la nacionalización de la banca en 1960 y recuerda el nombramiento del comandante Ernesto Che Guevara como primer presidente revolucionario del Banco Nacional de Cuba.",
+      "resumen": "Cada 13 de octubre, Cuba celebra el Día del Trabajador Bancario, una fecha que conmemora la nacionalización de la banca en 1960 y recuerda el nombramiento del comandante Ernesto Che Guevara como primer presidente revolucionario del Banco Nacional de Cuba",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261013/el-rostro-humano-de-los-servicios-bancarios-en-cuba/",
+      "enlace_original": "https://www.trabajadores.cu/20261013/el-rostro-humano-de-los-servicios-bancarios-en-cuba-2/",
       "destacada": false,
       "tema": "rostro",
-      "fecha": "Tue, 13 Oct 2026 10:05:45 +0000",
+      "fecha": "Tue, 13 Oct 2026 13:40:27 +0000",
       "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Holguín promueve afiliación sindical de nuevos actores económicos",
-      "resumen": "En la más reciente reunión del Secretariado Provincial de la Central de Trabajadores de Cuba en Holguín, se abordó el compromiso de avanzar en la afiliación sindical de los nuevos actores económicos, como parte de una estrategia prioritaria que responde a las indicaciones del XXI Congreso de la orga",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261012/holguin-promueve-afiliacion-sindical-de-nuevos-actores-economicos/",
-      "destacada": false,
-      "tema": "holguín",
-      "fecha": "Mon, 12 Oct 2026 22:56:59 +0000",
-      "id": 15
     },
     {
       "categoria": "energia",
@@ -209,7 +196,7 @@
       "destacada": false,
       "tema": "actualiza",
       "fecha": "Mon, 12 Oct 2026 22:09:56 +0000",
-      "id": 16
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -222,6 +209,19 @@
       "destacada": false,
       "tema": "corina",
       "fecha": "Mon, 12 Oct 2026 19:33:56 +0000",
+      "id": 16
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Multas en Sancti Spíritus y triunfalismo en una universidad sobre el carbón y la leña para cocinar en Cuba",
+      "resumen": "La Universidad de Oriente anuncia con triunfalismo la inauguración de una cocina de leña. En #SanctiSpíritus aumentan las multas por producir carbón, del que dependen los #cubanos para cocinar ante la falta de gas y los #Apagones.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791899815_69373.html",
+      "destacada": false,
+      "tema": "multas",
+      "fecha": "Tue, 13 Oct 2026 15:56:55 +0200",
       "id": 17
     },
     {
@@ -343,15 +343,15 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Libertad y recursos para que prosperen los negocios, pide un pizzero cubano que cocina con carbón",
-      "resumen": "",
+      "titulo": "Lawton Libre",
+      "resumen": "El reconocido opositor cubano Dr. Oscar Elías Biscet aborda la situación de los derechos humanos en Cuba y la conquista de las libertades básicas de los cubanos, bajo el precepto de que “si aprendes a ser libre, todos los seremos”. Correo Electrónico: lawtonlibremarti@gmail.com",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791837180_69318.html",
+      "enlace_original": "https://www.martinoticias.com/a/480850.html",
       "destacada": false,
-      "tema": "libertad",
-      "fecha": "Mon, 12 Oct 2026 22:33:00 +0200",
+      "tema": "lawton",
+      "fecha": "Tue, 13 Oct 2026 11:00:00 -0400",
       "id": 27
     },
     {
@@ -395,42 +395,16 @@
     },
     {
       "categoria": "transporte",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La libertad es una librería",
-      "resumen": "El verso de Joan Margarit, “La libertad es una librería”, da título a este podcast cuyo sentido es el de animar a la lectura y a crearnos una librería itinerante que viaje en nosotros. Esta quinta temporada tratará de libros sobre la gran literatura, cubana y universal.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Informa MININT sobre hallazgo de embarcación tipo kayak en Cayo Paredón",
+      "resumen": "De conformidad con lo dispuesto en el Decreto No. 317, Reglamento de la Ley no. 115 “De la Navegación Marítima, Fluvial y Lacustre” de la República de Cuba, la capitanía del puerto de Júcaro informa sobre el hallazgo ocurrido el día 14 de julio de 2026, de una embarcación tipo Kayak, en el borde cos",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480800.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/13/informa-minint-sobre-hallazgo-de-embarcacion-tipo-kayak-en-cayo-paredon/",
       "destacada": false,
-      "tema": "libertad",
-      "fecha": "Mon, 12 Oct 2026 23:00:00 -0400",
+      "tema": "informa",
+      "fecha": "Tue, 13 Oct 2026 14:55:06 +0000",
       "id": 31
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "El filme cubano ”Neurótica Anónima” está entre los nominados a los Premios Goya",
-      "resumen": "El filme Neurótica Anónima, dirigido por Jorge Perugorría y protagonizado por Mirtha Ibarra (ambos premios nacionales de Cine) está nominado a los Premios Goya para “Mejor Película Iberoamericana”, entre filmes de 19 países, a propuesta del Comité de Expertos del Instituto Cubano del Arte e Industri",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/13/el-filme-cubano-neurotica-anonima-esta-nominado-a-los-premios-goya/",
-      "destacada": false,
-      "tema": "filme",
-      "fecha": "Tue, 13 Oct 2026 10:49:21 +0000",
-      "id": 32
-    },
-    {
-      "categoria": "economia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "¿Liberar o topar los precios en Cuba? Diez preguntas necesarias",
-      "resumen": "Hay que entender que la tendencia de los precios es a aumentar debido a causas objetivas conocidas que no parecen cambiar su tendencia y a las limitaciones instituciones y sociales para controlar estas políticas. No son la eliminación de los topes de precios lo que hace aumentar la inflación, son la",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/13/liberar-o-topar-los-precios-en-cuba-diez-preguntas-necesarias/",
-      "destacada": false,
-      "tema": "liberar",
-      "fecha": "Tue, 13 Oct 2026 04:06:01 +0000",
-      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -443,7 +417,7 @@
       "destacada": false,
       "tema": "ángeles",
       "fecha": "Tue, 13 Oct 26 11:09:00 +0200",
-      "id": 34
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -456,7 +430,7 @@
       "destacada": false,
       "tema": "propaganda",
       "fecha": "Tue, 13 Oct 26 09:35:00 +0200",
-      "id": 35
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -469,7 +443,7 @@
       "destacada": false,
       "tema": "colmenita",
       "fecha": "Tue, 13 Oct 26 09:23:00 +0200",
-      "id": 36
+      "id": 34
     },
     {
       "categoria": "salud",
@@ -482,7 +456,7 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Tue, 13 Oct 26 08:35:00 +0200",
-      "id": 37
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -495,7 +469,7 @@
       "destacada": false,
       "tema": "miami",
       "fecha": "Tue, 13 Oct 26 07:58:00 +0200",
-      "id": 38
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -508,7 +482,7 @@
       "destacada": false,
       "tema": "recuperar",
       "fecha": "Tue, 13 Oct 26 07:55:00 +0200",
-      "id": 39
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -521,7 +495,7 @@
       "destacada": false,
       "tema": "impacto",
       "fecha": "Tue, 13 Oct 26 07:50:00 +0200",
-      "id": 40
+      "id": 38
     },
     {
       "categoria": "energia",
@@ -534,7 +508,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Tue, 13 Oct 26 07:38:00 +0200",
-      "id": 41
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -547,7 +521,46 @@
       "destacada": false,
       "tema": "artista",
       "fecha": "Tue, 13 Oct 26 07:36:00 +0200",
+      "id": 40
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.guerrillero.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Finca El Abra: Dulce remanso de José Martí",
+      "resumen": "El Museo Finca El Abra celebra este 28 de enero el 80 aniversario de su fundación, inaugurado en 1944, al cumplirse el 91 aniversario del natalicio de José Martí. Este sitio sagrado de la historia pinera y cubana, fue la primera institución museística creada en la Isla, con la peculiaridad de ser cu",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/finca-el-abra-dulce-remanso-de-jose-marti/",
+      "destacada": false,
+      "tema": "finca",
+      "fecha": "Tue, 13 Oct 2026 12:44:52 +0000",
+      "id": 41
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Empresaa de Gas Manufacturado informa sobre interrupción del servicio en la red Habana",
+      "resumen": "Incluye los municipios: Plaza de la Revolución, Habana Vieja, Centro Habana, Cerro y 10 de Octubre, desde el martes 13 de octubre a las 22:00 horas hasta las primeras horas de la mañana del miércoles 14 de octubre La entrada Empresaa de Gas Manufacturado informa sobre interrupción del servicio en la",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/empresaa-de-gas-manufacturado-informa-sobre-interrupcion-del-servicio-en-la-red-habana/",
+      "destacada": false,
+      "tema": "empresaa",
+      "fecha": "Tue, 13 Oct 2026 14:48:29 +0000",
       "id": 42
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba avanza en la creación de una red de gastronomía ligera",
+      "resumen": "La creación de una red de gastronomía ligera, que dinamizará la actividad gastronómica en el país, avanza con la publicación de la Resolución 29/2026 en la Gaceta Oficial de la República, como parte como parte de las transformaciones que experimenta el sector del comercio, la gastronomía y los servi",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/cuba-avanza-en-la-creacion-de-una-red-de-gastronomia-ligera/",
+      "destacada": false,
+      "tema": "avanza",
+      "fecha": "Mon, 12 Oct 2026 22:20:22 +0000",
+      "id": 43
     },
     {
       "categoria": "transporte",
@@ -560,7 +573,7 @@
       "destacada": false,
       "tema": "estrena",
       "fecha": "Mon, 12 Oct 2026 23:42:13 GMT",
-      "id": 43
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -573,7 +586,7 @@
       "destacada": false,
       "tema": "estado",
       "fecha": "Mon, 12 Oct 2026 10:30:00 GMT",
-      "id": 44
+      "id": 45
     }
   ]
 }
