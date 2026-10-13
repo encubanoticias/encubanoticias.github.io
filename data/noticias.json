@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-13",
-  "hora": "18:09",
-  "total": 50,
+  "hora": "19:20",
+  "total": 55,
   "noticias": [
     {
       "categoria": "politica",
@@ -17,6 +17,32 @@
       "id": 1
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Defender lo nuestro",
+      "resumen": "Como parte de la Jornada de la Cultura Cubana ha sido concebido un programa en el que la escuela y el barrio deben ser beneficiarios y protagonistas",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-13/jornada-por-la-cultura-cubana-defender-lo-nuestro-09-10-2026-11-10-39",
+      "destacada": true,
+      "tema": "defender",
+      "fecha": "Tue, 13 Oct 2026 11:10:39 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Más allá de vigilar el tiempo y el clima",
+      "resumen": "Fruto de la fusión del antiguo Observatorio Nacional con el departamento de Meteorología creado quince meses antes por la Academia de Ciencias de Cuba, el 12 de octubre de 1965 fue constituido el Instituto de Meteorología, en ceremonia solemne efectuada en el hemiciclo del Capitolio Nacional",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/ciencia/2026-10-12/mas-alla-de-vigilar-el-tiempo-y-el-clima-12-10-2026-17-10-37",
+      "destacada": true,
+      "tema": "vigilar",
+      "fecha": "Mon, 12 Oct 2026 17:10:37 -0400",
+      "id": 3
+    },
+    {
       "categoria": "politica",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
@@ -27,72 +53,59 @@
       "destacada": true,
       "tema": "celebra",
       "fecha": "Tue, 13 Oct 2026 12:10:28 -0400",
-      "id": 2
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Las importaciones de combustible del sector privado no cubren las necesidades energéticas de Cuba",
-      "resumen": "El ministro de Energía y Minas explicó el alcance de esas operaciones comerciales, las perspectivas de la minería y los avances de la transición energética, en medio de las restricciones que afectan al país",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-12/las-importaciones-de-combustible-del-sector-privado-no-cubren-las-necesidades-energeticas-de-cuba-12-10-2026-15-10-52",
-      "destacada": true,
-      "tema": "importaciones",
-      "fecha": "Mon, 12 Oct 2026 15:10:52 -0400",
-      "id": 3
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba compartirá experiencias en ciencia e innovación en foro de FAO",
-      "resumen": "El ministro cubano de Ciencia, Tecnología y Medio Ambiente (Citma), Armando Rodríguez Batista, intervendrá hoy en la sesión de alto nivel del evento Ciencia e Innovación del Foro Mundial de Alimentación (WFF) que sesiona en esta capital",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-13/cuba-compartira-experiencias-en-ciencia-e-innovacion-en-foro-de-fao-13-10-2026-09-10-12",
-      "destacada": true,
-      "tema": "compartirá",
-      "fecha": "Tue, 13 Oct 2026 09:10:12 -0400",
       "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La historia en defensa de la Patria hay que saber contarla",
+      "resumen": "El pasado 10 de octubre, Cuba lanzó la convocatoria a la jornada conmemorativa por el aniversario 68 del Triunfo de la Revolución, que se celebrará el próximo 1ro. de enero&nbsp;en un contexto marcado por el recrudecimiento del bloqueo de Estados Unidos",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-13/la-historia-de-la-terquedad-cubana-en-defensa-de-la-patria-tiene-su-explicacion-y-hay-que-saber-contarla-11-10-2026-09-10-12",
+      "destacada": true,
+      "tema": "historia",
+      "fecha": "Tue, 13 Oct 2026 09:10:12 -0400",
+      "id": 5
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba presenta en FAO oportunidades de inversión en café y miel",
-      "resumen": "Roma, 13 oct (Prensa Latina) El ministro cubano de la Agricultura (Minagri), Ydael Pérez Brito, presentó hoy en esta capital propuestas de inversión dirigidas al desarrollo de las producciones de café y miel, en el marco del Foro Mundial de la Alimentación. The post Cuba presenta en FAO oportunidade",
+      "titulo": "Vegueros y Avispas, dos históricos al frente del béisbol cubano",
+      "resumen": "La Habana, 13 oct (Prensa Latina) Vegueros de Pinar del Río y Avispas de Santiago de Cuba, líderes hoy de sus respectivas zonas en el arranque de la 65 Serie Nacional, han devuelto protagonismo a dos plazas históricas del béisbol cubano. The post Vegueros y Avispas, dos históricos al frente del béis",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/13/cuba-presenta-en-fao-oportunidades-de-inversion-en-cafe-y-miel/",
-      "destacada": true,
-      "tema": "presenta",
-      "fecha": "Tue, 13 Oct 2026 17:33:51 +0000",
-      "id": 5
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El canciller de Uruguay pide un diálogo entre entre cubanos \"para proyectar su propio futuro\"",
-      "resumen": "Muy crítico con el régimen de La Habana, el Gobierno de izquierda se niega a restablecer relaciones con Venezuela porque \"nada cambió\"",
-      "imagen_url": "https://static.14ymedio.com/clip/1f83029f-f4de-4990-aecf-31824aa1659d_source-aspect-ratio_default_0.png",
-      "enlace_original": "https://www.14ymedio.com/internacional/canciller-uruguay-pide-dialogo-entre_1_1131898.html",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/13/vegueros-y-avispas-dos-historicos-al-frente-del-beisbol-cubano/",
       "destacada": false,
-      "tema": "canciller",
-      "fecha": "Tue, 13 Oct 2026 16:28:11 +0000",
+      "tema": "vegueros",
+      "fecha": "Tue, 13 Oct 2026 19:12:14 +0000",
       "id": 6
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Una candidata demócrata en Florida estima que 13.000 cubanos fueron deportados en los dos mandatos de Trump",
-      "resumen": "La candidata al Senado, Angie Nixon, califica al mandatario como \"deportador en jefe”",
-      "imagen_url": "https://static.14ymedio.com/clip/7888322f-55f7-475e-9410-f79f99affe19_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/candidata-democrata-florida-estima-13_1_1131891.html",
+      "titulo": "La Habana, corregida a mano en la calle G",
+      "resumen": "Un marcador violeta transforma una consigna optimista en el epitafio de una ciudad que ha perdido a buena parte de sus jóvenes",
+      "imagen_url": "https://static.14ymedio.com/clip/a4fcc7ef-aaeb-49d0-87b5-c92b29bf32b1_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/habana-corregida-mano-calle-g_1_1131911.html",
       "destacada": false,
-      "tema": "candidata",
-      "fecha": "Tue, 13 Oct 2026 10:06:58 +0000",
+      "tema": "habana",
+      "fecha": "Tue, 13 Oct 2026 18:56:29 +0000",
       "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Un cubano llega a Florida sobre unos trozos de poliespuma unidos por unos cordones y madera",
+      "resumen": "El balsero fue examinado médicamente y trasladado al guardacostas ‘Melvin Bell’ para ser puesto bajo custodia para su deportación",
+      "imagen_url": "https://static.14ymedio.com/clip/9f7c8a3d-5d9d-49c0-8c6c-ec4f916678e2_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/migracion/cubano-llega-florida-trozos-poliespuma_1_1131905.html",
+      "destacada": false,
+      "tema": "cubano",
+      "fecha": "Tue, 13 Oct 2026 18:01:10 +0000",
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -105,7 +118,7 @@
       "destacada": false,
       "tema": "septiembre",
       "fecha": "Tue, 13 Oct 2026 09:27:30 +0000",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "economia",
@@ -118,19 +131,6 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 12 Oct 2026 21:49:19 +0000",
-      "id": 9
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Arroz, pañales y whisky figuran en el mercado mayorista de Sancti Spíritus, primero de este tipo en Cuba",
-      "resumen": "La compra mínima es de 200 dólares o 24.000 pesos, con tarjeta o en efectivo En la misma ciudad, la Empresa Cárnica abre su primera tienda minorista",
-      "imagen_url": "https://static.14ymedio.com/clip/2dd2f611-9041-4c6d-aa86-93da7682439e_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/arroz-panales-whisky-figuran-mercado_1_1131864.html",
-      "destacada": false,
-      "tema": "arroz",
-      "fecha": "Mon, 12 Oct 2026 15:59:42 +0000",
       "id": 10
     },
     {
@@ -147,17 +147,82 @@
       "id": 11
     },
     {
-      "categoria": "sociedad",
+      "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cinco heridos, uno en estado crítico, en el incendio de un tanque de combustible de Azcuba en Manzanillo",
-      "resumen": "Podría tratarse del primer accidente con carburante importado de EE UU a través de testaferros privados, en violación de las sanciones de Washington",
-      "imagen_url": "https://static.14ymedio.com/clip/41db919f-062f-4d72-bc39-3f5cc73e0f81_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/cinco-heridos-critico-incendio-tanque_1_1131867.html",
+      "titulo": "Arroz, pañales y whisky figuran en el mercado mayorista de Sancti Spíritus, primero de este tipo en Cuba",
+      "resumen": "La compra mínima es de 200 dólares o 24.000 pesos, con tarjeta o en efectivo En la misma ciudad, la Empresa Cárnica abre su primera tienda minorista",
+      "imagen_url": "https://static.14ymedio.com/clip/2dd2f611-9041-4c6d-aa86-93da7682439e_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/arroz-panales-whisky-figuran-mercado_1_1131864.html",
       "destacada": false,
-      "tema": "cinco",
-      "fecha": "Mon, 12 Oct 2026 16:33:16 +0000",
+      "tema": "arroz",
+      "fecha": "Mon, 12 Oct 2026 15:59:42 +0000",
       "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Detienen a un cubano en México tras encontrarle presunta droga durante una revisión de tránsito",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u1-e208933-s27061-nid342799-detienen-cubano-mexico-tras-encontrarle-presunta",
+      "destacada": false,
+      "tema": "detienen",
+      "fecha": "Tue, 13 Oct 2026 20:57:44 +0200",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubana revela tres trucos para conseguir todo lo que quieras de un hombre: «Nunca te dirá que no»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u65722-e65722-s27065-nid342758-cubana-revela-tres-trucos-conseguir-todo-quieras",
+      "destacada": false,
+      "tema": "cubana",
+      "fecha": "Tue, 13 Oct 2026 20:54:49 +0200",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Capitán cubano conocerá hoy su sentencia por muerte de tres niñas en accidente marítimo en Miami",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u1-e208933-s27061-nid342793-capitan-cubano-conocera-hoy-sentencia-tres-ninas",
+      "destacada": false,
+      "tema": "capitán",
+      "fecha": "Tue, 13 Oct 2026 20:21:09 +0200",
+      "id": 15
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Así es vivir en Cuba en 2026»: cubana relata su día a día entre apagones, carbón y mosquitos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u65722-e65722-s27061-nid342762-asi-vivir-cuba-2026-cubana-relata-dia-dia",
+      "destacada": false,
+      "tema": "vivir",
+      "fecha": "Tue, 13 Oct 2026 20:19:55 +0200",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La familia cubana: la otra tragedia de la 'revolución'",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u209407-e192519-s27068-nid342798-familia-cubana-otra-tragedia-revolucion",
+      "destacada": false,
+      "tema": "familia",
+      "fecha": "Tue, 13 Oct 2026 20:12:55 +0200",
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -170,7 +235,20 @@
       "destacada": false,
       "tema": "lanzan",
       "fecha": "Mon, 12 Oct 2026 21:14:02 +0000",
-      "id": 13
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Operación ZR/Rifle: el testimonio de una guerra secreta contra Cuba",
+      "resumen": "El autor examina las operaciones organizadas contra la Revolución cubana y los planes dirigidos contra la vida de Fidel Castro. Abarca el período comprendido entre 1958 y 2000, una etapa marcada por la confrontación política, militar e ideológica entre La Habana y Washington",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261013/operacion-zr-rifle-el-testimonio-de-una-guerra-secreta-contra-cuba/",
+      "destacada": false,
+      "tema": "operación",
+      "fecha": "Tue, 13 Oct 2026 18:57:09 +0000",
+      "id": 19
     },
     {
       "categoria": "economia",
@@ -183,20 +261,33 @@
       "destacada": false,
       "tema": "rostro",
       "fecha": "Tue, 13 Oct 2026 13:40:27 +0000",
-      "id": 14
+      "id": 20
     },
     {
-      "categoria": "energia",
-      "fuente": "https://www.trabajadores.cu",
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba actualiza su legislación petrolera y amplía la participación de actores nacionales y extranjeros",
-      "resumen": "El Ministerio de Energía y Minas presentó este lunes la nueva norma, publicada en la Gaceta Oficial, que busca incrementar la producción, atraer inversión y garantizar la soberanía energética del país",
+      "titulo": "Rubio: 'el régimen cubano no realizará reformas mientras crea que la comunidad internacional está de su lado'",
+      "resumen": "#Rubio advierte que #LaHabana no hará reformas mientras cuente con el respaldo internacional, y busca sumar apoyos de cara a la votación sobre el embargo en la #ONU.",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261012/cuba-actualiza-su-legislacion-petrolera-y-amplia-la-participacion-de-actores-nacionales-y-extranjeros/",
+      "enlace_original": "https://diariodecuba.com/cuba/1791917802_69380.html",
       "destacada": false,
-      "tema": "actualiza",
-      "fecha": "Mon, 12 Oct 2026 22:09:56 +0000",
-      "id": 15
+      "tema": "rubio",
+      "fecha": "Tue, 13 Oct 2026 20:56:42 +0200",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Fallece en La Habana el arquitecto Daniel Taboada",
+      "resumen": "El #patrimonio arquitectónico de #Cuba pierde uno de los hombres que más contribuyó a su rescate. Testigo de ello es el catálogo de su obra restauradora.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cultura/1791916642_69379.html",
+      "destacada": false,
+      "tema": "fallece",
+      "fecha": "Tue, 13 Oct 2026 20:37:22 +0200",
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -209,7 +300,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 13 Oct 2026 19:53:59 +0200",
-      "id": 16
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -222,7 +313,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 19:30:03 +0200",
-      "id": 17
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -235,20 +326,20 @@
       "destacada": false,
       "tema": "pablo",
       "fecha": "Tue, 13 Oct 2026 18:59:57 +0200",
-      "id": 18
+      "id": 25
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Como ocurrió con Cuba, la ONU da tribuna y 'blaquea' al régimen de Delcy Rodríguez",
+      "titulo": "Como ocurrió con Cuba, la ONU da tribuna y 'blanquea' al régimen de Delcy Rodríguez",
       "resumen": "La historia de #Cuba muestra que la presencia reiterada en la ONU puede consolida la percepción de normalidad de regímenes no democráticos como el de #Venezuela.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/internacional/1791907302_69375.html",
       "destacada": false,
       "tema": "ocurrió",
       "fecha": "Tue, 13 Oct 2026 18:01:42 +0200",
-      "id": 19
+      "id": 26
     },
     {
       "categoria": "energia",
@@ -261,7 +352,7 @@
       "destacada": false,
       "tema": "multas",
       "fecha": "Tue, 13 Oct 2026 15:56:55 +0200",
-      "id": 20
+      "id": 27
     },
     {
       "categoria": "transporte",
@@ -274,7 +365,7 @@
       "destacada": false,
       "tema": "cuestionado",
       "fecha": "Tue, 13 Oct 2026 14:41:41 +0200",
-      "id": 21
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -287,7 +378,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Tue, 13 Oct 2026 13:35:19 +0200",
-      "id": 22
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -300,33 +391,33 @@
       "destacada": false,
       "tema": "suspensión",
       "fecha": "Tue, 13 Oct 2026 13:27:49 +0200",
-      "id": 23
+      "id": 30
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El castrismo se ensaña con... ¿una clase obrera en el poder?",
-      "resumen": "El #PCC muestra la farsa del #socialismo, con un salario mínimo que explota a los trabajadores de #Cuba más de lo que explotan a otros trabajadores en el mundo.",
+      "titulo": "Presos políticos cubanos denuncian presión de las autoridades para forzarlos al exilio",
+      "resumen": "Pérez Paseiro y Hernández García cumplen condenas de ocho y siete años, respectivamente, por su participación en las protestas del 11 de julio de 2021 en Placetas; no se ha informado un país de destino ni una fecha de salida.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1791889289_69365.html",
+      "enlace_original": "https://www.martinoticias.com/a/presos-pol%c3%adticos-cubanos-denuncian-presi%c3%b3n-de-las-autoridades-para-forzarlos-al-exilio/481874.html",
       "destacada": false,
-      "tema": "castrismo",
-      "fecha": "Tue, 13 Oct 2026 13:01:29 +0200",
-      "id": 24
+      "tema": "presos",
+      "fecha": "Tue, 13 Oct 2026 15:16:31 -0400",
+      "id": 31
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "economia",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Violenta requisa a Maykel Osorbo en Guanajay, denuncia la activista Anamely Ramos",
-      "resumen": "Más de 30 agentes participaron en una violenta requisa contra #MaykelOsorbo en prisión durante la cual el músico cubano fue esposado y obligado a raparse, denuncia la activista #AnamelyRamos.",
+      "titulo": "Las noticias como son",
+      "resumen": "Amado Gil y José Luis Ramos, en tertulia con Yoani Sánchez y Dimas Castellanos comentan sobre la nueva ley en Cuba que intenta atraer inversiones privadas en el sector petrolero. También, Cuba abre el primer mercado mayorista con ofertas estatales y de privados. Y sigue subiendo el dólar.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1791888000_69369.html",
+      "enlace_original": "https://www.martinoticias.com/a/las-noticias-como-son/481875.html",
       "destacada": false,
-      "tema": "violenta",
-      "fecha": "Tue, 13 Oct 2026 12:40:00 +0200",
-      "id": 25
+      "tema": "noticias",
+      "fecha": "Tue, 13 Oct 2026 15:00:10 -0400",
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -339,7 +430,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Tue, 13 Oct 2026 14:00:00 -0400",
-      "id": 26
+      "id": 33
     },
     {
       "categoria": "salud",
@@ -352,7 +443,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Tue, 13 Oct 2026 13:36:06 -0400",
-      "id": 27
+      "id": 34
     },
     {
       "categoria": "salud",
@@ -365,33 +456,7 @@
       "destacada": false,
       "tema": "niegan",
       "fecha": "Tue, 13 Oct 2026 13:34:39 -0400",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 12:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480856.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Tue, 13 Oct 2026 12:00:00 -0400",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barrio adentro",
-      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480853.html",
-      "destacada": false,
-      "tema": "barrio",
-      "fecha": "Tue, 13 Oct 2026 11:30:00 -0400",
-      "id": 30
+      "id": 35
     },
     {
       "categoria": "salud",
@@ -404,7 +469,7 @@
       "destacada": false,
       "tema": "empresa",
       "fecha": "Tue, 13 Oct 2026 15:46:25 +0000",
-      "id": 31
+      "id": 36
     },
     {
       "categoria": "energia",
@@ -417,7 +482,7 @@
       "destacada": false,
       "tema": "fallece",
       "fecha": "Tue, 13 Oct 2026 15:29:50 +0000",
-      "id": 32
+      "id": 37
     },
     {
       "categoria": "economia",
@@ -430,7 +495,7 @@
       "destacada": false,
       "tema": "carlos",
       "fecha": "Tue, 13 Oct 2026 15:18:41 +0000",
-      "id": 33
+      "id": 38
     },
     {
       "categoria": "transporte",
@@ -443,7 +508,7 @@
       "destacada": false,
       "tema": "informa",
       "fecha": "Tue, 13 Oct 2026 14:55:06 +0000",
-      "id": 34
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -456,7 +521,7 @@
       "destacada": false,
       "tema": "ángeles",
       "fecha": "Tue, 13 Oct 26 11:09:00 +0200",
-      "id": 35
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -469,7 +534,7 @@
       "destacada": false,
       "tema": "propaganda",
       "fecha": "Tue, 13 Oct 26 09:35:00 +0200",
-      "id": 36
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -482,7 +547,7 @@
       "destacada": false,
       "tema": "colmenita",
       "fecha": "Tue, 13 Oct 26 09:23:00 +0200",
-      "id": 37
+      "id": 42
     },
     {
       "categoria": "salud",
@@ -495,7 +560,7 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Tue, 13 Oct 26 08:35:00 +0200",
-      "id": 38
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -508,7 +573,7 @@
       "destacada": false,
       "tema": "miami",
       "fecha": "Tue, 13 Oct 26 07:58:00 +0200",
-      "id": 39
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -521,7 +586,7 @@
       "destacada": false,
       "tema": "recuperar",
       "fecha": "Tue, 13 Oct 26 07:55:00 +0200",
-      "id": 40
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -534,7 +599,7 @@
       "destacada": false,
       "tema": "impacto",
       "fecha": "Tue, 13 Oct 26 07:50:00 +0200",
-      "id": 41
+      "id": 46
     },
     {
       "categoria": "energia",
@@ -547,7 +612,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Tue, 13 Oct 26 07:38:00 +0200",
-      "id": 42
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -560,7 +625,7 @@
       "destacada": false,
       "tema": "artista",
       "fecha": "Tue, 13 Oct 26 07:36:00 +0200",
-      "id": 43
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -573,7 +638,7 @@
       "destacada": false,
       "tema": "finca",
       "fecha": "Tue, 13 Oct 2026 12:44:52 +0000",
-      "id": 44
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -586,7 +651,7 @@
       "destacada": false,
       "tema": "empresaa",
       "fecha": "Tue, 13 Oct 2026 14:48:29 +0000",
-      "id": 45
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -599,7 +664,7 @@
       "destacada": false,
       "tema": "cancelan",
       "fecha": "Tue, 13 Oct 2026 15:25:17 +0000",
-      "id": 46
+      "id": 51
     },
     {
       "categoria": "transporte",
@@ -612,7 +677,7 @@
       "destacada": false,
       "tema": "exhiben",
       "fecha": "Tue, 13 Oct 2026 13:40:35 +0000",
-      "id": 47
+      "id": 52
     },
     {
       "categoria": "economia",
@@ -625,7 +690,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 16:30:00 GMT",
-      "id": 48
+      "id": 53
     },
     {
       "categoria": "transporte",
@@ -638,7 +703,7 @@
       "destacada": false,
       "tema": "estrena",
       "fecha": "Mon, 12 Oct 2026 23:42:13 GMT",
-      "id": 49
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -651,7 +716,7 @@
       "destacada": false,
       "tema": "estado",
       "fecha": "Mon, 12 Oct 2026 10:30:00 GMT",
-      "id": 50
+      "id": 55
     }
   ]
 }
