@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-13",
-  "hora": "11:08",
-  "total": 49,
+  "hora": "12:10",
+  "total": 48,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -31,19 +31,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Artista cubano Yasiel Elizagaray expondrá su obra en Vaticano",
-      "resumen": "Ciudad Vaticano, 13 oct (Prensa Latina) Aliento de Espíritu se titula la nueva exposición del artista visual cubano Yasiel Elizagaray que se inaugurará el próximo sábado en la Sala Vasari, del Palacio de la Cancillería Apostólica de Vaticano. The post Artista cubano Yasiel Elizagaray expondrá su obr",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/13/artista-cubano-yasiel-elizagaray-expondra-su-obra-en-vaticano/",
-      "destacada": true,
-      "tema": "artista",
-      "fecha": "Tue, 13 Oct 2026 10:55:14 +0000",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
       "titulo": "Una candidata demócrata en Florida estima que 13.000 cubanos fueron deportados en los dos mandatos de Trump",
@@ -53,7 +40,7 @@
       "destacada": true,
       "tema": "candidata",
       "fecha": "Tue, 13 Oct 2026 10:06:58 +0000",
-      "id": 4
+      "id": 3
     },
     {
       "categoria": "economia",
@@ -66,7 +53,7 @@
       "destacada": true,
       "tema": "habana",
       "fecha": "Mon, 12 Oct 2026 21:49:19 +0000",
-      "id": 5
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -76,10 +63,10 @@
       "resumen": "El Centro de Documentación de Prisiones Cubanas alerta de un subregistro de los casos por la opacidad del régimen, que niega el acceso a observadores independientes",
       "imagen_url": "https://static.14ymedio.com/clip/1a6d33bc-8903-45a8-b316-07e5c6179ba4_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/septiembre-cierra-cuatro-muertos-79_1_1131887.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "septiembre",
       "fecha": "Tue, 13 Oct 2026 09:27:30 +0000",
-      "id": 6
+      "id": 5
     },
     {
       "categoria": "economia",
@@ -92,7 +79,7 @@
       "destacada": false,
       "tema": "arroz",
       "fecha": "Mon, 12 Oct 2026 15:59:42 +0000",
-      "id": 7
+      "id": 6
     },
     {
       "categoria": "energia",
@@ -105,7 +92,7 @@
       "destacada": false,
       "tema": "niega",
       "fecha": "Mon, 12 Oct 2026 18:50:22 +0000",
-      "id": 8
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -118,7 +105,7 @@
       "destacada": false,
       "tema": "cinco",
       "fecha": "Mon, 12 Oct 2026 16:33:16 +0000",
-      "id": 9
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -131,7 +118,33 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Mon, 12 Oct 2026 16:30:02 +0000",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Muere el cantante Manolo del Valle, voz emblemática del bolero cubano",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u1-e129488-s27061-nid342748-muere-manolo-valle-voz-emblematica-bolero-cubano",
+      "destacada": false,
+      "tema": "muere",
+      "fecha": "Tue, 13 Oct 2026 12:42:17 +0200",
       "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuatro muertos y 79 violaciones de derechos en cárceles de Cuba en septiembre, según Centro de Documentación de Prisiones Cubanas",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u1-e43231-s27061-nid342746-cuatro-muertos-79-violaciones-derechos-carceles-cuba",
+      "destacada": false,
+      "tema": "cuatro",
+      "fecha": "Tue, 13 Oct 2026 12:19:52 +0200",
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -144,7 +157,7 @@
       "destacada": false,
       "tema": "recaudador",
       "fecha": "Tue, 13 Oct 2026 05:15:39 +0200",
-      "id": 11
+      "id": 12
     },
     {
       "categoria": "economia",
@@ -157,19 +170,6 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 02:30:26 +0200",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cancelaciones de Air China dejan a cubanos con nuevos gastos, maletas varadas y medicinas sin entregar",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u1-e208933-s27061-nid342733-cancelaciones-air-china-dejan-cubanos-nuevos-gastos",
-      "destacada": false,
-      "tema": "cancelaciones",
-      "fecha": "Tue, 13 Oct 2026 01:21:13 +0200",
       "id": 13
     },
     {
@@ -241,6 +241,19 @@
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
+      "titulo": "La suspensión del voto en España para nacionalizados por la Ley de Nietos alarma a descendientes en Cuba",
+      "resumen": "La presidenta de la Asociación de Descendientes de Españoles por el Mundo #ADEM, #EstelaMarina Pérez, opina sobre la suspensión del voto en #España para nacionalizados mediante la #LeyDeNietos y explica por qué preocupa a los descendientes en #Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791890869_69370.html",
+      "destacada": false,
+      "tema": "suspensión",
+      "fecha": "Tue, 13 Oct 2026 13:27:49 +0200",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
       "titulo": "El castrismo se ensaña con... ¿una clase obrera en el poder?",
       "resumen": "El #PCC muestra la farsa del #socialismo, con un salario mínimo que explota a los trabajadores de #Cuba más de lo que explotan a otros trabajadores en el mundo.",
       "imagen_url": "",
@@ -248,7 +261,7 @@
       "destacada": false,
       "tema": "castrismo",
       "fecha": "Tue, 13 Oct 2026 13:01:29 +0200",
-      "id": 19
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -261,7 +274,7 @@
       "destacada": false,
       "tema": "violenta",
       "fecha": "Tue, 13 Oct 2026 12:40:00 +0200",
-      "id": 20
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -274,7 +287,7 @@
       "destacada": false,
       "tema": "canciller",
       "fecha": "Tue, 13 Oct 2026 11:05:31 +0200",
-      "id": 21
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -287,7 +300,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Tue, 13 Oct 2026 06:40:57 +0200",
-      "id": 22
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -300,7 +313,7 @@
       "destacada": false,
       "tema": "cubalex",
       "fecha": "Tue, 13 Oct 2026 01:11:28 +0200",
-      "id": 23
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -313,7 +326,7 @@
       "destacada": false,
       "tema": "castigo",
       "fecha": "Mon, 12 Oct 2026 22:58:16 +0200",
-      "id": 24
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -326,7 +339,7 @@
       "destacada": false,
       "tema": "libertad",
       "fecha": "Mon, 12 Oct 2026 22:33:00 +0200",
-      "id": 25
+      "id": 26
     },
     {
       "categoria": "politica",
@@ -339,7 +352,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 12 Oct 2026 20:42:49 +0200",
-      "id": 26
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -352,7 +365,20 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Mon, 12 Oct 2026 19:23:53 +0200",
-      "id": 27
+      "id": 28
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Martinoticias AM",
+      "resumen": "Revista informativa con los últimos acontecimientos ocurridos en Cuba y el mundo. Con entrevistas y temas de actualidad relacionados a la política, la economía y de interés general.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480846.html",
+      "destacada": false,
+      "tema": "martinoticias",
+      "fecha": "Tue, 13 Oct 2026 08:00:00 -0400",
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -365,7 +391,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Tue, 13 Oct 2026 07:00:00 -0400",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -378,7 +404,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Tue, 13 Oct 2026 00:05:30 -0400",
-      "id": 29
+      "id": 31
     },
     {
       "categoria": "transporte",
@@ -391,33 +417,20 @@
       "destacada": false,
       "tema": "libertad",
       "fecha": "Mon, 12 Oct 2026 23:00:00 -0400",
-      "id": 30
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barbacoa de Pepe",
-      "resumen": "La Barbacoa de Pepe es un muestrario de la nostalgia cubana con datos y curiosidades de los temas más variados, para la audiencia cubana. También trataremos temas internacionales y locales, siempre con el fin de educar al Cubano de la Isla. Con la elocuencia de Pepe Forte.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480793.html",
-      "destacada": false,
-      "tema": "barbacoa",
-      "fecha": "Mon, 12 Oct 2026 21:00:00 -0400",
-      "id": 31
+      "id": 32
     },
     {
       "categoria": "sociedad",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
-      "titulo": "El filme cubano ”Neurótica Anónima” está nominado a los Premios Goya",
+      "titulo": "El filme cubano ”Neurótica Anónima” está entre los nominados a los Premios Goya",
       "resumen": "El filme Neurótica Anónima, dirigido por Jorge Perugorría y protagonizado por Mirtha Ibarra (ambos premios nacionales de Cine) está nominado a los Premios Goya para “Mejor Película Iberoamericana”, entre filmes de 19 países, a propuesta del Comité de Expertos del Instituto Cubano del Arte e Industri",
       "imagen_url": "",
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/13/el-filme-cubano-neurotica-anonima-esta-nominado-a-los-premios-goya/",
       "destacada": false,
       "tema": "filme",
       "fecha": "Tue, 13 Oct 2026 10:49:21 +0000",
-      "id": 32
+      "id": 33
     },
     {
       "categoria": "economia",
@@ -430,33 +443,7 @@
       "destacada": false,
       "tema": "liberar",
       "fecha": "Tue, 13 Oct 2026 04:06:01 +0000",
-      "id": 33
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Embajada de China en Cuba alerta sobre cambios y cancelaciones de vuelos de Air China",
-      "resumen": "Por razones técnicas, los horarios de los vuelos CA865 (Pekín-La Habana) y CA866 (La Habana-Pekín), operados por Air China, han experimentado cambios frecuentes recientemente, y algunas operaciones han sido canceladas temporalmente. La Embajada de China en Cuba recuerda a los pasajeros que tengan pr",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/12/embajada-de-china-en-cuba-alerta-sobre-cambios-y-cancelaciones-de-vuelos-de-air-china/",
-      "destacada": false,
-      "tema": "embajada",
-      "fecha": "Mon, 12 Oct 2026 20:29:07 +0000",
       "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Presentarán \"Lydia Cabrera en su laguna sagrada\" en Librería Fayad Jamís",
-      "resumen": "Como parte de la Jornada Letras de cubanía, y en ocasión del Día de la Cultura Cubana, será presentado mañana martes 13 de octubre, a las 11:00 a.m. en la Librería Fayad Jamís —Obispo 261 entre Cuba y Aguiar— el libro \"Lydia Cabrera en su laguna sagrada\", de Natalia Bolívar Aróstegui (1934-2023) y N",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/12/presentaran-lydia-cabrera-en-su-laguna-sagrada-en-libreria-fayad-jamis/",
-      "destacada": false,
-      "tema": "presentarán",
-      "fecha": "Mon, 12 Oct 2026 19:48:25 +0000",
-      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -469,7 +456,7 @@
       "destacada": false,
       "tema": "ángeles",
       "fecha": "Tue, 13 Oct 26 11:09:00 +0200",
-      "id": 36
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -482,7 +469,7 @@
       "destacada": false,
       "tema": "propaganda",
       "fecha": "Tue, 13 Oct 26 09:35:00 +0200",
-      "id": 37
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -495,7 +482,7 @@
       "destacada": false,
       "tema": "colmenita",
       "fecha": "Tue, 13 Oct 26 09:23:00 +0200",
-      "id": 38
+      "id": 37
     },
     {
       "categoria": "salud",
@@ -508,7 +495,7 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Tue, 13 Oct 26 08:35:00 +0200",
-      "id": 39
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -521,7 +508,7 @@
       "destacada": false,
       "tema": "miami",
       "fecha": "Tue, 13 Oct 26 07:58:00 +0200",
-      "id": 40
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -534,7 +521,7 @@
       "destacada": false,
       "tema": "recuperar",
       "fecha": "Tue, 13 Oct 26 07:55:00 +0200",
-      "id": 41
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -547,7 +534,7 @@
       "destacada": false,
       "tema": "impacto",
       "fecha": "Tue, 13 Oct 26 07:50:00 +0200",
-      "id": 42
+      "id": 41
     },
     {
       "categoria": "energia",
@@ -560,7 +547,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Tue, 13 Oct 26 07:38:00 +0200",
-      "id": 43
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -573,7 +560,7 @@
       "destacada": false,
       "tema": "artista",
       "fecha": "Tue, 13 Oct 26 07:36:00 +0200",
-      "id": 44
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -586,7 +573,7 @@
       "destacada": false,
       "tema": "avanza",
       "fecha": "Mon, 12 Oct 2026 22:20:22 +0000",
-      "id": 45
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -599,7 +586,7 @@
       "destacada": false,
       "tema": "alfonso",
       "fecha": "Mon, 12 Oct 2026 19:00:49 +0000",
-      "id": 46
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -612,7 +599,7 @@
       "destacada": false,
       "tema": "voluntarios",
       "fecha": "Mon, 12 Oct 2026 15:13:07 +0000",
-      "id": 47
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -625,7 +612,7 @@
       "destacada": false,
       "tema": "punto",
       "fecha": "Mon, 12 Oct 2026 12:40:00 +0000",
-      "id": 48
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -638,7 +625,7 @@
       "destacada": false,
       "tema": "cooperación",
       "fecha": "Sun, 11 Oct 2026 12:57:00 +0000",
-      "id": 49
+      "id": 48
     }
   ]
 }
