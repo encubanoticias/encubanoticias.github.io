@@ -1,47 +1,8 @@
 {
   "fecha": "2026-10-13",
-  "hora": "07:14",
-  "total": 48,
+  "hora": "09:08",
+  "total": 44,
   "noticias": [
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Defender lo nuestro",
-      "resumen": "Como parte de la Jornada de la Cultura Cubana ha sido concebido un programa en el que la escuela y el barrio deben ser beneficiarios y protagonistas",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-13/jornada-por-la-cultura-cubana-defender-lo-nuestro-09-10-2026-11-10-39",
-      "destacada": true,
-      "tema": "defender",
-      "fecha": "Tue, 13 Oct 2026 11:10:39 -0400",
-      "id": 1
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "La historia en defensa de la Patria hay que saber contarla",
-      "resumen": "El pasado 10 de octubre, Cuba lanzó la convocatoria a la jornada conmemorativa por el aniversario 68 del Triunfo de la Revolución, que se celebrará el próximo 1ro. de enero&nbsp;en un contexto marcado por el recrudecimiento del bloqueo de Estados Unidos",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-13/la-historia-de-la-terquedad-cubana-en-defensa-de-la-patria-tiene-su-explicacion-y-hay-que-saber-contarla-11-10-2026-09-10-12",
-      "destacada": true,
-      "tema": "historia",
-      "fecha": "Tue, 13 Oct 2026 09:10:12 -0400",
-      "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba reconoce en Pakistán respaldo de Vaticano contra bloqueo de EEUU",
-      "resumen": "Islamabad, 13 oct (Prensa Latina) El embajador de Cuba en Pakistán, Damián Cordero Torres, agradeció al arzobispo Paul Richard Gallagher el respaldo histórico de la Santa Sede contra el bloqueo de Estados Unidos a su país, resaltó hoy la Embajada. The post Cuba reconoce en Pakistán respaldo de Vatic",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/13/cuba-reconoce-en-pakistan-respaldo-de-vaticano-contra-bloqueo-de-eeuu/",
-      "destacada": true,
-      "tema": "reconoce",
-      "fecha": "Tue, 13 Oct 2026 05:59:38 +0000",
-      "id": 3
-    },
     {
       "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
@@ -53,7 +14,7 @@
       "destacada": true,
       "tema": "habana",
       "fecha": "Mon, 12 Oct 2026 21:49:19 +0000",
-      "id": 4
+      "id": 1
     },
     {
       "categoria": "economia",
@@ -66,7 +27,7 @@
       "destacada": true,
       "tema": "arroz",
       "fecha": "Mon, 12 Oct 2026 15:59:42 +0000",
-      "id": 5
+      "id": 2
     },
     {
       "categoria": "politica",
@@ -76,10 +37,10 @@
       "resumen": "El Gobierno de Yamandú Orsi firma un decreto que abre la puerta a miles de migrantes con solicitud de refugio pendiente",
       "imagen_url": "https://static.14ymedio.com/clip/97261b5f-8d68-48fb-9256-dad1c567a199_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/migracion/uruguay-da-alternativa-residencia-arraigo_1_1131883.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "uruguay",
       "fecha": "Mon, 12 Oct 2026 19:59:31 +0000",
-      "id": 6
+      "id": 3
     },
     {
       "categoria": "energia",
@@ -89,10 +50,10 @@
       "resumen": "En entrevista con Reuters, el ministro cubano de Energía no ve inconveniente la posible compra de las acciones de Sherritt por un empresario cercano a Trump",
       "imagen_url": "https://static.14ymedio.com/clip/392bb1ce-dbea-46d9-8075-01ca0449aea9_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/levy-niega-vinculos-estatal-enetec_1_1131879.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "niega",
       "fecha": "Mon, 12 Oct 2026 18:50:22 +0000",
-      "id": 7
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -102,10 +63,10 @@
       "resumen": "Podría tratarse del primer accidente con carburante importado de EE UU a través de testaferros privados, en violación de las sanciones de Washington",
       "imagen_url": "https://static.14ymedio.com/clip/41db919f-062f-4d72-bc39-3f5cc73e0f81_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/cinco-heridos-critico-incendio-tanque_1_1131867.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "cinco",
       "fecha": "Mon, 12 Oct 2026 16:33:16 +0000",
-      "id": 8
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -118,7 +79,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Mon, 12 Oct 2026 16:30:02 +0000",
-      "id": 9
+      "id": 6
     },
     {
       "categoria": "politica",
@@ -131,7 +92,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sun, 11 Oct 2026 11:40:09 +0000",
-      "id": 10
+      "id": 7
     },
     {
       "categoria": "energia",
@@ -144,7 +105,7 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Sun, 11 Oct 2026 15:03:21 +0000",
-      "id": 11
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -157,7 +118,7 @@
       "destacada": false,
       "tema": "recaudador",
       "fecha": "Tue, 13 Oct 2026 05:15:39 +0200",
-      "id": 12
+      "id": 9
     },
     {
       "categoria": "economia",
@@ -170,7 +131,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 02:30:26 +0200",
-      "id": 13
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -183,7 +144,7 @@
       "destacada": false,
       "tema": "cancelaciones",
       "fecha": "Tue, 13 Oct 2026 01:21:13 +0200",
-      "id": 14
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -196,7 +157,7 @@
       "destacada": false,
       "tema": "lanzan",
       "fecha": "Mon, 12 Oct 2026 21:14:02 +0000",
-      "id": 15
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -209,7 +170,7 @@
       "destacada": false,
       "tema": "holguín",
       "fecha": "Mon, 12 Oct 2026 22:56:59 +0000",
-      "id": 16
+      "id": 13
     },
     {
       "categoria": "energia",
@@ -222,7 +183,7 @@
       "destacada": false,
       "tema": "actualiza",
       "fecha": "Mon, 12 Oct 2026 22:09:56 +0000",
-      "id": 17
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -235,7 +196,7 @@
       "destacada": false,
       "tema": "corina",
       "fecha": "Mon, 12 Oct 2026 19:33:56 +0000",
-      "id": 18
+      "id": 15
     },
     {
       "categoria": "salud",
@@ -248,7 +209,20 @@
       "destacada": false,
       "tema": "abrazado",
       "fecha": "Sun, 11 Oct 2026 22:39:33 +0000",
-      "id": 19
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Canciller de Uruguay: Cuba vive su 'momento más grave' y necesita 'diálogo franco dentro de la sociedad'",
+      "resumen": "Canciller de #Uruguay: \"No voy a criticar lo que ocurrió a lo largo de los últimos 50 años\" de #castrismo, pero, \"si trazamos una línea a partir de hoy\", los cubanos deben \"reencontrarse\" para definir su futuro.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1791882331_69368.html",
+      "destacada": false,
+      "tema": "canciller",
+      "fecha": "Tue, 13 Oct 2026 11:05:31 +0200",
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -261,7 +235,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Tue, 13 Oct 2026 06:40:57 +0200",
-      "id": 20
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -274,7 +248,7 @@
       "destacada": false,
       "tema": "cubalex",
       "fecha": "Tue, 13 Oct 2026 01:11:28 +0200",
-      "id": 21
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -287,7 +261,7 @@
       "destacada": false,
       "tema": "castigo",
       "fecha": "Mon, 12 Oct 2026 22:58:16 +0200",
-      "id": 22
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -300,7 +274,7 @@
       "destacada": false,
       "tema": "libertad",
       "fecha": "Mon, 12 Oct 2026 22:33:00 +0200",
-      "id": 23
+      "id": 21
     },
     {
       "categoria": "politica",
@@ -313,7 +287,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 12 Oct 2026 20:42:49 +0200",
-      "id": 24
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -326,7 +300,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Mon, 12 Oct 2026 19:23:53 +0200",
-      "id": 25
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -339,7 +313,7 @@
       "destacada": false,
       "tema": "peloteros",
       "fecha": "Mon, 12 Oct 2026 16:43:33 +0200",
-      "id": 26
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -352,20 +326,7 @@
       "destacada": false,
       "tema": "medallas",
       "fecha": "Mon, 12 Oct 2026 14:36:48 +0200",
-      "id": 27
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La minería ilegal, de 'actividad informal para sobrevivir' a problema de salud pública en Las Tunas",
-      "resumen": "#SOSCuba: #Cubanos entre 25 y 30 años presentan insuficiencia renal aguda en #LasTunas debido a la minería ilegal de oro. La prensa oficial reconoce que es una actividad económica de supervivencia.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791807482_69355.html",
-      "destacada": false,
-      "tema": "minería",
-      "fecha": "Mon, 12 Oct 2026 14:18:02 +0200",
-      "id": 28
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -378,7 +339,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Tue, 13 Oct 2026 00:05:30 -0400",
-      "id": 29
+      "id": 26
     },
     {
       "categoria": "transporte",
@@ -391,7 +352,7 @@
       "destacada": false,
       "tema": "libertad",
       "fecha": "Mon, 12 Oct 2026 23:00:00 -0400",
-      "id": 30
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -404,7 +365,7 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Mon, 12 Oct 2026 21:00:00 -0400",
-      "id": 31
+      "id": 28
     },
     {
       "categoria": "economia",
@@ -417,7 +378,7 @@
       "destacada": false,
       "tema": "liberar",
       "fecha": "Tue, 13 Oct 2026 04:06:01 +0000",
-      "id": 32
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -430,7 +391,7 @@
       "destacada": false,
       "tema": "embajada",
       "fecha": "Mon, 12 Oct 2026 20:29:07 +0000",
-      "id": 33
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -443,7 +404,7 @@
       "destacada": false,
       "tema": "presentarán",
       "fecha": "Mon, 12 Oct 2026 19:48:25 +0000",
-      "id": 34
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -456,6 +417,45 @@
       "destacada": false,
       "tema": "inauguran",
       "fecha": "Mon, 12 Oct 2026 19:35:25 +0000",
+      "id": 32
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "En Los Ángeles, activistas pro-Palestina apoyaron el fin del bloqueo a Cuba",
+      "resumen": "Informando desde Los Ángeles: Mark Friedman, miembro de la International Association of Machinists.....",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125468-en-los-angeles-activistas-pro-palestina-apoyaron-el-fin-del-bloqueo-a-cuba.jpg?t=1791882661",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261013/125468/125468-en-los-angeles-activistas-pro-palestina-apoyaron-el-fin-del-bloqueo-a-cuba",
+      "destacada": false,
+      "tema": "ángeles",
+      "fecha": "Tue, 13 Oct 26 11:09:00 +0200",
+      "id": 33
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Propaganda antigubernamental utiliza a exboxeador cubano Félix Savón",
+      "resumen": "Argentino Tellini - Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125467-propaganda-antigubernamental-utiliza-a-exboxeador-cubano-felix-savon.jpg?t=1791876936",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261013/125467/125467-propaganda-antigubernamental-utiliza-a-exboxeador-cubano-felix-savon",
+      "destacada": false,
+      "tema": "propaganda",
+      "fecha": "Tue, 13 Oct 26 09:35:00 +0200",
+      "id": 34
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Colmenita abrazó a Gaza desde La Habana: la solidaridad entre dos pueblos bajo genocidio",
+      "resumen": "La compañía infantil de teatro cubana celebró una jornada de solidaridad con el pueblo palestino, co...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125466-la-colmenita-abrazo-a-gaza-desde-la-habana-la-solidaridad-entre-dos-pueblos-bajo-genocidio.jpg?t=1791876663",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261013/125466/125466-la-colmenita-abrazo-a-gaza-desde-la-habana-la-solidaridad-entre-dos-pueblos-bajo-genocidio",
+      "destacada": false,
+      "tema": "colmenita",
+      "fecha": "Tue, 13 Oct 26 09:23:00 +0200",
       "id": 35
     },
     {
@@ -538,32 +538,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Universidad de Cienfuegos “Carlos Rafael Rodríguez” y Universidad Politécnica de Yucatán firman convenios de colaboración",
-      "resumen": "Cienfuegos, Cuba, 12 oct (Prensa Latina) La Universidad de Cienfuegos “Carlos Rafael Rodríguez” (UCf...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125456-universidad-de-cienfuegos-carlos-rafael-rodriguez-y-universidad-politecnica-de-yucatan-firman-convenios-de-colaboracion.jpg?t=1791869801",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261013/125456/125456-universidad-de-cienfuegos-carlos-rafael-rodriguez-y-universidad-politecnica-de-yucatan-firman-convenios-de-colaboracion",
-      "destacada": false,
-      "tema": "universidad",
-      "fecha": "Tue, 13 Oct 26 07:35:00 +0200",
-      "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "CubaFruta consolida fruticultura en Matanzas con apoyo italiano",
-      "resumen": "Cubadebate",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125454-cubafruta-consolida-fruticultura-en-matanzas-con-apoyo-italiano.jpg?t=1791869655",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261013/125454/125454-cubafruta-consolida-fruticultura-en-matanzas-con-apoyo-italiano",
-      "destacada": false,
-      "tema": "cubafruta",
-      "fecha": "Tue, 13 Oct 26 07:33:00 +0200",
-      "id": 43
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "alternativa",
       "titulo": "Cuba avanza en la creación de una red de gastronomía ligera",
@@ -573,7 +547,7 @@
       "destacada": false,
       "tema": "avanza",
       "fecha": "Mon, 12 Oct 2026 22:20:22 +0000",
-      "id": 44
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -586,7 +560,7 @@
       "destacada": false,
       "tema": "alfonso",
       "fecha": "Mon, 12 Oct 2026 19:00:49 +0000",
-      "id": 45
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -599,33 +573,7 @@
       "destacada": false,
       "tema": "voluntarios",
       "fecha": "Mon, 12 Oct 2026 15:13:07 +0000",
-      "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Punto cubano para celebrar a la ciudad de Matanzas",
-      "resumen": "Décimas improvisadas, tonadas, y canciones típicas del punto cubano, se escucharon hoy en habitual peña de tradiciones campesinas efectuada en el centro llamado...",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/12/punto-cubano-para-celebrar-matanzas/",
-      "destacada": false,
-      "tema": "punto",
-      "fecha": "Mon, 12 Oct 2026 12:40:00 +0000",
-      "id": 47
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cooperación Cuba-Italia consolida la fruticultura en Matanzas",
-      "resumen": "La iniciativa de la Agencia Italiana de Cooperación para el Desarrollo (AICS), CubaFruta, desde hace varios años trabaja en el fortalecimiento de las cadenas de valor de variedades de frutas en Los Arabos, Colón, Calimete y Jagüey Grande",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/11/cooperacion-cuba-italia-consolida-fruticultura/",
-      "destacada": false,
-      "tema": "cooperación",
-      "fecha": "Sun, 11 Oct 2026 12:57:00 +0000",
-      "id": 48
+      "id": 44
     }
   ]
 }
