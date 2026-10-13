@@ -1,8 +1,60 @@
 {
   "fecha": "2026-10-13",
-  "hora": "10:08",
-  "total": 43,
+  "hora": "11:08",
+  "total": 49,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Defender lo nuestro",
+      "resumen": "Como parte de la Jornada de la Cultura Cubana ha sido concebido un programa en el que la escuela y el barrio deben ser beneficiarios y protagonistas",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-13/jornada-por-la-cultura-cubana-defender-lo-nuestro-09-10-2026-11-10-39",
+      "destacada": true,
+      "tema": "defender",
+      "fecha": "Tue, 13 Oct 2026 11:10:39 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La historia en defensa de la Patria hay que saber contarla",
+      "resumen": "El pasado 10 de octubre, Cuba lanzó la convocatoria a la jornada conmemorativa por el aniversario 68 del Triunfo de la Revolución, que se celebrará el próximo 1ro. de enero&nbsp;en un contexto marcado por el recrudecimiento del bloqueo de Estados Unidos",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-13/la-historia-de-la-terquedad-cubana-en-defensa-de-la-patria-tiene-su-explicacion-y-hay-que-saber-contarla-11-10-2026-09-10-12",
+      "destacada": true,
+      "tema": "historia",
+      "fecha": "Tue, 13 Oct 2026 09:10:12 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Artista cubano Yasiel Elizagaray expondrá su obra en Vaticano",
+      "resumen": "Ciudad Vaticano, 13 oct (Prensa Latina) Aliento de Espíritu se titula la nueva exposición del artista visual cubano Yasiel Elizagaray que se inaugurará el próximo sábado en la Sala Vasari, del Palacio de la Cancillería Apostólica de Vaticano. The post Artista cubano Yasiel Elizagaray expondrá su obr",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/13/artista-cubano-yasiel-elizagaray-expondra-su-obra-en-vaticano/",
+      "destacada": true,
+      "tema": "artista",
+      "fecha": "Tue, 13 Oct 2026 10:55:14 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Una candidata demócrata en Florida estima que 13.000 cubanos fueron deportados en los dos mandatos de Trump",
+      "resumen": "La candidata al Senado, Angie Nixon, califica al mandatario como \"deportador en jefe”",
+      "imagen_url": "https://static.14ymedio.com/clip/7888322f-55f7-475e-9410-f79f99affe19_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/candidata-democrata-florida-estima-13_1_1131891.html",
+      "destacada": true,
+      "tema": "candidata",
+      "fecha": "Tue, 13 Oct 2026 10:06:58 +0000",
+      "id": 4
+    },
     {
       "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
@@ -14,7 +66,20 @@
       "destacada": true,
       "tema": "habana",
       "fecha": "Mon, 12 Oct 2026 21:49:19 +0000",
-      "id": 1
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Septiembre cierra con cuatro muertos y 79 violaciones de derechos en las cárceles cubanas",
+      "resumen": "El Centro de Documentación de Prisiones Cubanas alerta de un subregistro de los casos por la opacidad del régimen, que niega el acceso a observadores independientes",
+      "imagen_url": "https://static.14ymedio.com/clip/1a6d33bc-8903-45a8-b316-07e5c6179ba4_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/septiembre-cierra-cuatro-muertos-79_1_1131887.html",
+      "destacada": false,
+      "tema": "septiembre",
+      "fecha": "Tue, 13 Oct 2026 09:27:30 +0000",
+      "id": 6
     },
     {
       "categoria": "economia",
@@ -24,23 +89,10 @@
       "resumen": "La compra mínima es de 200 dólares o 24.000 pesos, con tarjeta o en efectivo En la misma ciudad, la Empresa Cárnica abre su primera tienda minorista",
       "imagen_url": "https://static.14ymedio.com/clip/2dd2f611-9041-4c6d-aa86-93da7682439e_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/arroz-panales-whisky-figuran-mercado_1_1131864.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "arroz",
       "fecha": "Mon, 12 Oct 2026 15:59:42 +0000",
-      "id": 2
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Uruguay da una alternativa de residencia por arraigo a casi 30.000 cubanos",
-      "resumen": "El Gobierno de Yamandú Orsi firma un decreto que abre la puerta a miles de migrantes con solicitud de refugio pendiente",
-      "imagen_url": "https://static.14ymedio.com/clip/97261b5f-8d68-48fb-9256-dad1c567a199_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/migracion/uruguay-da-alternativa-residencia-arraigo_1_1131883.html",
-      "destacada": true,
-      "tema": "uruguay",
-      "fecha": "Mon, 12 Oct 2026 19:59:31 +0000",
-      "id": 3
+      "id": 7
     },
     {
       "categoria": "energia",
@@ -50,10 +102,10 @@
       "resumen": "En entrevista con Reuters, el ministro cubano de Energía no ve inconveniente la posible compra de las acciones de Sherritt por un empresario cercano a Trump",
       "imagen_url": "https://static.14ymedio.com/clip/392bb1ce-dbea-46d9-8075-01ca0449aea9_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/levy-niega-vinculos-estatal-enetec_1_1131879.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "niega",
       "fecha": "Mon, 12 Oct 2026 18:50:22 +0000",
-      "id": 4
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -63,10 +115,10 @@
       "resumen": "Podría tratarse del primer accidente con carburante importado de EE UU a través de testaferros privados, en violación de las sanciones de Washington",
       "imagen_url": "https://static.14ymedio.com/clip/41db919f-062f-4d72-bc39-3f5cc73e0f81_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/cinco-heridos-critico-incendio-tanque_1_1131867.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "cinco",
       "fecha": "Mon, 12 Oct 2026 16:33:16 +0000",
-      "id": 5
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -79,33 +131,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Mon, 12 Oct 2026 16:30:02 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel reafirma su amistad con Corea del Norte tras reducir su presencia diplomática en Seúl",
-      "resumen": "La Habana retiró sin explicaciones a la mitad de sus diplomáticos en Corea del Sur, aunque niega que la decisión tenga motivaciones políticas",
-      "imagen_url": "https://static.14ymedio.com/clip/bb3c4984-546c-4a96-98d4-02236d675571_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/diaz-canel-reafirma-amistad-corea_1_1131811.html",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Sun, 11 Oct 2026 11:40:09 +0000",
-      "id": 7
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Vuelve la luz en el oriente, la zona del país más castigada por los apagones",
-      "resumen": "Tres personas fueron detenidas por la policía en La Habana Vieja cuando realizaban conexiones eléctricas ilegales",
-      "imagen_url": "https://static.14ymedio.com/clip/f3e4b7e6-52ae-4636-9a3a-629eeb4ff099_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/vuelve-luz-oriente-zona-pais_1_1131825.html",
-      "destacada": false,
-      "tema": "vuelve",
-      "fecha": "Sun, 11 Oct 2026 15:03:21 +0000",
-      "id": 8
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -118,7 +144,7 @@
       "destacada": false,
       "tema": "recaudador",
       "fecha": "Tue, 13 Oct 2026 05:15:39 +0200",
-      "id": 9
+      "id": 11
     },
     {
       "categoria": "economia",
@@ -131,7 +157,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 02:30:26 +0200",
-      "id": 10
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -144,7 +170,20 @@
       "destacada": false,
       "tema": "cancelaciones",
       "fecha": "Tue, 13 Oct 2026 01:21:13 +0200",
-      "id": 11
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Lanzan jornada de celebración por aniversario 68 de la Revolución cubana",
+      "resumen": "Cuba lanzó este sábado la convocatoria a la jornada conmemorativa por el aniversario 68 del Triunfo de la Revolución, a celebrarse el próximo 1 de enero en un contexto marcado por el recrudecimiento del bloqueo de Estados Unidos. Al intervenir en el acto por el aniversario 158 del inicio de las guer",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/lanzan-jornada-de-celebracion-por-aniversario-68-de-la-revolucion-cubana/",
+      "destacada": false,
+      "tema": "lanzan",
+      "fecha": "Mon, 12 Oct 2026 21:14:02 +0000",
+      "id": 14
     },
     {
       "categoria": "economia",
@@ -157,7 +196,7 @@
       "destacada": false,
       "tema": "rostro",
       "fecha": "Tue, 13 Oct 2026 10:05:45 +0000",
-      "id": 12
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -170,7 +209,7 @@
       "destacada": false,
       "tema": "holguín",
       "fecha": "Mon, 12 Oct 2026 22:56:59 +0000",
-      "id": 13
+      "id": 16
     },
     {
       "categoria": "energia",
@@ -183,7 +222,7 @@
       "destacada": false,
       "tema": "actualiza",
       "fecha": "Mon, 12 Oct 2026 22:09:56 +0000",
-      "id": 14
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -196,7 +235,33 @@
       "destacada": false,
       "tema": "corina",
       "fecha": "Mon, 12 Oct 2026 19:33:56 +0000",
-      "id": 15
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El castrismo se ensaña con... ¿una clase obrera en el poder?",
+      "resumen": "El #PCC muestra la farsa del #socialismo, con un salario mínimo que explota a los trabajadores de #Cuba más de lo que explotan a otros trabajadores en el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1791889289_69365.html",
+      "destacada": false,
+      "tema": "castrismo",
+      "fecha": "Tue, 13 Oct 2026 13:01:29 +0200",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Violenta requisa a Maykel Osorbo en Guanajay, denuncia la activista Anamely Ramos",
+      "resumen": "Más de 30 agentes participaron en una violenta requisa contra #MaykelOsorbo en prisión durante la cual el músico cubano fue esposado y obligado a raparse, denuncia la activista #AnamelyRamos.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1791888000_69369.html",
+      "destacada": false,
+      "tema": "violenta",
+      "fecha": "Tue, 13 Oct 2026 12:40:00 +0200",
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -209,7 +274,7 @@
       "destacada": false,
       "tema": "canciller",
       "fecha": "Tue, 13 Oct 2026 11:05:31 +0200",
-      "id": 16
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -222,7 +287,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Tue, 13 Oct 2026 06:40:57 +0200",
-      "id": 17
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -235,7 +300,7 @@
       "destacada": false,
       "tema": "cubalex",
       "fecha": "Tue, 13 Oct 2026 01:11:28 +0200",
-      "id": 18
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -248,7 +313,7 @@
       "destacada": false,
       "tema": "castigo",
       "fecha": "Mon, 12 Oct 2026 22:58:16 +0200",
-      "id": 19
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -261,7 +326,7 @@
       "destacada": false,
       "tema": "libertad",
       "fecha": "Mon, 12 Oct 2026 22:33:00 +0200",
-      "id": 20
+      "id": 25
     },
     {
       "categoria": "politica",
@@ -274,7 +339,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 12 Oct 2026 20:42:49 +0200",
-      "id": 21
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -287,33 +352,20 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Mon, 12 Oct 2026 19:23:53 +0200",
-      "id": 22
+      "id": 27
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Peloteros cubanos brillan en la histórica clasificación de España al Premier 12 de Béisbol",
-      "resumen": "Félix Stevens impulsa tres de las cinco carreras de #España para derrotar a Italia y clasificar por primera vez al #Premier12 de #Béisbol. Frank Hernández es el pelotero más destacado del Clasificatorio.",
+      "titulo": "Cuba Habla: \"Cada día hay más personas comiendo de la basura”",
+      "resumen": "\"Mi vida no ha mejorado ni un poco” asegura joven habanero que habla sobre las reformas del régimen de la isla.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/deportes/1791816213_69358.html",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-cada-d%c3%ada-hay-m%c3%a1s-personas-comiendo-de-la-basura/481340.html",
       "destacada": false,
-      "tema": "peloteros",
-      "fecha": "Mon, 12 Oct 2026 16:43:33 +0200",
-      "id": 23
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba se va sin medallas del Mundial de Judo de Bakú pero una atleta nacida en la Isla sube al podio",
-      "resumen": "La judoca #AyumiLeiva es la única cubana que sube al podio en el Mundial de #Bakú2026, pero su medalla de bronce es para #España. La selección nacional de #Cuba se despide con apenas dos victorias en 13 combates. #DeporteCubano #Judo.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/deportes/1791808608_69356.html",
-      "destacada": false,
-      "tema": "medallas",
-      "fecha": "Mon, 12 Oct 2026 14:36:48 +0200",
-      "id": 24
+      "tema": "habla",
+      "fecha": "Tue, 13 Oct 2026 07:00:00 -0400",
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -326,7 +378,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Tue, 13 Oct 2026 00:05:30 -0400",
-      "id": 25
+      "id": 29
     },
     {
       "categoria": "transporte",
@@ -339,7 +391,7 @@
       "destacada": false,
       "tema": "libertad",
       "fecha": "Mon, 12 Oct 2026 23:00:00 -0400",
-      "id": 26
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -352,7 +404,20 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Mon, 12 Oct 2026 21:00:00 -0400",
-      "id": 27
+      "id": 31
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El filme cubano ”Neurótica Anónima” está nominado a los Premios Goya",
+      "resumen": "El filme Neurótica Anónima, dirigido por Jorge Perugorría y protagonizado por Mirtha Ibarra (ambos premios nacionales de Cine) está nominado a los Premios Goya para “Mejor Película Iberoamericana”, entre filmes de 19 países, a propuesta del Comité de Expertos del Instituto Cubano del Arte e Industri",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/13/el-filme-cubano-neurotica-anonima-esta-nominado-a-los-premios-goya/",
+      "destacada": false,
+      "tema": "filme",
+      "fecha": "Tue, 13 Oct 2026 10:49:21 +0000",
+      "id": 32
     },
     {
       "categoria": "economia",
@@ -365,7 +430,7 @@
       "destacada": false,
       "tema": "liberar",
       "fecha": "Tue, 13 Oct 2026 04:06:01 +0000",
-      "id": 28
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -378,7 +443,7 @@
       "destacada": false,
       "tema": "embajada",
       "fecha": "Mon, 12 Oct 2026 20:29:07 +0000",
-      "id": 29
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -391,20 +456,7 @@
       "destacada": false,
       "tema": "presentarán",
       "fecha": "Mon, 12 Oct 2026 19:48:25 +0000",
-      "id": 30
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Inauguran en Argentina cátedra dedicada a la obra de Titón",
-      "resumen": "Una cátedra abierta para el estudio de la obra del fallecido realizador cubano Tomás Gutiérrez Alea (1928-1996), fue fundada en Argentina, bajo la égida de Facultad de Arte y Diseño de Universidad de Misiones, resaltan fuentes oficiales. La actriz cubana Mirtha Ibarra, viuda de Gutiérrez Alea (Titón",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/12/inauguran-en-argentina-catedra-dedicada-a-la-obra-de-titon/",
-      "destacada": false,
-      "tema": "inauguran",
-      "fecha": "Mon, 12 Oct 2026 19:35:25 +0000",
-      "id": 31
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -417,7 +469,7 @@
       "destacada": false,
       "tema": "ángeles",
       "fecha": "Tue, 13 Oct 26 11:09:00 +0200",
-      "id": 32
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -430,7 +482,7 @@
       "destacada": false,
       "tema": "propaganda",
       "fecha": "Tue, 13 Oct 26 09:35:00 +0200",
-      "id": 33
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -443,7 +495,7 @@
       "destacada": false,
       "tema": "colmenita",
       "fecha": "Tue, 13 Oct 26 09:23:00 +0200",
-      "id": 34
+      "id": 38
     },
     {
       "categoria": "salud",
@@ -456,7 +508,7 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Tue, 13 Oct 26 08:35:00 +0200",
-      "id": 35
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -469,7 +521,7 @@
       "destacada": false,
       "tema": "miami",
       "fecha": "Tue, 13 Oct 26 07:58:00 +0200",
-      "id": 36
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -482,7 +534,7 @@
       "destacada": false,
       "tema": "recuperar",
       "fecha": "Tue, 13 Oct 26 07:55:00 +0200",
-      "id": 37
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -495,7 +547,7 @@
       "destacada": false,
       "tema": "impacto",
       "fecha": "Tue, 13 Oct 26 07:50:00 +0200",
-      "id": 38
+      "id": 42
     },
     {
       "categoria": "energia",
@@ -508,7 +560,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Tue, 13 Oct 26 07:38:00 +0200",
-      "id": 39
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -521,7 +573,7 @@
       "destacada": false,
       "tema": "artista",
       "fecha": "Tue, 13 Oct 26 07:36:00 +0200",
-      "id": 40
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -534,7 +586,7 @@
       "destacada": false,
       "tema": "avanza",
       "fecha": "Mon, 12 Oct 2026 22:20:22 +0000",
-      "id": 41
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -547,7 +599,7 @@
       "destacada": false,
       "tema": "alfonso",
       "fecha": "Mon, 12 Oct 2026 19:00:49 +0000",
-      "id": 42
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -560,7 +612,33 @@
       "destacada": false,
       "tema": "voluntarios",
       "fecha": "Mon, 12 Oct 2026 15:13:07 +0000",
-      "id": 43
+      "id": 47
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Punto cubano para celebrar a la ciudad de Matanzas",
+      "resumen": "Décimas improvisadas, tonadas, y canciones típicas del punto cubano, se escucharon hoy en habitual peña de tradiciones campesinas efectuada en el centro llamado...",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/12/punto-cubano-para-celebrar-matanzas/",
+      "destacada": false,
+      "tema": "punto",
+      "fecha": "Mon, 12 Oct 2026 12:40:00 +0000",
+      "id": 48
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cooperación Cuba-Italia consolida la fruticultura en Matanzas",
+      "resumen": "La iniciativa de la Agencia Italiana de Cooperación para el Desarrollo (AICS), CubaFruta, desde hace varios años trabaja en el fortalecimiento de las cadenas de valor de variedades de frutas en Los Arabos, Colón, Calimete y Jagüey Grande",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/11/cooperacion-cuba-italia-consolida-fruticultura/",
+      "destacada": false,
+      "tema": "cooperación",
+      "fecha": "Sun, 11 Oct 2026 12:57:00 +0000",
+      "id": 49
     }
   ]
 }
