@@ -1,33 +1,85 @@
 {
   "fecha": "2026-10-13",
-  "hora": "21:16",
-  "total": 44,
+  "hora": "23:13",
+  "total": 52,
   "noticias": [
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
+      "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cine francés colmará salas habaneras y del resto de Cuba",
-      "resumen": "La Habana, 13 oct (Prensa Latina) La película Los niños de la resistencia, adaptación de un famoso cómic francés, abrirá en Cuba el 27 festival de cine de esa nación europea, del 22 de octubre al 4 de noviembre, anunciaron hoy los organizadores. The post Cine francés colmará salas habaneras y del re",
+      "titulo": "El odio que lacera el derecho a escuchar",
+      "resumen": "La escuela de enseñanza especial René Vilches, en La Habana, vive en su cotidianidad las expresiones inhumanas del bloqueo en la rehabilitación de las infancias con discapacidad auditiva",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/13/cine-frances-colmara-salas-habaneras-y-del-resto-de-cuba/",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-12/el-odio-que-lacera-el-derecho-a-escuchar",
       "destacada": true,
-      "tema": "francés",
-      "fecha": "Tue, 13 Oct 2026 21:08:31 +0000",
+      "tema": "lacera",
+      "fecha": "Mon, 12 Oct 2026 20:10:54 -0400",
       "id": 1
     },
     {
-      "categoria": "transporte",
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Defender lo nuestro",
+      "resumen": "Como parte de la Jornada de la Cultura Cubana ha sido concebido un programa en el que la escuela y el barrio deben ser beneficiarios y protagonistas",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-13/jornada-por-la-cultura-cubana-defender-lo-nuestro-09-10-2026-11-10-39",
+      "destacada": true,
+      "tema": "defender",
+      "fecha": "Tue, 13 Oct 2026 11:10:39 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Más allá de vigilar el tiempo y el clima",
+      "resumen": "Fruto de la fusión del antiguo Observatorio Nacional con el departamento de Meteorología creado quince meses antes por la Academia de Ciencias de Cuba, el 12 de octubre de 1965 fue constituido el Instituto de Meteorología, en ceremonia solemne efectuada en el hemiciclo del Capitolio Nacional",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/ciencia/2026-10-12/mas-alla-de-vigilar-el-tiempo-y-el-clima-12-10-2026-17-10-37",
+      "destacada": true,
+      "tema": "vigilar",
+      "fecha": "Mon, 12 Oct 2026 17:10:37 -0400",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La historia en defensa de la Patria hay que saber contarla",
+      "resumen": "El pasado 10 de octubre, Cuba lanzó la convocatoria a la jornada conmemorativa por el aniversario 68 del Triunfo de la Revolución, que se celebrará el próximo 1ro. de enero&nbsp;en un contexto marcado por el recrudecimiento del bloqueo de Estados Unidos",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-13/la-historia-de-la-terquedad-cubana-en-defensa-de-la-patria-tiene-su-explicacion-y-hay-que-saber-contarla-11-10-2026-09-10-12",
+      "destacada": true,
+      "tema": "historia",
+      "fecha": "Tue, 13 Oct 2026 09:10:12 -0400",
+      "id": 4
+    },
+    {
+      "categoria": "salud",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba estrenará filme Neurótica Anónima, candidata a los Premio Goya",
-      "resumen": "La Habana, 13 oct (Prensa Latina) Alexis Triana, presidente del Instituto Cubano del Arte e Industria Cinematográficos (Icaic), y el equipo de Neurótica Anónima (2025) conversaron hoy sobre su estreno nacional el día 16 y candidatura a los 41 Premios Goya de cine. The post Cuba estrenará filme Neuró",
+      "titulo": "Cuba vive y sigue apostando al turismo con estrategias de adaptación",
+      "resumen": "Montevideo, 13 oct (Prensa Latina) Cuba vive pese a la guerra sin bombas que ejerce Estados Unidos y sigue apostando hoy por el turismo con estrategias de adaptación y con las bondades de la naturaleza, historia, cultura y pueblo hospitalario. The post Cuba vive y sigue apostando al turismo con estr",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/13/cuba-estrenara-filme-neurotica-anonima-candidata-a-los-premio-goya/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/13/cuba-vive-y-sigue-apostando-al-turismo-con-estrategias-de-adaptacion/",
       "destacada": true,
-      "tema": "estrenará",
-      "fecha": "Tue, 13 Oct 2026 20:46:57 +0000",
-      "id": 2
+      "tema": "sigue",
+      "fecha": "Tue, 13 Oct 2026 23:00:49 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El salario medio no llega a 10 dólares en Cuba y el sector estatal sigue hundido",
+      "resumen": "Las ventas de bienes y servicios caen más de un 32% y casi 400 empresas estatales reportan pérdidas millonarias",
+      "imagen_url": "https://static.14ymedio.com/clip/71644b58-55b3-44f2-a779-209e7f0341c9_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/salario-medio-no-llega-10_1_1131917.html",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Tue, 13 Oct 2026 22:00:06 +0000",
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -37,10 +89,10 @@
       "resumen": "Un marcador violeta transforma una consigna optimista en el epitafio de una ciudad que ha perdido a buena parte de sus jóvenes",
       "imagen_url": "https://static.14ymedio.com/clip/a4fcc7ef-aaeb-49d0-87b5-c92b29bf32b1_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/habana-corregida-mano-calle-g_1_1131911.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "habana",
       "fecha": "Tue, 13 Oct 2026 18:56:29 +0000",
-      "id": 3
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -50,10 +102,10 @@
       "resumen": "Casi la mitad de los eventos represivos el mes pasado afectó a las personas privadas de libertad, “algunas de las cuales protestaron dentro de los centros de reclusión”",
       "imagen_url": "https://static.14ymedio.com/clip/1a6d33bc-8903-45a8-b316-07e5c6179ba4_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/septiembre-cierra-cuatro-muertos-79_1_1131887.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "septiembre",
       "fecha": "Tue, 13 Oct 2026 09:27:30 +0000",
-      "id": 4
+      "id": 8
     },
     {
       "categoria": "economia",
@@ -63,10 +115,10 @@
       "resumen": "Las nuevas normas permiten la participación de mipymes nacionales y empresas extranjeras en la exploración y producción",
       "imagen_url": "https://static.14ymedio.com/clip/a3da3805-815b-47b3-bc4f-8e05adb92a97_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/habana-atraer-inversiones-privadas-sector_1_1131886.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 12 Oct 2026 21:49:19 +0000",
-      "id": 5
+      "id": 9
     },
     {
       "categoria": "energia",
@@ -79,7 +131,7 @@
       "destacada": false,
       "tema": "niega",
       "fecha": "Mon, 12 Oct 2026 18:50:22 +0000",
-      "id": 6
+      "id": 10
     },
     {
       "categoria": "economia",
@@ -92,7 +144,85 @@
       "destacada": false,
       "tema": "arroz",
       "fecha": "Mon, 12 Oct 2026 15:59:42 +0000",
-      "id": 7
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Arrestan a cubano en Japón por presunto intento de homicidio tras apuñalamiento en un local en Yokohama",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u1-e208933-s27061-nid342791-arrestan-cubano-japon-presunto-intento-homicidio",
+      "destacada": false,
+      "tema": "arrestan",
+      "fecha": "Tue, 13 Oct 2026 23:56:58 +0200",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Adultos mayores de Hialeah se quedan otra vez sin comedor tras nuevo cierre en La Carreta: algunos son cubanos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u1-e208933-s27061-nid342794-adultos-mayores-hialeah-quedan-otra-vez-comedor-tras",
+      "destacada": false,
+      "tema": "adultos",
+      "fecha": "Tue, 13 Oct 2026 23:36:41 +0200",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Reportan que un cubano deportado a México regresó a EE.UU. y quedó bajo supervisión: Estos son los detalles",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u1-e129488-s27061-nid342777-reportan-cubano-deportado-mexico-regreso-eeuu-quedo",
+      "destacada": false,
+      "tema": "reportan",
+      "fecha": "Tue, 13 Oct 2026 23:32:02 +0200",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Madre pide ayuda desde Cuba para su hijo, conductor de Uber, detenido en centro de inmigrantes de Texas",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u1-e192519-s27061-nid342723-madre-pide-ayuda-cuba-hijo-conductor-uber-detenido",
+      "destacada": false,
+      "tema": "madre",
+      "fecha": "Tue, 13 Oct 2026 23:30:41 +0200",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Rubio advierte a Bukele que el régimen cubano no hará reformas mientras crea tener respaldo internacional",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u1-e135253-s27061-nid342815-rubio-advierte-bukele-regimen-cubano-hara-reformas",
+      "destacada": false,
+      "tema": "rubio",
+      "fecha": "Tue, 13 Oct 2026 23:27:56 +0200",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Abogado Willy Allen aclara qué pasó en audiencia por demanda de 992 cubanos con I-220A",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u1-e192519-s27061-nid342727-abogado-willy-allen-aclara-paso-audiencia-demanda",
+      "destacada": false,
+      "tema": "abogado",
+      "fecha": "Tue, 13 Oct 2026 23:07:37 +0200",
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -105,7 +235,7 @@
       "destacada": false,
       "tema": "abogado",
       "fecha": "Tue, 13 Oct 2026 22:58:30 +0200",
-      "id": 8
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -118,72 +248,33 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Tue, 13 Oct 2026 22:55:21 +0200",
-      "id": 9
+      "id": 19
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Organización documenta 344 acciones represivas en septiembre y advierte que la situación en Cuba podría empeorar",
-      "resumen": "",
+      "titulo": "La Guardia Costera de EEUU intercepta y repatría a seis balseros cubanos",
+      "resumen": "La Guardia Costera de #EEUU repatría a seis balseros #cubanos, tras dos operaciones de interceptación y rescate a embarcaciones precarias y averiadas.",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u1-e135253-s27061-nid342814-organizacion-documenta-344-acciones-represivas",
+      "enlace_original": "https://diariodecuba.com/cuba/1791933277_69382.html",
       "destacada": false,
-      "tema": "organización",
-      "fecha": "Tue, 13 Oct 2026 22:42:18 +0200",
-      "id": 10
+      "tema": "guardia",
+      "fecha": "Wed, 14 Oct 2026 01:14:37 +0200",
+      "id": 20
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuatro cucharadas de arroz y un poco de chícharos: eso comen las embarazadas en el Materno Sur de Santiago de Cuba",
-      "resumen": "",
+      "titulo": "Un club de jazz de EEUU cancela un concierto de Daymé Arocena para 'preservar la relación' con la embajada del régimen",
+      "resumen": "Un club de #jazz de #Washington cancela un concierto de la cubana #DayméArocena, luego de que protestara por la participación de la embajada del régimen y los organizadores decidieran \"preservar la relación\" con el ente diplomático.",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-13-u1-e43231-s27061-nid342782-cuatro-cucharadas-arroz-poco-chicharos-eso-comen",
+      "enlace_original": "https://diariodecuba.com/cultura/1791928059_69381.html",
       "destacada": false,
-      "tema": "cuatro",
-      "fecha": "Tue, 13 Oct 2026 22:13:53 +0200",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.radiocubana.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Lanzan jornada de celebración por aniversario 68 de la Revolución cubana",
-      "resumen": "Cuba lanzó este sábado la convocatoria a la jornada conmemorativa por el aniversario 68 del Triunfo de la Revolución, a celebrarse el próximo 1 de enero en un contexto marcado por el recrudecimiento del bloqueo de Estados Unidos. Al intervenir en el acto por el aniversario 158 del inicio de las guer",
-      "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/lanzan-jornada-de-celebracion-por-aniversario-68-de-la-revolucion-cubana/",
-      "destacada": false,
-      "tema": "lanzan",
-      "fecha": "Mon, 12 Oct 2026 21:14:02 +0000",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Operación ZR/Rifle: el testimonio de una guerra secreta contra Cuba",
-      "resumen": "El autor examina las operaciones organizadas contra la Revolución cubana y los planes dirigidos contra la vida de Fidel Castro. Abarca el período comprendido entre 1958 y 2000, una etapa marcada por la confrontación política, militar e ideológica entre La Habana y Washington",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261013/operacion-zr-rifle-el-testimonio-de-una-guerra-secreta-contra-cuba/",
-      "destacada": false,
-      "tema": "operación",
-      "fecha": "Tue, 13 Oct 2026 18:57:09 +0000",
-      "id": 13
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "El rostro humano de los servicios bancarios en Cuba",
-      "resumen": "Cada 13 de octubre, Cuba celebra el Día del Trabajador Bancario, una fecha que conmemora la nacionalización de la banca en 1960 y recuerda el nombramiento del comandante Ernesto Che Guevara como primer presidente revolucionario del Banco Nacional de Cuba",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261013/el-rostro-humano-de-los-servicios-bancarios-en-cuba-2/",
-      "destacada": false,
-      "tema": "rostro",
-      "fecha": "Tue, 13 Oct 2026 13:40:27 +0000",
-      "id": 14
+      "tema": "cancela",
+      "fecha": "Tue, 13 Oct 2026 23:47:39 +0200",
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -196,7 +287,7 @@
       "destacada": false,
       "tema": "eventos",
       "fecha": "Tue, 13 Oct 2026 22:55:07 +0200",
-      "id": 15
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -209,7 +300,7 @@
       "destacada": false,
       "tema": "rubio",
       "fecha": "Tue, 13 Oct 2026 20:56:42 +0200",
-      "id": 16
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -222,7 +313,7 @@
       "destacada": false,
       "tema": "fallece",
       "fecha": "Tue, 13 Oct 2026 20:37:22 +0200",
-      "id": 17
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -235,7 +326,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 13 Oct 2026 19:53:59 +0200",
-      "id": 18
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -248,7 +339,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 19:30:03 +0200",
-      "id": 19
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -261,7 +352,7 @@
       "destacada": false,
       "tema": "pablo",
       "fecha": "Tue, 13 Oct 2026 18:59:57 +0200",
-      "id": 20
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -274,7 +365,7 @@
       "destacada": false,
       "tema": "ocurrió",
       "fecha": "Tue, 13 Oct 2026 18:01:42 +0200",
-      "id": 21
+      "id": 28
     },
     {
       "categoria": "energia",
@@ -287,33 +378,20 @@
       "destacada": false,
       "tema": "multas",
       "fecha": "Tue, 13 Oct 2026 15:56:55 +0200",
-      "id": 22
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuestionado Mamdani por presuntos vínculos de un colaborador suyo con el régimen cubano",
-      "resumen": "El recaudador de impuestos de Miami-Dade, Dariel Fernández, cuestiona la transparencia de #Mamdani tras revelarse un viaje a #Cuba de su colaborador #DannyValdez. Fernández pide que se investigue si Valdez violó alguna ley al reunirse con funcionarios del #RégimenCubano, incluido #DíazCanel.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791895301_69372.html",
-      "destacada": false,
-      "tema": "cuestionado",
-      "fecha": "Tue, 13 Oct 2026 14:41:41 +0200",
-      "id": 23
+      "id": 29
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Muere Raúl Borges, el padre que luchó durante décadas por la libertad de su hijo preso político",
-      "resumen": "El opositor cubano Raúl Borges Álvarez, incansable defensor de la liberación de su hijo, Ernesto Borges Pérez, y de otros #PresosPolíticos, murió en La Habana a los 86 años.",
+      "titulo": "Suman cargos de desacato y propaganda contra el orden constitucional al 'Spiderman' cubano",
+      "resumen": "Su pareja denunció que la acusación de desacato había sido retirada al inicio del proceso y que el abogado aún no ha podido consultar el expediente.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1791891319_69371.html",
+      "enlace_original": "https://www.martinoticias.com/a/suman-cargos-de-desacato-y-propaganda-contra-el-orden-constitucional-al-spiderman-cubano/481882.html",
       "destacada": false,
-      "tema": "muere",
-      "fecha": "Tue, 13 Oct 2026 13:35:19 +0200",
-      "id": 24
+      "tema": "suman",
+      "fecha": "Tue, 13 Oct 2026 17:33:32 -0400",
+      "id": 30
     },
     {
       "categoria": "politica",
@@ -326,7 +404,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Tue, 13 Oct 2026 17:08:15 -0400",
-      "id": 25
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -339,46 +417,59 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Tue, 13 Oct 2026 17:00:30 -0400",
-      "id": 26
+      "id": 32
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Rubio: el régimen cubano no hará las reformas que merece el pueblo mientras tenga apoyo internacional",
-      "resumen": "Marco Rubio afirmó este martes que el régimen cubano no impulsará las reformas que necesita el pueblo mientras siga contando con el respaldo de la comunidad internacional, en el marco de una conversación con el presidente salvadoreño Nayib Bukele sobre cooperación bilateral.",
+      "categoria": "salud",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Empresa española se niega a vender a Cuba un repuesto para liofilizador del hospital Frank País por el bloqueo de EE.UU.",
+      "resumen": "La empresa española Telstar, filial del grupo alemán Syntegon con sede en Terrassa, Barcelona, se negó a vender una pieza de repuesto para un liofilizador instalado en el Complejo Científico Ortopédico Internacional Frank País, ubicado en La Habana. The post Empresa española se niega a vender a Cuba",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/rubio-el-r%c3%a9gimen-cubano-no-har%c3%a1-las-reformas-que-merece-el-pueblo-mientras-tenga-apoyo-internacional/481886.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/13/empresa-espanola-se-niega-a-vender-a-cuba-un-repuesto-para-liofilizador-del-hospital-frank-pais-por-el-bloqueo-de-ee-uu/",
       "destacada": false,
-      "tema": "rubio",
-      "fecha": "Tue, 13 Oct 2026 16:51:17 -0400",
-      "id": 27
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Interceptan a balsero cubano que navegaba a la deriva cerca de Key Biscayne",
-      "resumen": "Un migrante cubano fue rescatado este lunes cuando flotaba a la deriva en una balsa improvisada al este de Key Biscayne, Florida, en un operativo de la CBP y la Guardia Costera de Estados Unidos.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/interceptan-a-balsero-cubano-que-navegaba-a-la-deriva-cerca-de-key-biscayne/481879.html",
-      "destacada": false,
-      "tema": "interceptan",
-      "fecha": "Tue, 13 Oct 2026 16:40:50 -0400",
-      "id": 28
+      "tema": "empresa",
+      "fecha": "Tue, 13 Oct 2026 15:46:25 +0000",
+      "id": 33
     },
     {
       "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las Noticias Como Son",
-      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Fallece a los 84 años Manolo del Valle, reconocido intérprete y compositor cubano de bolero",
+      "resumen": "El reconocido intérprete y compositor cubano Manuel Batista Salgado, reconocido en el mundo del espectáculo como Manolo del Valle, falleció este lunes a la edad de 84 años, según dio a conocer el Instituto Cubano de la Música (ICM). The post Fallece a los 84 años Manolo del Valle, reconocido intérpr",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480865.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/13/fallece-a-los-84-anos-manolo-del-valle-reconocido-interprete-y-compositor-cubano-de-bolero/",
       "destacada": false,
-      "tema": "noticias",
-      "fecha": "Tue, 13 Oct 2026 16:05:30 -0400",
-      "id": 29
+      "tema": "fallece",
+      "fecha": "Tue, 13 Oct 2026 15:29:50 +0000",
+      "id": 34
+    },
+    {
+      "categoria": "economia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Es la idea | Con Carlos Miguel Pérez Reyes, empresario, informático y diputado (+Video)",
+      "resumen": "Un intercambio con Randy Alonso y Arleen Rodríguez sobre la economía cubana, el papel del sector privado, la informática, la Inteligencia Artificial, el parlamento cubano y sus debates, el rol de un parlamentario y muchos otros temas. The post Es la idea | Con Carlos Miguel Pérez Reyes, empresario, ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/13/es-la-idea-con-carlos-miguel-perez-reyes-empresario-informatico-y-diputado/",
+      "destacada": false,
+      "tema": "carlos",
+      "fecha": "Tue, 13 Oct 2026 15:18:41 +0000",
+      "id": 35
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Informa MININT sobre hallazgo de embarcación tipo kayak en Cayo Paredón",
+      "resumen": "De conformidad con lo dispuesto en el Decreto No. 317, Reglamento de la Ley no. 115 “De la Navegación Marítima, Fluvial y Lacustre” de la República de Cuba, la capitanía del puerto de Júcaro informa sobre el hallazgo ocurrido el día 14 de julio de 2026, de una embarcación tipo Kayak, en el borde cos",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/13/informa-minint-sobre-hallazgo-de-embarcacion-tipo-kayak-en-cayo-paredon/",
+      "destacada": false,
+      "tema": "informa",
+      "fecha": "Tue, 13 Oct 2026 14:55:06 +0000",
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -391,7 +482,7 @@
       "destacada": false,
       "tema": "ayotzinapa",
       "fecha": "Tue, 13 Oct 26 22:49:00 +0200",
-      "id": 30
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -404,7 +495,7 @@
       "destacada": false,
       "tema": "represión",
       "fecha": "Tue, 13 Oct 26 22:46:00 +0200",
-      "id": 31
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -417,7 +508,7 @@
       "destacada": false,
       "tema": "ángeles",
       "fecha": "Tue, 13 Oct 26 11:09:00 +0200",
-      "id": 32
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -430,7 +521,7 @@
       "destacada": false,
       "tema": "propaganda",
       "fecha": "Tue, 13 Oct 26 09:35:00 +0200",
-      "id": 33
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -443,7 +534,7 @@
       "destacada": false,
       "tema": "colmenita",
       "fecha": "Tue, 13 Oct 26 09:23:00 +0200",
-      "id": 34
+      "id": 41
     },
     {
       "categoria": "salud",
@@ -456,7 +547,7 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Tue, 13 Oct 26 08:35:00 +0200",
-      "id": 35
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -469,7 +560,7 @@
       "destacada": false,
       "tema": "miami",
       "fecha": "Tue, 13 Oct 26 07:58:00 +0200",
-      "id": 36
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -482,7 +573,7 @@
       "destacada": false,
       "tema": "recuperar",
       "fecha": "Tue, 13 Oct 26 07:55:00 +0200",
-      "id": 37
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -495,7 +586,7 @@
       "destacada": false,
       "tema": "impacto",
       "fecha": "Tue, 13 Oct 26 07:50:00 +0200",
-      "id": 38
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -508,7 +599,7 @@
       "destacada": false,
       "tema": "finca",
       "fecha": "Tue, 13 Oct 2026 12:44:52 +0000",
-      "id": 39
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -521,7 +612,7 @@
       "destacada": false,
       "tema": "empresaa",
       "fecha": "Tue, 13 Oct 2026 14:48:29 +0000",
-      "id": 40
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -534,7 +625,20 @@
       "destacada": false,
       "tema": "cancelan",
       "fecha": "Tue, 13 Oct 2026 15:25:17 +0000",
-      "id": 41
+      "id": 48
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Exhiben reliquias fundacionales de la ciudad",
+      "resumen": "La exposición titulada \"La Atenas de Cuba, 333 aniversario: Un viaje por nuestras raíces e historia fundacional\", reúne por primera vez las reliquias de la fundación de la ciudad de Matanzas este 12 de octubre en el otrora palacete del Conde de la Diana, ubicado en Calle Milanés no. 25.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/13/reliquias-fundacionales-ciudad-matanzas/",
+      "destacada": false,
+      "tema": "exhiben",
+      "fecha": "Tue, 13 Oct 2026 13:40:35 +0000",
+      "id": 49
     },
     {
       "categoria": "economia",
@@ -547,7 +651,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 10:15:00 GMT",
-      "id": 42
+      "id": 50
     },
     {
       "categoria": "transporte",
@@ -560,7 +664,7 @@
       "destacada": false,
       "tema": "estrena",
       "fecha": "Mon, 12 Oct 2026 23:42:13 GMT",
-      "id": 43
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -573,7 +677,7 @@
       "destacada": false,
       "tema": "estado",
       "fecha": "Mon, 12 Oct 2026 10:30:00 GMT",
-      "id": 44
+      "id": 52
     }
   ]
 }
