@@ -1,8 +1,73 @@
 {
   "fecha": "2026-10-14",
-  "hora": "03:18",
-  "total": 43,
+  "hora": "04:19",
+  "total": 44,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El odio que lacera el derecho a escuchar",
+      "resumen": "La escuela de enseñanza especial René Vilches, en La Habana, vive en su cotidianidad las expresiones inhumanas del bloqueo en la rehabilitación de las infancias con discapacidad auditiva",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-12/el-odio-que-lacera-el-derecho-a-escuchar",
+      "destacada": true,
+      "tema": "lacera",
+      "fecha": "Mon, 12 Oct 2026 20:10:54 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Defender lo nuestro",
+      "resumen": "Como parte de la Jornada de la Cultura Cubana ha sido concebido un programa en el que la escuela y el barrio deben ser beneficiarios y protagonistas",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-13/jornada-por-la-cultura-cubana-defender-lo-nuestro-09-10-2026-11-10-39",
+      "destacada": true,
+      "tema": "defender",
+      "fecha": "Tue, 13 Oct 2026 11:10:39 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Más allá de vigilar el tiempo y el clima",
+      "resumen": "Fruto de la fusión del antiguo Observatorio Nacional con el departamento de Meteorología creado quince meses antes por la Academia de Ciencias de Cuba, el 12 de octubre de 1965 fue constituido el Instituto de Meteorología, en ceremonia solemne efectuada en el hemiciclo del Capitolio Nacional",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/ciencia/2026-10-12/mas-alla-de-vigilar-el-tiempo-y-el-clima-12-10-2026-17-10-37",
+      "destacada": true,
+      "tema": "vigilar",
+      "fecha": "Mon, 12 Oct 2026 17:10:37 -0400",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La historia en defensa de la Patria hay que saber contarla",
+      "resumen": "El pasado 10 de octubre, Cuba lanzó la convocatoria a la jornada conmemorativa por el aniversario 68 del Triunfo de la Revolución, que se celebrará el próximo 1ro. de enero&nbsp;en un contexto marcado por el recrudecimiento del bloqueo de Estados Unidos",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-13/la-historia-de-la-terquedad-cubana-en-defensa-de-la-patria-tiene-su-explicacion-y-hay-que-saber-contarla-11-10-2026-09-10-12",
+      "destacada": true,
+      "tema": "historia",
+      "fecha": "Tue, 13 Oct 2026 09:10:12 -0400",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Presentan libro de Fidel Castro en feria internacional mexicana",
+      "resumen": "Ciudad de México, 13 oct (Prensa Latina) La periodista Katiuska Blanco presentó “La Contraofensiva Estratégica. De la Sierra Maestra a Santiago de Cuba”, del líder histórico de la Revolución, Fidel Castro, en la Feria Internacional del Libro del Zócalo, que prosigue hoy en México. The post Presentan",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/13/presentan-libro-de-fidel-castro-en-feria-internacional-mexicana/",
+      "destacada": true,
+      "tema": "presentan",
+      "fecha": "Wed, 14 Oct 2026 03:29:58 +0000",
+      "id": 5
+    },
     {
       "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
@@ -11,10 +76,10 @@
       "resumen": "Las ventas de bienes y servicios caen más de un 32% y casi 400 empresas estatales reportan pérdidas millonarias",
       "imagen_url": "https://static.14ymedio.com/clip/71644b58-55b3-44f2-a779-209e7f0341c9_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/salario-medio-no-llega-10_1_1131917.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 22:00:06 +0000",
-      "id": 1
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -24,10 +89,10 @@
       "resumen": "Un marcador violeta transforma una consigna optimista en el epitafio de una ciudad que ha perdido a buena parte de sus jóvenes",
       "imagen_url": "https://static.14ymedio.com/clip/a4fcc7ef-aaeb-49d0-87b5-c92b29bf32b1_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/habana-corregida-mano-calle-g_1_1131911.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "habana",
       "fecha": "Tue, 13 Oct 2026 18:56:29 +0000",
-      "id": 2
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -37,10 +102,10 @@
       "resumen": "Casi la mitad de los eventos represivos el mes pasado afectó a las personas privadas de libertad, “algunas de las cuales protestaron dentro de los centros de reclusión”",
       "imagen_url": "https://static.14ymedio.com/clip/1a6d33bc-8903-45a8-b316-07e5c6179ba4_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/septiembre-cierra-cuatro-muertos-79_1_1131887.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "septiembre",
       "fecha": "Tue, 13 Oct 2026 09:27:30 +0000",
-      "id": 3
+      "id": 8
     },
     {
       "categoria": "economia",
@@ -50,10 +115,10 @@
       "resumen": "Las nuevas normas permiten la participación de mipymes nacionales y empresas extranjeras en la exploración y producción",
       "imagen_url": "https://static.14ymedio.com/clip/a3da3805-815b-47b3-bc4f-8e05adb92a97_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/habana-atraer-inversiones-privadas-sector_1_1131886.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 12 Oct 2026 21:49:19 +0000",
-      "id": 4
+      "id": 9
     },
     {
       "categoria": "energia",
@@ -63,10 +128,10 @@
       "resumen": "En entrevista con Reuters, el ministro cubano de Energía no ve inconveniente la posible compra de las acciones de Sherritt por un empresario cercano a Trump",
       "imagen_url": "https://static.14ymedio.com/clip/392bb1ce-dbea-46d9-8075-01ca0449aea9_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/levy-niega-vinculos-estatal-enetec_1_1131879.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "niega",
       "fecha": "Mon, 12 Oct 2026 18:50:22 +0000",
-      "id": 5
+      "id": 10
     },
     {
       "categoria": "economia",
@@ -79,98 +144,7 @@
       "destacada": false,
       "tema": "arroz",
       "fecha": "Mon, 12 Oct 2026 15:59:42 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Otra vez se roban los bancos de Plaza de Marte en Santiago de Cuba, apenas dos meses después de su restauración",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e199894-s27061-nid342831-otra-vez-roban-bancos-plaza-marte-santiago-cuba",
-      "destacada": false,
-      "tema": "roban",
-      "fecha": "Wed, 14 Oct 2026 04:09:16 +0200",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubanos denuncian que Rusia los envió a Uzbekistán sin informarles el destino",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e199894-s27061-nid342830-cubanos-denuncian-rusia-envio-uzbekistan-informarles",
-      "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Wed, 14 Oct 2026 03:37:15 +0200",
-      "id": 8
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El dólar alcanza los 793 pesos en Cuba y marca un nuevo máximo mensual: el euro también sigue al alza",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e199894-s27061-nid342828-dolar-alcanza-793-pesos-cuba-marca-nuevo-maximo",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Wed, 14 Oct 2026 02:49:46 +0200",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubano enseña su realidad en Brasil mientras ayuda a los suyos en la isla",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e199894-s27061-nid342827-cubano-ensena-realidad-brasil-mientras-ayuda-suyos",
-      "destacada": false,
-      "tema": "cubano",
-      "fecha": "Wed, 14 Oct 2026 02:34:32 +0200",
-      "id": 10
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubano condenado por homicidio entre \"lo peor de lo peor\" de ICE",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e199894-s27061-nid342826-cubano-condenado-homicidio-peor-peor-ice",
-      "destacada": false,
-      "tema": "cubano",
-      "fecha": "Wed, 14 Oct 2026 02:26:37 +0200",
       "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Guardia Costera de EE.UU. repatria a seis personas a Cuba tras dos operaciones en el estrecho de Florida",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e208933-s27061-nid342824-guardia-costera-eeuu-repatria-seis-personas-cuba",
-      "destacada": false,
-      "tema": "guardia",
-      "fecha": "Wed, 14 Oct 2026 01:57:19 +0200",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Identifican al cubano rescatado en una diminuta balsa frente a Key Biscayne",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e208933-s27061-nid342823-identifican-al-cubano-rescatado-diminuta-balsa",
-      "destacada": false,
-      "tema": "identifican",
-      "fecha": "Wed, 14 Oct 2026 01:39:39 +0200",
-      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -183,7 +157,7 @@
       "destacada": false,
       "tema": "lanzan",
       "fecha": "Mon, 12 Oct 2026 21:14:02 +0000",
-      "id": 14
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -196,7 +170,7 @@
       "destacada": false,
       "tema": "operación",
       "fecha": "Tue, 13 Oct 2026 18:57:09 +0000",
-      "id": 15
+      "id": 13
     },
     {
       "categoria": "economia",
@@ -209,7 +183,7 @@
       "destacada": false,
       "tema": "rostro",
       "fecha": "Tue, 13 Oct 2026 13:40:27 +0000",
-      "id": 16
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -222,7 +196,7 @@
       "destacada": false,
       "tema": "guardia",
       "fecha": "Wed, 14 Oct 2026 01:14:37 +0200",
-      "id": 17
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -235,7 +209,7 @@
       "destacada": false,
       "tema": "cancela",
       "fecha": "Tue, 13 Oct 2026 23:47:39 +0200",
-      "id": 18
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -248,7 +222,7 @@
       "destacada": false,
       "tema": "eventos",
       "fecha": "Tue, 13 Oct 2026 22:55:07 +0200",
-      "id": 19
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -261,7 +235,7 @@
       "destacada": false,
       "tema": "rubio",
       "fecha": "Tue, 13 Oct 2026 20:56:42 +0200",
-      "id": 20
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -274,7 +248,7 @@
       "destacada": false,
       "tema": "fallece",
       "fecha": "Tue, 13 Oct 2026 20:37:22 +0200",
-      "id": 21
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -287,7 +261,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 13 Oct 2026 19:53:59 +0200",
-      "id": 22
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -300,7 +274,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 19:30:03 +0200",
-      "id": 23
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -313,7 +287,7 @@
       "destacada": false,
       "tema": "pablo",
       "fecha": "Tue, 13 Oct 2026 18:59:57 +0200",
-      "id": 24
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -326,7 +300,7 @@
       "destacada": false,
       "tema": "ocurrió",
       "fecha": "Tue, 13 Oct 2026 18:01:42 +0200",
-      "id": 25
+      "id": 23
     },
     {
       "categoria": "energia",
@@ -339,7 +313,20 @@
       "destacada": false,
       "tema": "multas",
       "fecha": "Tue, 13 Oct 2026 15:56:55 +0200",
-      "id": 26
+      "id": 24
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al Día",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480922.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Wed, 14 Oct 2026 00:00:30 -0400",
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -352,7 +339,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Tue, 13 Oct 2026 20:00:00 -0400",
-      "id": 27
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -365,7 +352,7 @@
       "destacada": false,
       "tema": "suman",
       "fecha": "Tue, 13 Oct 2026 17:33:32 -0400",
-      "id": 28
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -378,7 +365,7 @@
       "destacada": false,
       "tema": "ayotzinapa",
       "fecha": "Tue, 13 Oct 26 22:49:00 +0200",
-      "id": 29
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -391,7 +378,7 @@
       "destacada": false,
       "tema": "represión",
       "fecha": "Tue, 13 Oct 26 22:46:00 +0200",
-      "id": 30
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -404,7 +391,7 @@
       "destacada": false,
       "tema": "ángeles",
       "fecha": "Tue, 13 Oct 26 11:09:00 +0200",
-      "id": 31
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -417,7 +404,7 @@
       "destacada": false,
       "tema": "propaganda",
       "fecha": "Tue, 13 Oct 26 09:35:00 +0200",
-      "id": 32
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -430,7 +417,7 @@
       "destacada": false,
       "tema": "colmenita",
       "fecha": "Tue, 13 Oct 26 09:23:00 +0200",
-      "id": 33
+      "id": 32
     },
     {
       "categoria": "salud",
@@ -443,7 +430,7 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Tue, 13 Oct 26 08:35:00 +0200",
-      "id": 34
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -456,7 +443,7 @@
       "destacada": false,
       "tema": "miami",
       "fecha": "Tue, 13 Oct 26 07:58:00 +0200",
-      "id": 35
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -469,7 +456,7 @@
       "destacada": false,
       "tema": "recuperar",
       "fecha": "Tue, 13 Oct 26 07:55:00 +0200",
-      "id": 36
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -482,6 +469,19 @@
       "destacada": false,
       "tema": "impacto",
       "fecha": "Tue, 13 Oct 26 07:50:00 +0200",
+      "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.guerrillero.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Finca El Abra: Dulce remanso de José Martí",
+      "resumen": "El Museo Finca El Abra celebra este 28 de enero el 80 aniversario de su fundación, inaugurado en 1944, al cumplirse el 91 aniversario del natalicio de José Martí. Este sitio sagrado de la historia pinera y cubana, fue la primera institución museística creada en la Isla, con la peculiaridad de ser cu",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/finca-el-abra-dulce-remanso-de-jose-marti/",
+      "destacada": false,
+      "tema": "finca",
+      "fecha": "Tue, 13 Oct 2026 12:44:52 +0000",
       "id": 37
     },
     {
@@ -511,6 +511,19 @@
       "id": 39
     },
     {
+      "categoria": "transporte",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Exhiben reliquias fundacionales de la ciudad",
+      "resumen": "La exposición titulada \"La Atenas de Cuba, 333 aniversario: Un viaje por nuestras raíces e historia fundacional\", reúne por primera vez las reliquias de la fundación de la ciudad de Matanzas este 12 de octubre en el otrora palacete del Conde de la Diana, ubicado en Calle Milanés no. 25.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/13/reliquias-fundacionales-ciudad-matanzas/",
+      "destacada": false,
+      "tema": "exhiben",
+      "fecha": "Tue, 13 Oct 2026 13:40:35 +0000",
+      "id": 40
+    },
+    {
       "categoria": "economia",
       "fuente": "https://eltoque.com",
       "fuente_tipo": "alternativa",
@@ -521,7 +534,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 10:15:00 GMT",
-      "id": 40
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -534,7 +547,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Tue, 13 Oct 2026 10:00:00 GMT",
-      "id": 41
+      "id": 42
     },
     {
       "categoria": "transporte",
@@ -547,7 +560,7 @@
       "destacada": false,
       "tema": "estrena",
       "fecha": "Mon, 12 Oct 2026 23:42:13 GMT",
-      "id": 42
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -560,7 +573,7 @@
       "destacada": false,
       "tema": "estado",
       "fecha": "Mon, 12 Oct 2026 10:30:00 GMT",
-      "id": 43
+      "id": 44
     }
   ]
 }
