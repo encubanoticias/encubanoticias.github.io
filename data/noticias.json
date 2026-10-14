@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-14",
-  "hora": "19:24",
-  "total": 55,
+  "hora": "21:18",
+  "total": 65,
   "noticias": [
     {
       "categoria": "politica",
@@ -72,26 +72,26 @@
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba invita a participar en Simposio de Investigación Cultural",
-      "resumen": "La Habana, 14 oct (Prensa Latina) Con líneas temáticas como patrimonio y cultura popular tradicional, se mantiene abierta hoy aquí la convocatoria para el II Simposio Internacional de Investigación Cultural, una oportunidad para especialistas y estudiosos interesados de todo el mundo. The post Cuba ",
+      "titulo": "Repudio al bloqueo de EEUU contra Cuba encontró eco en Bogotá",
+      "resumen": "Bogotá, 14 oct (Prensa Latina) El repudio al bloqueo económico, financiero y comercial impuesto por Estados Unidos contra Cuba se escuchó hoy en la movilización que integrantes de movimientos progresistas de Colombia protagonizaron en esta capital. The post Repudio al bloqueo de EEUU contra Cuba enc",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/14/cuba-invita-a-participar-en-simposio-de-investigacion-cultural/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/14/repudio-al-bloqueo-de-eeuu-contra-cuba-encontro-eco-en-bogota/",
       "destacada": false,
-      "tema": "invita",
-      "fecha": "Wed, 14 Oct 2026 18:34:38 +0000",
+      "tema": "repudio",
+      "fecha": "Wed, 14 Oct 2026 20:58:59 +0000",
       "id": 6
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba presente en feria TTG Travel Experience de Rimini, Italia",
-      "resumen": "Roma, 14 oct (Prensa Latina) Cuba participa en la edición 63 de TTG Travel Experience, uno de los principales eventos profesionales del turismo internacional en Italia, inaugurado hoy en el Rimini Expo Centre, en la ciudad homónima italiana. The post Cuba presente en feria TTG Travel Experience de R",
+      "titulo": "Villa Clara rompe mala racha en béisbol cubano al noquear a Matanzas",
+      "resumen": "Santa Clara, Cuba, 14 oct (Prensa Latina) El equipo Villa Clara de béisbol cortó hoy una mala racha, cuando doblegó por nocaut de 10 carreras por cero al Líder del grupo Matanzas, en desafió celebrado en el estadio Augusto César Sandino de esta ciudad. The post Villa Clara rompe mala racha en béisbo",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/14/cuba-presente-en-feria-ttg-travel-experience-de-rimini-italia/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/14/villa-clara-rompe-mala-racha-en-beisbol-cubano-al-noquear-a-matanzas/",
       "destacada": false,
-      "tema": "presente",
-      "fecha": "Wed, 14 Oct 2026 18:29:07 +0000",
+      "tema": "villa",
+      "fecha": "Wed, 14 Oct 2026 20:54:58 +0000",
       "id": 7
     },
     {
@@ -108,6 +108,19 @@
       "id": 8
     },
     {
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Muere otro joven durante el Servicio Militar en Cuba tras sufrir una descarga eléctrica",
+      "resumen": "Raudel Alejandro Guerra Hernández, de 19 años, es el tercer recluta desde septiembre que fallece mientras cumplía el SMA",
+      "imagen_url": "https://static.14ymedio.com/clip/7427a209-166b-4380-b96d-4c316232b2dc_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/muere-joven-durante-servicio-militar_1_1131944.html",
+      "destacada": false,
+      "tema": "muere",
+      "fecha": "Wed, 14 Oct 2026 19:22:35 +0000",
+      "id": 9
+    },
+    {
       "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -118,19 +131,6 @@
       "destacada": false,
       "tema": "aumento",
       "fecha": "Wed, 14 Oct 2026 15:30:42 +0000",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Guardia Costera de EE UU intercepta y repatría a cuatro pescadores y dos balseros cubanos",
-      "resumen": "Otro de los migrantes debió ser trasladado a tierra para recibir atención médica especializada",
-      "imagen_url": "https://static.14ymedio.com/clip/335d93cc-55a3-420d-9cc9-9c7a0977cc5b_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/migracion/guardia-costera-ee-uu-intercepta_1_1131941.html",
-      "destacada": false,
-      "tema": "guardia",
-      "fecha": "Wed, 14 Oct 2026 17:26:28 +0000",
       "id": 10
     },
     {
@@ -176,66 +176,105 @@
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba tiene un terreno en Florida desde hace 70 años: ¿puede el régimen venderlo, utilizarlo o reclamar su control?",
+      "titulo": "Sin pasaporte y con temor a la deportación: El drama de cubanos en Serbia",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e135253-s27061-nid342895-cuba-tiene-terreno-florida-hace-70-anos-puede",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e208512-s27061-nid342911-pasaporte-temor-deportacion-drama-cubanos-serbia",
       "destacada": false,
-      "tema": "terreno",
-      "fecha": "Wed, 14 Oct 2026 19:45:25 +0200",
+      "tema": "pasaporte",
+      "fecha": "Wed, 14 Oct 2026 22:05:18 +0200",
       "id": 14
     },
     {
-      "categoria": "energia",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "De mal en peor: termoeléctrica Antonio Guiteras vuelve a salir de servicio en Cuba",
+      "titulo": "Enderezar la historia de Cuba: Lo que no nos contaron",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e129488-s27061-nid342898-mal-peor-termoelectrica-antonio-guiteras-vuelve",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u209407-e192519-s27068-nid342908-enderezar-historia-cuba-nos-contaron",
       "destacada": false,
-      "tema": "termoeléctrica",
-      "fecha": "Wed, 14 Oct 2026 19:40:02 +0200",
+      "tema": "enderezar",
+      "fecha": "Wed, 14 Oct 2026 22:00:07 +0200",
       "id": 15
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Madre denuncia que le exigen 500,000 pesos de fianza por su hijo de 16 años detenido en La Habana",
+      "titulo": "Condenan a joven cubano a siete años de cárcel en Uruguay tras hallarle casi 22 kilos de cocaína en un auto",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e208933-s27061-nid342893-madre-denuncia-le-exigen-500000-pesos-fianza-hijo-16",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e208933-s27061-nid342904-condenan-joven-cubano-siete-anos-carcel-uruguay-tras",
       "destacada": false,
-      "tema": "madre",
-      "fecha": "Wed, 14 Oct 2026 19:30:40 +0200",
+      "tema": "condenan",
+      "fecha": "Wed, 14 Oct 2026 21:57:53 +0200",
       "id": 16
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Muere joven cubano de 19 años durante el Servicio Militar en Matanzas",
+      "titulo": "Hablan familiares de cubano que fue rescatado en una balsa improvisada en aguas frente a Florida",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e129488-s27061-nid342894-muere-joven-cubano-19-anos-durante-servicio-militar",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e129488-s27061-nid342859-hablan-familiares-cubano-fue-rescatado-aguas-frente",
       "destacada": false,
-      "tema": "muere",
-      "fecha": "Wed, 14 Oct 2026 19:19:19 +0200",
+      "tema": "hablan",
+      "fecha": "Wed, 14 Oct 2026 21:57:38 +0200",
       "id": 17
     },
     {
       "categoria": "politica",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Gobierno cubano aprueba nuevo reglamento de la Ley de la Vivienda con medidas para jóvenes y personas vulnerables",
+      "titulo": "Bruno Rodríguez acusa a Marco Rubio de «chantajear» a gobiernos para restar apoyos al régimen en la votación de la ONU sobre el embargo",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e199894-s27061-nid342886-gobierno-cubano-aprueba-nuevo-reglamento-ley",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e199894-s27061-nid342905-bruno-rodriguez-acusa-marco-rubio-chantajear",
       "destacada": false,
-      "tema": "gobierno",
-      "fecha": "Wed, 14 Oct 2026 18:49:41 +0200",
+      "tema": "bruno",
+      "fecha": "Wed, 14 Oct 2026 21:48:26 +0200",
       "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El mundo libre debe estar del lado del pueblo cubano, no con la tiranía",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u208253-e192519-s27068-nid342906-mundo-libre-debe-estar-lado-pueblo-cubano",
+      "destacada": false,
+      "tema": "mundo",
+      "fecha": "Wed, 14 Oct 2026 21:22:15 +0200",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Aeropuerto de La Habana insiste: Las reparaciones en la pista no interrumpen los vuelos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e208933-s27061-nid342902-aeropuerto-habana-insiste-reparaciones-pista",
+      "destacada": false,
+      "tema": "aeropuerto",
+      "fecha": "Wed, 14 Oct 2026 21:15:21 +0200",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Emily Estefan debuta como compositora en el Miami City Ballet con una obra coreografiada por la cubanoamericana Patricia Delgado",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e199894-s27061-nid342900-emily-estefan-debuta-compositora-miami-city-ballet",
+      "destacada": false,
+      "tema": "emily",
+      "fecha": "Wed, 14 Oct 2026 20:55:05 +0200",
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -248,20 +287,111 @@
       "destacada": false,
       "tema": "instituto",
       "fecha": "Wed, 14 Oct 2026 17:18:33 +0000",
-      "id": 19
+      "id": 22
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.radiocubana.cu",
+      "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Lanzan jornada de celebración por aniversario 68 de la Revolución cubana",
-      "resumen": "Cuba lanzó este sábado la convocatoria a la jornada conmemorativa por el aniversario 68 del Triunfo de la Revolución, a celebrarse el próximo 1 de enero en un contexto marcado por el recrudecimiento del bloqueo de Estados Unidos. Al intervenir en el acto por el aniversario 158 del inicio de las guer",
+      "titulo": "Cuba amplía sus derechos en cuanto a la vivienda",
+      "resumen": "La Gaceta Oficial de la República de Cuba publicó este miércoles la Ley 187 \"Ley de la Vivienda\", una norma que amplía los derechos de propiedad, diversifica los mecanismos de acceso, protege a las personas en situación de vulnerabilidad y establece nuevas formas de gestión como las cooperativas de ",
       "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/lanzan-jornada-de-celebracion-por-aniversario-68-de-la-revolucion-cubana/",
+      "enlace_original": "https://www.trabajadores.cu/20261014/cuba-amplia-sus-derechos-en-cuanto-a-la-vivienda/",
       "destacada": false,
-      "tema": "lanzan",
-      "fecha": "Mon, 12 Oct 2026 21:14:02 +0000",
-      "id": 20
+      "tema": "amplía",
+      "fecha": "Wed, 14 Oct 2026 18:41:45 +0000",
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Industrias culturales en Santiago de Cuba asumen ejes de transformaciones económicas",
+      "resumen": "Entre el cinco y el siete de noviembre regresa el Santiago Creativo, festival que busca incrementar y visibilizar buenas prácticas en el ámbito de las industrias culturales creativas",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/industrias-culturales-en-santiago-de-cuba-asumen-ejes-de-transformaciones-economicas/",
+      "destacada": false,
+      "tema": "industrias",
+      "fecha": "Wed, 14 Oct 2026 18:19:19 +0000",
+      "id": 24
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Crece el apoyo a Cuba en el mundo",
+      "resumen": "Representantes de partidos y gobiernos exigen poner fin a la escalada de agresiones económicas que mantiene Washington contra La Habana",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/crece-el-apoyo-a-cuba-en-el-mundo/",
+      "destacada": false,
+      "tema": "crece",
+      "fecha": "Wed, 14 Oct 2026 17:58:23 +0000",
+      "id": 25
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Presentan los libros Donde anida la poesía y conVergencias, de Roberto Chile",
+      "resumen": "Ambos volúmenes constituyen una propuesta artística que confirma la profunda capacidad de la creación cubana para interpretar, interrogar y celebrar su realidad",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/presentan-los-libros-donde-anida-la-poesia-y-convergencias-de-roberto-chile/",
+      "destacada": false,
+      "tema": "presentan",
+      "fecha": "Wed, 14 Oct 2026 15:35:38 +0000",
+      "id": 26
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "ARES inaugura en Mérida un viaje visual por la literatura infantil",
+      "resumen": "La Galería Le Cirque, en Mérida, abrió sus puertas a “Historias ilustradas”, una exposición del artista cubano Arístides Hernández (ARES) que marcó el inicio de la XI edición de la Jornada de la Cultura Cubana en Yucatán",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/ares-inaugura-en-merida-un-viaje-visual-por-la-literatura-infantil/",
+      "destacada": false,
+      "tema": "inaugura",
+      "fecha": "Wed, 14 Oct 2026 14:29:40 +0000",
+      "id": 27
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Evocación en Santiago de Cuba de La historia me absolverá",
+      "resumen": "En uno de los escenarios del proceso judicial, la sala de enfermeras del antiguo hospital civil santiaguero Saturnino Lora, instituciones y organizaciones realizarán jornadas científicas, talleres y actos",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/evocacion-en-santiago-de-cuba-de-la-historia-me-absolvera/",
+      "destacada": false,
+      "tema": "evocación",
+      "fecha": "Wed, 14 Oct 2026 14:19:39 +0000",
+      "id": 28
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Recuerdan inicio de la Guerra de los Diez Años en Las Tunas",
+      "resumen": "La fecha fue rememorada en El Hormiguero, lugar donde Vicente García González reunió a la tropa y los convocó a luchar por la independencia de Cuba",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/recuerdan-inicio-de-la-guerra-de-los-diez-anos-en-las-tunas/",
+      "destacada": false,
+      "tema": "recuerdan",
+      "fecha": "Wed, 14 Oct 2026 14:05:26 +0000",
+      "id": 29
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "'Salidero en el economizador': la Guiteras vuelve a salir del sistema y agrava los apagones en Cuba",
+      "resumen": "La termoeléctrica Antonio Guiteras sufre su avería número 24 en 2026 y agrava los #apagones en #Cuba. Se trata de un \"salidero en el economizador\" que tardará varios días en ser solucionado.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792009529_69394.html",
+      "destacada": false,
+      "tema": "salidero",
+      "fecha": "Wed, 14 Oct 2026 22:25:29 +0200",
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -274,7 +404,7 @@
       "destacada": false,
       "tema": "llega",
       "fecha": "Wed, 14 Oct 2026 20:32:07 +0200",
-      "id": 21
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -287,7 +417,7 @@
       "destacada": false,
       "tema": "imputan",
       "fecha": "Wed, 14 Oct 2026 20:07:24 +0200",
-      "id": 22
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -300,7 +430,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Wed, 14 Oct 2026 19:22:07 +0200",
-      "id": 23
+      "id": 33
     },
     {
       "categoria": "economia",
@@ -313,7 +443,7 @@
       "destacada": false,
       "tema": "pensión",
       "fecha": "Wed, 14 Oct 2026 18:00:09 +0200",
-      "id": 24
+      "id": 34
     },
     {
       "categoria": "salud",
@@ -326,7 +456,7 @@
       "destacada": false,
       "tema": "editorial",
       "fecha": "Wed, 14 Oct 2026 16:37:07 +0200",
-      "id": 25
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -339,7 +469,7 @@
       "destacada": false,
       "tema": "bensi",
       "fecha": "Wed, 14 Oct 2026 15:57:40 +0200",
-      "id": 26
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -352,85 +482,72 @@
       "destacada": false,
       "tema": "yoriorkis",
       "fecha": "Wed, 14 Oct 2026 14:24:13 +0200",
-      "id": 27
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Médicos cubanos en el extranjero: entre trabas a la habilitación profesional y obstáculos para ejercer",
-      "resumen": "#MédicosCubanos enfrentan obstáculos para ejercer de forma independiente en el exterior porque #LaHabana no les entrega sus certificados profesionales. ¿Cuáles son sus opciones?",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791976287_69330.html",
-      "destacada": false,
-      "tema": "médicos",
-      "fecha": "Wed, 14 Oct 2026 13:11:27 +0200",
-      "id": 28
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las noticias como son",
-      "resumen": "Amado Gil y José Luis Ramos, en tertulia con Reinaldo Escobar y José Luis Tan Estrada, abordan la crisis en Cuba con un salario promedio que no llega a los 10 dólares. Ana Bensi responde al régimen con la misma moneda con la que la condenaron. Y ya se publico nueva ley de vivienda.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/las-noticias-como-son/481961.html",
-      "destacada": false,
-      "tema": "noticias",
-      "fecha": "Wed, 14 Oct 2026 15:07:39 -0400",
-      "id": 29
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "EEUU se anticipa a votación anual de la ONU sobre el embargo a Cuba",
-      "resumen": "Juan Pablo Segura, subsecretario de Estado de Estados Unidos para Asuntos del Hemisferio Occidental, alertó sobre la próxima resolución que el régimen de La Habana presentará en la Asamblea General de la ONU, relacionada al embargo a la isla.\"La economía cubana sobrevivía exclusivamente gracias a la",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481959.html",
-      "destacada": false,
-      "tema": "anticipa",
-      "fecha": "Wed, 14 Oct 2026 14:27:09 -0400",
-      "id": 30
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día con Miguel Cossío",
-      "resumen": "Un nuevo libro de investigación, The Havana Syndrome, reabre el debate sobre los incidentes que afectaron a diplomáticos y funcionarios estadounidenses en Cuba y otros países",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480933.html",
-      "destacada": false,
-      "tema": "miguel",
-      "fecha": "Wed, 14 Oct 2026 14:00:00 -0400",
-      "id": 31
+      "id": 37
     },
     {
       "categoria": "politica",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "¿Qué hay detrás de la nueva ley del petróleo en Cuba?: expertos opinan",
-      "resumen": "El gobierno cubano aprobó el Decreto-Ley 135/2026 “De Petróleo y Gas” y su reglamento, que entran en vigor el 19 de octubre, derogando normas de 1938 y 1959 y abriendo la exploración y explotación de hidrocarburos a inversionistas extranjeros y actores privados nacionales.",
+      "titulo": "Cientos de cubanos piden a gobiernos democráticos votar contra resolución de La Habana en la ONU (VIDEO)",
+      "resumen": "Líderes de organizaciones opositoras cubanas dieron a conocer un documento dirigido a los gobiernos democráticos del mundo en el que solicitan que rechacen la resolución que el régimen de Cuba tiene previsto presentar los días 27 y 28 de octubre ante la Asamblea General de las Naciones Unidas, en el",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/qu%c3%a9-hay-detr%c3%a1s-de-la-nueva-ley-del-petr%c3%b3leo-en-cuba-expertos-opinan/481888.html",
+      "enlace_original": "https://www.martinoticias.com/a/481964.html",
       "destacada": false,
-      "tema": "detrás",
-      "fecha": "Wed, 14 Oct 2026 13:50:33 -0400",
-      "id": 32
+      "tema": "cientos",
+      "fecha": "Wed, 14 Oct 2026 17:09:48 -0400",
+      "id": 38
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El cubano Andy Pagés es finalista al Guante de Oro como jardinero central",
-      "resumen": "Andy Pagés, de los Dodgers, fue nominado finalista al Guante de Oro en el jardín central de la Liga Nacional, junto a Pete Crow-Armstrong y Michael Harris II.",
+      "titulo": "Noticiero de Radio Martí 5:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/el-cubano-andy-pages-es-finalista-al-guante-de-oro-como-jardinero-central/481956.html",
+      "enlace_original": "https://www.martinoticias.com/a/480945.html",
       "destacada": false,
-      "tema": "cubano",
-      "fecha": "Wed, 14 Oct 2026 13:28:31 -0400",
-      "id": 33
+      "tema": "noticiero",
+      "fecha": "Wed, 14 Oct 2026 17:00:30 -0400",
+      "id": 39
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Sale nuevamente de servicio la Termoeléctrica Antonio Guiteras",
+      "resumen": "La Central Termoeléctrica Antonio Guiteras, la principal fuente de generación eléctrica de Cuba, salió de servicio este miércoles debido a un salidero en el economizador.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/sale-nuevamente-de-servicio-la-termoel%c3%a9ctrica-antonio-guiteras/481971.html",
+      "destacada": false,
+      "tema": "nuevamente",
+      "fecha": "Wed, 14 Oct 2026 16:23:47 -0400",
+      "id": 40
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Las Noticias Como Son",
+      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480939.html",
+      "destacada": false,
+      "tema": "noticias",
+      "fecha": "Wed, 14 Oct 2026 16:05:30 -0400",
+      "id": 41
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "A 15 años de la muerte de Laura Pollán, destacan su legado en favor de los prisioneros políticos",
+      "resumen": "A 15 años de la muerte de Laura Pollán Toledo, fundadora de las Damas de Blanco, la actual líder del movimiento, Berta Soler, recordó su legado y denunció que la situación de los presos políticos y la crisis en Cuba mantienen vigente la causa que ella impulsó.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/a-15-a%c3%b1os-de-la-muerte-de-laura-poll%c3%a1n-destacan-su-legado-en-favor-de-los-prisioneros-pol%c3%adticos/481960.html",
+      "destacada": false,
+      "tema": "muerte",
+      "fecha": "Wed, 14 Oct 2026 15:34:16 -0400",
+      "id": 42
     },
     {
       "categoria": "politica",
@@ -443,20 +560,7 @@
       "destacada": false,
       "tema": "canciller",
       "fecha": "Wed, 14 Oct 2026 18:30:59 +0000",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba publica una nueva Ley de la Vivienda: ¿qué cambia? (+ PDF)",
-      "resumen": "A 66 años de la promulgación, el 14 de octubre de 1960, de la primera Ley de Reforma Urbana en Cuba, el país publicó este miércoles la Ley 187 de la Vivienda, una nueva normativa a tono con la realidad actual del país e internacional que regula el acceso, la construcción, el uso, la conservación y l",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/14/cuba-publica-una-nueva-ley-de-la-vivienda-que-cambia/",
-      "destacada": false,
-      "tema": "publica",
-      "fecha": "Wed, 14 Oct 2026 14:33:48 +0000",
-      "id": 35
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -469,7 +573,20 @@
       "destacada": false,
       "tema": "marco",
       "fecha": "Wed, 14 Oct 26 20:28:00 +0200",
-      "id": 36
+      "id": 44
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba publica una nueva Ley de la Vivienda: ¿qué cambia? (+ PDF)",
+      "resumen": "El Capitolio majestuoso dominando el centro histórico. Foto: Abel Padrón Padilla/ Cubadebate....",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125491-cuba-publica-una-nueva-ley-de-la-vivienda-que-cambia-pdf.jpg?t=1792002462",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261014/125491/125491-cuba-publica-una-nueva-ley-de-la-vivienda-que-cambia-pdf",
+      "destacada": false,
+      "tema": "publica",
+      "fecha": "Wed, 14 Oct 26 20:27:00 +0200",
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -482,7 +599,7 @@
       "destacada": false,
       "tema": "historia",
       "fecha": "Wed, 14 Oct 26 17:19:00 +0200",
-      "id": 37
+      "id": 46
     },
     {
       "categoria": "energia",
@@ -495,7 +612,7 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Wed, 14 Oct 26 11:19:00 +0200",
-      "id": 38
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -508,7 +625,7 @@
       "destacada": false,
       "tema": "abracemos",
       "fecha": "Wed, 14 Oct 26 07:37:00 +0200",
-      "id": 39
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -521,7 +638,7 @@
       "destacada": false,
       "tema": "félix",
       "fecha": "Wed, 14 Oct 26 07:30:00 +0200",
-      "id": 40
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -534,7 +651,7 @@
       "destacada": false,
       "tema": "cipayos",
       "fecha": "Wed, 14 Oct 26 07:29:00 +0200",
-      "id": 41
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -547,7 +664,33 @@
       "destacada": false,
       "tema": "alcántara",
       "fecha": "Wed, 14 Oct 26 06:57:00 +0200",
-      "id": 42
+      "id": 51
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://actualidad.rt.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba denuncia presiones de EE.UU. para que países cambien su voto en la ONU",
+      "resumen": "En los últimos meses, Washington ha arreciado el bloqueo económico y comercial que mantiene contra la isla desde hace más de seis décadas.",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acfe98d59bf5b3d5a257dd2.png",
+      "enlace_original": "https://actualidad-rt.com/actualidad/632510-cuba-denunciar-presiones-eeuu-paises-bloqueo?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "destacada": false,
+      "tema": "denuncia",
+      "fecha": "Wed, 14 Oct 2026 21:01:06 +0000",
+      "id": 52
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://actualidad.rt.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Robo de película: Encapuchados asaltan joyería y escapan entre el humo de los extintores (VIDEO)",
+      "resumen": "Un robo de película se registró la noche del martes 13 de octubre en un centro comercial de la ciudad española de Las Palmas de Gran Canaria. En un video se observa cómo los vigilantes logran capturar a uno de los asaltantes. Sin embargo, medios locales informaron que otros dos encapuchados lograron",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acfe4c759bf5b7c3702433a.jpg",
+      "enlace_original": "https://actualidad-rt.com/viral/632506-robo-pelicula-encapuchados-asaltar-joyeria?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "destacada": false,
+      "tema": "película",
+      "fecha": "Wed, 14 Oct 2026 20:32:22 +0000",
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -560,7 +703,33 @@
       "destacada": false,
       "tema": "finca",
       "fecha": "Tue, 13 Oct 2026 12:44:52 +0000",
-      "id": 43
+      "id": 54
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Alertan bomberos sobre riesgos de tanques plásticos IBC",
+      "resumen": "El Cuerpo de Bomberos de Cuba insistió en la importancia de extremar las medidas de seguridad, especialmente en el almacenamiento de carburantes, y recordó que se requiere autorizo para la transportación y comercialización de estos productos La entrada Alertan bomberos sobre riesgos de tanques plást",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/alertan-bomberos-sobre-riesgos-de-tanques-plasticos-ibc/",
+      "destacada": false,
+      "tema": "alertan",
+      "fecha": "Wed, 14 Oct 2026 20:24:35 +0000",
+      "id": 55
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Ratifica Cuba prioridad en atención a enfermedad renal crónica",
+      "resumen": "En el país se atienden 3 856 pacientes con enfermedad renal crónica; 2 876 reciben hemodiálisis —22 en servicios pediátricos— y 900 han sido trasplantados La entrada Ratifica Cuba prioridad en atención a enfermedad renal crónica se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/ratifica-cuba-prioridad-en-atencion-a-enfermedad-renal-cronica/",
+      "destacada": false,
+      "tema": "ratifica",
+      "fecha": "Wed, 14 Oct 2026 20:02:26 +0000",
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -573,7 +742,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Wed, 14 Oct 2026 15:35:27 +0000",
-      "id": 44
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -586,59 +755,20 @@
       "destacada": false,
       "tema": "entregan",
       "fecha": "Wed, 14 Oct 2026 15:40:59 +0000",
-      "id": 45
+      "id": 58
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
+      "fuente": "https://eltoque.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Empresa de Gas Manufacturado informa sobre interrupción del servicio en la red Habana",
-      "resumen": "Incluye los municipios Plaza de la Revolución, La Habana Vieja, Centro Habana, Cerro y 10 de Octubre, desde el martes 13 de octubre a las 22:00 horas hasta las primeras horas de la mañana del miércoles 14 de octubre La entrada Empresa de Gas Manufacturado informa sobre interrupción del servicio en l",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/empresa-de-gas-manufacturado-informa-sobre-interrupcion-del-servicio-en-la-red-habana/",
+      "titulo": "Fiscalía pide hasta diez años de cárcel para disidentes de Granma por videos críticos, chats y recargas de celular",
+      "resumen": "La Fiscalía de Granma pide entre cinco y diez años de cárcel para cuatro acusados de estar vinculados a la organización Cuba Primero por videos, mensajes de WhatsApp y recargas telefónicas.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/09_10_2026_cuba_primero_granma_presos_politicos_cuba_740f70a991.jpg",
+      "enlace_original": "https://eltoque.com/fiscalia-pide-carcel-para-disidentes-de-granma",
       "destacada": false,
-      "tema": "empresa",
-      "fecha": "Tue, 13 Oct 2026 14:48:29 +0000",
-      "id": 46
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Más transporte… ¿para todos?",
-      "resumen": "Una guagua que antes podía costar 10 pesos ahora cobra 700. Para quien recibe un salario en pesos cubanos y tiene que repartirlo entre comida, medicamentos y todo lo demás que cuesta vivir, la cuenta del viaje deja de ser una cuenta de transporte. Se convierte en una decisión.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/14/mas-transporte-para-todos/",
-      "destacada": false,
-      "tema": "transporte",
-      "fecha": "Wed, 14 Oct 2026 12:54:00 +0000",
-      "id": 47
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Lo que no puede quedar Apartado",
-      "resumen": "El periodismo crítico en Cuba enfrenta un grave obstáculo: el silencio de directivos y funcionarios ante las denuncias ciudadanas. Apartado 1433, decana sección de opinión, lo evidencia. Sin respuestas ágiles y reales, la confianza en las instituciones se pierde. No perdamos la brújula de la histori",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/14/lo-que-no-puede-quedar-apartado/",
-      "destacada": false,
-      "tema": "quedar",
-      "fecha": "Wed, 14 Oct 2026 12:44:00 +0000",
-      "id": 48
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Exhiben reliquias fundacionales de la ciudad",
-      "resumen": "La exposición titulada \"La Atenas de Cuba, 333 aniversario: Un viaje por nuestras raíces e historia fundacional\", reúne por primera vez las reliquias de la fundación de la ciudad de Matanzas este 12 de octubre en el otrora palacete del Conde de la Diana, ubicado en Calle Milanés no. 25.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/13/reliquias-fundacionales-ciudad-matanzas/",
-      "destacada": false,
-      "tema": "exhiben",
-      "fecha": "Tue, 13 Oct 2026 13:40:35 +0000",
-      "id": 49
+      "tema": "fiscalía",
+      "fecha": "Wed, 14 Oct 2026 19:30:00 GMT",
+      "id": 59
     },
     {
       "categoria": "sociedad",
@@ -651,7 +781,7 @@
       "destacada": false,
       "tema": "podrán",
       "fecha": "Wed, 14 Oct 2026 15:45:00 GMT",
-      "id": 50
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -664,7 +794,7 @@
       "destacada": false,
       "tema": "bolita",
       "fecha": "Wed, 14 Oct 2026 14:42:46 GMT",
-      "id": 51
+      "id": 61
     },
     {
       "categoria": "economia",
@@ -677,7 +807,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 14 Oct 2026 14:42:22 GMT",
-      "id": 52
+      "id": 62
     },
     {
       "categoria": "economia",
@@ -690,7 +820,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 10:15:00 GMT",
-      "id": 53
+      "id": 63
     },
     {
       "categoria": "sociedad",
@@ -703,7 +833,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Tue, 13 Oct 2026 10:00:00 GMT",
-      "id": 54
+      "id": 64
     },
     {
       "categoria": "transporte",
@@ -716,7 +846,7 @@
       "destacada": false,
       "tema": "estrena",
       "fecha": "Mon, 12 Oct 2026 23:42:13 GMT",
-      "id": 55
+      "id": 65
     }
   ]
 }
