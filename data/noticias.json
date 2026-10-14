@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-14",
-  "hora": "04:19",
-  "total": 44,
+  "hora": "06:19",
+  "total": 50,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -56,19 +56,6 @@
       "id": 4
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Presentan libro de Fidel Castro en feria internacional mexicana",
-      "resumen": "Ciudad de México, 13 oct (Prensa Latina) La periodista Katiuska Blanco presentó “La Contraofensiva Estratégica. De la Sierra Maestra a Santiago de Cuba”, del líder histórico de la Revolución, Fidel Castro, en la Feria Internacional del Libro del Zócalo, que prosigue hoy en México. The post Presentan",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/13/presentan-libro-de-fidel-castro-en-feria-internacional-mexicana/",
-      "destacada": true,
-      "tema": "presentan",
-      "fecha": "Wed, 14 Oct 2026 03:29:58 +0000",
-      "id": 5
-    },
-    {
       "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -76,10 +63,10 @@
       "resumen": "Las ventas de bienes y servicios caen más de un 32% y casi 400 empresas estatales reportan pérdidas millonarias",
       "imagen_url": "https://static.14ymedio.com/clip/71644b58-55b3-44f2-a779-209e7f0341c9_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/salario-medio-no-llega-10_1_1131917.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 22:00:06 +0000",
-      "id": 6
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -92,7 +79,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Tue, 13 Oct 2026 18:56:29 +0000",
-      "id": 7
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -105,7 +92,7 @@
       "destacada": false,
       "tema": "septiembre",
       "fecha": "Tue, 13 Oct 2026 09:27:30 +0000",
-      "id": 8
+      "id": 7
     },
     {
       "categoria": "economia",
@@ -118,7 +105,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 12 Oct 2026 21:49:19 +0000",
-      "id": 9
+      "id": 8
     },
     {
       "categoria": "energia",
@@ -131,7 +118,7 @@
       "destacada": false,
       "tema": "niega",
       "fecha": "Mon, 12 Oct 2026 18:50:22 +0000",
-      "id": 10
+      "id": 9
     },
     {
       "categoria": "economia",
@@ -144,7 +131,98 @@
       "destacada": false,
       "tema": "arroz",
       "fecha": "Mon, 12 Oct 2026 15:59:42 +0000",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Bomberos de Cuba alertan sobre el peligro de almacenar combustible en tanques plásticos tras reciente incendio",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e199894-s27061-nid342835-bomberos-cuba-alertan-peligro-almacenar-combustible",
+      "destacada": false,
+      "tema": "bomberos",
+      "fecha": "Wed, 14 Oct 2026 06:08:35 +0200",
       "id": 11
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "USCIS dejará de dar por buenas aprobaciones previas al renovar visas de trabajo: lo que cambia para cubanos con H-1B, L-1 u O-1",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e199894-s27061-nid342832-uscis-dejara-dar-buenas-aprobaciones-previas-al",
+      "destacada": false,
+      "tema": "uscis",
+      "fecha": "Wed, 14 Oct 2026 05:31:51 +0200",
+      "id": 12
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Otra vez se roban los bancos de Plaza de Marte en Santiago de Cuba, apenas dos meses después de su restauración",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e199894-s27061-nid342831-otra-vez-roban-bancos-plaza-marte-santiago-cuba",
+      "destacada": false,
+      "tema": "roban",
+      "fecha": "Wed, 14 Oct 2026 04:09:16 +0200",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubanos denuncian que Rusia los envió a Uzbekistán sin informarles el destino",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e199894-s27061-nid342830-cubanos-denuncian-rusia-envio-uzbekistan-informarles",
+      "destacada": false,
+      "tema": "cubanos",
+      "fecha": "Wed, 14 Oct 2026 03:37:15 +0200",
+      "id": 14
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El dólar alcanza los 793 pesos en Cuba y marca un nuevo máximo mensual: el euro también sigue al alza",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e199894-s27061-nid342828-dolar-alcanza-793-pesos-cuba-marca-nuevo-maximo",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Wed, 14 Oct 2026 02:49:46 +0200",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubano enseña su realidad en Brasil mientras ayuda a los suyos en la isla",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e199894-s27061-nid342827-cubano-ensena-realidad-brasil-mientras-ayuda-suyos",
+      "destacada": false,
+      "tema": "cubano",
+      "fecha": "Wed, 14 Oct 2026 02:34:32 +0200",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubano condenado por homicidio entre \"lo peor de lo peor\" de ICE",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e199894-s27061-nid342826-cubano-condenado-homicidio-peor-peor-ice",
+      "destacada": false,
+      "tema": "cubano",
+      "fecha": "Wed, 14 Oct 2026 02:26:37 +0200",
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -157,7 +235,7 @@
       "destacada": false,
       "tema": "lanzan",
       "fecha": "Mon, 12 Oct 2026 21:14:02 +0000",
-      "id": 12
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -170,7 +248,7 @@
       "destacada": false,
       "tema": "operación",
       "fecha": "Tue, 13 Oct 2026 18:57:09 +0000",
-      "id": 13
+      "id": 19
     },
     {
       "categoria": "economia",
@@ -183,7 +261,7 @@
       "destacada": false,
       "tema": "rostro",
       "fecha": "Tue, 13 Oct 2026 13:40:27 +0000",
-      "id": 14
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -196,7 +274,7 @@
       "destacada": false,
       "tema": "guardia",
       "fecha": "Wed, 14 Oct 2026 01:14:37 +0200",
-      "id": 15
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -209,7 +287,7 @@
       "destacada": false,
       "tema": "cancela",
       "fecha": "Tue, 13 Oct 2026 23:47:39 +0200",
-      "id": 16
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -222,7 +300,7 @@
       "destacada": false,
       "tema": "eventos",
       "fecha": "Tue, 13 Oct 2026 22:55:07 +0200",
-      "id": 17
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -235,7 +313,7 @@
       "destacada": false,
       "tema": "rubio",
       "fecha": "Tue, 13 Oct 2026 20:56:42 +0200",
-      "id": 18
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -248,7 +326,7 @@
       "destacada": false,
       "tema": "fallece",
       "fecha": "Tue, 13 Oct 2026 20:37:22 +0200",
-      "id": 19
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -261,7 +339,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 13 Oct 2026 19:53:59 +0200",
-      "id": 20
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -274,7 +352,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 19:30:03 +0200",
-      "id": 21
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -287,7 +365,7 @@
       "destacada": false,
       "tema": "pablo",
       "fecha": "Tue, 13 Oct 2026 18:59:57 +0200",
-      "id": 22
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -300,7 +378,7 @@
       "destacada": false,
       "tema": "ocurrió",
       "fecha": "Tue, 13 Oct 2026 18:01:42 +0200",
-      "id": 23
+      "id": 29
     },
     {
       "categoria": "energia",
@@ -313,7 +391,7 @@
       "destacada": false,
       "tema": "multas",
       "fecha": "Tue, 13 Oct 2026 15:56:55 +0200",
-      "id": 24
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -326,7 +404,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Wed, 14 Oct 2026 00:00:30 -0400",
-      "id": 25
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -339,7 +417,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Tue, 13 Oct 2026 20:00:00 -0400",
-      "id": 26
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -352,124 +430,124 @@
       "destacada": false,
       "tema": "suman",
       "fecha": "Tue, 13 Oct 2026 17:33:32 -0400",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Ayotzinapa y el nuevo informe",
-      "resumen": "Cristóbal León Campos - Cubainformación.- Un par de días después de cumplirse 12 años del crimen de...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125471-ayotzinapa-y-el-nuevo-informe.jpg?t=1791924598",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261013/125471/125471-ayotzinapa-y-el-nuevo-informe",
-      "destacada": false,
-      "tema": "ayotzinapa",
-      "fecha": "Tue, 13 Oct 26 22:49:00 +0200",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Agua, represión y privatización",
-      "resumen": "Cristóbal León Campos - Cubainformación.- El agua nuevamente se ha convertido en un tema central de...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125470-agua-represion-y-privatizacion.jpg?t=1791924414",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261013/125470/125470-agua-represion-y-privatizacion",
-      "destacada": false,
-      "tema": "represión",
-      "fecha": "Tue, 13 Oct 26 22:46:00 +0200",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "En Los Ángeles, activistas pro-Palestina apoyaron el fin del bloqueo a Cuba",
-      "resumen": "Informando desde Los Ángeles: Mark Friedman, miembro de la International Association of Machinists.....",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125468-en-los-angeles-activistas-pro-palestina-apoyaron-el-fin-del-bloqueo-a-cuba.jpg?t=1791882661",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261013/125468/125468-en-los-angeles-activistas-pro-palestina-apoyaron-el-fin-del-bloqueo-a-cuba",
-      "destacada": false,
-      "tema": "ángeles",
-      "fecha": "Tue, 13 Oct 26 11:09:00 +0200",
-      "id": 30
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Propaganda antigubernamental utiliza a exboxeador cubano Félix Savón",
-      "resumen": "Argentino Tellini - Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125467-propaganda-antigubernamental-utiliza-a-exboxeador-cubano-felix-savon.jpg?t=1791876936",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261013/125467/125467-propaganda-antigubernamental-utiliza-a-exboxeador-cubano-felix-savon",
-      "destacada": false,
-      "tema": "propaganda",
-      "fecha": "Tue, 13 Oct 26 09:35:00 +0200",
-      "id": 31
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Colmenita abrazó a Gaza desde La Habana: la solidaridad entre dos pueblos bajo genocidio",
-      "resumen": "La compañía infantil de teatro cubana celebró una jornada de solidaridad con el pueblo palestino, co...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125466-la-colmenita-abrazo-a-gaza-desde-la-habana-la-solidaridad-entre-dos-pueblos-bajo-genocidio.jpg?t=1791876663",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261013/125466/125466-la-colmenita-abrazo-a-gaza-desde-la-habana-la-solidaridad-entre-dos-pueblos-bajo-genocidio",
-      "destacada": false,
-      "tema": "colmenita",
-      "fecha": "Tue, 13 Oct 26 09:23:00 +0200",
-      "id": 32
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Jornada antirracista Iruñeko Arrozak destina recaudación a proyecto de placas solares para hospitales de Cuba",
-      "resumen": "Cubainformación - Fotos y videos: Camino Saiz y Joseba Ginés - Con información de Naiz / Gara....",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125465-jornada-antirracista-iruneko-arrozak-destina-recaudacion-a-proyecto-de-placas-solares-para-hospitales-de-cuba.jpg?t=1791874105",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261013/125465/125465-jornada-antirracista-iruneko-arrozak-destina-recaudacion-a-proyecto-de-placas-solares-para-hospitales-de-cuba",
-      "destacada": false,
-      "tema": "jornada",
-      "fecha": "Tue, 13 Oct 26 08:35:00 +0200",
       "id": 33
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Miami acogerá el 28 de octubre una concentración para exigir el fin del bloqueo de Estados Unidos contra Cuba",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125464-miami-acogera-el-28-de-octubre-una-concentracion-para-exigir-el-fin-del-bloqueo-de-estados-unidos-contra-cuba.jpg?t=1791871261",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261013/125464/125464-miami-acogera-el-28-de-octubre-una-concentracion-para-exigir-el-fin-del-bloqueo-de-estados-unidos-contra-cuba",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Frank David González: Seis jonrones y un sueño llamado Nicaragua",
+      "resumen": "El joven pelotero Frank David González lidera hoy los jonroneros de la 65 Serie Nacional de Béisbol con seis cuadrangulares, mientras integra la preselección cubana Sub-23 rumbo al Mundial de Nicaragua. The post Frank David González: Seis jonrones y un sueño llamado Nicaragua first appeared on Cubad",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/14/frank-david-gonzalez-seis-jonrones-y-un-sueno-llamado-nicaragua/",
       "destacada": false,
-      "tema": "miami",
-      "fecha": "Tue, 13 Oct 26 07:58:00 +0200",
+      "tema": "frank",
+      "fecha": "Wed, 14 Oct 2026 05:17:59 +0000",
       "id": 34
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
-      "titulo": "¿Se puede recuperar la agricultura en Cuba?: Cuadrando La Caja",
-      "resumen": "Cuadrando La Caja.- Esta vez conversamos sobre las nuevas transformaciones económicas y sociales par...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125463-se-puede-recuperar-la-agricultura-en-cuba-cuadrando-la-caja.jpg?t=1791871001",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261013/125463/125463-se-puede-recuperar-la-agricultura-en-cuba-cuadrando-la-caja",
+      "titulo": "&quot;¡Abracemos a Fidel!&quot;: del 24 de noviembre al 6 de diciembre, Primera Brigada Internacional Fidel Castro Ruz (cierre el 7 de noviembre)",
+      "resumen": "Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125488-abracemos-a-fidel-del-24-de-noviembre-al-6-de-diciembre-primera-brigada-internacional-fidel-castro-ruz-cierre-el-7-de-noviembre.jpg?t=1791956575",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261014/125488/125488-abracemos-a-fidel-del-24-de-noviembre-al-6-de-diciembre-primera-brigada-internacional-fidel-castro-ruz-cierre-el-7-de-noviembre",
       "destacada": false,
-      "tema": "recuperar",
-      "fecha": "Tue, 13 Oct 26 07:55:00 +0200",
+      "tema": "abracemos",
+      "fecha": "Wed, 14 Oct 26 07:37:00 +0200",
       "id": 35
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
-      "titulo": "Impacto inhumano del bloqueo en la rehabilitación de las infancias con discapacidad auditiva",
-      "resumen": "Son niños... y sufren el bloqueo La escuela de enseñanza especial René Vilches, en La Habana, vive ...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125460-impacto-inhumano-del-bloqueo-en-la-rehabilitacion-de-las-infancias-con-discapacidad-auditiva.jpg?t=1791870714",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261013/125460/125460-impacto-inhumano-del-bloqueo-en-la-rehabilitacion-de-las-infancias-con-discapacidad-auditiva",
+      "titulo": "Félix Savón. La caída de un ídolo",
+      "resumen": "La Florecita Cubana",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125486-felix-savon-la-caida-de-un-idolo.jpg?t=1791955829",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261014/125486/125486-felix-savon-la-caida-de-un-idolo",
       "destacada": false,
-      "tema": "impacto",
-      "fecha": "Tue, 13 Oct 26 07:50:00 +0200",
+      "tema": "félix",
+      "fecha": "Wed, 14 Oct 26 07:30:00 +0200",
       "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Los cipayos tratan de justificar que son ignorados",
+      "resumen": "El Titan de #Cuba",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125485-los-cipayos-tratan-de-justificar-que-son-ignorados.jpg?t=1791955785",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261014/125485/125485-los-cipayos-tratan-de-justificar-que-son-ignorados",
+      "destacada": false,
+      "tema": "cipayos",
+      "fecha": "Wed, 14 Oct 26 07:29:00 +0200",
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Alcántara volvió a la carga y aquello explota. Miles piden venir a Cuba para ser torturados como él",
+      "resumen": "Guerrero Cubano con su verdad al desnudo",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125483-alcantara-volvio-a-la-carga-y-aquello-explota-miles-piden-venir-a-cuba-para-ser-torturados-como-el.jpg?t=1791953823",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261014/125483/125483-alcantara-volvio-a-la-carga-y-aquello-explota-miles-piden-venir-a-cuba-para-ser-torturados-como-el",
+      "destacada": false,
+      "tema": "alcántara",
+      "fecha": "Wed, 14 Oct 26 06:57:00 +0200",
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Obra de amor en Cuba, Quisicuaba: de cocinar a las 3 AM a alimentar a miles",
+      "resumen": "Almaplustv.- Obra de amor en Cuba: de cocinar a las 3AM a alimentar a miles ¿A qué hora empieza la s...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125481-obra-de-amor-en-cuba-quisicuaba-de-cocinar-a-las-3-am-a-alimentar-a-miles.jpg?t=1791952604",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261014/125481/125481-obra-de-amor-en-cuba-quisicuaba-de-cocinar-a-las-3-am-a-alimentar-a-miles",
+      "destacada": false,
+      "tema": "quisicuaba",
+      "fecha": "Wed, 14 Oct 26 06:36:00 +0200",
+      "id": 39
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Importación de combustible del sector privado solo cubre el 3% de la demanda en Cuba",
+      "resumen": "Señal en vivo Sur.- Cuba aseguró que las importaciones de combustible realizadas por el sector priva...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125479-importacion-de-combustible-del-sector-privado-solo-cubre-el-3-de-la-demanda-en-cuba.jpg?t=1791953089",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261014/125479/125479-importacion-de-combustible-del-sector-privado-solo-cubre-el-3-de-la-demanda-en-cuba",
+      "destacada": false,
+      "tema": "importación",
+      "fecha": "Wed, 14 Oct 26 06:33:00 +0200",
+      "id": 40
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba seguirá priorizando la atención a las personas con enfermedad renal crónica",
+      "resumen": "René Tamayo León Presidencia Cuba El Primer Secretario del Comité Central del Partido Comunista y Pr...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125478-cuba-seguira-priorizando-la-atencion-a-las-personas-con-enfermedad-renal-cronica.jpg?t=1791952384",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261014/125478/125478-cuba-seguira-priorizando-la-atencion-a-las-personas-con-enfermedad-renal-cronica",
+      "destacada": false,
+      "tema": "seguirá",
+      "fecha": "Wed, 14 Oct 26 06:32:00 +0200",
+      "id": 41
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Taller Movimiento Creativo para la Inclusión, en el Centro Cultural Bertolt Brecht de La Habana: del 28 de septiembre al 2 de octubre",
+      "resumen": "Canal Caribe.- Del 28 de septiembre al 2 de octubre, el Centro Cultural Bertolt Brecht acogió la cua...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125477-taller-movimiento-creativo-para-la-inclusion-en-el-centro-cultural-bertolt-brecht-de-la-habana-del-28-de-septiembre-al-2-de-octubre.jpg?t=1791952245",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261014/125477/125477-taller-movimiento-creativo-para-la-inclusion-en-el-centro-cultural-bertolt-brecht-de-la-habana-del-28-de-septiembre-al-2-de-octubre",
+      "destacada": false,
+      "tema": "taller",
+      "fecha": "Wed, 14 Oct 26 06:29:00 +0200",
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -482,7 +560,7 @@
       "destacada": false,
       "tema": "finca",
       "fecha": "Tue, 13 Oct 2026 12:44:52 +0000",
-      "id": 37
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -495,7 +573,7 @@
       "destacada": false,
       "tema": "empresa",
       "fecha": "Tue, 13 Oct 2026 14:48:29 +0000",
-      "id": 38
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -508,7 +586,7 @@
       "destacada": false,
       "tema": "cancelan",
       "fecha": "Tue, 13 Oct 2026 15:25:17 +0000",
-      "id": 39
+      "id": 45
     },
     {
       "categoria": "transporte",
@@ -521,7 +599,7 @@
       "destacada": false,
       "tema": "exhiben",
       "fecha": "Tue, 13 Oct 2026 13:40:35 +0000",
-      "id": 40
+      "id": 46
     },
     {
       "categoria": "economia",
@@ -534,7 +612,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 10:15:00 GMT",
-      "id": 41
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -547,7 +625,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Tue, 13 Oct 2026 10:00:00 GMT",
-      "id": 42
+      "id": 48
     },
     {
       "categoria": "transporte",
@@ -560,7 +638,7 @@
       "destacada": false,
       "tema": "estrena",
       "fecha": "Mon, 12 Oct 2026 23:42:13 GMT",
-      "id": 43
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -573,7 +651,7 @@
       "destacada": false,
       "tema": "estado",
       "fecha": "Mon, 12 Oct 2026 10:30:00 GMT",
-      "id": 44
+      "id": 50
     }
   ]
 }
