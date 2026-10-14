@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-14",
-  "hora": "07:30",
-  "total": 50,
+  "hora": "09:21",
+  "total": 49,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -267,7 +267,7 @@
       "categoria": "energia",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El régimen suma dos cargos al Spiderman’ cubano, preso por protestar contra los apagones",
+      "titulo": "El régimen suma dos cargos al 'Spiderman' cubano, preso por protestar contra los apagones",
       "resumen": "El régimen suma dos delitos a la causa del 'Spiderman' cubano mientras mantiene en prisión a MC K-Libre, enfermo y sin fecha de juicio",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/derechos-humanos/1791960442_69384.html",
@@ -421,19 +421,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Suman cargos de desacato y propaganda contra el orden constitucional al 'Spiderman' cubano",
-      "resumen": "Su pareja denunció que la acusación de desacato había sido retirada al inicio del proceso y que el abogado aún no ha podido consultar el expediente.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/suman-cargos-de-desacato-y-propaganda-contra-el-orden-constitucional-al-spiderman-cubano/481882.html",
-      "destacada": false,
-      "tema": "suman",
-      "fecha": "Tue, 13 Oct 2026 17:33:32 -0400",
-      "id": 33
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
       "titulo": "Frank David González: Seis jonrones y un sueño llamado Nicaragua",
@@ -443,6 +430,19 @@
       "destacada": false,
       "tema": "frank",
       "fecha": "Wed, 14 Oct 2026 05:17:59 +0000",
+      "id": 33
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Solidaridad y energía solar para resistir el bloqueo energético: charla en Zaragoza este 15 de octubre, con Mabelin Benítez, del Centro de Investigaciones de Energía Solar de Cuba",
+      "resumen": "Mabelin Benítez Fonseca, especialista del Centro de Investigaciones de Energía Solar de Cuba, explic...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125489-solidaridad-y-energia-solar-para-resistir-el-bloqueo-energetico-charla-en-zaragoza-este-15-de-octubre-con-mabelin-benitez-del-centro-de-investigaciones-de-energia-solar-de-cuba.jpg?t=1791969743",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261014/125489/125489-solidaridad-y-energia-solar-para-resistir-el-bloqueo-energetico-charla-en-zaragoza-este-15-de-octubre-con-mabelin-benitez-del-centro-de-investigaciones-de-energia-solar-de-cuba",
+      "destacada": false,
+      "tema": "solidaridad",
+      "fecha": "Wed, 14 Oct 26 11:19:00 +0200",
       "id": 34
     },
     {
@@ -538,19 +538,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Taller Movimiento Creativo para la Inclusión, en el Centro Cultural Bertolt Brecht de La Habana: del 28 de septiembre al 2 de octubre",
-      "resumen": "Canal Caribe.- Del 28 de septiembre al 2 de octubre, el Centro Cultural Bertolt Brecht acogió la cua...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125477-taller-movimiento-creativo-para-la-inclusion-en-el-centro-cultural-bertolt-brecht-de-la-habana-del-28-de-septiembre-al-2-de-octubre.jpg?t=1791952245",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261014/125477/125477-taller-movimiento-creativo-para-la-inclusion-en-el-centro-cultural-bertolt-brecht-de-la-habana-del-28-de-septiembre-al-2-de-octubre",
-      "destacada": false,
-      "tema": "taller",
-      "fecha": "Wed, 14 Oct 26 06:29:00 +0200",
-      "id": 42
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://www.guerrillero.cu/",
       "fuente_tipo": "alternativa",
       "titulo": "Finca El Abra: Dulce remanso de José Martí",
@@ -560,7 +547,7 @@
       "destacada": false,
       "tema": "finca",
       "fecha": "Tue, 13 Oct 2026 12:44:52 +0000",
-      "id": 43
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -573,7 +560,7 @@
       "destacada": false,
       "tema": "empresa",
       "fecha": "Tue, 13 Oct 2026 14:48:29 +0000",
-      "id": 44
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -586,7 +573,7 @@
       "destacada": false,
       "tema": "cancelan",
       "fecha": "Tue, 13 Oct 2026 15:25:17 +0000",
-      "id": 45
+      "id": 44
     },
     {
       "categoria": "transporte",
@@ -599,7 +586,7 @@
       "destacada": false,
       "tema": "exhiben",
       "fecha": "Tue, 13 Oct 2026 13:40:35 +0000",
-      "id": 46
+      "id": 45
     },
     {
       "categoria": "economia",
@@ -612,7 +599,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 10:15:00 GMT",
-      "id": 47
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -625,7 +612,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Tue, 13 Oct 2026 10:00:00 GMT",
-      "id": 48
+      "id": 47
     },
     {
       "categoria": "transporte",
@@ -638,7 +625,7 @@
       "destacada": false,
       "tema": "estrena",
       "fecha": "Mon, 12 Oct 2026 23:42:13 GMT",
-      "id": 49
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -651,7 +638,7 @@
       "destacada": false,
       "tema": "estado",
       "fecha": "Mon, 12 Oct 2026 10:30:00 GMT",
-      "id": 50
+      "id": 49
     }
   ]
 }
