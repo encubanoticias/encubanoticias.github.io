@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-14",
-  "hora": "00:15",
-  "total": 46,
+  "hora": "01:24",
+  "total": 51,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -56,19 +56,6 @@
       "id": 4
     },
     {
-      "categoria": "salud",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba vive y sigue apostando al turismo con estrategias de adaptación",
-      "resumen": "Montevideo, 13 oct (Prensa Latina) Cuba vive pese a la guerra sin bombas que ejerce Estados Unidos y sigue apostando hoy por el turismo con estrategias de adaptación y con las bondades de la naturaleza, historia, cultura y pueblo hospitalario. The post Cuba vive y sigue apostando al turismo con estr",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/13/cuba-vive-y-sigue-apostando-al-turismo-con-estrategias-de-adaptacion/",
-      "destacada": true,
-      "tema": "sigue",
-      "fecha": "Tue, 13 Oct 2026 23:00:49 +0000",
-      "id": 5
-    },
-    {
       "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -76,10 +63,10 @@
       "resumen": "Las ventas de bienes y servicios caen más de un 32% y casi 400 empresas estatales reportan pérdidas millonarias",
       "imagen_url": "https://static.14ymedio.com/clip/71644b58-55b3-44f2-a779-209e7f0341c9_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/salario-medio-no-llega-10_1_1131917.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 22:00:06 +0000",
-      "id": 6
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -92,7 +79,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Tue, 13 Oct 2026 18:56:29 +0000",
-      "id": 7
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -105,7 +92,7 @@
       "destacada": false,
       "tema": "septiembre",
       "fecha": "Tue, 13 Oct 2026 09:27:30 +0000",
-      "id": 8
+      "id": 7
     },
     {
       "categoria": "economia",
@@ -118,7 +105,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 12 Oct 2026 21:49:19 +0000",
-      "id": 9
+      "id": 8
     },
     {
       "categoria": "energia",
@@ -131,7 +118,7 @@
       "destacada": false,
       "tema": "niega",
       "fecha": "Mon, 12 Oct 2026 18:50:22 +0000",
-      "id": 10
+      "id": 9
     },
     {
       "categoria": "economia",
@@ -144,7 +131,59 @@
       "destacada": false,
       "tema": "arroz",
       "fecha": "Mon, 12 Oct 2026 15:59:42 +0000",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Guardia Costera de EE.UU. repatria a seis personas a Cuba tras dos operaciones en el estrecho de Florida",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e208933-s27061-nid342824-guardia-costera-eeuu-repatria-seis-personas-cuba",
+      "destacada": false,
+      "tema": "guardia",
+      "fecha": "Wed, 14 Oct 2026 01:57:19 +0200",
       "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Identifican al cubano rescatado en una diminuta balsa frente a Key Biscayne",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e208933-s27061-nid342823-identifican-al-cubano-rescatado-diminuta-balsa",
+      "destacada": false,
+      "tema": "identifican",
+      "fecha": "Wed, 14 Oct 2026 01:39:39 +0200",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Condenan a 18 meses de prisión a capitán cubano por accidente marítimo que mató a tres niñas en Miami",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e208933-s27061-nid342818-condenan-18-meses-prision-capitan-cubano-accidente",
+      "destacada": false,
+      "tema": "condenan",
+      "fecha": "Wed, 14 Oct 2026 01:05:49 +0200",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Doctora cubana: \"Tuve que tomar una de las decisiones más difíciles e irónicas de mi vida: renunciar a ejercer la medicina\"",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e199894-s27061-nid342819-doctora-cubana-tuve-tomar-decisiones-dificiles",
+      "destacada": false,
+      "tema": "doctora",
+      "fecha": "Wed, 14 Oct 2026 00:41:55 +0200",
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -157,7 +196,7 @@
       "destacada": false,
       "tema": "lanzan",
       "fecha": "Mon, 12 Oct 2026 21:14:02 +0000",
-      "id": 12
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -170,7 +209,7 @@
       "destacada": false,
       "tema": "operación",
       "fecha": "Tue, 13 Oct 2026 18:57:09 +0000",
-      "id": 13
+      "id": 16
     },
     {
       "categoria": "economia",
@@ -183,7 +222,7 @@
       "destacada": false,
       "tema": "rostro",
       "fecha": "Tue, 13 Oct 2026 13:40:27 +0000",
-      "id": 14
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -196,7 +235,7 @@
       "destacada": false,
       "tema": "guardia",
       "fecha": "Wed, 14 Oct 2026 01:14:37 +0200",
-      "id": 15
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -209,7 +248,7 @@
       "destacada": false,
       "tema": "cancela",
       "fecha": "Tue, 13 Oct 2026 23:47:39 +0200",
-      "id": 16
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -222,7 +261,7 @@
       "destacada": false,
       "tema": "eventos",
       "fecha": "Tue, 13 Oct 2026 22:55:07 +0200",
-      "id": 17
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -235,7 +274,7 @@
       "destacada": false,
       "tema": "rubio",
       "fecha": "Tue, 13 Oct 2026 20:56:42 +0200",
-      "id": 18
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -248,7 +287,7 @@
       "destacada": false,
       "tema": "fallece",
       "fecha": "Tue, 13 Oct 2026 20:37:22 +0200",
-      "id": 19
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -261,7 +300,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 13 Oct 2026 19:53:59 +0200",
-      "id": 20
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -274,7 +313,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 19:30:03 +0200",
-      "id": 21
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -287,7 +326,7 @@
       "destacada": false,
       "tema": "pablo",
       "fecha": "Tue, 13 Oct 2026 18:59:57 +0200",
-      "id": 22
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -300,7 +339,7 @@
       "destacada": false,
       "tema": "ocurrió",
       "fecha": "Tue, 13 Oct 2026 18:01:42 +0200",
-      "id": 23
+      "id": 26
     },
     {
       "categoria": "energia",
@@ -313,7 +352,7 @@
       "destacada": false,
       "tema": "multas",
       "fecha": "Tue, 13 Oct 2026 15:56:55 +0200",
-      "id": 24
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -326,7 +365,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Tue, 13 Oct 2026 20:00:00 -0400",
-      "id": 25
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -339,7 +378,7 @@
       "destacada": false,
       "tema": "suman",
       "fecha": "Tue, 13 Oct 2026 17:33:32 -0400",
-      "id": 26
+      "id": 29
     },
     {
       "categoria": "politica",
@@ -352,7 +391,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Tue, 13 Oct 2026 17:08:15 -0400",
-      "id": 27
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -365,7 +404,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Tue, 13 Oct 2026 17:00:30 -0400",
-      "id": 28
+      "id": 31
     },
     {
       "categoria": "salud",
@@ -378,7 +417,7 @@
       "destacada": false,
       "tema": "empresa",
       "fecha": "Tue, 13 Oct 2026 15:46:25 +0000",
-      "id": 29
+      "id": 32
     },
     {
       "categoria": "energia",
@@ -391,7 +430,7 @@
       "destacada": false,
       "tema": "fallece",
       "fecha": "Tue, 13 Oct 2026 15:29:50 +0000",
-      "id": 30
+      "id": 33
     },
     {
       "categoria": "economia",
@@ -404,7 +443,7 @@
       "destacada": false,
       "tema": "carlos",
       "fecha": "Tue, 13 Oct 2026 15:18:41 +0000",
-      "id": 31
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -417,7 +456,7 @@
       "destacada": false,
       "tema": "ayotzinapa",
       "fecha": "Tue, 13 Oct 26 22:49:00 +0200",
-      "id": 32
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -430,7 +469,7 @@
       "destacada": false,
       "tema": "represión",
       "fecha": "Tue, 13 Oct 26 22:46:00 +0200",
-      "id": 33
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -443,7 +482,7 @@
       "destacada": false,
       "tema": "ángeles",
       "fecha": "Tue, 13 Oct 26 11:09:00 +0200",
-      "id": 34
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -456,7 +495,7 @@
       "destacada": false,
       "tema": "propaganda",
       "fecha": "Tue, 13 Oct 26 09:35:00 +0200",
-      "id": 35
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -469,7 +508,7 @@
       "destacada": false,
       "tema": "colmenita",
       "fecha": "Tue, 13 Oct 26 09:23:00 +0200",
-      "id": 36
+      "id": 39
     },
     {
       "categoria": "salud",
@@ -482,7 +521,7 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Tue, 13 Oct 26 08:35:00 +0200",
-      "id": 37
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -495,7 +534,7 @@
       "destacada": false,
       "tema": "miami",
       "fecha": "Tue, 13 Oct 26 07:58:00 +0200",
-      "id": 38
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -508,7 +547,7 @@
       "destacada": false,
       "tema": "recuperar",
       "fecha": "Tue, 13 Oct 26 07:55:00 +0200",
-      "id": 39
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -521,7 +560,7 @@
       "destacada": false,
       "tema": "impacto",
       "fecha": "Tue, 13 Oct 26 07:50:00 +0200",
-      "id": 40
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -534,7 +573,7 @@
       "destacada": false,
       "tema": "finca",
       "fecha": "Tue, 13 Oct 2026 12:44:52 +0000",
-      "id": 41
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -547,7 +586,7 @@
       "destacada": false,
       "tema": "empresaa",
       "fecha": "Tue, 13 Oct 2026 14:48:29 +0000",
-      "id": 42
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -560,7 +599,20 @@
       "destacada": false,
       "tema": "cancelan",
       "fecha": "Tue, 13 Oct 2026 15:25:17 +0000",
-      "id": 43
+      "id": 46
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Exhiben reliquias fundacionales de la ciudad",
+      "resumen": "La exposición titulada \"La Atenas de Cuba, 333 aniversario: Un viaje por nuestras raíces e historia fundacional\", reúne por primera vez las reliquias de la fundación de la ciudad de Matanzas este 12 de octubre en el otrora palacete del Conde de la Diana, ubicado en Calle Milanés no. 25.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/13/reliquias-fundacionales-ciudad-matanzas/",
+      "destacada": false,
+      "tema": "exhiben",
+      "fecha": "Tue, 13 Oct 2026 13:40:35 +0000",
+      "id": 47
     },
     {
       "categoria": "economia",
@@ -573,7 +625,20 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 10:15:00 GMT",
-      "id": 44
+      "id": 48
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticias de la negociación de Donald Trump con Cuba",
+      "resumen": "La relación entre Estados Unidos y Cuba atraviesa uno de sus momentos más tensos en años, marcada por una combinación de presión económica, crisis energética y contactos discretos, de los cuales, en la mayoría de los casos, solo se conoce lo que se filtra a la prensa.",
+      "imagen_url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/AP_131403754861_f6c2a900de.jpg/width=1920,quality=75,fit=scale-down,dpr=1,slow-connection-quality=40",
+      "enlace_original": "https://eltoque.com/noticias-de-la-negociacion-de-donald-trump-con-cuba",
+      "destacada": false,
+      "tema": "noticias",
+      "fecha": "Tue, 13 Oct 2026 10:00:00 GMT",
+      "id": 49
     },
     {
       "categoria": "transporte",
@@ -586,7 +651,7 @@
       "destacada": false,
       "tema": "estrena",
       "fecha": "Mon, 12 Oct 2026 23:42:13 GMT",
-      "id": 45
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -599,7 +664,7 @@
       "destacada": false,
       "tema": "estado",
       "fecha": "Mon, 12 Oct 2026 10:30:00 GMT",
-      "id": 46
+      "id": 51
     }
   ]
 }
