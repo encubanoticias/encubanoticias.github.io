@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-14",
-  "hora": "13:25",
-  "total": 52,
+  "hora": "15:22",
+  "total": 59,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -17,16 +17,16 @@
       "id": 1
     },
     {
-      "categoria": "sociedad",
+      "categoria": "politica",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "El odio que lacera el derecho a escuchar",
-      "resumen": "La escuela de enseñanza especial René Vilches, en La Habana, vive en su cotidianidad las expresiones inhumanas del bloqueo en la rehabilitación de las infancias con discapacidad auditiva",
+      "titulo": "Cuba denuncia acciones genocidas del Secretario de Estado de EE. UU. para silenciar el rechazo mundial al bloqueo",
+      "resumen": "El viceministro de Relaciones Exteriores, Carlos Fernández de Cossío, denunció en su cuenta de Facebook que Washington redobla la presión sobre gobiernos de todas las latitudes para intentar cambiar su histórica posición de rechazo al bloqueo",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-12/el-odio-que-lacera-el-derecho-a-escuchar",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-14/denuncian-acciones-genocidas-del-secretario-de-estado-de-ee-uu-para-asfixiar-a-cuba-y-silenciar-el-rechazo-mundial-al-bloqueo-14-10-2026-11-10-02",
       "destacada": true,
-      "tema": "lacera",
-      "fecha": "Mon, 12 Oct 2026 20:10:54 -0400",
+      "tema": "denuncia",
+      "fecha": "Wed, 14 Oct 2026 11:10:02 -0400",
       "id": 2
     },
     {
@@ -43,6 +43,19 @@
       "id": 3
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El odio que lacera el derecho a escuchar",
+      "resumen": "La escuela de enseñanza especial René Vilches, en La Habana, vive en su cotidianidad las expresiones inhumanas del bloqueo en la rehabilitación de las infancias con discapacidad auditiva",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-12/el-odio-que-lacera-el-derecho-a-escuchar",
+      "destacada": true,
+      "tema": "lacera",
+      "fecha": "Mon, 12 Oct 2026 20:10:54 -0400",
+      "id": 4
+    },
+    {
       "categoria": "salud",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
@@ -53,7 +66,7 @@
       "destacada": true,
       "tema": "tipo_cambio",
       "fecha": "Wed, 14 Oct 2026 08:10:31 -0400",
-      "id": 4
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -63,10 +76,10 @@
       "resumen": "Fruto de la fusión del antiguo Observatorio Nacional con el departamento de Meteorología creado quince meses antes por la Academia de Ciencias de Cuba, el 12 de octubre de 1965 fue constituido el Instituto de Meteorología, en ceremonia solemne efectuada en el hemiciclo del Capitolio Nacional",
       "imagen_url": "",
       "enlace_original": "http://www.granma.cu/ciencia/2026-10-12/mas-alla-de-vigilar-el-tiempo-y-el-clima-12-10-2026-17-10-37",
-      "destacada": true,
+      "destacada": false,
       "tema": "vigilar",
       "fecha": "Mon, 12 Oct 2026 17:10:37 -0400",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -79,20 +92,20 @@
       "destacada": false,
       "tema": "historia",
       "fecha": "Tue, 13 Oct 2026 09:10:12 -0400",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Catedrática cubana dicta conferencia en Italia sobre el Bloqueo",
-      "resumen": "Roma, Italia, 14 oct (Prensa Latina) La académica cubana Doctora en Ciencias Nereyda Moya Padilla dictó la conferencia: \"El bloqueo a Cuba: costos y repercusiones tras más de 60 años\" en la Sapienza Università di Roma. The post Catedrática cubana dicta conferencia en Italia sobre el Bloqueo first ap",
+      "titulo": "Síntesis de Cuba",
+      "resumen": "SÍNTESIS DE CUBA PARA EMISORAS DE RADIO Y TV, PERIÓDICOS Y REVISTAS The post Síntesis de Cuba first appeared on Noticias Prensa Latina.",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/14/catedratica-cubana-dicta-conferencia-en-italia-sobre-el-bloqueo/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/14/sintesis-de-cuba-597/",
       "destacada": false,
-      "tema": "catedrática",
-      "fecha": "Wed, 14 Oct 2026 13:22:54 +0000",
-      "id": 7
+      "tema": "síntesis",
+      "fecha": "Wed, 14 Oct 2026 14:30:49 +0000",
+      "id": 8
     },
     {
       "categoria": "economia",
@@ -105,7 +118,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 14 Oct 2026 10:19:32 +0000",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "economia",
@@ -118,7 +131,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 22:00:06 +0000",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Tue, 13 Oct 2026 18:56:29 +0000",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -144,84 +157,71 @@
       "destacada": false,
       "tema": "septiembre",
       "fecha": "Tue, 13 Oct 2026 09:27:30 +0000",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Anna Bensi: «En Cuba, al parecer, la ley tiene dos versiones, una para el poder y otra para quien se atreve a cuestionarlo»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e207888-s27061-nid342840-anna-bensi-cuba-ley-tiene-dos-versiones-poder-otra",
-      "destacada": false,
-      "tema": "bensi",
-      "fecha": "Wed, 14 Oct 2026 13:15:20 +0200",
       "id": 12
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "De la O Levy califica elecciones libres y multipartidismo como presiones de EE.UU. para «doblegar» a Cuba",
+      "titulo": "«La gente en Cuba se muere de hambre, pero no quiere trabajar»: Cubana arremete contra quienes viven de las remesas en la isla",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e207888-s27061-nid342836-levy-califica-elecciones-libres-multipartidismo",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u65722-e65722-s27065-nid342846-gente-cuba-muere-hambre-quiere-trabajar-cubana",
       "destacada": false,
-      "tema": "califica",
-      "fecha": "Wed, 14 Oct 2026 12:19:21 +0200",
+      "tema": "gente",
+      "fecha": "Wed, 14 Oct 2026 15:10:34 +0200",
       "id": 13
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El Chacal saca la bandera cubana en pleno concierto en España y estalla contra Díaz-Canel: «La gente se está muriendo de hambre»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u65722-e65722-s27065-nid342845-chacal-saca-bandera-cubana-pleno-concierto-espana",
+      "destacada": false,
+      "tema": "chacal",
+      "fecha": "Wed, 14 Oct 2026 15:02:06 +0200",
+      "id": 14
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Bomberos de Cuba alertan sobre el peligro de almacenar combustible en tanques plásticos tras reciente incendio",
+      "titulo": "Tricampeón olímpico cubano Félix Savón es captado en un basurero buscando comida y Limay Blanco acude en su ayuda",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e199894-s27061-nid342835-bomberos-cuba-alertan-peligro-almacenar-combustible",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e207888-s27061-nid342849-tricampeon-olimpico-cubano-felix-savon-captado",
       "destacada": false,
-      "tema": "bomberos",
-      "fecha": "Wed, 14 Oct 2026 06:08:35 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "USCIS dejará de dar por buenas aprobaciones previas al renovar visas de trabajo: lo que cambia para cubanos con H-1B, L-1 u O-1",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e199894-s27061-nid342832-uscis-dejara-dar-buenas-aprobaciones-previas-al",
-      "destacada": false,
-      "tema": "uscis",
-      "fecha": "Wed, 14 Oct 2026 05:31:51 +0200",
+      "tema": "tricampeón",
+      "fecha": "Wed, 14 Oct 2026 15:00:23 +0200",
       "id": 15
     },
     {
-      "categoria": "economia",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Otra vez se roban los bancos de Plaza de Marte en Santiago de Cuba, apenas dos meses después de su restauración",
+      "titulo": "Cubanos en Hialeah reclaman una solución a restricciones para estacionar sus botes junto a sus casas",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e199894-s27061-nid342831-otra-vez-roban-bancos-plaza-marte-santiago-cuba",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e129488-s27061-nid342854-cubanos-hialeah-reclaman-solucion-restricciones",
       "destacada": false,
-      "tema": "roban",
-      "fecha": "Wed, 14 Oct 2026 04:09:16 +0200",
+      "tema": "cubanos",
+      "fecha": "Wed, 14 Oct 2026 14:56:10 +0200",
       "id": 16
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubanos denuncian que Rusia los envió a Uzbekistán sin informarles el destino",
+      "titulo": "El dilema del voto cubano en Miami: mano dura contra la dictadura, pero rechazo a las redadas a tres semanas de las elecciones",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e199894-s27061-nid342830-cubanos-denuncian-rusia-envio-uzbekistan-informarles",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-14-u1-e43231-s27061-nid342837-dilema-voto-cubano-miami-mano-dura-contra-dictadura",
       "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Wed, 14 Oct 2026 03:37:15 +0200",
+      "tema": "dilema",
+      "fecha": "Wed, 14 Oct 2026 14:45:20 +0200",
       "id": 17
     },
     {
@@ -238,6 +238,45 @@
       "id": 18
     },
     {
+      "categoria": "transporte",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "ARES inaugura en Mérida un viaje visual por la literatura infantil",
+      "resumen": "La Galería Le Cirque, en Mérida, abrió sus puertas a “Historias ilustradas”, una exposición del artista cubano Arístides Hernández (ARES) que marcó el inicio de la XI edición de la Jornada de la Cultura Cubana en Yucatán",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/ares-inaugura-en-merida-un-viaje-visual-por-la-literatura-infantil/",
+      "destacada": false,
+      "tema": "inaugura",
+      "fecha": "Wed, 14 Oct 2026 14:29:40 +0000",
+      "id": 19
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Evocación en Santiago de Cuba de La historia me absolverá",
+      "resumen": "En uno de los escenarios del proceso judicial, la sala de enfermeras del antiguo hospital civil santiaguero Saturnino Lora, instituciones y organizaciones realizarán jornadas científicas, talleres y actos",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/evocacion-en-santiago-de-cuba-de-la-historia-me-absolvera/",
+      "destacada": false,
+      "tema": "evocación",
+      "fecha": "Wed, 14 Oct 2026 14:19:39 +0000",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Recuerdan inicio de la Guerra de los Diez Años en Las Tunas",
+      "resumen": "La fecha fue rememorada en El Hormiguero, lugar donde Vicente García González reunió a la tropa y los convocó a luchar por la independencia de Cuba",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/recuerdan-inicio-de-la-guerra-de-los-diez-anos-en-las-tunas/",
+      "destacada": false,
+      "tema": "recuerdan",
+      "fecha": "Wed, 14 Oct 2026 14:05:26 +0000",
+      "id": 21
+    },
+    {
       "categoria": "sociedad",
       "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "alternativa",
@@ -248,20 +287,33 @@
       "destacada": false,
       "tema": "operación",
       "fecha": "Tue, 13 Oct 2026 18:57:09 +0000",
-      "id": 19
+      "id": 22
     },
     {
-      "categoria": "economia",
-      "fuente": "https://www.trabajadores.cu",
+      "categoria": "salud",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El rostro humano de los servicios bancarios en Cuba",
-      "resumen": "Cada 13 de octubre, Cuba celebra el Día del Trabajador Bancario, una fecha que conmemora la nacionalización de la banca en 1960 y recuerda el nombramiento del comandante Ernesto Che Guevara como primer presidente revolucionario del Banco Nacional de Cuba",
+      "titulo": "Editorial: La batalla por los médicos cubanos en el exterior",
+      "resumen": "#MédicosCuba: Las organizaciones de derechos humanos, los gremios médicos y el #activismo independiente deben mantener la denuncia sobre los abusos contractuales allí donde ocurran.",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261013/el-rostro-humano-de-los-servicios-bancarios-en-cuba-2/",
+      "enlace_original": "https://diariodecuba.com/foro-ddc/1791988627_69383.html",
       "destacada": false,
-      "tema": "rostro",
-      "fecha": "Tue, 13 Oct 2026 13:40:27 +0000",
-      "id": 20
+      "tema": "editorial",
+      "fecha": "Wed, 14 Oct 2026 16:37:07 +0200",
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Anna Bensi contrasta su condena con la libertad de los voceros del régimen para atacarla",
+      "resumen": "#AnnaBensi cuestiona la impunidad con la que voceros del #RégimenCubano pueden atacarla y difundir imágenes suyas, y la falta de espacios para ejercer el derecho a réplica.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1791986260_69390.html",
+      "destacada": false,
+      "tema": "bensi",
+      "fecha": "Wed, 14 Oct 2026 15:57:40 +0200",
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -274,7 +326,7 @@
       "destacada": false,
       "tema": "yoriorkis",
       "fecha": "Wed, 14 Oct 2026 14:24:13 +0200",
-      "id": 21
+      "id": 25
     },
     {
       "categoria": "salud",
@@ -287,7 +339,7 @@
       "destacada": false,
       "tema": "médicos",
       "fecha": "Wed, 14 Oct 2026 13:11:27 +0200",
-      "id": 22
+      "id": 26
     },
     {
       "categoria": "salud",
@@ -300,7 +352,7 @@
       "destacada": false,
       "tema": "abrazos",
       "fecha": "Wed, 14 Oct 2026 12:28:37 +0200",
-      "id": 23
+      "id": 27
     },
     {
       "categoria": "salud",
@@ -313,7 +365,7 @@
       "destacada": false,
       "tema": "periodistas",
       "fecha": "Wed, 14 Oct 2026 12:09:26 +0200",
-      "id": 24
+      "id": 28
     },
     {
       "categoria": "energia",
@@ -326,7 +378,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Wed, 14 Oct 2026 08:47:22 +0200",
-      "id": 25
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -339,33 +391,72 @@
       "destacada": false,
       "tema": "guardia",
       "fecha": "Wed, 14 Oct 2026 01:14:37 +0200",
-      "id": 26
+      "id": 30
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Un club de jazz de EEUU cancela un concierto de Daymé Arocena para 'preservar la relación' con la embajada del régimen",
-      "resumen": "Un club de #jazz de #Washington cancela un concierto de la cubana #DayméArocena, luego de que protestara por la participación de la embajada del régimen y los organizadores decidieran \"preservar la relación\" con el ente diplomático.",
+      "titulo": "Casi tres semanas preso por convocar a una oración por Cuba: ONG pide garantías para pastor de Camagüey",
+      "resumen": "Pupo Velázquez, de la Iglesia Palabra de Fuego Bendición Sagrada, fue detenido el 26 de septiembre y permanece en la prisión conocida como Cerámica Roja, en Camagüey.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cultura/1791928059_69381.html",
+      "enlace_original": "https://www.martinoticias.com/a/casi-tres-semanas-preso-por-convocar-a-una-oraci%c3%b3n-por-cuba-ong-pide-garant%c3%adas-para-pastor-de-camag%c3%bcey/481944.html",
       "destacada": false,
-      "tema": "cancela",
-      "fecha": "Tue, 13 Oct 2026 23:47:39 +0200",
-      "id": 27
+      "tema": "semanas",
+      "fecha": "Wed, 14 Oct 2026 11:19:46 -0400",
+      "id": 31
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Casi 300 eventos represivos en Cuba en un mes, con particular énfasis en las cárceles",
-      "resumen": "Durante septiembre, #Cubalex documentó 298 eventos represivos en #Cuba, con las #cárceles como principal foco de violencia: 147 incidentes contra reclusos, casi la mitad del total.",
+      "titulo": "Denuncian falta de atención médica, desnutrición y muertes en prisiones cubanas durante septiembre",
+      "resumen": "La falta de atención médica, la mala alimentación y las represalias contra quienes denuncian abusos marcaron la situación de las cárceles cubanas durante septiembre de 2026, según un informe del Centro de Documentación de Prisiones Cubanas que documentó al menos cuatro muertes bajo custodia.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1791924907_69378.html",
+      "enlace_original": "https://www.martinoticias.com/a/denuncian-falta-de-atenci%c3%b3n-m%c3%a9dica-desnutrici%c3%b3n-y-muertes-en-prisiones-cubanas-durante-septiembre/481939.html",
       "destacada": false,
-      "tema": "eventos",
-      "fecha": "Tue, 13 Oct 2026 22:55:07 +0200",
-      "id": 28
+      "tema": "denuncian",
+      "fecha": "Wed, 14 Oct 2026 10:42:30 -0400",
+      "id": 32
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Dalia Spa: la polémica que pone al descubierto el colapso del sistema de salud en Cuba",
+      "resumen": "Mientras las autoridades reiteran que la medicina privada está prohibida, la población busca alternativas en dólares ante el deterioro de los servicios públicos.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/dalia-spa-la-pol%c3%a9mica-que-pone-al-descubierto-el-colapso-del-sistema-de-salud-en-cuba/481937.html",
+      "destacada": false,
+      "tema": "dalia",
+      "fecha": "Wed, 14 Oct 2026 10:05:59 -0400",
+      "id": 33
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Nuevos billetes, más inflación y menos efectivo: ¿qué está pasando en cuba?",
+      "resumen": "Cuba ya tiene en circulación el billete de mayor denominación de su historia. El nuevo billete de 20.000 pesos equivale a más de seis salarios mínimos y refleja el deterioro del poder adquisitivo de la moneda nacional en medio de la inflación y la crisis económica.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/nuevos-billetes-m%c3%a1s-inflaci%c3%b3n-y-menos-efectivo-qu%c3%a9-est%c3%a1-pasando-en-cuba/481936.html",
+      "destacada": false,
+      "tema": "nuevos",
+      "fecha": "Wed, 14 Oct 2026 10:00:21 -0400",
+      "id": 34
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El futuro es ya",
+      "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/480925.html",
+      "destacada": false,
+      "tema": "futuro",
+      "fecha": "Wed, 14 Oct 2026 10:00:00 -0400",
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -378,7 +469,7 @@
       "destacada": false,
       "tema": "guardacostas",
       "fecha": "Wed, 14 Oct 2026 08:28:15 -0400",
-      "id": 29
+      "id": 36
     },
     {
       "categoria": "economia",
@@ -391,7 +482,7 @@
       "destacada": false,
       "tema": "martinoticias",
       "fecha": "Wed, 14 Oct 2026 08:00:00 -0400",
-      "id": 30
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -404,33 +495,46 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Wed, 14 Oct 2026 07:00:00 -0400",
-      "id": 31
+      "id": 38
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba publica una nueva Ley de la Vivienda: ¿qué cambia? (+ PDF)",
+      "resumen": "Cuba publicó este miércoles en la Gaceta Oficial la Ley 187 de la Vivienda, una normativa que regula el acceso, la construcción, el uso, la conservación y la transmisión de los inmuebles, así como las políticas públicas para garantizar el derecho a una vivienda adecuada. The post Cuba publica una nu",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480922.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/14/cuba-publica-una-nueva-ley-de-la-vivienda-que-cambia/",
       "destacada": false,
-      "tema": "",
-      "fecha": "Wed, 14 Oct 2026 00:00:30 -0400",
-      "id": 32
+      "tema": "publica",
+      "fecha": "Wed, 14 Oct 2026 14:33:48 +0000",
+      "id": 39
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 8:00 PM",
-      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Marco Rubio hace llamadas a mandatarios latinoamericanos para intentar evitar aplastante derrota en la votación contra el bloqueo a Cuba",
+      "resumen": "Ante el avecinamiento de la discusión en la Asamblea General de la Resolución que condena ese bloqueo y que ha sido aprobada una treintena de veces en ese órgano de las Naciones Unidas, el Secretario de Estado anda movilizado llamando a mandatarios latinoamericanos para pedirles no respalden a Cuba ",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480881.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/14/marco-rubio-hace-llamadas-a-mandatarios-latinoamericanos-para-intentar-evitar-aplastante-derrota-en-la-votacion-contra-el-bloqueo-a-cuba/",
       "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Tue, 13 Oct 2026 20:00:00 -0400",
-      "id": 33
+      "tema": "marco",
+      "fecha": "Wed, 14 Oct 2026 14:05:44 +0000",
+      "id": 40
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "En Cuba se seguirá priorizando la atención a las personas con enfermedad renal crónica",
+      "resumen": "La voluntad política de la Revolución Cubana de priorizar la atención a los pacientes afectados por la enfermedad renal crónica (ERC), y el desarrollo de la especialidad de Nefrología, que tuvo en el Comandante en Jefe Fidel Castro Ruz a su principal impulsor, fueron ratificados por el Primer Secret",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/14/en-cuba-se-seguira-priorizando-la-atencion-a-las-personas-con-enfermedad-renal-cronica/",
+      "destacada": false,
+      "tema": "seguirá",
+      "fecha": "Wed, 14 Oct 2026 13:37:27 +0000",
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -443,7 +547,7 @@
       "destacada": false,
       "tema": "diorges",
       "fecha": "Wed, 14 Oct 2026 13:21:51 +0000",
-      "id": 34
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -456,7 +560,7 @@
       "destacada": false,
       "tema": "abajo",
       "fecha": "Wed, 14 Oct 2026 12:11:56 +0000",
-      "id": 35
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -469,7 +573,20 @@
       "destacada": false,
       "tema": "frank",
       "fecha": "Wed, 14 Oct 2026 05:17:59 +0000",
-      "id": 36
+      "id": 44
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Una mesa, una historia, dos culturas: solidaridad con Cuba desde Barcelona (+Fotos)",
+      "resumen": "Defensem Cuba / Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125490-una-mesa-una-historia-dos-culturas-solidaridad-con-cuba-desde-barcelona-fotos.jpg?t=1791991273",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261014/125490/125490-una-mesa-una-historia-dos-culturas-solidaridad-con-cuba-desde-barcelona-fotos",
+      "destacada": false,
+      "tema": "historia",
+      "fecha": "Wed, 14 Oct 26 17:19:00 +0200",
+      "id": 45
     },
     {
       "categoria": "energia",
@@ -482,7 +599,7 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Wed, 14 Oct 26 11:19:00 +0200",
-      "id": 37
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -495,7 +612,7 @@
       "destacada": false,
       "tema": "abracemos",
       "fecha": "Wed, 14 Oct 26 07:37:00 +0200",
-      "id": 38
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -508,7 +625,7 @@
       "destacada": false,
       "tema": "félix",
       "fecha": "Wed, 14 Oct 26 07:30:00 +0200",
-      "id": 39
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -521,7 +638,7 @@
       "destacada": false,
       "tema": "cipayos",
       "fecha": "Wed, 14 Oct 26 07:29:00 +0200",
-      "id": 40
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -534,7 +651,7 @@
       "destacada": false,
       "tema": "alcántara",
       "fecha": "Wed, 14 Oct 26 06:57:00 +0200",
-      "id": 41
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -547,7 +664,7 @@
       "destacada": false,
       "tema": "quisicuaba",
       "fecha": "Wed, 14 Oct 26 06:36:00 +0200",
-      "id": 42
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -560,20 +677,7 @@
       "destacada": false,
       "tema": "importación",
       "fecha": "Wed, 14 Oct 26 06:33:00 +0200",
-      "id": 43
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba seguirá priorizando la atención a las personas con enfermedad renal crónica",
-      "resumen": "René Tamayo León Presidencia Cuba El Primer Secretario del Comité Central del Partido Comunista y Pr...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125478-cuba-seguira-priorizando-la-atencion-a-las-personas-con-enfermedad-renal-cronica.jpg?t=1791952384",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261014/125478/125478-cuba-seguira-priorizando-la-atencion-a-las-personas-con-enfermedad-renal-cronica",
-      "destacada": false,
-      "tema": "seguirá",
-      "fecha": "Wed, 14 Oct 26 06:32:00 +0200",
-      "id": 44
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -586,7 +690,7 @@
       "destacada": false,
       "tema": "finca",
       "fecha": "Tue, 13 Oct 2026 12:44:52 +0000",
-      "id": 45
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -599,33 +703,7 @@
       "destacada": false,
       "tema": "empresa",
       "fecha": "Tue, 13 Oct 2026 14:48:29 +0000",
-      "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cancelan sello postal por aniversario 50 de la Universidad de las Artes",
-      "resumen": "La cancelación fue realizada en la Universidad de las Artes por los Ministerios de Cultura, Comunicaciones, el Museo Postal Cubano José Luis Guerra Aguiar y el Grupo Empresarial Correos de Cuba La entrada Cancelan sello postal por aniversario 50 de la Universidad de las Artes se publicó primero en T",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/cancelan-sello-postal-por-aniversario-50-de-la-universidad-de-las-artes/",
-      "destacada": false,
-      "tema": "cancelan",
-      "fecha": "Tue, 13 Oct 2026 15:25:17 +0000",
-      "id": 47
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Exhiben reliquias fundacionales de la ciudad",
-      "resumen": "La exposición titulada \"La Atenas de Cuba, 333 aniversario: Un viaje por nuestras raíces e historia fundacional\", reúne por primera vez las reliquias de la fundación de la ciudad de Matanzas este 12 de octubre en el otrora palacete del Conde de la Diana, ubicado en Calle Milanés no. 25.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/13/reliquias-fundacionales-ciudad-matanzas/",
-      "destacada": false,
-      "tema": "exhiben",
-      "fecha": "Tue, 13 Oct 2026 13:40:35 +0000",
-      "id": 48
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -637,8 +715,21 @@
       "enlace_original": "https://eltoque.com/la-bolita-en-cuba-probar-suerte-cuando-el-salario-no-alcanza",
       "destacada": false,
       "tema": "bolita",
-      "fecha": "Wed, 14 Oct 2026 11:00:00 GMT",
-      "id": 49
+      "fecha": "Wed, 14 Oct 2026 14:42:46 GMT",
+      "id": 55
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El dólar informal escala a 790 CUP y acumula 40 pesos de depreciación en lo que va de octubre",
+      "resumen": "El dólar informal subió a 790 CUP este miércoles y el peso cubano acumula una depreciación de 40 pesos frente a la divisa estadounidense en 14 días de octubre.",
+      "imagen_url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/2024_12_19_Mederos_DOLARIZACION_1_524dc19753.jpg/width=1920,quality=75,fit=scale-down,dpr=1,slow-connection-quality=40",
+      "enlace_original": "https://eltoque.com/el-dolar-informal-escala-a-790-cup",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Wed, 14 Oct 2026 14:42:22 GMT",
+      "id": 56
     },
     {
       "categoria": "economia",
@@ -651,7 +742,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 10:15:00 GMT",
-      "id": 50
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -664,7 +755,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Tue, 13 Oct 2026 10:00:00 GMT",
-      "id": 51
+      "id": 58
     },
     {
       "categoria": "transporte",
@@ -677,7 +768,7 @@
       "destacada": false,
       "tema": "estrena",
       "fecha": "Mon, 12 Oct 2026 23:42:13 GMT",
-      "id": 52
+      "id": 59
     }
   ]
 }
