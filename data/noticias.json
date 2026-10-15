@@ -1,8 +1,21 @@
 {
   "fecha": "2026-10-15",
-  "hora": "13:31",
-  "total": 56,
+  "hora": "15:22",
+  "total": 66,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba, resiliencia y guerra cognitiva: la asimetría como campo de batalla",
+      "resumen": "La Isla es blanco de una lógica operativa en acción de una guerra no convencional,&nbsp;multiforme o híbrida, cuyo carácter polifacético dejó atrás experiencias anteriores",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-14/cuba-resiliencia-y-guerra-cognitiva-la-asimetria-como-campo-de-batalla-14-10-2026-18-10-59",
+      "destacada": true,
+      "tema": "resiliencia",
+      "fecha": "Wed, 14 Oct 2026 18:10:59 -0400",
+      "id": 1
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
@@ -14,33 +27,7 @@
       "destacada": true,
       "tema": "bloqueo",
       "fecha": "Wed, 14 Oct 2026 18:10:15 -0400",
-      "id": 1
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Valdés Mesa insta a impulsar siembra y producción de granos en Cienfuegos",
-      "resumen": "A agilizar los pasos tendentes a la identificación de nuevas áreas para la producción de arroz llamó el vicepresidente cubano, Salvador Valdés Mesa, este miércoles en la tarde, durante encuentro efectuado en la Empresa Azucarera 5 de Septiembre, del municipio de Rodas",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-14/valdes-mesa-insta-a-impulsar-siembra-y-produccion-de-granos-en-cienfuegos-14-10-2026-17-10-25",
-      "destacada": true,
-      "tema": "valdés",
-      "fecha": "Wed, 14 Oct 2026 17:10:25 -0400",
       "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Académica dominicana destaca aportes de Cuba a la humanidad",
-      "resumen": "Santo Domingo, 15 oct (Prensa Latina) Cuba ha demostrado que es posible compartir ciencia, educación y mucha solidaridad con otros pueblos incluso en medio de grandes dificultades económicas, afirmó hoy la académica dominicana Virtudes de la Rosa Hidalgo. The post Académica dominicana destaca aporte",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/15/academica-dominicana-destaca-aportes-de-cuba-a-la-humanidad/",
-      "destacada": true,
-      "tema": "académica",
-      "fecha": "Thu, 15 Oct 2026 13:13:35 +0000",
-      "id": 3
     },
     {
       "categoria": "politica",
@@ -53,7 +40,7 @@
       "destacada": true,
       "tema": "cancillería",
       "fecha": "Thu, 15 Oct 2026 10:13:55 +0000",
-      "id": 4
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -66,7 +53,7 @@
       "destacada": true,
       "tema": "sudáfrica",
       "fecha": "Thu, 15 Oct 2026 11:54:24 +0000",
-      "id": 5
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -76,10 +63,10 @@
       "resumen": "El paquete va a 700 familias de las 2.100 identificadas como vulnerables por la organización",
       "imagen_url": "https://static.14ymedio.com/clip/c9ad3d27-66e5-48a3-ab26-ee45c4f08bfc_source-aspect-ratio_default_0.png",
       "enlace_original": "https://www.14ymedio.com/cuba/matanzas-recibe-cargamento-ayuda-humanitaria_1_1131967.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "matanzas",
       "fecha": "Thu, 15 Oct 2026 10:35:56 +0000",
-      "id": 6
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -92,7 +79,7 @@
       "destacada": false,
       "tema": "entrada",
       "fecha": "Wed, 14 Oct 2026 18:04:54 +0000",
-      "id": 7
+      "id": 6
     },
     {
       "categoria": "economia",
@@ -105,7 +92,7 @@
       "destacada": false,
       "tema": "aumento",
       "fecha": "Wed, 14 Oct 2026 15:30:42 +0000",
-      "id": 8
+      "id": 7
     },
     {
       "categoria": "energia",
@@ -118,7 +105,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Wed, 14 Oct 2026 19:22:35 +0000",
-      "id": 9
+      "id": 8
     },
     {
       "categoria": "economia",
@@ -131,7 +118,72 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 14 Oct 2026 10:19:32 +0000",
+      "id": 9
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Imparables: Crece impulso al alza del dólar y del euro en Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e129488-s27061-nid342953-imparables-crece-impulso-al-alza-dolar-euro-cuba",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Thu, 15 Oct 2026 16:13:02 +0200",
       "id": 10
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¡Ni ChatGPT pudo ayudarla! Cubano le gasta la broma del detergente a su novia y su reacción final lo dice todo",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u65722-e65722-s27065-nid342947-ni-chatgpt-pudo-ayudarla-cubano-le-gasta-broma",
+      "destacada": false,
+      "tema": "chatgpt",
+      "fecha": "Thu, 15 Oct 2026 16:08:34 +0200",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Qué país tiene la canción más emotiva sobre la emigración? Cuba compite con México y República Dominicana: ¡Elige tu favorita!",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u65722-e65722-s27065-nid342951-pais-tiene-cancion-emotiva-emigracion-cuba",
+      "destacada": false,
+      "tema": "canción",
+      "fecha": "Thu, 15 Oct 2026 15:53:48 +0200",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¡Se suman más artistas! Osmani García sorprende junto a Willy Chirino y El Chacal: «¡Se viene algo grande por Cuba!»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u65722-e65722-s27065-nid342950-suman-artistas-osmani-garcia-sorprende-junto",
+      "destacada": false,
+      "tema": "suman",
+      "fecha": "Thu, 15 Oct 2026 15:34:47 +0200",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¡Con flores y un oso gigante! Así sorprendió un cubano a su madre al regresar a Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u65722-e65722-s27065-nid342946-flores-oso-gigante-asi-sorprendio-cubano-madre-al",
+      "destacada": false,
+      "tema": "flores",
+      "fecha": "Thu, 15 Oct 2026 15:03:06 +0200",
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -144,46 +196,7 @@
       "destacada": false,
       "tema": "intercambio",
       "fecha": "Thu, 15 Oct 2026 14:02:46 +0200",
-      "id": 11
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Gobierno de Trump hace definitiva la eliminación de las prórrogas del permiso de trabajo: ¿qué significa para los cubanos?",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e129488-s27061-nid342861-gobierno-trump-hace-definitiva-eliminacion-prorrogas",
-      "destacada": false,
-      "tema": "gobierno",
-      "fecha": "Thu, 15 Oct 2026 11:56:55 +0200",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Preso político Marcos de la Luz Caballero denuncia impagos por su trabajo agrícola en La Habana",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e208512-s27061-nid342942-preso-politico-marcos-luz-caballero-denuncia-impagos",
-      "destacada": false,
-      "tema": "preso",
-      "fecha": "Thu, 15 Oct 2026 06:06:40 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Pequeña Habana: el plan para rezonificar el barrio cubano permitiría 20.000 nuevos residentes y no exige vivienda asequible",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e208512-s27061-nid342941-pequena-habana-plan-rezonificar-barrio-cubano",
-      "destacada": false,
-      "tema": "pequeña",
-      "fecha": "Thu, 15 Oct 2026 04:43:32 +0200",
-      "id": 14
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -196,7 +209,111 @@
       "destacada": false,
       "tema": "instituto",
       "fecha": "Wed, 14 Oct 2026 17:18:33 +0000",
-      "id": 15
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba amplía sus derechos en cuanto a la vivienda",
+      "resumen": "La Gaceta Oficial de la República de Cuba publicó este miércoles la Ley 187 \"Ley de la Vivienda\", una norma que amplía los derechos de propiedad, diversifica los mecanismos de acceso, protege a las personas en situación de vulnerabilidad y establece nuevas formas de gestión como las cooperativas de ",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/cuba-amplia-sus-derechos-en-cuanto-a-la-vivienda/",
+      "destacada": false,
+      "tema": "amplía",
+      "fecha": "Wed, 14 Oct 2026 18:41:45 +0000",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Industrias culturales en Santiago de Cuba asumen ejes de transformaciones económicas",
+      "resumen": "Entre el cinco y el siete de noviembre regresa el Santiago Creativo, festival que busca incrementar y visibilizar buenas prácticas en el ámbito de las industrias culturales creativas",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/industrias-culturales-en-santiago-de-cuba-asumen-ejes-de-transformaciones-economicas/",
+      "destacada": false,
+      "tema": "industrias",
+      "fecha": "Wed, 14 Oct 2026 18:19:19 +0000",
+      "id": 18
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Crece el apoyo a Cuba en el mundo",
+      "resumen": "Representantes de partidos y gobiernos exigen poner fin a la escalada de agresiones económicas que mantiene Washington contra La Habana",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/crece-el-apoyo-a-cuba-en-el-mundo/",
+      "destacada": false,
+      "tema": "crece",
+      "fecha": "Wed, 14 Oct 2026 17:58:23 +0000",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Presentan los libros Donde anida la poesía y conVergencias, de Roberto Chile",
+      "resumen": "Ambos volúmenes constituyen una propuesta artística que confirma la profunda capacidad de la creación cubana para interpretar, interrogar y celebrar su realidad",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/presentan-los-libros-donde-anida-la-poesia-y-convergencias-de-roberto-chile/",
+      "destacada": false,
+      "tema": "presentan",
+      "fecha": "Wed, 14 Oct 2026 15:35:38 +0000",
+      "id": 20
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "ARES inaugura en Mérida un viaje visual por la literatura infantil",
+      "resumen": "La Galería Le Cirque, en Mérida, abrió sus puertas a “Historias ilustradas”, una exposición del artista cubano Arístides Hernández (ARES) que marcó el inicio de la XI edición de la Jornada de la Cultura Cubana en Yucatán",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/ares-inaugura-en-merida-un-viaje-visual-por-la-literatura-infantil/",
+      "destacada": false,
+      "tema": "inaugura",
+      "fecha": "Wed, 14 Oct 2026 14:29:40 +0000",
+      "id": 21
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Evocación en Santiago de Cuba de La historia me absolverá",
+      "resumen": "En uno de los escenarios del proceso judicial, la sala de enfermeras del antiguo hospital civil santiaguero Saturnino Lora, instituciones y organizaciones realizarán jornadas científicas, talleres y actos",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/evocacion-en-santiago-de-cuba-de-la-historia-me-absolvera/",
+      "destacada": false,
+      "tema": "evocación",
+      "fecha": "Wed, 14 Oct 2026 14:19:39 +0000",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Recuerdan inicio de la Guerra de los Diez Años en Las Tunas",
+      "resumen": "La fecha fue rememorada en El Hormiguero, lugar donde Vicente García González reunió a la tropa y los convocó a luchar por la independencia de Cuba",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/recuerdan-inicio-de-la-guerra-de-los-diez-anos-en-las-tunas/",
+      "destacada": false,
+      "tema": "recuerdan",
+      "fecha": "Wed, 14 Oct 2026 14:05:26 +0000",
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Organizaciones cubanas piden al mundo no respaldar la resolución del régimen contra el embargo",
+      "resumen": "Organizaciones dentro y fuera de #Cuba tachan de \"insulto\" a la #ONU la votación sobre la resolución del #RégimenCubano contra el embargo de #EEUU y piden al mundo que no la respalde.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792072921_69403.html",
+      "destacada": false,
+      "tema": "organizaciones",
+      "fecha": "Thu, 15 Oct 2026 16:02:01 +0200",
+      "id": 24
     },
     {
       "categoria": "salud",
@@ -209,7 +326,7 @@
       "destacada": false,
       "tema": "atendidos",
       "fecha": "Thu, 15 Oct 2026 14:04:07 +0200",
-      "id": 16
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -222,7 +339,7 @@
       "destacada": false,
       "tema": "nuevos",
       "fecha": "Thu, 15 Oct 2026 13:51:34 +0200",
-      "id": 17
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -235,7 +352,7 @@
       "destacada": false,
       "tema": "pólvora",
       "fecha": "Thu, 15 Oct 2026 13:01:37 +0200",
-      "id": 18
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -248,7 +365,7 @@
       "destacada": false,
       "tema": "casos",
       "fecha": "Thu, 15 Oct 2026 12:13:09 +0200",
-      "id": 19
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -261,7 +378,7 @@
       "destacada": false,
       "tema": "nuevo",
       "fecha": "Thu, 15 Oct 2026 11:47:22 +0200",
-      "id": 20
+      "id": 29
     },
     {
       "categoria": "economia",
@@ -274,7 +391,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 15 Oct 2026 08:33:31 +0200",
-      "id": 21
+      "id": 30
     },
     {
       "categoria": "salud",
@@ -287,7 +404,7 @@
       "destacada": false,
       "tema": "colapso",
       "fecha": "Thu, 15 Oct 2026 01:11:31 +0200",
-      "id": 22
+      "id": 31
     },
     {
       "categoria": "energia",
@@ -300,7 +417,7 @@
       "destacada": false,
       "tema": "entra",
       "fecha": "Thu, 15 Oct 2026 00:01:29 +0200",
-      "id": 23
+      "id": 32
     },
     {
       "categoria": "energia",
@@ -313,85 +430,85 @@
       "destacada": false,
       "tema": "salidero",
       "fecha": "Wed, 14 Oct 2026 22:25:29 +0200",
-      "id": 24
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Llega a Cuba un nuevo cargamento de ayuda humanitaria de EEUU, esta vez para Matanzas",
-      "resumen": "Llega a #Cuba un nuevo cargamento de ayuda humanitaria de #EEUU con destino a #Matanzas. La diócesis prevé distribuir módulos de alimentos y productos de aseo entre 18.200 núcleos familiares.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792002727_69392.html",
-      "destacada": false,
-      "tema": "llega",
-      "fecha": "Wed, 14 Oct 2026 20:32:07 +0200",
-      "id": 25
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Martinoticias AM",
-      "resumen": "Revista informativa con los últimos acontecimientos ocurridos en Cuba y el mundo. Con entrevistas y temas de actualidad relacionados a la política, la economía y de interés general.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481016.html",
-      "destacada": false,
-      "tema": "martinoticias",
-      "fecha": "Thu, 15 Oct 2026 08:00:00 -0400",
-      "id": 26
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Prisoners Defenders registra 1.351 presos políticos en Cuba durante septiembre",
-      "resumen": "La organización Prisoners Defenders indica que Cuba cerró septiembre con una cifra récord de 1.351 presos políticos y de conciencia, tras documentar 50 nuevos casos durante el mes. Su presidente, Javier Larrondo, advierte del hay un agravamiento de la represión en la isla.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/prisoners-defenders-registra-1-351-presos-pol%c3%adticos-en-cuba-durante-septiembre/482028.html",
-      "destacada": false,
-      "tema": "prisoners",
-      "fecha": "Thu, 15 Oct 2026 07:36:38 -0400",
-      "id": 27
+      "id": 33
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba Habla: \"Un caos para el que no tenga recursos”",
-      "resumen": "Habanera asegura que el retiro “a nadie le alcanza” y añade que con sus 63 años busca trabajo para poder subsistir.",
+      "titulo": "Detienen en Cancún a cinco cubanos por presunta posesión de drogas y billetes falsos",
+      "resumen": "Cinco cubanos fueron detenidos en Cancún durante un operativo de seguridad, luego de que fueran sorprendidos presuntamente intercambiando bolsas con marihuana en la calle.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-un-caos-para-el-que-no-tenga-recursos/481343.html",
+      "enlace_original": "https://www.martinoticias.com/a/detienen-en-canc%c3%ban-a-cinco-cubanos-por-presunta-posesi%c3%b3n-de-drogas-y-billetes-falsos/482034.html",
       "destacada": false,
-      "tema": "habla",
-      "fecha": "Thu, 15 Oct 2026 07:00:00 -0400",
-      "id": 28
+      "tema": "detienen",
+      "fecha": "Thu, 15 Oct 2026 11:23:20 -0400",
+      "id": 34
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
+      "titulo": "Registran 1.351 presos políticos en Cuba en septiembre: \"un nuevo récord de represión\"",
+      "resumen": "Cuba cerró septiembre de 2026 con un récord de 1.351 presos políticos y de conciencia, según el más reciente informe de Prisoners Defenders, que atribuye el repunte a una escalada de represión contra ciudadanos, religiosos, activistas y periodistas.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481014.html",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-registra-1-351-presos-pol%c3%adticos-en-septiembre-un-nuevo-r%c3%a9cord-de-represi%c3%b3n/482031.html",
       "destacada": false,
-      "tema": "",
-      "fecha": "Thu, 15 Oct 2026 00:00:30 -0400",
-      "id": 29
+      "tema": "registran",
+      "fecha": "Thu, 15 Oct 2026 11:00:27 -0400",
+      "id": 35
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La Barbacoa de Pepe",
-      "resumen": "La Barbacoa de Pepe es un muestrario de la nostalgia cubana con datos y curiosidades de los temas más variados, para la audiencia cubana. También trataremos temas internacionales y locales, siempre con el fin de educar al Cubano de la Isla. Con la elocuencia de Pepe Forte.",
+      "titulo": "Lawton Libre",
+      "resumen": "El reconocido opositor cubano Dr. Oscar Elías Biscet aborda la situación de los derechos humanos en Cuba y la conquista de las libertades básicas de los cubanos, bajo el precepto de que “si aprendes a ser libre, todos los seremos”. Correo Electrónico: lawtonlibremarti@gmail.com",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480952.html",
+      "enlace_original": "https://www.martinoticias.com/a/481019.html",
       "destacada": false,
-      "tema": "barbacoa",
-      "fecha": "Wed, 14 Oct 2026 21:00:00 -0400",
-      "id": 30
+      "tema": "lawton",
+      "fecha": "Thu, 15 Oct 2026 11:00:00 -0400",
+      "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "A Yordán Alvarez le espera una ajetreada temporada de premios",
+      "resumen": "Cuando termine la Serie Mundial y comiencen a repartirse los premios correspondientes a la campaña del 2026, el cubano Yordan Alvarez tendrá unos días muy ajetreados.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/a-yordan-alvarez-le-espera-una-ajetreada-temporada-de-premios/481977.html",
+      "destacada": false,
+      "tema": "yordán",
+      "fecha": "Thu, 15 Oct 2026 10:32:51 -0400",
+      "id": 37
+    },
+    {
+      "categoria": "energia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Díaz-Canel a los protagonistas del sector hidráulico: “Confiamos en ustedes”",
+      "resumen": "Diariamente en La Habana, entre 15 y 20 mil personas van saliendo del grupo poblacional que sufre déficit de agua. Así se afirmó, en la tarde de este miércoles, durante la reunión que tuvo lugar en la sede central de la Empresa de Aguas de La Habana, la cual contó con la presencia del Primer Secreta",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/15/diaz-canel-a-los-protagonistas-del-sector-hidraulico-confiamos-en-ustedes/",
+      "destacada": false,
+      "tema": "canel",
+      "fecha": "Thu, 15 Oct 2026 15:06:32 +0000",
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La Casa del ALBA presenta los libros Donde anida la poesía y conVergencias, de Roberto Chile",
+      "resumen": "La Casa del ALBA Cultural recientemente acogió una memorable jornada dedicada al diálogo entre la fotografía y la poesía con la presentación de los libros digitales Donde anida la poesía, Fotografías de Roberto Chile – Veinte poetas cubanos, y conVergencias, de Ruth Casa Editorial. Ambos volúmenes c",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/15/la-casa-del-alba-presenta-los-libros-donde-anida-la-poesia-y-convergencias-de-roberto-chile/",
+      "destacada": false,
+      "tema": "presenta",
+      "fecha": "Thu, 15 Oct 2026 14:06:49 +0000",
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -404,7 +521,7 @@
       "destacada": false,
       "tema": "quinta",
       "fecha": "Thu, 15 Oct 2026 04:42:58 +0000",
-      "id": 31
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -417,7 +534,7 @@
       "destacada": false,
       "tema": "mujer",
       "fecha": "Thu, 15 Oct 2026 04:03:54 +0000",
-      "id": 32
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -430,7 +547,7 @@
       "destacada": false,
       "tema": "regresa",
       "fecha": "Thu, 15 Oct 2026 03:28:30 +0000",
-      "id": 33
+      "id": 42
     },
     {
       "categoria": "salud",
@@ -443,7 +560,7 @@
       "destacada": false,
       "tema": "consejo",
       "fecha": "Thu, 15 Oct 2026 03:16:36 +0000",
-      "id": 34
+      "id": 43
     },
     {
       "categoria": "transporte",
@@ -456,7 +573,7 @@
       "destacada": false,
       "tema": "documental",
       "fecha": "Thu, 15 Oct 26 14:41:00 +0200",
-      "id": 35
+      "id": 44
     },
     {
       "categoria": "energia",
@@ -469,20 +586,7 @@
       "destacada": false,
       "tema": "cambio",
       "fecha": "Thu, 15 Oct 26 14:33:00 +0200",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba, resiliencia y guerra cognitiva: la asimetría como campo de batalla",
-      "resumen": "Por Raúl Capote* - Original en Granma",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125506-cuba-resiliencia-y-guerra-cognitiva-la-asimetria-como-campo-de-batalla.jpg?t=1792044612",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261015/125506/125506-cuba-resiliencia-y-guerra-cognitiva-la-asimetria-como-campo-de-batalla",
-      "destacada": false,
-      "tema": "resiliencia",
-      "fecha": "Thu, 15 Oct 26 08:10:00 +0200",
-      "id": 37
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -495,7 +599,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Thu, 15 Oct 26 08:06:00 +0200",
-      "id": 38
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -508,7 +612,7 @@
       "destacada": false,
       "tema": "meten",
       "fecha": "Thu, 15 Oct 26 08:05:00 +0200",
-      "id": 39
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -521,7 +625,7 @@
       "destacada": false,
       "tema": "albacete",
       "fecha": "Thu, 15 Oct 26 07:35:00 +0200",
-      "id": 40
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -534,7 +638,7 @@
       "destacada": false,
       "tema": "repudio",
       "fecha": "Thu, 15 Oct 26 06:56:00 +0200",
-      "id": 41
+      "id": 49
     },
     {
       "categoria": "energia",
@@ -547,7 +651,7 @@
       "destacada": false,
       "tema": "lugares",
       "fecha": "Thu, 15 Oct 26 06:55:00 +0200",
-      "id": 42
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -560,7 +664,7 @@
       "destacada": false,
       "tema": "consejo",
       "fecha": "Thu, 15 Oct 26 06:52:00 +0200",
-      "id": 43
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -573,7 +677,20 @@
       "destacada": false,
       "tema": "oportunidades",
       "fecha": "Thu, 15 Oct 26 06:50:00 +0200",
-      "id": 44
+      "id": 52
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba publica una nueva Ley de la Vivienda: ¿qué cambia? (+ PDF)",
+      "resumen": "De novedosa y a tono con las normativas jurídicas internacionales vigentes en el mundo calificó la directora de Asuntos Legales del Ministerio de la Construcción, Marvelis Velazquez Reyes, la Ley 187 de la Vivienda, publicada este miércoles en la Gaceta Oficial de la República de Cuba, tras su discu",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/cuba-publica-una-nueva-ley-de-la-vivienda-que-cambia-pdf/",
+      "destacada": false,
+      "tema": "publica",
+      "fecha": "Thu, 15 Oct 2026 14:27:55 +0000",
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -586,7 +703,7 @@
       "destacada": false,
       "tema": "alertan",
       "fecha": "Wed, 14 Oct 2026 20:24:35 +0000",
-      "id": 45
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -599,7 +716,7 @@
       "destacada": false,
       "tema": "ratifica",
       "fecha": "Wed, 14 Oct 2026 20:02:26 +0000",
-      "id": 46
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -612,7 +729,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Wed, 14 Oct 2026 15:35:27 +0000",
-      "id": 47
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -625,7 +742,7 @@
       "destacada": false,
       "tema": "entregan",
       "fecha": "Wed, 14 Oct 2026 15:40:59 +0000",
-      "id": 48
+      "id": 57
     },
     {
       "categoria": "salud",
@@ -638,7 +755,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Wed, 14 Oct 2026 12:54:00 +0000",
-      "id": 49
+      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -651,7 +768,7 @@
       "destacada": false,
       "tema": "quedar",
       "fecha": "Wed, 14 Oct 2026 12:44:00 +0000",
-      "id": 50
+      "id": 59
     },
     {
       "categoria": "sociedad",
@@ -664,7 +781,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Wed, 14 Oct 2026 12:10:00 +0000",
-      "id": 51
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -677,7 +794,20 @@
       "destacada": false,
       "tema": "artistas",
       "fecha": "Wed, 14 Oct 2026 11:34:00 +0000",
-      "id": 52
+      "id": 61
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "De 750 a 795: tres días de alza del dólar y 45 pesos menos de valor para el peso cubano",
+      "resumen": "El dólar alcanzó los 795 CUP este jueves, su tercer aumento consecutivo en el mercado informal. Desde el cierre de septiembre, el peso cubano ha perdido 45 CUP frente a la divisa estadounidense.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/AP_22194816984857_d0d00e34b3.jpg",
+      "enlace_original": "https://eltoque.com/de-750-a-795-tres-dias-de-alza-del-dolar",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Thu, 15 Oct 2026 10:00:00 GMT",
+      "id": 62
     },
     {
       "categoria": "sociedad",
@@ -690,7 +820,7 @@
       "destacada": false,
       "tema": "podrán",
       "fecha": "Wed, 14 Oct 2026 22:15:00 GMT",
-      "id": 53
+      "id": 63
     },
     {
       "categoria": "sociedad",
@@ -703,7 +833,7 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Wed, 14 Oct 2026 19:30:00 GMT",
-      "id": 54
+      "id": 64
     },
     {
       "categoria": "sociedad",
@@ -716,7 +846,7 @@
       "destacada": false,
       "tema": "bolita",
       "fecha": "Wed, 14 Oct 2026 14:42:46 GMT",
-      "id": 55
+      "id": 65
     },
     {
       "categoria": "economia",
@@ -729,7 +859,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 14 Oct 2026 14:42:22 GMT",
-      "id": 56
+      "id": 66
     }
   ]
 }
