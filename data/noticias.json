@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-15",
-  "hora": "21:19",
-  "total": 59,
+  "hora": "23:11",
+  "total": 67,
   "noticias": [
     {
       "categoria": "politica",
@@ -30,6 +30,32 @@
       "id": 2
     },
     {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El chantaje como método",
+      "resumen": "Estados Unidos redobla la presión sobre varios gobiernos para aislar a Cuba en la ONU",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-15/el-chantaje-como-metodo-15-10-2026-18-10-03",
+      "destacada": true,
+      "tema": "chantaje",
+      "fecha": "Thu, 15 Oct 2026 18:10:03 -0400",
+      "id": 3
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Bahamas reafirma su apoyo a Cuba con nueva donación al sistema de Salud",
+      "resumen": "El cargamento, compuesto por cerca de una tonelada de medicamentos e insumos médicos, está destinado al Instituto Nacional de Oncología y Radiobiología",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-15/bahamas-reafirma-su-apoyo-a-cuba-con-nueva-donacion-al-sistema-de-salud-15-10-2026-18-10-54",
+      "destacada": true,
+      "tema": "bahamas",
+      "fecha": "Thu, 15 Oct 2026 18:10:54 -0400",
+      "id": 4
+    },
+    {
       "categoria": "energia",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
@@ -40,7 +66,7 @@
       "destacada": true,
       "tema": "áfrica",
       "fecha": "Thu, 15 Oct 2026 17:10:41 -0400",
-      "id": 3
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -50,23 +76,10 @@
       "resumen": "El Instituto de Nefrología mantiene 36 investigaciones en curso y participa en el Proyecto Diálisis, dirigido a fabricar una máquina de reúso, una de hemodiálisis y dializadores",
       "imagen_url": "",
       "enlace_original": "http://www.granma.cu/cuba/2026-10-14/pese-al-bloqueo-se-prioriza-la-atencion-a-pacientes-con-enfermedad-renal-cronica-14-10-2026-18-10-15",
-      "destacada": true,
+      "destacada": false,
       "tema": "bloqueo",
       "fecha": "Wed, 14 Oct 2026 18:10:15 -0400",
-      "id": 4
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Bahamas reafirma su apoyo a Cuba con nueva donación al sistema de Salud",
-      "resumen": "El cargamento, compuesto por cerca de una tonelada de medicamentos e insumos médicos, está destinado al Instituto Nacional de Oncología y Radiobiología",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/salud/2026-10-15/bahamas-reafirma-su-apoyo-a-cuba-con-nueva-donacion-al-sistema-de-salud",
-      "destacada": true,
-      "tema": "bahamas",
-      "fecha": "Thu, 15 Oct 2026 15:10:44 -0400",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -79,46 +92,46 @@
       "destacada": false,
       "tema": "maría",
       "fecha": "Thu, 15 Oct 2026 16:10:32 -0400",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Paso firme del Beisbol5 cubano en Barquisimeto",
-      "resumen": "Tanto el conjunto juvenil como el absoluto arrancaron con par de triunfos",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-10-15/paso-firme-del-beisbol5-cubano-en-barquisimeto-15-10-2026-16-10-14",
-      "destacada": false,
-      "tema": "firme",
-      "fecha": "Thu, 15 Oct 2026 16:10:14 -0400",
       "id": 7
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Entregan Premio Literario “Ciudad del Che” en el centro de Cuba",
-      "resumen": "Santa Clara, 15 de oct (Prensa-Latina) El Premio de Poesía y la Beca literaria “Ciudad del Che” 2026, fueron entregados hoy aquí, como parte de la Jornada por la Cultura Nacional en Cuba. The post Entregan Premio Literario “Ciudad del Che” en el centro de Cuba first appeared on Noticias Prensa Latin",
+      "titulo": "Béisbol cubano: Alazanes agitan la lucha en el oriente",
+      "resumen": "La Habana, 15 oct (Prensa Latina) Los Alazanes de Granma derrotaron hoy 6-2 a las Avispas de Santiago de Cuba y recortaron distancias en la Zona Oriental de la 65.ª Serie Nacional de Béisbol. The post Béisbol cubano: Alazanes agitan la lucha en el oriente first appeared on Noticias Prensa Latina.",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/15/entregan-premio-literario-ciudad-del-che-en-el-centro-de-cuba/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/15/beisbol-cubano-alazanes-agitan-la-lucha-en-el-oriente/",
       "destacada": false,
-      "tema": "entregan",
-      "fecha": "Thu, 15 Oct 2026 21:05:02 +0000",
+      "tema": "béisbol",
+      "fecha": "Thu, 15 Oct 2026 22:31:13 +0000",
       "id": 8
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Motivación simple: quiero ayudar a Cuba, afirma fotógrafo en París",
-      "resumen": "París, 15 oct (Prensa Latina) Con una presentación artística sobre la realidad de Cuba en la embajada de ese país en Francia, el fotógrafo italiano Giovanni di Stefano busca hoy materializar una motivación simple: quiero ayudar a Cuba, donde viven personas maravillosas. The post Motivación simple: q",
+      "titulo": "Magalys Pedrero dedica su premio de la FAO a las mujeres cubanas",
+      "resumen": "Roma, 16 oct (Prensa Latina) La cubana Magalys Pedrero Basulto manifestó sentirse orgullosa y feliz por haber sido premiada entre las 100 Heroínas de la FAO, durante una ceremonia efectuada en el Foro Mundial de la Alimentación, que concluye hoy en esta capital. The post Magalys Pedrero dedica su pr",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/15/motivacion-simple-quiero-ayudar-a-cuba-afirma-fotografo-en-paris/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/15/magalys-pedrero-dedica-su-premio-de-la-fao-a-las-mujeres-cubanas/",
       "destacada": false,
-      "tema": "motivación",
-      "fecha": "Thu, 15 Oct 2026 21:02:02 +0000",
+      "tema": "magalys",
+      "fecha": "Thu, 15 Oct 2026 22:06:11 +0000",
       "id": 9
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EE UU sanciona por sus vínculos con Irán al banco cubano que protagonizó el ‘deshielo’ con Obama",
+      "resumen": "El Bicsa, que en 2015 estableció una histórica relación financiera con una entidad de Florida, prestaba servicios al iraní Karafarin desde al menos 2022, según Washington",
+      "imagen_url": "https://static.14ymedio.com/clip/e04d8c00-01ad-4e92-b08e-fe1466ccb213_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/ee-uu-sanciona-vinculos-iran_1_1132005.html",
+      "destacada": false,
+      "tema": "sanciona",
+      "fecha": "Thu, 15 Oct 2026 21:13:16 +0000",
+      "id": 10
     },
     {
       "categoria": "economia",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 15 Oct 2026 18:26:02 +0000",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -144,7 +157,7 @@
       "destacada": false,
       "tema": "henry",
       "fecha": "Thu, 15 Oct 2026 19:12:24 +0000",
-      "id": 11
+      "id": 12
     },
     {
       "categoria": "politica",
@@ -157,7 +170,7 @@
       "destacada": false,
       "tema": "cancillería",
       "fecha": "Thu, 15 Oct 2026 10:13:55 +0000",
-      "id": 12
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -170,7 +183,7 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Thu, 15 Oct 2026 14:46:04 +0000",
-      "id": 13
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -183,7 +196,7 @@
       "destacada": false,
       "tema": "sudáfrica",
       "fecha": "Thu, 15 Oct 2026 11:54:24 +0000",
-      "id": 14
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -196,7 +209,59 @@
       "destacada": false,
       "tema": "explicaciones",
       "fecha": "Thu, 15 Oct 2026 15:13:48 +0000",
-      "id": 15
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Dos cubanos son asaltados a punta de pistola en Guyana: un sospechoso resulta baleado",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e208933-s27061-nid342981-dos-cubanos-son-asaltados-punta-pistola-guyana",
+      "destacada": false,
+      "tema": "cubanos",
+      "fecha": "Thu, 15 Oct 2026 23:28:20 +0200",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "En menos de 24 horas: Llega la ayuda a ancianos cubanos en extrema pobreza",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e208487-s27061-nid342979-menos-24-horas-llega-ayuda-ancianos-cubanos-extrema",
+      "destacada": false,
+      "tema": "menos",
+      "fecha": "Thu, 15 Oct 2026 23:26:12 +0200",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Tras ser deportado, un cubano levanta un taller en La Habana y emplea a otros retornados",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e135253-s27061-nid342977-tras-ser-deportado-cubano-levanta-taller-habana",
+      "destacada": false,
+      "tema": "deportado",
+      "fecha": "Thu, 15 Oct 2026 22:59:12 +0200",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "180 cubanos pasan más de 24 horas varados en aeropuerto de Aruba tras incidente aéreo",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e208933-s27061-nid342975-180-cubanos-pasan-24-horas-varados-aeropuerto-aruba",
+      "destacada": false,
+      "tema": "cubanos",
+      "fecha": "Thu, 15 Oct 2026 22:48:48 +0200",
+      "id": 20
     },
     {
       "categoria": "politica",
@@ -209,33 +274,7 @@
       "destacada": false,
       "tema": "están",
       "fecha": "Thu, 15 Oct 2026 22:37:11 +0200",
-      "id": 16
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "EE.UU. sanciona al Banco Internacional de Comercio de Cuba y señala sus vínculos con un banco iraní",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e199894-s27061-nid342971-eeuu-sanciona-al-banco-internacional-comercio-cuba",
-      "destacada": false,
-      "tema": "sanciona",
-      "fecha": "Thu, 15 Oct 2026 20:35:43 +0200",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Sudáfrica ordena cerrar programa militar con Cuba tras detectar gastos irregulares millonarios",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e135253-s27061-nid342966-sudafrica-ordena-cerrar-programa-militar-cuba-tras",
-      "destacada": false,
-      "tema": "sudáfrica",
-      "fecha": "Thu, 15 Oct 2026 20:02:04 +0200",
-      "id": 18
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -248,7 +287,7 @@
       "destacada": false,
       "tema": "instituto",
       "fecha": "Wed, 14 Oct 2026 17:18:33 +0000",
-      "id": 19
+      "id": 22
     },
     {
       "categoria": "transporte",
@@ -261,7 +300,7 @@
       "destacada": false,
       "tema": "inaugura",
       "fecha": "Thu, 15 Oct 2026 20:21:39 +0000",
-      "id": 20
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -274,7 +313,7 @@
       "destacada": false,
       "tema": "amplía",
       "fecha": "Wed, 14 Oct 2026 18:41:45 +0000",
-      "id": 21
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -287,7 +326,7 @@
       "destacada": false,
       "tema": "industrias",
       "fecha": "Wed, 14 Oct 2026 18:19:19 +0000",
-      "id": 22
+      "id": 25
     },
     {
       "categoria": "politica",
@@ -300,7 +339,20 @@
       "destacada": false,
       "tema": "crece",
       "fecha": "Wed, 14 Oct 2026 17:58:23 +0000",
-      "id": 23
+      "id": 26
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El dólar llega a los 800 pesos en el mercado informal cubano y el euro roza los 900",
+      "resumen": "El #dólar alcanza los 800 pesos y el #euro roza los 900 en el mercado informal #cubano. También suben el MLC y el dólar canadiense, en medio de la #inflación y la pérdida de poder adquisitivo.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1792105832_69409.html",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Fri, 16 Oct 2026 01:10:32 +0200",
+      "id": 27
     },
     {
       "categoria": "transporte",
@@ -313,7 +365,7 @@
       "destacada": false,
       "tema": "periodista",
       "fecha": "Thu, 15 Oct 2026 22:52:30 +0200",
-      "id": 24
+      "id": 28
     },
     {
       "categoria": "economia",
@@ -326,7 +378,7 @@
       "destacada": false,
       "tema": "sanciona",
       "fecha": "Thu, 15 Oct 2026 20:43:44 +0200",
-      "id": 25
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -339,7 +391,7 @@
       "destacada": false,
       "tema": "votan",
       "fecha": "Thu, 15 Oct 2026 20:22:31 +0200",
-      "id": 26
+      "id": 30
     },
     {
       "categoria": "salud",
@@ -352,7 +404,7 @@
       "destacada": false,
       "tema": "justicia",
       "fecha": "Thu, 15 Oct 2026 19:24:55 +0200",
-      "id": 27
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -365,7 +417,7 @@
       "destacada": false,
       "tema": "humanitaria",
       "fecha": "Thu, 15 Oct 2026 17:59:54 +0200",
-      "id": 28
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -378,7 +430,7 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Thu, 15 Oct 2026 16:02:01 +0200",
-      "id": 29
+      "id": 33
     },
     {
       "categoria": "salud",
@@ -391,7 +443,7 @@
       "destacada": false,
       "tema": "atendidos",
       "fecha": "Thu, 15 Oct 2026 14:04:07 +0200",
-      "id": 30
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -404,7 +456,7 @@
       "destacada": false,
       "tema": "nuevos",
       "fecha": "Thu, 15 Oct 2026 13:51:34 +0200",
-      "id": 31
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -417,85 +469,59 @@
       "destacada": false,
       "tema": "pólvora",
       "fecha": "Thu, 15 Oct 2026 13:01:37 +0200",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Tres casos de detención en Cuba ponen bajo presión la libertad de expresión y religiosa",
-      "resumen": "Detenciones en #Cuba: Un pastor sigue en Villa Marista, un tatuador y su esposa enfrentan #PrisiónProvisional en Sancti Spíritus y otro líder religioso permanece encarcelado en #Camagüey.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1792059189_69399.html",
-      "destacada": false,
-      "tema": "casos",
-      "fecha": "Thu, 15 Oct 2026 12:13:09 +0200",
-      "id": 33
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al día",
-      "resumen": "Analizamos, junto a Emilio Morales, de Havana Consulting Group, las declaraciones de Carlos Miguel Pérez-Reyes sobre las 176 transformaciones económicas y sociales anunciadas por el régimen cubano.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/482068.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Thu, 15 Oct 2026 17:13:02 -0400",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 5:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481055.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Thu, 15 Oct 2026 17:00:30 -0400",
-      "id": 35
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Madre busca a su hija desaparecida hace 19 meses en Cuba",
-      "resumen": "Familiares mantienen la búsqueda de Doraiky Águila Vázquez, desaparecida en La Habana en 2025.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/madre-busca-a-su-hija-desaparecida-hace-19-meses-en-cuba/482062.html",
-      "destacada": false,
-      "tema": "madre",
-      "fecha": "Thu, 15 Oct 2026 16:59:04 -0400",
       "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "EEUU busca revocar ciudadanía a 40 personas; hay dos cubanos y un fraude con la Ley de Ajuste Cubano",
-      "resumen": "El Departamento de Justicia de Estados Unidos anunció una ofensiva sin precedentes para revocar la ciudadanía a 40 personas naturalizadas acusadas de ocultar delitos graves, cometer fraude migratorio o mentir durante sus procesos de naturalización, entre ellas dos ciudadanos nacidos en Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/eeuu-busca-revocar-ciudadan%c3%ada-a-40-personas-hay-dos-cubanos-y-un-caso-con-falsa-identidad-de-la-isla/482064.html",
-      "destacada": false,
-      "tema": "busca",
-      "fecha": "Thu, 15 Oct 2026 16:15:07 -0400",
-      "id": 37
     },
     {
       "categoria": "energia",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Las Noticias Como Son",
-      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
+      "titulo": "Ley de la Vivienda: el régimen no resuelve el déficit ni renuncia al poder de quitar propiedades",
+      "resumen": "La nueva Ley de la Vivienda de Cuba permite poseer hasta dos viviendas más una de veraneo pero mantiene amplias facultades estatales para disponer de propiedades y ordenar desalojos. Especialistas advierten que la reforma no resuelve la escasez de viviendas ni la falta de materiales.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481047.html",
+      "enlace_original": "https://www.martinoticias.com/a/ley-de-la-vivienda-el-r%c3%a9gimen-no-resuelve-el-d%c3%a9ficit-ni-renuncia-al-poder-de-quitar-propiedades/482040.html",
       "destacada": false,
-      "tema": "noticias",
-      "fecha": "Thu, 15 Oct 2026 16:05:30 -0400",
+      "tema": "vivienda",
+      "fecha": "Thu, 15 Oct 2026 18:12:43 -0400",
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"Serán devueltos a Cuba\", advierte abogado tras reciente caso de balsero cubano (VIDEO)",
+      "resumen": "Enrique René Reyes Martínez, un cubano de 38 años residente en La Lisa, sobrevivió cuatro días a la deriva en una embarcación improvisada antes de ser rescatado cerca de Miami y repatriado a Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/ser%c3%a1n-devueltos-a-cuba-advierte-abogado-tras-reciente-caso-de-balsero-cubano/482063.html",
+      "destacada": false,
+      "tema": "serán",
+      "fecha": "Thu, 15 Oct 2026 17:38:11 -0400",
       "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Uruguay: la última frontera del régimen castrista en América del Sur (Video)",
+      "resumen": "Cuando en el 2022, Carlos Liscano, ex guerrillero uruguayo, escritor, dramaturgo y activista político de la izquierda, ya enfermo de muerte, publicó el libro “Cuba, de eso mejor ni hablar” como “la crónica de un desencanto largamente procesado y, también, una severa acusación a parte de la intelectu",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/uruguay-la-%c3%baltima-frontera-del-r%c3%a9gimen-castrista-en-am%c3%a9rica-del-sur/481976.html",
+      "destacada": false,
+      "tema": "uruguay",
+      "fecha": "Thu, 15 Oct 2026 17:36:38 -0400",
+      "id": 39
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Balsero cubano es repatriado a la isla tras ser rescatado cerca de Miami",
+      "resumen": "Tras sobrevivir cuatro días en el mar, un cubano fue rescatado cerca de Miami y repatriado a la isla. El abogado de inmigración Wilfredo Allen advierte sobre los peligros de estas travesías y las restricciones migratorias para quienes son interceptados en alta mar.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/482070.html",
+      "destacada": false,
+      "tema": "balsero",
+      "fecha": "Thu, 15 Oct 2026 17:24:52 -0400",
+      "id": 40
     },
     {
       "categoria": "energia",
@@ -508,7 +534,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 15 Oct 2026 15:06:32 +0000",
-      "id": 39
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -521,7 +547,7 @@
       "destacada": false,
       "tema": "presenta",
       "fecha": "Thu, 15 Oct 2026 14:06:49 +0000",
-      "id": 40
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -534,7 +560,33 @@
       "destacada": false,
       "tema": "quinta",
       "fecha": "Thu, 15 Oct 2026 04:42:58 +0000",
-      "id": 41
+      "id": 43
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Cubanos?",
+      "resumen": "Por Lazaro Fariñas*/Foto Virgilio Ponce -Martianos.- digital@juventudrebelde.cu.- COMENTARIOS DESDE ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125511-cubanos.jpg?t=1792100776",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261015/125511/125511-cubanos",
+      "destacada": false,
+      "tema": "cubanos",
+      "fecha": "Thu, 15 Oct 26 23:46:00 +0200",
+      "id": 44
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "El sempiterno problema Cuba-USA",
+      "resumen": "Por Lorenzo Gonzalo*/Foto Virgilio Ponce -Martianos-Hermes-Cubainformación-Radio Miami.- Durante 67 ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125510-el-sempiterno-problema-cuba-usa.jpg?t=1792100585",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261015/125510/125510-el-sempiterno-problema-cuba-usa",
+      "destacada": false,
+      "tema": "sempiterno",
+      "fecha": "Thu, 15 Oct 26 23:43:00 +0200",
+      "id": 45
     },
     {
       "categoria": "transporte",
@@ -547,7 +599,7 @@
       "destacada": false,
       "tema": "documental",
       "fecha": "Thu, 15 Oct 26 14:41:00 +0200",
-      "id": 42
+      "id": 46
     },
     {
       "categoria": "energia",
@@ -560,7 +612,7 @@
       "destacada": false,
       "tema": "cambio",
       "fecha": "Thu, 15 Oct 26 14:33:00 +0200",
-      "id": 43
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -573,7 +625,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Thu, 15 Oct 26 08:06:00 +0200",
-      "id": 44
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -586,7 +638,7 @@
       "destacada": false,
       "tema": "meten",
       "fecha": "Thu, 15 Oct 26 08:05:00 +0200",
-      "id": 45
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -599,7 +651,7 @@
       "destacada": false,
       "tema": "albacete",
       "fecha": "Thu, 15 Oct 26 07:35:00 +0200",
-      "id": 46
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -612,7 +664,7 @@
       "destacada": false,
       "tema": "repudio",
       "fecha": "Thu, 15 Oct 26 06:56:00 +0200",
-      "id": 47
+      "id": 51
     },
     {
       "categoria": "energia",
@@ -625,33 +677,7 @@
       "destacada": false,
       "tema": "lugares",
       "fecha": "Thu, 15 Oct 26 06:55:00 +0200",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Consejo de Estado de Cuba aprueba decretos leyes de Seguridad Social y Transición Energética",
-      "resumen": "Sesión ordinaria del Consejo de Estado, miércoles 14 de octubre de 2026. Foto: Tony Hernández Mena.....",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125497-consejo-de-estado-de-cuba-aprueba-decretos-leyes-de-seguridad-social-y-transicion-energetica.jpg?t=1792040071",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261015/125497/125497-consejo-de-estado-de-cuba-aprueba-decretos-leyes-de-seguridad-social-y-transicion-energetica",
-      "destacada": false,
-      "tema": "consejo",
-      "fecha": "Thu, 15 Oct 26 06:52:00 +0200",
-      "id": 49
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Qué oportunidades tiene la industria química para impulsar el desarrollo en Cuba?",
-      "resumen": "Lissette Alonso Morales, vicepresidenta primera del Grupo Empresarial de la Industria Química (GEIQ)...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125496-que-oportunidades-tiene-la-industria-quimica-para-impulsar-el-desarrollo-en-cuba.jpg?t=1792039938",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261015/125496/125496-que-oportunidades-tiene-la-industria-quimica-para-impulsar-el-desarrollo-en-cuba",
-      "destacada": false,
-      "tema": "oportunidades",
-      "fecha": "Thu, 15 Oct 26 06:50:00 +0200",
-      "id": 50
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -664,7 +690,7 @@
       "destacada": false,
       "tema": "atención",
       "fecha": "Thu, 15 Oct 2026 19:58:35 +0000",
-      "id": 51
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -677,7 +703,7 @@
       "destacada": false,
       "tema": "comenzarán",
       "fecha": "Thu, 15 Oct 2026 17:56:05 +0000",
-      "id": 52
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -690,7 +716,72 @@
       "destacada": false,
       "tema": "publica",
       "fecha": "Thu, 15 Oct 2026 14:27:55 +0000",
-      "id": 53
+      "id": 55
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Más transporte… ¿para todos?",
+      "resumen": "Una guagua que antes podía costar 10 pesos ahora cobra 700. Para quien recibe un salario en pesos cubanos y tiene que repartirlo entre comida, medicamentos y todo lo demás que cuesta vivir, la cuenta del viaje deja de ser una cuenta de transporte. Se convierte en una decisión.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/14/mas-transporte-para-todos/",
+      "destacada": false,
+      "tema": "transporte",
+      "fecha": "Wed, 14 Oct 2026 12:54:00 +0000",
+      "id": 56
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Lo que no puede quedar Apartado",
+      "resumen": "El periodismo crítico en Cuba enfrenta un grave obstáculo: el silencio de directivos y funcionarios ante las denuncias ciudadanas. Apartado 1433, decana sección de opinión, lo evidencia. Sin respuestas ágiles y reales, la confianza en las instituciones se pierde. No perdamos la brújula de la histori",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/14/lo-que-no-puede-quedar-apartado/",
+      "destacada": false,
+      "tema": "quedar",
+      "fecha": "Wed, 14 Oct 2026 12:44:00 +0000",
+      "id": 57
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Nueva Ley de la Vivienda en Cuba",
+      "resumen": "De novedosa y a tono con las normativas jurídicas internacionales vigentes en el mundo calificó la directora de Asuntos Legales del Ministerio de la Construcción, Marvelis Velázquez Reyes, la Ley 187 de la Vivienda, publicada este miércoles en la Gaceta Oficial de la República de Cuba, tras su discu",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/14/nueva-ley-vivienda-cuba/",
+      "destacada": false,
+      "tema": "nueva",
+      "fecha": "Wed, 14 Oct 2026 12:10:00 +0000",
+      "id": 58
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Artistas cubanas conquistan nuevamente Zaragoza",
+      "resumen": "Bajo el título Ellas bailan solas, diferentes espacios públicos de Zaragoza, España, acogen desde el 12 de octubre, Día de la Hispanidad, obras de 60 artistas cubanas, entre ellas las matanceras Yainyt Alcázar, Gio Fernández, Leidy Castellanos y Jennifer Mancha.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/14/artistas-cubanas-conquistan-zaragoza/",
+      "destacada": false,
+      "tema": "artistas",
+      "fecha": "Wed, 14 Oct 2026 11:34:00 +0000",
+      "id": 59
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Para quién el voto cubano en España?",
+      "resumen": "Más de 600 000 personas solicitaron la nacionalidad española por la Ley de Memoria Democrática, pero un fallo del Tribunal Supremo afecta el voto de parte de ellas.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/2026_10_14_noticiero_7089802fae.jpg",
+      "enlace_original": "https://eltoque.com/para-quien-el-voto-cubano-en-espana",
+      "destacada": false,
+      "tema": "quién",
+      "fecha": "Thu, 15 Oct 2026 22:00:00 GMT",
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -703,7 +794,7 @@
       "destacada": false,
       "tema": "recuerdos",
       "fecha": "Thu, 15 Oct 2026 17:30:00 GMT",
-      "id": 54
+      "id": 61
     },
     {
       "categoria": "economia",
@@ -716,7 +807,20 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "id": 55
+      "id": 62
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticias de la negociación de Donald Trump con Cuba",
+      "resumen": "La relación entre Estados Unidos y Cuba atraviesa uno de sus momentos más tensos en años, marcada por una combinación de presión económica, crisis energética y contactos discretos, de los cuales, en la mayoría de los casos, solo se conoce lo que se filtra a la prensa.",
+      "imagen_url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/AP_131403754861_f6c2a900de.jpg/width=1920,quality=75,fit=scale-down,dpr=1,slow-connection-quality=40",
+      "enlace_original": "https://eltoque.com/noticias-de-la-negociacion-de-donald-trump-con-cuba",
+      "destacada": false,
+      "tema": "noticias",
+      "fecha": "Thu, 15 Oct 2026 09:15:00 GMT",
+      "id": 63
     },
     {
       "categoria": "sociedad",
@@ -729,7 +833,7 @@
       "destacada": false,
       "tema": "podrán",
       "fecha": "Wed, 14 Oct 2026 22:15:00 GMT",
-      "id": 56
+      "id": 64
     },
     {
       "categoria": "sociedad",
@@ -742,7 +846,7 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Wed, 14 Oct 2026 19:30:00 GMT",
-      "id": 57
+      "id": 65
     },
     {
       "categoria": "sociedad",
@@ -755,7 +859,7 @@
       "destacada": false,
       "tema": "bolita",
       "fecha": "Wed, 14 Oct 2026 14:42:46 GMT",
-      "id": 58
+      "id": 66
     },
     {
       "categoria": "economia",
@@ -768,7 +872,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 14 Oct 2026 14:42:22 GMT",
-      "id": 59
+      "id": 67
     }
   ]
 }
