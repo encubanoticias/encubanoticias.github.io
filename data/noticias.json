@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-15",
-  "hora": "01:23",
-  "total": 43,
+  "hora": "03:17",
+  "total": 55,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -121,6 +121,162 @@
       "id": 9
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Deportan a Cuba al balsero que fue rescatado en una diminuta balsa frente a Key Biscayne",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e208512-s27061-nid342937-deportan-cuba-al-balsero-fue-rescatado-diminuta",
+      "destacada": false,
+      "tema": "deportan",
+      "fecha": "Thu, 15 Oct 2026 02:41:03 +0200",
+      "id": 10
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Así cierra el mercado informal en Cuba este miércoles: El dólar sube y el euro gana terreno",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e208512-s27061-nid342936-asi-cierra-mercado-informal-cuba-este-miercoles",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Thu, 15 Oct 2026 02:34:24 +0200",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubano sufre quemaduras en incendio de vivienda en México: autoridades sospechan que lo provocó",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e208933-s27061-nid342933-cubano-sufre-quemaduras-incendio-vivienda-mexico",
+      "destacada": false,
+      "tema": "cubano",
+      "fecha": "Thu, 15 Oct 2026 01:50:42 +0200",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Air China cancela otro vuelo entre Madrid y La Habana: también se afectan envíos de paquetes a Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e208933-s27061-nid342930-air-china-cancela-otro-vuelo-madrid-habana-tambien",
+      "destacada": false,
+      "tema": "china",
+      "fecha": "Thu, 15 Oct 2026 01:34:38 +0200",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Instituto meteorológico cubano pieza clave frente al cambio climático",
+      "resumen": "El Instituto de Meteorología de Cuba es hoy una pieza clave en los estudios vinculados al Plan de Estado para el Enfrentamiento al Cambio Climático, denominado Tarea Vida. La entidad lidera o participa en más de 50 proyectos investigativos y en el apartado de la Comunicación Nacional a la Convención",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/instituto-meteorologico-cubano-pieza-clave-frente-al-cambio-climatico/",
+      "destacada": false,
+      "tema": "instituto",
+      "fecha": "Wed, 14 Oct 2026 17:18:33 +0000",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba amplía sus derechos en cuanto a la vivienda",
+      "resumen": "La Gaceta Oficial de la República de Cuba publicó este miércoles la Ley 187 \"Ley de la Vivienda\", una norma que amplía los derechos de propiedad, diversifica los mecanismos de acceso, protege a las personas en situación de vulnerabilidad y establece nuevas formas de gestión como las cooperativas de ",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/cuba-amplia-sus-derechos-en-cuanto-a-la-vivienda/",
+      "destacada": false,
+      "tema": "amplía",
+      "fecha": "Wed, 14 Oct 2026 18:41:45 +0000",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Industrias culturales en Santiago de Cuba asumen ejes de transformaciones económicas",
+      "resumen": "Entre el cinco y el siete de noviembre regresa el Santiago Creativo, festival que busca incrementar y visibilizar buenas prácticas en el ámbito de las industrias culturales creativas",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/industrias-culturales-en-santiago-de-cuba-asumen-ejes-de-transformaciones-economicas/",
+      "destacada": false,
+      "tema": "industrias",
+      "fecha": "Wed, 14 Oct 2026 18:19:19 +0000",
+      "id": 16
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Crece el apoyo a Cuba en el mundo",
+      "resumen": "Representantes de partidos y gobiernos exigen poner fin a la escalada de agresiones económicas que mantiene Washington contra La Habana",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/crece-el-apoyo-a-cuba-en-el-mundo/",
+      "destacada": false,
+      "tema": "crece",
+      "fecha": "Wed, 14 Oct 2026 17:58:23 +0000",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Presentan los libros Donde anida la poesía y conVergencias, de Roberto Chile",
+      "resumen": "Ambos volúmenes constituyen una propuesta artística que confirma la profunda capacidad de la creación cubana para interpretar, interrogar y celebrar su realidad",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/presentan-los-libros-donde-anida-la-poesia-y-convergencias-de-roberto-chile/",
+      "destacada": false,
+      "tema": "presentan",
+      "fecha": "Wed, 14 Oct 2026 15:35:38 +0000",
+      "id": 18
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "ARES inaugura en Mérida un viaje visual por la literatura infantil",
+      "resumen": "La Galería Le Cirque, en Mérida, abrió sus puertas a “Historias ilustradas”, una exposición del artista cubano Arístides Hernández (ARES) que marcó el inicio de la XI edición de la Jornada de la Cultura Cubana en Yucatán",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/ares-inaugura-en-merida-un-viaje-visual-por-la-literatura-infantil/",
+      "destacada": false,
+      "tema": "inaugura",
+      "fecha": "Wed, 14 Oct 2026 14:29:40 +0000",
+      "id": 19
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Evocación en Santiago de Cuba de La historia me absolverá",
+      "resumen": "En uno de los escenarios del proceso judicial, la sala de enfermeras del antiguo hospital civil santiaguero Saturnino Lora, instituciones y organizaciones realizarán jornadas científicas, talleres y actos",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/evocacion-en-santiago-de-cuba-de-la-historia-me-absolvera/",
+      "destacada": false,
+      "tema": "evocación",
+      "fecha": "Wed, 14 Oct 2026 14:19:39 +0000",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Recuerdan inicio de la Guerra de los Diez Años en Las Tunas",
+      "resumen": "La fecha fue rememorada en El Hormiguero, lugar donde Vicente García González reunió a la tropa y los convocó a luchar por la independencia de Cuba",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261014/recuerdan-inicio-de-la-guerra-de-los-diez-anos-en-las-tunas/",
+      "destacada": false,
+      "tema": "recuerdan",
+      "fecha": "Wed, 14 Oct 2026 14:05:26 +0000",
+      "id": 21
+    },
+    {
       "categoria": "salud",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
@@ -131,7 +287,7 @@
       "destacada": false,
       "tema": "colapso",
       "fecha": "Thu, 15 Oct 2026 01:11:31 +0200",
-      "id": 10
+      "id": 22
     },
     {
       "categoria": "energia",
@@ -144,7 +300,7 @@
       "destacada": false,
       "tema": "entra",
       "fecha": "Thu, 15 Oct 2026 00:01:29 +0200",
-      "id": 11
+      "id": 23
     },
     {
       "categoria": "energia",
@@ -157,7 +313,7 @@
       "destacada": false,
       "tema": "salidero",
       "fecha": "Wed, 14 Oct 2026 22:25:29 +0200",
-      "id": 12
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -170,7 +326,7 @@
       "destacada": false,
       "tema": "llega",
       "fecha": "Wed, 14 Oct 2026 20:32:07 +0200",
-      "id": 13
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -183,7 +339,7 @@
       "destacada": false,
       "tema": "imputan",
       "fecha": "Wed, 14 Oct 2026 20:07:24 +0200",
-      "id": 14
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -196,7 +352,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Wed, 14 Oct 2026 19:22:07 +0200",
-      "id": 15
+      "id": 27
     },
     {
       "categoria": "economia",
@@ -209,7 +365,7 @@
       "destacada": false,
       "tema": "pensión",
       "fecha": "Wed, 14 Oct 2026 18:00:09 +0200",
-      "id": 16
+      "id": 28
     },
     {
       "categoria": "salud",
@@ -222,7 +378,7 @@
       "destacada": false,
       "tema": "editorial",
       "fecha": "Wed, 14 Oct 2026 16:37:07 +0200",
-      "id": 17
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -235,7 +391,7 @@
       "destacada": false,
       "tema": "bensi",
       "fecha": "Wed, 14 Oct 2026 15:57:40 +0200",
-      "id": 18
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -248,7 +404,7 @@
       "destacada": false,
       "tema": "yoriorkis",
       "fecha": "Wed, 14 Oct 2026 14:24:13 +0200",
-      "id": 19
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -261,46 +417,7 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Wed, 14 Oct 2026 21:00:00 -0400",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 8:00 PM",
-      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/480951.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Wed, 14 Oct 2026 20:00:00 -0400",
-      "id": 21
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Solicitan cambio de medida para pastor que protestó en La Habana",
-      "resumen": "“El abogado interpuso una solicitud de cambio de medida cautelar. Estamos esperando respuesta de fiscalía”, señaló la esposa a Martí Noticias.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/solicitan-cambio-de-medida-para-pastor-que-protest%c3%b3-en-la-habana/481950.html",
-      "destacada": false,
-      "tema": "solicitan",
-      "fecha": "Wed, 14 Oct 2026 18:56:47 -0400",
-      "id": 22
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Tatuador cubano continúa detenido por protestar en el techo de su casa",
-      "resumen": "Tras expresar su rechazo al gobierno desde el techo de su vivienda, el tatuador Oscar Echevarría y su esposa, Cleidys García, permanecen bajo custodia policial mientras crecen las denuncias por hostigamiento político.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/tatuador-cubano-contin%c3%baa-detenido-por-protestar-en-el-techo-de-su-casa/481973.html",
-      "destacada": false,
-      "tema": "tatuador",
-      "fecha": "Wed, 14 Oct 2026 18:14:07 -0400",
-      "id": 23
+      "id": 32
     },
     {
       "categoria": "politica",
@@ -313,20 +430,7 @@
       "destacada": false,
       "tema": "oportunidades",
       "fecha": "Thu, 15 Oct 2026 01:12:53 +0000",
-      "id": 24
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Canciller cubano denuncia presiones y chantajes de EEUU para cambiar el voto contra el bloqueo en la ONU",
-      "resumen": "El ministro de Relaciones Exteriores de Cuba, Bruno Rodríguez Parrilla, denunció que el secretario de Estado estadounidense, Marco Rubio, está presionando a mandatarios de diferentes países para que modifiquen sus posiciones ante la próxima votación de la resolución cubana contra el bloqueo económic",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/14/canciller-cubano-denuncia-presiones-y-chantajes-de-eeuu-para-cambiar-el-voto-contra-el-bloqueo-en-la-onu/",
-      "destacada": false,
-      "tema": "canciller",
-      "fecha": "Wed, 14 Oct 2026 18:30:59 +0000",
-      "id": 25
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -339,7 +443,7 @@
       "destacada": false,
       "tema": "marco",
       "fecha": "Wed, 14 Oct 26 20:28:00 +0200",
-      "id": 26
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -352,7 +456,7 @@
       "destacada": false,
       "tema": "publica",
       "fecha": "Wed, 14 Oct 26 20:27:00 +0200",
-      "id": 27
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -365,7 +469,7 @@
       "destacada": false,
       "tema": "historia",
       "fecha": "Wed, 14 Oct 26 17:19:00 +0200",
-      "id": 28
+      "id": 36
     },
     {
       "categoria": "energia",
@@ -378,7 +482,7 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Wed, 14 Oct 26 11:19:00 +0200",
-      "id": 29
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -391,7 +495,7 @@
       "destacada": false,
       "tema": "abracemos",
       "fecha": "Wed, 14 Oct 26 07:37:00 +0200",
-      "id": 30
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -404,7 +508,7 @@
       "destacada": false,
       "tema": "félix",
       "fecha": "Wed, 14 Oct 26 07:30:00 +0200",
-      "id": 31
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -417,7 +521,7 @@
       "destacada": false,
       "tema": "cipayos",
       "fecha": "Wed, 14 Oct 26 07:29:00 +0200",
-      "id": 32
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -430,7 +534,59 @@
       "destacada": false,
       "tema": "finca",
       "fecha": "Tue, 13 Oct 2026 12:44:52 +0000",
-      "id": 33
+      "id": 41
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Alertan bomberos sobre riesgos de tanques plásticos IBC",
+      "resumen": "El Cuerpo de Bomberos de Cuba insistió en la importancia de extremar las medidas de seguridad, especialmente en el almacenamiento de carburantes, y recordó que se requiere autorizo para la transportación y comercialización de estos productos La entrada Alertan bomberos sobre riesgos de tanques plást",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/alertan-bomberos-sobre-riesgos-de-tanques-plasticos-ibc/",
+      "destacada": false,
+      "tema": "alertan",
+      "fecha": "Wed, 14 Oct 2026 20:24:35 +0000",
+      "id": 42
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Ratifica Cuba prioridad en atención a enfermedad renal crónica",
+      "resumen": "En el país se atienden 3 856 pacientes con enfermedad renal crónica; 2 876 reciben hemodiálisis —22 en servicios pediátricos— y 900 han sido trasplantados La entrada Ratifica Cuba prioridad en atención a enfermedad renal crónica se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/ratifica-cuba-prioridad-en-atencion-a-enfermedad-renal-cronica/",
+      "destacada": false,
+      "tema": "ratifica",
+      "fecha": "Wed, 14 Oct 2026 20:02:26 +0000",
+      "id": 43
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Bloqueo de Washington se orienta a destruir conquistas socioeconómicas alcanzadas por el pueblo cubano",
+      "resumen": "Suman más de seis décadas del criminal bloqueo económico, comercial y financiero, record de ignominia contra todo un pueblo, que tiene hoy máxima expresión de genocidio con un asedio brutal energético y de recursos básicos La entrada Bloqueo de Washington se orienta a destruir conquistas socioeconóm",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/bloqueo-de-washington-se-orienta-a-destruir-conquistas-socioeconomicas-alcanzadas-por-el-pueblo-cubano/",
+      "destacada": false,
+      "tema": "bloqueo",
+      "fecha": "Wed, 14 Oct 2026 15:35:27 +0000",
+      "id": 44
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Entregan celulares recuperados a víctimas de hechos delictivos en La Lisa",
+      "resumen": "Los propietarios recibieron sus equipos de vuelta y agradecieron la pronta respuesta y la efectividad mostrada por los agentes policiales La entrada Entregan celulares recuperados a víctimas de hechos delictivos en La Lisa se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/entregan-celulares-recuperados-a-victimas-de-hechos-delictivos-en-la-lisa/",
+      "destacada": false,
+      "tema": "entregan",
+      "fecha": "Wed, 14 Oct 2026 15:40:59 +0000",
+      "id": 45
     },
     {
       "categoria": "salud",
@@ -443,7 +599,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Wed, 14 Oct 2026 12:54:00 +0000",
-      "id": 34
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -456,7 +612,7 @@
       "destacada": false,
       "tema": "quedar",
       "fecha": "Wed, 14 Oct 2026 12:44:00 +0000",
-      "id": 35
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -469,7 +625,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Wed, 14 Oct 2026 12:10:00 +0000",
-      "id": 36
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -482,7 +638,7 @@
       "destacada": false,
       "tema": "artistas",
       "fecha": "Wed, 14 Oct 2026 11:34:00 +0000",
-      "id": 37
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -495,7 +651,7 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Wed, 14 Oct 2026 19:30:00 GMT",
-      "id": 38
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -508,7 +664,7 @@
       "destacada": false,
       "tema": "podrán",
       "fecha": "Wed, 14 Oct 2026 15:45:00 GMT",
-      "id": 39
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -521,7 +677,7 @@
       "destacada": false,
       "tema": "bolita",
       "fecha": "Wed, 14 Oct 2026 14:42:46 GMT",
-      "id": 40
+      "id": 52
     },
     {
       "categoria": "economia",
@@ -534,7 +690,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 14 Oct 2026 14:42:22 GMT",
-      "id": 41
+      "id": 53
     },
     {
       "categoria": "economia",
@@ -547,7 +703,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 10:15:00 GMT",
-      "id": 42
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -560,7 +716,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Tue, 13 Oct 2026 10:00:00 GMT",
-      "id": 43
+      "id": 55
     }
   ]
 }
