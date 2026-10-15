@@ -1,20 +1,33 @@
 {
   "fecha": "2026-10-15",
-  "hora": "11:18",
-  "total": 55,
+  "hora": "12:20",
+  "total": 62,
   "noticias": [
+    {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Valdés Mesa insta a impulsar siembra y producción de granos en Cienfuegos",
+      "resumen": "A agilizar los pasos tendentes a la identificación de nuevas áreas para la producción de arroz llamó el vicepresidente cubano, Salvador Valdés Mesa, este miércoles en la tarde, durante encuentro efectuado en la Empresa Azucarera 5 de Septiembre, del municipio de Rodas",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-14/valdes-mesa-insta-a-impulsar-siembra-y-produccion-de-granos-en-cienfuegos-14-10-2026-17-10-25",
+      "destacada": true,
+      "tema": "valdés",
+      "fecha": "Wed, 14 Oct 2026 17:10:25 -0400",
+      "id": 1
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Embajador cubano en Bakú debate con homólogos bloqueo de EEUU",
-      "resumen": "Bakú, 15 oct (Prensa Latina) El embajador de Cuba en Azerbaiyán, Carlos Valdés, sostuvo hoy encuentros con sus homólogos de Uzbekistán, Bahrom Ashrafjanov, y de Turkmenistán, Gurbanmammet Elyasov, para abordar el bloqueo de Estado Unidos contra su país. The post Embajador cubano en Bakú debate con h",
+      "titulo": "Cubanos residentes en Venezuela convocan a su VII Encuentro Nacional",
+      "resumen": "Caracas, 15 oct (Prensa Latina) La Asociación de Cubanos y Cubanas Residentes en Venezuela (Accreven) convocó hoy a los asociados y residentes cubanos a participar en el VII Encuentro Nacional, a celebrarse el 28 de noviembre próximo en el estado de Mérida (suroccidente). The post Cubanos residentes",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/15/embajador-cubano-en-baku-debate-con-homologos-bloqueo-de-eeuu/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/15/cubanos-residentes-en-venezuela-convocan-a-su-vii-encuentro-nacional/",
       "destacada": true,
-      "tema": "embajador",
-      "fecha": "Thu, 15 Oct 2026 11:03:12 +0000",
-      "id": 1
+      "tema": "cubanos",
+      "fecha": "Thu, 15 Oct 2026 11:32:18 +0000",
+      "id": 2
     },
     {
       "categoria": "politica",
@@ -27,7 +40,33 @@
       "destacada": true,
       "tema": "cancillería",
       "fecha": "Thu, 15 Oct 2026 10:13:55 +0000",
-      "id": 2
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Sudáfrica ordena la suspensión del polémico acuerdo con Cuba para el mantenimiento de su material militar",
+      "resumen": "Se desconoce aún la fecha de finalización oficial, pues los cursos que comenzaron se van a terminar, dijo un alto mando militar",
+      "imagen_url": "https://static.14ymedio.com/clip/ca785214-a9f6-4942-9717-0ef73d140612_source-aspect-ratio_default_0.png",
+      "enlace_original": "https://www.14ymedio.com/cuba/sudafrica-ordena-suspension-polemico-acuerdo_1_1131972.html",
+      "destacada": true,
+      "tema": "sudáfrica",
+      "fecha": "Thu, 15 Oct 2026 11:54:24 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Matanzas recibe otro cargamento de la ayuda humanitaria de EE UU a través de Cáritas Cuba",
+      "resumen": "El paquete va a 700 familias de las 2.100 identificadas como vulnerables por la organización",
+      "imagen_url": "https://static.14ymedio.com/clip/c9ad3d27-66e5-48a3-ab26-ee45c4f08bfc_source-aspect-ratio_default_0.png",
+      "enlace_original": "https://www.14ymedio.com/cuba/matanzas-recibe-cargamento-ayuda-humanitaria_1_1131967.html",
+      "destacada": true,
+      "tema": "matanzas",
+      "fecha": "Thu, 15 Oct 2026 10:35:56 +0000",
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -37,23 +76,10 @@
       "resumen": "Como se había adelantado en junio, los cubanos podrán tener dos viviendas, se autoriza la financiación con hipotecas y se abre el sector al capital privado y extranjero",
       "imagen_url": "https://static.14ymedio.com/clip/b35d8b5f-b5b3-4a3e-a5e5-1642567f1ec6_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/entrada-vigor-nueva-ley-vivienda_1_1131943.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "entrada",
       "fecha": "Wed, 14 Oct 2026 18:04:54 +0000",
-      "id": 3
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Muere otro joven durante el Servicio Militar en Cuba tras sufrir una descarga eléctrica",
-      "resumen": "Raudel Alejandro Guerra Hernández, de 19 años, es el tercer recluta desde septiembre que fallece mientras cumplía el SMA",
-      "imagen_url": "https://static.14ymedio.com/clip/7427a209-166b-4380-b96d-4c316232b2dc_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/muere-joven-durante-servicio-militar_1_1131944.html",
-      "destacada": true,
-      "tema": "muere",
-      "fecha": "Wed, 14 Oct 2026 19:22:35 +0000",
-      "id": 4
+      "id": 6
     },
     {
       "categoria": "economia",
@@ -63,10 +89,23 @@
       "resumen": "Los precios han subido casi un 25% desde enero en Cuba, mientras la moneda nacional se ha depreciado un 39% frente al dólar",
       "imagen_url": "https://static.14ymedio.com/clip/c1903d16-5b06-4c33-8060-5f591b6c7d1a_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/economia/aumento-11-7-salchichas-perro_1_1131932.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "aumento",
       "fecha": "Wed, 14 Oct 2026 15:30:42 +0000",
-      "id": 5
+      "id": 7
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Muere otro joven durante el Servicio Militar en Cuba tras sufrir una descarga eléctrica",
+      "resumen": "Raudel Alejandro Guerra Hernández, de 19 años, es el tercer recluta desde septiembre que fallece mientras cumplía el SMA",
+      "imagen_url": "https://static.14ymedio.com/clip/7427a209-166b-4380-b96d-4c316232b2dc_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/muere-joven-durante-servicio-militar_1_1131944.html",
+      "destacada": false,
+      "tema": "muere",
+      "fecha": "Wed, 14 Oct 2026 19:22:35 +0000",
+      "id": 8
     },
     {
       "categoria": "economia",
@@ -79,33 +118,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 14 Oct 2026 10:19:32 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El salario medio no llega a 10 dólares en Cuba y el sector estatal sigue hundido",
-      "resumen": "Las ventas de bienes y servicios caen más de un 32% y casi 400 empresas estatales reportan pérdidas millonarias",
-      "imagen_url": "https://static.14ymedio.com/clip/71644b58-55b3-44f2-a779-209e7f0341c9_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/salario-medio-no-llega-10_1_1131917.html",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Tue, 13 Oct 2026 22:00:06 +0000",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Habana, corregida a mano en la calle G",
-      "resumen": "Un marcador violeta transforma una consigna optimista en el epitafio de una ciudad que ha perdido a buena parte de sus jóvenes",
-      "imagen_url": "https://static.14ymedio.com/clip/a4fcc7ef-aaeb-49d0-87b5-c92b29bf32b1_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/habana-corregida-mano-calle-g_1_1131911.html",
-      "destacada": false,
-      "tema": "habana",
-      "fecha": "Tue, 13 Oct 2026 18:56:29 +0000",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "politica",
@@ -118,7 +131,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Thu, 15 Oct 2026 11:56:55 +0200",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "preso",
       "fecha": "Thu, 15 Oct 2026 06:06:40 +0200",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -144,7 +157,7 @@
       "destacada": false,
       "tema": "pequeña",
       "fecha": "Thu, 15 Oct 2026 04:43:32 +0200",
-      "id": 11
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -157,20 +170,20 @@
       "destacada": false,
       "tema": "deportan",
       "fecha": "Thu, 15 Oct 2026 02:41:03 +0200",
-      "id": 12
+      "id": 13
     },
     {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
+      "categoria": "sociedad",
+      "fuente": "https://www.radiocubana.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Así cierra el mercado informal en Cuba este miércoles: El dólar sube y el euro gana terreno",
-      "resumen": "",
+      "titulo": "Instituto meteorológico cubano pieza clave frente al cambio climático",
+      "resumen": "El Instituto de Meteorología de Cuba es hoy una pieza clave en los estudios vinculados al Plan de Estado para el Enfrentamiento al Cambio Climático, denominado Tarea Vida. La entidad lidera o participa en más de 50 proyectos investigativos y en el apartado de la Comunicación Nacional a la Convención",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e208512-s27061-nid342936-asi-cierra-mercado-informal-cuba-este-miercoles",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/instituto-meteorologico-cubano-pieza-clave-frente-al-cambio-climatico/",
       "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Thu, 15 Oct 2026 02:34:24 +0200",
-      "id": 13
+      "tema": "instituto",
+      "fecha": "Wed, 14 Oct 2026 17:18:33 +0000",
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -183,7 +196,7 @@
       "destacada": false,
       "tema": "amplía",
       "fecha": "Wed, 14 Oct 2026 18:41:45 +0000",
-      "id": 14
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -196,7 +209,7 @@
       "destacada": false,
       "tema": "industrias",
       "fecha": "Wed, 14 Oct 2026 18:19:19 +0000",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "politica",
@@ -209,7 +222,7 @@
       "destacada": false,
       "tema": "crece",
       "fecha": "Wed, 14 Oct 2026 17:58:23 +0000",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -222,7 +235,7 @@
       "destacada": false,
       "tema": "presentan",
       "fecha": "Wed, 14 Oct 2026 15:35:38 +0000",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "transporte",
@@ -235,7 +248,7 @@
       "destacada": false,
       "tema": "inaugura",
       "fecha": "Wed, 14 Oct 2026 14:29:40 +0000",
-      "id": 18
+      "id": 19
     },
     {
       "categoria": "salud",
@@ -248,7 +261,7 @@
       "destacada": false,
       "tema": "evocación",
       "fecha": "Wed, 14 Oct 2026 14:19:39 +0000",
-      "id": 19
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -261,7 +274,33 @@
       "destacada": false,
       "tema": "recuerdan",
       "fecha": "Wed, 14 Oct 2026 14:05:26 +0000",
-      "id": 20
+      "id": 21
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Atendidos 25 alumnos de una secundaria en Contramaestre con síntomas de intoxicación",
+      "resumen": "25 alumnos y un adulto de una secundaria de #Contramaestre, Santiago de #Cuba reciben atención médica por síntomas de intoxicación. Trece afectados seguían hospitalizados en el último parte oficial.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792065847_69402.html",
+      "destacada": false,
+      "tema": "atendidos",
+      "fecha": "Thu, 15 Oct 2026 14:04:07 +0200",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Con 50 nuevos casos en un mes, Prisoners Defenders eleva a más de 1.350 los presos políticos en Cuba",
+      "resumen": "#SOSCuba: #PrisonesDefenders denuncia un ataque a su página web tras publicar un nuevo informe, que refleja más de 1.350 presos políticos y de conciencia en #Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1792065094_69401.html",
+      "destacada": false,
+      "tema": "nuevos",
+      "fecha": "Thu, 15 Oct 2026 13:51:34 +0200",
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -274,7 +313,7 @@
       "destacada": false,
       "tema": "pólvora",
       "fecha": "Thu, 15 Oct 2026 13:01:37 +0200",
-      "id": 21
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -287,7 +326,7 @@
       "destacada": false,
       "tema": "casos",
       "fecha": "Thu, 15 Oct 2026 12:13:09 +0200",
-      "id": 22
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -300,7 +339,7 @@
       "destacada": false,
       "tema": "nuevo",
       "fecha": "Thu, 15 Oct 2026 11:47:22 +0200",
-      "id": 23
+      "id": 26
     },
     {
       "categoria": "economia",
@@ -313,7 +352,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 15 Oct 2026 08:33:31 +0200",
-      "id": 24
+      "id": 27
     },
     {
       "categoria": "salud",
@@ -326,7 +365,7 @@
       "destacada": false,
       "tema": "colapso",
       "fecha": "Thu, 15 Oct 2026 01:11:31 +0200",
-      "id": 25
+      "id": 28
     },
     {
       "categoria": "energia",
@@ -339,7 +378,7 @@
       "destacada": false,
       "tema": "entra",
       "fecha": "Thu, 15 Oct 2026 00:01:29 +0200",
-      "id": 26
+      "id": 29
     },
     {
       "categoria": "energia",
@@ -352,7 +391,7 @@
       "destacada": false,
       "tema": "salidero",
       "fecha": "Wed, 14 Oct 2026 22:25:29 +0200",
-      "id": 27
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -365,33 +404,20 @@
       "destacada": false,
       "tema": "llega",
       "fecha": "Wed, 14 Oct 2026 20:32:07 +0200",
-      "id": 28
+      "id": 31
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "economia",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Imputan a diez exjefes de las FARC por crímenes de lesa humanidad en contra de pueblos indígenas",
-      "resumen": "A una década de la firma del Acuerdo de Paz en La Habana, las disidencias de las #FARC continúan generando ataques contra civiles y personas indefensas.",
+      "titulo": "Martinoticias AM",
+      "resumen": "Revista informativa con los últimos acontecimientos ocurridos en Cuba y el mundo. Con entrevistas y temas de actualidad relacionados a la política, la economía y de interés general.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/internacional/1792001244_69393.html",
+      "enlace_original": "https://www.martinoticias.com/a/481016.html",
       "destacada": false,
-      "tema": "imputan",
-      "fecha": "Wed, 14 Oct 2026 20:07:24 +0200",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Habana acusa a Rubio de 'prometer zanahorias' a quienes no apoyen al régimen en la ONU",
-      "resumen": "#LaHabana arremete contra los contactos diplomáticos de #Washington antes de la votación sobre el embargo en la #ONU y acusa a Rubio de desplegar un \"desesperado esfuerzo de intimidar, chantajear y prometer zanahorias\".",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1791998527_69391.html",
-      "destacada": false,
-      "tema": "habana",
-      "fecha": "Wed, 14 Oct 2026 19:22:07 +0200",
-      "id": 30
+      "tema": "martinoticias",
+      "fecha": "Thu, 15 Oct 2026 08:00:00 -0400",
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -404,7 +430,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Thu, 15 Oct 2026 07:00:00 -0400",
-      "id": 31
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -417,7 +443,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Thu, 15 Oct 2026 00:00:30 -0400",
-      "id": 32
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -430,7 +456,7 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Wed, 14 Oct 2026 21:00:00 -0400",
-      "id": 33
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -443,7 +469,7 @@
       "destacada": false,
       "tema": "quinta",
       "fecha": "Thu, 15 Oct 2026 04:42:58 +0000",
-      "id": 34
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -456,7 +482,7 @@
       "destacada": false,
       "tema": "mujer",
       "fecha": "Thu, 15 Oct 2026 04:03:54 +0000",
-      "id": 35
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -469,7 +495,7 @@
       "destacada": false,
       "tema": "regresa",
       "fecha": "Thu, 15 Oct 2026 03:28:30 +0000",
-      "id": 36
+      "id": 38
     },
     {
       "categoria": "salud",
@@ -482,7 +508,7 @@
       "destacada": false,
       "tema": "consejo",
       "fecha": "Thu, 15 Oct 2026 03:16:36 +0000",
-      "id": 37
+      "id": 39
     },
     {
       "categoria": "politica",
@@ -495,7 +521,7 @@
       "destacada": false,
       "tema": "oportunidades",
       "fecha": "Thu, 15 Oct 2026 01:12:53 +0000",
-      "id": 38
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -508,7 +534,7 @@
       "destacada": false,
       "tema": "resiliencia",
       "fecha": "Thu, 15 Oct 26 08:10:00 +0200",
-      "id": 39
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -521,7 +547,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Thu, 15 Oct 26 08:06:00 +0200",
-      "id": 40
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -534,7 +560,7 @@
       "destacada": false,
       "tema": "meten",
       "fecha": "Thu, 15 Oct 26 08:05:00 +0200",
-      "id": 41
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -547,7 +573,7 @@
       "destacada": false,
       "tema": "albacete",
       "fecha": "Thu, 15 Oct 26 07:35:00 +0200",
-      "id": 42
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -560,7 +586,7 @@
       "destacada": false,
       "tema": "repudio",
       "fecha": "Thu, 15 Oct 26 06:56:00 +0200",
-      "id": 43
+      "id": 45
     },
     {
       "categoria": "energia",
@@ -573,7 +599,7 @@
       "destacada": false,
       "tema": "lugares",
       "fecha": "Thu, 15 Oct 26 06:55:00 +0200",
-      "id": 44
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -586,7 +612,7 @@
       "destacada": false,
       "tema": "consejo",
       "fecha": "Thu, 15 Oct 26 06:52:00 +0200",
-      "id": 45
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -599,7 +625,7 @@
       "destacada": false,
       "tema": "boxeo",
       "fecha": "Thu, 15 Oct 26 06:27:00 +0200",
-      "id": 46
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -612,7 +638,20 @@
       "destacada": false,
       "tema": "monika",
       "fecha": "Thu, 15 Oct 26 04:00:00 +0200",
-      "id": 47
+      "id": 49
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.guerrillero.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Finca El Abra: Dulce remanso de José Martí",
+      "resumen": "El Museo Finca El Abra celebra este 28 de enero el 80 aniversario de su fundación, inaugurado en 1944, al cumplirse el 91 aniversario del natalicio de José Martí. Este sitio sagrado de la historia pinera y cubana, fue la primera institución museística creada en la Isla, con la peculiaridad de ser cu",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/finca-el-abra-dulce-remanso-de-jose-marti/",
+      "destacada": false,
+      "tema": "finca",
+      "fecha": "Tue, 13 Oct 2026 12:44:52 +0000",
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -625,7 +664,7 @@
       "destacada": false,
       "tema": "alertan",
       "fecha": "Wed, 14 Oct 2026 20:24:35 +0000",
-      "id": 48
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -638,7 +677,7 @@
       "destacada": false,
       "tema": "ratifica",
       "fecha": "Wed, 14 Oct 2026 20:02:26 +0000",
-      "id": 49
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -651,7 +690,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Wed, 14 Oct 2026 15:35:27 +0000",
-      "id": 50
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -664,7 +703,59 @@
       "destacada": false,
       "tema": "entregan",
       "fecha": "Wed, 14 Oct 2026 15:40:59 +0000",
-      "id": 51
+      "id": 54
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Más transporte… ¿para todos?",
+      "resumen": "Una guagua que antes podía costar 10 pesos ahora cobra 700. Para quien recibe un salario en pesos cubanos y tiene que repartirlo entre comida, medicamentos y todo lo demás que cuesta vivir, la cuenta del viaje deja de ser una cuenta de transporte. Se convierte en una decisión.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/14/mas-transporte-para-todos/",
+      "destacada": false,
+      "tema": "transporte",
+      "fecha": "Wed, 14 Oct 2026 12:54:00 +0000",
+      "id": 55
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Lo que no puede quedar Apartado",
+      "resumen": "El periodismo crítico en Cuba enfrenta un grave obstáculo: el silencio de directivos y funcionarios ante las denuncias ciudadanas. Apartado 1433, decana sección de opinión, lo evidencia. Sin respuestas ágiles y reales, la confianza en las instituciones se pierde. No perdamos la brújula de la histori",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/14/lo-que-no-puede-quedar-apartado/",
+      "destacada": false,
+      "tema": "quedar",
+      "fecha": "Wed, 14 Oct 2026 12:44:00 +0000",
+      "id": 56
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Nueva Ley de la Vivienda en Cuba",
+      "resumen": "De novedosa y a tono con las normativas jurídicas internacionales vigentes en el mundo calificó la directora de Asuntos Legales del Ministerio de la Construcción, Marvelis Velázquez Reyes, la Ley 187 de la Vivienda, publicada este miércoles en la Gaceta Oficial de la República de Cuba, tras su discu",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/14/nueva-ley-vivienda-cuba/",
+      "destacada": false,
+      "tema": "nueva",
+      "fecha": "Wed, 14 Oct 2026 12:10:00 +0000",
+      "id": 57
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Artistas cubanas conquistan nuevamente Zaragoza",
+      "resumen": "Bajo el título Ellas bailan solas, diferentes espacios públicos de Zaragoza, España, acogen desde el 12 de octubre, Día de la Hispanidad, obras de 60 artistas cubanas, entre ellas las matanceras Yainyt Alcázar, Gio Fernández, Leidy Castellanos y Jennifer Mancha.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/14/artistas-cubanas-conquistan-zaragoza/",
+      "destacada": false,
+      "tema": "artistas",
+      "fecha": "Wed, 14 Oct 2026 11:34:00 +0000",
+      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -677,7 +768,7 @@
       "destacada": false,
       "tema": "podrán",
       "fecha": "Wed, 14 Oct 2026 22:15:00 GMT",
-      "id": 52
+      "id": 59
     },
     {
       "categoria": "sociedad",
@@ -690,7 +781,7 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Wed, 14 Oct 2026 19:30:00 GMT",
-      "id": 53
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -703,7 +794,7 @@
       "destacada": false,
       "tema": "bolita",
       "fecha": "Wed, 14 Oct 2026 14:42:46 GMT",
-      "id": 54
+      "id": 61
     },
     {
       "categoria": "economia",
@@ -716,7 +807,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 14 Oct 2026 14:42:22 GMT",
-      "id": 55
+      "id": 62
     }
   ]
 }
