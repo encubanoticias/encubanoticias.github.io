@@ -1,8 +1,21 @@
 {
   "fecha": "2026-10-15",
-  "hora": "19:23",
-  "total": 69,
+  "hora": "21:19",
+  "total": 59,
   "noticias": [
+    {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba condenó una nueva demostración del empeño criminal de EE. UU. aplicar al máximo el castigo colectivo al pueblo de la Isla",
+      "resumen": "El miembro del Buró Político y ministro de Relaciones Exteriores, Bruno Rodríguez Parrilla, denunció este jueves, a través de la red social x, que, «como ya es costumbre, el gobierno de EE. UU. impuso una nueva medida agresiva contra Cuba, en este caso contra el BICSA»",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-15/cuba-condeno-una-nueva-demostracion-del-empeno-criminal-de-ee-uu-aplicar-al-maximo-el-castigo-colectivo-al-pueblo-de-la-isla",
+      "destacada": true,
+      "tema": "condenó",
+      "fecha": "Thu, 15 Oct 2026 16:10:19 -0400",
+      "id": 1
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
@@ -14,20 +27,20 @@
       "destacada": true,
       "tema": "resiliencia",
       "fecha": "Wed, 14 Oct 2026 18:10:59 -0400",
-      "id": 1
+      "id": 2
     },
     {
-      "categoria": "salud",
+      "categoria": "energia",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Bahamas reafirma su apoyo a Cuba con nueva donación al sistema de Salud",
-      "resumen": "El cargamento, compuesto por cerca de una tonelada de medicamentos e insumos médicos, está destinado al Instituto Nacional de Oncología y Radiobiología",
+      "titulo": "«África está junto a Cuba del mismo modo que Cuba estuvo junto a África»",
+      "resumen": "La condena al bloqueo genocida impuesto a Cuba por Estados Unidos, constituyó el punto cumbre de un homenaje realizado a Mwalimu Julius Kambarage de Nyerere, presidente fundador y padre de la nación de la República Unida de Tanzania en el aniversario de su fallecimiento",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/salud/2026-10-15/bahamas-reafirma-su-apoyo-a-cuba-con-nueva-donacion-al-sistema-de-salud",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-15/africa-esta-junto-a-cuba-del-mismo-modo-que-cuba-estuvo-junto-a-africa-15-10-2026-17-10-41",
       "destacada": true,
-      "tema": "bahamas",
-      "fecha": "Thu, 15 Oct 2026 15:10:44 -0400",
-      "id": 2
+      "tema": "áfrica",
+      "fecha": "Thu, 15 Oct 2026 17:10:41 -0400",
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -40,72 +53,72 @@
       "destacada": true,
       "tema": "bloqueo",
       "fecha": "Wed, 14 Oct 2026 18:10:15 -0400",
-      "id": 3
+      "id": 4
     },
     {
-      "categoria": "transporte",
+      "categoria": "salud",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba responde con más soberanía ante el cerco de Washington",
-      "resumen": "«Frente al cerco energético del gobierno de EE. UU., que pretende castigar a todo el pueblo de Cuba, nuestro Partido y Gobierno responden con más soberanía y medidas para aliviar el impacto de esa política estadounidense en la población cubana»",
+      "titulo": "Bahamas reafirma su apoyo a Cuba con nueva donación al sistema de Salud",
+      "resumen": "El cargamento, compuesto por cerca de una tonelada de medicamentos e insumos médicos, está destinado al Instituto Nacional de Oncología y Radiobiología",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-15/cuba-responde-con-mas-soberania-ante-el-cerco-de-washington",
+      "enlace_original": "http://www.granma.cu/salud/2026-10-15/bahamas-reafirma-su-apoyo-a-cuba-con-nueva-donacion-al-sistema-de-salud",
       "destacada": true,
-      "tema": "responde",
-      "fecha": "Thu, 15 Oct 2026 13:10:16 -0400",
-      "id": 4
+      "tema": "bahamas",
+      "fecha": "Thu, 15 Oct 2026 15:10:44 -0400",
+      "id": 5
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Por su candidatura al Premio Cervantes 2026, homenaje a María Elena Llana",
-      "resumen": "El encuentro será en el Centro Cultural Dulce María Loynaz de La Habana, el próximo jueves 22 de octubre, a las 2:00 p.m.",
+      "titulo": "María Elena Llana, entre lo más encumbrado de nuestra literatura",
+      "resumen": "La propuesta de candidatura al Premio de Literatura en Lengua Castellana Miguel de Cervantes 2026, a la destacada escritora y periodista María Elena Llana Castro, nacida en 1936, ha sido respaldada por el Ministerio de Cultura de Cuba y por el Instituto Cubano del Libro",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-15/por-su-candidatura-al-premio-cervantes-2026-homenaje-a-maria-elena-llana-15-10-2026-12-10-29",
-      "destacada": true,
-      "tema": "candidatura",
-      "fecha": "Thu, 15 Oct 2026 12:10:29 -0400",
-      "id": 5
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "EEUU persiste en su intento de asfixia a Cuba, sanciona a banco",
-      "resumen": "Washington, 15 OCT (Prensa Latina) Empeñado en provocar la asfixia de Cuba, el Gobierno de Estados Unidos anunció hoy nuevas sanciones que afectarían el sistema financiero de la isla, esta vez contra el Banco Internacional de Comercio S.A. (BICSA). The post EEUU persiste en su intento de asfixia a C",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/15/eeuu-persiste-en-su-intento-de-asfixia-a-cuba-sanciona-a-banco/",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-15/maria-elena-llana-entre-lo-mas-encumbrado-de-nuestra-literatura-15-10-2026-16-10-32",
       "destacada": false,
-      "tema": "persiste",
-      "fecha": "Thu, 15 Oct 2026 19:06:44 +0000",
+      "tema": "maría",
+      "fecha": "Thu, 15 Oct 2026 16:10:32 -0400",
       "id": 6
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
+      "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Denuncian desde Italia maniobras EEUU en ONU para frenar apoyo a Cuba",
-      "resumen": "Roma, 15 oct (Prensa Latina) La Asociación Nacional de Amistad Italia-Cuba (Anaic) denunció hoy que el secretario de Estado estadounidense Marco Rubio, chantajea a delegaciones de países en ONU para evitar su voto a favor de resolución cubana de condena al bloqueo. The post Denuncian desde Italia ma",
+      "titulo": "Paso firme del Beisbol5 cubano en Barquisimeto",
+      "resumen": "Tanto el conjunto juvenil como el absoluto arrancaron con par de triunfos",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/15/denuncian-desde-italia-maniobras-eeuu-en-onu-para-frenar-apoyo-a-cuba/",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-15/paso-firme-del-beisbol5-cubano-en-barquisimeto-15-10-2026-16-10-14",
       "destacada": false,
-      "tema": "denuncian",
-      "fecha": "Thu, 15 Oct 2026 18:43:11 +0000",
+      "tema": "firme",
+      "fecha": "Thu, 15 Oct 2026 16:10:14 -0400",
       "id": 7
     },
     {
-      "categoria": "transporte",
+      "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Presidente cubano denuncia presiones de EEUU previo a voto en ONU",
-      "resumen": "La Habana, 15 oct (Prensa Latina) El presidente de Cuba, Miguel Díaz-Canel, denunció hoy las presiones estadounidenses internacionales previas a votación contra en bloqueo en la ONU. The post Presidente cubano denuncia presiones de EEUU previo a voto en ONU first appeared on Noticias Prensa Latina.",
+      "titulo": "Entregan Premio Literario “Ciudad del Che” en el centro de Cuba",
+      "resumen": "Santa Clara, 15 de oct (Prensa-Latina) El Premio de Poesía y la Beca literaria “Ciudad del Che” 2026, fueron entregados hoy aquí, como parte de la Jornada por la Cultura Nacional en Cuba. The post Entregan Premio Literario “Ciudad del Che” en el centro de Cuba first appeared on Noticias Prensa Latin",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/15/presidente-cubano-denuncia-presiones-de-eeuu-previo-a-voto-en-onu/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/15/entregan-premio-literario-ciudad-del-che-en-el-centro-de-cuba/",
       "destacada": false,
-      "tema": "presidente",
-      "fecha": "Thu, 15 Oct 2026 18:06:05 +0000",
+      "tema": "entregan",
+      "fecha": "Thu, 15 Oct 2026 21:05:02 +0000",
       "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Motivación simple: quiero ayudar a Cuba, afirma fotógrafo en París",
+      "resumen": "París, 15 oct (Prensa Latina) Con una presentación artística sobre la realidad de Cuba en la embajada de ese país en Francia, el fotógrafo italiano Giovanni di Stefano busca hoy materializar una motivación simple: quiero ayudar a Cuba, donde viven personas maravillosas. The post Motivación simple: q",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/15/motivacion-simple-quiero-ayudar-a-cuba-afirma-fotografo-en-paris/",
+      "destacada": false,
+      "tema": "motivación",
+      "fecha": "Thu, 15 Oct 2026 21:02:02 +0000",
+      "id": 9
     },
     {
       "categoria": "economia",
@@ -118,7 +131,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 15 Oct 2026 18:26:02 +0000",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -131,19 +144,6 @@
       "destacada": false,
       "tema": "henry",
       "fecha": "Thu, 15 Oct 2026 19:12:24 +0000",
-      "id": 10
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "EE UU deporta al cubano que llegó a Florida en trozos de poliespuma sin haberlo atendido en un hospital",
-      "resumen": "Enrique René Reyes Martínez ya se encuentra con su familia en La Habana, según datos del periodista Javier Díaz",
-      "imagen_url": "https://static.14ymedio.com/clip/fac537fd-e6bb-47a9-a2ac-8af646f5a00a_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/migracion/ee-uu-deporta-cubano-llego_1_1131989.html",
-      "destacada": false,
-      "tema": "deporta",
-      "fecha": "Thu, 15 Oct 2026 17:31:38 +0000",
       "id": 11
     },
     {
@@ -176,19 +176,6 @@
       "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Sin explicaciones oficiales tras la intoxicación de 25 menores en una escuela secundaria de Santiago de Cuba",
-      "resumen": "Los alumnos están fuera de peligro, pero fueron ingresados con vómitos, calambres, dolor de cabeza e irritación en los ojos",
-      "imagen_url": "https://static.14ymedio.com/clip/101dd574-4ec6-41e3-bd41-ae66699aeae0_source-aspect-ratio_default_0.png",
-      "enlace_original": "https://www.14ymedio.com/cuba/explicaciones-oficiales-intoxicacion-25-menores_1_1131987.html",
-      "destacada": false,
-      "tema": "explicaciones",
-      "fecha": "Thu, 15 Oct 2026 15:13:48 +0000",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
       "titulo": "Sudáfrica ordena la suspensión del polémico acuerdo con Cuba para el mantenimiento de su material militar",
       "resumen": "Se desconoce aún la fecha de finalización oficial, pues los cursos que comenzaron se van a terminar, dijo un alto mando militar",
       "imagen_url": "https://static.14ymedio.com/clip/ca785214-a9f6-4942-9717-0ef73d140612_source-aspect-ratio_default_0.png",
@@ -196,33 +183,33 @@
       "destacada": false,
       "tema": "sudáfrica",
       "fecha": "Thu, 15 Oct 2026 11:54:24 +0000",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Sin explicaciones oficiales tras la intoxicación de 25 menores en una escuela secundaria de Santiago de Cuba",
+      "resumen": "Los alumnos están fuera de peligro, pero fueron ingresados con vómitos, calambres, dolor de cabeza e irritación en los ojos",
+      "imagen_url": "https://static.14ymedio.com/clip/101dd574-4ec6-41e3-bd41-ae66699aeae0_source-aspect-ratio_default_0.png",
+      "enlace_original": "https://www.14ymedio.com/cuba/explicaciones-oficiales-intoxicacion-25-menores_1_1131987.html",
+      "destacada": false,
+      "tema": "explicaciones",
+      "fecha": "Thu, 15 Oct 2026 15:13:48 +0000",
       "id": 15
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
+      "categoria": "politica",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Matanzas recibe otro cargamento de la ayuda humanitaria de EE UU a través de Cáritas Cuba",
-      "resumen": "El paquete va a 700 familias de las 2.100 identificadas como vulnerables por la organización",
-      "imagen_url": "https://static.14ymedio.com/clip/c9ad3d27-66e5-48a3-ab26-ee45c4f08bfc_source-aspect-ratio_default_0.png",
-      "enlace_original": "https://www.14ymedio.com/cuba/matanzas-recibe-cargamento-ayuda-humanitaria_1_1131967.html",
+      "titulo": "«Están solos y aislados»: Díaz-Canel arremete contra EE.UU. antes del voto en la ONU",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e199894-s27061-nid342974-estan-solos-aislados-diaz-canel-arremete-contra-eeuu",
       "destacada": false,
-      "tema": "matanzas",
-      "fecha": "Thu, 15 Oct 2026 10:35:56 +0000",
+      "tema": "están",
+      "fecha": "Thu, 15 Oct 2026 22:37:11 +0200",
       "id": 16
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Con la entrada en vigor de la nueva Ley de la Vivienda, se acaba la confiscación de las casas de los emigrados",
-      "resumen": "Como se había adelantado en junio, los cubanos podrán tener dos viviendas, se autoriza la financiación con hipotecas y se abre el sector al capital privado y extranjero",
-      "imagen_url": "https://static.14ymedio.com/clip/b35d8b5f-b5b3-4a3e-a5e5-1642567f1ec6_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/entrada-vigor-nueva-ley-vivienda_1_1131943.html",
-      "destacada": false,
-      "tema": "entrada",
-      "fecha": "Wed, 14 Oct 2026 18:04:54 +0000",
-      "id": 17
     },
     {
       "categoria": "economia",
@@ -235,7 +222,7 @@
       "destacada": false,
       "tema": "sanciona",
       "fecha": "Thu, 15 Oct 2026 20:35:43 +0200",
-      "id": 18
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -248,20 +235,7 @@
       "destacada": false,
       "tema": "sudáfrica",
       "fecha": "Thu, 15 Oct 2026 20:02:04 +0200",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Apartan a un miembro del jurado en el juicio contra un cubano acusado de triple asesinato en Miami-Dade",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e129488-s27061-nid342952-miembro-jurado-apartado-juicio-caso-cubano-acusado",
-      "destacada": false,
-      "tema": "apartan",
-      "fecha": "Thu, 15 Oct 2026 19:01:26 +0200",
-      "id": 20
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -274,7 +248,20 @@
       "destacada": false,
       "tema": "instituto",
       "fecha": "Wed, 14 Oct 2026 17:18:33 +0000",
-      "id": 21
+      "id": 19
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "ARES inaugura en Mérida un viaje visual por la literatura infantil",
+      "resumen": "La Galería Le Cirque, en Mérida, abrió sus puertas a “Historias ilustradas”, una exposición del artista cubano Arístides Hernández (ARES) que marcó el inicio de la XI edición de la Jornada de la Cultura Cubana en Yucatán.",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261015/ares-inaugura-en-merida-un-viaje-visual-por-la-literatura-infantil-2/",
+      "destacada": false,
+      "tema": "inaugura",
+      "fecha": "Thu, 15 Oct 2026 20:21:39 +0000",
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -287,7 +274,7 @@
       "destacada": false,
       "tema": "amplía",
       "fecha": "Wed, 14 Oct 2026 18:41:45 +0000",
-      "id": 22
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -300,7 +287,7 @@
       "destacada": false,
       "tema": "industrias",
       "fecha": "Wed, 14 Oct 2026 18:19:19 +0000",
-      "id": 23
+      "id": 22
     },
     {
       "categoria": "politica",
@@ -313,59 +300,20 @@
       "destacada": false,
       "tema": "crece",
       "fecha": "Wed, 14 Oct 2026 17:58:23 +0000",
-      "id": 24
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Presentan los libros Donde anida la poesía y conVergencias, de Roberto Chile",
-      "resumen": "Ambos volúmenes constituyen una propuesta artística que confirma la profunda capacidad de la creación cubana para interpretar, interrogar y celebrar su realidad",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261014/presentan-los-libros-donde-anida-la-poesia-y-convergencias-de-roberto-chile/",
-      "destacada": false,
-      "tema": "presentan",
-      "fecha": "Wed, 14 Oct 2026 15:35:38 +0000",
-      "id": 25
+      "id": 23
     },
     {
       "categoria": "transporte",
-      "fuente": "https://www.trabajadores.cu",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "ARES inaugura en Mérida un viaje visual por la literatura infantil",
-      "resumen": "La Galería Le Cirque, en Mérida, abrió sus puertas a “Historias ilustradas”, una exposición del artista cubano Arístides Hernández (ARES) que marcó el inicio de la XI edición de la Jornada de la Cultura Cubana en Yucatán",
+      "titulo": "El periodista independiente Henry Constantin, conducido a una celda de castigo por un mínimo de 15 días",
+      "resumen": "El periodista #cubano Henry Constantin, enviado a una celda de castigo durante al menos 15 días. El jurista de #DiarioDeCubaEdel González analiza el caso y alerta sobre una posible nueva imputación para mantenerlo en prisión.",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261014/ares-inaugura-en-merida-un-viaje-visual-por-la-literatura-infantil/",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1792097550_69408.html",
       "destacada": false,
-      "tema": "inaugura",
-      "fecha": "Wed, 14 Oct 2026 14:29:40 +0000",
-      "id": 26
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Evocación en Santiago de Cuba de La historia me absolverá",
-      "resumen": "En uno de los escenarios del proceso judicial, la sala de enfermeras del antiguo hospital civil santiaguero Saturnino Lora, instituciones y organizaciones realizarán jornadas científicas, talleres y actos",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261014/evocacion-en-santiago-de-cuba-de-la-historia-me-absolvera/",
-      "destacada": false,
-      "tema": "evocación",
-      "fecha": "Wed, 14 Oct 2026 14:19:39 +0000",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Recuerdan inicio de la Guerra de los Diez Años en Las Tunas",
-      "resumen": "La fecha fue rememorada en El Hormiguero, lugar donde Vicente García González reunió a la tropa y los convocó a luchar por la independencia de Cuba",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261014/recuerdan-inicio-de-la-guerra-de-los-diez-anos-en-las-tunas/",
-      "destacada": false,
-      "tema": "recuerdan",
-      "fecha": "Wed, 14 Oct 2026 14:05:26 +0000",
-      "id": 28
+      "tema": "periodista",
+      "fecha": "Thu, 15 Oct 2026 22:52:30 +0200",
+      "id": 24
     },
     {
       "categoria": "economia",
@@ -378,7 +326,7 @@
       "destacada": false,
       "tema": "sanciona",
       "fecha": "Thu, 15 Oct 2026 20:43:44 +0200",
-      "id": 29
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -391,7 +339,7 @@
       "destacada": false,
       "tema": "votan",
       "fecha": "Thu, 15 Oct 2026 20:22:31 +0200",
-      "id": 30
+      "id": 26
     },
     {
       "categoria": "salud",
@@ -404,7 +352,7 @@
       "destacada": false,
       "tema": "justicia",
       "fecha": "Thu, 15 Oct 2026 19:24:55 +0200",
-      "id": 31
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -417,7 +365,7 @@
       "destacada": false,
       "tema": "humanitaria",
       "fecha": "Thu, 15 Oct 2026 17:59:54 +0200",
-      "id": 32
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -430,7 +378,7 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Thu, 15 Oct 2026 16:02:01 +0200",
-      "id": 33
+      "id": 29
     },
     {
       "categoria": "salud",
@@ -443,7 +391,7 @@
       "destacada": false,
       "tema": "atendidos",
       "fecha": "Thu, 15 Oct 2026 14:04:07 +0200",
-      "id": 34
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -456,7 +404,7 @@
       "destacada": false,
       "tema": "nuevos",
       "fecha": "Thu, 15 Oct 2026 13:51:34 +0200",
-      "id": 35
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -469,7 +417,7 @@
       "destacada": false,
       "tema": "pólvora",
       "fecha": "Thu, 15 Oct 2026 13:01:37 +0200",
-      "id": 36
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -482,111 +430,72 @@
       "destacada": false,
       "tema": "casos",
       "fecha": "Thu, 15 Oct 2026 12:13:09 +0200",
-      "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Un nuevo accidente en el Servicio Militar Obligatorio causa la muerte de un cubano de 19 años",
-      "resumen": "Muere el cubano #RaudelAlejandroGuerra en un accidente en el Servicio Militar Obligatorio, que recuerda el de un joven que sobrevivió y denunció a #DiarioDeCuba la desprotección del #EstadoCubano.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792057642_69400.html",
-      "destacada": false,
-      "tema": "nuevo",
-      "fecha": "Thu, 15 Oct 2026 11:47:22 +0200",
-      "id": 38
+      "id": 33
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "EEUU incluye a Cuba en informe de trata de personas",
-      "resumen": "Cuba mantiene una «política o patrón gubernamental» de trabajo forzoso en el programa de exportación de mano de obra del régimen, el cual incluye sus misiones médicas, denunció Natalia Molano, portavoz en Español del Departamento de Estado.",
+      "titulo": "Cuba al día",
+      "resumen": "Analizamos, junto a Emilio Morales, de Havana Consulting Group, las declaraciones de Carlos Miguel Pérez-Reyes sobre las 176 transformaciones económicas y sociales anunciadas por el régimen cubano.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482052.html",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/482068.html",
       "destacada": false,
-      "tema": "incluye",
-      "fecha": "Thu, 15 Oct 2026 15:19:12 -0400",
-      "id": 39
+      "tema": "",
+      "fecha": "Thu, 15 Oct 2026 17:13:02 -0400",
+      "id": 34
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Las noticias como son",
-      "resumen": "Amado Gil y José Luis Ramos, con José Daniel Ferrer, abundan sobre la campaña de la UNPACU a favor de los más necesitados en Stgo. de Cuba. Con Alejandro Tur Valladares, abordan la seria situación a la que han expuesto a Henry Constantín en prisión.",
+      "titulo": "Noticiero de Radio Martí 5:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/las-noticias-como-son/482053.html",
-      "destacada": false,
-      "tema": "noticias",
-      "fecha": "Thu, 15 Oct 2026 14:55:20 -0400",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero Martí Noticias",
-      "resumen": "-Cuba cerró septiembre con un récord de 1.351 presos políticos y de conciencia, según Prisoners Defenders. -Doble jornada de protestas en Cabañas, Artemisa. -Nicolas Maduro y Cilia Flores son acusados de conspiración para cometer tortura.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/noticiero-mart%c3%ad-noticias/482042.html",
+      "enlace_original": "https://www.martinoticias.com/a/481055.html",
       "destacada": false,
       "tema": "noticiero",
-      "fecha": "Thu, 15 Oct 2026 14:51:08 -0400",
-      "id": 41
+      "fecha": "Thu, 15 Oct 2026 17:00:30 -0400",
+      "id": 35
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Madre busca a su hija desaparecida hace 19 meses en Cuba",
+      "resumen": "Familiares mantienen la búsqueda de Doraiky Águila Vázquez, desaparecida en La Habana en 2025.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/madre-busca-a-su-hija-desaparecida-hace-19-meses-en-cuba/482062.html",
+      "destacada": false,
+      "tema": "madre",
+      "fecha": "Thu, 15 Oct 2026 16:59:04 -0400",
+      "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EEUU busca revocar ciudadanía a 40 personas; hay dos cubanos y un fraude con la Ley de Ajuste Cubano",
+      "resumen": "El Departamento de Justicia de Estados Unidos anunció una ofensiva sin precedentes para revocar la ciudadanía a 40 personas naturalizadas acusadas de ocultar delitos graves, cometer fraude migratorio o mentir durante sus procesos de naturalización, entre ellas dos ciudadanos nacidos en Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/eeuu-busca-revocar-ciudadan%c3%ada-a-40-personas-hay-dos-cubanos-y-un-caso-con-falsa-identidad-de-la-isla/482064.html",
+      "destacada": false,
+      "tema": "busca",
+      "fecha": "Thu, 15 Oct 2026 16:15:07 -0400",
+      "id": 37
     },
     {
       "categoria": "energia",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "FLAMUR cumple 30 años de lucha por los derechos de las mujeres rurales en Cuba",
-      "resumen": "La Federación Latinoamericana de Mujeres Rurales conmemora su 30 aniversario con un llamado a defender los derechos humanos y a denunciar las duras condiciones de vida que enfrentan las familias cubanas, en medio de la escasez de alimentos, medicinas, apagones y trabas para producir y comercializar.",
+      "titulo": "Las Noticias Como Son",
+      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/flamur-cumple-30-a%c3%b1os-de-lucha-por-los-derechos-de-las-mujeres-rurales-en-cuba/482035.html",
+      "enlace_original": "https://www.martinoticias.com/a/481047.html",
       "destacada": false,
-      "tema": "flamur",
-      "fecha": "Thu, 15 Oct 2026 14:19:03 -0400",
-      "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Daymé Arocena sobre cancelación de concierto en Washington: \"Salí de Cuba para vivir sin miedo\"",
-      "resumen": "La cantante cubana Daymé Arocena denunció la cancelación de un concierto en Washington D. C. después de que rechazara que el espectáculo estuviera asociado a la Embajada de Cuba en Estados Unidos.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/daym%c3%a9-arocena-sobre-cancelaci%c3%b3n-de-concierto-en-washington-sal%c3%ad-de-cuba-para-vivir-sin-miedo/482032.html",
-      "destacada": false,
-      "tema": "daymé",
-      "fecha": "Thu, 15 Oct 2026 14:10:21 -0400",
-      "id": 43
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481035.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Thu, 15 Oct 2026 14:00:00 -0400",
-      "id": 44
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Rubio denuncia que banco cubano BICSA fue sancionado por sus vínculos con Irán",
-      "resumen": "\"Permítanme ser claro: la Administración Trump no tolerará que un Estado canalla albergue operaciones militares, de inteligencia y terroristas de potencias extranjeras hostiles a menos de cien millas del territorio estadounidense\".",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/rubio-denuncia-que-banco-cubano-bicsa-fue-sancionado-por-sus-v%c3%adnculos-con-ir%c3%a1n/482044.html",
-      "destacada": false,
-      "tema": "rubio",
-      "fecha": "Thu, 15 Oct 2026 13:32:51 -0400",
-      "id": 45
+      "tema": "noticias",
+      "fecha": "Thu, 15 Oct 2026 16:05:30 -0400",
+      "id": 38
     },
     {
       "categoria": "energia",
@@ -599,7 +508,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 15 Oct 2026 15:06:32 +0000",
-      "id": 46
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -612,7 +521,7 @@
       "destacada": false,
       "tema": "presenta",
       "fecha": "Thu, 15 Oct 2026 14:06:49 +0000",
-      "id": 47
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -625,7 +534,7 @@
       "destacada": false,
       "tema": "quinta",
       "fecha": "Thu, 15 Oct 2026 04:42:58 +0000",
-      "id": 48
+      "id": 41
     },
     {
       "categoria": "transporte",
@@ -638,7 +547,7 @@
       "destacada": false,
       "tema": "documental",
       "fecha": "Thu, 15 Oct 26 14:41:00 +0200",
-      "id": 49
+      "id": 42
     },
     {
       "categoria": "energia",
@@ -651,7 +560,7 @@
       "destacada": false,
       "tema": "cambio",
       "fecha": "Thu, 15 Oct 26 14:33:00 +0200",
-      "id": 50
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -664,7 +573,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Thu, 15 Oct 26 08:06:00 +0200",
-      "id": 51
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -677,7 +586,7 @@
       "destacada": false,
       "tema": "meten",
       "fecha": "Thu, 15 Oct 26 08:05:00 +0200",
-      "id": 52
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -690,7 +599,7 @@
       "destacada": false,
       "tema": "albacete",
       "fecha": "Thu, 15 Oct 26 07:35:00 +0200",
-      "id": 53
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -703,7 +612,7 @@
       "destacada": false,
       "tema": "repudio",
       "fecha": "Thu, 15 Oct 26 06:56:00 +0200",
-      "id": 54
+      "id": 47
     },
     {
       "categoria": "energia",
@@ -716,7 +625,7 @@
       "destacada": false,
       "tema": "lugares",
       "fecha": "Thu, 15 Oct 26 06:55:00 +0200",
-      "id": 55
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -729,7 +638,7 @@
       "destacada": false,
       "tema": "consejo",
       "fecha": "Thu, 15 Oct 26 06:52:00 +0200",
-      "id": 56
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -742,7 +651,20 @@
       "destacada": false,
       "tema": "oportunidades",
       "fecha": "Thu, 15 Oct 26 06:50:00 +0200",
-      "id": 57
+      "id": 50
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "! Atención, «fiñes»! Parque infantil La Maestranza reabrirá este sábado",
+      "resumen": "Además de los tradicionales equipos lúdicos, la oferta de la instalación, ubicada en el Centro Histórico de La Habana Vieja, incluye espectáculos artísticos, alquiler de bicicletas y servicio de gastronomía La entrada ! Atención, «fiñes»! Parque infantil La Maestranza reabrirá este sábado se publicó",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/atencion-fines-parque-infantil-la-maestranza-reabrira-este-sabado/",
+      "destacada": false,
+      "tema": "atención",
+      "fecha": "Thu, 15 Oct 2026 19:58:35 +0000",
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -755,7 +677,7 @@
       "destacada": false,
       "tema": "comenzarán",
       "fecha": "Thu, 15 Oct 2026 17:56:05 +0000",
-      "id": 58
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -768,59 +690,7 @@
       "destacada": false,
       "tema": "publica",
       "fecha": "Thu, 15 Oct 2026 14:27:55 +0000",
-      "id": 59
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Más transporte… ¿para todos?",
-      "resumen": "Una guagua que antes podía costar 10 pesos ahora cobra 700. Para quien recibe un salario en pesos cubanos y tiene que repartirlo entre comida, medicamentos y todo lo demás que cuesta vivir, la cuenta del viaje deja de ser una cuenta de transporte. Se convierte en una decisión.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/14/mas-transporte-para-todos/",
-      "destacada": false,
-      "tema": "transporte",
-      "fecha": "Wed, 14 Oct 2026 12:54:00 +0000",
-      "id": 60
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Lo que no puede quedar Apartado",
-      "resumen": "El periodismo crítico en Cuba enfrenta un grave obstáculo: el silencio de directivos y funcionarios ante las denuncias ciudadanas. Apartado 1433, decana sección de opinión, lo evidencia. Sin respuestas ágiles y reales, la confianza en las instituciones se pierde. No perdamos la brújula de la histori",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/14/lo-que-no-puede-quedar-apartado/",
-      "destacada": false,
-      "tema": "quedar",
-      "fecha": "Wed, 14 Oct 2026 12:44:00 +0000",
-      "id": 61
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Nueva Ley de la Vivienda en Cuba",
-      "resumen": "De novedosa y a tono con las normativas jurídicas internacionales vigentes en el mundo calificó la directora de Asuntos Legales del Ministerio de la Construcción, Marvelis Velázquez Reyes, la Ley 187 de la Vivienda, publicada este miércoles en la Gaceta Oficial de la República de Cuba, tras su discu",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/14/nueva-ley-vivienda-cuba/",
-      "destacada": false,
-      "tema": "nueva",
-      "fecha": "Wed, 14 Oct 2026 12:10:00 +0000",
-      "id": 62
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Artistas cubanas conquistan nuevamente Zaragoza",
-      "resumen": "Bajo el título Ellas bailan solas, diferentes espacios públicos de Zaragoza, España, acogen desde el 12 de octubre, Día de la Hispanidad, obras de 60 artistas cubanas, entre ellas las matanceras Yainyt Alcázar, Gio Fernández, Leidy Castellanos y Jennifer Mancha.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/14/artistas-cubanas-conquistan-zaragoza/",
-      "destacada": false,
-      "tema": "artistas",
-      "fecha": "Wed, 14 Oct 2026 11:34:00 +0000",
-      "id": 63
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -833,7 +703,7 @@
       "destacada": false,
       "tema": "recuerdos",
       "fecha": "Thu, 15 Oct 2026 17:30:00 GMT",
-      "id": 64
+      "id": 54
     },
     {
       "categoria": "economia",
@@ -846,7 +716,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "id": 65
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -859,7 +729,7 @@
       "destacada": false,
       "tema": "podrán",
       "fecha": "Wed, 14 Oct 2026 22:15:00 GMT",
-      "id": 66
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -872,7 +742,7 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Wed, 14 Oct 2026 19:30:00 GMT",
-      "id": 67
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -885,7 +755,7 @@
       "destacada": false,
       "tema": "bolita",
       "fecha": "Wed, 14 Oct 2026 14:42:46 GMT",
-      "id": 68
+      "id": 58
     },
     {
       "categoria": "economia",
@@ -898,7 +768,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 14 Oct 2026 14:42:22 GMT",
-      "id": 69
+      "id": 59
     }
   ]
 }
