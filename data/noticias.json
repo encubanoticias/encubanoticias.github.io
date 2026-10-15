@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-15",
-  "hora": "03:17",
-  "total": 55,
+  "hora": "04:18",
+  "total": 60,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -124,6 +124,19 @@
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
+      "titulo": "Pequeña Habana: el plan para rezonificar el barrio cubano permitiría 20.000 nuevos residentes y no exige vivienda asequible",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e208512-s27061-nid342941-pequena-habana-plan-rezonificar-barrio-cubano",
+      "destacada": false,
+      "tema": "pequeña",
+      "fecha": "Thu, 15 Oct 2026 04:43:32 +0200",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
       "titulo": "Deportan a Cuba al balsero que fue rescatado en una diminuta balsa frente a Key Biscayne",
       "resumen": "",
       "imagen_url": "",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "deportan",
       "fecha": "Thu, 15 Oct 2026 02:41:03 +0200",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "economia",
@@ -144,7 +157,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 15 Oct 2026 02:34:24 +0200",
-      "id": 11
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -157,19 +170,6 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Thu, 15 Oct 2026 01:50:42 +0200",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Air China cancela otro vuelo entre Madrid y La Habana: también se afectan envíos de paquetes a Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e208933-s27061-nid342930-air-china-cancela-otro-vuelo-madrid-habana-tambien",
-      "destacada": false,
-      "tema": "china",
-      "fecha": "Thu, 15 Oct 2026 01:34:38 +0200",
       "id": 13
     },
     {
@@ -410,6 +410,19 @@
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
+      "titulo": "Cuba al Día",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481014.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Thu, 15 Oct 2026 00:00:30 -0400",
+      "id": 32
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
       "titulo": "La Barbacoa de Pepe",
       "resumen": "La Barbacoa de Pepe es un muestrario de la nostalgia cubana con datos y curiosidades de los temas más variados, para la audiencia cubana. También trataremos temas internacionales y locales, siempre con el fin de educar al Cubano de la Isla. Con la elocuencia de Pepe Forte.",
       "imagen_url": "",
@@ -417,7 +430,46 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Wed, 14 Oct 2026 21:00:00 -0400",
-      "id": 32
+      "id": 33
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La mujer rural: pilar del campo cubano",
+      "resumen": "Hoy celebramos a la mujer rural. La conmemoración, impulsada por la Asamblea General de las Naciones Unidas hace 18 años, tiene el propósito de reconocer el papel decisivo de las campesinas en la seguridad alimentaria, la protección del medio ambiente y el desarrollo sostenible. The post La mujer ru",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/fotorreportajes/2026/10/15/la-mujer-rural-pilar-del-campo-cubano/",
+      "destacada": false,
+      "tema": "mujer",
+      "fecha": "Thu, 15 Oct 2026 04:03:54 +0000",
+      "id": 34
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Regresa “Los silencios quebrados de San Lorenzo”, el libro de Acosta de Arriba sobre Céspedes",
+      "resumen": "Una nueva edición de “Los silencios quebrados de San Lorenzo”, libro fundamental del investigador Rafael Acosta de Arriba, será presentada el próximo 21 de octubre, a las 10:00 a. m., en la Casa Eusebio Leal Spengler, en La Habana Vieja. El volumen, que incorpora siete textos nuevos, profundiza en l",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/14/regresa-los-silencios-quebrados-de-san-lorenzo-el-libro-de-acosta-de-arriba-sobre-cespedes/",
+      "destacada": false,
+      "tema": "regresa",
+      "fecha": "Thu, 15 Oct 2026 03:28:30 +0000",
+      "id": 35
+    },
+    {
+      "categoria": "salud",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Consejo de Estado aprueba dos nuevos decretos leyes y evalúa transformaciones económicas y sociales",
+      "resumen": "El Consejo de Estado evaluó los avances y perspectivas de las transformaciones económicas y sociales, y aprobó dos nuevos decretos leyes sobre seguridad social y transición energética en Cuba. También analizó la implementación de la Ley de la Salud Pública y el seguimiento a los planteamientos de lo",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/14/consejo-de-estado-aprueba-dos-nuevos-decretos-leyes-y-evalua-transformaciones-economicas-y-sociales/",
+      "destacada": false,
+      "tema": "consejo",
+      "fecha": "Thu, 15 Oct 2026 03:16:36 +0000",
+      "id": 36
     },
     {
       "categoria": "politica",
@@ -430,7 +482,20 @@
       "destacada": false,
       "tema": "oportunidades",
       "fecha": "Thu, 15 Oct 2026 01:12:53 +0000",
-      "id": 33
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Todo sobre la operación Anna Bensi en Cuba",
+      "resumen": "Cubainformación.- ¿Se puede ser más lamebotas que una cubano o cubano celebrando el 12 de octubre, D...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125469-todo-sobre-la-operacion-anna-bensi-en-cuba.jpg?t=1791979272",
+      "enlace_original": "https://www.cubainformacion.tv/especiales/20261015/125469/125469-todo-sobre-la-operacion-anna-bensi-en-cuba",
+      "destacada": false,
+      "tema": "operación",
+      "fecha": "Thu, 15 Oct 26 03:00:00 +0200",
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -443,7 +508,7 @@
       "destacada": false,
       "tema": "marco",
       "fecha": "Wed, 14 Oct 26 20:28:00 +0200",
-      "id": 34
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -456,7 +521,7 @@
       "destacada": false,
       "tema": "publica",
       "fecha": "Wed, 14 Oct 26 20:27:00 +0200",
-      "id": 35
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -469,7 +534,7 @@
       "destacada": false,
       "tema": "historia",
       "fecha": "Wed, 14 Oct 26 17:19:00 +0200",
-      "id": 36
+      "id": 41
     },
     {
       "categoria": "energia",
@@ -482,7 +547,7 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Wed, 14 Oct 26 11:19:00 +0200",
-      "id": 37
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -495,7 +560,7 @@
       "destacada": false,
       "tema": "abracemos",
       "fecha": "Wed, 14 Oct 26 07:37:00 +0200",
-      "id": 38
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -508,7 +573,7 @@
       "destacada": false,
       "tema": "félix",
       "fecha": "Wed, 14 Oct 26 07:30:00 +0200",
-      "id": 39
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -521,7 +586,7 @@
       "destacada": false,
       "tema": "cipayos",
       "fecha": "Wed, 14 Oct 26 07:29:00 +0200",
-      "id": 40
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -534,7 +599,7 @@
       "destacada": false,
       "tema": "finca",
       "fecha": "Tue, 13 Oct 2026 12:44:52 +0000",
-      "id": 41
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -547,7 +612,7 @@
       "destacada": false,
       "tema": "alertan",
       "fecha": "Wed, 14 Oct 2026 20:24:35 +0000",
-      "id": 42
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -560,7 +625,7 @@
       "destacada": false,
       "tema": "ratifica",
       "fecha": "Wed, 14 Oct 2026 20:02:26 +0000",
-      "id": 43
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -573,7 +638,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Wed, 14 Oct 2026 15:35:27 +0000",
-      "id": 44
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -586,7 +651,7 @@
       "destacada": false,
       "tema": "entregan",
       "fecha": "Wed, 14 Oct 2026 15:40:59 +0000",
-      "id": 45
+      "id": 50
     },
     {
       "categoria": "salud",
@@ -599,7 +664,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Wed, 14 Oct 2026 12:54:00 +0000",
-      "id": 46
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -612,7 +677,7 @@
       "destacada": false,
       "tema": "quedar",
       "fecha": "Wed, 14 Oct 2026 12:44:00 +0000",
-      "id": 47
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -625,7 +690,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Wed, 14 Oct 2026 12:10:00 +0000",
-      "id": 48
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -638,7 +703,20 @@
       "destacada": false,
       "tema": "artistas",
       "fecha": "Wed, 14 Oct 2026 11:34:00 +0000",
-      "id": 49
+      "id": 54
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Se podrán tener hasta dos casas y comprar sin efectivo: lo que trae la nueva Ley de la Vivienda en Cuba",
+      "resumen": "La Ley 187, publicada el 14 de octubre, sustituye la norma de 1988 y permite hasta dos viviendas por persona, además de compraventas obligatoriamente sin efectivo y ante notario.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/AP_433770677421_52d77a057d.jpg",
+      "enlace_original": "https://eltoque.com/publicada-nueva-ley-de-la-vivienda-en-cuba",
+      "destacada": false,
+      "tema": "podrán",
+      "fecha": "Wed, 14 Oct 2026 22:15:00 GMT",
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -651,20 +729,7 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Wed, 14 Oct 2026 19:30:00 GMT",
-      "id": 50
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Se podrán tener hasta dos casas y comprar sin efectivo: lo que trae la nueva Ley de la Vivienda en Cuba",
-      "resumen": "La Ley 187, publicada el 14 de octubre, sustituye la norma de 1988 y permite hasta dos viviendas por persona, además de compraventas obligatoriamente sin efectivo y ante notario.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/AP_433770677421_52d77a057d.jpg",
-      "enlace_original": "https://eltoque.com/publicada-nueva-ley-de-la-vivienda-en-cuba",
-      "destacada": false,
-      "tema": "podrán",
-      "fecha": "Wed, 14 Oct 2026 15:45:00 GMT",
-      "id": 51
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -677,7 +742,7 @@
       "destacada": false,
       "tema": "bolita",
       "fecha": "Wed, 14 Oct 2026 14:42:46 GMT",
-      "id": 52
+      "id": 57
     },
     {
       "categoria": "economia",
@@ -690,7 +755,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 14 Oct 2026 14:42:22 GMT",
-      "id": 53
+      "id": 58
     },
     {
       "categoria": "economia",
@@ -703,7 +768,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 10:15:00 GMT",
-      "id": 54
+      "id": 59
     },
     {
       "categoria": "sociedad",
@@ -716,7 +781,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Tue, 13 Oct 2026 10:00:00 GMT",
-      "id": 55
+      "id": 60
     }
   ]
 }
