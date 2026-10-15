@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-15",
-  "hora": "06:20",
-  "total": 60,
+  "hora": "07:30",
+  "total": 64,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -290,6 +290,19 @@
       "id": 22
     },
     {
+      "categoria": "economia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La inflación interanual roza el 30% en Cuba y el salario medio se queda por debajo de los diez dólares",
+      "resumen": "Los #alimentos vuelven a impulsar el alza de los #precios en #Cuba mientras la depreciación del peso cubano reduce la capacidad de compra de los trabajadores.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1792046011_69398.html",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Thu, 15 Oct 2026 08:33:31 +0200",
+      "id": 23
+    },
+    {
       "categoria": "salud",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
@@ -300,7 +313,7 @@
       "destacada": false,
       "tema": "colapso",
       "fecha": "Thu, 15 Oct 2026 01:11:31 +0200",
-      "id": 23
+      "id": 24
     },
     {
       "categoria": "energia",
@@ -313,7 +326,7 @@
       "destacada": false,
       "tema": "entra",
       "fecha": "Thu, 15 Oct 2026 00:01:29 +0200",
-      "id": 24
+      "id": 25
     },
     {
       "categoria": "energia",
@@ -326,7 +339,7 @@
       "destacada": false,
       "tema": "salidero",
       "fecha": "Wed, 14 Oct 2026 22:25:29 +0200",
-      "id": 25
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -339,7 +352,7 @@
       "destacada": false,
       "tema": "llega",
       "fecha": "Wed, 14 Oct 2026 20:32:07 +0200",
-      "id": 26
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -352,7 +365,7 @@
       "destacada": false,
       "tema": "imputan",
       "fecha": "Wed, 14 Oct 2026 20:07:24 +0200",
-      "id": 27
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -365,7 +378,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Wed, 14 Oct 2026 19:22:07 +0200",
-      "id": 28
+      "id": 29
     },
     {
       "categoria": "economia",
@@ -378,7 +391,7 @@
       "destacada": false,
       "tema": "pensión",
       "fecha": "Wed, 14 Oct 2026 18:00:09 +0200",
-      "id": 29
+      "id": 30
     },
     {
       "categoria": "salud",
@@ -391,7 +404,7 @@
       "destacada": false,
       "tema": "editorial",
       "fecha": "Wed, 14 Oct 2026 16:37:07 +0200",
-      "id": 30
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -404,19 +417,6 @@
       "destacada": false,
       "tema": "bensi",
       "fecha": "Wed, 14 Oct 2026 15:57:40 +0200",
-      "id": 31
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Yoriorkis Gamboa, vetado de entrar a Cuba durante ocho años, lleva un donativo al boxeo de Guantánamo",
-      "resumen": "#YuriorkisGamboa hace una donación al equipo de #Boxeo de #Guantánamo 20 años después de la fuga por la que el #RégimenCubano le prohibió entrar a #Cuba durante ocho años. Las autoridades deportivas de la provincia aceptan el donativo en un momento en que el #DeporteCubano es golpeado por la falta d",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/deportes/1791980653_69389.html",
-      "destacada": false,
-      "tema": "yoriorkis",
-      "fecha": "Wed, 14 Oct 2026 14:24:13 +0200",
       "id": 32
     },
     {
@@ -706,6 +706,58 @@
       "id": 54
     },
     {
+      "categoria": "salud",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Más transporte… ¿para todos?",
+      "resumen": "Una guagua que antes podía costar 10 pesos ahora cobra 700. Para quien recibe un salario en pesos cubanos y tiene que repartirlo entre comida, medicamentos y todo lo demás que cuesta vivir, la cuenta del viaje deja de ser una cuenta de transporte. Se convierte en una decisión.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/14/mas-transporte-para-todos/",
+      "destacada": false,
+      "tema": "transporte",
+      "fecha": "Wed, 14 Oct 2026 12:54:00 +0000",
+      "id": 55
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Lo que no puede quedar Apartado",
+      "resumen": "El periodismo crítico en Cuba enfrenta un grave obstáculo: el silencio de directivos y funcionarios ante las denuncias ciudadanas. Apartado 1433, decana sección de opinión, lo evidencia. Sin respuestas ágiles y reales, la confianza en las instituciones se pierde. No perdamos la brújula de la histori",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/14/lo-que-no-puede-quedar-apartado/",
+      "destacada": false,
+      "tema": "quedar",
+      "fecha": "Wed, 14 Oct 2026 12:44:00 +0000",
+      "id": 56
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Nueva Ley de la Vivienda en Cuba",
+      "resumen": "De novedosa y a tono con las normativas jurídicas internacionales vigentes en el mundo calificó la directora de Asuntos Legales del Ministerio de la Construcción, Marvelis Velázquez Reyes, la Ley 187 de la Vivienda, publicada este miércoles en la Gaceta Oficial de la República de Cuba, tras su discu",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/14/nueva-ley-vivienda-cuba/",
+      "destacada": false,
+      "tema": "nueva",
+      "fecha": "Wed, 14 Oct 2026 12:10:00 +0000",
+      "id": 57
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Artistas cubanas conquistan nuevamente Zaragoza",
+      "resumen": "Bajo el título Ellas bailan solas, diferentes espacios públicos de Zaragoza, España, acogen desde el 12 de octubre, Día de la Hispanidad, obras de 60 artistas cubanas, entre ellas las matanceras Yainyt Alcázar, Gio Fernández, Leidy Castellanos y Jennifer Mancha.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/14/artistas-cubanas-conquistan-zaragoza/",
+      "destacada": false,
+      "tema": "artistas",
+      "fecha": "Wed, 14 Oct 2026 11:34:00 +0000",
+      "id": 58
+    },
+    {
       "categoria": "sociedad",
       "fuente": "https://eltoque.com",
       "fuente_tipo": "alternativa",
@@ -716,7 +768,7 @@
       "destacada": false,
       "tema": "podrán",
       "fecha": "Wed, 14 Oct 2026 22:15:00 GMT",
-      "id": 55
+      "id": 59
     },
     {
       "categoria": "sociedad",
@@ -729,7 +781,7 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Wed, 14 Oct 2026 19:30:00 GMT",
-      "id": 56
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -742,7 +794,7 @@
       "destacada": false,
       "tema": "bolita",
       "fecha": "Wed, 14 Oct 2026 14:42:46 GMT",
-      "id": 57
+      "id": 61
     },
     {
       "categoria": "economia",
@@ -755,7 +807,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 14 Oct 2026 14:42:22 GMT",
-      "id": 58
+      "id": 62
     },
     {
       "categoria": "economia",
@@ -768,7 +820,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 13 Oct 2026 10:15:00 GMT",
-      "id": 59
+      "id": 63
     },
     {
       "categoria": "sociedad",
@@ -781,7 +833,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Tue, 13 Oct 2026 10:00:00 GMT",
-      "id": 60
+      "id": 64
     }
   ]
 }
