@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-10-15",
-  "hora": "23:11",
-  "total": 67,
+  "fecha": "2026-10-16",
+  "hora": "00:12",
+  "total": 71,
   "noticias": [
     {
       "categoria": "politica",
@@ -56,6 +56,45 @@
       "id": 4
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Nicolás Vives, su hija y el voleibol cubano, entre semilla y árbol",
+      "resumen": "Se refiere a la Liga Ciudad Élite, la selección varonil absoluta y la cercanía de su hija a este deporte",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-15/nicolas-vives-su-hija-y-el-voleibol-cubano-entre-semilla-y-arbol-15-10-2026-19-10-59",
+      "destacada": true,
+      "tema": "nicolás",
+      "fecha": "Thu, 15 Oct 2026 19:10:59 -0400",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El orgullo de lo auténtico",
+      "resumen": "Un tributo para Barbara Dane, disco de Osamu Menéndez, es una obra discográfica de alta valía artística, en la cual participan tanto músicos estadounidenses como cubanos",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-15/el-orgullo-de-lo-autentico-15-10-2026-19-10-52",
+      "destacada": false,
+      "tema": "orgullo",
+      "fecha": "Thu, 15 Oct 2026 19:10:52 -0400",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Un acto que es sabotaje y peligro para la vida",
+      "resumen": "Junto a Matanzas, Ciego de Ávila, Artemisa y Mayabeque, Santiago de Cuba es de las provincias con mayor incidencia en el robo de aceite dieléctrico a los transformadores, un hecho peligroso que ha costado ya varias vidas",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-15/un-acto-que-es-sabotaje-y-peligro-para-la-vida-15-10-2026-19-10-54",
+      "destacada": false,
+      "tema": "sabotaje",
+      "fecha": "Thu, 15 Oct 2026 19:10:54 -0400",
+      "id": 7
+    },
+    {
       "categoria": "energia",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
@@ -63,10 +102,10 @@
       "resumen": "La condena al bloqueo genocida impuesto a Cuba por Estados Unidos, constituyó el punto cumbre de un homenaje realizado a Mwalimu Julius Kambarage de Nyerere, presidente fundador y padre de la nación de la República Unida de Tanzania en el aniversario de su fallecimiento",
       "imagen_url": "",
       "enlace_original": "http://www.granma.cu/mundo/2026-10-15/africa-esta-junto-a-cuba-del-mismo-modo-que-cuba-estuvo-junto-a-africa-15-10-2026-17-10-41",
-      "destacada": true,
+      "destacada": false,
       "tema": "áfrica",
       "fecha": "Thu, 15 Oct 2026 17:10:41 -0400",
-      "id": 5
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -79,20 +118,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Wed, 14 Oct 2026 18:10:15 -0400",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "María Elena Llana, entre lo más encumbrado de nuestra literatura",
-      "resumen": "La propuesta de candidatura al Premio de Literatura en Lengua Castellana Miguel de Cervantes 2026, a la destacada escritora y periodista María Elena Llana Castro, nacida en 1936, ha sido respaldada por el Ministerio de Cultura de Cuba y por el Instituto Cubano del Libro",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-15/maria-elena-llana-entre-lo-mas-encumbrado-de-nuestra-literatura-15-10-2026-16-10-32",
-      "destacada": false,
-      "tema": "maría",
-      "fecha": "Thu, 15 Oct 2026 16:10:32 -0400",
-      "id": 7
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -105,7 +131,7 @@
       "destacada": false,
       "tema": "béisbol",
       "fecha": "Thu, 15 Oct 2026 22:31:13 +0000",
-      "id": 8
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -118,7 +144,7 @@
       "destacada": false,
       "tema": "magalys",
       "fecha": "Thu, 15 Oct 2026 22:06:11 +0000",
-      "id": 9
+      "id": 11
     },
     {
       "categoria": "economia",
@@ -131,7 +157,7 @@
       "destacada": false,
       "tema": "sanciona",
       "fecha": "Thu, 15 Oct 2026 21:13:16 +0000",
-      "id": 10
+      "id": 12
     },
     {
       "categoria": "economia",
@@ -144,7 +170,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 15 Oct 2026 18:26:02 +0000",
-      "id": 11
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -157,7 +183,7 @@
       "destacada": false,
       "tema": "henry",
       "fecha": "Thu, 15 Oct 2026 19:12:24 +0000",
-      "id": 12
+      "id": 14
     },
     {
       "categoria": "politica",
@@ -170,7 +196,7 @@
       "destacada": false,
       "tema": "cancillería",
       "fecha": "Thu, 15 Oct 2026 10:13:55 +0000",
-      "id": 13
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -183,7 +209,7 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Thu, 15 Oct 2026 14:46:04 +0000",
-      "id": 14
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -196,7 +222,7 @@
       "destacada": false,
       "tema": "sudáfrica",
       "fecha": "Thu, 15 Oct 2026 11:54:24 +0000",
-      "id": 15
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -209,72 +235,85 @@
       "destacada": false,
       "tema": "explicaciones",
       "fecha": "Thu, 15 Oct 2026 15:13:48 +0000",
-      "id": 16
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Dos cubanos son asaltados a punta de pistola en Guyana: un sospechoso resulta baleado",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e208933-s27061-nid342981-dos-cubanos-son-asaltados-punta-pistola-guyana",
-      "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Thu, 15 Oct 2026 23:28:20 +0200",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "En menos de 24 horas: Llega la ayuda a ancianos cubanos en extrema pobreza",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e208487-s27061-nid342979-menos-24-horas-llega-ayuda-ancianos-cubanos-extrema",
-      "destacada": false,
-      "tema": "menos",
-      "fecha": "Thu, 15 Oct 2026 23:26:12 +0200",
       "id": 18
     },
     {
-      "categoria": "sociedad",
+      "categoria": "transporte",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Tras ser deportado, un cubano levanta un taller en La Habana y emplea a otros retornados",
+      "titulo": "China dona 80,000 piezas para reparar bicicletas en Cuba en medio de la crisis del transporte",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e135253-s27061-nid342977-tras-ser-deportado-cubano-levanta-taller-habana",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e208933-s27061-nid342995-china-dona-80000-piezas-reparar-bicicletas-cuba",
       "destacada": false,
-      "tema": "deportado",
-      "fecha": "Thu, 15 Oct 2026 22:59:12 +0200",
+      "tema": "china",
+      "fecha": "Fri, 16 Oct 2026 01:34:41 +0200",
       "id": 19
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "180 cubanos pasan más de 24 horas varados en aeropuerto de Aruba tras incidente aéreo",
+      "titulo": "Abren las becas de la familia Mas para estudiantes cubanos y sus descendientes",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e208933-s27061-nid342975-180-cubanos-pasan-24-horas-varados-aeropuerto-aruba",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e135253-s27061-nid342994-abren-becas-familia-estudiantes-cubanos-sus",
       "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Thu, 15 Oct 2026 22:48:48 +0200",
+      "tema": "abren",
+      "fecha": "Fri, 16 Oct 2026 01:27:01 +0200",
       "id": 20
     },
     {
-      "categoria": "politica",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "«Están solos y aislados»: Díaz-Canel arremete contra EE.UU. antes del voto en la ONU",
+      "titulo": "Dos científicos cubanos logran clonar por primera vez un caballo en Chile",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-15-u1-e199894-s27061-nid342974-estan-solos-aislados-diaz-canel-arremete-contra-eeuu",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e208933-s27061-nid342989-dos-cientificos-cubanos-logran-clonar-primera-vez",
       "destacada": false,
-      "tema": "están",
-      "fecha": "Thu, 15 Oct 2026 22:37:11 +0200",
+      "tema": "científicos",
+      "fecha": "Fri, 16 Oct 2026 00:13:25 +0200",
       "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "En Cuba, dar de comer a un hambriento puede llevarte a prisión",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u208253-e192519-s27068-nid342988-cuba-dar-comer-hambriento-puede-llevarte",
+      "destacada": false,
+      "tema": "comer",
+      "fecha": "Fri, 16 Oct 2026 00:07:18 +0200",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubano Lucio Enríquez tras ganar juicio a española Ana Hurtado: «Conmigo vas hasta el final»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e192519-s27061-nid342982-cubano-lucio-enriquez-tras-ganar-juicio-espanola-ana",
+      "destacada": false,
+      "tema": "cubano",
+      "fecha": "Fri, 16 Oct 2026 00:03:47 +0200",
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Marco Rubio acusa al régimen cubano de albergar grupos terroristas que buscan atacar a EE.UU.",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e199894-s27061-nid342986-marco-rubio-acusa-al-regimen-cubano-albergar-grupos",
+      "destacada": false,
+      "tema": "marco",
+      "fecha": "Fri, 16 Oct 2026 00:00:01 +0200",
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -287,7 +326,7 @@
       "destacada": false,
       "tema": "instituto",
       "fecha": "Wed, 14 Oct 2026 17:18:33 +0000",
-      "id": 22
+      "id": 25
     },
     {
       "categoria": "transporte",
@@ -300,7 +339,7 @@
       "destacada": false,
       "tema": "inaugura",
       "fecha": "Thu, 15 Oct 2026 20:21:39 +0000",
-      "id": 23
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -313,7 +352,7 @@
       "destacada": false,
       "tema": "amplía",
       "fecha": "Wed, 14 Oct 2026 18:41:45 +0000",
-      "id": 24
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -326,7 +365,7 @@
       "destacada": false,
       "tema": "industrias",
       "fecha": "Wed, 14 Oct 2026 18:19:19 +0000",
-      "id": 25
+      "id": 28
     },
     {
       "categoria": "politica",
@@ -339,7 +378,7 @@
       "destacada": false,
       "tema": "crece",
       "fecha": "Wed, 14 Oct 2026 17:58:23 +0000",
-      "id": 26
+      "id": 29
     },
     {
       "categoria": "economia",
@@ -352,7 +391,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 16 Oct 2026 01:10:32 +0200",
-      "id": 27
+      "id": 30
     },
     {
       "categoria": "transporte",
@@ -365,7 +404,7 @@
       "destacada": false,
       "tema": "periodista",
       "fecha": "Thu, 15 Oct 2026 22:52:30 +0200",
-      "id": 28
+      "id": 31
     },
     {
       "categoria": "economia",
@@ -378,7 +417,7 @@
       "destacada": false,
       "tema": "sanciona",
       "fecha": "Thu, 15 Oct 2026 20:43:44 +0200",
-      "id": 29
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -391,7 +430,7 @@
       "destacada": false,
       "tema": "votan",
       "fecha": "Thu, 15 Oct 2026 20:22:31 +0200",
-      "id": 30
+      "id": 33
     },
     {
       "categoria": "salud",
@@ -404,7 +443,7 @@
       "destacada": false,
       "tema": "justicia",
       "fecha": "Thu, 15 Oct 2026 19:24:55 +0200",
-      "id": 31
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -417,7 +456,7 @@
       "destacada": false,
       "tema": "humanitaria",
       "fecha": "Thu, 15 Oct 2026 17:59:54 +0200",
-      "id": 32
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -430,7 +469,7 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Thu, 15 Oct 2026 16:02:01 +0200",
-      "id": 33
+      "id": 36
     },
     {
       "categoria": "salud",
@@ -443,7 +482,7 @@
       "destacada": false,
       "tema": "atendidos",
       "fecha": "Thu, 15 Oct 2026 14:04:07 +0200",
-      "id": 34
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -456,7 +495,7 @@
       "destacada": false,
       "tema": "nuevos",
       "fecha": "Thu, 15 Oct 2026 13:51:34 +0200",
-      "id": 35
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -469,7 +508,20 @@
       "destacada": false,
       "tema": "pólvora",
       "fecha": "Thu, 15 Oct 2026 13:01:37 +0200",
-      "id": 36
+      "id": 39
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 8:00 PM",
+      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481061.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Thu, 15 Oct 2026 20:00:00 -0400",
+      "id": 40
     },
     {
       "categoria": "energia",
@@ -482,7 +534,7 @@
       "destacada": false,
       "tema": "vivienda",
       "fecha": "Thu, 15 Oct 2026 18:12:43 -0400",
-      "id": 37
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -495,7 +547,7 @@
       "destacada": false,
       "tema": "serán",
       "fecha": "Thu, 15 Oct 2026 17:38:11 -0400",
-      "id": 38
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -508,7 +560,7 @@
       "destacada": false,
       "tema": "uruguay",
       "fecha": "Thu, 15 Oct 2026 17:36:38 -0400",
-      "id": 39
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -521,7 +573,7 @@
       "destacada": false,
       "tema": "balsero",
       "fecha": "Thu, 15 Oct 2026 17:24:52 -0400",
-      "id": 40
+      "id": 44
     },
     {
       "categoria": "energia",
@@ -534,7 +586,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 15 Oct 2026 15:06:32 +0000",
-      "id": 41
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -547,7 +599,7 @@
       "destacada": false,
       "tema": "presenta",
       "fecha": "Thu, 15 Oct 2026 14:06:49 +0000",
-      "id": 42
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -560,7 +612,7 @@
       "destacada": false,
       "tema": "quinta",
       "fecha": "Thu, 15 Oct 2026 04:42:58 +0000",
-      "id": 43
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -573,7 +625,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Thu, 15 Oct 26 23:46:00 +0200",
-      "id": 44
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -586,7 +638,7 @@
       "destacada": false,
       "tema": "sempiterno",
       "fecha": "Thu, 15 Oct 26 23:43:00 +0200",
-      "id": 45
+      "id": 49
     },
     {
       "categoria": "transporte",
@@ -599,7 +651,7 @@
       "destacada": false,
       "tema": "documental",
       "fecha": "Thu, 15 Oct 26 14:41:00 +0200",
-      "id": 46
+      "id": 50
     },
     {
       "categoria": "energia",
@@ -612,7 +664,7 @@
       "destacada": false,
       "tema": "cambio",
       "fecha": "Thu, 15 Oct 26 14:33:00 +0200",
-      "id": 47
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -625,7 +677,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Thu, 15 Oct 26 08:06:00 +0200",
-      "id": 48
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -638,7 +690,7 @@
       "destacada": false,
       "tema": "meten",
       "fecha": "Thu, 15 Oct 26 08:05:00 +0200",
-      "id": 49
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -651,7 +703,7 @@
       "destacada": false,
       "tema": "albacete",
       "fecha": "Thu, 15 Oct 26 07:35:00 +0200",
-      "id": 50
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -664,7 +716,7 @@
       "destacada": false,
       "tema": "repudio",
       "fecha": "Thu, 15 Oct 26 06:56:00 +0200",
-      "id": 51
+      "id": 55
     },
     {
       "categoria": "energia",
@@ -677,7 +729,7 @@
       "destacada": false,
       "tema": "lugares",
       "fecha": "Thu, 15 Oct 26 06:55:00 +0200",
-      "id": 52
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -690,7 +742,7 @@
       "destacada": false,
       "tema": "atención",
       "fecha": "Thu, 15 Oct 2026 19:58:35 +0000",
-      "id": 53
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -703,7 +755,7 @@
       "destacada": false,
       "tema": "comenzarán",
       "fecha": "Thu, 15 Oct 2026 17:56:05 +0000",
-      "id": 54
+      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -716,7 +768,7 @@
       "destacada": false,
       "tema": "publica",
       "fecha": "Thu, 15 Oct 2026 14:27:55 +0000",
-      "id": 55
+      "id": 59
     },
     {
       "categoria": "salud",
@@ -729,7 +781,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Wed, 14 Oct 2026 12:54:00 +0000",
-      "id": 56
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -742,7 +794,7 @@
       "destacada": false,
       "tema": "quedar",
       "fecha": "Wed, 14 Oct 2026 12:44:00 +0000",
-      "id": 57
+      "id": 61
     },
     {
       "categoria": "sociedad",
@@ -755,7 +807,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Wed, 14 Oct 2026 12:10:00 +0000",
-      "id": 58
+      "id": 62
     },
     {
       "categoria": "sociedad",
@@ -768,7 +820,7 @@
       "destacada": false,
       "tema": "artistas",
       "fecha": "Wed, 14 Oct 2026 11:34:00 +0000",
-      "id": 59
+      "id": 63
     },
     {
       "categoria": "sociedad",
@@ -781,7 +833,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Thu, 15 Oct 2026 22:00:00 GMT",
-      "id": 60
+      "id": 64
     },
     {
       "categoria": "sociedad",
@@ -794,7 +846,7 @@
       "destacada": false,
       "tema": "recuerdos",
       "fecha": "Thu, 15 Oct 2026 17:30:00 GMT",
-      "id": 61
+      "id": 65
     },
     {
       "categoria": "economia",
@@ -807,7 +859,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "id": 62
+      "id": 66
     },
     {
       "categoria": "sociedad",
@@ -820,7 +872,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Thu, 15 Oct 2026 09:15:00 GMT",
-      "id": 63
+      "id": 67
     },
     {
       "categoria": "sociedad",
@@ -833,7 +885,7 @@
       "destacada": false,
       "tema": "podrán",
       "fecha": "Wed, 14 Oct 2026 22:15:00 GMT",
-      "id": 64
+      "id": 68
     },
     {
       "categoria": "sociedad",
@@ -846,7 +898,7 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Wed, 14 Oct 2026 19:30:00 GMT",
-      "id": 65
+      "id": 69
     },
     {
       "categoria": "sociedad",
@@ -859,7 +911,7 @@
       "destacada": false,
       "tema": "bolita",
       "fecha": "Wed, 14 Oct 2026 14:42:46 GMT",
-      "id": 66
+      "id": 70
     },
     {
       "categoria": "economia",
@@ -872,7 +924,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 14 Oct 2026 14:42:22 GMT",
-      "id": 67
+      "id": 71
     }
   ]
 }
