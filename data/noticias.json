@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-16",
-  "hora": "03:17",
-  "total": 66,
+  "hora": "04:18",
+  "total": 70,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -98,13 +98,13 @@
       "categoria": "politica",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Homenaje a Fidel Castro en reunión de partido mexicano",
-      "resumen": "Ciudad de México, 15 oct (Prensa Latina) El 183 Pleno del Comité Central del Partido Popular Socialista de México dedicó una sesión para homenajear al líder histórico de la Revolución cubana, Fidel Castro, en el centenario de su natalicio, divulgó hoy una fuente oficial. The post Homenaje a Fidel Ca",
+      "titulo": "Solidaridad con Cuba en Panamá demanda fin de bloqueo de EEUU",
+      "resumen": "Ciudad de Panamá, 16 oct (Prensa Latina) La Coordinadora Nacional de Solidaridad con Cuba en Panamá solicitó al Gobierno de este país respaldar la resolución que demanda el fin del bloqueo impuesto por Estados Unidos a la isla, trascendió hoy. The post Solidaridad con Cuba en Panamá demanda fin de b",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/15/homenaje-a-fidel-castro-en-reunion-de-partido-mexicano/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/16/solidaridad-con-cuba-en-panama-demanda-fin-de-bloqueo-de-eeuu/",
       "destacada": false,
-      "tema": "homenaje",
-      "fecha": "Fri, 16 Oct 2026 02:57:40 +0000",
+      "tema": "solidaridad",
+      "fecha": "Fri, 16 Oct 2026 04:02:50 +0000",
       "id": 8
     },
     {
@@ -488,6 +488,19 @@
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
+      "titulo": "Cuba al Día",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481095.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Fri, 16 Oct 2026 00:00:30 -0400",
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
       "titulo": "Fiscalía de Granma pide hasta 10 años de cárcel por mensajes de WhatsApp y videos en redes",
       "resumen": "Las redes sociales, los mensajes de texto y hasta las recargas telefónicas se han convertido en la nueva \"evidencia\" para la justicia cubana. ¿Se trata del castigo a un delito o de la penalización absoluta de la libertad de expresión?",
       "imagen_url": "",
@@ -495,7 +508,7 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Thu, 15 Oct 2026 20:21:11 -0400",
-      "id": 38
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -508,7 +521,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Thu, 15 Oct 2026 20:00:00 -0400",
-      "id": 39
+      "id": 40
     },
     {
       "categoria": "energia",
@@ -521,7 +534,7 @@
       "destacada": false,
       "tema": "vivienda",
       "fecha": "Thu, 15 Oct 2026 18:12:43 -0400",
-      "id": 40
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -534,19 +547,6 @@
       "destacada": false,
       "tema": "serán",
       "fecha": "Thu, 15 Oct 2026 17:38:11 -0400",
-      "id": 41
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Uruguay: la última frontera del régimen castrista en América del Sur (Video)",
-      "resumen": "Cuando en el 2022, Carlos Liscano, ex guerrillero uruguayo, escritor, dramaturgo y activista político de la izquierda, ya enfermo de muerte, publicó el libro “Cuba, de eso mejor ni hablar” como “la crónica de un desencanto largamente procesado y, también, una severa acusación a parte de la intelectu",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/uruguay-la-%c3%baltima-frontera-del-r%c3%a9gimen-castrista-en-am%c3%a9rica-del-sur/481976.html",
-      "destacada": false,
-      "tema": "uruguay",
-      "fecha": "Thu, 15 Oct 2026 17:36:38 -0400",
       "id": 42
     },
     {
@@ -758,6 +758,58 @@
       "id": 58
     },
     {
+      "categoria": "salud",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Más transporte… ¿para todos?",
+      "resumen": "Una guagua que antes podía costar 10 pesos ahora cobra 700. Para quien recibe un salario en pesos cubanos y tiene que repartirlo entre comida, medicamentos y todo lo demás que cuesta vivir, la cuenta del viaje deja de ser una cuenta de transporte. Se convierte en una decisión.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/14/mas-transporte-para-todos/",
+      "destacada": false,
+      "tema": "transporte",
+      "fecha": "Wed, 14 Oct 2026 12:54:00 +0000",
+      "id": 59
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Lo que no puede quedar Apartado",
+      "resumen": "El periodismo crítico en Cuba enfrenta un grave obstáculo: el silencio de directivos y funcionarios ante las denuncias ciudadanas. Apartado 1433, decana sección de opinión, lo evidencia. Sin respuestas ágiles y reales, la confianza en las instituciones se pierde. No perdamos la brújula de la histori",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/14/lo-que-no-puede-quedar-apartado/",
+      "destacada": false,
+      "tema": "quedar",
+      "fecha": "Wed, 14 Oct 2026 12:44:00 +0000",
+      "id": 60
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Nueva Ley de la Vivienda en Cuba",
+      "resumen": "De novedosa y a tono con las normativas jurídicas internacionales vigentes en el mundo calificó la directora de Asuntos Legales del Ministerio de la Construcción, Marvelis Velázquez Reyes, la Ley 187 de la Vivienda, publicada este miércoles en la Gaceta Oficial de la República de Cuba, tras su discu",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/14/nueva-ley-vivienda-cuba/",
+      "destacada": false,
+      "tema": "nueva",
+      "fecha": "Wed, 14 Oct 2026 12:10:00 +0000",
+      "id": 61
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Artistas cubanas conquistan nuevamente Zaragoza",
+      "resumen": "Bajo el título Ellas bailan solas, diferentes espacios públicos de Zaragoza, España, acogen desde el 12 de octubre, Día de la Hispanidad, obras de 60 artistas cubanas, entre ellas las matanceras Yainyt Alcázar, Gio Fernández, Leidy Castellanos y Jennifer Mancha.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/14/artistas-cubanas-conquistan-zaragoza/",
+      "destacada": false,
+      "tema": "artistas",
+      "fecha": "Wed, 14 Oct 2026 11:34:00 +0000",
+      "id": 62
+    },
+    {
       "categoria": "sociedad",
       "fuente": "https://eltoque.com",
       "fuente_tipo": "alternativa",
@@ -768,7 +820,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Thu, 15 Oct 2026 22:00:00 GMT",
-      "id": 59
+      "id": 63
     },
     {
       "categoria": "sociedad",
@@ -781,7 +833,7 @@
       "destacada": false,
       "tema": "recuerdos",
       "fecha": "Thu, 15 Oct 2026 17:30:00 GMT",
-      "id": 60
+      "id": 64
     },
     {
       "categoria": "economia",
@@ -794,7 +846,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "id": 61
+      "id": 65
     },
     {
       "categoria": "sociedad",
@@ -807,7 +859,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Thu, 15 Oct 2026 09:15:00 GMT",
-      "id": 62
+      "id": 66
     },
     {
       "categoria": "sociedad",
@@ -820,7 +872,7 @@
       "destacada": false,
       "tema": "podrán",
       "fecha": "Wed, 14 Oct 2026 22:15:00 GMT",
-      "id": 63
+      "id": 67
     },
     {
       "categoria": "sociedad",
@@ -833,7 +885,7 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Wed, 14 Oct 2026 19:30:00 GMT",
-      "id": 64
+      "id": 68
     },
     {
       "categoria": "sociedad",
@@ -846,7 +898,7 @@
       "destacada": false,
       "tema": "bolita",
       "fecha": "Wed, 14 Oct 2026 14:42:46 GMT",
-      "id": 65
+      "id": 69
     },
     {
       "categoria": "economia",
@@ -859,7 +911,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 14 Oct 2026 14:42:22 GMT",
-      "id": 66
+      "id": 70
     }
   ]
 }
