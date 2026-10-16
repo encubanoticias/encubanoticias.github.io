@@ -1,21 +1,8 @@
 {
   "fecha": "2026-10-16",
-  "hora": "16:19",
-  "total": 66,
+  "hora": "18:16",
+  "total": 64,
   "noticias": [
-    {
-      "categoria": "economia",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Las medidas coercitivas contra Cuba afectan la producción agroalimentaria",
-      "resumen": "El Jefe de la Diplomacia cubana condenó el impacto criminal del reforzamiento del bloqueo contra la economía de la Isla",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-16/las-medidas-coercitivas-contra-cuba-afectan-la-produccion-agroalimentaria-16-10-2026-11-10-08",
-      "destacada": true,
-      "tema": "medidas",
-      "fecha": "Fri, 16 Oct 2026 11:10:08 -0400",
-      "id": 1
-    },
     {
       "categoria": "transporte",
       "fuente": "https://www.granma.cu",
@@ -27,7 +14,46 @@
       "destacada": true,
       "tema": "responde",
       "fecha": "Thu, 15 Oct 2026 13:10:16 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba denuncia provocación de Estados Unidos en la ONU y una campaña de presiones para alterar la votación contra el bloqueo",
+      "resumen": "Ernesto Soberón Guzmán, representante permanente de Cuba ante las Naciones Unidas, denunció este viernes la organización de un evento estadounidense contra la Isla en la sede de la Organización, previsto para el 19 de octubre, y advirtió que forma parte de una escalada de hostigamiento político y di",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-16/cuba-denuncia-provocacion-de-estados-unidos-en-la-onu-y-una-campana-de-presiones-para-alterar-la-votacion-contra-el-bloqueo-16-10-2026-12-10-49",
+      "destacada": true,
+      "tema": "denuncia",
+      "fecha": "Fri, 16 Oct 2026 12:10:49 -0400",
       "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Periódico cubano Palante, 65 años de humor gráfico",
+      "resumen": "El periódico de sátira gráfica más antiguo de Cuba y América Latina celebra un nuevo aniversario en plena migración digital, con la mirada puesta en los jóvenes y el compromiso de «resguardar y desarrollar una obra monumental»",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-16/periodico-cubano-palante-65-anos-de-humor-grafico-16-10-2026-13-10-00",
+      "destacada": true,
+      "tema": "periódico",
+      "fecha": "Fri, 16 Oct 2026 13:10:00 -0400",
+      "id": 3
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Las medidas coercitivas contra Cuba afectan la producción agroalimentaria",
+      "resumen": "El Jefe de la Diplomacia cubana condenó el impacto criminal del reforzamiento del bloqueo contra la economía de la Isla",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-16/las-medidas-coercitivas-contra-cuba-afectan-la-produccion-agroalimentaria-16-10-2026-11-10-08",
+      "destacada": true,
+      "tema": "medidas",
+      "fecha": "Fri, 16 Oct 2026 11:10:08 -0400",
+      "id": 4
     },
     {
       "categoria": "politica",
@@ -40,20 +66,20 @@
       "destacada": true,
       "tema": "válvulas",
       "fecha": "Fri, 16 Oct 2026 11:10:09 -0400",
-      "id": 3
+      "id": 5
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba, resiliencia y guerra cognitiva: la asimetría como campo de batalla",
-      "resumen": "La Isla es blanco de una lógica operativa en acción de una guerra no convencional,&nbsp;multiforme o híbrida, cuyo carácter polifacético dejó atrás experiencias anteriores",
+      "titulo": "María Elena Llana, entre lo más encumbrado de nuestra literatura",
+      "resumen": "La propuesta de candidatura al Premio de Literatura en Lengua Castellana Miguel de Cervantes 2026, a la destacada escritora y periodista María Elena Llana Castro, nacida en 1936, ha sido respaldada por el Ministerio de Cultura de Cuba y por el Instituto Cubano del Libro",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-14/cuba-resiliencia-y-guerra-cognitiva-la-asimetria-como-campo-de-batalla-14-10-2026-18-10-59",
-      "destacada": true,
-      "tema": "resiliencia",
-      "fecha": "Wed, 14 Oct 2026 18:10:59 -0400",
-      "id": 4
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-15/maria-elena-llana-entre-lo-mas-encumbrado-de-nuestra-literatura-15-10-2026-16-10-32",
+      "destacada": false,
+      "tema": "maría",
+      "fecha": "Thu, 15 Oct 2026 16:10:32 -0400",
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -63,10 +89,10 @@
       "resumen": "Cuba impulsa transformaciones económicas, jurídicas y productivas para recuperar la agricultura, en un contexto marcado por las limitaciones de recursos provocadas por el bloqueo estadounidense, afirmó el ministro de la Agricultura, Ydael Pérez Brito",
       "imagen_url": "",
       "enlace_original": "http://www.granma.cu/mundo/2026-10-16/cuba-impulsa-transformaciones-agricolas-pese-al-bloqueo-ee-uu-16-10-2026-11-10-13",
-      "destacada": true,
+      "destacada": false,
       "tema": "impulsa",
       "fecha": "Fri, 16 Oct 2026 11:10:13 -0400",
-      "id": 5
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -79,7 +105,20 @@
       "destacada": false,
       "tema": "octubre",
       "fecha": "Thu, 15 Oct 2026 12:10:15 -0400",
-      "id": 6
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Rusia entrega a Cuba 750 toneladas de aceite vegetal",
+      "resumen": "La Habana, 16 oct (Prensa Latina) Una ayuda solidaria de 750 toneladas métricas de aceite vegetal entregada por Rusia fue destinada a las reservas para respuestas de emergencia del Programa Mundial de Alimentos de las Naciones Unidas (PMA) en Cuba. The post Rusia entrega a Cuba 750 toneladas de acei",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/16/rusia-entrega-a-cuba-750-toneladas-de-aceite-vegetal/",
+      "destacada": false,
+      "tema": "rusia",
+      "fecha": "Fri, 16 Oct 2026 18:02:46 +0000",
+      "id": 9
     },
     {
       "categoria": "politica",
@@ -92,7 +131,7 @@
       "destacada": false,
       "tema": "trumpista",
       "fecha": "Fri, 16 Oct 2026 10:59:59 +0000",
-      "id": 7
+      "id": 10
     },
     {
       "categoria": "energia",
@@ -105,7 +144,7 @@
       "destacada": false,
       "tema": "grave",
       "fecha": "Fri, 16 Oct 2026 12:09:37 +0000",
-      "id": 8
+      "id": 11
     },
     {
       "categoria": "transporte",
@@ -118,7 +157,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Fri, 16 Oct 2026 14:07:39 +0000",
-      "id": 9
+      "id": 12
     },
     {
       "categoria": "economia",
@@ -131,7 +170,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Fri, 16 Oct 2026 10:31:32 +0000",
-      "id": 10
+      "id": 13
     },
     {
       "categoria": "economia",
@@ -144,7 +183,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 15 Oct 2026 18:26:02 +0000",
-      "id": 11
+      "id": 14
     },
     {
       "categoria": "economia",
@@ -157,7 +196,7 @@
       "destacada": false,
       "tema": "sanciona",
       "fecha": "Thu, 15 Oct 2026 21:13:16 +0000",
-      "id": 12
+      "id": 15
     },
     {
       "categoria": "politica",
@@ -170,7 +209,7 @@
       "destacada": false,
       "tema": "cancillería",
       "fecha": "Thu, 15 Oct 2026 10:13:55 +0000",
-      "id": 13
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -183,98 +222,46 @@
       "destacada": false,
       "tema": "henry",
       "fecha": "Thu, 15 Oct 2026 19:12:24 +0000",
-      "id": 14
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«¡Si está roto, llama a Amazon!»: Repartidora cubana en EE.UU. lanza un paquete y se vuelve viral",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u65722-e65722-s27065-nid343023-esta-roto-llama-amazon-repartidora-cubana-eeuu",
-      "destacada": false,
-      "tema": "llama",
-      "fecha": "Fri, 16 Oct 2026 16:55:48 +0200",
-      "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Alcaldesa cubanoamericana de Doral presume caída del 60% del crimen, pero reconoce miedo por ICE",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e135253-s27061-nid343026-alcaldesa-cubanoamericana-doral-presume-caida-60",
-      "destacada": false,
-      "tema": "alcaldesa",
-      "fecha": "Fri, 16 Oct 2026 16:37:08 +0200",
-      "id": 16
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Ministra de Educación de Cuba admite que 11,000 alumnos no van a clases con normalidad y que la mitad no tiene uniforme",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e43231-s27061-nid343007-ministra-educacion-cuba-admite-11000-alumnos-van",
-      "destacada": false,
-      "tema": "ministra",
-      "fecha": "Fri, 16 Oct 2026 16:08:02 +0200",
       "id": 17
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "¡Más claro imposible! El consejo de un camionero cubano a las mujeres que luchan por un amor que ya no existe: «Los hombres somos así de cobardes»",
+      "titulo": "«Me asaltaron, perdí los dientes»: Ray Fernández denuncia violento ataque en La Habana",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u65722-e65722-s27065-nid343017-claro-imposible-consejo-camionero-cubano-mujeres",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e208574-s27061-nid343040-me-asaltaron-perdi-dientes-ray-fernandez-denuncia",
       "destacada": false,
-      "tema": "claro",
-      "fecha": "Fri, 16 Oct 2026 15:23:04 +0200",
+      "tema": "asaltaron",
+      "fecha": "Fri, 16 Oct 2026 19:37:31 +0200",
       "id": 18
     },
     {
-      "categoria": "sociedad",
+      "categoria": "economia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Entre lágrimas, influencer cubano denuncia la triste realidad de los abuelos en Cuba: \"Se están muriendo\"",
+      "titulo": "Padre Alberto Reyes: «Decir la verdad tiene un precio en Cuba, pero ¿cuánto cuesta callar?»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u65722-e65722-s27065-nid343015-influencer-cubano-lagrimas-abuelos-cubanos-isla",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e192519-s27061-nid343037-padre-alberto-reyes-decir-verdad-tiene-precio-cuba",
       "destacada": false,
-      "tema": "lágrimas",
-      "fecha": "Fri, 16 Oct 2026 15:17:53 +0200",
+      "tema": "padre",
+      "fecha": "Fri, 16 Oct 2026 19:30:02 +0200",
       "id": 19
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubano rescatado en aguas de Florida relata cómo fue su dura experiencia en el mar",
-      "resumen": "",
+      "titulo": "Primer asalto a la vista",
+      "resumen": "Un peso de proporciones de cuidado afrontará a partir de este sábado el boxeo cubano, cuando en la ciudad mexicana de Puebla se efectúe el torneo continental que tributará boletos hacia los Juego Panamericanos de Lima 2027",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e129488-s27061-nid343018-sobrecogedoras-declaraciones-cubano-rescatado-aguas",
+      "enlace_original": "https://www.trabajadores.cu/20261016/primer-asalto-a-la-vista/",
       "destacada": false,
-      "tema": "cubano",
-      "fecha": "Fri, 16 Oct 2026 15:14:49 +0200",
+      "tema": "primer",
+      "fecha": "Fri, 16 Oct 2026 17:26:08 +0000",
       "id": 20
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.radiocubana.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Instituto meteorológico cubano pieza clave frente al cambio climático",
-      "resumen": "El Instituto de Meteorología de Cuba es hoy una pieza clave en los estudios vinculados al Plan de Estado para el Enfrentamiento al Cambio Climático, denominado Tarea Vida. La entidad lidera o participa en más de 50 proyectos investigativos y en el apartado de la Comunicación Nacional a la Convención",
-      "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/instituto-meteorologico-cubano-pieza-clave-frente-al-cambio-climatico/",
-      "destacada": false,
-      "tema": "instituto",
-      "fecha": "Wed, 14 Oct 2026 17:18:33 +0000",
-      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -287,7 +274,7 @@
       "destacada": false,
       "tema": "recuperación",
       "fecha": "Fri, 16 Oct 2026 14:28:32 +0000",
-      "id": 22
+      "id": 21
     },
     {
       "categoria": "politica",
@@ -300,6 +287,19 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Fri, 16 Oct 2026 11:44:39 +0000",
+      "id": 22
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Incendio en Santa Cruz, nueva avería en Felton y la Guiteras ausente: el deplorable panorama eléctrico de Cuba",
+      "resumen": "Una nueva avería en la central de Felton, tras el #incendio en la Ernesto Guevara y la salida de la Guiteras, tensa la crisis eléctrica en #Cuba. La generación disponible apenas supera los 500MW.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792170180_69420.html",
+      "destacada": false,
+      "tema": "incendio",
+      "fecha": "Fri, 16 Oct 2026 19:03:00 +0200",
       "id": 23
     },
     {
@@ -307,7 +307,7 @@
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
       "titulo": "Un incendio deja fuera de servicio una unidad de la termoeléctrica de Este Habana",
-      "resumen": "Más #apagones en #Cuba: la #UniónEléctrica da por controlado un #incendio en la termoeléctrica Ernesto Guevara en #LaHabana, pero no precisa los daños ni cuándo podrá recuperar el bloque que quedó fuera de servicio.",
+      "resumen": "Más #apagones en #Cuba: la #UniónEléctrica da por controlado un #incendio en la termoeléctrica Ernesto Guevara, en Santa Cruz del Norte, pero no precisa los daños ni cuándo podrá recuperar el bloque que quedó fuera de servicio.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1792157794_69417.html",
       "destacada": false,
@@ -394,94 +394,94 @@
       "id": 30
     },
     {
-      "categoria": "transporte",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El periodista independiente Henry Constantin, conducido a una celda de castigo por un mínimo de 15 días",
-      "resumen": "El periodista #cubano Henry Constantin, enviado a una celda de castigo durante al menos 15 días. El jurista de #DiarioDeCubaEdel González analiza el caso y alerta sobre una posible nueva imputación para mantenerlo en prisión.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1792097550_69408.html",
-      "destacada": false,
-      "tema": "periodista",
-      "fecha": "Thu, 15 Oct 2026 22:52:30 +0200",
-      "id": 31
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "EEUU sanciona al Banco Internacional de Comercio de Cuba por sus vínculos con Irán",
-      "resumen": "#EEUU sanciona al Banco Internacional de Comercio de #Cuba por prestar servicios a una entidad financiera de #Irán. #MarcoRubio acusa a #LaHabana de servir de \"puesto avanzado\" para actores hostiles a #Washington.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792089824_69406.html",
-      "destacada": false,
-      "tema": "sanciona",
-      "fecha": "Thu, 15 Oct 2026 20:43:44 +0200",
-      "id": 32
-    },
-    {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "¿Qué votan los cubanos en España?",
-      "resumen": "Más de 160.000 #cubanos podrán votar en las #EleccionesGenerales del 29 de noviembre en #España. ¿Cuáles son sus inclinaciones?",
+      "titulo": "Alas Tensas cumple diez años de periodismo independiente y defensa de los derechos de las mujeres cubanas",
+      "resumen": "Su directora, Ileana Álvarez, recordó los desafíos enfrentados desde su fundación y reafirmó su compromiso de continuar trabajando por las mujeres dentro de la isla.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792088551_69407.html",
+      "enlace_original": "https://www.martinoticias.com/a/alas-tensas-cumple-diez-a%c3%b1os-de-periodismo-independiente-y-defensa-de-los-derechos-de-las-mujeres-cubanas/482147.html",
       "destacada": false,
-      "tema": "votan",
-      "fecha": "Thu, 15 Oct 2026 20:22:31 +0200",
-      "id": 33
+      "tema": "tensas",
+      "fecha": "Fri, 16 Oct 2026 14:13:53 -0400",
+      "id": 31
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 12:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "titulo": "Cuba al Día",
+      "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481103.html",
+      "enlace_original": "https://www.martinoticias.com/a/481106.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Fri, 16 Oct 2026 14:00:00 -0400",
+      "id": 32
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Alas Tensas: de blog a referente en la defensa de los derechos de las cubanas",
+      "resumen": "El medio independiente Alas Tensas celebra este 16 de octubre su décimo aniversario, tras una década de periodismo centrado en visibilizar la realidad de las mujeres cubanas, denunciar la violencia machista y defender los derechos humanos.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/alas-tensas-de-blog-a-referente-en-la-defensa-de-los-derechos-de-las-cubanas/482145.html",
+      "destacada": false,
+      "tema": "tensas",
+      "fecha": "Fri, 16 Oct 2026 13:51:41 -0400",
+      "id": 33
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero Martí Noticias",
+      "resumen": "-El periodista Henry Constantín enviado a una celda de castigo. -Incendio en Termoeléctrica Ernesto Guevara agrava la crisis eléctrica en Cuba. -EE.UU. sanciona al Banco internacional de comercio de Cuba por sus vínculos con un banco iraní.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/noticiero-mart%c3%ad-noticias/482135.html",
       "destacada": false,
       "tema": "noticiero",
-      "fecha": "Fri, 16 Oct 2026 12:00:00 -0400",
+      "fecha": "Fri, 16 Oct 2026 13:24:58 -0400",
       "id": 34
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Barrio adentro",
-      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
+      "titulo": "OCDH exige investigar irregularidades en el proceso contra Henry Constantín",
+      "resumen": "El Observatorio Cubano de Derechos Humanos pidió al Tribunal Supremo Popular y a la Fiscalía General esclarecer las irregularidades en el proceso contra el periodista independiente Henry Constantín Ferreiro, preso provisional en Camagüey.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481101.html",
+      "enlace_original": "https://www.martinoticias.com/a/ocdh-exige-investigar-irregularidades-en-el-proceso-contra-henry-constant%c3%adn/482143.html",
       "destacada": false,
-      "tema": "barrio",
-      "fecha": "Fri, 16 Oct 2026 11:30:00 -0400",
+      "tema": "exige",
+      "fecha": "Fri, 16 Oct 2026 13:17:55 -0400",
       "id": 35
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Payá anuncia que el equipo para la transición en Cuba será presentado el 3 de noviembre",
-      "resumen": "En el marco de la 30º Cumbre Iberoamericana de Madrid será anunciado el \"equipo\" y el \"plan\" a raíz del Acuerdo de Liberación para Cuba.",
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Uruguay vs. Argentina: Confirman el clásico del Río de la Plata",
+      "resumen": "Las selecciones de Uruguay y Argentina disputarán un partido amistoso el viernes 13 de noviembre en Tel Aviv, el tercero entre ambos en el siglo XXI tras los encuentros de 2003 y 2019. The post Uruguay vs. Argentina: Confirman el clásico del Río de la Plata first appeared on Cubadebate.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/pay%c3%a1-anuncia-que-el-equipo-para-la-transici%c3%b3n-en-cuba-ser%c3%a1-presentado-el-3-de-noviembre/482132.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/16/uruguay-vs-argentina-confirman-el-clasico-del-rio-de-la-plata/",
       "destacada": false,
-      "tema": "anuncia",
-      "fecha": "Fri, 16 Oct 2026 11:13:47 -0400",
+      "tema": "uruguay",
+      "fecha": "Fri, 16 Oct 2026 18:08:15 +0000",
       "id": 36
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El futuro es ya",
-      "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Denunció Cuba amenazas a la paz en Consejo de Seguridad",
+      "resumen": "Cuba denunció ante el Consejo de Seguridad de la ONU el genocidio contra el pueblo palestino, las agresiones militares en Oriente Medio y el impacto de las políticas de coerción sobre la paz y la seguridad internacionales. The post Denunció Cuba amenazas a la paz en Consejo de Seguridad first appear",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481099.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/16/denuncio-cuba-amenazas-a-la-paz-en-consejo-de-seguridad/",
       "destacada": false,
-      "tema": "futuro",
-      "fecha": "Fri, 16 Oct 2026 10:00:00 -0400",
+      "tema": "denunció",
+      "fecha": "Fri, 16 Oct 2026 17:48:01 +0000",
       "id": 37
     },
     {
@@ -511,19 +511,6 @@
       "id": 39
     },
     {
-      "categoria": "salud",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "¿Qué le quita el bloqueo a la industria biotecnológica y farmacéutica de Cuba?",
-      "resumen": "De los 395 fármacos que Cuba produce dentro de su cuadro básico de salud, 300 están en falta por dificultades para acceder a materias primas e insumos farmacéuticos. Es un hecho palpable de una punta a la otra del país. Visible en cada farmacia de estantes vacíos. The post ¿Qué le quita el bloqueo a",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/16/que-le-quita-el-bloqueo-a-la-industria-biotecnologica-y-farmaceutica-de-cuba/",
-      "destacada": false,
-      "tema": "quita",
-      "fecha": "Fri, 16 Oct 2026 05:06:36 +0000",
-      "id": 40
-    },
-    {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
@@ -534,7 +521,7 @@
       "destacada": false,
       "tema": "demócrata",
       "fecha": "Fri, 16 Oct 26 16:26:00 +0200",
-      "id": 41
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -547,7 +534,7 @@
       "destacada": false,
       "tema": "oportunidad",
       "fecha": "Fri, 16 Oct 26 16:22:00 +0200",
-      "id": 42
+      "id": 41
     },
     {
       "categoria": "energia",
@@ -560,7 +547,7 @@
       "destacada": false,
       "tema": "ocurre",
       "fecha": "Fri, 16 Oct 26 15:10:00 +0200",
-      "id": 43
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -573,7 +560,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Fri, 16 Oct 26 13:29:00 +0200",
-      "id": 44
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -586,7 +573,7 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Fri, 16 Oct 26 13:00:00 +0200",
-      "id": 45
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -599,7 +586,7 @@
       "destacada": false,
       "tema": "cuban",
       "fecha": "Fri, 16 Oct 26 08:21:00 +0200",
-      "id": 46
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -612,7 +599,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Fri, 16 Oct 26 08:20:00 +0200",
-      "id": 47
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -625,7 +612,7 @@
       "destacada": false,
       "tema": "excusa",
       "fecha": "Fri, 16 Oct 26 08:19:00 +0200",
-      "id": 48
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -638,7 +625,7 @@
       "destacada": false,
       "tema": "esconde",
       "fecha": "Fri, 16 Oct 26 08:19:00 +0200",
-      "id": 49
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -651,7 +638,7 @@
       "destacada": false,
       "tema": "sindicatos",
       "fecha": "Fri, 16 Oct 26 08:03:00 +0200",
-      "id": 50
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -664,7 +651,7 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Fri, 16 Oct 2026 14:05:50 +0000",
-      "id": 51
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -677,7 +664,7 @@
       "destacada": false,
       "tema": "celebran",
       "fecha": "Fri, 16 Oct 2026 13:09:03 +0000",
-      "id": 52
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -690,7 +677,7 @@
       "destacada": false,
       "tema": "premian",
       "fecha": "Fri, 16 Oct 2026 13:07:49 +0000",
-      "id": 53
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -703,7 +690,7 @@
       "destacada": false,
       "tema": "piratas",
       "fecha": "Fri, 16 Oct 2026 14:31:35 +0000",
-      "id": 54
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -716,7 +703,7 @@
       "destacada": false,
       "tema": "atención",
       "fecha": "Thu, 15 Oct 2026 19:58:35 +0000",
-      "id": 55
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -729,7 +716,7 @@
       "destacada": false,
       "tema": "comenzarán",
       "fecha": "Thu, 15 Oct 2026 17:56:05 +0000",
-      "id": 56
+      "id": 55
     },
     {
       "categoria": "politica",
@@ -742,20 +729,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 15 Oct 2026 17:42:16 +0000",
-      "id": 57
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "De acusado a fiscal: Fidel y el alegato que estremeció la historia de Cuba",
-      "resumen": "El 16 de octubre de 1953 no fue una jornada ordinaria en los anales del derecho patrio, sino la fecha en que una pequeña sala del Hospital Civil Saturnino Lora, en Santiago de Cuba, devino escenario de un juicio histórico. Allí, despojado de las garantías procesales más elementales y bajo un cerco m",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/16/fidel-alegato-historia-cuba/",
-      "destacada": false,
-      "tema": "acusado",
-      "fecha": "Fri, 16 Oct 2026 12:00:00 +0000",
-      "id": 58
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -768,7 +742,7 @@
       "destacada": false,
       "tema": "archivos",
       "fecha": "Fri, 16 Oct 2026 10:40:00 GMT",
-      "id": 59
+      "id": 57
     },
     {
       "categoria": "economia",
@@ -781,7 +755,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 16 Oct 2026 10:03:00 GMT",
-      "id": 60
+      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -794,7 +768,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Thu, 15 Oct 2026 22:00:00 GMT",
-      "id": 61
+      "id": 59
     },
     {
       "categoria": "sociedad",
@@ -807,7 +781,7 @@
       "destacada": false,
       "tema": "recuerdos",
       "fecha": "Thu, 15 Oct 2026 17:30:00 GMT",
-      "id": 62
+      "id": 60
     },
     {
       "categoria": "economia",
@@ -820,7 +794,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "id": 63
+      "id": 61
     },
     {
       "categoria": "sociedad",
@@ -833,7 +807,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Thu, 15 Oct 2026 09:15:00 GMT",
-      "id": 64
+      "id": 62
     },
     {
       "categoria": "sociedad",
@@ -846,7 +820,7 @@
       "destacada": false,
       "tema": "podrán",
       "fecha": "Wed, 14 Oct 2026 22:15:00 GMT",
-      "id": 65
+      "id": 63
     },
     {
       "categoria": "sociedad",
@@ -859,7 +833,7 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Wed, 14 Oct 2026 19:30:00 GMT",
-      "id": 66
+      "id": 64
     }
   ]
 }
