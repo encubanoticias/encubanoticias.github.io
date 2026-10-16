@@ -1,6 +1,6 @@
 {
   "fecha": "2026-10-16",
-  "hora": "04:18",
+  "hora": "06:19",
   "total": 70,
   "noticias": [
     {
@@ -95,19 +95,6 @@
       "id": 7
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Solidaridad con Cuba en Panamá demanda fin de bloqueo de EEUU",
-      "resumen": "Ciudad de Panamá, 16 oct (Prensa Latina) La Coordinadora Nacional de Solidaridad con Cuba en Panamá solicitó al Gobierno de este país respaldar la resolución que demanda el fin del bloqueo impuesto por Estados Unidos a la isla, trascendió hoy. The post Solidaridad con Cuba en Panamá demanda fin de b",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/16/solidaridad-con-cuba-en-panama-demanda-fin-de-bloqueo-de-eeuu/",
-      "destacada": false,
-      "tema": "solidaridad",
-      "fecha": "Fri, 16 Oct 2026 04:02:50 +0000",
-      "id": 8
-    },
-    {
       "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -118,7 +105,7 @@
       "destacada": false,
       "tema": "sanciona",
       "fecha": "Thu, 15 Oct 2026 21:13:16 +0000",
-      "id": 9
+      "id": 8
     },
     {
       "categoria": "economia",
@@ -131,7 +118,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 15 Oct 2026 18:26:02 +0000",
-      "id": 10
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -144,7 +131,7 @@
       "destacada": false,
       "tema": "henry",
       "fecha": "Thu, 15 Oct 2026 19:12:24 +0000",
-      "id": 11
+      "id": 10
     },
     {
       "categoria": "politica",
@@ -157,7 +144,7 @@
       "destacada": false,
       "tema": "cancillería",
       "fecha": "Thu, 15 Oct 2026 10:13:55 +0000",
-      "id": 12
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -170,7 +157,7 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Thu, 15 Oct 2026 14:46:04 +0000",
-      "id": 13
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -183,7 +170,7 @@
       "destacada": false,
       "tema": "sudáfrica",
       "fecha": "Thu, 15 Oct 2026 11:54:24 +0000",
-      "id": 14
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -196,6 +183,19 @@
       "destacada": false,
       "tema": "explicaciones",
       "fecha": "Thu, 15 Oct 2026 15:13:48 +0000",
+      "id": 14
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El dólar roza los 800 pesos en Cuba: así cierra el mercado informal de divisas este jueves",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e199894-s27061-nid343003-dolar-roza-800-pesos-cuba-asi-cierra-mercado",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Fri, 16 Oct 2026 06:00:17 +0200",
       "id": 15
     },
     {
@@ -358,6 +358,19 @@
       "categoria": "economia",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
+      "titulo": "El empobrecimiento de los cubanos ya no basta para contener la inflación, advierte Monreal",
+      "resumen": "Monreal cuestiona la falta de un plan para frenar la #inflación en #Cuba y la política del régimen de compresión de los salarios y las pensiones como instrumento antiinflacionario.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1792128831_69411.html",
+      "destacada": false,
+      "tema": "empobrecimiento",
+      "fecha": "Fri, 16 Oct 2026 07:33:51 +0200",
+      "id": 28
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
       "titulo": "El dólar llega a los 800 pesos en el mercado informal cubano y el euro roza los 900",
       "resumen": "El #dólar alcanza los 800 pesos y el #euro roza los 900 en el mercado informal #cubano. También suben el MLC y el dólar canadiense, en medio de la #inflación y la pérdida de poder adquisitivo.",
       "imagen_url": "",
@@ -365,7 +378,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 16 Oct 2026 01:10:32 +0200",
-      "id": 28
+      "id": 29
     },
     {
       "categoria": "transporte",
@@ -378,7 +391,7 @@
       "destacada": false,
       "tema": "periodista",
       "fecha": "Thu, 15 Oct 2026 22:52:30 +0200",
-      "id": 29
+      "id": 30
     },
     {
       "categoria": "economia",
@@ -391,7 +404,7 @@
       "destacada": false,
       "tema": "sanciona",
       "fecha": "Thu, 15 Oct 2026 20:43:44 +0200",
-      "id": 30
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -404,7 +417,7 @@
       "destacada": false,
       "tema": "votan",
       "fecha": "Thu, 15 Oct 2026 20:22:31 +0200",
-      "id": 31
+      "id": 32
     },
     {
       "categoria": "salud",
@@ -417,7 +430,7 @@
       "destacada": false,
       "tema": "justicia",
       "fecha": "Thu, 15 Oct 2026 19:24:55 +0200",
-      "id": 32
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -430,7 +443,7 @@
       "destacada": false,
       "tema": "humanitaria",
       "fecha": "Thu, 15 Oct 2026 17:59:54 +0200",
-      "id": 33
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -443,7 +456,7 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Thu, 15 Oct 2026 16:02:01 +0200",
-      "id": 34
+      "id": 35
     },
     {
       "categoria": "salud",
@@ -456,7 +469,7 @@
       "destacada": false,
       "tema": "atendidos",
       "fecha": "Thu, 15 Oct 2026 14:04:07 +0200",
-      "id": 35
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -469,19 +482,6 @@
       "destacada": false,
       "tema": "nuevos",
       "fecha": "Thu, 15 Oct 2026 13:51:34 +0200",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Pólvora para la crisis: la incapacidad del Estado cubano ante el repunte de las armas de fuego",
-      "resumen": "La proliferación de armas de fuego, los asaltos y los tiroteos evidencian el deterioro de la seguridad en #Cuba, mientras la #Policía concentra recursos en reprimir la disidencia.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792062097_69395.html",
-      "destacada": false,
-      "tema": "pólvora",
-      "fecha": "Thu, 15 Oct 2026 13:01:37 +0200",
       "id": 37
     },
     {
@@ -550,6 +550,19 @@
       "id": 42
     },
     {
+      "categoria": "salud",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "¿Qué le quita el bloqueo a la industria biotecnológica y farmacéutica de Cuba?",
+      "resumen": "De los 395 fármacos que Cuba produce dentro de su cuadro básico de salud, 300 están en falta por dificultades para acceder a materias primas e insumos farmacéuticos. Es un hecho palpable de una punta a la otra del país. Visible en cada farmacia de estantes vacíos. The post ¿Qué le quita el bloqueo a",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/16/que-le-quita-el-bloqueo-a-la-industria-biotecnologica-y-farmaceutica-de-cuba/",
+      "destacada": false,
+      "tema": "quita",
+      "fecha": "Fri, 16 Oct 2026 05:06:36 +0000",
+      "id": 43
+    },
+    {
       "categoria": "sociedad",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
@@ -560,7 +573,7 @@
       "destacada": false,
       "tema": "siglos",
       "fecha": "Fri, 16 Oct 2026 02:41:47 +0000",
-      "id": 43
+      "id": 44
     },
     {
       "categoria": "politica",
@@ -573,7 +586,7 @@
       "destacada": false,
       "tema": "infantino",
       "fecha": "Fri, 16 Oct 2026 02:26:32 +0000",
-      "id": 44
+      "id": 45
     },
     {
       "categoria": "politica",
@@ -586,123 +599,110 @@
       "destacada": false,
       "tema": "washington",
       "fecha": "Fri, 16 Oct 2026 01:58:26 +0000",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Cubanos?",
-      "resumen": "Por Lazaro Fariñas*/Foto Virgilio Ponce -Martianos.- digital@juventudrebelde.cu.- COMENTARIOS DESDE ...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125511-cubanos.jpg?t=1792100776",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261015/125511/125511-cubanos",
-      "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Thu, 15 Oct 26 23:46:00 +0200",
       "id": 46
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
-      "titulo": "El sempiterno problema Cuba-USA",
-      "resumen": "Por Lorenzo Gonzalo*/Foto Virgilio Ponce -Martianos-Hermes-Cubainformación-Radio Miami.- Durante 67 ...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125510-el-sempiterno-problema-cuba-usa.jpg?t=1792100585",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261015/125510/125510-el-sempiterno-problema-cuba-usa",
+      "titulo": "The Cuban System Feeding Vulnerable People—Now Under Threat",
+      "resumen": "Belly of The Beast Cuba",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125527-the-cuban-system-feeding-vulnerable-people-now-under-threat.jpg?t=1792131677",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261016/125527/125527-the-cuban-system-feeding-vulnerable-people-now-under-threat",
       "destacada": false,
-      "tema": "sempiterno",
-      "fecha": "Thu, 15 Oct 26 23:43:00 +0200",
+      "tema": "cuban",
+      "fecha": "Fri, 16 Oct 26 08:21:00 +0200",
       "id": 47
     },
     {
-      "categoria": "transporte",
+      "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
-      "titulo": "Documental &quot;ESBEC 37&quot; se estrena en Filmin en la fecha del asesinato del presidente Thomas Sankara",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125508-documental-esbec-37-se-estrena-en-filmin-en-la-fecha-del-asesinato-del-presidente-thomas-sankara.jpg?t=1792068273",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261015/125508/125508-documental-esbec-37-se-estrena-en-filmin-en-la-fecha-del-asesinato-del-presidente-thomas-sankara",
+      "titulo": "Trump y Rubio a la cara",
+      "resumen": "La Florecita Cubana",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125525-trump-y-rubio-a-la-cara.jpg?t=1792131612",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261016/125525/125525-trump-y-rubio-a-la-cara",
       "destacada": false,
-      "tema": "documental",
-      "fecha": "Thu, 15 Oct 26 14:41:00 +0200",
+      "tema": "trump",
+      "fecha": "Fri, 16 Oct 26 08:20:00 +0200",
       "id": 48
     },
     {
-      "categoria": "energia",
+      "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
-      "titulo": "&quot;Cuba: cambio energético y Revolución&quot;: Rubén Ramos, director del Centro de Investigación de la Energía Solar de Santiago de Cuba, en Torrelavega el 16 de octubre",
-      "resumen": "Cuba responde con energía solar al bloqueo de EEUU: charla en Torrelavega sobre soberanía energética...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125507-cuba-cambio-energetico-y-revolucion-ruben-ramos-director-del-centro-de-investigacion-de-la-energia-solar-de-santiago-de-cuba-en-torrelavega-el-16-de-octubre.jpg?t=1792067911",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261015/125507/125507-cuba-cambio-energetico-y-revolucion-ruben-ramos-director-del-centro-de-investigacion-de-la-energia-solar-de-santiago-de-cuba-en-torrelavega-el-16-de-octubre",
+      "titulo": "La excusa sobre el fracaso en una derrota eminente",
+      "resumen": "El Titan de #Cuba",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125524-la-excusa-sobre-el-fracaso-en-una-derrota-eminente.jpg?t=1792131583",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261016/125524/125524-la-excusa-sobre-el-fracaso-en-una-derrota-eminente",
       "destacada": false,
-      "tema": "cambio",
-      "fecha": "Thu, 15 Oct 26 14:33:00 +0200",
+      "tema": "excusa",
+      "fecha": "Fri, 16 Oct 26 08:19:00 +0200",
       "id": 49
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
-      "titulo": "Trump le pega en la cara al cipayismo y se dispara el Odio",
-      "resumen": "El Titan de #Cuba",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125503-trump-le-pega-en-la-cara-al-cipayismo-y-se-dispara-el-odio.jpg?t=1792044401",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261015/125503/125503-trump-le-pega-en-la-cara-al-cipayismo-y-se-dispara-el-odio",
+      "titulo": "Lo que se esconde detrás de la traición y ofensas de Eliecer Ávila contra Donald Trump",
+      "resumen": "Guerrero Cubano con su verdad al desnudo",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125523-lo-que-se-esconde-detras-de-la-traicion-y-ofensas-de-eliecer-avila-contra-donald-trump.jpg?t=1792131552",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261016/125523/125523-lo-que-se-esconde-detras-de-la-traicion-y-ofensas-de-eliecer-avila-contra-donald-trump",
       "destacada": false,
-      "tema": "trump",
-      "fecha": "Thu, 15 Oct 26 08:06:00 +0200",
+      "tema": "esconde",
+      "fecha": "Fri, 16 Oct 26 08:19:00 +0200",
       "id": 50
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
-      "titulo": "Meten a Ferrer y la Paya en la misma cazuela de Alcántara. Huele a gallina quemá",
-      "resumen": "Guerrero Cubano con su verdad al desnudo",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125501-meten-a-ferrer-y-la-paya-en-la-misma-cazuela-de-alcantara-huele-a-gallina-quema.jpg?t=1792044321",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261015/125501/125501-meten-a-ferrer-y-la-paya-en-la-misma-cazuela-de-alcantara-huele-a-gallina-quema",
+      "titulo": "Sindicatos de Los Ángeles exigirán el fin del bloqueo contra Cuba el 24 de octubre",
+      "resumen": "Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125522-sindicatos-de-los-angeles-exigiran-el-fin-del-bloqueo-contra-cuba-el-24-de-octubre.jpg?t=1792130680",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261016/125522/125522-sindicatos-de-los-angeles-exigiran-el-fin-del-bloqueo-contra-cuba-el-24-de-octubre",
       "destacada": false,
-      "tema": "meten",
-      "fecha": "Thu, 15 Oct 26 08:05:00 +0200",
+      "tema": "sindicatos",
+      "fecha": "Fri, 16 Oct 26 08:03:00 +0200",
       "id": 51
     },
     {
-      "categoria": "sociedad",
+      "categoria": "economia",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
-      "titulo": "Albacete celebra del 16 al 20 de octubre la XVIII Jornada por la Cultura Cubana, dedicada a Pablo Milanés y Baracoa",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125500-albacete-celebra-del-16-al-20-de-octubre-la-xviii-jornada-por-la-cultura-cubana-dedicada-a-pablo-milanes-y-baracoa.jpg?t=1792042654",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261015/125500/125500-albacete-celebra-del-16-al-20-de-octubre-la-xviii-jornada-por-la-cultura-cubana-dedicada-a-pablo-milanes-y-baracoa",
+      "titulo": "Bloqueo de EE.UU. genera pérdidas de 98 millones de dólares a educación en Cuba",
+      "resumen": "El canciller Bruno Rodríguez informó que los perjuicios generados durante el último año por el blo...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125521-bloqueo-de-ee-uu-genera-perdidas-de-98-millones-de-dolares-a-educacion-en-cuba.jpg?t=1792130419",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261016/125521/125521-bloqueo-de-ee-uu-genera-perdidas-de-98-millones-de-dolares-a-educacion-en-cuba",
       "destacada": false,
-      "tema": "albacete",
-      "fecha": "Thu, 15 Oct 26 07:35:00 +0200",
+      "tema": "tipo_cambio",
+      "fecha": "Fri, 16 Oct 26 07:57:00 +0200",
       "id": 52
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
-      "titulo": "Repudio al bloqueo de EEUU contra Cuba encontró eco en las movilizaciones populares de Bogotá",
-      "resumen": "Bogotá, 14 oct (Prensa Latina) El repudio al bloqueo económico, financiero y comercial impuesto por ...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125499-repudio-al-bloqueo-de-eeuu-contra-cuba-encontro-eco-en-las-movilizaciones-populares-de-bogota.jpg?t=1792040225",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261015/125499/125499-repudio-al-bloqueo-de-eeuu-contra-cuba-encontro-eco-en-las-movilizaciones-populares-de-bogota",
+      "titulo": "Trump no escuchó los consejos de mantener la política de Obama hacia Cuba",
+      "resumen": "Carlos Rafael Diéquez - Radio Miami Today",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125518-trump-no-escucho-los-consejos-de-mantener-la-politica-de-obama-hacia-cuba.jpg?t=1792129936",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261016/125518/125518-trump-no-escucho-los-consejos-de-mantener-la-politica-de-obama-hacia-cuba",
       "destacada": false,
-      "tema": "repudio",
-      "fecha": "Thu, 15 Oct 26 06:56:00 +0200",
+      "tema": "trump",
+      "fecha": "Fri, 16 Oct 26 07:49:00 +0200",
       "id": 53
     },
     {
-      "categoria": "energia",
+      "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
-      "titulo": "Lugares comunes: Con Filo",
-      "resumen": "Con Filo.- El discurso contra Cuba está lleno de lugares comunes, prejuicios y supuestas verdades pr...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125498-lugares-comunes-con-filo.jpg?t=1792040177",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261015/125498/125498-lugares-comunes-con-filo",
+      "titulo": "Atención a las personas en situación de vulnerabilidad, prioridad de las transformaciones económicas en Cuba",
+      "resumen": "Canal Caribe - Foto: Prensa Latina.- En la revista &amp;quot;Buenos días&amp;quot; se dialogó con el vicemin...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125517-atencion-a-las-personas-en-situacion-de-vulnerabilidad-prioridad-de-las-transformaciones-economicas-en-cuba.jpg?t=1792129673",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261016/125517/125517-atencion-a-las-personas-en-situacion-de-vulnerabilidad-prioridad-de-las-transformaciones-economicas-en-cuba",
       "destacada": false,
-      "tema": "lugares",
-      "fecha": "Thu, 15 Oct 26 06:55:00 +0200",
+      "tema": "atención",
+      "fecha": "Fri, 16 Oct 26 07:46:00 +0200",
       "id": 54
     },
     {
