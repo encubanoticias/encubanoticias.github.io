@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-16",
-  "hora": "01:23",
-  "total": 69,
+  "hora": "03:17",
+  "total": 66,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -95,16 +95,16 @@
       "id": 7
     },
     {
-      "categoria": "sociedad",
+      "categoria": "politica",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Béisbol cubano: Alazanes agitan la lucha en el oriente",
-      "resumen": "La Habana, 15 oct (Prensa Latina) Los Alazanes de Granma derrotaron hoy 6-2 a las Avispas de Santiago de Cuba y recortaron distancias en la Zona Oriental de la 65.ª Serie Nacional de Béisbol. The post Béisbol cubano: Alazanes agitan la lucha en el oriente first appeared on Noticias Prensa Latina.",
+      "titulo": "Homenaje a Fidel Castro en reunión de partido mexicano",
+      "resumen": "Ciudad de México, 15 oct (Prensa Latina) El 183 Pleno del Comité Central del Partido Popular Socialista de México dedicó una sesión para homenajear al líder histórico de la Revolución cubana, Fidel Castro, en el centenario de su natalicio, divulgó hoy una fuente oficial. The post Homenaje a Fidel Ca",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/15/beisbol-cubano-alazanes-agitan-la-lucha-en-el-oriente/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/15/homenaje-a-fidel-castro-en-reunion-de-partido-mexicano/",
       "destacada": false,
-      "tema": "béisbol",
-      "fecha": "Thu, 15 Oct 2026 22:31:13 +0000",
+      "tema": "homenaje",
+      "fecha": "Fri, 16 Oct 2026 02:57:40 +0000",
       "id": 8
     },
     {
@@ -202,6 +202,45 @@
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
+      "titulo": "Prisoners Defenders denuncia un ciberataque contra su web y la base de datos de presos políticos cubanos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e208933-s27061-nid343002-prisoners-defenders-denuncia-ciberataque-contra-web",
+      "destacada": false,
+      "tema": "prisoners",
+      "fecha": "Fri, 16 Oct 2026 04:41:37 +0200",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubano de 80 años pasa meses en prisión en Alemania tras robar joyas por 7,000 euros",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e208933-s27061-nid343001-cubano-80-anos-pasa-meses-prision-alemania-tras",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Fri, 16 Oct 2026 03:55:41 +0200",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Belice vuelve a aplazar la decisión sobre la misión médica cubana y apunta a finales de octubre",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e208933-s27061-nid342999-belice-vuelve-aplazar-decision-mision-medica-cubana",
+      "destacada": false,
+      "tema": "belice",
+      "fecha": "Fri, 16 Oct 2026 03:09:49 +0200",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
       "titulo": "Guardia Costera de EE.UU. detiene a dos cubanos con asilo denegado durante inspección marítima en Florida",
       "resumen": "",
       "imagen_url": "",
@@ -209,7 +248,7 @@
       "destacada": false,
       "tema": "guardia",
       "fecha": "Fri, 16 Oct 2026 02:13:15 +0200",
-      "id": 16
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -222,7 +261,7 @@
       "destacada": false,
       "tema": "euforia",
       "fecha": "Fri, 16 Oct 2026 02:05:44 +0200",
-      "id": 17
+      "id": 20
     },
     {
       "categoria": "transporte",
@@ -235,7 +274,7 @@
       "destacada": false,
       "tema": "china",
       "fecha": "Fri, 16 Oct 2026 01:34:41 +0200",
-      "id": 18
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -248,33 +287,7 @@
       "destacada": false,
       "tema": "abren",
       "fecha": "Fri, 16 Oct 2026 01:27:01 +0200",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Dos científicos cubanos logran clonar por primera vez un caballo en Chile",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e208933-s27061-nid342989-dos-cientificos-cubanos-logran-clonar-primera-vez",
-      "destacada": false,
-      "tema": "científicos",
-      "fecha": "Fri, 16 Oct 2026 00:13:25 +0200",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "En Cuba, dar de comer a un hambriento puede llevarte a prisión",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u208253-e192519-s27068-nid342988-cuba-dar-comer-hambriento-puede-llevarte",
-      "destacada": false,
-      "tema": "comer",
-      "fecha": "Fri, 16 Oct 2026 00:07:18 +0200",
-      "id": 21
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -287,7 +300,7 @@
       "destacada": false,
       "tema": "instituto",
       "fecha": "Wed, 14 Oct 2026 17:18:33 +0000",
-      "id": 22
+      "id": 23
     },
     {
       "categoria": "transporte",
@@ -300,7 +313,7 @@
       "destacada": false,
       "tema": "inaugura",
       "fecha": "Thu, 15 Oct 2026 20:21:39 +0000",
-      "id": 23
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -313,7 +326,7 @@
       "destacada": false,
       "tema": "amplía",
       "fecha": "Wed, 14 Oct 2026 18:41:45 +0000",
-      "id": 24
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -326,7 +339,7 @@
       "destacada": false,
       "tema": "industrias",
       "fecha": "Wed, 14 Oct 2026 18:19:19 +0000",
-      "id": 25
+      "id": 26
     },
     {
       "categoria": "politica",
@@ -339,7 +352,7 @@
       "destacada": false,
       "tema": "crece",
       "fecha": "Wed, 14 Oct 2026 17:58:23 +0000",
-      "id": 26
+      "id": 27
     },
     {
       "categoria": "economia",
@@ -352,7 +365,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 16 Oct 2026 01:10:32 +0200",
-      "id": 27
+      "id": 28
     },
     {
       "categoria": "transporte",
@@ -365,7 +378,7 @@
       "destacada": false,
       "tema": "periodista",
       "fecha": "Thu, 15 Oct 2026 22:52:30 +0200",
-      "id": 28
+      "id": 29
     },
     {
       "categoria": "economia",
@@ -378,7 +391,7 @@
       "destacada": false,
       "tema": "sanciona",
       "fecha": "Thu, 15 Oct 2026 20:43:44 +0200",
-      "id": 29
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -391,7 +404,7 @@
       "destacada": false,
       "tema": "votan",
       "fecha": "Thu, 15 Oct 2026 20:22:31 +0200",
-      "id": 30
+      "id": 31
     },
     {
       "categoria": "salud",
@@ -404,7 +417,7 @@
       "destacada": false,
       "tema": "justicia",
       "fecha": "Thu, 15 Oct 2026 19:24:55 +0200",
-      "id": 31
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -417,7 +430,7 @@
       "destacada": false,
       "tema": "humanitaria",
       "fecha": "Thu, 15 Oct 2026 17:59:54 +0200",
-      "id": 32
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -430,7 +443,7 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Thu, 15 Oct 2026 16:02:01 +0200",
-      "id": 33
+      "id": 34
     },
     {
       "categoria": "salud",
@@ -443,7 +456,7 @@
       "destacada": false,
       "tema": "atendidos",
       "fecha": "Thu, 15 Oct 2026 14:04:07 +0200",
-      "id": 34
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -456,7 +469,7 @@
       "destacada": false,
       "tema": "nuevos",
       "fecha": "Thu, 15 Oct 2026 13:51:34 +0200",
-      "id": 35
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -469,7 +482,7 @@
       "destacada": false,
       "tema": "pólvora",
       "fecha": "Thu, 15 Oct 2026 13:01:37 +0200",
-      "id": 36
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -482,7 +495,7 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Thu, 15 Oct 2026 20:21:11 -0400",
-      "id": 37
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -495,7 +508,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Thu, 15 Oct 2026 20:00:00 -0400",
-      "id": 38
+      "id": 39
     },
     {
       "categoria": "energia",
@@ -508,7 +521,7 @@
       "destacada": false,
       "tema": "vivienda",
       "fecha": "Thu, 15 Oct 2026 18:12:43 -0400",
-      "id": 39
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -521,7 +534,7 @@
       "destacada": false,
       "tema": "serán",
       "fecha": "Thu, 15 Oct 2026 17:38:11 -0400",
-      "id": 40
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -534,58 +547,45 @@
       "destacada": false,
       "tema": "uruguay",
       "fecha": "Thu, 15 Oct 2026 17:36:38 -0400",
-      "id": 41
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Balsero cubano es repatriado a la isla tras ser rescatado cerca de Miami",
-      "resumen": "Tras sobrevivir cuatro días en el mar, un cubano fue rescatado cerca de Miami y repatriado a la isla. El abogado de inmigración Wilfredo Allen advierte sobre los peligros de estas travesías y las restricciones migratorias para quienes son interceptados en alta mar.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482070.html",
-      "destacada": false,
-      "tema": "balsero",
-      "fecha": "Thu, 15 Oct 2026 17:24:52 -0400",
       "id": 42
     },
     {
-      "categoria": "energia",
+      "categoria": "sociedad",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Díaz-Canel a los protagonistas del sector hidráulico: “Confiamos en ustedes”",
-      "resumen": "Diariamente en La Habana, entre 15 y 20 mil personas van saliendo del grupo poblacional que sufre déficit de agua. Así se afirmó, en la tarde de este miércoles, durante la reunión que tuvo lugar en la sede central de la Empresa de Aguas de La Habana, la cual contó con la presencia del Primer Secreta",
+      "titulo": "Tres siglos, tres décadas y tres años: Matanzas está de cumpleaños",
+      "resumen": "Pero Matanzas también es conocida internacionalmente como La Atenas de Cuba por su ejercicio cultural, que se remonta a siglos pasados y se mantiene hoy. Así son indiscutibles el virtuosismo en la música y la danza: cuna del danzón y baluarte de la rumba. The post Tres siglos, tres décadas y tres añ",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/15/diaz-canel-a-los-protagonistas-del-sector-hidraulico-confiamos-en-ustedes/",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/15/tres-siglos-tres-decadas-y-tres-anos-matanzas-esta-de-cumpleanos/",
       "destacada": false,
-      "tema": "canel",
-      "fecha": "Thu, 15 Oct 2026 15:06:32 +0000",
+      "tema": "siglos",
+      "fecha": "Fri, 16 Oct 2026 02:41:47 +0000",
       "id": 43
     },
     {
-      "categoria": "sociedad",
+      "categoria": "politica",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
-      "titulo": "La Casa del ALBA presenta los libros Donde anida la poesía y conVergencias, de Roberto Chile",
-      "resumen": "La Casa del ALBA Cultural recientemente acogió una memorable jornada dedicada al diálogo entre la fotografía y la poesía con la presentación de los libros digitales Donde anida la poesía, Fotografías de Roberto Chile – Veinte poetas cubanos, y conVergencias, de Ruth Casa Editorial. Ambos volúmenes c",
+      "titulo": "Infantino pide disculpas a la FIFA, pero no despeja las sospechas de corrupción",
+      "resumen": "El presidente de la FIFA, Gianni Infantino, ofreció disculpas a sus críticos más acérrimos —quienes buscan destituirlo— durante una tensa reunión del consejo directivo del organismo rector del fútbol celebrada este jueves. Sin embargo, no presentó nuevos detalles ni documentos sobre los asuntos que ",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/15/la-casa-del-alba-presenta-los-libros-donde-anida-la-poesia-y-convergencias-de-roberto-chile/",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/15/infantino-pide-disculpas-a-la-fifa-pero-no-despeja-las-sospechas-de-corrupcion/",
       "destacada": false,
-      "tema": "presenta",
-      "fecha": "Thu, 15 Oct 2026 14:06:49 +0000",
+      "tema": "infantino",
+      "fecha": "Fri, 16 Oct 2026 02:26:32 +0000",
       "id": 44
     },
     {
-      "categoria": "sociedad",
+      "categoria": "politica",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Quinta jornada de protestas en París: los estudiantes aumentan la presión en las calles",
-      "resumen": "Cerca de 200 escuelas secundarias en toda Francia permanecieron cerradas este miércoles 14 de octubre en medio de los continuos bloqueos estudiantiles para exigir mayor inversión en la educación y reformas al sistema de admisión universitario. El presidente francés, Emmanuel Macron, ha reconocido la",
+      "titulo": "Washington anuncia nueva ronda de sanciones anticubanas, esta vez contra BICSA",
+      "resumen": "El secretario de Estado, Marco Rubio, emitió hoy otra calumniosa declaración en la cual señala que el presidente Donald Trump “ha sido absolutamente claro” de que bajo su administración no se toleraría la influencia antiestadounidense en el hemisferio occidental. The post Washington anuncia nueva ro",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/15/quinta-jornada-de-protestas-en-paris-los-estudiantes-aumentan-la-presion-en-las-calles/",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/15/washington-anuncia-nueva-ronda-de-sanciones-anticubanas-esta-vez-contra-bicsa/",
       "destacada": false,
-      "tema": "quinta",
-      "fecha": "Thu, 15 Oct 2026 04:42:58 +0000",
+      "tema": "washington",
+      "fecha": "Fri, 16 Oct 2026 01:58:26 +0000",
       "id": 45
     },
     {
@@ -732,6 +732,19 @@
       "id": 56
     },
     {
+      "categoria": "politica",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Díaz-Canel a los protagonistas del sector hidráulico: «Confiamos en ustedes»",
+      "resumen": "Este miércoles en la tarde el Presidente de la República de Cuba, Miguel Díaz-Canel Bermúdez, visitó la sede central de la Empresa de Aguas de La Habana, para evaluar el Programa de Aseguramiento del Abasto al Sistema Central «Nudo de Palatino» La entrada Díaz-Canel a los protagonistas del sector hi",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/diaz-canel-a-los-protagonistas-del-sector-hidraulico-confiamos-en-ustedes/",
+      "destacada": false,
+      "tema": "canel",
+      "fecha": "Thu, 15 Oct 2026 17:42:16 +0000",
+      "id": 57
+    },
+    {
       "categoria": "sociedad",
       "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "alternativa",
@@ -742,59 +755,7 @@
       "destacada": false,
       "tema": "publica",
       "fecha": "Thu, 15 Oct 2026 14:27:55 +0000",
-      "id": 57
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Más transporte… ¿para todos?",
-      "resumen": "Una guagua que antes podía costar 10 pesos ahora cobra 700. Para quien recibe un salario en pesos cubanos y tiene que repartirlo entre comida, medicamentos y todo lo demás que cuesta vivir, la cuenta del viaje deja de ser una cuenta de transporte. Se convierte en una decisión.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/14/mas-transporte-para-todos/",
-      "destacada": false,
-      "tema": "transporte",
-      "fecha": "Wed, 14 Oct 2026 12:54:00 +0000",
       "id": 58
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Lo que no puede quedar Apartado",
-      "resumen": "El periodismo crítico en Cuba enfrenta un grave obstáculo: el silencio de directivos y funcionarios ante las denuncias ciudadanas. Apartado 1433, decana sección de opinión, lo evidencia. Sin respuestas ágiles y reales, la confianza en las instituciones se pierde. No perdamos la brújula de la histori",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/14/lo-que-no-puede-quedar-apartado/",
-      "destacada": false,
-      "tema": "quedar",
-      "fecha": "Wed, 14 Oct 2026 12:44:00 +0000",
-      "id": 59
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Nueva Ley de la Vivienda en Cuba",
-      "resumen": "De novedosa y a tono con las normativas jurídicas internacionales vigentes en el mundo calificó la directora de Asuntos Legales del Ministerio de la Construcción, Marvelis Velázquez Reyes, la Ley 187 de la Vivienda, publicada este miércoles en la Gaceta Oficial de la República de Cuba, tras su discu",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/14/nueva-ley-vivienda-cuba/",
-      "destacada": false,
-      "tema": "nueva",
-      "fecha": "Wed, 14 Oct 2026 12:10:00 +0000",
-      "id": 60
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Artistas cubanas conquistan nuevamente Zaragoza",
-      "resumen": "Bajo el título Ellas bailan solas, diferentes espacios públicos de Zaragoza, España, acogen desde el 12 de octubre, Día de la Hispanidad, obras de 60 artistas cubanas, entre ellas las matanceras Yainyt Alcázar, Gio Fernández, Leidy Castellanos y Jennifer Mancha.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/14/artistas-cubanas-conquistan-zaragoza/",
-      "destacada": false,
-      "tema": "artistas",
-      "fecha": "Wed, 14 Oct 2026 11:34:00 +0000",
-      "id": 61
     },
     {
       "categoria": "sociedad",
@@ -807,7 +768,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Thu, 15 Oct 2026 22:00:00 GMT",
-      "id": 62
+      "id": 59
     },
     {
       "categoria": "sociedad",
@@ -820,7 +781,7 @@
       "destacada": false,
       "tema": "recuerdos",
       "fecha": "Thu, 15 Oct 2026 17:30:00 GMT",
-      "id": 63
+      "id": 60
     },
     {
       "categoria": "economia",
@@ -833,7 +794,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "id": 64
+      "id": 61
     },
     {
       "categoria": "sociedad",
@@ -846,7 +807,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Thu, 15 Oct 2026 09:15:00 GMT",
-      "id": 65
+      "id": 62
     },
     {
       "categoria": "sociedad",
@@ -859,7 +820,7 @@
       "destacada": false,
       "tema": "podrán",
       "fecha": "Wed, 14 Oct 2026 22:15:00 GMT",
-      "id": 66
+      "id": 63
     },
     {
       "categoria": "sociedad",
@@ -872,7 +833,7 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Wed, 14 Oct 2026 19:30:00 GMT",
-      "id": 67
+      "id": 64
     },
     {
       "categoria": "sociedad",
@@ -885,7 +846,7 @@
       "destacada": false,
       "tema": "bolita",
       "fecha": "Wed, 14 Oct 2026 14:42:46 GMT",
-      "id": 68
+      "id": 65
     },
     {
       "categoria": "economia",
@@ -898,7 +859,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 14 Oct 2026 14:42:22 GMT",
-      "id": 69
+      "id": 66
     }
   ]
 }
