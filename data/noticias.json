@@ -1,8 +1,21 @@
 {
   "fecha": "2026-10-16",
-  "hora": "21:16",
-  "total": 73,
+  "hora": "22:17",
+  "total": 66,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Un acto que es sabotaje y peligro para la vida",
+      "resumen": "Junto a Matanzas, Ciego de Ávila, Artemisa y Mayabeque, Santiago de Cuba es de las provincias con mayor incidencia en el robo de aceite dieléctrico a los transformadores, un hecho peligroso que ha costado ya varias vidas",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-15/un-acto-que-es-sabotaje-y-peligro-para-la-vida-15-10-2026-19-10-54",
+      "destacada": true,
+      "tema": "sabotaje",
+      "fecha": "Thu, 15 Oct 2026 19:10:54 -0400",
+      "id": 1
+    },
     {
       "categoria": "transporte",
       "fuente": "https://www.granma.cu",
@@ -14,7 +27,33 @@
       "destacada": true,
       "tema": "responde",
       "fecha": "Thu, 15 Oct 2026 13:10:16 -0400",
-      "id": 1
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba define su escuadra para el Premundial de Beisbol Sub-12",
+      "resumen": "Buscará uno de los cuatro accesos a la cita del orbe de 2027",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-16/cuba-define-su-escuadra-para-el-premundial-de-beisbol-sub-12-16-10-2026-17-10-07",
+      "destacada": true,
+      "tema": "define",
+      "fecha": "Fri, 16 Oct 2026 17:10:07 -0400",
+      "id": 3
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Bahamas reafirma su apoyo a Cuba con nueva donación al sistema de Salud",
+      "resumen": "El cargamento, compuesto por cerca de una tonelada de medicamentos e insumos médicos, está destinado al Instituto Nacional de Oncología y Radiobiología",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-15/bahamas-reafirma-su-apoyo-a-cuba-con-nueva-donacion-al-sistema-de-salud-15-10-2026-18-10-54",
+      "destacada": true,
+      "tema": "bahamas",
+      "fecha": "Thu, 15 Oct 2026 18:10:54 -0400",
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -27,7 +66,20 @@
       "destacada": true,
       "tema": "mirada",
       "fecha": "Fri, 16 Oct 2026 14:10:29 -0400",
-      "id": 2
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Nicolás Vives, su hija y el voleibol cubano, entre semilla y árbol",
+      "resumen": "Se refiere a la Liga Ciudad Élite, la selección varonil absoluta y la cercanía de su hija a este deporte",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-15/nicolas-vives-su-hija-y-el-voleibol-cubano-entre-semilla-y-arbol-15-10-2026-19-10-59",
+      "destacada": false,
+      "tema": "nicolás",
+      "fecha": "Thu, 15 Oct 2026 19:10:59 -0400",
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -37,88 +89,23 @@
       "resumen": "Ernesto Soberón Guzmán, representante permanente de Cuba ante las Naciones Unidas, denunció este viernes la organización de un evento estadounidense contra la Isla en la sede de la Organización, previsto para el 19 de octubre, y advirtió que forma parte de una escalada de hostigamiento político y di",
       "imagen_url": "",
       "enlace_original": "http://www.granma.cu/mundo/2026-10-16/cuba-denuncia-provocacion-de-estados-unidos-en-la-onu-y-una-campana-de-presiones-para-alterar-la-votacion-contra-el-bloqueo-16-10-2026-12-10-49",
-      "destacada": true,
+      "destacada": false,
       "tema": "denuncia",
       "fecha": "Fri, 16 Oct 2026 12:10:49 -0400",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Periódico cubano Palante, 65 años de humor gráfico",
-      "resumen": "El periódico de sátira gráfica más antiguo de Cuba y América Latina celebra un nuevo aniversario en plena migración digital, con la mirada puesta en los jóvenes y el compromiso de «resguardar y desarrollar una obra monumental»",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-16/periodico-cubano-palante-65-anos-de-humor-grafico-16-10-2026-13-10-00",
-      "destacada": true,
-      "tema": "periódico",
-      "fecha": "Fri, 16 Oct 2026 13:10:00 -0400",
-      "id": 4
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Las medidas coercitivas contra Cuba afectan la producción agroalimentaria",
-      "resumen": "El Jefe de la Diplomacia cubana condenó el impacto criminal del reforzamiento del bloqueo contra la economía de la Isla",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-16/las-medidas-coercitivas-contra-cuba-afectan-la-produccion-agroalimentaria-16-10-2026-11-10-08",
-      "destacada": true,
-      "tema": "medidas",
-      "fecha": "Fri, 16 Oct 2026 11:10:08 -0400",
-      "id": 5
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Sin válvulas de escape",
-      "resumen": "El gobierno de EE.UU. continúa cerrando el cerco fincniero impuesto a Cuba",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-16/sin-valvulas-de-escape-16-10-2026-11-10-09",
-      "destacada": false,
-      "tema": "válvulas",
-      "fecha": "Fri, 16 Oct 2026 11:10:09 -0400",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "María Elena Llana, entre lo más encumbrado de nuestra literatura",
-      "resumen": "La propuesta de candidatura al Premio de Literatura en Lengua Castellana Miguel de Cervantes 2026, a la destacada escritora y periodista María Elena Llana Castro, nacida en 1936, ha sido respaldada por el Ministerio de Cultura de Cuba y por el Instituto Cubano del Libro",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-15/maria-elena-llana-entre-lo-mas-encumbrado-de-nuestra-literatura-15-10-2026-16-10-32",
-      "destacada": false,
-      "tema": "maría",
-      "fecha": "Thu, 15 Oct 2026 16:10:32 -0400",
       "id": 7
     },
     {
-      "categoria": "sociedad",
+      "categoria": "energia",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba impulsa transformaciones agrícolas pese al bloqueo EE. UU",
-      "resumen": "Cuba impulsa transformaciones económicas, jurídicas y productivas para recuperar la agricultura, en un contexto marcado por las limitaciones de recursos provocadas por el bloqueo estadounidense, afirmó el ministro de la Agricultura, Ydael Pérez Brito",
+      "titulo": "«África está junto a Cuba del mismo modo que Cuba estuvo junto a África»",
+      "resumen": "La condena al bloqueo genocida impuesto a Cuba por Estados Unidos, constituyó el punto cumbre de un homenaje realizado a Mwalimu Julius Kambarage de Nyerere, presidente fundador y padre de la nación de la República Unida de Tanzania en el aniversario de su fallecimiento",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-16/cuba-impulsa-transformaciones-agricolas-pese-al-bloqueo-ee-uu-16-10-2026-11-10-13",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-15/africa-esta-junto-a-cuba-del-mismo-modo-que-cuba-estuvo-junto-a-africa-15-10-2026-17-10-41",
       "destacada": false,
-      "tema": "impulsa",
-      "fecha": "Fri, 16 Oct 2026 11:10:13 -0400",
+      "tema": "áfrica",
+      "fecha": "Thu, 15 Oct 2026 17:10:41 -0400",
       "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Rinden homenaje a los 32 combatientes cubanos caídos en Venezuela",
-      "resumen": "Caracas, 16 oct (Prensa Latina) La Cátedra Libre Fidel Castro, capítulo Acarigua, estado de Portuguesa, rindió homenaje hoy a los venezolanos y 32 combatientes cubanos caídos durante la agresión de tropas estadunidenses a Venezuela, el 3 de enero de 2026. The post Rinden homenaje a los 32 combatient",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/16/rinden-homenaje-a-los-32-combatientes-cubanos-caidos-en-venezuela/",
-      "destacada": false,
-      "tema": "rinden",
-      "fecha": "Fri, 16 Oct 2026 20:08:06 +0000",
-      "id": 9
     },
     {
       "categoria": "economia",
@@ -131,7 +118,7 @@
       "destacada": false,
       "tema": "salario",
       "fecha": "Fri, 16 Oct 2026 18:51:08 +0000",
-      "id": 10
+      "id": 9
     },
     {
       "categoria": "politica",
@@ -144,6 +131,19 @@
       "destacada": false,
       "tema": "trumpista",
       "fecha": "Fri, 16 Oct 2026 10:59:59 +0000",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Rosa María Payá recibe en Madrid el Premio FAES de la Libertad junto a dos opositoras de Irán y Rusia",
+      "resumen": "José María Aznar entregó el galardón a la cubana, Masih Alinejad y Yulia Navalnaya, en una ceremonia marcada por las críticas a los regímenes autoritarios",
+      "imagen_url": "https://static.14ymedio.com/clip/23f6ba07-6073-4b87-9b10-bfda80353194_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/internacional/rosa-maria-paya-recibe-madrid_1_1132061.html",
+      "destacada": false,
+      "tema": "maría",
+      "fecha": "Fri, 16 Oct 2026 21:47:40 +0000",
       "id": 11
     },
     {
@@ -176,19 +176,6 @@
       "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El régimen cubano afirma que su Banco Internacional de Comercio es \"legítimo\" tras sanción de EE UU",
-      "resumen": "Bruno Rodríguez sostuvo que las medidas de Washington pretenden “cerrar toda válvula” a la economía de la Isla",
-      "imagen_url": "https://static.14ymedio.com/clip/38fa9ae1-8fe2-45a6-b5d7-beb1da3ce7e4_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/regimen-cubano-afirma-banco-internacional_1_1132007.html",
-      "destacada": false,
-      "tema": "régimen",
-      "fecha": "Fri, 16 Oct 2026 10:31:32 +0000",
-      "id": 14
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
       "titulo": "EE UU sanciona por sus vínculos con Irán al banco cubano que protagonizó el ‘deshielo’ con Obama",
       "resumen": "El Bicsa, que en 2015 estableció una histórica relación financiera con una entidad de Florida, prestaba servicios al iraní Karafarin desde al menos 2022, según Washington",
       "imagen_url": "https://static.14ymedio.com/clip/e04d8c00-01ad-4e92-b08e-fe1466ccb213_source-aspect-ratio_default_0.jpg",
@@ -196,19 +183,32 @@
       "destacada": false,
       "tema": "sanciona",
       "fecha": "Thu, 15 Oct 2026 21:13:16 +0000",
-      "id": 15
+      "id": 14
     },
     {
       "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El dólar alcanza los 800 pesos cubanos en el mercado informal",
-      "resumen": "La divisa estadounidense se ha encarecido más del 32% desde finales de junio, mientras el euro alcanza los 890 CUP en el mercado informal",
-      "imagen_url": "https://static.14ymedio.com/clip/c7803da0-5009-40b6-9da3-f6df76359d35_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/economia/dolar-alcanza-800-pesos-cubanos_1_1131991.html",
+      "titulo": "El régimen cubano afirma que su Banco Internacional de Comercio es \"legítimo\" tras sanción de EE UU",
+      "resumen": "Bruno Rodríguez sostuvo que las medidas de Washington pretenden “cerrar toda válvula” a la economía de la Isla",
+      "imagen_url": "https://static.14ymedio.com/clip/38fa9ae1-8fe2-45a6-b5d7-beb1da3ce7e4_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/regimen-cubano-afirma-banco-internacional_1_1132007.html",
       "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Thu, 15 Oct 2026 18:26:02 +0000",
+      "tema": "régimen",
+      "fecha": "Fri, 16 Oct 2026 10:31:32 +0000",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Exsecretario de Comercio de EE.UU. nacido en La Habana afirma que el cambio en Cuba será gradual: «No hay que castigar al pueblo»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e208574-s27061-nid343064-exsecretario-comercio-eeuu-nacido-habana-afirma",
+      "destacada": false,
+      "tema": "exsecretario",
+      "fecha": "Fri, 16 Oct 2026 22:43:02 +0200",
       "id": 16
     },
     {
@@ -251,71 +251,6 @@
       "id": 19
     },
     {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "OFAC da menos de 30 días para cerrar operaciones extranjeras con el Banco Internacional de Comercio de Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e208574-s27061-nid343058-ofac-da-menos-30-dias-cerrar-operaciones-extranjeras",
-      "destacada": false,
-      "tema": "menos",
-      "fecha": "Fri, 16 Oct 2026 21:35:42 +0200",
-      "id": 20
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "España prevé 100,000 euros para nutrición, higiene y energía renovable de niños y jóvenes en Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e208574-s27061-nid343056-espana-preve-100000-euros-nutricion-higiene-energia",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Fri, 16 Oct 2026 21:22:23 +0200",
-      "id": 21
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Economista Elías Amor advierte que la inflación en Cuba podría superar el 40% a fin de año",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e192519-s27061-nid342980-economista-elias-amor-advierte-inflacion-podria",
-      "destacada": false,
-      "tema": "economista",
-      "fecha": "Fri, 16 Oct 2026 21:15:40 +0200",
-      "id": 22
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Me sacrifiqué por la Revolución y nadie se acuerda de mí»: Leyenda del béisbol cubano Braudilio Vinent denuncia abandono y miseria",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e43231-s27061-nid343009-me-sacrifique-revolucion-nadie-acuerda-mi-leyenda",
-      "destacada": false,
-      "tema": "sacrifiqué",
-      "fecha": "Fri, 16 Oct 2026 21:15:37 +0200",
-      "id": 23
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Vic Mellor dice que recurrió a la IA para preparar su plan de comunicación sobre Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e208574-s27061-nid343050-vic-mellor-dice-recurrio-ia-preparar-plan",
-      "destacada": false,
-      "tema": "mellor",
-      "fecha": "Fri, 16 Oct 2026 21:11:48 +0200",
-      "id": 24
-    },
-    {
       "categoria": "sociedad",
       "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "alternativa",
@@ -326,7 +261,7 @@
       "destacada": false,
       "tema": "bayamo",
       "fecha": "Fri, 16 Oct 2026 18:54:01 +0000",
-      "id": 25
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -339,7 +274,7 @@
       "destacada": false,
       "tema": "primer",
       "fecha": "Fri, 16 Oct 2026 17:26:08 +0000",
-      "id": 26
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -352,7 +287,7 @@
       "destacada": false,
       "tema": "recuperación",
       "fecha": "Fri, 16 Oct 2026 14:28:32 +0000",
-      "id": 27
+      "id": 22
     },
     {
       "categoria": "politica",
@@ -365,7 +300,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Fri, 16 Oct 2026 11:44:39 +0000",
-      "id": 28
+      "id": 23
     },
     {
       "categoria": "salud",
@@ -378,7 +313,7 @@
       "destacada": false,
       "tema": "aceite",
       "fecha": "Fri, 16 Oct 2026 23:01:48 +0200",
-      "id": 29
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -391,7 +326,7 @@
       "destacada": false,
       "tema": "emplaza",
       "fecha": "Fri, 16 Oct 2026 20:30:58 +0200",
-      "id": 30
+      "id": 25
     },
     {
       "categoria": "energia",
@@ -404,7 +339,7 @@
       "destacada": false,
       "tema": "incendio",
       "fecha": "Fri, 16 Oct 2026 19:03:00 +0200",
-      "id": 31
+      "id": 26
     },
     {
       "categoria": "energia",
@@ -417,7 +352,7 @@
       "destacada": false,
       "tema": "incendio",
       "fecha": "Fri, 16 Oct 2026 15:36:34 +0200",
-      "id": 32
+      "id": 27
     },
     {
       "categoria": "transporte",
@@ -430,7 +365,7 @@
       "destacada": false,
       "tema": "científicos",
       "fecha": "Fri, 16 Oct 2026 14:38:46 +0200",
-      "id": 33
+      "id": 28
     },
     {
       "categoria": "economia",
@@ -443,7 +378,7 @@
       "destacada": false,
       "tema": "santiago",
       "fecha": "Fri, 16 Oct 2026 13:49:16 +0200",
-      "id": 34
+      "id": 29
     },
     {
       "categoria": "economia",
@@ -456,7 +391,7 @@
       "destacada": false,
       "tema": "sudáfrica",
       "fecha": "Fri, 16 Oct 2026 13:14:31 +0200",
-      "id": 35
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -469,7 +404,7 @@
       "destacada": false,
       "tema": "plazo",
       "fecha": "Fri, 16 Oct 2026 11:21:06 +0200",
-      "id": 36
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -482,7 +417,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Fri, 16 Oct 2026 17:00:30 -0400",
-      "id": 37
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -495,7 +430,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Fri, 16 Oct 2026 16:46:08 -0400",
-      "id": 38
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -508,7 +443,7 @@
       "destacada": false,
       "tema": "apoyen",
       "fecha": "Fri, 16 Oct 2026 16:10:38 -0400",
-      "id": 39
+      "id": 34
     },
     {
       "categoria": "economia",
@@ -521,20 +456,20 @@
       "destacada": false,
       "tema": "rechaza",
       "fecha": "Fri, 16 Oct 2026 16:07:58 -0400",
-      "id": 40
+      "id": 35
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las noticias como son",
-      "resumen": "José Luis Ramos con los periodistas Luz Escobar y Emilio Almaguer, analizan el empobrecimiento de los cubanos en medio de la crisis económica.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Día Mundial de la Alimentación: una mirada al campo cubano",
+      "resumen": "Cada 16 de octubre, el Día Mundial de la Alimentación invita a reflexionar sobre el acceso a los alimentos y los desafíos que enfrenta la agricultura. En Cuba, esta fecha llega en medio de una profunda crisis económica, marcada por la escasez de recursos, las dificultades materiales y los obstáculos",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/las-noticias-como-son/482157.html",
+      "enlace_original": "http://www.cubadebate.cu/fotorreportajes/2026/10/16/dia-mundial-de-la-alimentacion-una-mirada-al-campo-cubano/",
       "destacada": false,
-      "tema": "noticias",
-      "fecha": "Fri, 16 Oct 2026 16:03:23 -0400",
-      "id": 41
+      "tema": "mundial",
+      "fecha": "Fri, 16 Oct 2026 21:44:58 +0000",
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -547,7 +482,7 @@
       "destacada": false,
       "tema": "redonda",
       "fecha": "Fri, 16 Oct 2026 20:45:13 +0000",
-      "id": 42
+      "id": 37
     },
     {
       "categoria": "transporte",
@@ -560,20 +495,7 @@
       "destacada": false,
       "tema": "convoca",
       "fecha": "Fri, 16 Oct 2026 19:28:55 +0000",
-      "id": 43
-    },
-    {
-      "categoria": "salud",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Bahamas reafirma su apoyo a Cuba con nueva donación al sistema de Salud",
-      "resumen": "Un cargamento de cerca de una tonelada de medicamentos e insumos médicos, donado por Bahamas, está destinado al Instituto Nacional de Oncología y Radiobiología de Cuba. Con esta contribución, el país caribeño ratifica su respaldo al sector sanitario cubano y refuerza los vínculos de cooperación y so",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/16/bahamas-reafirma-su-apoyo-a-cuba-con-nueva-donacion-al-sistema-de-salud/",
-      "destacada": false,
-      "tema": "bahamas",
-      "fecha": "Fri, 16 Oct 2026 19:18:51 +0000",
-      "id": 44
+      "id": 38
     },
     {
       "categoria": "economia",
@@ -586,7 +508,7 @@
       "destacada": false,
       "tema": "destacan",
       "fecha": "Fri, 16 Oct 2026 19:05:43 +0000",
-      "id": 45
+      "id": 39
     },
     {
       "categoria": "politica",
@@ -599,7 +521,7 @@
       "destacada": false,
       "tema": "uruguay",
       "fecha": "Fri, 16 Oct 2026 18:08:15 +0000",
-      "id": 46
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -612,7 +534,7 @@
       "destacada": false,
       "tema": "denunció",
       "fecha": "Fri, 16 Oct 2026 17:48:01 +0000",
-      "id": 47
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -625,7 +547,20 @@
       "destacada": false,
       "tema": "victoria",
       "fecha": "Fri, 16 Oct 2026 15:25:19 +0000",
-      "id": 48
+      "id": 42
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Un dialogismo de izquierda",
+      "resumen": "Cristóbal León Campos - Cubainformación.- La construcción de nuevas realidades, donde el respeto a ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125536-un-dialogismo-de-izquierda.jpg?t=1792185577",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261016/125536/125536-un-dialogismo-de-izquierda",
+      "destacada": false,
+      "tema": "dialogismo",
+      "fecha": "Fri, 16 Oct 26 23:19:00 +0200",
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -638,7 +573,7 @@
       "destacada": false,
       "tema": "demócrata",
       "fecha": "Fri, 16 Oct 26 16:26:00 +0200",
-      "id": 49
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -651,7 +586,7 @@
       "destacada": false,
       "tema": "oportunidad",
       "fecha": "Fri, 16 Oct 26 16:22:00 +0200",
-      "id": 50
+      "id": 45
     },
     {
       "categoria": "energia",
@@ -664,7 +599,7 @@
       "destacada": false,
       "tema": "ocurre",
       "fecha": "Fri, 16 Oct 26 15:10:00 +0200",
-      "id": 51
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -677,7 +612,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Fri, 16 Oct 26 13:29:00 +0200",
-      "id": 52
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -690,7 +625,7 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Fri, 16 Oct 26 13:00:00 +0200",
-      "id": 53
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -703,7 +638,7 @@
       "destacada": false,
       "tema": "cuban",
       "fecha": "Fri, 16 Oct 26 08:21:00 +0200",
-      "id": 54
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -716,7 +651,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Fri, 16 Oct 26 08:20:00 +0200",
-      "id": 55
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -729,7 +664,7 @@
       "destacada": false,
       "tema": "excusa",
       "fecha": "Fri, 16 Oct 26 08:19:00 +0200",
-      "id": 56
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -742,20 +677,7 @@
       "destacada": false,
       "tema": "esconde",
       "fecha": "Fri, 16 Oct 26 08:19:00 +0200",
-      "id": 57
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Sindicatos de Los Ángeles exigirán el fin del bloqueo contra Cuba el 24 de octubre",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125522-sindicatos-de-los-angeles-exigiran-el-fin-del-bloqueo-contra-cuba-el-24-de-octubre.jpg?t=1792130680",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261016/125522/125522-sindicatos-de-los-angeles-exigiran-el-fin-del-bloqueo-contra-cuba-el-24-de-octubre",
-      "destacada": false,
-      "tema": "sindicatos",
-      "fecha": "Fri, 16 Oct 26 08:03:00 +0200",
-      "id": 58
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -768,7 +690,7 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Fri, 16 Oct 2026 14:05:50 +0000",
-      "id": 59
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -781,7 +703,7 @@
       "destacada": false,
       "tema": "celebran",
       "fecha": "Fri, 16 Oct 2026 13:09:03 +0000",
-      "id": 60
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -794,7 +716,7 @@
       "destacada": false,
       "tema": "premian",
       "fecha": "Fri, 16 Oct 2026 13:07:49 +0000",
-      "id": 61
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -807,7 +729,7 @@
       "destacada": false,
       "tema": "piratas",
       "fecha": "Fri, 16 Oct 2026 14:31:35 +0000",
-      "id": 62
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -820,7 +742,7 @@
       "destacada": false,
       "tema": "atención",
       "fecha": "Thu, 15 Oct 2026 19:58:35 +0000",
-      "id": 63
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -833,7 +755,7 @@
       "destacada": false,
       "tema": "comenzarán",
       "fecha": "Thu, 15 Oct 2026 17:56:05 +0000",
-      "id": 64
+      "id": 58
     },
     {
       "categoria": "politica",
@@ -846,7 +768,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 15 Oct 2026 17:42:16 +0000",
-      "id": 65
+      "id": 59
     },
     {
       "categoria": "salud",
@@ -859,7 +781,7 @@
       "destacada": false,
       "tema": "acusado",
       "fecha": "Fri, 16 Oct 2026 12:00:00 +0000",
-      "id": 66
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -872,7 +794,7 @@
       "destacada": false,
       "tema": "archivos",
       "fecha": "Fri, 16 Oct 2026 21:01:32 GMT",
-      "id": 67
+      "id": 61
     },
     {
       "categoria": "economia",
@@ -885,7 +807,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 16 Oct 2026 10:03:00 GMT",
-      "id": 68
+      "id": 62
     },
     {
       "categoria": "sociedad",
@@ -898,7 +820,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Thu, 15 Oct 2026 22:00:00 GMT",
-      "id": 69
+      "id": 63
     },
     {
       "categoria": "sociedad",
@@ -911,7 +833,7 @@
       "destacada": false,
       "tema": "recuerdos",
       "fecha": "Thu, 15 Oct 2026 17:30:00 GMT",
-      "id": 70
+      "id": 64
     },
     {
       "categoria": "economia",
@@ -924,7 +846,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "id": 71
+      "id": 65
     },
     {
       "categoria": "sociedad",
@@ -937,20 +859,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Thu, 15 Oct 2026 09:15:00 GMT",
-      "id": 72
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Se podrán tener hasta dos casas y comprar sin efectivo: lo que trae la nueva Ley de la Vivienda en Cuba",
-      "resumen": "La Ley 187, publicada el 14 de octubre, sustituye la norma de 1988 y permite hasta dos viviendas por persona, además de compraventas obligatoriamente sin efectivo y ante notario.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/AP_433770677421_52d77a057d.jpg",
-      "enlace_original": "https://eltoque.com/publicada-nueva-ley-de-la-vivienda-en-cuba",
-      "destacada": false,
-      "tema": "podrán",
-      "fecha": "Wed, 14 Oct 2026 22:15:00 GMT",
-      "id": 73
+      "id": 66
     }
   ]
 }
