@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-16",
-  "hora": "11:18",
-  "total": 71,
+  "hora": "12:19",
+  "total": 69,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -95,19 +95,6 @@
       "id": 7
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Albacete dedica cinco días a Cuba por su cultura",
-      "resumen": "Madrid, 16 oct (Prensa Latina) Albacete, sureste de España, dedica desde hoy cinco días a Cuba a propósito de Día de la Cultura de la isla caribeña el 20 de octubre. The post Albacete dedica cinco días a Cuba por su cultura first appeared on Noticias Prensa Latina.",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/16/albacete-dedica-cinco-dias-a-cuba-por-su-cultura/",
-      "destacada": false,
-      "tema": "albacete",
-      "fecha": "Fri, 16 Oct 2026 10:39:14 +0000",
-      "id": 8
-    },
-    {
       "categoria": "politica",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -118,6 +105,19 @@
       "destacada": false,
       "tema": "trumpista",
       "fecha": "Fri, 16 Oct 2026 10:59:59 +0000",
+      "id": 8
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Grave incendio en la termoeléctrica cubana de Santa Cruz del Norte",
+      "resumen": "Los bomberos trabajan en la extinción del fuego, que comenzó a las 6:55 por motivos aún desconocidos",
+      "imagen_url": "https://static.14ymedio.com/clip/fd0e0e61-ba9e-4871-a3d8-c629a44855f5_source-aspect-ratio_default_0.png",
+      "enlace_original": "https://www.14ymedio.com/cuba/grave-incendio-termoelectrica-cubana-santa_1_1132017.html",
+      "destacada": false,
+      "tema": "grave",
+      "fecha": "Fri, 16 Oct 2026 12:09:37 +0000",
       "id": 9
     },
     {
@@ -186,19 +186,6 @@
       "id": 14
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Fiscalía pide hasta diez años para cuatro opositores mientras Cuba alcanza un récord de 1.351 presos políticos",
-      "resumen": "Entre los nuevos casos figura un tatuador de Sancti Spíritus y su esposa, encarcelados por protestar desde el techo de su casa",
-      "imagen_url": "https://static.14ymedio.com/clip/ba576873-17ae-4689-90ba-6a134888eb70_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/fiscalia-pide-diez-anos-cuatro_1_1131984.html",
-      "destacada": false,
-      "tema": "fiscalía",
-      "fecha": "Thu, 15 Oct 2026 14:46:04 +0000",
-      "id": 15
-    },
-    {
       "categoria": "economia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
@@ -209,7 +196,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 16 Oct 2026 06:00:17 +0200",
-      "id": 16
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -222,7 +209,7 @@
       "destacada": false,
       "tema": "prisoners",
       "fecha": "Fri, 16 Oct 2026 04:41:37 +0200",
-      "id": 17
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -235,7 +222,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 16 Oct 2026 03:55:41 +0200",
-      "id": 18
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -248,7 +235,7 @@
       "destacada": false,
       "tema": "belice",
       "fecha": "Fri, 16 Oct 2026 03:09:49 +0200",
-      "id": 19
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -261,20 +248,20 @@
       "destacada": false,
       "tema": "guardia",
       "fecha": "Fri, 16 Oct 2026 02:13:15 +0200",
-      "id": 20
+      "id": 19
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "De la euforia a la decepción: exiliados cubanos de Miami se vuelven contra Trump y Rubio por la «invasión» a Cuba que nunca llegó",
+      "titulo": "De la euforia a la decepción: exiliados cubanos en la radio de Miami se vuelven contra Trump y Rubio por la «invasión» a Cuba que nunca llegó",
       "resumen": "",
       "imagen_url": "",
       "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e199894-s27061-nid342997-euforia-decepcion-exiliados-cubanos-miami-vuelven",
       "destacada": false,
       "tema": "euforia",
       "fecha": "Fri, 16 Oct 2026 02:05:44 +0200",
-      "id": 21
+      "id": 20
     },
     {
       "categoria": "transporte",
@@ -287,7 +274,7 @@
       "destacada": false,
       "tema": "china",
       "fecha": "Fri, 16 Oct 2026 01:34:41 +0200",
-      "id": 22
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -300,7 +287,7 @@
       "destacada": false,
       "tema": "instituto",
       "fecha": "Wed, 14 Oct 2026 17:18:33 +0000",
-      "id": 23
+      "id": 22
     },
     {
       "categoria": "transporte",
@@ -313,7 +300,7 @@
       "destacada": false,
       "tema": "inaugura",
       "fecha": "Thu, 15 Oct 2026 20:21:39 +0000",
-      "id": 24
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -326,7 +313,7 @@
       "destacada": false,
       "tema": "amplía",
       "fecha": "Wed, 14 Oct 2026 18:41:45 +0000",
-      "id": 25
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -339,6 +326,19 @@
       "destacada": false,
       "tema": "industrias",
       "fecha": "Wed, 14 Oct 2026 18:19:19 +0000",
+      "id": 25
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Santiago de Cuba: los nuevos mercados de barrio generan más problemas que alivio",
+      "resumen": "Un solo \"mercado de barrio\" para clientes de cuatro o cinco antiguas bodegas estatales. En #SantiagoDeCuba, los vecinos cuestionan la organización del Gobierno mientras se enfrentan a los precios, tan altos como los de las #mipymes pese a las promesas oficiales.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792151356_69415.html",
+      "destacada": false,
+      "tema": "santiago",
+      "fecha": "Fri, 16 Oct 2026 13:49:16 +0200",
       "id": 26
     },
     {
@@ -459,16 +459,16 @@
       "id": 35
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "economia",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Organizaciones cubanas piden al mundo no respaldar la resolución del régimen contra el embargo",
-      "resumen": "Organizaciones dentro y fuera de #Cuba tachan de \"insulto\" a la #ONU la votación sobre la resolución del #RégimenCubano contra el embargo de #EEUU y piden al mundo que no la respalde.",
+      "titulo": "Martinoticias AM",
+      "resumen": "Revista informativa con los últimos acontecimientos ocurridos en Cuba y el mundo. Con entrevistas y temas de actualidad relacionados a la política, la economía y de interés general.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792072921_69403.html",
+      "enlace_original": "https://www.martinoticias.com/a/481098.html",
       "destacada": false,
-      "tema": "organizaciones",
-      "fecha": "Thu, 15 Oct 2026 16:02:01 +0200",
+      "tema": "martinoticias",
+      "fecha": "Fri, 16 Oct 2026 08:00:00 -0400",
       "id": 36
     },
     {
@@ -592,6 +592,19 @@
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
+      "titulo": "Fidel Castro y el juicio del Moncada",
+      "resumen": "Noel Manzanares Blanco* - Radio Cadena Agramonte - Cubainformación.- Por lo acontecido en el juicio,...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125531-fidel-castro-y-el-juicio-del-moncada.jpg?t=1792150190",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261016/125531/125531-fidel-castro-y-el-juicio-del-moncada",
+      "destacada": false,
+      "tema": "fidel",
+      "fecha": "Fri, 16 Oct 26 13:29:00 +0200",
+      "id": 46
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
       "titulo": "La solidaridad con Cuba se hizo presente en Madrid, en el &quot;Homenaje a los pueblos que resisten al imperialismo, el fascismo y el sionismo&quot; (+Fotos)",
       "resumen": "Cubainformación",
       "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125530-la-solidaridad-con-cuba-se-hizo-presente-en-madrid-en-el-homenaje-a-los-pueblos-que-resisten-al-imperialismo-el-fascismo-y-el-sionismo-fotos.jpg?t=1792149013",
@@ -599,7 +612,7 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Fri, 16 Oct 26 13:00:00 +0200",
-      "id": 46
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -612,7 +625,7 @@
       "destacada": false,
       "tema": "cuban",
       "fecha": "Fri, 16 Oct 26 08:21:00 +0200",
-      "id": 47
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -625,7 +638,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Fri, 16 Oct 26 08:20:00 +0200",
-      "id": 48
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -638,7 +651,7 @@
       "destacada": false,
       "tema": "excusa",
       "fecha": "Fri, 16 Oct 26 08:19:00 +0200",
-      "id": 49
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -651,7 +664,7 @@
       "destacada": false,
       "tema": "esconde",
       "fecha": "Fri, 16 Oct 26 08:19:00 +0200",
-      "id": 50
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -664,7 +677,7 @@
       "destacada": false,
       "tema": "sindicatos",
       "fecha": "Fri, 16 Oct 26 08:03:00 +0200",
-      "id": 51
+      "id": 52
     },
     {
       "categoria": "economia",
@@ -677,7 +690,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 16 Oct 26 07:57:00 +0200",
-      "id": 52
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -690,19 +703,6 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Fri, 16 Oct 26 07:49:00 +0200",
-      "id": 53
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Atención a las personas en situación de vulnerabilidad, prioridad de las transformaciones económicas en Cuba",
-      "resumen": "Canal Caribe - Foto: Prensa Latina.- En la revista &amp;quot;Buenos días&amp;quot; se dialogó con el vicemin...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125517-atencion-a-las-personas-en-situacion-de-vulnerabilidad-prioridad-de-las-transformaciones-economicas-en-cuba.jpg?t=1792129673",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261016/125517/125517-atencion-a-las-personas-en-situacion-de-vulnerabilidad-prioridad-de-las-transformaciones-economicas-en-cuba",
-      "destacada": false,
-      "tema": "atención",
-      "fecha": "Fri, 16 Oct 26 07:46:00 +0200",
       "id": 54
     },
     {
@@ -785,32 +785,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Nueva Ley de la Vivienda en Cuba",
-      "resumen": "De novedosa y a tono con las normativas jurídicas internacionales vigentes en el mundo calificó la directora de Asuntos Legales del Ministerio de la Construcción, Marvelis Velázquez Reyes, la Ley 187 de la Vivienda, publicada este miércoles en la Gaceta Oficial de la República de Cuba, tras su discu",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/14/nueva-ley-vivienda-cuba/",
-      "destacada": false,
-      "tema": "nueva",
-      "fecha": "Wed, 14 Oct 2026 12:10:00 +0000",
-      "id": 61
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Artistas cubanas conquistan nuevamente Zaragoza",
-      "resumen": "Bajo el título Ellas bailan solas, diferentes espacios públicos de Zaragoza, España, acogen desde el 12 de octubre, Día de la Hispanidad, obras de 60 artistas cubanas, entre ellas las matanceras Yainyt Alcázar, Gio Fernández, Leidy Castellanos y Jennifer Mancha.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/14/artistas-cubanas-conquistan-zaragoza/",
-      "destacada": false,
-      "tema": "artistas",
-      "fecha": "Wed, 14 Oct 2026 11:34:00 +0000",
-      "id": 62
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://eltoque.com",
       "fuente_tipo": "alternativa",
       "titulo": "Los archivos de la Embajada: ¿Cuánto cobra un diplomático cubano en Estados Unidos?",
@@ -820,7 +794,7 @@
       "destacada": false,
       "tema": "archivos",
       "fecha": "Fri, 16 Oct 2026 10:40:00 GMT",
-      "id": 63
+      "id": 61
     },
     {
       "categoria": "sociedad",
@@ -833,7 +807,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Thu, 15 Oct 2026 22:00:00 GMT",
-      "id": 64
+      "id": 62
     },
     {
       "categoria": "sociedad",
@@ -846,7 +820,7 @@
       "destacada": false,
       "tema": "recuerdos",
       "fecha": "Thu, 15 Oct 2026 17:30:00 GMT",
-      "id": 65
+      "id": 63
     },
     {
       "categoria": "economia",
@@ -859,7 +833,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "id": 66
+      "id": 64
     },
     {
       "categoria": "sociedad",
@@ -872,7 +846,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Thu, 15 Oct 2026 09:15:00 GMT",
-      "id": 67
+      "id": 65
     },
     {
       "categoria": "sociedad",
@@ -885,7 +859,7 @@
       "destacada": false,
       "tema": "podrán",
       "fecha": "Wed, 14 Oct 2026 22:15:00 GMT",
-      "id": 68
+      "id": 66
     },
     {
       "categoria": "sociedad",
@@ -898,7 +872,7 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Wed, 14 Oct 2026 19:30:00 GMT",
-      "id": 69
+      "id": 67
     },
     {
       "categoria": "sociedad",
@@ -911,7 +885,7 @@
       "destacada": false,
       "tema": "bolita",
       "fecha": "Wed, 14 Oct 2026 14:42:46 GMT",
-      "id": 70
+      "id": 68
     },
     {
       "categoria": "economia",
@@ -924,7 +898,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 14 Oct 2026 14:42:22 GMT",
-      "id": 71
+      "id": 69
     }
   ]
 }
