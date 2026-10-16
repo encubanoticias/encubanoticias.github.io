@@ -1,8 +1,47 @@
 {
   "fecha": "2026-10-16",
-  "hora": "15:18",
-  "total": 64,
+  "hora": "16:19",
+  "total": 66,
   "noticias": [
+    {
+      "categoria": "economia",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Las medidas coercitivas contra Cuba afectan la producción agroalimentaria",
+      "resumen": "El Jefe de la Diplomacia cubana condenó el impacto criminal del reforzamiento del bloqueo contra la economía de la Isla",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-16/las-medidas-coercitivas-contra-cuba-afectan-la-produccion-agroalimentaria-16-10-2026-11-10-08",
+      "destacada": true,
+      "tema": "medidas",
+      "fecha": "Fri, 16 Oct 2026 11:10:08 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba responde con más soberanía ante el cerco de Washington",
+      "resumen": "«Frente al cerco energético del gobierno de EE. UU., que pretende castigar a todo el pueblo de Cuba, nuestro Partido y Gobierno responden con más soberanía y medidas para aliviar el impacto de esa política estadounidense en la población cubana»",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-15/cuba-responde-con-mas-soberania-ante-el-cerco-de-washington",
+      "destacada": true,
+      "tema": "responde",
+      "fecha": "Thu, 15 Oct 2026 13:10:16 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Sin válvulas de escape",
+      "resumen": "El gobierno de EE.UU. continúa cerrando el cerco fincniero impuesto a Cuba",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-16/sin-valvulas-de-escape-16-10-2026-11-10-09",
+      "destacada": true,
+      "tema": "válvulas",
+      "fecha": "Fri, 16 Oct 2026 11:10:09 -0400",
+      "id": 3
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
@@ -14,7 +53,20 @@
       "destacada": true,
       "tema": "resiliencia",
       "fecha": "Wed, 14 Oct 2026 18:10:59 -0400",
-      "id": 1
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba impulsa transformaciones agrícolas pese al bloqueo EE. UU",
+      "resumen": "Cuba impulsa transformaciones económicas, jurídicas y productivas para recuperar la agricultura, en un contexto marcado por las limitaciones de recursos provocadas por el bloqueo estadounidense, afirmó el ministro de la Agricultura, Ydael Pérez Brito",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-16/cuba-impulsa-transformaciones-agricolas-pese-al-bloqueo-ee-uu-16-10-2026-11-10-13",
+      "destacada": true,
+      "tema": "impulsa",
+      "fecha": "Fri, 16 Oct 2026 11:10:13 -0400",
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -24,36 +76,10 @@
       "resumen": "La Sala Avellaneda acogerá una temporada que conmemora el cincuentenario del Ministerio de Cultura, el aniversario 81 de la ONU, el Día de la Hispanidad y los 78 años de la fundación de la compañía",
       "imagen_url": "",
       "enlace_original": "http://www.granma.cu/cultura/2026-10-15/del-20-al-28-de-octubre-temporada-del-ballet-nacional-de-cuba-15-10-2026-12-10-15",
-      "destacada": true,
+      "destacada": false,
       "tema": "octubre",
       "fecha": "Thu, 15 Oct 2026 12:10:15 -0400",
-      "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Pese al bloqueo, se prioriza la atención a pacientes con enfermedad renal crónica",
-      "resumen": "El Instituto de Nefrología mantiene 36 investigaciones en curso y participa en el Proyecto Diálisis, dirigido a fabricar una máquina de reúso, una de hemodiálisis y dializadores",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-14/pese-al-bloqueo-se-prioriza-la-atencion-a-pacientes-con-enfermedad-renal-cronica-14-10-2026-18-10-15",
-      "destacada": true,
-      "tema": "bloqueo",
-      "fecha": "Wed, 14 Oct 2026 18:10:15 -0400",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Bosnia y Herzegovina reciben nueva embajadora cubana",
-      "resumen": "La Habana, 16 oct (Prensa Latina) Bosnia y Herzegovina recibieron hoy a Teresita de Jesús Vicente, como nueva Embajadora Extraordinaria y Plenipotenciaria de la República de Cuba en esas naciones. The post Bosnia y Herzegovina reciben nueva embajadora cubana first appeared on Noticias Prensa Latina.",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/16/bosnia-y-herzegovina-reciben-nueva-embajadora-cubana/",
-      "destacada": true,
-      "tema": "bosnia",
-      "fecha": "Fri, 16 Oct 2026 15:06:44 +0000",
-      "id": 4
+      "id": 6
     },
     {
       "categoria": "politica",
@@ -63,23 +89,23 @@
       "resumen": "El candidato republicano al Congreso por Rhode Island dice que quiere “hacer oír la voz del Gobierno cubano” en EE UU para propiciar un acercamiento entre los dos países",
       "imagen_url": "https://static.14ymedio.com/clip/a0487b1f-95d6-4303-9cbc-380d4931aca0_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/trumpista-vic-mellor-explica-agente_1_1132010.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "trumpista",
       "fecha": "Fri, 16 Oct 2026 10:59:59 +0000",
-      "id": 5
+      "id": 7
     },
     {
       "categoria": "energia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
       "titulo": "Grave incendio en la termoeléctrica cubana de Santa Cruz del Norte",
-      "resumen": "Los bomberos lograron controlar el fuego, que comenzó a las 6:55 por motivos aún desconocidos",
+      "resumen": "Los bomberos lograron controlar el fuego, que comenzó a las 6:55 por \" una fuga de aceite en la parte frontal del rotor\"",
       "imagen_url": "https://static.14ymedio.com/clip/fd0e0e61-ba9e-4871-a3d8-c629a44855f5_source-aspect-ratio_default_0.png",
       "enlace_original": "https://www.14ymedio.com/cuba/grave-incendio-termoelectrica-cubana-santa_1_1132017.html",
       "destacada": false,
       "tema": "grave",
       "fecha": "Fri, 16 Oct 2026 12:09:37 +0000",
-      "id": 6
+      "id": 8
     },
     {
       "categoria": "transporte",
@@ -92,7 +118,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Fri, 16 Oct 2026 14:07:39 +0000",
-      "id": 7
+      "id": 9
     },
     {
       "categoria": "economia",
@@ -105,7 +131,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Fri, 16 Oct 2026 10:31:32 +0000",
-      "id": 8
+      "id": 10
     },
     {
       "categoria": "economia",
@@ -118,7 +144,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 15 Oct 2026 18:26:02 +0000",
-      "id": 9
+      "id": 11
     },
     {
       "categoria": "economia",
@@ -131,7 +157,7 @@
       "destacada": false,
       "tema": "sanciona",
       "fecha": "Thu, 15 Oct 2026 21:13:16 +0000",
-      "id": 10
+      "id": 12
     },
     {
       "categoria": "politica",
@@ -144,7 +170,7 @@
       "destacada": false,
       "tema": "cancillería",
       "fecha": "Thu, 15 Oct 2026 10:13:55 +0000",
-      "id": 11
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -157,7 +183,46 @@
       "destacada": false,
       "tema": "henry",
       "fecha": "Thu, 15 Oct 2026 19:12:24 +0000",
-      "id": 12
+      "id": 14
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«¡Si está roto, llama a Amazon!»: Repartidora cubana en EE.UU. lanza un paquete y se vuelve viral",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u65722-e65722-s27065-nid343023-esta-roto-llama-amazon-repartidora-cubana-eeuu",
+      "destacada": false,
+      "tema": "llama",
+      "fecha": "Fri, 16 Oct 2026 16:55:48 +0200",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Alcaldesa cubanoamericana de Doral presume caída del 60% del crimen, pero reconoce miedo por ICE",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e135253-s27061-nid343026-alcaldesa-cubanoamericana-doral-presume-caida-60",
+      "destacada": false,
+      "tema": "alcaldesa",
+      "fecha": "Fri, 16 Oct 2026 16:37:08 +0200",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Ministra de Educación de Cuba admite que 11,000 alumnos no van a clases con normalidad y que la mitad no tiene uniforme",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e43231-s27061-nid343007-ministra-educacion-cuba-admite-11000-alumnos-van",
+      "destacada": false,
+      "tema": "ministra",
+      "fecha": "Fri, 16 Oct 2026 16:08:02 +0200",
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -170,7 +235,7 @@
       "destacada": false,
       "tema": "claro",
       "fecha": "Fri, 16 Oct 2026 15:23:04 +0200",
-      "id": 13
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -183,7 +248,7 @@
       "destacada": false,
       "tema": "lágrimas",
       "fecha": "Fri, 16 Oct 2026 15:17:53 +0200",
-      "id": 14
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -196,46 +261,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Fri, 16 Oct 2026 15:14:49 +0200",
-      "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubano termina arrestado en Hialeah tras incidente con un agente encubierto en un parque: ¿De qué lo acusan?",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e129488-s27061-nid343010-arrestan-cubano-28-anos-incidente-indecente-parque",
-      "destacada": false,
-      "tema": "cubano",
-      "fecha": "Fri, 16 Oct 2026 13:46:53 +0200",
-      "id": 16
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El dólar roza los 800 pesos en Cuba: así cierra el mercado informal de divisas este jueves",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e199894-s27061-nid343003-dolar-roza-800-pesos-cuba-asi-cierra-mercado",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Fri, 16 Oct 2026 06:00:17 +0200",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Prisoners Defenders denuncia un ciberataque contra su web y la base de datos de presos políticos cubanos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e208933-s27061-nid343002-prisoners-defenders-denuncia-ciberataque-contra-web",
-      "destacada": false,
-      "tema": "prisoners",
-      "fecha": "Fri, 16 Oct 2026 04:41:37 +0200",
-      "id": 18
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -248,7 +274,7 @@
       "destacada": false,
       "tema": "instituto",
       "fecha": "Wed, 14 Oct 2026 17:18:33 +0000",
-      "id": 19
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -261,7 +287,20 @@
       "destacada": false,
       "tema": "recuperación",
       "fecha": "Fri, 16 Oct 2026 14:28:32 +0000",
-      "id": 20
+      "id": 22
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Nueva medida económica contra Cuba",
+      "resumen": "El gobierno estadounidense no tiene autoridad para decidir quién puede y quién no comerciar con Cuba",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261016/nueva-medida-economica-contra-cuba/",
+      "destacada": false,
+      "tema": "nueva",
+      "fecha": "Fri, 16 Oct 2026 11:44:39 +0000",
+      "id": 23
     },
     {
       "categoria": "energia",
@@ -274,7 +313,7 @@
       "destacada": false,
       "tema": "incendio",
       "fecha": "Fri, 16 Oct 2026 15:36:34 +0200",
-      "id": 21
+      "id": 24
     },
     {
       "categoria": "transporte",
@@ -287,7 +326,7 @@
       "destacada": false,
       "tema": "científicos",
       "fecha": "Fri, 16 Oct 2026 14:38:46 +0200",
-      "id": 22
+      "id": 25
     },
     {
       "categoria": "economia",
@@ -300,7 +339,7 @@
       "destacada": false,
       "tema": "santiago",
       "fecha": "Fri, 16 Oct 2026 13:49:16 +0200",
-      "id": 23
+      "id": 26
     },
     {
       "categoria": "economia",
@@ -313,7 +352,7 @@
       "destacada": false,
       "tema": "sudáfrica",
       "fecha": "Fri, 16 Oct 2026 13:14:31 +0200",
-      "id": 24
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -326,7 +365,7 @@
       "destacada": false,
       "tema": "plazo",
       "fecha": "Fri, 16 Oct 2026 11:21:06 +0200",
-      "id": 25
+      "id": 28
     },
     {
       "categoria": "economia",
@@ -339,7 +378,7 @@
       "destacada": false,
       "tema": "empobrecimiento",
       "fecha": "Fri, 16 Oct 2026 07:33:51 +0200",
-      "id": 26
+      "id": 29
     },
     {
       "categoria": "economia",
@@ -352,7 +391,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 16 Oct 2026 01:10:32 +0200",
-      "id": 27
+      "id": 30
     },
     {
       "categoria": "transporte",
@@ -365,7 +404,7 @@
       "destacada": false,
       "tema": "periodista",
       "fecha": "Thu, 15 Oct 2026 22:52:30 +0200",
-      "id": 28
+      "id": 31
     },
     {
       "categoria": "economia",
@@ -378,7 +417,7 @@
       "destacada": false,
       "tema": "sanciona",
       "fecha": "Thu, 15 Oct 2026 20:43:44 +0200",
-      "id": 29
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -391,7 +430,33 @@
       "destacada": false,
       "tema": "votan",
       "fecha": "Thu, 15 Oct 2026 20:22:31 +0200",
-      "id": 30
+      "id": 33
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 12:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481103.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Fri, 16 Oct 2026 12:00:00 -0400",
+      "id": 34
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Barrio adentro",
+      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481101.html",
+      "destacada": false,
+      "tema": "barrio",
+      "fecha": "Fri, 16 Oct 2026 11:30:00 -0400",
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -404,7 +469,7 @@
       "destacada": false,
       "tema": "anuncia",
       "fecha": "Fri, 16 Oct 2026 11:13:47 -0400",
-      "id": 31
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -417,46 +482,20 @@
       "destacada": false,
       "tema": "futuro",
       "fecha": "Fri, 16 Oct 2026 10:00:00 -0400",
-      "id": 32
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Martinoticias AM",
-      "resumen": "Revista informativa con los últimos acontecimientos ocurridos en Cuba y el mundo. Con entrevistas y temas de actualidad relacionados a la política, la economía y de interés general.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481098.html",
-      "destacada": false,
-      "tema": "martinoticias",
-      "fecha": "Fri, 16 Oct 2026 08:00:00 -0400",
-      "id": 33
+      "id": 37
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba Habla: \"El socialismo ya está caducado y el comunismo también”",
-      "resumen": "Desde la capital cubana, ciudadana asegura que con las reformas del régimen el país no va a mejorar “… para nada”.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba suma otra victoria y mantiene su paso perfecto en los Panamericanos de Béisbol 5",
+      "resumen": "Las selecciones cubanas de Béisbol5, de mayores y juvenil, sumaron hoy dos victorias cada una en los campeonatos panamericanos de Barquisimeto, Venezuela, para conservar sus invictos y confirmar sus aspiraciones de protagonismo continental. The post Cuba suma otra victoria y mantiene su paso perfect",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-el-socialismo-ya-est%c3%a1-caducado-y-el-comunismo-tambi%c3%a9n/481345.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/16/cuba-suma-otra-victoria-y-mantiene-su-paso-perfecto-en-los-panamericanos-de-beisbol-5/",
       "destacada": false,
-      "tema": "habla",
-      "fecha": "Fri, 16 Oct 2026 07:00:00 -0400",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481095.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Fri, 16 Oct 2026 00:00:30 -0400",
-      "id": 35
+      "tema": "victoria",
+      "fecha": "Fri, 16 Oct 2026 15:25:19 +0000",
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -469,7 +508,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Fri, 16 Oct 2026 13:41:50 +0000",
-      "id": 36
+      "id": 39
     },
     {
       "categoria": "salud",
@@ -482,20 +521,7 @@
       "destacada": false,
       "tema": "quita",
       "fecha": "Fri, 16 Oct 2026 05:06:36 +0000",
-      "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Tres siglos, tres décadas y tres años: Matanzas está de cumpleaños",
-      "resumen": "Pero Matanzas también es conocida internacionalmente como La Atenas de Cuba por su ejercicio cultural, que se remonta a siglos pasados y se mantiene hoy. Así son indiscutibles el virtuosismo en la música y la danza: cuna del danzón y baluarte de la rumba. The post Tres siglos, tres décadas y tres añ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/15/tres-siglos-tres-decadas-y-tres-anos-matanzas-esta-de-cumpleanos/",
-      "destacada": false,
-      "tema": "siglos",
-      "fecha": "Fri, 16 Oct 2026 02:41:47 +0000",
-      "id": 38
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -508,7 +534,7 @@
       "destacada": false,
       "tema": "demócrata",
       "fecha": "Fri, 16 Oct 26 16:26:00 +0200",
-      "id": 39
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -521,7 +547,7 @@
       "destacada": false,
       "tema": "oportunidad",
       "fecha": "Fri, 16 Oct 26 16:22:00 +0200",
-      "id": 40
+      "id": 42
     },
     {
       "categoria": "energia",
@@ -534,7 +560,7 @@
       "destacada": false,
       "tema": "ocurre",
       "fecha": "Fri, 16 Oct 26 15:10:00 +0200",
-      "id": 41
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -547,7 +573,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Fri, 16 Oct 26 13:29:00 +0200",
-      "id": 42
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -560,7 +586,7 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Fri, 16 Oct 26 13:00:00 +0200",
-      "id": 43
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -573,7 +599,7 @@
       "destacada": false,
       "tema": "cuban",
       "fecha": "Fri, 16 Oct 26 08:21:00 +0200",
-      "id": 44
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -586,7 +612,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Fri, 16 Oct 26 08:20:00 +0200",
-      "id": 45
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -599,7 +625,7 @@
       "destacada": false,
       "tema": "excusa",
       "fecha": "Fri, 16 Oct 26 08:19:00 +0200",
-      "id": 46
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -612,7 +638,7 @@
       "destacada": false,
       "tema": "esconde",
       "fecha": "Fri, 16 Oct 26 08:19:00 +0200",
-      "id": 47
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -625,20 +651,7 @@
       "destacada": false,
       "tema": "sindicatos",
       "fecha": "Fri, 16 Oct 26 08:03:00 +0200",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://actualidad.rt.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "VIDEO: Ambienta la fábrica de 'Chucky' y se convierte en un polémico fenómeno viral",
-      "resumen": "Una casa de familia en Ciudad de México fue convertida por sus dueños en la fábrica de 'Chucky, el muñeco diabólico'. La recreación del escenario se transformó en un fenómeno viral en redes sociales y desató multitudinarias filas de aficionados para hacerse fotos en el curioso lugar. Sin embargo, el",
-      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad2225059bf5b2f677f10d2.jpg",
-      "enlace_original": "https://actualidad-rt.com/viral/632783-video-ambienta-fabrica-chucky-fenomeno-viral?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "destacada": false,
-      "tema": "video",
-      "fecha": "Fri, 16 Oct 2026 14:12:20 +0000",
-      "id": 49
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -651,7 +664,7 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Fri, 16 Oct 2026 14:05:50 +0000",
-      "id": 50
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -664,7 +677,7 @@
       "destacada": false,
       "tema": "celebran",
       "fecha": "Fri, 16 Oct 2026 13:09:03 +0000",
-      "id": 51
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -677,7 +690,7 @@
       "destacada": false,
       "tema": "premian",
       "fecha": "Fri, 16 Oct 2026 13:07:49 +0000",
-      "id": 52
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -690,7 +703,7 @@
       "destacada": false,
       "tema": "piratas",
       "fecha": "Fri, 16 Oct 2026 14:31:35 +0000",
-      "id": 53
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -703,7 +716,7 @@
       "destacada": false,
       "tema": "atención",
       "fecha": "Thu, 15 Oct 2026 19:58:35 +0000",
-      "id": 54
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -716,7 +729,7 @@
       "destacada": false,
       "tema": "comenzarán",
       "fecha": "Thu, 15 Oct 2026 17:56:05 +0000",
-      "id": 55
+      "id": 56
     },
     {
       "categoria": "politica",
@@ -729,7 +742,20 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 15 Oct 2026 17:42:16 +0000",
-      "id": 56
+      "id": 57
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "De acusado a fiscal: Fidel y el alegato que estremeció la historia de Cuba",
+      "resumen": "El 16 de octubre de 1953 no fue una jornada ordinaria en los anales del derecho patrio, sino la fecha en que una pequeña sala del Hospital Civil Saturnino Lora, en Santiago de Cuba, devino escenario de un juicio histórico. Allí, despojado de las garantías procesales más elementales y bajo un cerco m",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/16/fidel-alegato-historia-cuba/",
+      "destacada": false,
+      "tema": "acusado",
+      "fecha": "Fri, 16 Oct 2026 12:00:00 +0000",
+      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -742,7 +768,7 @@
       "destacada": false,
       "tema": "archivos",
       "fecha": "Fri, 16 Oct 2026 10:40:00 GMT",
-      "id": 57
+      "id": 59
     },
     {
       "categoria": "economia",
@@ -755,7 +781,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 16 Oct 2026 10:03:00 GMT",
-      "id": 58
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -768,7 +794,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Thu, 15 Oct 2026 22:00:00 GMT",
-      "id": 59
+      "id": 61
     },
     {
       "categoria": "sociedad",
@@ -781,7 +807,7 @@
       "destacada": false,
       "tema": "recuerdos",
       "fecha": "Thu, 15 Oct 2026 17:30:00 GMT",
-      "id": 60
+      "id": 62
     },
     {
       "categoria": "economia",
@@ -794,7 +820,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "id": 61
+      "id": 63
     },
     {
       "categoria": "sociedad",
@@ -807,7 +833,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Thu, 15 Oct 2026 09:15:00 GMT",
-      "id": 62
+      "id": 64
     },
     {
       "categoria": "sociedad",
@@ -820,7 +846,7 @@
       "destacada": false,
       "tema": "podrán",
       "fecha": "Wed, 14 Oct 2026 22:15:00 GMT",
-      "id": 63
+      "id": 65
     },
     {
       "categoria": "sociedad",
@@ -833,7 +859,7 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Wed, 14 Oct 2026 19:30:00 GMT",
-      "id": 64
+      "id": 66
     }
   ]
 }
