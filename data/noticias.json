@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-16",
-  "hora": "19:19",
-  "total": 64,
+  "hora": "21:16",
+  "total": 73,
   "noticias": [
     {
       "categoria": "transporte",
@@ -108,16 +108,16 @@
       "id": 8
     },
     {
-      "categoria": "energia",
+      "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Impulsan desarrollo de energía eólica desde oriente cubano",
-      "resumen": "Holguín, Cuba, 16 oct (Prensa Latina) Especialistas y académicos evaluaron hoy en esta provincia oriental los avances del proyecto para potenciar la resiliencia tecnológica eólica y diversificar la matriz energética nacional. The post Impulsan desarrollo de energía eólica desde oriente cubano first ",
+      "titulo": "Rinden homenaje a los 32 combatientes cubanos caídos en Venezuela",
+      "resumen": "Caracas, 16 oct (Prensa Latina) La Cátedra Libre Fidel Castro, capítulo Acarigua, estado de Portuguesa, rindió homenaje hoy a los venezolanos y 32 combatientes cubanos caídos durante la agresión de tropas estadunidenses a Venezuela, el 3 de enero de 2026. The post Rinden homenaje a los 32 combatient",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/16/impulsan-desarrollo-de-energia-eolica-desde-oriente-cubano/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/16/rinden-homenaje-a-los-32-combatientes-cubanos-caidos-en-venezuela/",
       "destacada": false,
-      "tema": "impulsan",
-      "fecha": "Fri, 16 Oct 2026 18:41:23 +0000",
+      "tema": "rinden",
+      "fecha": "Fri, 16 Oct 2026 20:08:06 +0000",
       "id": 9
     },
     {
@@ -212,43 +212,108 @@
       "id": 16
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.14ymedio.com",
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La Cancillería cubana, muy preocupada por la campaña de EE UU contra la resolución sobre el embargo en la ONU",
-      "resumen": "El vicecanciller acusa a Marco Rubio de \"intimidar, chantajear y prometer zanahorias a Gobiernos de todas las latitudes”.",
-      "imagen_url": "https://static.14ymedio.com/clip/d9671576-4886-4d9c-a92b-8950101a755f_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/cancilleria-cubana-preocupada-campana-ee_1_1131965.html",
+      "titulo": "Entregan premio de la AHS a Frei Betto, quien recomendara a los cubanos freír cáscaras de papas",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e209395-s27061-nid343041-entregan-premio-ahs-frei-betto-quien-recomendara",
       "destacada": false,
-      "tema": "cancillería",
-      "fecha": "Thu, 15 Oct 2026 10:13:55 +0000",
+      "tema": "entregan",
+      "fecha": "Fri, 16 Oct 2026 21:57:04 +0200",
       "id": 17
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "«Me asaltaron, perdí los dientes»: Ray Fernández denuncia violento ataque en La Habana",
+      "titulo": "Rusia entrega a Cuba más de 750 toneladas de aceite para personas vulnerables",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e208574-s27061-nid343040-me-asaltaron-perdi-dientes-ray-fernandez-denuncia",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e199894-s27061-nid343057-rusia-entrega-cuba-750-toneladas-aceite-personas",
       "destacada": false,
-      "tema": "asaltaron",
-      "fecha": "Fri, 16 Oct 2026 19:37:31 +0200",
+      "tema": "rusia",
+      "fecha": "Fri, 16 Oct 2026 21:53:17 +0200",
       "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba: 67 años de promesas incumplidas",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u208253-e192519-s27068-nid343059-cuba-67-anos-promesas-incumplidas",
+      "destacada": false,
+      "tema": "promesas",
+      "fecha": "Fri, 16 Oct 2026 21:46:08 +0200",
+      "id": 19
     },
     {
       "categoria": "economia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Padre Alberto Reyes: «Decir la verdad tiene un precio en Cuba, pero ¿cuánto cuesta callar?»",
+      "titulo": "OFAC da menos de 30 días para cerrar operaciones extranjeras con el Banco Internacional de Comercio de Cuba",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e192519-s27061-nid343037-padre-alberto-reyes-decir-verdad-tiene-precio-cuba",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e208574-s27061-nid343058-ofac-da-menos-30-dias-cerrar-operaciones-extranjeras",
       "destacada": false,
-      "tema": "padre",
-      "fecha": "Fri, 16 Oct 2026 19:30:02 +0200",
-      "id": 19
+      "tema": "menos",
+      "fecha": "Fri, 16 Oct 2026 21:35:42 +0200",
+      "id": 20
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "España prevé 100,000 euros para nutrición, higiene y energía renovable de niños y jóvenes en Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e208574-s27061-nid343056-espana-preve-100000-euros-nutricion-higiene-energia",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Fri, 16 Oct 2026 21:22:23 +0200",
+      "id": 21
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Economista Elías Amor advierte que la inflación en Cuba podría superar el 40% a fin de año",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e192519-s27061-nid342980-economista-elias-amor-advierte-inflacion-podria",
+      "destacada": false,
+      "tema": "economista",
+      "fecha": "Fri, 16 Oct 2026 21:15:40 +0200",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Me sacrifiqué por la Revolución y nadie se acuerda de mí»: Leyenda del béisbol cubano Braudilio Vinent denuncia abandono y miseria",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e43231-s27061-nid343009-me-sacrifique-revolucion-nadie-acuerda-mi-leyenda",
+      "destacada": false,
+      "tema": "sacrifiqué",
+      "fecha": "Fri, 16 Oct 2026 21:15:37 +0200",
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Vic Mellor dice que recurrió a la IA para preparar su plan de comunicación sobre Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e208574-s27061-nid343050-vic-mellor-dice-recurrio-ia-preparar-plan",
+      "destacada": false,
+      "tema": "mellor",
+      "fecha": "Fri, 16 Oct 2026 21:11:48 +0200",
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -261,7 +326,7 @@
       "destacada": false,
       "tema": "bayamo",
       "fecha": "Fri, 16 Oct 2026 18:54:01 +0000",
-      "id": 20
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -274,7 +339,7 @@
       "destacada": false,
       "tema": "primer",
       "fecha": "Fri, 16 Oct 2026 17:26:08 +0000",
-      "id": 21
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -287,7 +352,7 @@
       "destacada": false,
       "tema": "recuperación",
       "fecha": "Fri, 16 Oct 2026 14:28:32 +0000",
-      "id": 22
+      "id": 27
     },
     {
       "categoria": "politica",
@@ -300,7 +365,20 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Fri, 16 Oct 2026 11:44:39 +0000",
-      "id": 23
+      "id": 28
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Aceite de Rusia y arroz de Japón: donaciones para una Cuba en ruinas",
+      "resumen": "#Rusia envía aceite, #Japón dona arroz, #Bahamas medicamentos y #China entrega piezas para bicicletas. Las #donaciones intentan paliar la escasez de productos básicos en una #Cuba sumida en la crisis total.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792184508_69422.html",
+      "destacada": false,
+      "tema": "aceite",
+      "fecha": "Fri, 16 Oct 2026 23:01:48 +0200",
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -313,7 +391,7 @@
       "destacada": false,
       "tema": "emplaza",
       "fecha": "Fri, 16 Oct 2026 20:30:58 +0200",
-      "id": 24
+      "id": 30
     },
     {
       "categoria": "energia",
@@ -326,7 +404,7 @@
       "destacada": false,
       "tema": "incendio",
       "fecha": "Fri, 16 Oct 2026 19:03:00 +0200",
-      "id": 25
+      "id": 31
     },
     {
       "categoria": "energia",
@@ -339,7 +417,7 @@
       "destacada": false,
       "tema": "incendio",
       "fecha": "Fri, 16 Oct 2026 15:36:34 +0200",
-      "id": 26
+      "id": 32
     },
     {
       "categoria": "transporte",
@@ -352,7 +430,7 @@
       "destacada": false,
       "tema": "científicos",
       "fecha": "Fri, 16 Oct 2026 14:38:46 +0200",
-      "id": 27
+      "id": 33
     },
     {
       "categoria": "economia",
@@ -365,7 +443,7 @@
       "destacada": false,
       "tema": "santiago",
       "fecha": "Fri, 16 Oct 2026 13:49:16 +0200",
-      "id": 28
+      "id": 34
     },
     {
       "categoria": "economia",
@@ -378,7 +456,7 @@
       "destacada": false,
       "tema": "sudáfrica",
       "fecha": "Fri, 16 Oct 2026 13:14:31 +0200",
-      "id": 29
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -391,20 +469,59 @@
       "destacada": false,
       "tema": "plazo",
       "fecha": "Fri, 16 Oct 2026 11:21:06 +0200",
-      "id": 30
+      "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 5:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481127.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Fri, 16 Oct 2026 17:00:30 -0400",
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al día",
+      "resumen": "Entrevista a Mario Díaz-Balart: Inmigración en EEUU, Cuba, Venezuela y Nicaragua.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/482164.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Fri, 16 Oct 2026 16:46:08 -0400",
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "“Apoyen una Cuba libre”: EEUU insta a rechazar la resolución del régimen en la ONU",
+      "resumen": "“Votar a favor de la resolución de Cuba en la ONU supone recompensar a un régimen hostil que pone en peligro a nuestra nación y a nuestro hemisferio”, afirmó Segura en una publicación en redes sociales.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/apoyen-una-cuba-libre-eeuu-insta-a-rechazar-la-resoluci%c3%b3n-del-r%c3%a9gimen-en-la-onu/482159.html",
+      "destacada": false,
+      "tema": "apoyen",
+      "fecha": "Fri, 16 Oct 2026 16:10:38 -0400",
+      "id": 39
     },
     {
       "categoria": "economia",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El empobrecimiento de los cubanos ya no basta para contener la inflación, advierte Monreal",
-      "resumen": "Monreal cuestiona la falta de un plan para frenar la #inflación en #Cuba y la política del régimen de compresión de los salarios y las pensiones como instrumento antiinflacionario.",
+      "titulo": "Cuba rechaza nexo con combustible confiscado, mientras EEUU mantiene postura de presionar al régimen para forzar una transición democrática",
+      "resumen": "EEUU anunció la histórica incautación de 90 cargamentos de combustible valorados en 2.8 millones de dólares, destinados a evadir sanciones sobre el régimen cubano. Mientras La Habana rechaza estas acciones, Washington mantiene su postura de presionar al régimen para forzar una salida democrática.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1792128831_69411.html",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-rechaza-nexo-con-combustible-confiscado-mientras-eeuu-postura-de-presionar-al-r%c3%a9gimen-para-forzar-una-transici%c3%b3n-democr%c3%a1tica/482158.html",
       "destacada": false,
-      "tema": "empobrecimiento",
-      "fecha": "Fri, 16 Oct 2026 07:33:51 +0200",
-      "id": 31
+      "tema": "rechaza",
+      "fecha": "Fri, 16 Oct 2026 16:07:58 -0400",
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -413,37 +530,37 @@
       "titulo": "Las noticias como son",
       "resumen": "José Luis Ramos con los periodistas Luz Escobar y Emilio Almaguer, analizan el empobrecimiento de los cubanos en medio de la crisis económica.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/las-noticias-como-son/482152.html",
+      "enlace_original": "https://www.martinoticias.com/a/las-noticias-como-son/482157.html",
       "destacada": false,
       "tema": "noticias",
-      "fecha": "Fri, 16 Oct 2026 15:20:42 -0400",
-      "id": 32
+      "fecha": "Fri, 16 Oct 2026 16:03:23 -0400",
+      "id": 41
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Alas Tensas cumple diez años de periodismo independiente y defensa de los derechos de las mujeres cubanas",
-      "resumen": "Su directora, Ileana Álvarez, recordó los desafíos enfrentados desde su fundación y reafirmó su compromiso de continuar trabajando por las mujeres dentro de la isla.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Hoy en la Mesa Redonda: Asociación Hermanos Saíz: 40 años en defensa del arte joven",
+      "resumen": "La Asociación Hermanos Saíz celebrará sus 40 años en la emisión de este viernes de la Mesa Redonda, dedicada a repasar la historia, los aportes y los desafíos de una organización esencial en la promoción y defensa del arte joven cubano. The post Hoy en la Mesa Redonda: Asociación Hermanos Saíz: 40 a",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/alas-tensas-cumple-diez-a%c3%b1os-de-periodismo-independiente-y-defensa-de-los-derechos-de-las-mujeres-cubanas/482147.html",
+      "enlace_original": "http://mesaredonda.cubadebate.cu/noticias/2026/10/16/hoy-en-la-mesa-redonda-asociacion-hermanos-saiz-40-anos-en-defensa-del-arte-joven/",
       "destacada": false,
-      "tema": "tensas",
-      "fecha": "Fri, 16 Oct 2026 14:13:53 -0400",
-      "id": 33
+      "tema": "redonda",
+      "fecha": "Fri, 16 Oct 2026 20:45:13 +0000",
+      "id": 42
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
+      "categoria": "transporte",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Convoca el Ministerio de Educación a consulta pública del anteproyecto de Ley de Educación",
+      "resumen": "El Ministerio de Educación de Cuba llamó a la población a participar en la consulta del anteproyecto de Ley de Educación, cuyos criterios y sugerencias podrán enviarse al correo ley.educacion@mined.gob.cu. The post Convoca el Ministerio de Educación a consulta pública del anteproyecto de Ley de Educ",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481106.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/16/convoca-el-ministerio-de-educacion-a-consulta-publica-del-anteproyecto-de-ley-de-educacion/",
       "destacada": false,
-      "tema": "",
-      "fecha": "Fri, 16 Oct 2026 14:00:00 -0400",
-      "id": 34
+      "tema": "convoca",
+      "fecha": "Fri, 16 Oct 2026 19:28:55 +0000",
+      "id": 43
     },
     {
       "categoria": "salud",
@@ -456,7 +573,7 @@
       "destacada": false,
       "tema": "bahamas",
       "fecha": "Fri, 16 Oct 2026 19:18:51 +0000",
-      "id": 35
+      "id": 44
     },
     {
       "categoria": "economia",
@@ -469,7 +586,7 @@
       "destacada": false,
       "tema": "destacan",
       "fecha": "Fri, 16 Oct 2026 19:05:43 +0000",
-      "id": 36
+      "id": 45
     },
     {
       "categoria": "politica",
@@ -482,7 +599,7 @@
       "destacada": false,
       "tema": "uruguay",
       "fecha": "Fri, 16 Oct 2026 18:08:15 +0000",
-      "id": 37
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -495,7 +612,7 @@
       "destacada": false,
       "tema": "denunció",
       "fecha": "Fri, 16 Oct 2026 17:48:01 +0000",
-      "id": 38
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -508,7 +625,7 @@
       "destacada": false,
       "tema": "victoria",
       "fecha": "Fri, 16 Oct 2026 15:25:19 +0000",
-      "id": 39
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -521,7 +638,7 @@
       "destacada": false,
       "tema": "demócrata",
       "fecha": "Fri, 16 Oct 26 16:26:00 +0200",
-      "id": 40
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -534,7 +651,7 @@
       "destacada": false,
       "tema": "oportunidad",
       "fecha": "Fri, 16 Oct 26 16:22:00 +0200",
-      "id": 41
+      "id": 50
     },
     {
       "categoria": "energia",
@@ -547,7 +664,7 @@
       "destacada": false,
       "tema": "ocurre",
       "fecha": "Fri, 16 Oct 26 15:10:00 +0200",
-      "id": 42
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -560,7 +677,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Fri, 16 Oct 26 13:29:00 +0200",
-      "id": 43
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -573,7 +690,7 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Fri, 16 Oct 26 13:00:00 +0200",
-      "id": 44
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -586,7 +703,7 @@
       "destacada": false,
       "tema": "cuban",
       "fecha": "Fri, 16 Oct 26 08:21:00 +0200",
-      "id": 45
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -599,7 +716,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Fri, 16 Oct 26 08:20:00 +0200",
-      "id": 46
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -612,7 +729,7 @@
       "destacada": false,
       "tema": "excusa",
       "fecha": "Fri, 16 Oct 26 08:19:00 +0200",
-      "id": 47
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -625,7 +742,7 @@
       "destacada": false,
       "tema": "esconde",
       "fecha": "Fri, 16 Oct 26 08:19:00 +0200",
-      "id": 48
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -638,7 +755,7 @@
       "destacada": false,
       "tema": "sindicatos",
       "fecha": "Fri, 16 Oct 26 08:03:00 +0200",
-      "id": 49
+      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -651,7 +768,7 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Fri, 16 Oct 2026 14:05:50 +0000",
-      "id": 50
+      "id": 59
     },
     {
       "categoria": "sociedad",
@@ -664,7 +781,7 @@
       "destacada": false,
       "tema": "celebran",
       "fecha": "Fri, 16 Oct 2026 13:09:03 +0000",
-      "id": 51
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -677,7 +794,7 @@
       "destacada": false,
       "tema": "premian",
       "fecha": "Fri, 16 Oct 2026 13:07:49 +0000",
-      "id": 52
+      "id": 61
     },
     {
       "categoria": "sociedad",
@@ -690,7 +807,7 @@
       "destacada": false,
       "tema": "piratas",
       "fecha": "Fri, 16 Oct 2026 14:31:35 +0000",
-      "id": 53
+      "id": 62
     },
     {
       "categoria": "sociedad",
@@ -703,7 +820,7 @@
       "destacada": false,
       "tema": "atención",
       "fecha": "Thu, 15 Oct 2026 19:58:35 +0000",
-      "id": 54
+      "id": 63
     },
     {
       "categoria": "sociedad",
@@ -716,7 +833,7 @@
       "destacada": false,
       "tema": "comenzarán",
       "fecha": "Thu, 15 Oct 2026 17:56:05 +0000",
-      "id": 55
+      "id": 64
     },
     {
       "categoria": "politica",
@@ -729,7 +846,20 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 15 Oct 2026 17:42:16 +0000",
-      "id": 56
+      "id": 65
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "De acusado a fiscal: Fidel y el alegato que estremeció la historia de Cuba",
+      "resumen": "El 16 de octubre de 1953 no fue una jornada ordinaria en los anales del derecho patrio, sino la fecha en que una pequeña sala del Hospital Civil Saturnino Lora, en Santiago de Cuba, devino escenario de un juicio histórico. Allí, despojado de las garantías procesales más elementales y bajo un cerco m",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/16/fidel-alegato-historia-cuba/",
+      "destacada": false,
+      "tema": "acusado",
+      "fecha": "Fri, 16 Oct 2026 12:00:00 +0000",
+      "id": 66
     },
     {
       "categoria": "sociedad",
@@ -741,8 +871,8 @@
       "enlace_original": "https://eltoque.com/los-archivos-de-la-embajada-cuanto-cobra-un-diplomatico-cubano-en-estados-unidos",
       "destacada": false,
       "tema": "archivos",
-      "fecha": "Fri, 16 Oct 2026 10:40:00 GMT",
-      "id": 57
+      "fecha": "Fri, 16 Oct 2026 21:01:32 GMT",
+      "id": 67
     },
     {
       "categoria": "economia",
@@ -755,7 +885,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 16 Oct 2026 10:03:00 GMT",
-      "id": 58
+      "id": 68
     },
     {
       "categoria": "sociedad",
@@ -768,7 +898,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Thu, 15 Oct 2026 22:00:00 GMT",
-      "id": 59
+      "id": 69
     },
     {
       "categoria": "sociedad",
@@ -781,7 +911,7 @@
       "destacada": false,
       "tema": "recuerdos",
       "fecha": "Thu, 15 Oct 2026 17:30:00 GMT",
-      "id": 60
+      "id": 70
     },
     {
       "categoria": "economia",
@@ -794,7 +924,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "id": 61
+      "id": 71
     },
     {
       "categoria": "sociedad",
@@ -807,7 +937,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Thu, 15 Oct 2026 09:15:00 GMT",
-      "id": 62
+      "id": 72
     },
     {
       "categoria": "sociedad",
@@ -820,20 +950,7 @@
       "destacada": false,
       "tema": "podrán",
       "fecha": "Wed, 14 Oct 2026 22:15:00 GMT",
-      "id": 63
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Fiscalía pide hasta diez años de cárcel para disidentes de Granma por videos críticos, chats y recargas de celular",
-      "resumen": "La Fiscalía de Granma pide entre cinco y diez años de cárcel para cuatro acusados de estar vinculados a la organización Cuba Primero por videos, mensajes de WhatsApp y recargas telefónicas.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/09_10_2026_cuba_primero_granma_presos_politicos_cuba_740f70a991.jpg",
-      "enlace_original": "https://eltoque.com/fiscalia-pide-carcel-para-disidentes-de-granma",
-      "destacada": false,
-      "tema": "fiscalía",
-      "fecha": "Wed, 14 Oct 2026 19:30:00 GMT",
-      "id": 64
+      "id": 73
     }
   ]
 }
