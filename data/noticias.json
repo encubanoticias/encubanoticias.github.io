@@ -1,6 +1,6 @@
 {
   "fecha": "2026-10-17",
-  "hora": "16:12",
+  "hora": "17:12",
   "total": 67,
   "noticias": [
     {
@@ -108,6 +108,19 @@
       "id": 8
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba llama a un orden internacional más justo para eliminar pobreza",
+      "resumen": "La Habana, 17 oct (Prensa Latina) El canciller cubano, Bruno Rodríguez, llamó hoy a crear un nuevo orden internacional justo, equitativo y democrático que proporcione bien común y prosperidad a todas las personas, con motivo del Día Internacional para la Erradicación de la Pobreza. The post Cuba lla",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/17/cuba-llama-a-un-orden-internacional-mas-justo-para-eliminar-pobreza/",
+      "destacada": false,
+      "tema": "llama",
+      "fecha": "Sat, 17 Oct 2026 17:00:36 +0000",
+      "id": 9
+    },
+    {
       "categoria": "politica",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
@@ -118,33 +131,7 @@
       "destacada": false,
       "tema": "presidente",
       "fecha": "Sat, 17 Oct 2026 15:50:27 +0000",
-      "id": 9
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba agradece a Rusia y Japón por donaciones a través del PMA",
-      "resumen": "La Habana, 17 oct (Prensa Latina) El canciller de Cuba, Bruno Rodríguez, agradeció hoy a los gobiernos de Rusia y Japón por las donaciones realizadas a través del Programa Mundial de Alimentos (PMA) de 750 toneladas de aceite vegetal y 425 de arroz, respectivamente. The post Cuba agradece a Rusia y ",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/17/cuba-agradece-a-rusia-y-japon-por-donaciones-a-traves-del-pma/",
-      "destacada": false,
-      "tema": "agradece",
-      "fecha": "Sat, 17 Oct 2026 15:18:50 +0000",
       "id": 10
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Abel Prieto denuncia en México proyecto de asfixia contra Cuba",
-      "resumen": "Ciudad de México, 17 oct (Prensa Latina) Cuba está sometida “a un proyecto de asfixia” por el Gobierno de Estados Unidos, denunció el presidente de Casa de las Américas, Abel Prieto, en declaraciones difundidas hoy por el diario mexicano La Jornada. The post Abel Prieto denuncia en México proyecto d",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/17/abel-prieto-denuncia-en-mexico-proyecto-de-asfixia-contra-cuba/",
-      "destacada": false,
-      "tema": "prieto",
-      "fecha": "Sat, 17 Oct 2026 15:12:49 +0000",
-      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -157,6 +144,19 @@
       "destacada": false,
       "tema": "espía",
       "fecha": "Sat, 17 Oct 2026 12:56:20 +0000",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Las aprobaciones de residencia bajo la Ley de Ajuste Cubano caen un 99,7% en los últimos dos años",
+      "resumen": "La tasa de aprobación pasa del 98,7% en 2024 al 23,7% en 2026, mientras los casos pendientes superan los 342.000",
+      "imagen_url": "https://static.14ymedio.com/clip/a2f680cf-108b-46aa-b1dd-e3ddd6998f1f_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/migracion/aprobaciones-residencia-ley-ajuste-cubano_1_1132080.html",
+      "destacada": false,
+      "tema": "aprobaciones",
+      "fecha": "Sat, 17 Oct 2026 16:26:26 +0000",
       "id": 12
     },
     {
@@ -212,16 +212,16 @@
       "id": 16
     },
     {
-      "categoria": "economia",
-      "fuente": "https://www.14ymedio.com",
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El régimen cubano afirma que su Banco Internacional de Comercio es \"legítimo\" tras sanción de EE UU",
-      "resumen": "Bruno Rodríguez sostuvo que las medidas de Washington pretenden “cerrar toda válvula” a la economía de la Isla",
-      "imagen_url": "https://static.14ymedio.com/clip/38fa9ae1-8fe2-45a6-b5d7-beb1da3ce7e4_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/regimen-cubano-afirma-banco-internacional_1_1132007.html",
+      "titulo": "Arrestan a tres cubanos acusados de robar una embarcación de un complejo residencial en North Miami",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e129488-s27061-nid343114-arrestan-tres-cubanos-acusados-robarse-bote-complejo",
       "destacada": false,
-      "tema": "régimen",
-      "fecha": "Fri, 16 Oct 2026 10:31:32 +0000",
+      "tema": "arrestan",
+      "fecha": "Sat, 17 Oct 2026 17:39:26 +0200",
       "id": 17
     },
     {
@@ -303,19 +303,6 @@
       "id": 23
     },
     {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Arrestan a conductor cubano de una aplicación de transporte tras denuncia de adolescente en Hialeah",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e129488-s27061-nid343109-arrestan-conductor-cubano-aplicacion-transporte-tras",
-      "destacada": false,
-      "tema": "arrestan",
-      "fecha": "Sat, 17 Oct 2026 13:38:22 +0200",
-      "id": 24
-    },
-    {
       "categoria": "sociedad",
       "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "alternativa",
@@ -326,7 +313,7 @@
       "destacada": false,
       "tema": "bayamo",
       "fecha": "Fri, 16 Oct 2026 18:54:01 +0000",
-      "id": 25
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -339,7 +326,7 @@
       "destacada": false,
       "tema": "primer",
       "fecha": "Fri, 16 Oct 2026 17:26:08 +0000",
-      "id": 26
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -352,7 +339,7 @@
       "destacada": false,
       "tema": "recuperación",
       "fecha": "Fri, 16 Oct 2026 14:28:32 +0000",
-      "id": 27
+      "id": 26
     },
     {
       "categoria": "politica",
@@ -365,6 +352,19 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Fri, 16 Oct 2026 11:44:39 +0000",
+      "id": 27
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubanos protestan por los apagones en Granma y exigen libertad para los presos políticos en Holguín",
+      "resumen": "#SOSCuba: Vecinos de un barrio en Vertientes, #Camagüey, recuperan el servicio eléctrico después de casi dos meses tras encarar a las autoridades. Residentes en Santa Rita, Granma, protestan en la calle en medio de un apagón. Cubanos lanzan octavillas en #Holguín para pedir libertad para los presos ",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792256766_69429.html",
+      "destacada": false,
+      "tema": "cubanos",
+      "fecha": "Sat, 17 Oct 2026 19:06:06 +0200",
       "id": 28
     },
     {
@@ -472,69 +472,56 @@
       "id": 36
     },
     {
-      "categoria": "energia",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Incendio en Santa Cruz, nueva avería en Felton y la Guiteras ausente: el deplorable panorama eléctrico de Cuba",
-      "resumen": "Una nueva avería en la central de Felton, tras el #incendio en la Ernesto Guevara y la salida de la Guiteras, tensa la crisis eléctrica en #Cuba. La generación disponible apenas supera los 500MW.",
+      "titulo": "A 20 Años del Comité Uruguayo por la Democracia en Cuba - Entrevista a Martín Elgue",
+      "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792170180_69420.html",
+      "enlace_original": "https://www.martinoticias.com/a/481872.html",
       "destacada": false,
-      "tema": "incendio",
-      "fecha": "Fri, 16 Oct 2026 19:03:00 +0200",
+      "tema": "comité",
+      "fecha": "Sat, 17 Oct 2026 12:30:00 -0400",
       "id": 37
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Reunión en el Comité Central en plena arremetida contra cristianos en Cuba",
-      "resumen": "Mientras el régimen cubano presenta como un gesto habitual de diálogo su reunión con líderes religiosos, en la isla se multiplican las detenciones, sentencias y acusaciones contra pastores, creyentes y activistas cristianos.",
+      "titulo": "De cara al sol",
+      "resumen": "“De cara al sol” es una tribuna martiana que da voz a quienes bajo el régimen dictatorial cubano. Para Cuba que sufre, nuestra primera palabra; para quienes dentro de Cuba son llevados a oscuras prisiones, el primer pensamiento.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/reuni%c3%b3n-en-el-comit%c3%a9-central-en-plena-arremetida-contra-cristianos-en-cuba/482235.html",
+      "enlace_original": "https://www.martinoticias.com/a/481219.html",
       "destacada": false,
-      "tema": "reunión",
-      "fecha": "Sat, 17 Oct 2026 12:05:36 -0400",
+      "tema": "",
+      "fecha": "Sat, 17 Oct 2026 12:30:00 -0400",
       "id": 38
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 12:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Díaz-Canel asiste al acto por los 40 años de la AHS",
+      "resumen": "Fundada el 18 de octubre de 1986, la organización reúne a jóvenes escritores, artistas, intelectuales y promotores de toda Cuba, menores de 35 años. La campaña de estas cuatro décadas, Alma AHS, ha desplegado una amplia agenda en las diferentes sedes provinciales con gran presencia juvenil y comunit",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481218.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/17/diaz-canel-asiste-al-acto-por-los-40-anos-de-la-ahs/",
       "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Sat, 17 Oct 2026 12:00:00 -0400",
+      "tema": "canel",
+      "fecha": "Sat, 17 Oct 2026 16:55:15 +0000",
       "id": 39
     },
     {
-      "categoria": "economia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Inflación en Cuba amenaza con cerrar el año con índices alarmantes",
-      "resumen": "La inflación en Cuba sigue sin dar tregua y continúa golpeando con fuerza el poder adquisitivo de la población.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/inflaci%c3%b3n-en-cuba-amenaza-con-cerrar-el-a%c3%b1o-con-%c3%adndices-alarmantes-video/482155.html",
-      "destacada": false,
-      "tema": "inflación",
-      "fecha": "Sat, 17 Oct 2026 09:24:44 -0400",
-      "id": 40
-    },
-    {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Abriendo Espacios",
-      "resumen": "Un programa dedicado a conocer la realidad de la violencia de género en Cuba. Una espacio para dar voz a la mujer cubana.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Parque Infantil La Maestranza reabrirá este sábado en La Habana",
+      "resumen": "La Empresa de Gestión del Patrimonio S.A., perteneciente a la Oficina del Historiador de la Ciudad de La Habana, informó que, además de las actividades culturales y los talleres, los infantes podrán recrearse con los equipos inflables, el futbolito, la caja de bateo, los carritos locos, el toro mecá",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481209.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/17/parque-infantil-la-maestranza-reabrira-este-sabado-en-la-habana/",
       "destacada": false,
-      "tema": "abriendo",
-      "fecha": "Sat, 17 Oct 2026 09:00:00 -0400",
-      "id": 41
+      "tema": "parque",
+      "fecha": "Sat, 17 Oct 2026 16:23:00 +0000",
+      "id": 40
     },
     {
       "categoria": "salud",
@@ -547,7 +534,7 @@
       "destacada": false,
       "tema": "científica",
       "fecha": "Sat, 17 Oct 2026 14:42:35 +0000",
-      "id": 42
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -560,7 +547,7 @@
       "destacada": false,
       "tema": "falleció",
       "fecha": "Sat, 17 Oct 2026 13:29:01 +0000",
-      "id": 43
+      "id": 42
     },
     {
       "categoria": "salud",
@@ -573,33 +560,7 @@
       "destacada": false,
       "tema": "ministerio",
       "fecha": "Sat, 17 Oct 2026 13:18:53 +0000",
-      "id": 44
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Ni alerta ni freno: Aclaran especialistas sobre instalación de paneles solares en Cuba",
-      "resumen": "Ante las inquietudes de los foristas a raíz de la publicación en Cubadebate sobre la instalación masiva de paneles solares, la arquitecta Dania González Couret, profesora de la Universidad Tecnológica de La Habana y fundadora de Cuba Solar (Cubasolar), precisó el origen y el alcance de sus declaraci",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/17/ni-alerta-ni-freno-aclaran-especialistas-sobre-instalacion-de-paneles-solares-en-cuba/",
-      "destacada": false,
-      "tema": "alerta",
-      "fecha": "Sat, 17 Oct 2026 09:06:13 +0000",
-      "id": 45
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Díaz-Canel en Zona de Defensa de Arroyo Arenas",
-      "resumen": "De un gran esfuerzo, de estos meses de intenso trabajo que han venido teniendo lugar desde el Consejo de Defensa Nacional hasta los Consejos de Defensa de Zona, habló en la mañana de este viernes, a modo de reconocimiento, el Presidente del Consejo de Defensa Nacional, Miguel Díaz-Canel Bermúdez. Th",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/16/diaz-canel-en-zona-de-defensa-de-arroyo-arenas/",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Sat, 17 Oct 2026 03:30:30 +0000",
-      "id": 46
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -612,7 +573,7 @@
       "destacada": false,
       "tema": "charla",
       "fecha": "Sat, 17 Oct 26 12:36:00 +0200",
-      "id": 47
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -625,7 +586,7 @@
       "destacada": false,
       "tema": "llega",
       "fecha": "Sat, 17 Oct 26 12:06:00 +0200",
-      "id": 48
+      "id": 45
     },
     {
       "categoria": "energia",
@@ -638,7 +599,7 @@
       "destacada": false,
       "tema": "especialista",
       "fecha": "Sat, 17 Oct 26 11:58:00 +0200",
-      "id": 49
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -651,7 +612,7 @@
       "destacada": false,
       "tema": "festival",
       "fecha": "Sat, 17 Oct 26 11:46:00 +0200",
-      "id": 50
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -664,7 +625,7 @@
       "destacada": false,
       "tema": "violaciones",
       "fecha": "Sat, 17 Oct 26 11:44:00 +0200",
-      "id": 51
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -677,7 +638,7 @@
       "destacada": false,
       "tema": "busca",
       "fecha": "Sat, 17 Oct 26 11:37:00 +0200",
-      "id": 52
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -690,7 +651,7 @@
       "destacada": false,
       "tema": "papalotes",
       "fecha": "Sat, 17 Oct 26 11:34:00 +0200",
-      "id": 53
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -703,7 +664,7 @@
       "destacada": false,
       "tema": "combate",
       "fecha": "Sat, 17 Oct 26 11:30:00 +0200",
-      "id": 54
+      "id": 51
     },
     {
       "categoria": "politica",
@@ -716,20 +677,20 @@
       "destacada": false,
       "tema": "forma",
       "fecha": "Sat, 17 Oct 26 11:27:00 +0200",
-      "id": 55
+      "id": 52
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba denuncia maniobra política de EE.UU. en la sede de la ONU",
-      "resumen": "Denunció Cuba amenazas a la paz en Consejo de Seguridad Cubadebate Cuba denunció ante el Consejo de...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125540-cuba-denuncia-maniobra-politica-de-ee-uu-en-la-sede-de-la-onu.jpg?t=1792229175",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261017/125540/125540-cuba-denuncia-maniobra-politica-de-ee-uu-en-la-sede-de-la-onu",
+      "titulo": "Ni alerta ni freno: Aclaran especialistas sobre instalación de paneles solares en Cuba",
+      "resumen": "La radiación solar es bastante homogénea en todo el territorio nacional, recibiéndose un promedio de...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125541-ni-alerta-ni-freno-aclaran-especialistas-sobre-instalacion-de-paneles-solares-en-cuba.jpg?t=1792229241",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261017/125541/125541-ni-alerta-ni-freno-aclaran-especialistas-sobre-instalacion-de-paneles-solares-en-cuba",
       "destacada": false,
-      "tema": "denuncia",
-      "fecha": "Sat, 17 Oct 26 11:24:00 +0200",
-      "id": 56
+      "tema": "alerta",
+      "fecha": "Sat, 17 Oct 26 11:26:00 +0200",
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -742,7 +703,7 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Fri, 16 Oct 2026 14:05:50 +0000",
-      "id": 57
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -755,7 +716,7 @@
       "destacada": false,
       "tema": "celebran",
       "fecha": "Fri, 16 Oct 2026 13:09:03 +0000",
-      "id": 58
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -768,7 +729,7 @@
       "destacada": false,
       "tema": "premian",
       "fecha": "Fri, 16 Oct 2026 13:07:49 +0000",
-      "id": 59
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -781,7 +742,7 @@
       "destacada": false,
       "tema": "piratas",
       "fecha": "Fri, 16 Oct 2026 14:31:35 +0000",
-      "id": 60
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -794,7 +755,7 @@
       "destacada": false,
       "tema": "atención",
       "fecha": "Thu, 15 Oct 2026 19:58:35 +0000",
-      "id": 61
+      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -807,7 +768,7 @@
       "destacada": false,
       "tema": "comenzarán",
       "fecha": "Thu, 15 Oct 2026 17:56:05 +0000",
-      "id": 62
+      "id": 59
     },
     {
       "categoria": "politica",
@@ -820,6 +781,45 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 15 Oct 2026 17:42:16 +0000",
+      "id": 60
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Archivo Girón: María del Carmen, Jusvinza y la vida de una científica cubana",
+      "resumen": "La doctora María del Carmen Domínguez Horta, investigadora del Centro de Ingeniería Genética y Biotecnología (CIGB) de Cuba, fue reconocida con el Premio Mujeres Latinoamericanas en Química 2026, en la categoría Liderazgo en la Industria.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/17/archivo-giron-maria-del-carmen-dominguez/",
+      "destacada": false,
+      "tema": "archivo",
+      "fecha": "Sat, 17 Oct 2026 17:03:14 +0000",
+      "id": 61
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "De acusado a fiscal: Fidel y el alegato que estremeció la historia de Cuba",
+      "resumen": "El 16 de octubre de 1953 no fue una jornada ordinaria en los anales del derecho patrio, sino la fecha en que una pequeña sala del Hospital Civil Saturnino Lora, en Santiago de Cuba, devino escenario de un juicio histórico. Allí, despojado de las garantías procesales más elementales y bajo un cerco m",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/16/fidel-alegato-historia-cuba/",
+      "destacada": false,
+      "tema": "acusado",
+      "fecha": "Fri, 16 Oct 2026 12:00:00 +0000",
+      "id": 62
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La columna de Fernández Era",
+      "resumen": "“¿Conseguiste azúcar?”. Jorge Fernández Era ironiza sobre las promesas oficiales de recuperación de la industria azucarera cubana, las medidas que no consiguen revertir la crisis y la multiplicación de reconocimientos mientras escasea el producto.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/Portada_azucar_ad7a172a1c.jpeg",
+      "enlace_original": "https://eltoque.com/la-columna-de-fernandez-era",
+      "destacada": false,
+      "tema": "columna",
+      "fecha": "Sat, 17 Oct 2026 16:30:00 GMT",
       "id": 63
     },
     {
