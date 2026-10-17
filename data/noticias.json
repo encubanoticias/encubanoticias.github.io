@@ -1,8 +1,47 @@
 {
-  "fecha": "2026-10-16",
-  "hora": "22:17",
-  "total": 66,
+  "fecha": "2026-10-17",
+  "hora": "00:13",
+  "total": 71,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El maestro más amado del arbitraje cubano",
+      "resumen": "Se conmemoran 90 años del debut de Amado Maestri en el máximo nivel del beisbol de la Isla",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-16/el-maestro-mas-amado-del-arbitraje-cubano-16-10-2026-19-10-22",
+      "destacada": true,
+      "tema": "maestro",
+      "fecha": "Fri, 16 Oct 2026 19:10:22 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El chantaje como método",
+      "resumen": "A pocos días de que la Asamblea General de Naciones Unidas examine, un año más, el informe sobre la necesidad de poner fin al bloqueo contra Cuba, el Gobierno de Estados Unidos ha desplegado una intensa campaña de presión y chantaje sobre jefes de Estado y de Gobierno de varios países",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-15/el-chantaje-como-metodo-15-10-2026-18-10-03",
+      "destacada": true,
+      "tema": "chantaje",
+      "fecha": "Thu, 15 Oct 2026 18:10:03 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Juan Bautista Vermay, fundador de la primera academia de arte de Cuba",
+      "resumen": "A 240 años del nacimiento del pintor, un recorrido por la vida y obra del artista francés&nbsp;que institucionalizó la enseñanza de la pintura en la Isla",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/pinceladas/2026-10-16/juan-bautista-vermay-fundador-de-la-primera-academia-de-arte-de-cuba-16-10-2026-19-10-20",
+      "destacada": true,
+      "tema": "bautista",
+      "fecha": "Fri, 16 Oct 2026 19:10:20 -0400",
+      "id": 3
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
@@ -14,7 +53,7 @@
       "destacada": true,
       "tema": "sabotaje",
       "fecha": "Thu, 15 Oct 2026 19:10:54 -0400",
-      "id": 1
+      "id": 4
     },
     {
       "categoria": "transporte",
@@ -27,20 +66,20 @@
       "destacada": true,
       "tema": "responde",
       "fecha": "Thu, 15 Oct 2026 13:10:16 -0400",
-      "id": 2
+      "id": 5
     },
     {
-      "categoria": "sociedad",
+      "categoria": "economia",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba define su escuadra para el Premundial de Beisbol Sub-12",
-      "resumen": "Buscará uno de los cuatro accesos a la cita del orbe de 2027",
+      "titulo": "Las medidas coercitivas contra Cuba afectan la producción agroalimentaria",
+      "resumen": "El Jefe de la Diplomacia cubana condenó el impacto criminal del reforzamiento del bloqueo contra la economía de la Isla",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-10-16/cuba-define-su-escuadra-para-el-premundial-de-beisbol-sub-12-16-10-2026-17-10-07",
-      "destacada": true,
-      "tema": "define",
-      "fecha": "Fri, 16 Oct 2026 17:10:07 -0400",
-      "id": 3
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-16/las-medidas-coercitivas-contra-cuba-afectan-la-produccion-agroalimentaria-16-10-2026-11-10-08",
+      "destacada": false,
+      "tema": "medidas",
+      "fecha": "Fri, 16 Oct 2026 11:10:08 -0400",
+      "id": 6
     },
     {
       "categoria": "salud",
@@ -50,23 +89,10 @@
       "resumen": "El cargamento, compuesto por cerca de una tonelada de medicamentos e insumos médicos, está destinado al Instituto Nacional de Oncología y Radiobiología",
       "imagen_url": "",
       "enlace_original": "http://www.granma.cu/mundo/2026-10-15/bahamas-reafirma-su-apoyo-a-cuba-con-nueva-donacion-al-sistema-de-salud-15-10-2026-18-10-54",
-      "destacada": true,
+      "destacada": false,
       "tema": "bahamas",
       "fecha": "Thu, 15 Oct 2026 18:10:54 -0400",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "«Una mirada plural al hombre al que los cubanos asumimos como Padre de la Patria»",
-      "resumen": "El próximo miércoles será presentada una nueva edición del libro Los silencios quebrados de San Lorenzo, de Rafael Acosta de Arriba",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-16/una-mirada-plural-al-hombre-al-que-los-cubanos-asumimos-como-padre-de-la-patria-16-10-2026-14-10-29",
-      "destacada": true,
-      "tema": "mirada",
-      "fecha": "Fri, 16 Oct 2026 14:10:29 -0400",
-      "id": 5
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -79,33 +105,33 @@
       "destacada": false,
       "tema": "nicolás",
       "fecha": "Thu, 15 Oct 2026 19:10:59 -0400",
-      "id": 6
+      "id": 8
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Parlatino refuerza sus vínculos con legislativo europeo",
+      "resumen": "Ciudad de Panamá, 16 oct (Prensa Latina) El presidente del Parlamento Latinoamericano y Caribeño (Parlatino), el diputado cubano Rolando González, abogó por fortalecer los nexos con su homóloga de la Asamblea Parlamentaria del Consejo de Europa (PACE), Petra Bayr, trascendió hoy. The post Parlatino ",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/16/parlatino-refuerza-sus-vinculos-con-legislativo-europeo/",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Fri, 16 Oct 2026 22:39:53 +0000",
+      "id": 9
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
+      "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba denuncia provocación de Estados Unidos en la ONU y una campaña de presiones para alterar la votación contra el bloqueo",
-      "resumen": "Ernesto Soberón Guzmán, representante permanente de Cuba ante las Naciones Unidas, denunció este viernes la organización de un evento estadounidense contra la Isla en la sede de la Organización, previsto para el 19 de octubre, y advirtió que forma parte de una escalada de hostigamiento político y di",
+      "titulo": "Béisbol cubano: Alazanes y Gallos invaden la cima oriental",
+      "resumen": "La Habana, 16 oct (Prensa Latina) Los Alazanes de Granma y los Gallos de Sancti Spíritus aprovecharon la jornada de hoy para alcanzar a Santiago de Cuba en la cima oriental de la 65.ª Serie Nacional de Béisbol. The post Béisbol cubano: Alazanes y Gallos invaden la cima oriental first appeared on Not",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-16/cuba-denuncia-provocacion-de-estados-unidos-en-la-onu-y-una-campana-de-presiones-para-alterar-la-votacion-contra-el-bloqueo-16-10-2026-12-10-49",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/16/beisbol-cubano-alazanes-y-gallos-invaden-la-cima-oriental/",
       "destacada": false,
-      "tema": "denuncia",
-      "fecha": "Fri, 16 Oct 2026 12:10:49 -0400",
-      "id": 7
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "«África está junto a Cuba del mismo modo que Cuba estuvo junto a África»",
-      "resumen": "La condena al bloqueo genocida impuesto a Cuba por Estados Unidos, constituyó el punto cumbre de un homenaje realizado a Mwalimu Julius Kambarage de Nyerere, presidente fundador y padre de la nación de la República Unida de Tanzania en el aniversario de su fallecimiento",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-15/africa-esta-junto-a-cuba-del-mismo-modo-que-cuba-estuvo-junto-a-africa-15-10-2026-17-10-41",
-      "destacada": false,
-      "tema": "áfrica",
-      "fecha": "Thu, 15 Oct 2026 17:10:41 -0400",
-      "id": 8
+      "tema": "béisbol",
+      "fecha": "Fri, 16 Oct 2026 22:34:22 +0000",
+      "id": 10
     },
     {
       "categoria": "economia",
@@ -118,7 +144,7 @@
       "destacada": false,
       "tema": "salario",
       "fecha": "Fri, 16 Oct 2026 18:51:08 +0000",
-      "id": 9
+      "id": 11
     },
     {
       "categoria": "politica",
@@ -131,7 +157,7 @@
       "destacada": false,
       "tema": "trumpista",
       "fecha": "Fri, 16 Oct 2026 10:59:59 +0000",
-      "id": 10
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -144,7 +170,7 @@
       "destacada": false,
       "tema": "maría",
       "fecha": "Fri, 16 Oct 2026 21:47:40 +0000",
-      "id": 11
+      "id": 13
     },
     {
       "categoria": "energia",
@@ -157,7 +183,7 @@
       "destacada": false,
       "tema": "grave",
       "fecha": "Fri, 16 Oct 2026 12:09:37 +0000",
-      "id": 12
+      "id": 14
     },
     {
       "categoria": "transporte",
@@ -170,7 +196,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Fri, 16 Oct 2026 14:07:39 +0000",
-      "id": 13
+      "id": 15
     },
     {
       "categoria": "economia",
@@ -183,7 +209,7 @@
       "destacada": false,
       "tema": "sanciona",
       "fecha": "Thu, 15 Oct 2026 21:13:16 +0000",
-      "id": 14
+      "id": 16
     },
     {
       "categoria": "economia",
@@ -196,59 +222,98 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Fri, 16 Oct 2026 10:31:32 +0000",
-      "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Exsecretario de Comercio de EE.UU. nacido en La Habana afirma que el cambio en Cuba será gradual: «No hay que castigar al pueblo»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e208574-s27061-nid343064-exsecretario-comercio-eeuu-nacido-habana-afirma",
-      "destacada": false,
-      "tema": "exsecretario",
-      "fecha": "Fri, 16 Oct 2026 22:43:02 +0200",
-      "id": 16
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Entregan premio de la AHS a Frei Betto, quien recomendara a los cubanos freír cáscaras de papas",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e209395-s27061-nid343041-entregan-premio-ahs-frei-betto-quien-recomendara",
-      "destacada": false,
-      "tema": "entregan",
-      "fecha": "Fri, 16 Oct 2026 21:57:04 +0200",
       "id": 17
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Rusia entrega a Cuba más de 750 toneladas de aceite para personas vulnerables",
+      "titulo": "Lanzan octavillas en el centro de Holguín para exigir libertad a los presos políticos cubanos",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u1-e199894-s27061-nid343057-rusia-entrega-cuba-750-toneladas-aceite-personas",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e199894-s27061-nid343083-lanzan-octavillas-centro-holguin-exigir-libertad",
       "destacada": false,
-      "tema": "rusia",
-      "fecha": "Fri, 16 Oct 2026 21:53:17 +0200",
+      "tema": "lanzan",
+      "fecha": "Sat, 17 Oct 2026 00:53:20 +0200",
       "id": 18
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba: 67 años de promesas incumplidas",
+      "titulo": "Balsa de metal, tres tormentas y deportación: los testimonios de tres cubanos que lo arriesgaron todo para ser libres",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-16-u208253-e192519-s27068-nid343059-cuba-67-anos-promesas-incumplidas",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e199894-s27061-nid343079-balsa-metal-tres-tormentas-deportacion-testimonios",
       "destacada": false,
-      "tema": "promesas",
-      "fecha": "Fri, 16 Oct 2026 21:46:08 +0200",
+      "tema": "balsa",
+      "fecha": "Sat, 17 Oct 2026 00:41:36 +0200",
       "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Byron Donalds se planta en la Pequeña Habana y arremete contra el comunismo para cerrar filas con el voto cubano",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e135253-s27061-nid343082-byron-donalds-planta-pequena-habana-arremete-contra",
+      "destacada": false,
+      "tema": "byron",
+      "fecha": "Sat, 17 Oct 2026 00:40:03 +0200",
+      "id": 20
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Fiscalía cubana pide hasta cuatro años de limitación de libertad para masones acusados de tráfico de divisas por cambiar 300 dólares",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e208574-s27061-nid343080-fiscalia-cubana-pide-cuatro-anos-limitacion-libertad",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Sat, 17 Oct 2026 00:32:22 +0200",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Un comedor estatal de La Habana solo ha servido pollo una vez en 2026, según su responsable",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e209363-s27061-nid343068-comedor-estatal-habana-solo-ha-servido-pollo-vez",
+      "destacada": false,
+      "tema": "comedor",
+      "fecha": "Sat, 17 Oct 2026 00:30:15 +0200",
+      "id": 22
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Galeno cubano pide a Trump y Rubio aprovechar los profesionales exiliados: «Los médicos ya están aquí»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e135253-s27061-nid343077-galeno-cubano-pide-trump-rubio-aprovechar",
+      "destacada": false,
+      "tema": "galeno",
+      "fecha": "Sat, 17 Oct 2026 00:19:47 +0200",
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubano deportado a África denuncia en video que migrantes enferman de malaria en Bangui: «Todo el mundo aquí»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e208574-s27061-nid343072-cubano-deportado-africa-denuncia-video-migrantes",
+      "destacada": false,
+      "tema": "cubano",
+      "fecha": "Sat, 17 Oct 2026 00:10:44 +0200",
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -261,7 +326,7 @@
       "destacada": false,
       "tema": "bayamo",
       "fecha": "Fri, 16 Oct 2026 18:54:01 +0000",
-      "id": 20
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -274,7 +339,7 @@
       "destacada": false,
       "tema": "primer",
       "fecha": "Fri, 16 Oct 2026 17:26:08 +0000",
-      "id": 21
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -287,7 +352,7 @@
       "destacada": false,
       "tema": "recuperación",
       "fecha": "Fri, 16 Oct 2026 14:28:32 +0000",
-      "id": 22
+      "id": 27
     },
     {
       "categoria": "politica",
@@ -300,7 +365,20 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Fri, 16 Oct 2026 11:44:39 +0000",
-      "id": 23
+      "id": 28
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El reclamo de EEUU ante la ONU: 'Rechacen la farsa del régimen. Apoyen una Cuba libre'",
+      "resumen": "#EEUU intensifica sus gestiones para restar apoyos a #Cuba en la #ONU antes de la votación contra el embargo. rechacen la farsa del régimen\", pide #Washington y #LaHabana denuncia que \"intentar influir en los votos\".",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792192524_69423.html",
+      "destacada": false,
+      "tema": "reclamo",
+      "fecha": "Sat, 17 Oct 2026 01:15:24 +0200",
+      "id": 29
     },
     {
       "categoria": "salud",
@@ -313,7 +391,7 @@
       "destacada": false,
       "tema": "aceite",
       "fecha": "Fri, 16 Oct 2026 23:01:48 +0200",
-      "id": 24
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -326,7 +404,7 @@
       "destacada": false,
       "tema": "emplaza",
       "fecha": "Fri, 16 Oct 2026 20:30:58 +0200",
-      "id": 25
+      "id": 31
     },
     {
       "categoria": "energia",
@@ -339,7 +417,7 @@
       "destacada": false,
       "tema": "incendio",
       "fecha": "Fri, 16 Oct 2026 19:03:00 +0200",
-      "id": 26
+      "id": 32
     },
     {
       "categoria": "energia",
@@ -352,7 +430,7 @@
       "destacada": false,
       "tema": "incendio",
       "fecha": "Fri, 16 Oct 2026 15:36:34 +0200",
-      "id": 27
+      "id": 33
     },
     {
       "categoria": "transporte",
@@ -365,7 +443,7 @@
       "destacada": false,
       "tema": "científicos",
       "fecha": "Fri, 16 Oct 2026 14:38:46 +0200",
-      "id": 28
+      "id": 34
     },
     {
       "categoria": "economia",
@@ -378,7 +456,7 @@
       "destacada": false,
       "tema": "santiago",
       "fecha": "Fri, 16 Oct 2026 13:49:16 +0200",
-      "id": 29
+      "id": 35
     },
     {
       "categoria": "economia",
@@ -391,20 +469,33 @@
       "destacada": false,
       "tema": "sudáfrica",
       "fecha": "Fri, 16 Oct 2026 13:14:31 +0200",
-      "id": 30
+      "id": 36
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Abre el plazo para solicitar las becas de la familia Mas para estudiantes cubanos y descendientes",
-      "resumen": "El programa #MasFamilyScholarships abrió este 15 de octubre el plazo de solicitudes para sus becas universitarias, destinadas a estudiantes nacidos en Cuba o de ascendencia cubana directa.",
+      "titulo": "Noticiero de Radio Martí 8:00 PM",
+      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792142466_69413.html",
+      "enlace_original": "https://www.martinoticias.com/a/481133.html",
       "destacada": false,
-      "tema": "plazo",
-      "fecha": "Fri, 16 Oct 2026 11:21:06 +0200",
-      "id": 31
+      "tema": "noticiero",
+      "fecha": "Fri, 16 Oct 2026 20:00:00 -0400",
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Ferrer acusa a la Seguridad del Estado de hostigar a activista por entrega de comida en Santiago de Cuba",
+      "resumen": "El expreso político Maikel Mediaceja Ramos fue amenazado por la policía política en Santiago de Cuba tras distribuir alimentos gratis a personas vulnerables, denunció José Daniel Ferrer.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/ferrer-acusa-a-la-seguridad-del-estado-de-hostigar-a-activista-por-entrega-de-comida-en-santiago-de-cuba/482168.html",
+      "destacada": false,
+      "tema": "ferrer",
+      "fecha": "Fri, 16 Oct 2026 19:55:19 -0400",
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -417,7 +508,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Fri, 16 Oct 2026 17:00:30 -0400",
-      "id": 32
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -430,33 +521,33 @@
       "destacada": false,
       "tema": "",
       "fecha": "Fri, 16 Oct 2026 16:46:08 -0400",
-      "id": 33
+      "id": 40
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "“Apoyen una Cuba libre”: EEUU insta a rechazar la resolución del régimen en la ONU",
-      "resumen": "“Votar a favor de la resolución de Cuba en la ONU supone recompensar a un régimen hostil que pone en peligro a nuestra nación y a nuestro hemisferio”, afirmó Segura en una publicación en redes sociales.",
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Rusia dona 750 toneladas de aceite vegetal a Cuba",
+      "resumen": "La recepción oficial de 750 toneladas métricas de aceite vegetal entregadas por Rusia a Cuba estuvo presidida por el embajador de la nación euroasiática en La Habana, Víktor V. Koronelli, y el representante del PMA en Cuba, Etienne Labande; el vice primer ministro y ministro de Comercio Exterior, Os",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/apoyen-una-cuba-libre-eeuu-insta-a-rechazar-la-resoluci%c3%b3n-del-r%c3%a9gimen-en-la-onu/482159.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/16/rusia-dona-750-toneladas-de-aceite-vegetal-a-cuba/",
       "destacada": false,
-      "tema": "apoyen",
-      "fecha": "Fri, 16 Oct 2026 16:10:38 -0400",
-      "id": 34
+      "tema": "rusia",
+      "fecha": "Fri, 16 Oct 2026 23:33:54 +0000",
+      "id": 41
     },
     {
       "categoria": "economia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba rechaza nexo con combustible confiscado, mientras EEUU mantiene postura de presionar al régimen para forzar una transición democrática",
-      "resumen": "EEUU anunció la histórica incautación de 90 cargamentos de combustible valorados en 2.8 millones de dólares, destinados a evadir sanciones sobre el régimen cubano. Mientras La Habana rechaza estas acciones, Washington mantiene su postura de presionar al régimen para forzar una salida democrática.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba recibe 425 toneladas de arroz donadas por Japón",
+      "resumen": "En ceremonia oficial, el Embajador de Japón, Excmo. Sr. Nakamura Kazuhito, hizo entrega a autoridades cubanas de 425 toneladas de arroz como parte de la contribución de un millón de dólares donado por dicho país a través del Programa Mundial de Alimentos de las Naciones Unidas (PMA). The post Cuba r",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-rechaza-nexo-con-combustible-confiscado-mientras-eeuu-postura-de-presionar-al-r%c3%a9gimen-para-forzar-una-transici%c3%b3n-democr%c3%a1tica/482158.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/16/cuba-recibe-425-toneladas-de-arroz-donadas-por-japon/",
       "destacada": false,
-      "tema": "rechaza",
-      "fecha": "Fri, 16 Oct 2026 16:07:58 -0400",
-      "id": 35
+      "tema": "recibe",
+      "fecha": "Fri, 16 Oct 2026 22:10:17 +0000",
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -469,7 +560,7 @@
       "destacada": false,
       "tema": "mundial",
       "fecha": "Fri, 16 Oct 2026 21:44:58 +0000",
-      "id": 36
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -482,7 +573,7 @@
       "destacada": false,
       "tema": "redonda",
       "fecha": "Fri, 16 Oct 2026 20:45:13 +0000",
-      "id": 37
+      "id": 44
     },
     {
       "categoria": "transporte",
@@ -495,7 +586,7 @@
       "destacada": false,
       "tema": "convoca",
       "fecha": "Fri, 16 Oct 2026 19:28:55 +0000",
-      "id": 38
+      "id": 45
     },
     {
       "categoria": "economia",
@@ -508,7 +599,7 @@
       "destacada": false,
       "tema": "destacan",
       "fecha": "Fri, 16 Oct 2026 19:05:43 +0000",
-      "id": 39
+      "id": 46
     },
     {
       "categoria": "politica",
@@ -521,33 +612,7 @@
       "destacada": false,
       "tema": "uruguay",
       "fecha": "Fri, 16 Oct 2026 18:08:15 +0000",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Denunció Cuba amenazas a la paz en Consejo de Seguridad",
-      "resumen": "Cuba denunció ante el Consejo de Seguridad de la ONU el genocidio contra el pueblo palestino, las agresiones militares en Oriente Medio y el impacto de las políticas de coerción sobre la paz y la seguridad internacionales. The post Denunció Cuba amenazas a la paz en Consejo de Seguridad first appear",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/16/denuncio-cuba-amenazas-a-la-paz-en-consejo-de-seguridad/",
-      "destacada": false,
-      "tema": "denunció",
-      "fecha": "Fri, 16 Oct 2026 17:48:01 +0000",
-      "id": 41
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba suma otra victoria y mantiene su paso perfecto en los Panamericanos de Béisbol 5",
-      "resumen": "Las selecciones cubanas de Béisbol5, de mayores y juvenil, sumaron hoy dos victorias cada una en los campeonatos panamericanos de Barquisimeto, Venezuela, para conservar sus invictos y confirmar sus aspiraciones de protagonismo continental. The post Cuba suma otra victoria y mantiene su paso perfect",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/16/cuba-suma-otra-victoria-y-mantiene-su-paso-perfecto-en-los-panamericanos-de-beisbol-5/",
-      "destacada": false,
-      "tema": "victoria",
-      "fecha": "Fri, 16 Oct 2026 15:25:19 +0000",
-      "id": 42
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -560,7 +625,7 @@
       "destacada": false,
       "tema": "dialogismo",
       "fecha": "Fri, 16 Oct 26 23:19:00 +0200",
-      "id": 43
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -573,7 +638,7 @@
       "destacada": false,
       "tema": "demócrata",
       "fecha": "Fri, 16 Oct 26 16:26:00 +0200",
-      "id": 44
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -586,7 +651,7 @@
       "destacada": false,
       "tema": "oportunidad",
       "fecha": "Fri, 16 Oct 26 16:22:00 +0200",
-      "id": 45
+      "id": 50
     },
     {
       "categoria": "energia",
@@ -599,7 +664,7 @@
       "destacada": false,
       "tema": "ocurre",
       "fecha": "Fri, 16 Oct 26 15:10:00 +0200",
-      "id": 46
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -612,7 +677,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Fri, 16 Oct 26 13:29:00 +0200",
-      "id": 47
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -625,7 +690,7 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Fri, 16 Oct 26 13:00:00 +0200",
-      "id": 48
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -638,7 +703,7 @@
       "destacada": false,
       "tema": "cuban",
       "fecha": "Fri, 16 Oct 26 08:21:00 +0200",
-      "id": 49
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -651,7 +716,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Fri, 16 Oct 26 08:20:00 +0200",
-      "id": 50
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -664,7 +729,7 @@
       "destacada": false,
       "tema": "excusa",
       "fecha": "Fri, 16 Oct 26 08:19:00 +0200",
-      "id": 51
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -677,7 +742,7 @@
       "destacada": false,
       "tema": "esconde",
       "fecha": "Fri, 16 Oct 26 08:19:00 +0200",
-      "id": 52
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -690,7 +755,7 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Fri, 16 Oct 2026 14:05:50 +0000",
-      "id": 53
+      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -703,7 +768,7 @@
       "destacada": false,
       "tema": "celebran",
       "fecha": "Fri, 16 Oct 2026 13:09:03 +0000",
-      "id": 54
+      "id": 59
     },
     {
       "categoria": "sociedad",
@@ -716,7 +781,7 @@
       "destacada": false,
       "tema": "premian",
       "fecha": "Fri, 16 Oct 2026 13:07:49 +0000",
-      "id": 55
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -729,7 +794,7 @@
       "destacada": false,
       "tema": "piratas",
       "fecha": "Fri, 16 Oct 2026 14:31:35 +0000",
-      "id": 56
+      "id": 61
     },
     {
       "categoria": "sociedad",
@@ -742,7 +807,7 @@
       "destacada": false,
       "tema": "atención",
       "fecha": "Thu, 15 Oct 2026 19:58:35 +0000",
-      "id": 57
+      "id": 62
     },
     {
       "categoria": "sociedad",
@@ -755,7 +820,7 @@
       "destacada": false,
       "tema": "comenzarán",
       "fecha": "Thu, 15 Oct 2026 17:56:05 +0000",
-      "id": 58
+      "id": 63
     },
     {
       "categoria": "politica",
@@ -768,7 +833,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 15 Oct 2026 17:42:16 +0000",
-      "id": 59
+      "id": 64
     },
     {
       "categoria": "salud",
@@ -781,7 +846,7 @@
       "destacada": false,
       "tema": "acusado",
       "fecha": "Fri, 16 Oct 2026 12:00:00 +0000",
-      "id": 60
+      "id": 65
     },
     {
       "categoria": "sociedad",
@@ -794,7 +859,7 @@
       "destacada": false,
       "tema": "archivos",
       "fecha": "Fri, 16 Oct 2026 21:01:32 GMT",
-      "id": 61
+      "id": 66
     },
     {
       "categoria": "economia",
@@ -807,7 +872,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 16 Oct 2026 10:03:00 GMT",
-      "id": 62
+      "id": 67
     },
     {
       "categoria": "sociedad",
@@ -820,7 +885,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Thu, 15 Oct 2026 22:00:00 GMT",
-      "id": 63
+      "id": 68
     },
     {
       "categoria": "sociedad",
@@ -833,7 +898,7 @@
       "destacada": false,
       "tema": "recuerdos",
       "fecha": "Thu, 15 Oct 2026 17:30:00 GMT",
-      "id": 64
+      "id": 69
     },
     {
       "categoria": "economia",
@@ -846,7 +911,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "id": 65
+      "id": 70
     },
     {
       "categoria": "sociedad",
@@ -859,7 +924,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Thu, 15 Oct 2026 09:15:00 GMT",
-      "id": 66
+      "id": 71
     }
   ]
 }
