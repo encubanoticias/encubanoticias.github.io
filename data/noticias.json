@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-17",
-  "hora": "03:16",
-  "total": 64,
+  "hora": "05:15",
+  "total": 66,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -108,17 +108,30 @@
       "id": 8
     },
     {
-      "categoria": "transporte",
+      "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Neurótica Anónima muestra que el cine en Cuba brilla y está vivo",
-      "resumen": "La Habana, 16 oct (Prensa Latina) Un homenaje al cine cubano y universal, narrado con la sensibilidad, emoción y simpatía que implica la obra del séptimo arte, constituyó hoy aquí el estreno del largometraje Neurótica Anónima, apuesta de Cuba a los Premios Goya. The post Neurótica Anónima muestra qu",
+      "titulo": "Inauguran en el Vaticano muestra de artista cubano Yasiel Elizagaray",
+      "resumen": "Ciudad Vaticano, 17 oct (Prensa Latina) El destacado artista visual cubano Yasiel Elizagaray inaugurará hoy en la Sala Vasari del Palacio de la Cancillería Apostólica, en la Santa Sede, su exposición Aliento de Espíritu. The post Inauguran en el Vaticano muestra de artista cubano Yasiel Elizagaray f",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/16/neurotica-anonima-muestra-que-el-cine-en-cuba-brilla-y-esta-vivo/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/17/inauguran-en-el-vaticano-muestra-de-artista-cubano-yasiel-elizagaray/",
       "destacada": false,
-      "tema": "neurótica",
-      "fecha": "Sat, 17 Oct 2026 02:39:50 +0000",
+      "tema": "inauguran",
+      "fecha": "Sat, 17 Oct 2026 04:18:00 +0000",
       "id": 9
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Ramonet imparte en México conferencia sobre Fidel Castro",
+      "resumen": "Ciudad de México, 16 oct (Prensa Latina) El grupo parlamentario del Partido del Trabajo en el Congreso capitalino y la Embajada cubana en México organizaron la conferencia “Fidel Castro: Genio de la elocuencia”, impartida por el español Ignacio Ramonet, difundió hoy la sede diplomática. The post Ram",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/16/ramonet-imparte-en-mexico-conferencia-sobre-fidel-castro/",
+      "destacada": false,
+      "tema": "ramonet",
+      "fecha": "Sat, 17 Oct 2026 03:43:56 +0000",
+      "id": 10
     },
     {
       "categoria": "economia",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "salario",
       "fecha": "Fri, 16 Oct 2026 18:51:08 +0000",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "politica",
@@ -144,7 +157,7 @@
       "destacada": false,
       "tema": "trumpista",
       "fecha": "Fri, 16 Oct 2026 10:59:59 +0000",
-      "id": 11
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -157,7 +170,7 @@
       "destacada": false,
       "tema": "maría",
       "fecha": "Fri, 16 Oct 2026 21:47:40 +0000",
-      "id": 12
+      "id": 13
     },
     {
       "categoria": "energia",
@@ -170,7 +183,7 @@
       "destacada": false,
       "tema": "grave",
       "fecha": "Fri, 16 Oct 2026 12:09:37 +0000",
-      "id": 13
+      "id": 14
     },
     {
       "categoria": "transporte",
@@ -183,7 +196,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Fri, 16 Oct 2026 14:07:39 +0000",
-      "id": 14
+      "id": 15
     },
     {
       "categoria": "economia",
@@ -196,7 +209,7 @@
       "destacada": false,
       "tema": "sanciona",
       "fecha": "Thu, 15 Oct 2026 21:13:16 +0000",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "economia",
@@ -209,7 +222,59 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Fri, 16 Oct 2026 10:31:32 +0000",
-      "id": 16
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Y que venga, aunque esté duro, desmoronado o manido»: la súplica al pan de un poeta cubano",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e209395-s27065-nid343095-venga-aunque-este-duro-desmoronado-manido-suplica-al",
+      "destacada": false,
+      "tema": "venga",
+      "fecha": "Sat, 17 Oct 2026 06:50:12 +0200",
+      "id": 18
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Gobierno cubano admite más de 70 muertes diarias por cáncer y culpa al embargo por la falta de medicamentos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e209363-s27061-nid343097-gobierno-cubano-admite-70-muertes-diarias-cancer",
+      "destacada": false,
+      "tema": "gobierno",
+      "fecha": "Sat, 17 Oct 2026 06:22:14 +0200",
+      "id": 19
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "CBS News documenta desde La Habana el colapso sanitario y eléctrico: médicos sin medicinas y apagones de casi todo el día",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e209363-s27061-nid343093-cbs-news-documenta-habana-colapso-sanitario",
+      "destacada": false,
+      "tema": "documenta",
+      "fecha": "Sat, 17 Oct 2026 04:57:19 +0200",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Intelectuales, artistas y profesores cubanos de diversas generaciones lamentan la muerte de Carolina de la Torre",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e209395-s27061-nid343091-intelectuales-artistas-profesores-cubanos-diversas",
+      "destacada": false,
+      "tema": "intelectuales",
+      "fecha": "Sat, 17 Oct 2026 04:45:13 +0200",
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -222,46 +287,7 @@
       "destacada": false,
       "tema": "ustedes",
       "fecha": "Sat, 17 Oct 2026 03:32:44 +0200",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Despiden a Alonso Pino, uno de los más populares repentistas cubanos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e209395-s27061-nid343053-despiden-alonso-pino-populares-repentistas-cubanos",
-      "destacada": false,
-      "tema": "despiden",
-      "fecha": "Sat, 17 Oct 2026 02:26:21 +0200",
-      "id": 18
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Nuevo récord histórico: el dólar rompe la barrera de los 800 pesos al cierre en Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e199894-s27061-nid343089-nuevo-record-historico-dolar-rompe-barrera-800-pesos",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Sat, 17 Oct 2026 02:14:52 +0200",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Lanzan octavillas en el centro de Holguín para exigir libertad a los presos políticos cubanos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e199894-s27061-nid343083-lanzan-octavillas-centro-holguin-exigir-libertad",
-      "destacada": false,
-      "tema": "lanzan",
-      "fecha": "Sat, 17 Oct 2026 00:53:20 +0200",
-      "id": 20
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -274,7 +300,7 @@
       "destacada": false,
       "tema": "bayamo",
       "fecha": "Fri, 16 Oct 2026 18:54:01 +0000",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -287,7 +313,7 @@
       "destacada": false,
       "tema": "primer",
       "fecha": "Fri, 16 Oct 2026 17:26:08 +0000",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "recuperación",
       "fecha": "Fri, 16 Oct 2026 14:28:32 +0000",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "politica",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Fri, 16 Oct 2026 11:44:39 +0000",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -326,7 +352,7 @@
       "destacada": false,
       "tema": "reclamo",
       "fecha": "Sat, 17 Oct 2026 01:15:24 +0200",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "salud",
@@ -339,7 +365,7 @@
       "destacada": false,
       "tema": "aceite",
       "fecha": "Fri, 16 Oct 2026 23:01:48 +0200",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "emplaza",
       "fecha": "Fri, 16 Oct 2026 20:30:58 +0200",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "energia",
@@ -365,7 +391,7 @@
       "destacada": false,
       "tema": "incendio",
       "fecha": "Fri, 16 Oct 2026 19:03:00 +0200",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "energia",
@@ -378,7 +404,7 @@
       "destacada": false,
       "tema": "incendio",
       "fecha": "Fri, 16 Oct 2026 15:36:34 +0200",
-      "id": 29
+      "id": 31
     },
     {
       "categoria": "transporte",
@@ -391,7 +417,7 @@
       "destacada": false,
       "tema": "científicos",
       "fecha": "Fri, 16 Oct 2026 14:38:46 +0200",
-      "id": 30
+      "id": 32
     },
     {
       "categoria": "economia",
@@ -404,7 +430,7 @@
       "destacada": false,
       "tema": "santiago",
       "fecha": "Fri, 16 Oct 2026 13:49:16 +0200",
-      "id": 31
+      "id": 33
     },
     {
       "categoria": "economia",
@@ -417,7 +443,20 @@
       "destacada": false,
       "tema": "sudáfrica",
       "fecha": "Fri, 16 Oct 2026 13:14:31 +0200",
-      "id": 32
+      "id": 34
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al Día",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481185.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Sat, 17 Oct 2026 00:00:30 -0400",
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -430,7 +469,7 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Fri, 16 Oct 2026 21:00:00 -0400",
-      "id": 33
+      "id": 36
     },
     {
       "categoria": "politica",
@@ -443,7 +482,7 @@
       "destacada": false,
       "tema": "forma",
       "fecha": "Sat, 17 Oct 2026 01:22:52 +0000",
-      "id": 34
+      "id": 37
     },
     {
       "categoria": "politica",
@@ -456,7 +495,7 @@
       "destacada": false,
       "tema": "rusia",
       "fecha": "Fri, 16 Oct 2026 23:33:54 +0000",
-      "id": 35
+      "id": 38
     },
     {
       "categoria": "economia",
@@ -469,7 +508,7 @@
       "destacada": false,
       "tema": "recibe",
       "fecha": "Fri, 16 Oct 2026 22:10:17 +0000",
-      "id": 36
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -482,7 +521,7 @@
       "destacada": false,
       "tema": "mundial",
       "fecha": "Fri, 16 Oct 2026 21:44:58 +0000",
-      "id": 37
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -495,7 +534,7 @@
       "destacada": false,
       "tema": "redonda",
       "fecha": "Fri, 16 Oct 2026 20:45:13 +0000",
-      "id": 38
+      "id": 41
     },
     {
       "categoria": "transporte",
@@ -508,7 +547,7 @@
       "destacada": false,
       "tema": "convoca",
       "fecha": "Fri, 16 Oct 2026 19:28:55 +0000",
-      "id": 39
+      "id": 42
     },
     {
       "categoria": "politica",
@@ -521,7 +560,7 @@
       "destacada": false,
       "tema": "uruguay",
       "fecha": "Fri, 16 Oct 2026 18:08:15 +0000",
-      "id": 40
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -534,7 +573,7 @@
       "destacada": false,
       "tema": "dialogismo",
       "fecha": "Fri, 16 Oct 26 23:19:00 +0200",
-      "id": 41
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -547,7 +586,7 @@
       "destacada": false,
       "tema": "demócrata",
       "fecha": "Fri, 16 Oct 26 16:26:00 +0200",
-      "id": 42
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -560,7 +599,7 @@
       "destacada": false,
       "tema": "oportunidad",
       "fecha": "Fri, 16 Oct 26 16:22:00 +0200",
-      "id": 43
+      "id": 46
     },
     {
       "categoria": "energia",
@@ -573,7 +612,7 @@
       "destacada": false,
       "tema": "ocurre",
       "fecha": "Fri, 16 Oct 26 15:10:00 +0200",
-      "id": 44
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -586,7 +625,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Fri, 16 Oct 26 13:29:00 +0200",
-      "id": 45
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -599,7 +638,7 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Fri, 16 Oct 26 13:00:00 +0200",
-      "id": 46
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -612,7 +651,7 @@
       "destacada": false,
       "tema": "cuban",
       "fecha": "Fri, 16 Oct 26 08:21:00 +0200",
-      "id": 47
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -625,7 +664,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Fri, 16 Oct 26 08:20:00 +0200",
-      "id": 48
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -638,20 +677,7 @@
       "destacada": false,
       "tema": "excusa",
       "fecha": "Fri, 16 Oct 26 08:19:00 +0200",
-      "id": 49
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Lo que se esconde detrás de la traición y ofensas de Eliecer Ávila contra Donald Trump",
-      "resumen": "Guerrero Cubano con su verdad al desnudo",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125523-lo-que-se-esconde-detras-de-la-traicion-y-ofensas-de-eliecer-avila-contra-donald-trump.jpg?t=1792131552",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261016/125523/125523-lo-que-se-esconde-detras-de-la-traicion-y-ofensas-de-eliecer-avila-contra-donald-trump",
-      "destacada": false,
-      "tema": "esconde",
-      "fecha": "Fri, 16 Oct 26 08:19:00 +0200",
-      "id": 50
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -664,7 +690,7 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Fri, 16 Oct 2026 14:05:50 +0000",
-      "id": 51
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -677,7 +703,7 @@
       "destacada": false,
       "tema": "celebran",
       "fecha": "Fri, 16 Oct 2026 13:09:03 +0000",
-      "id": 52
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -690,7 +716,7 @@
       "destacada": false,
       "tema": "premian",
       "fecha": "Fri, 16 Oct 2026 13:07:49 +0000",
-      "id": 53
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -703,7 +729,7 @@
       "destacada": false,
       "tema": "piratas",
       "fecha": "Fri, 16 Oct 2026 14:31:35 +0000",
-      "id": 54
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -716,7 +742,7 @@
       "destacada": false,
       "tema": "atención",
       "fecha": "Thu, 15 Oct 2026 19:58:35 +0000",
-      "id": 55
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -729,7 +755,7 @@
       "destacada": false,
       "tema": "comenzarán",
       "fecha": "Thu, 15 Oct 2026 17:56:05 +0000",
-      "id": 56
+      "id": 58
     },
     {
       "categoria": "politica",
@@ -742,7 +768,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 15 Oct 2026 17:42:16 +0000",
-      "id": 57
+      "id": 59
     },
     {
       "categoria": "salud",
@@ -755,7 +781,7 @@
       "destacada": false,
       "tema": "acusado",
       "fecha": "Fri, 16 Oct 2026 12:00:00 +0000",
-      "id": 58
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -768,7 +794,7 @@
       "destacada": false,
       "tema": "archivos",
       "fecha": "Fri, 16 Oct 2026 21:01:32 GMT",
-      "id": 59
+      "id": 61
     },
     {
       "categoria": "economia",
@@ -781,7 +807,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 16 Oct 2026 10:03:00 GMT",
-      "id": 60
+      "id": 62
     },
     {
       "categoria": "sociedad",
@@ -794,7 +820,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Thu, 15 Oct 2026 22:00:00 GMT",
-      "id": 61
+      "id": 63
     },
     {
       "categoria": "sociedad",
@@ -807,7 +833,7 @@
       "destacada": false,
       "tema": "recuerdos",
       "fecha": "Thu, 15 Oct 2026 17:30:00 GMT",
-      "id": 62
+      "id": 64
     },
     {
       "categoria": "economia",
@@ -820,7 +846,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "id": 63
+      "id": 65
     },
     {
       "categoria": "sociedad",
@@ -833,7 +859,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Thu, 15 Oct 2026 09:15:00 GMT",
-      "id": 64
+      "id": 66
     }
   ]
 }
