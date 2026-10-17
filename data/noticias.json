@@ -1,21 +1,8 @@
 {
   "fecha": "2026-10-17",
-  "hora": "15:12",
-  "total": 63,
+  "hora": "16:12",
+  "total": 67,
   "noticias": [
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "El maestro más amado del arbitraje cubano",
-      "resumen": "Se conmemoran 90 años del debut de Amado Maestri en el máximo nivel del beisbol de la Isla",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-10-16/el-maestro-mas-amado-del-arbitraje-cubano-16-10-2026-19-10-22",
-      "destacada": true,
-      "tema": "maestro",
-      "fecha": "Fri, 16 Oct 2026 19:10:22 -0400",
-      "id": 1
-    },
     {
       "categoria": "politica",
       "fuente": "https://www.granma.cu",
@@ -27,20 +14,20 @@
       "destacada": true,
       "tema": "chantaje",
       "fecha": "Thu, 15 Oct 2026 18:10:03 -0400",
-      "id": 2
+      "id": 1
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Juan Bautista Vermay, fundador de la primera academia de arte de Cuba",
-      "resumen": "A 240 años del nacimiento del pintor, un recorrido por la vida y obra del artista francés&nbsp;que institucionalizó la enseñanza de la pintura en la Isla",
+      "titulo": "Inauguran en Bayamo XXXII Fiesta de la Cubanía",
+      "resumen": "La Fiesta de la Cubanía volverá a colmar de música, identidad y tradición el territorio de Bayamo, capital de la provincia de Granma",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/pinceladas/2026-10-16/juan-bautista-vermay-fundador-de-la-primera-academia-de-arte-de-cuba-16-10-2026-19-10-20",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-17/inauguran-en-bayamo-xxxii-fiesta-de-la-cubania-con-la-fe-de-bautismo-de-aguilera-como-objeto-ceremonial-17-10-2026-11-10-58",
       "destacada": true,
-      "tema": "bautista",
-      "fecha": "Fri, 16 Oct 2026 19:10:20 -0400",
-      "id": 3
+      "tema": "inauguran",
+      "fecha": "Sat, 17 Oct 2026 11:10:58 -0400",
+      "id": 2
     },
     {
       "categoria": "sociedad",
@@ -53,19 +40,32 @@
       "destacada": true,
       "tema": "sabotaje",
       "fecha": "Thu, 15 Oct 2026 19:10:54 -0400",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El maestro más amado del arbitraje cubano",
+      "resumen": "Se conmemoran 90 años del debut de Amado Maestri en el máximo nivel del beisbol de la Isla",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-16/el-maestro-mas-amado-del-arbitraje-cubano-16-10-2026-19-10-22",
+      "destacada": true,
+      "tema": "maestro",
+      "fecha": "Fri, 16 Oct 2026 19:10:22 -0400",
       "id": 4
     },
     {
-      "categoria": "economia",
+      "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Las medidas coercitivas contra Cuba afectan la producción agroalimentaria",
-      "resumen": "El Jefe de la Diplomacia cubana condenó el impacto criminal del reforzamiento del bloqueo contra la economía de la Isla",
+      "titulo": "Cuba por la hegemonía total del Panamericano de Beisbol5",
+      "resumen": "Este sábado busca las coronas continentales juvenil y de mayores",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-16/las-medidas-coercitivas-contra-cuba-afectan-la-produccion-agroalimentaria-16-10-2026-11-10-08",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-17/cuba-por-la-hegemonia-total-del-panamericano-de-beisbol5-17-10-2026-11-10-32",
       "destacada": true,
-      "tema": "medidas",
-      "fecha": "Fri, 16 Oct 2026 11:10:08 -0400",
+      "tema": "hegemonía",
+      "fecha": "Sat, 17 Oct 2026 11:10:32 -0400",
       "id": 5
     },
     {
@@ -85,6 +85,19 @@
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
+      "titulo": "Juan Bautista Vermay, fundador de la primera academia de arte de Cuba",
+      "resumen": "A 240 años del nacimiento del pintor, un recorrido por la vida y obra del artista francés&nbsp;que institucionalizó la enseñanza de la pintura en la Isla",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/pinceladas/2026-10-16/juan-bautista-vermay-fundador-de-la-primera-academia-de-arte-de-cuba-16-10-2026-19-10-20",
+      "destacada": false,
+      "tema": "bautista",
+      "fecha": "Fri, 16 Oct 2026 19:10:20 -0400",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
       "titulo": "Nicolás Vives, su hija y el voleibol cubano, entre semilla y árbol",
       "resumen": "Se refiere a la Liga Ciudad Élite, la selección varonil absoluta y la cercanía de su hija a este deporte",
       "imagen_url": "",
@@ -92,7 +105,33 @@
       "destacada": false,
       "tema": "nicolás",
       "fecha": "Thu, 15 Oct 2026 19:10:59 -0400",
-      "id": 7
+      "id": 8
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Presidente de Cuba insta a perfeccionar métodos de dirección",
+      "resumen": "La Habana, 17 oct (Prensa Latina) El presidente de Cuba, Miguel Díaz-Canel, recalcó hoy la necesidad de perfeccionar los métodos y estilos de dirección ante el escenario actual. The post Presidente de Cuba insta a perfeccionar métodos de dirección first appeared on Noticias Prensa Latina.",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/17/presidente-de-cuba-insta-a-perfeccionar-metodos-de-direccion/",
+      "destacada": false,
+      "tema": "presidente",
+      "fecha": "Sat, 17 Oct 2026 15:50:27 +0000",
+      "id": 9
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba agradece a Rusia y Japón por donaciones a través del PMA",
+      "resumen": "La Habana, 17 oct (Prensa Latina) El canciller de Cuba, Bruno Rodríguez, agradeció hoy a los gobiernos de Rusia y Japón por las donaciones realizadas a través del Programa Mundial de Alimentos (PMA) de 750 toneladas de aceite vegetal y 425 de arroz, respectivamente. The post Cuba agradece a Rusia y ",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/17/cuba-agradece-a-rusia-y-japon-por-donaciones-a-traves-del-pma/",
+      "destacada": false,
+      "tema": "agradece",
+      "fecha": "Sat, 17 Oct 2026 15:18:50 +0000",
+      "id": 10
     },
     {
       "categoria": "politica",
@@ -105,7 +144,7 @@
       "destacada": false,
       "tema": "prieto",
       "fecha": "Sat, 17 Oct 2026 15:12:49 +0000",
-      "id": 8
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -118,20 +157,7 @@
       "destacada": false,
       "tema": "espía",
       "fecha": "Sat, 17 Oct 2026 12:56:20 +0000",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Rosa María Payá recibe en Madrid el Premio FAES de la Libertad junto a dos opositoras de Irán y Rusia",
-      "resumen": "José María Aznar entregó el galardón a la cubana, Masih Alinejad y Yulia Navalnaya, en una ceremonia marcada por las críticas a los regímenes autoritarios",
-      "imagen_url": "https://static.14ymedio.com/clip/23f6ba07-6073-4b87-9b10-bfda80353194_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/internacional/rosa-maria-paya-recibe-madrid_1_1132061.html",
-      "destacada": false,
-      "tema": "maría",
-      "fecha": "Fri, 16 Oct 2026 21:47:40 +0000",
-      "id": 10
+      "id": 12
     },
     {
       "categoria": "politica",
@@ -144,7 +170,7 @@
       "destacada": false,
       "tema": "trumpista",
       "fecha": "Fri, 16 Oct 2026 10:59:59 +0000",
-      "id": 11
+      "id": 13
     },
     {
       "categoria": "economia",
@@ -157,7 +183,7 @@
       "destacada": false,
       "tema": "salario",
       "fecha": "Fri, 16 Oct 2026 18:51:08 +0000",
-      "id": 12
+      "id": 14
     },
     {
       "categoria": "energia",
@@ -170,7 +196,7 @@
       "destacada": false,
       "tema": "grave",
       "fecha": "Fri, 16 Oct 2026 12:09:37 +0000",
-      "id": 13
+      "id": 15
     },
     {
       "categoria": "transporte",
@@ -183,7 +209,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Fri, 16 Oct 2026 14:07:39 +0000",
-      "id": 14
+      "id": 16
     },
     {
       "categoria": "economia",
@@ -196,7 +222,20 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Fri, 16 Oct 2026 10:31:32 +0000",
-      "id": 15
+      "id": 17
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Sin frenos: el dólar supera la barrera de los 800 pesos y el euro de los 900 en Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e129488-s27061-nid343115-nuevo-maximo-historico-dolar-supera-barrera-800",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Sat, 17 Oct 2026 16:36:27 +0200",
+      "id": 18
     },
     {
       "categoria": "politica",
@@ -209,7 +248,7 @@
       "destacada": false,
       "tema": "prieto",
       "fecha": "Sat, 17 Oct 2026 15:41:48 +0200",
-      "id": 16
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -222,7 +261,7 @@
       "destacada": false,
       "tema": "error",
       "fecha": "Sat, 17 Oct 2026 15:11:05 +0200",
-      "id": 17
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -235,7 +274,7 @@
       "destacada": false,
       "tema": "venció",
       "fecha": "Sat, 17 Oct 2026 14:50:40 +0200",
-      "id": 18
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -248,7 +287,7 @@
       "destacada": false,
       "tema": "lázaro",
       "fecha": "Sat, 17 Oct 2026 14:26:13 +0200",
-      "id": 19
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -261,7 +300,7 @@
       "destacada": false,
       "tema": "nuevas",
       "fecha": "Sat, 17 Oct 2026 14:10:13 +0200",
-      "id": 20
+      "id": 23
     },
     {
       "categoria": "transporte",
@@ -274,7 +313,7 @@
       "destacada": false,
       "tema": "arrestan",
       "fecha": "Sat, 17 Oct 2026 13:38:22 +0200",
-      "id": 21
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -287,7 +326,7 @@
       "destacada": false,
       "tema": "bayamo",
       "fecha": "Fri, 16 Oct 2026 18:54:01 +0000",
-      "id": 22
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -300,7 +339,7 @@
       "destacada": false,
       "tema": "primer",
       "fecha": "Fri, 16 Oct 2026 17:26:08 +0000",
-      "id": 23
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -313,7 +352,7 @@
       "destacada": false,
       "tema": "recuperación",
       "fecha": "Fri, 16 Oct 2026 14:28:32 +0000",
-      "id": 24
+      "id": 27
     },
     {
       "categoria": "politica",
@@ -326,7 +365,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Fri, 16 Oct 2026 11:44:39 +0000",
-      "id": 25
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -339,7 +378,7 @@
       "destacada": false,
       "tema": "vivir",
       "fecha": "Sat, 17 Oct 2026 17:03:48 +0200",
-      "id": 26
+      "id": 29
     },
     {
       "categoria": "economia",
@@ -352,7 +391,7 @@
       "destacada": false,
       "tema": "químico",
       "fecha": "Sat, 17 Oct 2026 15:35:02 +0200",
-      "id": 27
+      "id": 30
     },
     {
       "categoria": "politica",
@@ -365,7 +404,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Sat, 17 Oct 2026 14:32:47 +0200",
-      "id": 28
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -378,7 +417,7 @@
       "destacada": false,
       "tema": "problemas",
       "fecha": "Sat, 17 Oct 2026 13:00:44 +0200",
-      "id": 29
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -391,7 +430,7 @@
       "destacada": false,
       "tema": "cubalex",
       "fecha": "Sat, 17 Oct 2026 11:56:37 +0200",
-      "id": 30
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -404,7 +443,7 @@
       "destacada": false,
       "tema": "reclamo",
       "fecha": "Sat, 17 Oct 2026 01:15:24 +0200",
-      "id": 31
+      "id": 34
     },
     {
       "categoria": "salud",
@@ -417,7 +456,7 @@
       "destacada": false,
       "tema": "aceite",
       "fecha": "Fri, 16 Oct 2026 23:01:48 +0200",
-      "id": 32
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -430,7 +469,7 @@
       "destacada": false,
       "tema": "emplaza",
       "fecha": "Fri, 16 Oct 2026 20:30:58 +0200",
-      "id": 33
+      "id": 36
     },
     {
       "categoria": "energia",
@@ -443,7 +482,33 @@
       "destacada": false,
       "tema": "incendio",
       "fecha": "Fri, 16 Oct 2026 19:03:00 +0200",
-      "id": 34
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Reunión en el Comité Central en plena arremetida contra cristianos en Cuba",
+      "resumen": "Mientras el régimen cubano presenta como un gesto habitual de diálogo su reunión con líderes religiosos, en la isla se multiplican las detenciones, sentencias y acusaciones contra pastores, creyentes y activistas cristianos.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/reuni%c3%b3n-en-el-comit%c3%a9-central-en-plena-arremetida-contra-cristianos-en-cuba/482235.html",
+      "destacada": false,
+      "tema": "reunión",
+      "fecha": "Sat, 17 Oct 2026 12:05:36 -0400",
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 12:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481218.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Sat, 17 Oct 2026 12:00:00 -0400",
+      "id": 39
     },
     {
       "categoria": "economia",
@@ -456,7 +521,7 @@
       "destacada": false,
       "tema": "inflación",
       "fecha": "Sat, 17 Oct 2026 09:24:44 -0400",
-      "id": 35
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -469,7 +534,7 @@
       "destacada": false,
       "tema": "abriendo",
       "fecha": "Sat, 17 Oct 2026 09:00:00 -0400",
-      "id": 36
+      "id": 41
     },
     {
       "categoria": "salud",
@@ -482,7 +547,7 @@
       "destacada": false,
       "tema": "científica",
       "fecha": "Sat, 17 Oct 2026 14:42:35 +0000",
-      "id": 37
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -495,7 +560,7 @@
       "destacada": false,
       "tema": "falleció",
       "fecha": "Sat, 17 Oct 2026 13:29:01 +0000",
-      "id": 38
+      "id": 43
     },
     {
       "categoria": "salud",
@@ -508,7 +573,7 @@
       "destacada": false,
       "tema": "ministerio",
       "fecha": "Sat, 17 Oct 2026 13:18:53 +0000",
-      "id": 39
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -521,7 +586,7 @@
       "destacada": false,
       "tema": "alerta",
       "fecha": "Sat, 17 Oct 2026 09:06:13 +0000",
-      "id": 40
+      "id": 45
     },
     {
       "categoria": "politica",
@@ -534,7 +599,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sat, 17 Oct 2026 03:30:30 +0000",
-      "id": 41
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -547,7 +612,7 @@
       "destacada": false,
       "tema": "charla",
       "fecha": "Sat, 17 Oct 26 12:36:00 +0200",
-      "id": 42
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -560,7 +625,7 @@
       "destacada": false,
       "tema": "llega",
       "fecha": "Sat, 17 Oct 26 12:06:00 +0200",
-      "id": 43
+      "id": 48
     },
     {
       "categoria": "energia",
@@ -573,7 +638,7 @@
       "destacada": false,
       "tema": "especialista",
       "fecha": "Sat, 17 Oct 26 11:58:00 +0200",
-      "id": 44
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -586,7 +651,7 @@
       "destacada": false,
       "tema": "festival",
       "fecha": "Sat, 17 Oct 26 11:46:00 +0200",
-      "id": 45
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -599,7 +664,7 @@
       "destacada": false,
       "tema": "violaciones",
       "fecha": "Sat, 17 Oct 26 11:44:00 +0200",
-      "id": 46
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -612,7 +677,7 @@
       "destacada": false,
       "tema": "busca",
       "fecha": "Sat, 17 Oct 26 11:37:00 +0200",
-      "id": 47
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -625,7 +690,7 @@
       "destacada": false,
       "tema": "papalotes",
       "fecha": "Sat, 17 Oct 26 11:34:00 +0200",
-      "id": 48
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -638,7 +703,7 @@
       "destacada": false,
       "tema": "combate",
       "fecha": "Sat, 17 Oct 26 11:30:00 +0200",
-      "id": 49
+      "id": 54
     },
     {
       "categoria": "politica",
@@ -651,7 +716,7 @@
       "destacada": false,
       "tema": "forma",
       "fecha": "Sat, 17 Oct 26 11:27:00 +0200",
-      "id": 50
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -664,7 +729,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Sat, 17 Oct 26 11:24:00 +0200",
-      "id": 51
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -677,7 +742,7 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Fri, 16 Oct 2026 14:05:50 +0000",
-      "id": 52
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -690,7 +755,7 @@
       "destacada": false,
       "tema": "celebran",
       "fecha": "Fri, 16 Oct 2026 13:09:03 +0000",
-      "id": 53
+      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -703,7 +768,7 @@
       "destacada": false,
       "tema": "premian",
       "fecha": "Fri, 16 Oct 2026 13:07:49 +0000",
-      "id": 54
+      "id": 59
     },
     {
       "categoria": "sociedad",
@@ -716,7 +781,7 @@
       "destacada": false,
       "tema": "piratas",
       "fecha": "Fri, 16 Oct 2026 14:31:35 +0000",
-      "id": 55
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -729,7 +794,7 @@
       "destacada": false,
       "tema": "atención",
       "fecha": "Thu, 15 Oct 2026 19:58:35 +0000",
-      "id": 56
+      "id": 61
     },
     {
       "categoria": "sociedad",
@@ -742,7 +807,7 @@
       "destacada": false,
       "tema": "comenzarán",
       "fecha": "Thu, 15 Oct 2026 17:56:05 +0000",
-      "id": 57
+      "id": 62
     },
     {
       "categoria": "politica",
@@ -755,20 +820,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 15 Oct 2026 17:42:16 +0000",
-      "id": 58
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "De acusado a fiscal: Fidel y el alegato que estremeció la historia de Cuba",
-      "resumen": "El 16 de octubre de 1953 no fue una jornada ordinaria en los anales del derecho patrio, sino la fecha en que una pequeña sala del Hospital Civil Saturnino Lora, en Santiago de Cuba, devino escenario de un juicio histórico. Allí, despojado de las garantías procesales más elementales y bajo un cerco m",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/16/fidel-alegato-historia-cuba/",
-      "destacada": false,
-      "tema": "acusado",
-      "fecha": "Fri, 16 Oct 2026 12:00:00 +0000",
-      "id": 59
+      "id": 63
     },
     {
       "categoria": "sociedad",
@@ -781,7 +833,7 @@
       "destacada": false,
       "tema": "archivos",
       "fecha": "Fri, 16 Oct 2026 21:01:32 GMT",
-      "id": 60
+      "id": 64
     },
     {
       "categoria": "economia",
@@ -794,7 +846,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 16 Oct 2026 10:03:00 GMT",
-      "id": 61
+      "id": 65
     },
     {
       "categoria": "sociedad",
@@ -807,7 +859,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Thu, 15 Oct 2026 22:00:00 GMT",
-      "id": 62
+      "id": 66
     },
     {
       "categoria": "sociedad",
@@ -820,7 +872,7 @@
       "destacada": false,
       "tema": "recuerdos",
       "fecha": "Thu, 15 Oct 2026 17:30:00 GMT",
-      "id": 63
+      "id": 67
     }
   ]
 }
