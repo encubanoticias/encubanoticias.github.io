@@ -1,20 +1,33 @@
 {
   "fecha": "2026-10-17",
-  "hora": "21:12",
-  "total": 61,
+  "hora": "23:08",
+  "total": 60,
   "noticias": [
     {
       "categoria": "politica",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Formar cuadros para conducir las Transformaciones",
-      "resumen": "En el acto de conmemoración se otorgó un reconocimiento a Díaz-Canel Bermúdez y a Marrero Cruz",
+      "titulo": "El combate por Cuba no cesa: se mantiene e intensifica",
+      "resumen": "En el contexto del Día Nacional de la Defensa, el Presidente del Consejo de Defensa Nacional&nbsp;visitó la Zona de Defensa Arroyo Arenas, ubicada en el municipio capitalino de La Lisa",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-17/formar-cuadros-para-conducir-las-transformaciones-17-10-2026-16-10-06",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-16/el-combate-por-cuba-no-cesa-se-mantiene-e-intensifica-16-10-2026-17-10-00",
       "destacada": true,
-      "tema": "formar",
-      "fecha": "Sat, 17 Oct 2026 16:10:06 -0400",
+      "tema": "combate",
+      "fecha": "Fri, 16 Oct 2026 17:10:00 -0400",
       "id": 1
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Sin válvulas de escape",
+      "resumen": "El Gobierno de EE. UU. continúa cerrando el cerco financiero impuesto a Cuba",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-16/sin-valvulas-de-escape-16-10-2026-11-10-09",
+      "destacada": true,
+      "tema": "válvulas",
+      "fecha": "Fri, 16 Oct 2026 11:10:09 -0400",
+      "id": 2
     },
     {
       "categoria": "sociedad",
@@ -27,7 +40,7 @@
       "destacada": true,
       "tema": "inauguran",
       "fecha": "Sat, 17 Oct 2026 11:10:58 -0400",
-      "id": 2
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -40,59 +53,20 @@
       "destacada": true,
       "tema": "maestro",
       "fecha": "Fri, 16 Oct 2026 19:10:22 -0400",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba por la hegemonía total del Panamericano de Beisbol5",
-      "resumen": "Este sábado busca las coronas continentales juvenil y de mayores",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-10-17/cuba-por-la-hegemonia-total-del-panamericano-de-beisbol5-17-10-2026-11-10-32",
-      "destacada": true,
-      "tema": "hegemonía",
-      "fecha": "Sat, 17 Oct 2026 11:10:32 -0400",
       "id": 4
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
+      "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Juan Bautista Vermay, fundador de la primera academia de arte de Cuba",
-      "resumen": "A 240 años del nacimiento del pintor, un recorrido por la vida y obra del artista francés&nbsp;que institucionalizó la enseñanza de la pintura en la Isla",
+      "titulo": "Convocan en Cuba a consulta pública sobre Ley de Educación",
+      "resumen": "La Habana, 17 oct (Prensa Latina) El Ministerio de Educación (Mined) de Cuba convoca a la población a participar en la consulta pública del anteproyecto de Ley de Educación, un documento que refleja los principios didácticos del país y los desafíos que enfrenta hoy ese sector. The post Convocan en C",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/pinceladas/2026-10-16/juan-bautista-vermay-fundador-de-la-primera-academia-de-arte-de-cuba-16-10-2026-19-10-20",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/17/convocan-en-cuba-a-consulta-publica-sobre-ley-de-educacion/",
       "destacada": true,
-      "tema": "bautista",
-      "fecha": "Fri, 16 Oct 2026 19:10:20 -0400",
+      "tema": "convocan",
+      "fecha": "Sat, 17 Oct 2026 22:23:51 +0000",
       "id": 5
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Gana Villa Clara subserie particular ante Matanzas en béisbol cubano",
-      "resumen": "Santa Clara, Cuba, 17 oct ( Prensa Latina) El equipo Villa Clara de béisbol ganó la primera subserie ante Matanzas tres victorias a una, en partidos escenificados en el estadio Augusto César Sandino de esta ciudad en el centro de Cuba. The post Gana Villa Clara subserie particular ante Matanzas en b",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/17/gana-villa-clara-subserie-particular-ante-matanzas-en-beisbol-cubano/",
-      "destacada": false,
-      "tema": "villa",
-      "fecha": "Sat, 17 Oct 2026 20:53:09 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Chile: cátedra analiza ideas de Fidel a la luz de cambios en Cuba",
-      "resumen": "Santiago de Chile, 17 oct (Prensa Latina) La Cátedra Internacional Permanente Fidel Castro Ruz, creada en Chile, analizó la vigencia del pensamiento del líder de la Revolución Cubana a raíz del proceso de transformaciones económicas y sociales emprendido hoy en la isla. The post Chile: cátedra anali",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/17/chile-catedra-analiza-ideas-de-fidel-a-la-luz-de-cambios-en-cuba/",
-      "destacada": false,
-      "tema": "chile",
-      "fecha": "Sat, 17 Oct 2026 20:02:32 +0000",
-      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -105,7 +79,7 @@
       "destacada": false,
       "tema": "espía",
       "fecha": "Sat, 17 Oct 2026 12:56:20 +0000",
-      "id": 8
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -118,7 +92,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Sat, 17 Oct 2026 17:31:12 +0000",
-      "id": 9
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -131,7 +105,7 @@
       "destacada": false,
       "tema": "aprobaciones",
       "fecha": "Sat, 17 Oct 2026 16:26:26 +0000",
-      "id": 10
+      "id": 8
     },
     {
       "categoria": "politica",
@@ -144,7 +118,7 @@
       "destacada": false,
       "tema": "llegan",
       "fecha": "Sat, 17 Oct 2026 16:38:59 +0000",
-      "id": 11
+      "id": 9
     },
     {
       "categoria": "politica",
@@ -157,7 +131,7 @@
       "destacada": false,
       "tema": "trumpista",
       "fecha": "Fri, 16 Oct 2026 10:59:59 +0000",
-      "id": 12
+      "id": 10
     },
     {
       "categoria": "economia",
@@ -170,7 +144,7 @@
       "destacada": false,
       "tema": "salario",
       "fecha": "Fri, 16 Oct 2026 18:51:08 +0000",
-      "id": 13
+      "id": 11
     },
     {
       "categoria": "energia",
@@ -183,59 +157,72 @@
       "destacada": false,
       "tema": "grave",
       "fecha": "Fri, 16 Oct 2026 12:09:37 +0000",
+      "id": 12
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Garrapata dentro de un queso? Denuncian falta de higiene en el transporte y venta de alimentos en La Habana",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e209363-s27061-nid343145-garrapata-dentro-queso-denuncian-falta-higiene",
+      "destacada": false,
+      "tema": "garrapata",
+      "fecha": "Sat, 17 Oct 2026 23:52:52 +0200",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Denuncian desmantelamiento del histórico Cine Capitolio en Santiago de Cuba: se llevaron hasta la puerta durante la madrugada",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e199894-s27061-nid343144-denuncian-desmantelamiento-historico-cine-capitolio",
+      "destacada": false,
+      "tema": "denuncian",
+      "fecha": "Sat, 17 Oct 2026 23:36:01 +0200",
       "id": 14
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Abuelos que «cargan con toda la basura de ese sistema», denuncia periodista cubana",
+      "titulo": "«Hoy los cubanos somos corazones destrozados», afirma Raúl Torres, pero sin «hablar de culpas»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e209395-s27061-nid343130-abuelos-cargan-toda-basura-ese-sistema-denuncia",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e209395-s27061-nid343137-hoy-cubanos-somos-corazones-destrozados-afirma-raul",
       "destacada": false,
-      "tema": "abuelos",
-      "fecha": "Sat, 17 Oct 2026 21:55:58 +0200",
+      "tema": "cubanos",
+      "fecha": "Sat, 17 Oct 2026 22:39:48 +0200",
       "id": 15
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel felicita a la escuela de cuadros del Estado y el Gobierno y reclama mejores “métodos y estilos de dirección” en medio de la crisis",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e209363-s27061-nid343136-diaz-canel-felicita-escuela-cuadros-estado-gobierno",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Sat, 17 Oct 2026 21:54:21 +0200",
-      "id": 16
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El reparto cubano se cuela en los Premios Billboard: Dale Pututi y Nesty, invitados a la gala de Miami",
+      "titulo": "¿Y los inspectores dónde están? Denuncian cobros irregulares y falsificación de Transfermóvil en agromercado de Tulipán, en La Habana",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e199894-s27061-nid343133-reparto-cuela-premios-billboard-dale-pututi-nesty",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e209363-s27061-nid343141-inspectores-donde-estan-denuncian-cobros-irregulares",
       "destacada": false,
-      "tema": "reparto",
-      "fecha": "Sat, 17 Oct 2026 20:28:27 +0200",
-      "id": 17
+      "tema": "inspectores",
+      "fecha": "Sat, 17 Oct 2026 22:30:28 +0200",
+      "id": 16
     },
     {
-      "categoria": "politica",
+      "categoria": "economia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel asegura que las transformaciones económicas buscan “reducir desigualdades y ampliar la justicia social”",
+      "titulo": "Ni con anuncios: Negocios privados en Cuba se quedan sin trabajadores por salarios de 900 pesos al día que la inflación se come",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e209363-s27061-nid343121-diaz-canel-asegura-transformaciones-economicas",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e208574-s27061-nid343139-ni-anuncios-negocios-privados-cuba-quedan",
       "destacada": false,
-      "tema": "canel",
-      "fecha": "Sat, 17 Oct 2026 20:10:59 +0200",
-      "id": 18
+      "tema": "anuncios",
+      "fecha": "Sat, 17 Oct 2026 22:21:03 +0200",
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -248,7 +235,33 @@
       "destacada": false,
       "tema": "podcast",
       "fecha": "Sat, 17 Oct 2026 19:26:24 +0000",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "La influencia sindical en el turismo cubano",
+      "resumen": "Solo una organización suficientemente preparada podrá asumir las misiones de representar y movilizar a los afiliados y trabajadores",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261017/la-influencia-sindical-en-el-turismo-cubano/",
+      "destacada": false,
+      "tema": "influencia",
+      "fecha": "Sat, 17 Oct 2026 22:53:28 +0000",
       "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Capacitar bien para implementar mejor",
+      "resumen": "La Central de Trabajadores de Cuba (CTC), inició en La Habana la preparación de los dirigentes sindicales de base sobre la implementación de las 176 transformaciones económicas y sociales en marcha en el país, dando continuidad al proceso de capacitación efectuado en varias provincias",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261017/capacitar-bien-para-implementar-mejor/",
+      "destacada": false,
+      "tema": "capacitar",
+      "fecha": "Sat, 17 Oct 2026 22:32:21 +0000",
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -261,7 +274,7 @@
       "destacada": false,
       "tema": "steel",
       "fecha": "Sat, 17 Oct 2026 18:11:30 +0000",
-      "id": 20
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -274,20 +287,20 @@
       "destacada": false,
       "tema": "bayamo",
       "fecha": "Fri, 16 Oct 2026 18:54:01 +0000",
-      "id": 21
+      "id": 22
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Primer asalto a la vista",
-      "resumen": "Un peso de proporciones de cuidado afrontará a partir de este sábado el boxeo cubano, cuando en la ciudad mexicana de Puebla se efectúe el torneo continental que tributará boletos hacia los Juego Panamericanos de Lima 2027",
+      "titulo": "La FIU premia al cubano Daniel Pedreira por su libro sobre 600 desapariciones bajo el castrismo",
+      "resumen": "La #FIU entrega su Premio a la Excelencia del Profesorado en Publicación y las Artes (2026) al académico Daniel Pedreira por su libro sobre las desapariciones en #Cuba bajo el #Castrismo.",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261016/primer-asalto-a-la-vista/",
+      "enlace_original": "https://diariodecuba.com/cuba/1792272437_69432.html",
       "destacada": false,
-      "tema": "primer",
-      "fecha": "Fri, 16 Oct 2026 17:26:08 +0000",
-      "id": 22
+      "tema": "premia",
+      "fecha": "Sat, 17 Oct 2026 23:27:17 +0200",
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -300,7 +313,7 @@
       "destacada": false,
       "tema": "cubalex",
       "fecha": "Sat, 17 Oct 2026 21:46:21 +0200",
-      "id": 23
+      "id": 24
     },
     {
       "categoria": "politica",
@@ -313,7 +326,7 @@
       "destacada": false,
       "tema": "maría",
       "fecha": "Sat, 17 Oct 2026 21:44:38 +0200",
-      "id": 24
+      "id": 25
     },
     {
       "categoria": "energia",
@@ -326,7 +339,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Sat, 17 Oct 2026 19:06:06 +0200",
-      "id": 25
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -339,7 +352,7 @@
       "destacada": false,
       "tema": "vivir",
       "fecha": "Sat, 17 Oct 2026 17:03:48 +0200",
-      "id": 26
+      "id": 27
     },
     {
       "categoria": "economia",
@@ -352,7 +365,7 @@
       "destacada": false,
       "tema": "químico",
       "fecha": "Sat, 17 Oct 2026 15:35:02 +0200",
-      "id": 27
+      "id": 28
     },
     {
       "categoria": "politica",
@@ -365,7 +378,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Sat, 17 Oct 2026 14:32:47 +0200",
-      "id": 28
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -378,7 +391,7 @@
       "destacada": false,
       "tema": "problemas",
       "fecha": "Sat, 17 Oct 2026 13:00:44 +0200",
-      "id": 29
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -391,7 +404,7 @@
       "destacada": false,
       "tema": "reclamo",
       "fecha": "Sat, 17 Oct 2026 01:15:24 +0200",
-      "id": 30
+      "id": 31
     },
     {
       "categoria": "salud",
@@ -404,19 +417,6 @@
       "destacada": false,
       "tema": "aceite",
       "fecha": "Fri, 16 Oct 2026 23:01:48 +0200",
-      "id": 31
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El OCDH emplaza al Tribunal Supremo del régimen por las 'graves irregularidades' contra Henry Constantin",
-      "resumen": "El #OCDH emplaza a la Fiscalía General y al Tribunal Supremo del régimen de #Cuba por las \"graves irregularidades\" en el caso de #HenryConstantin y les exige a \"asumir sus responsabilidades institucionales\".",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1792175458_69421.html",
-      "destacada": false,
-      "tema": "emplaza",
-      "fecha": "Fri, 16 Oct 2026 20:30:58 +0200",
       "id": 32
     },
     {
@@ -511,19 +511,6 @@
       "id": 39
     },
     {
-      "categoria": "salud",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "El ministerio de Salud de la Federación Rusa otorgó el registro sanitario al fármaco cubano Nimotuzumab",
-      "resumen": "El Nimotuzumab es el anticuerpo monoclonal humanizado cubano antirreceptor del factor de crecimiento epidérmico (EGFR), para el tratamiento de neoplasias malignas en adultos, incluyendo tumores de esófago, cabeza y cuello, así como determinados tipos de tumores cerebrales. El medicamento se comercia",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/17/el-ministerio-de-salud-de-la-federacion-rusa-otorgo-el-registro-sanitario-al-farmaco-cubano-nimotuzumab/",
-      "destacada": false,
-      "tema": "ministerio",
-      "fecha": "Sat, 17 Oct 2026 13:18:53 +0000",
-      "id": 40
-    },
-    {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
@@ -534,7 +521,7 @@
       "destacada": false,
       "tema": "charla",
       "fecha": "Sat, 17 Oct 26 12:36:00 +0200",
-      "id": 41
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -547,7 +534,7 @@
       "destacada": false,
       "tema": "llega",
       "fecha": "Sat, 17 Oct 26 12:06:00 +0200",
-      "id": 42
+      "id": 41
     },
     {
       "categoria": "energia",
@@ -560,7 +547,7 @@
       "destacada": false,
       "tema": "especialista",
       "fecha": "Sat, 17 Oct 26 11:58:00 +0200",
-      "id": 43
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -573,7 +560,7 @@
       "destacada": false,
       "tema": "festival",
       "fecha": "Sat, 17 Oct 26 11:46:00 +0200",
-      "id": 44
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -586,7 +573,7 @@
       "destacada": false,
       "tema": "violaciones",
       "fecha": "Sat, 17 Oct 26 11:44:00 +0200",
-      "id": 45
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -599,7 +586,7 @@
       "destacada": false,
       "tema": "busca",
       "fecha": "Sat, 17 Oct 26 11:37:00 +0200",
-      "id": 46
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -612,20 +599,7 @@
       "destacada": false,
       "tema": "papalotes",
       "fecha": "Sat, 17 Oct 26 11:34:00 +0200",
-      "id": 47
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "El combate por Cuba no cesa: se mantiene e intensifica",
-      "resumen": "Alina Perera Robbio Presidencia Cuba En el contexto del Día Nacional de la Defensa, este viernes en...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125544-el-combate-por-cuba-no-cesa-se-mantiene-e-intensifica.jpg?t=1792229524",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261017/125544/125544-el-combate-por-cuba-no-cesa-se-mantiene-e-intensifica",
-      "destacada": false,
-      "tema": "combate",
-      "fecha": "Sat, 17 Oct 26 11:30:00 +0200",
-      "id": 48
+      "id": 46
     },
     {
       "categoria": "politica",
@@ -638,7 +612,7 @@
       "destacada": false,
       "tema": "forma",
       "fecha": "Sat, 17 Oct 26 11:27:00 +0200",
-      "id": 49
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -651,7 +625,20 @@
       "destacada": false,
       "tema": "alerta",
       "fecha": "Sat, 17 Oct 26 11:26:00 +0200",
-      "id": 50
+      "id": 48
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba denuncia maniobra política de EE.UU. en la sede de la ONU",
+      "resumen": "Denunció Cuba amenazas a la paz en Consejo de Seguridad Cubadebate Cuba denunció ante el Consejo de...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125540-cuba-denuncia-maniobra-politica-de-ee-uu-en-la-sede-de-la-onu.jpg?t=1792229175",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261017/125540/125540-cuba-denuncia-maniobra-politica-de-ee-uu-en-la-sede-de-la-onu",
+      "destacada": false,
+      "tema": "denuncia",
+      "fecha": "Sat, 17 Oct 26 11:24:00 +0200",
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -664,7 +651,7 @@
       "destacada": false,
       "tema": "héroe",
       "fecha": "Sat, 17 Oct 2026 19:46:46 +0000",
-      "id": 51
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -677,7 +664,7 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Fri, 16 Oct 2026 14:05:50 +0000",
-      "id": 52
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -690,7 +677,7 @@
       "destacada": false,
       "tema": "celebran",
       "fecha": "Fri, 16 Oct 2026 13:09:03 +0000",
-      "id": 53
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -703,6 +690,19 @@
       "destacada": false,
       "tema": "premian",
       "fecha": "Fri, 16 Oct 2026 13:07:49 +0000",
+      "id": 53
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Detrás de la Portada dedicará su próxima edición al DVD La Familia, de Los Muñequitos de Matanzas",
+      "resumen": "El DVD La Familia reúne temas antológicos, expresiones del legado afrocubano y clásicos de la música cubana La entrada Detrás de la Portada dedicará su próxima edición al DVD La Familia, de Los Muñequitos de Matanzas se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/detras-de-la-portada-dedicara-su-proxima-edicion-al-dvd-la-familia-de-los-munequitos-de-matanzas/",
+      "destacada": false,
+      "tema": "detrás",
+      "fecha": "Sat, 17 Oct 2026 22:50:28 +0000",
       "id": 54
     },
     {
@@ -748,26 +748,26 @@
       "categoria": "sociedad",
       "fuente": "https://eltoque.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La columna de Fernández Era",
-      "resumen": "“¿Conseguiste azúcar?”. Jorge Fernández Era ironiza sobre las promesas oficiales de recuperación de la industria azucarera cubana, las medidas que no consiguen revertir la crisis y la multiplicación de reconocimientos mientras escasea el producto.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/Portada_azucar_ad7a172a1c.jpeg",
-      "enlace_original": "https://eltoque.com/la-columna-de-fernandez-era",
-      "destacada": false,
-      "tema": "columna",
-      "fecha": "Sat, 17 Oct 2026 16:30:00 GMT",
-      "id": 58
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
       "titulo": "Los archivos de la Embajada: ¿Cuánto cobra un diplomático cubano en Estados Unidos?",
       "resumen": "Documentos filtrados revelan que la Embajada cubana en Washington destinó más de 460 000 USD a salarios en 2025 y además asumió el pago de alquileres, pasajes y otros gastos de sus funcionarios.",
       "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/portada_con_medidas_48ff0e8c94.jpeg",
       "enlace_original": "https://eltoque.com/los-archivos-de-la-embajada-cuanto-cobra-un-diplomatico-cubano-en-estados-unidos",
       "destacada": false,
       "tema": "archivos",
-      "fecha": "Fri, 16 Oct 2026 21:01:32 GMT",
+      "fecha": "Sat, 17 Oct 2026 22:28:33 GMT",
+      "id": 58
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La columna de Fernández Era",
+      "resumen": "“¿Conseguiste azúcar?”. Jorge Fernández Era ironiza sobre las promesas oficiales de recuperación de la industria azucarera cubana, las medidas que no consiguen revertir la crisis y la multiplicación de reconocimientos mientras escasea el producto.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/Portada_azucar_ad7a172a1c.jpeg",
+      "enlace_original": "https://eltoque.com/la-columna-de-fernandez-era",
+      "destacada": false,
+      "tema": "columna",
+      "fecha": "Sat, 17 Oct 2026 10:30:00 GMT",
       "id": 59
     },
     {
@@ -782,19 +782,6 @@
       "tema": "tipo_cambio",
       "fecha": "Fri, 16 Oct 2026 10:03:00 GMT",
       "id": 60
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Para quién el voto cubano en España?",
-      "resumen": "Más de 600 000 personas solicitaron la nacionalidad española por la Ley de Memoria Democrática, pero un fallo del Tribunal Supremo afecta el voto de parte de ellas.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/2026_10_14_noticiero_7089802fae.jpg",
-      "enlace_original": "https://eltoque.com/para-quien-el-voto-cubano-en-espana",
-      "destacada": false,
-      "tema": "quién",
-      "fecha": "Thu, 15 Oct 2026 22:00:00 GMT",
-      "id": 61
     }
   ]
 }
