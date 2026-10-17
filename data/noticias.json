@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-17",
-  "hora": "07:24",
-  "total": 65,
+  "hora": "09:14",
+  "total": 62,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -421,29 +421,16 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Ni alerta ni freno: Aclaran especialistas sobre instalación de paneles solares en Cuba",
+      "resumen": "Ante las inquietudes de los foristas a raíz de la publicación en Cubadebate sobre la instalación masiva de paneles solares, la arquitecta Dania González Couret, profesora de la Universidad Tecnológica de La Habana y fundadora de Cuba Solar (Cubasolar), precisó el origen y el alcance de sus declaraci",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481185.html",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/17/ni-alerta-ni-freno-aclaran-especialistas-sobre-instalacion-de-paneles-solares-en-cuba/",
       "destacada": false,
-      "tema": "",
-      "fecha": "Sat, 17 Oct 2026 00:00:30 -0400",
+      "tema": "alerta",
+      "fecha": "Sat, 17 Oct 2026 09:06:13 +0000",
       "id": 33
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Barbacoa de Pepe",
-      "resumen": "La Barbacoa de Pepe es un muestrario de la nostalgia cubana con datos y curiosidades de los temas más variados, para la audiencia cubana. También trataremos temas internacionales y locales, siempre con el fin de educar al Cubano de la Isla. Con la elocuencia de Pepe Forte.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481134.html",
-      "destacada": false,
-      "tema": "barbacoa",
-      "fecha": "Fri, 16 Oct 2026 21:00:00 -0400",
-      "id": 34
     },
     {
       "categoria": "politica",
@@ -456,7 +443,7 @@
       "destacada": false,
       "tema": "forma",
       "fecha": "Sat, 17 Oct 2026 01:22:52 +0000",
-      "id": 35
+      "id": 34
     },
     {
       "categoria": "politica",
@@ -469,7 +456,7 @@
       "destacada": false,
       "tema": "rusia",
       "fecha": "Fri, 16 Oct 2026 23:33:54 +0000",
-      "id": 36
+      "id": 35
     },
     {
       "categoria": "economia",
@@ -482,7 +469,7 @@
       "destacada": false,
       "tema": "recibe",
       "fecha": "Fri, 16 Oct 2026 22:10:17 +0000",
-      "id": 37
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -495,7 +482,7 @@
       "destacada": false,
       "tema": "mundial",
       "fecha": "Fri, 16 Oct 2026 21:44:58 +0000",
-      "id": 38
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -508,7 +495,7 @@
       "destacada": false,
       "tema": "redonda",
       "fecha": "Fri, 16 Oct 2026 20:45:13 +0000",
-      "id": 39
+      "id": 38
     },
     {
       "categoria": "transporte",
@@ -521,20 +508,7 @@
       "destacada": false,
       "tema": "convoca",
       "fecha": "Fri, 16 Oct 2026 19:28:55 +0000",
-      "id": 40
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Uruguay vs. Argentina: Confirman el clásico del Río de la Plata",
-      "resumen": "Las selecciones de Uruguay y Argentina disputarán un partido amistoso el viernes 13 de noviembre en Tel Aviv, el tercero entre ambos en el siglo XXI tras los encuentros de 2003 y 2019. The post Uruguay vs. Argentina: Confirman el clásico del Río de la Plata first appeared on Cubadebate.",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/16/uruguay-vs-argentina-confirman-el-clasico-del-rio-de-la-plata/",
-      "destacada": false,
-      "tema": "uruguay",
-      "fecha": "Fri, 16 Oct 2026 18:08:15 +0000",
-      "id": 41
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -547,7 +521,7 @@
       "destacada": false,
       "tema": "dialogismo",
       "fecha": "Fri, 16 Oct 26 23:19:00 +0200",
-      "id": 42
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -560,7 +534,7 @@
       "destacada": false,
       "tema": "demócrata",
       "fecha": "Fri, 16 Oct 26 16:26:00 +0200",
-      "id": 43
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -573,7 +547,7 @@
       "destacada": false,
       "tema": "oportunidad",
       "fecha": "Fri, 16 Oct 26 16:22:00 +0200",
-      "id": 44
+      "id": 42
     },
     {
       "categoria": "energia",
@@ -586,7 +560,7 @@
       "destacada": false,
       "tema": "ocurre",
       "fecha": "Fri, 16 Oct 26 15:10:00 +0200",
-      "id": 45
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -599,7 +573,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Fri, 16 Oct 26 13:29:00 +0200",
-      "id": 46
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -612,7 +586,7 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Fri, 16 Oct 26 13:00:00 +0200",
-      "id": 47
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -625,7 +599,7 @@
       "destacada": false,
       "tema": "cuban",
       "fecha": "Fri, 16 Oct 26 08:21:00 +0200",
-      "id": 48
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -638,7 +612,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Fri, 16 Oct 26 08:20:00 +0200",
-      "id": 49
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -651,7 +625,7 @@
       "destacada": false,
       "tema": "excusa",
       "fecha": "Fri, 16 Oct 26 08:19:00 +0200",
-      "id": 50
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -664,7 +638,7 @@
       "destacada": false,
       "tema": "atentado",
       "fecha": "Sat, 17 Oct 2026 06:16:46 +0000",
-      "id": 51
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -677,7 +651,7 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Fri, 16 Oct 2026 14:05:50 +0000",
-      "id": 52
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -690,7 +664,7 @@
       "destacada": false,
       "tema": "celebran",
       "fecha": "Fri, 16 Oct 2026 13:09:03 +0000",
-      "id": 53
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -703,7 +677,7 @@
       "destacada": false,
       "tema": "premian",
       "fecha": "Fri, 16 Oct 2026 13:07:49 +0000",
-      "id": 54
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -716,7 +690,7 @@
       "destacada": false,
       "tema": "piratas",
       "fecha": "Fri, 16 Oct 2026 14:31:35 +0000",
-      "id": 55
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -729,7 +703,7 @@
       "destacada": false,
       "tema": "atención",
       "fecha": "Thu, 15 Oct 2026 19:58:35 +0000",
-      "id": 56
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -742,7 +716,7 @@
       "destacada": false,
       "tema": "comenzarán",
       "fecha": "Thu, 15 Oct 2026 17:56:05 +0000",
-      "id": 57
+      "id": 55
     },
     {
       "categoria": "politica",
@@ -755,7 +729,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 15 Oct 2026 17:42:16 +0000",
-      "id": 58
+      "id": 56
     },
     {
       "categoria": "salud",
@@ -768,7 +742,7 @@
       "destacada": false,
       "tema": "acusado",
       "fecha": "Fri, 16 Oct 2026 12:00:00 +0000",
-      "id": 59
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -781,7 +755,7 @@
       "destacada": false,
       "tema": "archivos",
       "fecha": "Fri, 16 Oct 2026 21:01:32 GMT",
-      "id": 60
+      "id": 58
     },
     {
       "categoria": "economia",
@@ -794,7 +768,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 16 Oct 2026 10:03:00 GMT",
-      "id": 61
+      "id": 59
     },
     {
       "categoria": "sociedad",
@@ -807,7 +781,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Thu, 15 Oct 2026 22:00:00 GMT",
-      "id": 62
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -820,7 +794,7 @@
       "destacada": false,
       "tema": "recuerdos",
       "fecha": "Thu, 15 Oct 2026 17:30:00 GMT",
-      "id": 63
+      "id": 61
     },
     {
       "categoria": "economia",
@@ -833,20 +807,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "id": 64
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticias de la negociación de Donald Trump con Cuba",
-      "resumen": "La relación entre Estados Unidos y Cuba atraviesa uno de sus momentos más tensos en años, marcada por una combinación de presión económica, crisis energética y contactos discretos, de los cuales, en la mayoría de los casos, solo se conoce lo que se filtra a la prensa.",
-      "imagen_url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/AP_131403754861_f6c2a900de.jpg/width=1920,quality=75,fit=scale-down,dpr=1,slow-connection-quality=40",
-      "enlace_original": "https://eltoque.com/noticias-de-la-negociacion-de-donald-trump-con-cuba",
-      "destacada": false,
-      "tema": "noticias",
-      "fecha": "Thu, 15 Oct 2026 09:15:00 GMT",
-      "id": 65
+      "id": 62
     }
   ]
 }
