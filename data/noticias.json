@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-17",
-  "hora": "11:13",
-  "total": 59,
+  "hora": "13:19",
+  "total": 58,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -56,19 +56,6 @@
       "id": 4
     },
     {
-      "categoria": "transporte",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba responde con más soberanía ante el cerco de Washington",
-      "resumen": "«Frente al cerco energético del gobierno de EE. UU., que pretende castigar a todo el pueblo de Cuba, nuestro Partido y Gobierno responden con más soberanía y medidas para aliviar el impacto de esa política estadounidense en la población cubana»",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-15/cuba-responde-con-mas-soberania-ante-el-cerco-de-washington",
-      "destacada": true,
-      "tema": "responde",
-      "fecha": "Thu, 15 Oct 2026 13:10:16 -0400",
-      "id": 5
-    },
-    {
       "categoria": "economia",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
@@ -76,10 +63,10 @@
       "resumen": "El Jefe de la Diplomacia cubana condenó el impacto criminal del reforzamiento del bloqueo contra la economía de la Isla",
       "imagen_url": "",
       "enlace_original": "http://www.granma.cu/cuba/2026-10-16/las-medidas-coercitivas-contra-cuba-afectan-la-produccion-agroalimentaria-16-10-2026-11-10-08",
-      "destacada": false,
+      "destacada": true,
       "tema": "medidas",
       "fecha": "Fri, 16 Oct 2026 11:10:08 -0400",
-      "id": 6
+      "id": 5
     },
     {
       "categoria": "salud",
@@ -92,7 +79,7 @@
       "destacada": false,
       "tema": "bahamas",
       "fecha": "Thu, 15 Oct 2026 18:10:54 -0400",
-      "id": 7
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -105,6 +92,19 @@
       "destacada": false,
       "tema": "nicolás",
       "fecha": "Thu, 15 Oct 2026 19:10:59 -0400",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El espía soviético que ayudó a Kennedy a descubrir el alcance de los misiles instalados en Cuba",
+      "resumen": "El coronel Oleg Penkovski fue fusilado después de entregar a la CIA miles de documentos secretos y contribuir así a evitar una catástrofe nuclear",
+      "imagen_url": "https://static.14ymedio.com/clip/1ba94931-2884-4887-b0a5-bd37970f6b89_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/opinion/espia-sovietico-ayudo-kennedy-descubrir_1_1132066.html",
+      "destacada": false,
+      "tema": "espía",
+      "fecha": "Sat, 17 Oct 2026 12:56:20 +0000",
       "id": 8
     },
     {
@@ -202,6 +202,32 @@
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
+      "titulo": "Nuevas tarifas de USCIS para cubanos: ¿cuánto cuesta ahora el parole, el permiso de trabajo y el asilo?",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e2-s27061-nid343099-nuevas-tarifas-uscis-cubanos-cuanto-cuesta-ahora-parole",
+      "destacada": false,
+      "tema": "nuevas",
+      "fecha": "Sat, 17 Oct 2026 14:10:13 +0200",
+      "id": 16
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Arrestan a conductor cubano de una aplicación de transporte tras denuncia de adolescente en Hialeah",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e129488-s27061-nid343109-arrestan-conductor-cubano-aplicacion-transporte-tras",
+      "destacada": false,
+      "tema": "arrestan",
+      "fecha": "Sat, 17 Oct 2026 13:38:22 +0200",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
       "titulo": "Madre cubana denuncia amenazas de muerte contra ella por parte del novio de su hija en Hialeah",
       "resumen": "",
       "imagen_url": "",
@@ -209,7 +235,7 @@
       "destacada": false,
       "tema": "madre",
       "fecha": "Sat, 17 Oct 2026 11:39:32 +0200",
-      "id": 16
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -222,32 +248,6 @@
       "destacada": false,
       "tema": "nuevo",
       "fecha": "Sat, 17 Oct 2026 11:25:36 +0200",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Y que venga, aunque esté duro, desmoronado o manido»: la súplica al pan de un poeta cubano",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e209395-s27065-nid343095-venga-aunque-este-duro-desmoronado-manido-suplica-al",
-      "destacada": false,
-      "tema": "venga",
-      "fecha": "Sat, 17 Oct 2026 06:50:12 +0200",
-      "id": 18
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Gobierno cubano admite más de 70 muertes diarias por cáncer y culpa al embargo por la falta de medicamentos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-17-u1-e209363-s27061-nid343097-gobierno-cubano-admite-70-muertes-diarias-cancer",
-      "destacada": false,
-      "tema": "gobierno",
-      "fecha": "Sat, 17 Oct 2026 06:22:14 +0200",
       "id": 19
     },
     {
@@ -303,6 +303,19 @@
       "id": 23
     },
     {
+      "categoria": "politica",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El Gobierno reconoce más de 6.900 nuevos 'vulnerables' en Cuba sin hablar de la miseria generalizada",
+      "resumen": "#SOSCuba: El Gobierno culpa al embargo de EEUU del aumento de casi 7.000 personas \"en situación de vulnerabilidad\" en #Cuba y quiere que la responsabilidad la asuman las empresas estatales y privadas.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792240367_69426.html",
+      "destacada": false,
+      "tema": "gobierno",
+      "fecha": "Sat, 17 Oct 2026 14:32:47 +0200",
+      "id": 24
+    },
+    {
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
@@ -313,7 +326,7 @@
       "destacada": false,
       "tema": "problemas",
       "fecha": "Sat, 17 Oct 2026 13:00:44 +0200",
-      "id": 24
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -326,7 +339,7 @@
       "destacada": false,
       "tema": "cubalex",
       "fecha": "Sat, 17 Oct 2026 11:56:37 +0200",
-      "id": 25
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -339,7 +352,7 @@
       "destacada": false,
       "tema": "reclamo",
       "fecha": "Sat, 17 Oct 2026 01:15:24 +0200",
-      "id": 26
+      "id": 27
     },
     {
       "categoria": "salud",
@@ -352,7 +365,7 @@
       "destacada": false,
       "tema": "aceite",
       "fecha": "Fri, 16 Oct 2026 23:01:48 +0200",
-      "id": 27
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -365,7 +378,7 @@
       "destacada": false,
       "tema": "emplaza",
       "fecha": "Fri, 16 Oct 2026 20:30:58 +0200",
-      "id": 28
+      "id": 29
     },
     {
       "categoria": "energia",
@@ -378,7 +391,7 @@
       "destacada": false,
       "tema": "incendio",
       "fecha": "Fri, 16 Oct 2026 19:03:00 +0200",
-      "id": 29
+      "id": 30
     },
     {
       "categoria": "energia",
@@ -391,20 +404,20 @@
       "destacada": false,
       "tema": "incendio",
       "fecha": "Fri, 16 Oct 2026 15:36:34 +0200",
-      "id": 30
+      "id": 31
     },
     {
-      "categoria": "transporte",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Dos científicos cubanos abren camino a la clonación de caballos en Chile",
-      "resumen": "Tras 22 años en Chile, #FidelOvidioCastro y #LleretnyRodríguez abren una vía para reproducir equinos de alto valor en ese país a través de la #clonación.",
+      "titulo": "Abriendo Espacios",
+      "resumen": "Un programa dedicado a conocer la realidad de la violencia de género en Cuba. Una espacio para dar voz a la mujer cubana.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792154326_69416.html",
+      "enlace_original": "https://www.martinoticias.com/a/481209.html",
       "destacada": false,
-      "tema": "científicos",
-      "fecha": "Fri, 16 Oct 2026 14:38:46 +0200",
-      "id": 31
+      "tema": "abriendo",
+      "fecha": "Sat, 17 Oct 2026 09:00:00 -0400",
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -417,7 +430,7 @@
       "destacada": false,
       "tema": "alerta",
       "fecha": "Sat, 17 Oct 2026 09:06:13 +0000",
-      "id": 32
+      "id": 33
     },
     {
       "categoria": "politica",
@@ -430,7 +443,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sat, 17 Oct 2026 03:30:30 +0000",
-      "id": 33
+      "id": 34
     },
     {
       "categoria": "politica",
@@ -443,7 +456,7 @@
       "destacada": false,
       "tema": "forma",
       "fecha": "Sat, 17 Oct 2026 01:22:52 +0000",
-      "id": 34
+      "id": 35
     },
     {
       "categoria": "politica",
@@ -456,7 +469,7 @@
       "destacada": false,
       "tema": "rusia",
       "fecha": "Fri, 16 Oct 2026 23:33:54 +0000",
-      "id": 35
+      "id": 36
     },
     {
       "categoria": "economia",
@@ -469,33 +482,7 @@
       "destacada": false,
       "tema": "recibe",
       "fecha": "Fri, 16 Oct 2026 22:10:17 +0000",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Día Mundial de la Alimentación: una mirada al campo cubano",
-      "resumen": "Cada 16 de octubre, el Día Mundial de la Alimentación invita a reflexionar sobre el acceso a los alimentos y los desafíos que enfrenta la agricultura. En Cuba, esta fecha llega en medio de una profunda crisis económica, marcada por la escasez de recursos, las dificultades materiales y los obstáculos",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/fotorreportajes/2026/10/16/dia-mundial-de-la-alimentacion-una-mirada-al-campo-cubano/",
-      "destacada": false,
-      "tema": "mundial",
-      "fecha": "Fri, 16 Oct 2026 21:44:58 +0000",
       "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Hoy en la Mesa Redonda: Asociación Hermanos Saíz: 40 años en defensa del arte joven",
-      "resumen": "La Asociación Hermanos Saíz celebrará sus 40 años en la emisión de este viernes de la Mesa Redonda, dedicada a repasar la historia, los aportes y los desafíos de una organización esencial en la promoción y defensa del arte joven cubano. The post Hoy en la Mesa Redonda: Asociación Hermanos Saíz: 40 a",
-      "imagen_url": "",
-      "enlace_original": "http://mesaredonda.cubadebate.cu/noticias/2026/10/16/hoy-en-la-mesa-redonda-asociacion-hermanos-saiz-40-anos-en-defensa-del-arte-joven/",
-      "destacada": false,
-      "tema": "redonda",
-      "fecha": "Fri, 16 Oct 2026 20:45:13 +0000",
-      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -508,7 +495,7 @@
       "destacada": false,
       "tema": "charla",
       "fecha": "Sat, 17 Oct 26 12:36:00 +0200",
-      "id": 39
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -521,7 +508,7 @@
       "destacada": false,
       "tema": "llega",
       "fecha": "Sat, 17 Oct 26 12:06:00 +0200",
-      "id": 40
+      "id": 39
     },
     {
       "categoria": "energia",
@@ -534,7 +521,7 @@
       "destacada": false,
       "tema": "especialista",
       "fecha": "Sat, 17 Oct 26 11:58:00 +0200",
-      "id": 41
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -547,7 +534,7 @@
       "destacada": false,
       "tema": "festival",
       "fecha": "Sat, 17 Oct 26 11:46:00 +0200",
-      "id": 42
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -560,7 +547,7 @@
       "destacada": false,
       "tema": "violaciones",
       "fecha": "Sat, 17 Oct 26 11:44:00 +0200",
-      "id": 43
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -573,7 +560,7 @@
       "destacada": false,
       "tema": "busca",
       "fecha": "Sat, 17 Oct 26 11:37:00 +0200",
-      "id": 44
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -586,7 +573,7 @@
       "destacada": false,
       "tema": "papalotes",
       "fecha": "Sat, 17 Oct 26 11:34:00 +0200",
-      "id": 45
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -599,7 +586,7 @@
       "destacada": false,
       "tema": "combate",
       "fecha": "Sat, 17 Oct 26 11:30:00 +0200",
-      "id": 46
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -612,7 +599,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Sat, 17 Oct 26 11:24:00 +0200",
-      "id": 47
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -625,7 +612,7 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Fri, 16 Oct 2026 14:05:50 +0000",
-      "id": 48
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -638,7 +625,7 @@
       "destacada": false,
       "tema": "celebran",
       "fecha": "Fri, 16 Oct 2026 13:09:03 +0000",
-      "id": 49
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -651,7 +638,7 @@
       "destacada": false,
       "tema": "premian",
       "fecha": "Fri, 16 Oct 2026 13:07:49 +0000",
-      "id": 50
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -664,7 +651,7 @@
       "destacada": false,
       "tema": "piratas",
       "fecha": "Fri, 16 Oct 2026 14:31:35 +0000",
-      "id": 51
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -677,7 +664,7 @@
       "destacada": false,
       "tema": "atención",
       "fecha": "Thu, 15 Oct 2026 19:58:35 +0000",
-      "id": 52
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -690,7 +677,7 @@
       "destacada": false,
       "tema": "comenzarán",
       "fecha": "Thu, 15 Oct 2026 17:56:05 +0000",
-      "id": 53
+      "id": 52
     },
     {
       "categoria": "politica",
@@ -703,7 +690,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 15 Oct 2026 17:42:16 +0000",
-      "id": 54
+      "id": 53
     },
     {
       "categoria": "salud",
@@ -716,7 +703,7 @@
       "destacada": false,
       "tema": "acusado",
       "fecha": "Fri, 16 Oct 2026 12:00:00 +0000",
-      "id": 55
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -729,7 +716,7 @@
       "destacada": false,
       "tema": "archivos",
       "fecha": "Fri, 16 Oct 2026 21:01:32 GMT",
-      "id": 56
+      "id": 55
     },
     {
       "categoria": "economia",
@@ -742,7 +729,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 16 Oct 2026 10:03:00 GMT",
-      "id": 57
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -755,7 +742,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Thu, 15 Oct 2026 22:00:00 GMT",
-      "id": 58
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -768,7 +755,7 @@
       "destacada": false,
       "tema": "recuerdos",
       "fecha": "Thu, 15 Oct 2026 17:30:00 GMT",
-      "id": 59
+      "id": 58
     }
   ]
 }
