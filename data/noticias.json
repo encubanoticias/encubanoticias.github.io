@@ -1,8 +1,34 @@
 {
   "fecha": "2026-10-18",
-  "hora": "13:19",
-  "total": 54,
+  "hora": "15:12",
+  "total": 52,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Oro y plata en el Panamericano de Beisbol5",
+      "resumen": "Cuba alcanzó la corona continental juvenil y cedió el trono entre mayores",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-18/oro-y-plata-en-el-panamericano-de-beisbol5-18-10-2026-10-10-22",
+      "destacada": true,
+      "tema": "plata",
+      "fecha": "Sun, 18 Oct 2026 10:10:22 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Tocan a la puerta los Juegos Olímpicos de la Juventud",
+      "resumen": "Comienzan el 31 de este mes y Cuba ocupa el décimo lugar en el medallero histórico",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-18/tocan-a-la-puerta-los-juegos-olimpicos-de-la-juventud-18-10-2026-10-10-55",
+      "destacada": true,
+      "tema": "tocan",
+      "fecha": "Sun, 18 Oct 2026 10:10:55 -0400",
+      "id": 2
+    },
     {
       "categoria": "politica",
       "fuente": "https://www.granma.cu",
@@ -14,33 +40,46 @@
       "destacada": true,
       "tema": "combate",
       "fecha": "Fri, 16 Oct 2026 17:10:00 -0400",
-      "id": 1
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Inauguran en Bayamo XXXII Fiesta de la Cubanía",
-      "resumen": "La Fiesta de la Cubanía volverá a colmar de música, identidad y tradición el territorio de Bayamo, capital de la provincia de Granma",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-17/inauguran-en-bayamo-xxxii-fiesta-de-la-cubania-con-la-fe-de-bautismo-de-aguilera-como-objeto-ceremonial-17-10-2026-11-10-58",
-      "destacada": true,
-      "tema": "inauguran",
-      "fecha": "Sat, 17 Oct 2026 11:10:58 -0400",
-      "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "El maestro más amado del arbitraje cubano",
-      "resumen": "Se conmemoran 90 años del debut de Amado Maestri en el máximo nivel del beisbol de la Isla",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-10-16/el-maestro-mas-amado-del-arbitraje-cubano-16-10-2026-19-10-22",
-      "destacada": true,
-      "tema": "maestro",
-      "fecha": "Fri, 16 Oct 2026 19:10:22 -0400",
       "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Aldea alfarera en Vietnam ofrece capacitación a artesanos de Cuba",
+      "resumen": "Hanoi, 18 oct (Prensa Latina) La vicepresidenta de la Asociación de Aldeas Artesanales de Vietnam y empresaria, Ha Thi Vinh, invitó hoy a artesanos cubanos para capacitarse en la capitalina aldea alfarera de Bat Trang, con una tradición milenaria en ese oficio. The post Aldea alfarera en Vietnam ofr",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/18/aldea-alfarera-en-vietnam-ofrece-capacitacion-a-artesanos-de-cuba/",
+      "destacada": true,
+      "tema": "aldea",
+      "fecha": "Sun, 18 Oct 2026 14:54:47 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Organizaciones brasileñas reafirman solidaridad con Cuba",
+      "resumen": "Brasilia, 18 oct (Prensa Latina) Organizaciones de solidaridad con Cuba en Brasil rechazaron las presiones de Estados Unidos contra otros países ante la próxima votación en Naciones Unidas sobre el bloqueo económico que mantiene hasta hoy hacia la isla. The post Organizaciones brasileñas reafirman s",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/18/organizaciones-brasilenas-reafirman-solidaridad-con-cuba/",
+      "destacada": true,
+      "tema": "organizaciones",
+      "fecha": "Sun, 18 Oct 2026 14:23:06 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La escasez de electricidad en Cuba provoca una “guerra de circuitos”",
+      "resumen": "\"Hasta cuándo los beneficios para unos pocos y los demás aguantando como animales”",
+      "imagen_url": "https://static.14ymedio.com/clip/1a8eaedd-51d8-4138-a5d8-988f69487681_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/escasez-electricidad-cuba-provoca-guerra_1_1132109.html",
+      "destacada": false,
+      "tema": "escasez",
+      "fecha": "Sun, 18 Oct 2026 14:01:49 +0000",
+      "id": 6
     },
     {
       "categoria": "transporte",
@@ -50,36 +89,10 @@
       "resumen": "Se exhibirá el 16 de noviembre en el 39° Festival Internacional de Cine Documental de Ámsterdam, uno de los más prestigiosos del mundo",
       "imagen_url": "https://static.14ymedio.com/clip/fd7d3241-5c53-47b0-8d9f-130cc28628d6_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cultura/cineasta-cubano-alejandro-alonso-estrenara_1_1132102.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sun, 18 Oct 2026 13:01:51 +0000",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El espía soviético que ayudó a Kennedy a descubrir el alcance de los misiles instalados en Cuba",
-      "resumen": "El coronel Oleg Penkovski fue fusilado después de entregar a la CIA miles de documentos secretos y contribuir así a evitar una catástrofe nuclear",
-      "imagen_url": "https://static.14ymedio.com/clip/1ba94931-2884-4887-b0a5-bd37970f6b89_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/opinion/espia-sovietico-ayudo-kennedy-descubrir_1_1132066.html",
-      "destacada": true,
-      "tema": "espía",
-      "fecha": "Sat, 17 Oct 2026 12:56:20 +0000",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las aprobaciones de residencia bajo la Ley de Ajuste Cubano caen un 99,7% en los últimos dos años",
-      "resumen": "La tasa de aprobación pasa del 98,7% en 2024 al 23,7% en 2026, mientras los casos pendientes superan los 342.000",
-      "imagen_url": "https://static.14ymedio.com/clip/a2f680cf-108b-46aa-b1dd-e3ddd6998f1f_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/migracion/aprobaciones-residencia-ley-ajuste-cubano_1_1132080.html",
-      "destacada": false,
-      "tema": "aprobaciones",
-      "fecha": "Sat, 17 Oct 2026 16:26:26 +0000",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Sat, 17 Oct 2026 17:31:12 +0000",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "politica",
@@ -105,20 +118,33 @@
       "destacada": false,
       "tema": "llegan",
       "fecha": "Sat, 17 Oct 2026 16:38:59 +0000",
-      "id": 8
+      "id": 9
     },
     {
-      "categoria": "economia",
-      "fuente": "https://www.14ymedio.com",
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El salario medio del personal de la Embajada cubana en EE UU está por debajo del umbral de pobreza",
-      "resumen": "El Gobierno destina más del doble de dinero a los alquileres que a los sueldos, mientras paga 8.569 dólares mensuales por la residencia de la embajadora",
-      "imagen_url": "https://static.14ymedio.com/clip/b6288854-9d9b-40fc-83f9-3ef48a03f68a_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/salario-medio-personal-embajada-cubana_1_1132052.html",
+      "titulo": "Belga que llevaba donaciones para niños sufre robo al salir del aeropuerto de La Habana",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-18-u1-e135253-s27061-nid343180-belga-llevaba-donaciones-ninos-sufre-robo-al-salir",
       "destacada": false,
-      "tema": "salario",
-      "fecha": "Fri, 16 Oct 2026 18:51:08 +0000",
-      "id": 9
+      "tema": "belga",
+      "fecha": "Sun, 18 Oct 2026 16:18:55 +0200",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Milei señala a Cuba, Venezuela y Argentina como ejemplos de la destrucción que deja el socialismo",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-18-u1-e43231-s27061-nid343177-milei-senala-cuba-venezuela-argentina-ejemplos",
+      "destacada": false,
+      "tema": "milei",
+      "fecha": "Sun, 18 Oct 2026 15:36:00 +0200",
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -131,59 +157,7 @@
       "destacada": false,
       "tema": "hermano",
       "fecha": "Sun, 18 Oct 2026 13:52:45 +0200",
-      "id": 10
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Raúl Torres pide a los gobiernos del mundo que apoyen a Cuba en la ONU: «Voten contra el bloqueo por humanidad»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-18-u1-e43231-s27061-nid343166-raul-torres-pide-gobiernos-mundo-apoyen-cuba-onu",
-      "destacada": false,
-      "tema": "torres",
-      "fecha": "Sun, 18 Oct 2026 12:20:30 +0200",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Renovar el permiso de trabajo sin quedarte sin empleo: guía para cubanos tras el fin de la prórroga automática",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-18-u1-e129488-s27061-nid343165-renovar-permiso-trabajo-quedarte-empleo-guia-cubanos",
-      "destacada": false,
-      "tema": "renovar",
-      "fecha": "Sun, 18 Oct 2026 12:13:56 +0200",
       "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Aparatoso accidente: Camión sin frenos se vuelca y destroza parte de una vivienda en La Habana",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-18-u1-e129488-s27061-nid343164-aparatoso-accidente-camion-pierde-frenos-vuelca",
-      "destacada": false,
-      "tema": "aparatoso",
-      "fecha": "Sun, 18 Oct 2026 11:37:36 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubano de 81 años acusado de matar a dueño de taller en Medley: revelan el insólito detonante del crimen",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-18-u1-e129488-s27061-nid343100-acusan-cubano-81-anos-disparar-mortalmente-dueno",
-      "destacada": false,
-      "tema": "cubano",
-      "fecha": "Sun, 18 Oct 2026 11:02:12 +0200",
-      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -196,7 +170,7 @@
       "destacada": false,
       "tema": "podcast",
       "fecha": "Sat, 17 Oct 2026 19:26:24 +0000",
-      "id": 15
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -209,7 +183,7 @@
       "destacada": false,
       "tema": "cuenta",
       "fecha": "Sun, 18 Oct 2026 13:20:28 +0000",
-      "id": 16
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -222,7 +196,7 @@
       "destacada": false,
       "tema": "influencia",
       "fecha": "Sat, 17 Oct 2026 22:53:28 +0000",
-      "id": 17
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -235,7 +209,7 @@
       "destacada": false,
       "tema": "capacitar",
       "fecha": "Sat, 17 Oct 2026 22:32:21 +0000",
-      "id": 18
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -248,7 +222,7 @@
       "destacada": false,
       "tema": "steel",
       "fecha": "Sat, 17 Oct 2026 18:11:30 +0000",
-      "id": 19
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -261,7 +235,7 @@
       "destacada": false,
       "tema": "bayamo",
       "fecha": "Fri, 16 Oct 2026 18:54:01 +0000",
-      "id": 20
+      "id": 18
     },
     {
       "categoria": "energia",
@@ -274,7 +248,7 @@
       "destacada": false,
       "tema": "siete",
       "fecha": "Sun, 18 Oct 2026 14:54:30 +0200",
-      "id": 21
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -287,7 +261,7 @@
       "destacada": false,
       "tema": "existe",
       "fecha": "Sun, 18 Oct 2026 13:00:18 +0200",
-      "id": 22
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -300,7 +274,7 @@
       "destacada": false,
       "tema": "empobrece",
       "fecha": "Sun, 18 Oct 2026 12:45:52 +0200",
-      "id": 23
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -313,7 +287,7 @@
       "destacada": false,
       "tema": "premia",
       "fecha": "Sat, 17 Oct 2026 23:27:17 +0200",
-      "id": 24
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -326,7 +300,7 @@
       "destacada": false,
       "tema": "cubalex",
       "fecha": "Sat, 17 Oct 2026 21:46:21 +0200",
-      "id": 25
+      "id": 23
     },
     {
       "categoria": "politica",
@@ -339,7 +313,7 @@
       "destacada": false,
       "tema": "maría",
       "fecha": "Sat, 17 Oct 2026 21:44:38 +0200",
-      "id": 26
+      "id": 24
     },
     {
       "categoria": "energia",
@@ -352,7 +326,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Sat, 17 Oct 2026 19:06:06 +0200",
-      "id": 27
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -365,7 +339,7 @@
       "destacada": false,
       "tema": "vivir",
       "fecha": "Sat, 17 Oct 2026 17:03:48 +0200",
-      "id": 28
+      "id": 26
     },
     {
       "categoria": "economia",
@@ -378,7 +352,7 @@
       "destacada": false,
       "tema": "químico",
       "fecha": "Sat, 17 Oct 2026 15:35:02 +0200",
-      "id": 29
+      "id": 27
     },
     {
       "categoria": "politica",
@@ -391,7 +365,20 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Sat, 17 Oct 2026 14:32:47 +0200",
-      "id": 30
+      "id": 28
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Solicitud urgente ante la CIDH por la liberación y protección del periodista cubano Henry Constantín",
+      "resumen": "\"Buscamos que la protección internacional llegue antes de que ocurra un daño irreparable”, señaló Juan Carlos Vargas, director ejecutivo de Defensa CD. Constantín se encuentra privado de libertad desde el pasado 16 de septiembre en el penal Kilo 7, situado en la provincia de Camagüey.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/solicitud-urgente-ante-la-cidh-por-la-liberaci%c3%b3n-y-protecci%c3%b3n-del-periodista-cubano-henry-constant%c3%adn/482245.html",
+      "destacada": false,
+      "tema": "solicitud",
+      "fecha": "Sun, 18 Oct 2026 09:52:05 -0400",
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -404,7 +391,7 @@
       "destacada": false,
       "tema": "denuncian",
       "fecha": "Sun, 18 Oct 2026 09:15:06 -0400",
-      "id": 31
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -417,7 +404,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Sun, 18 Oct 2026 08:00:00 -0400",
-      "id": 32
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -430,7 +417,7 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Sun, 18 Oct 2026 07:00:30 -0400",
-      "id": 33
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -443,7 +430,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Sun, 18 Oct 2026 07:00:00 -0400",
-      "id": 34
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -456,6 +443,19 @@
       "destacada": false,
       "tema": "postmoderno",
       "fecha": "Sat, 17 Oct 2026 20:00:00 -0400",
+      "id": 34
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Abel Prieto denuncia en México la asfixia estadounidense contra Cuba: La palabra bloqueo se queda corta",
+      "resumen": "Durante su intervención, el relevante intelectual cubano afirmó que la nación caribeña atraviesa una situación compleja debido a la guerra económica de Washington. Sostuvo: “Vivimos en tiempos de tempestad. La palabra bloqueo se queda corta, ya no sirve para explicar lo que están haciendo con nosotr",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/18/abel-prieto-denuncia-en-mexico-la-asfixia-estadounidense-contra-cuba-la-palabra-bloqueo-se-queda-corta/",
+      "destacada": false,
+      "tema": "prieto",
+      "fecha": "Sun, 18 Oct 2026 14:50:45 +0000",
       "id": 35
     },
     {
@@ -589,30 +589,17 @@
       "id": 45
     },
     {
-      "categoria": "salud",
+      "categoria": "politica",
       "fuente": "https://actualidad.rt.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Rusia registra un medicamento cubano para el tratamiento de tumores malignos",
-      "resumen": "El fármaco cubano Nimotuzumab se usa para el tratamiento de tumores malignos de esófago, cabeza y cuello, así como determinados tipos de tumores cerebrales.",
-      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad4b5af59bf5b5b5b24260e.png",
-      "enlace_original": "https://actualidad-rt.com/actualidad/633036-rusia-registra-medicamento-cubano-tratamiento?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "titulo": "VIDEO: Se ata el cuello con cuerdas a motocicletas en movimiento para un truco y casi no lo cuenta",
+      "resumen": "Un hombre en la India intentó realizar un truco arriesgado atándose cuerdas al cuello y al cuerpo para resistir el jalón de motocicletas en movimiento. Sin embargo, la situación no salió como esperaba y casi muere sofocado. En un video compartido en redes sociales, se puede ver el fallido espectácul",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad4cea659bf5b44f12d5c79.jpg",
+      "enlace_original": "https://actualidad-rt.com/viral/633066-video-ata-cuello-cuerdas-motocicletas?utm_source=rss&utm_medium=rss&utm_campaign=all",
       "destacada": false,
-      "tema": "rusia",
-      "fecha": "Sun, 18 Oct 2026 13:18:45 +0000",
+      "tema": "video",
+      "fecha": "Sun, 18 Oct 2026 14:30:14 +0000",
       "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.guerrillero.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Pinar de fiesta",
-      "resumen": "Desde el pasado 10 de&#160;octubre inició en Cuba,&#160;y por ende en Pinar del Río,&#160;la Jornada por el Día de la Cultura Cubana, la cual se extiende hasta el 20 de este mes. La ocasión es propicia para poner todo el talento artístico, tanto profesional como aficionado, en función&#160;de los di",
-      "imagen_url": "",
-      "enlace_original": "https://www.guerrillero.cu/pinar-de-fiesta/",
-      "destacada": false,
-      "tema": "pinar",
-      "fecha": "Fri, 16 Oct 2026 14:05:50 +0000",
-      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -625,7 +612,7 @@
       "destacada": false,
       "tema": "presentación",
       "fecha": "Sat, 17 Oct 2026 23:13:45 +0000",
-      "id": 48
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -638,20 +625,7 @@
       "destacada": false,
       "tema": "detrás",
       "fecha": "Sat, 17 Oct 2026 22:50:28 +0000",
-      "id": 49
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "SNB 65: Piratas abordan la nave azul en el Cristóbal Labra",
-      "resumen": "Fue apenas la segunda victoria de los filibusteros en el torneo, conseguida gracias a un racimo de cinco carreras que desarboló a sus rivales en el cierre del sexto episodio La entrada SNB 65: Piratas abordan la nave azul en el Cristóbal Labra se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/snb-65-piratas-abordan-la-nave-azul-en-el-cristobal-labra/",
-      "destacada": false,
-      "tema": "piratas",
-      "fecha": "Fri, 16 Oct 2026 14:31:35 +0000",
-      "id": 50
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -664,7 +638,7 @@
       "destacada": false,
       "tema": "archivo",
       "fecha": "Sat, 17 Oct 2026 17:03:14 +0000",
-      "id": 51
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -677,7 +651,7 @@
       "destacada": false,
       "tema": "cocodrilos",
       "fecha": "Sat, 17 Oct 2026 06:11:16 +0000",
-      "id": 52
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -690,7 +664,7 @@
       "destacada": false,
       "tema": "archivos",
       "fecha": "Sat, 17 Oct 2026 22:28:33 GMT",
-      "id": 53
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -703,7 +677,7 @@
       "destacada": false,
       "tema": "columna",
       "fecha": "Sat, 17 Oct 2026 10:30:00 GMT",
-      "id": 54
+      "id": 52
     }
   ]
 }
