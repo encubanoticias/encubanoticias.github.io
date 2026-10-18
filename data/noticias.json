@@ -1,6 +1,6 @@
 {
   "fecha": "2026-10-18",
-  "hora": "01:24",
+  "hora": "03:16",
   "total": 57,
   "noticias": [
     {
@@ -56,16 +56,16 @@
       "id": 4
     },
     {
-      "categoria": "sociedad",
+      "categoria": "transporte",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Vegueros llegan primero a diez triunfos en el béisbol cubano",
-      "resumen": "La Habana, 17 oct (Prensa Latina) Los Vegueros de Pinar del Río alcanzaron hoy diez victorias en la 65.ª Serie Nacional de Béisbol al derrotar 6-3 a los Cazadores de Artemisa y consolidarse en la cima occidental. The post Vegueros llegan primero a diez triunfos en el béisbol cubano first appeared on",
+      "titulo": "Lamentan en Panamá fallecimiento de exembajador cubano",
+      "resumen": "Ciudad de Panamá, 17 oct (Prensa Latina) Personalidades, colectivos de solidaridad y representantes diplomáticos lamentaron hoy el fallecimiento del exembajador de Cuba en Panamá Reinaldo Calviac Lafferte, quien murió a los 82 años de edad. The post Lamentan en Panamá fallecimiento de exembajador cu",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/17/vegueros-llegan-primero-a-diez-triunfos-en-el-beisbol-cubano/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/17/lamentan-en-panama-fallecimiento-de-exembajador-cubano/",
       "destacada": true,
-      "tema": "vegueros",
-      "fecha": "Sat, 17 Oct 2026 23:32:58 +0000",
+      "tema": "lamentan",
+      "fecha": "Sun, 18 Oct 2026 02:39:16 +0000",
       "id": 5
     },
     {
@@ -160,6 +160,19 @@
       "id": 12
     },
     {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Así cierra el mercado informal en Cuba: El dólar y el euro terminan en aumento",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-18-u1-e208574-s27061-nid343159-asi-cierra-mercado-informal-cuba-dolar-euro-terminan",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Sun, 18 Oct 2026 02:18:14 +0200",
+      "id": 13
+    },
+    {
       "categoria": "transporte",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
@@ -170,7 +183,7 @@
       "destacada": false,
       "tema": "actriz",
       "fecha": "Sun, 18 Oct 2026 01:42:58 +0200",
-      "id": 13
+      "id": 14
     },
     {
       "categoria": "economia",
@@ -183,19 +196,6 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sun, 18 Oct 2026 01:20:14 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las cárceles cubanas concentraron la represión en septiembre, con la mayor incomunicación del año, según Cubalex",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-18-u1-e199894-s27061-nid343152-carceles-cubanas-concentraron-represion-septiembre",
-      "destacada": false,
-      "tema": "cárceles",
-      "fecha": "Sun, 18 Oct 2026 00:37:07 +0200",
       "id": 15
     },
     {
@@ -436,7 +436,7 @@
       "categoria": "politica",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Díaz-Canel asiste al acto por los 40 años de la AHS",
+      "titulo": "Díaz-Canel asiste al acto por los 40 años de la AHS (+Fotos)",
       "resumen": "Fundada el 18 de octubre de 1986, la organización reúne a jóvenes escritores, artistas, intelectuales y promotores de toda Cuba, menores de 35 años. La campaña de estas cuatro décadas, Alma AHS, ha desplegado una amplia agenda en las diferentes sedes provinciales con gran presencia juvenil y comunit",
       "imagen_url": "",
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/17/diaz-canel-asiste-al-acto-por-los-40-anos-de-la-ahs/",
@@ -459,19 +459,6 @@
       "id": 35
     },
     {
-      "categoria": "salud",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Científica cubana María del Carmen Domínguez recibe el Premio Mujeres Latinoamericanas en Química 2026",
-      "resumen": "Otorgan el Premio Mujeres Latinoamericanas en Química 2026 a la Dra.C. María del Carmen Domínguez, del Centro de Ingeniería Genética y Biotecnnología de Cuba, reconocida por su trabajo en el desarrollo de Jusvinza, un medicamento inmunomodulador que ayuda en el tratamiento de la inflamación en pacie",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/17/cientifica-cubana-maria-del-carmen-dominguez-recibe-el-premio-mujeres-latinoamericanas-en-quimica-2026/",
-      "destacada": false,
-      "tema": "científica",
-      "fecha": "Sat, 17 Oct 2026 14:42:35 +0000",
-      "id": 36
-    },
-    {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
@@ -482,7 +469,7 @@
       "destacada": false,
       "tema": "charla",
       "fecha": "Sat, 17 Oct 26 12:36:00 +0200",
-      "id": 37
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -495,7 +482,7 @@
       "destacada": false,
       "tema": "llega",
       "fecha": "Sat, 17 Oct 26 12:06:00 +0200",
-      "id": 38
+      "id": 37
     },
     {
       "categoria": "energia",
@@ -508,7 +495,7 @@
       "destacada": false,
       "tema": "especialista",
       "fecha": "Sat, 17 Oct 26 11:58:00 +0200",
-      "id": 39
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -521,7 +508,7 @@
       "destacada": false,
       "tema": "festival",
       "fecha": "Sat, 17 Oct 26 11:46:00 +0200",
-      "id": 40
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -534,7 +521,7 @@
       "destacada": false,
       "tema": "violaciones",
       "fecha": "Sat, 17 Oct 26 11:44:00 +0200",
-      "id": 41
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -547,7 +534,7 @@
       "destacada": false,
       "tema": "busca",
       "fecha": "Sat, 17 Oct 26 11:37:00 +0200",
-      "id": 42
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -560,7 +547,7 @@
       "destacada": false,
       "tema": "papalotes",
       "fecha": "Sat, 17 Oct 26 11:34:00 +0200",
-      "id": 43
+      "id": 42
     },
     {
       "categoria": "politica",
@@ -573,7 +560,7 @@
       "destacada": false,
       "tema": "forma",
       "fecha": "Sat, 17 Oct 26 11:27:00 +0200",
-      "id": 44
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -586,7 +573,7 @@
       "destacada": false,
       "tema": "alerta",
       "fecha": "Sat, 17 Oct 26 11:26:00 +0200",
-      "id": 45
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -599,7 +586,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Sat, 17 Oct 26 11:24:00 +0200",
-      "id": 46
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -612,7 +599,7 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Fri, 16 Oct 2026 14:05:50 +0000",
-      "id": 47
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -625,7 +612,7 @@
       "destacada": false,
       "tema": "celebran",
       "fecha": "Fri, 16 Oct 2026 13:09:03 +0000",
-      "id": 48
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -638,7 +625,7 @@
       "destacada": false,
       "tema": "premian",
       "fecha": "Fri, 16 Oct 2026 13:07:49 +0000",
-      "id": 49
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -651,7 +638,7 @@
       "destacada": false,
       "tema": "presentación",
       "fecha": "Sat, 17 Oct 2026 23:13:45 +0000",
-      "id": 50
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -664,7 +651,7 @@
       "destacada": false,
       "tema": "detrás",
       "fecha": "Sat, 17 Oct 2026 22:50:28 +0000",
-      "id": 51
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -677,7 +664,7 @@
       "destacada": false,
       "tema": "piratas",
       "fecha": "Fri, 16 Oct 2026 14:31:35 +0000",
-      "id": 52
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -690,7 +677,7 @@
       "destacada": false,
       "tema": "archivo",
       "fecha": "Sat, 17 Oct 2026 17:03:14 +0000",
-      "id": 53
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -703,6 +690,19 @@
       "destacada": false,
       "tema": "cocodrilos",
       "fecha": "Sat, 17 Oct 2026 06:11:16 +0000",
+      "id": 53
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Científica cubana María del Carmen Domínguez recibe el Premio Mujeres Latinoamericanas en Química 2026",
+      "resumen": "Otorgan el Premio Mujeres Latinoamericanas en Química 2026 a la Dra.C. María del Carmen Domínguez, del Centro de Ingeniería Genética y Biotecnnología de Cuba, reconocida por su trabajo en el desarrollo de Jusvinza, un medicamento inmunomodulador que ayuda en el tratamiento de la inflamación en pacie",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/17/maria-del-carmen-premio-mujeres-quimica-2026/",
+      "destacada": false,
+      "tema": "científica",
+      "fecha": "Sat, 17 Oct 2026 05:03:00 +0000",
       "id": 54
     },
     {
