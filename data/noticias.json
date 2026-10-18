@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-18",
-  "hora": "03:16",
-  "total": 57,
+  "hora": "04:17",
+  "total": 56,
   "noticias": [
     {
       "categoria": "politica",
@@ -160,6 +160,19 @@
       "id": 12
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Piden al Tribunal Supremo español sacar a asociación Cubanos por la Democracia del pleito contra la Ley de Nietos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-18-u1-e208574-s27061-nid343162-piden-al-tribunal-supremo-espanol-sacar-asociacion",
+      "destacada": false,
+      "tema": "piden",
+      "fecha": "Sun, 18 Oct 2026 04:39:27 +0200",
+      "id": 13
+    },
+    {
       "categoria": "economia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
@@ -170,7 +183,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sun, 18 Oct 2026 02:18:14 +0200",
-      "id": 13
+      "id": 14
     },
     {
       "categoria": "transporte",
@@ -183,19 +196,6 @@
       "destacada": false,
       "tema": "actriz",
       "fecha": "Sun, 18 Oct 2026 01:42:58 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "ONG ha destinado 53,000 dólares en ayudas al pueblo cubano: «Directo sin intermediario»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-18-u1-e199894-s27061-nid343149-ong-ha-destinado-53000-dolares-ayudas-al-pueblo",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Sun, 18 Oct 2026 01:20:14 +0200",
       "id": 15
     },
     {
@@ -423,6 +423,19 @@
       "categoria": "sociedad",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
+      "titulo": "Asociación Hermanos Saiz: cuatro décadas de vanguardia y compromiso con el arte joven cubano.",
+      "resumen": "La Asociación Hermanos Saiz (AHS), celebra este 18 de octubre sus 40 años de fundación, consolidada como la organización que aglutina la vanguardia artística e intelectual de Cuba. En sus 40 años, la organización ha demostrado que el arte joven cubano no solo resiste, sino que se reinventa, desde el",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/fotorreportajes/2026/10/18/asociacion-hermanos-saiz-cuatro-decadas-de-vanguardia-y-compromiso-con-el-arte-joven-cubano/",
+      "destacada": false,
+      "tema": "asociación",
+      "fecha": "Sun, 18 Oct 2026 04:03:43 +0000",
+      "id": 33
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
       "titulo": "Ormuz: Irán propone un plan de siete días y Trump lo califica de “inaceptable”",
       "resumen": "Araghchi advirtió que la seguridad marítima no puede restablecerse mediante nuevos ataques, amenazas de destrucción o bloqueos contra un país. Asimismo, reafirmó que Irán continuará defendiendo su soberanía y los intereses de su población, al tiempo que sostuvo que proteger los derechos nacionales y",
       "imagen_url": "",
@@ -430,33 +443,7 @@
       "destacada": false,
       "tema": "ormuz",
       "fecha": "Sat, 17 Oct 2026 17:57:20 +0000",
-      "id": 33
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Díaz-Canel asiste al acto por los 40 años de la AHS (+Fotos)",
-      "resumen": "Fundada el 18 de octubre de 1986, la organización reúne a jóvenes escritores, artistas, intelectuales y promotores de toda Cuba, menores de 35 años. La campaña de estas cuatro décadas, Alma AHS, ha desplegado una amplia agenda en las diferentes sedes provinciales con gran presencia juvenil y comunit",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/17/diaz-canel-asiste-al-acto-por-los-40-anos-de-la-ahs/",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Sat, 17 Oct 2026 16:55:15 +0000",
       "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Parque Infantil La Maestranza reabrirá este sábado en La Habana",
-      "resumen": "La Empresa de Gestión del Patrimonio S.A., perteneciente a la Oficina del Historiador de la Ciudad de La Habana, informó que, además de las actividades culturales y los talleres, los infantes podrán recrearse con los equipos inflables, el futbolito, la caja de bateo, los carritos locos, el toro mecá",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/17/parque-infantil-la-maestranza-reabrira-este-sabado-en-la-habana/",
-      "destacada": false,
-      "tema": "parque",
-      "fecha": "Sat, 17 Oct 2026 16:23:00 +0000",
-      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -469,7 +456,7 @@
       "destacada": false,
       "tema": "charla",
       "fecha": "Sat, 17 Oct 26 12:36:00 +0200",
-      "id": 36
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -482,7 +469,7 @@
       "destacada": false,
       "tema": "llega",
       "fecha": "Sat, 17 Oct 26 12:06:00 +0200",
-      "id": 37
+      "id": 36
     },
     {
       "categoria": "energia",
@@ -495,7 +482,7 @@
       "destacada": false,
       "tema": "especialista",
       "fecha": "Sat, 17 Oct 26 11:58:00 +0200",
-      "id": 38
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -508,7 +495,7 @@
       "destacada": false,
       "tema": "festival",
       "fecha": "Sat, 17 Oct 26 11:46:00 +0200",
-      "id": 39
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -521,7 +508,7 @@
       "destacada": false,
       "tema": "violaciones",
       "fecha": "Sat, 17 Oct 26 11:44:00 +0200",
-      "id": 40
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -534,7 +521,7 @@
       "destacada": false,
       "tema": "busca",
       "fecha": "Sat, 17 Oct 26 11:37:00 +0200",
-      "id": 41
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -547,7 +534,7 @@
       "destacada": false,
       "tema": "papalotes",
       "fecha": "Sat, 17 Oct 26 11:34:00 +0200",
-      "id": 42
+      "id": 41
     },
     {
       "categoria": "politica",
@@ -560,7 +547,7 @@
       "destacada": false,
       "tema": "forma",
       "fecha": "Sat, 17 Oct 26 11:27:00 +0200",
-      "id": 43
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -573,7 +560,7 @@
       "destacada": false,
       "tema": "alerta",
       "fecha": "Sat, 17 Oct 26 11:26:00 +0200",
-      "id": 44
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -586,7 +573,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Sat, 17 Oct 26 11:24:00 +0200",
-      "id": 45
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -599,7 +586,7 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Fri, 16 Oct 2026 14:05:50 +0000",
-      "id": 46
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -612,7 +599,7 @@
       "destacada": false,
       "tema": "celebran",
       "fecha": "Fri, 16 Oct 2026 13:09:03 +0000",
-      "id": 47
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -625,7 +612,7 @@
       "destacada": false,
       "tema": "premian",
       "fecha": "Fri, 16 Oct 2026 13:07:49 +0000",
-      "id": 48
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -638,7 +625,7 @@
       "destacada": false,
       "tema": "presentación",
       "fecha": "Sat, 17 Oct 2026 23:13:45 +0000",
-      "id": 49
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -651,7 +638,7 @@
       "destacada": false,
       "tema": "detrás",
       "fecha": "Sat, 17 Oct 2026 22:50:28 +0000",
-      "id": 50
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -664,7 +651,7 @@
       "destacada": false,
       "tema": "piratas",
       "fecha": "Fri, 16 Oct 2026 14:31:35 +0000",
-      "id": 51
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -677,7 +664,7 @@
       "destacada": false,
       "tema": "archivo",
       "fecha": "Sat, 17 Oct 2026 17:03:14 +0000",
-      "id": 52
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -690,7 +677,7 @@
       "destacada": false,
       "tema": "cocodrilos",
       "fecha": "Sat, 17 Oct 2026 06:11:16 +0000",
-      "id": 53
+      "id": 52
     },
     {
       "categoria": "salud",
@@ -703,7 +690,7 @@
       "destacada": false,
       "tema": "científica",
       "fecha": "Sat, 17 Oct 2026 05:03:00 +0000",
-      "id": 54
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -716,7 +703,7 @@
       "destacada": false,
       "tema": "archivos",
       "fecha": "Sat, 17 Oct 2026 22:28:33 GMT",
-      "id": 55
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -729,7 +716,7 @@
       "destacada": false,
       "tema": "columna",
       "fecha": "Sat, 17 Oct 2026 10:30:00 GMT",
-      "id": 56
+      "id": 55
     },
     {
       "categoria": "economia",
@@ -742,7 +729,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 16 Oct 2026 10:03:00 GMT",
-      "id": 57
+      "id": 56
     }
   ]
 }
