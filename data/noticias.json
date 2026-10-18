@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-18",
-  "hora": "09:14",
-  "total": 56,
+  "hora": "11:12",
+  "total": 54,
   "noticias": [
     {
       "categoria": "politica",
@@ -17,19 +17,6 @@
       "id": 1
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Sin válvulas de escape",
-      "resumen": "El Gobierno de EE. UU. continúa cerrando el cerco financiero impuesto a Cuba",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-16/sin-valvulas-de-escape-16-10-2026-11-10-09",
-      "destacada": true,
-      "tema": "válvulas",
-      "fecha": "Fri, 16 Oct 2026 11:10:09 -0400",
-      "id": 2
-    },
-    {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
@@ -40,7 +27,7 @@
       "destacada": true,
       "tema": "inauguran",
       "fecha": "Sat, 17 Oct 2026 11:10:58 -0400",
-      "id": 3
+      "id": 2
     },
     {
       "categoria": "sociedad",
@@ -53,46 +40,7 @@
       "destacada": true,
       "tema": "maestro",
       "fecha": "Fri, 16 Oct 2026 19:10:22 -0400",
-      "id": 4
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Prensa Latina denuncia en China impacto de bloqueo de EEUU a Cuba",
-      "resumen": "Shanghái, China, 18 oct (Prensa Latina) El vicepresidente de Prensa Latina, Alejandro Gómez, denunció hoy aquí las dificultades que enfrenta la agencia para mantener sus operaciones en el exterior y divulgar información sobre Cuba, en medio de las restricciones impuestas por el bloqueo estadounidens",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/18/prensa-latina-denuncia-en-china-impacto-de-bloqueo-de-eeuu-a-cuba/",
-      "destacada": true,
-      "tema": "prensa",
-      "fecha": "Sun, 18 Oct 2026 08:47:23 +0000",
-      "id": 5
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Abel Prieto llama desde México a denunciar bloqueo contra Cuba",
-      "resumen": "Ciudad de México, 18 oct (Prensa Latina) El presidente de Casa de las Américas, Abel Prieto, calificó de despiadado el cerco energético que mantiene hoy Estados Unidos contra Cuba, describió su impacto y el del bloqueo recrudecido sobre la población y llamó a denunciarlos. The post Abel Prieto llama",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/18/abel-prieto-llama-desde-mexico-a-denunciar-bloqueo-contra-cuba/",
-      "destacada": false,
-      "tema": "prieto",
-      "fecha": "Sun, 18 Oct 2026 06:58:45 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Liga antifascista de México iniciará campaña en apoyo a Cuba",
-      "resumen": "Ciudad de México, 18 oct (Prensa Latina) La Liga Cultural Antifascista de México iniciará hoy una campaña para recolectar recursos económicos con el propósito de enviar gasolina a Cuba, asediada por el bloqueo económico, comercial, financiero y energético de Estados Unidos. The post Liga antifascist",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/18/liga-antifascista-de-mexico-iniciara-campana-en-apoyo-a-cuba/",
-      "destacada": false,
-      "tema": "antifascista",
-      "fecha": "Sun, 18 Oct 2026 05:58:39 +0000",
-      "id": 7
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -102,10 +50,10 @@
       "resumen": "El coronel Oleg Penkovski fue fusilado después de entregar a la CIA miles de documentos secretos y contribuir así a evitar una catástrofe nuclear",
       "imagen_url": "https://static.14ymedio.com/clip/1ba94931-2884-4887-b0a5-bd37970f6b89_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/opinion/espia-sovietico-ayudo-kennedy-descubrir_1_1132066.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "espía",
       "fecha": "Sat, 17 Oct 2026 12:56:20 +0000",
-      "id": 8
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -115,10 +63,10 @@
       "resumen": "El régimen cubano teme perder votos a favor de su resolución anual contra el embargo",
       "imagen_url": "https://static.14ymedio.com/clip/a14c2e3b-c9ca-47cd-b1b3-6e2173fee045_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/habana-protesta-ee-uu-utilizara_1_1132090.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "habana",
       "fecha": "Sat, 17 Oct 2026 17:31:12 +0000",
-      "id": 9
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -131,7 +79,7 @@
       "destacada": false,
       "tema": "aprobaciones",
       "fecha": "Sat, 17 Oct 2026 16:26:26 +0000",
-      "id": 10
+      "id": 6
     },
     {
       "categoria": "politica",
@@ -144,20 +92,7 @@
       "destacada": false,
       "tema": "llegan",
       "fecha": "Sat, 17 Oct 2026 16:38:59 +0000",
-      "id": 11
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El trumpista Vic Mellor explica por qué es \"agente\" del Ministerio del Interior y habla con 'El Cangrejo'",
-      "resumen": "El candidato republicano al Congreso por Rhode Island dice que quiere “hacer oír la voz del Gobierno cubano” en EE UU para propiciar un acercamiento entre los dos países",
-      "imagen_url": "https://static.14ymedio.com/clip/a0487b1f-95d6-4303-9cbc-380d4931aca0_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/trumpista-vic-mellor-explica-agente_1_1132010.html",
-      "destacada": false,
-      "tema": "trumpista",
-      "fecha": "Fri, 16 Oct 2026 10:59:59 +0000",
-      "id": 12
+      "id": 7
     },
     {
       "categoria": "economia",
@@ -170,7 +105,7 @@
       "destacada": false,
       "tema": "salario",
       "fecha": "Fri, 16 Oct 2026 18:51:08 +0000",
-      "id": 13
+      "id": 8
     },
     {
       "categoria": "energia",
@@ -183,7 +118,59 @@
       "destacada": false,
       "tema": "grave",
       "fecha": "Fri, 16 Oct 2026 12:09:37 +0000",
-      "id": 14
+      "id": 9
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Raúl Torres pide a los gobiernos del mundo que apoyen a Cuba en la ONU: «Voten contra el bloqueo por humanidad»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-18-u1-e43231-s27061-nid343166-raul-torres-pide-gobiernos-mundo-apoyen-cuba-onu",
+      "destacada": false,
+      "tema": "torres",
+      "fecha": "Sun, 18 Oct 2026 12:20:30 +0200",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Renovar el permiso de trabajo sin quedarte sin empleo: guía para cubanos tras el fin de la prórroga automática",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-18-u1-e129488-s27061-nid343165-renovar-permiso-trabajo-quedarte-empleo-guia-cubanos",
+      "destacada": false,
+      "tema": "renovar",
+      "fecha": "Sun, 18 Oct 2026 12:13:56 +0200",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Aparatoso accidente: Camión sin frenos se vuelca y destroza parte de una vivienda en La Habana",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-18-u1-e129488-s27061-nid343164-aparatoso-accidente-camion-pierde-frenos-vuelca",
+      "destacada": false,
+      "tema": "aparatoso",
+      "fecha": "Sun, 18 Oct 2026 11:37:36 +0200",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubano de 81 años acusado de matar a dueño de taller en Medley: revelan el insólito detonante del crimen",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-18-u1-e129488-s27061-nid343100-acusan-cubano-81-anos-disparar-mortalmente-dueno",
+      "destacada": false,
+      "tema": "cubano",
+      "fecha": "Sun, 18 Oct 2026 11:02:12 +0200",
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -196,7 +183,7 @@
       "destacada": false,
       "tema": "piden",
       "fecha": "Sun, 18 Oct 2026 04:39:27 +0200",
-      "id": 15
+      "id": 14
     },
     {
       "categoria": "economia",
@@ -209,20 +196,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sun, 18 Oct 2026 02:18:14 +0200",
-      "id": 16
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Actriz Livia Brito revela por qué borró su acento cubano",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-18-u1-e199894-s27061-nid343157-actriz-livia-brito-revela-borro-acento-cubano",
-      "destacada": false,
-      "tema": "actriz",
-      "fecha": "Sun, 18 Oct 2026 01:42:58 +0200",
-      "id": 17
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -235,7 +209,7 @@
       "destacada": false,
       "tema": "podcast",
       "fecha": "Sat, 17 Oct 2026 19:26:24 +0000",
-      "id": 18
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -248,7 +222,7 @@
       "destacada": false,
       "tema": "influencia",
       "fecha": "Sat, 17 Oct 2026 22:53:28 +0000",
-      "id": 19
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -261,7 +235,7 @@
       "destacada": false,
       "tema": "capacitar",
       "fecha": "Sat, 17 Oct 2026 22:32:21 +0000",
-      "id": 20
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -274,7 +248,7 @@
       "destacada": false,
       "tema": "steel",
       "fecha": "Sat, 17 Oct 2026 18:11:30 +0000",
-      "id": 21
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -287,6 +261,32 @@
       "destacada": false,
       "tema": "bayamo",
       "fecha": "Fri, 16 Oct 2026 18:54:01 +0000",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Existe en Cuba un segundo Parque Güell?",
+      "resumen": "#Arquitectura de #Cuba: Mucho se ha dicho de las similitudes de los Jardines de La Tropical, en #LaHabana, con el #ParqueGüell de #Barcelona.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cultura/1792321218_69431.html",
+      "destacada": false,
+      "tema": "existe",
+      "fecha": "Sun, 18 Oct 2026 13:00:18 +0200",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Mientras empobrece y reprime a los cubanos, el régimen reivindica 'el derecho a vivir con dignidad'",
+      "resumen": "#SOSCuba: El #RégimenCubano dice defender el derecho de los pueblos a vivir con dignidad, pero un análisis de #DiarioDeCuba lo desmiente.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792320352_69434.html",
+      "destacada": false,
+      "tema": "empobrece",
+      "fecha": "Sun, 18 Oct 2026 12:45:52 +0200",
       "id": 22
     },
     {
@@ -395,28 +395,28 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El reclamo de EEUU ante la ONU: 'Rechacen la farsa del régimen. Apoyen una Cuba libre'",
-      "resumen": "#EEUU intensifica sus gestiones para restar apoyos a #Cuba en la #ONU antes de la votación contra el embargo. rechacen la farsa del régimen\", pide #Washington y #LaHabana denuncia que \"intentar influir en los votos\".",
+      "titulo": "La Santa Misa",
+      "resumen": "La misa dominical transmitida para Cuba desde el Santuario Nacional de Nuestra Señor de la Caridad, un templo católico de la Arquidiócesis de Miami dedicado a la Patrona de Cuba.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792192524_69423.html",
+      "enlace_original": "https://www.martinoticias.com/a/481261.html",
       "destacada": false,
-      "tema": "reclamo",
-      "fecha": "Sat, 17 Oct 2026 01:15:24 +0200",
+      "tema": "santa",
+      "fecha": "Sun, 18 Oct 2026 07:00:30 -0400",
       "id": 31
     },
     {
-      "categoria": "salud",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Aceite de Rusia y arroz de Japón: donaciones para una Cuba en ruinas",
-      "resumen": "#Rusia envía aceite, #Japón dona arroz, #Bahamas medicamentos y #China entrega piezas para bicicletas. Las #donaciones intentan paliar la escasez de productos básicos en una #Cuba sumida en la crisis total.",
+      "titulo": "Cuba Habla: \"Mejoría no veo ninguna”",
+      "resumen": "“Lo que vamos es más para atrás …” asegura padre habanero acerca de las reformas del régimen.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792184508_69422.html",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-mejor%c3%ada-no-veo-ninguna/481390.html",
       "destacada": false,
-      "tema": "aceite",
-      "fecha": "Fri, 16 Oct 2026 23:01:48 +0200",
+      "tema": "habla",
+      "fecha": "Sun, 18 Oct 2026 07:00:00 -0400",
       "id": 32
     },
     {
@@ -434,19 +434,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Voz de la oposición",
-      "resumen": "La Voz de la oposición, es un programa con entrevistas e informaciones con las voces de los protagonistas desde Cuba. Servirá de enlace para el cubano conozca lo que sucede en el país sin censura.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481233.html",
-      "destacada": false,
-      "tema": "oposición",
-      "fecha": "Sat, 17 Oct 2026 17:00:00 -0400",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
       "titulo": "Asociación Hermanos Saiz: cuatro décadas de vanguardia y compromiso con el arte joven cubano.",
@@ -456,7 +443,7 @@
       "destacada": false,
       "tema": "asociación",
       "fecha": "Sun, 18 Oct 2026 04:03:43 +0000",
-      "id": 35
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -469,20 +456,46 @@
       "destacada": false,
       "tema": "ormuz",
       "fecha": "Sat, 17 Oct 2026 17:57:20 +0000",
+      "id": 35
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Científica cubana María del Carmen Domínguez recibe el Premio Mujeres Latinoamericanas en Química 2026",
+      "resumen": "Cubadebate - Imagen: CIGB - Otorgan el Premio Mujeres Latinoamericanas en Química 2026 a la Dra.C. M...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125559-cientifica-cubana-maria-del-carmen-dominguez-recibe-el-premio-mujeres-latinoamericanas-en-quimica-2026.jpg?t=1792315621",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261018/125559/125559-cientifica-cubana-maria-del-carmen-dominguez-recibe-el-premio-mujeres-latinoamericanas-en-quimica-2026",
+      "destacada": false,
+      "tema": "científica",
+      "fecha": "Sun, 18 Oct 26 11:25:00 +0200",
       "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Flávio Bolsonaro pagó 600 000 reales a Elytron, empresa que ofrecía un sistema de IA para manipular elecciones",
+      "resumen": "Cubadebate - Imagen: Wikimedia Commons - El senador ultraderechista Flávio Bolsonaro, candidato a l...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125558-flavio-bolsonaro-pago-600-000-reales-a-elytron-empresa-que-ofrecia-un-sistema-de-ia-para-manipular-elecciones.jpg?t=1792315466",
+      "enlace_original": "https://www.cubainformacion.tv/america-latina/20261018/125558/125558-flavio-bolsonaro-pago-600-000-reales-a-elytron-empresa-que-ofrecia-un-sistema-de-ia-para-manipular-elecciones",
+      "destacada": false,
+      "tema": "flávio",
+      "fecha": "Sun, 18 Oct 26 11:17:00 +0200",
+      "id": 37
     },
     {
       "categoria": "politica",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "alternativa",
       "titulo": "Presidente de Cuba insta a perfeccionar métodos de dirección",
-      "resumen": "Prensa Latina - El presidente de Cuba, Miguel Díaz-Canel, recalcó hoy la necesidad de perfeccionar l...",
+      "resumen": "Prensa Latina - Vídeo: Canal Caribe - El presidente de Cuba, Miguel Díaz-Canel, recalcó hoy la neces...",
       "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125557-presidente-de-cuba-insta-a-perfeccionar-metodos-de-direccion.jpg?t=1792314967",
       "enlace_original": "https://www.cubainformacion.tv/cuba/20261018/125557/125557-presidente-de-cuba-insta-a-perfeccionar-metodos-de-direccion",
       "destacada": false,
       "tema": "presidente",
       "fecha": "Sun, 18 Oct 26 11:14:00 +0200",
-      "id": 37
+      "id": 38
     },
     {
       "categoria": "politica",
@@ -495,7 +508,7 @@
       "destacada": false,
       "tema": "agradece",
       "fecha": "Sun, 18 Oct 26 11:10:00 +0200",
-      "id": 38
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -508,7 +521,20 @@
       "destacada": false,
       "tema": "caravana",
       "fecha": "Sun, 18 Oct 26 11:08:00 +0200",
-      "id": 39
+      "id": 40
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Abel Prieto llama desde México a denunciar bloqueo contra Cuba",
+      "resumen": "Prensa Latina - El presidente de Casa de las Américas, Abel Prieto, calificó de despiadado el cerco ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125554-abel-prieto-llama-desde-mexico-a-denunciar-bloqueo-contra-cuba.jpg?t=1792314499",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261018/125554/125554-abel-prieto-llama-desde-mexico-a-denunciar-bloqueo-contra-cuba",
+      "destacada": false,
+      "tema": "prieto",
+      "fecha": "Sun, 18 Oct 26 11:06:00 +0200",
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -521,7 +547,7 @@
       "destacada": false,
       "tema": "charla",
       "fecha": "Sat, 17 Oct 26 12:36:00 +0200",
-      "id": 40
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -534,7 +560,7 @@
       "destacada": false,
       "tema": "llega",
       "fecha": "Sat, 17 Oct 26 12:06:00 +0200",
-      "id": 41
+      "id": 43
     },
     {
       "categoria": "energia",
@@ -547,32 +573,6 @@
       "destacada": false,
       "tema": "especialista",
       "fecha": "Sat, 17 Oct 26 11:58:00 +0200",
-      "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Festival IMAGO, iniciativa de la Facultad de Arte de los Medios de Comunicación Audiovisual de La Habana",
-      "resumen": "Canal Caribe.- El festival IMAGO es una iniciativa impulsada por la Facultad de Arte de los Medios d...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125548-festival-imago-iniciativa-de-la-facultad-de-arte-de-los-medios-de-comunicacion-audiovisual-de-la-habana.jpg?t=1792230472",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261017/125548/125548-festival-imago-iniciativa-de-la-facultad-de-arte-de-los-medios-de-comunicacion-audiovisual-de-la-habana",
-      "destacada": false,
-      "tema": "festival",
-      "fecha": "Sat, 17 Oct 26 11:46:00 +0200",
-      "id": 43
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Violaciones en las transferencias bancarias en el comercio en Cuba",
-      "resumen": "Canal Caribe.- Un equipo de Canal Caribe da continuidad a las violaciones en las transferencias banc...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125547-violaciones-en-las-transferencias-bancarias-en-el-comercio-en-cuba.jpg?t=1792230410",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261017/125547/125547-violaciones-en-las-transferencias-bancarias-en-el-comercio-en-cuba",
-      "destacada": false,
-      "tema": "violaciones",
-      "fecha": "Sat, 17 Oct 26 11:44:00 +0200",
       "id": 44
     },
     {
@@ -680,19 +680,6 @@
       "id": 52
     },
     {
-      "categoria": "salud",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Científica cubana María del Carmen Domínguez recibe el Premio Mujeres Latinoamericanas en Química 2026",
-      "resumen": "Otorgan el Premio Mujeres Latinoamericanas en Química 2026 a la Dra.C. María del Carmen Domínguez, del Centro de Ingeniería Genética y Biotecnnología de Cuba, reconocida por su trabajo en el desarrollo de Jusvinza, un medicamento inmunomodulador que ayuda en el tratamiento de la inflamación en pacie",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/17/maria-del-carmen-premio-mujeres-quimica-2026/",
-      "destacada": false,
-      "tema": "científica",
-      "fecha": "Sat, 17 Oct 2026 05:03:00 +0000",
-      "id": 53
-    },
-    {
       "categoria": "sociedad",
       "fuente": "https://eltoque.com",
       "fuente_tipo": "alternativa",
@@ -703,7 +690,7 @@
       "destacada": false,
       "tema": "archivos",
       "fecha": "Sat, 17 Oct 2026 22:28:33 GMT",
-      "id": 54
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -716,20 +703,7 @@
       "destacada": false,
       "tema": "columna",
       "fecha": "Sat, 17 Oct 2026 10:30:00 GMT",
-      "id": 55
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El dólar alcanza los 800 CUP en el mercado informal tras cuatro días consecutivos de alzas",
-      "resumen": "El dólar estadounidense llegó a 800 CUP en el mercado informal cubano tras cuatro jornadas de alzas y acumula un incremento de 50 pesos desde el cierre de septiembre.",
-      "imagen_url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/2021_Dominguez_DINERO_CAMBIO_DOLARES_49da193372.jpg/width=1920,quality=75,fit=scale-down,dpr=1,slow-connection-quality=40",
-      "enlace_original": "https://eltoque.com/el-dolar-alcanza-los-800-cup-en-el-mercado-informal-tras-cuatro-dias-consecutivos-de-alzas",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Fri, 16 Oct 2026 10:03:00 GMT",
-      "id": 56
+      "id": 54
     }
   ]
 }
