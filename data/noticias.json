@@ -1,6 +1,6 @@
 {
   "fecha": "2026-10-18",
-  "hora": "12:12",
+  "hora": "13:19",
   "total": 54,
   "noticias": [
     {
@@ -43,6 +43,19 @@
       "id": 3
     },
     {
+      "categoria": "transporte",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El cineasta cubano Alejandro Alonso estrenará en Europa la película 'Bahía Honda', un viaje hacia la libertad en barcos rotos",
+      "resumen": "Se exhibirá el 16 de noviembre en el 39° Festival Internacional de Cine Documental de Ámsterdam, uno de los más prestigiosos del mundo",
+      "imagen_url": "https://static.14ymedio.com/clip/fd7d3241-5c53-47b0-8d9f-130cc28628d6_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cultura/cineasta-cubano-alejandro-alonso-estrenara_1_1132102.html",
+      "destacada": true,
+      "tema": "tipo_cambio",
+      "fecha": "Sun, 18 Oct 2026 13:01:51 +0000",
+      "id": 4
+    },
+    {
       "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -53,19 +66,6 @@
       "destacada": true,
       "tema": "espía",
       "fecha": "Sat, 17 Oct 2026 12:56:20 +0000",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Habana protesta porque EE UU utilizará la ONU para denunciar la represión en la Isla",
-      "resumen": "El régimen cubano teme perder votos a favor de su resolución anual contra el embargo",
-      "imagen_url": "https://static.14ymedio.com/clip/a14c2e3b-c9ca-47cd-b1b3-6e2173fee045_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/habana-protesta-ee-uu-utilizara_1_1132090.html",
-      "destacada": true,
-      "tema": "habana",
-      "fecha": "Sat, 17 Oct 2026 17:31:12 +0000",
       "id": 5
     },
     {
@@ -82,6 +82,19 @@
       "id": 6
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Habana protesta porque EE UU utilizará la ONU para denunciar la represión en la Isla",
+      "resumen": "El régimen cubano teme perder votos a favor de su resolución anual contra el embargo",
+      "imagen_url": "https://static.14ymedio.com/clip/a14c2e3b-c9ca-47cd-b1b3-6e2173fee045_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/habana-protesta-ee-uu-utilizara_1_1132090.html",
+      "destacada": false,
+      "tema": "habana",
+      "fecha": "Sat, 17 Oct 2026 17:31:12 +0000",
+      "id": 7
+    },
+    {
       "categoria": "politica",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "llegan",
       "fecha": "Sat, 17 Oct 2026 16:38:59 +0000",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "economia",
@@ -105,7 +118,20 @@
       "destacada": false,
       "tema": "salario",
       "fecha": "Fri, 16 Oct 2026 18:51:08 +0000",
-      "id": 8
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Hermano de Karildi Marín convoca a familias de desaparecidos en Cuba a crear una red de apoyo",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-18-u1-e129488-s27061-nid343172-hermano-karildi-marin-convoca-familias-desaparecidos",
+      "destacada": false,
+      "tema": "hermano",
+      "fecha": "Sun, 18 Oct 2026 13:52:45 +0200",
+      "id": 10
     },
     {
       "categoria": "politica",
@@ -118,7 +144,7 @@
       "destacada": false,
       "tema": "torres",
       "fecha": "Sun, 18 Oct 2026 12:20:30 +0200",
-      "id": 9
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -131,7 +157,7 @@
       "destacada": false,
       "tema": "renovar",
       "fecha": "Sun, 18 Oct 2026 12:13:56 +0200",
-      "id": 10
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -144,7 +170,7 @@
       "destacada": false,
       "tema": "aparatoso",
       "fecha": "Sun, 18 Oct 2026 11:37:36 +0200",
-      "id": 11
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -157,32 +183,6 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Sun, 18 Oct 2026 11:02:12 +0200",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Piden al Tribunal Supremo español sacar a asociación Cubanos por la Democracia del pleito contra la Ley de Nietos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-18-u1-e208574-s27061-nid343162-piden-al-tribunal-supremo-espanol-sacar-asociacion",
-      "destacada": false,
-      "tema": "piden",
-      "fecha": "Sun, 18 Oct 2026 04:39:27 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Así cierra el mercado informal en Cuba: El dólar y el euro terminan en aumento",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-18-u1-e208574-s27061-nid343159-asi-cierra-mercado-informal-cuba-dolar-euro-terminan",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Sun, 18 Oct 2026 02:18:14 +0200",
       "id": 14
     },
     {
@@ -202,6 +202,19 @@
       "categoria": "sociedad",
       "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "alternativa",
+      "titulo": "Cuba cuenta conmigo mientras respire",
+      "resumen": "Así escribió el generalísimo Máximo Gómez cuando después del Pacto del Zanjón se despidió de la tierra por cuya libertad había batallado tanto y partió hacia Jamaica",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261018/cuba-cuenta-conmigo-mientras-respire/",
+      "destacada": false,
+      "tema": "cuenta",
+      "fecha": "Sun, 18 Oct 2026 13:20:28 +0000",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
       "titulo": "La influencia sindical en el turismo cubano",
       "resumen": "Solo una organización suficientemente preparada podrá asumir las misiones de representar y movilizar a los afiliados y trabajadores",
       "imagen_url": "",
@@ -209,7 +222,7 @@
       "destacada": false,
       "tema": "influencia",
       "fecha": "Sat, 17 Oct 2026 22:53:28 +0000",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -222,7 +235,7 @@
       "destacada": false,
       "tema": "capacitar",
       "fecha": "Sat, 17 Oct 2026 22:32:21 +0000",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -235,7 +248,7 @@
       "destacada": false,
       "tema": "steel",
       "fecha": "Sat, 17 Oct 2026 18:11:30 +0000",
-      "id": 18
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -248,7 +261,20 @@
       "destacada": false,
       "tema": "bayamo",
       "fecha": "Fri, 16 Oct 2026 18:54:01 +0000",
-      "id": 19
+      "id": 20
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Siete equipos de bombeo rotos y apagones: la combinación que deja a los pinareños sin agua 'más de 80 días'",
+      "resumen": "#SOSCuba: Residentes en #PinarDelRío reclaman soluciones para una falta de agua que dura más de tres meses en algunos territorios, ante las justificaciones de un funcionario.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792328070_69435.html",
+      "destacada": false,
+      "tema": "siete",
+      "fecha": "Sun, 18 Oct 2026 14:54:30 +0200",
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -261,7 +287,7 @@
       "destacada": false,
       "tema": "existe",
       "fecha": "Sun, 18 Oct 2026 13:00:18 +0200",
-      "id": 20
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -274,7 +300,7 @@
       "destacada": false,
       "tema": "empobrece",
       "fecha": "Sun, 18 Oct 2026 12:45:52 +0200",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -287,7 +313,7 @@
       "destacada": false,
       "tema": "premia",
       "fecha": "Sat, 17 Oct 2026 23:27:17 +0200",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "cubalex",
       "fecha": "Sat, 17 Oct 2026 21:46:21 +0200",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "politica",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "maría",
       "fecha": "Sat, 17 Oct 2026 21:44:38 +0200",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "energia",
@@ -326,7 +352,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Sat, 17 Oct 2026 19:06:06 +0200",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -339,7 +365,7 @@
       "destacada": false,
       "tema": "vivir",
       "fecha": "Sat, 17 Oct 2026 17:03:48 +0200",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "economia",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "químico",
       "fecha": "Sat, 17 Oct 2026 15:35:02 +0200",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "politica",
@@ -365,20 +391,20 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Sat, 17 Oct 2026 14:32:47 +0200",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "¿Los problemas de España o la posición hacia La Habana? El dilema de los cubanos",
-      "resumen": "Los comicios del próximo 29 de noviembre colocan a los #cubanos con derecho a voto en #España en una tesitura ya conocida. Michel Suárez la explica.",
+      "titulo": "Denuncian en Miami el reclutamiento de cubanos para la guerra de Rusia en Ucrania",
+      "resumen": "Activistas y académicos denunciaron en Coral Gables el reclutamiento de cubanos para la guerra de Rusia contra Ucrania, en un foro organizado por Razom for Ukraine.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792234844_69425.html",
+      "enlace_original": "https://www.martinoticias.com/a/denuncian-en-miami-el-reclutamiento-de-cubanos-para-la-guerra-de-rusia-en-ucrania/482244.html",
       "destacada": false,
-      "tema": "problemas",
-      "fecha": "Sat, 17 Oct 2026 13:00:44 +0200",
-      "id": 29
+      "tema": "denuncian",
+      "fecha": "Sun, 18 Oct 2026 09:15:06 -0400",
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -391,7 +417,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Sun, 18 Oct 2026 08:00:00 -0400",
-      "id": 30
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -404,7 +430,7 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Sun, 18 Oct 2026 07:00:30 -0400",
-      "id": 31
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -417,7 +443,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Sun, 18 Oct 2026 07:00:00 -0400",
-      "id": 32
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -430,7 +456,7 @@
       "destacada": false,
       "tema": "postmoderno",
       "fecha": "Sat, 17 Oct 2026 20:00:00 -0400",
-      "id": 33
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -443,20 +469,7 @@
       "destacada": false,
       "tema": "asociación",
       "fecha": "Sun, 18 Oct 2026 04:03:43 +0000",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Ormuz: Irán propone un plan de siete días y Trump lo califica de “inaceptable”",
-      "resumen": "Araghchi advirtió que la seguridad marítima no puede restablecerse mediante nuevos ataques, amenazas de destrucción o bloqueos contra un país. Asimismo, reafirmó que Irán continuará defendiendo su soberanía y los intereses de su población, al tiempo que sostuvo que proteger los derechos nacionales y",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/17/ormuz-iran-propone-un-plan-de-siete-dias-y-trump-lo-califica-de-inaceptable/",
-      "destacada": false,
-      "tema": "ormuz",
-      "fecha": "Sat, 17 Oct 2026 17:57:20 +0000",
-      "id": 35
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -469,7 +482,7 @@
       "destacada": false,
       "tema": "científica",
       "fecha": "Sun, 18 Oct 26 11:25:00 +0200",
-      "id": 36
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -482,7 +495,7 @@
       "destacada": false,
       "tema": "flávio",
       "fecha": "Sun, 18 Oct 26 11:17:00 +0200",
-      "id": 37
+      "id": 38
     },
     {
       "categoria": "politica",
@@ -495,7 +508,7 @@
       "destacada": false,
       "tema": "presidente",
       "fecha": "Sun, 18 Oct 26 11:14:00 +0200",
-      "id": 38
+      "id": 39
     },
     {
       "categoria": "politica",
@@ -508,7 +521,7 @@
       "destacada": false,
       "tema": "agradece",
       "fecha": "Sun, 18 Oct 26 11:10:00 +0200",
-      "id": 39
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -521,7 +534,7 @@
       "destacada": false,
       "tema": "caravana",
       "fecha": "Sun, 18 Oct 26 11:08:00 +0200",
-      "id": 40
+      "id": 41
     },
     {
       "categoria": "politica",
@@ -534,7 +547,7 @@
       "destacada": false,
       "tema": "prieto",
       "fecha": "Sun, 18 Oct 26 11:06:00 +0200",
-      "id": 41
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -547,7 +560,7 @@
       "destacada": false,
       "tema": "charla",
       "fecha": "Sat, 17 Oct 26 12:36:00 +0200",
-      "id": 42
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -560,7 +573,7 @@
       "destacada": false,
       "tema": "llega",
       "fecha": "Sat, 17 Oct 26 12:06:00 +0200",
-      "id": 43
+      "id": 44
     },
     {
       "categoria": "energia",
@@ -573,7 +586,20 @@
       "destacada": false,
       "tema": "especialista",
       "fecha": "Sat, 17 Oct 26 11:58:00 +0200",
-      "id": 44
+      "id": 45
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://actualidad.rt.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Rusia registra un medicamento cubano para el tratamiento de tumores malignos",
+      "resumen": "El fármaco cubano Nimotuzumab se usa para el tratamiento de tumores malignos de esófago, cabeza y cuello, así como determinados tipos de tumores cerebrales.",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad4b5af59bf5b5b5b24260e.png",
+      "enlace_original": "https://actualidad-rt.com/actualidad/633036-rusia-registra-medicamento-cubano-tratamiento?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "destacada": false,
+      "tema": "rusia",
+      "fecha": "Sun, 18 Oct 2026 13:18:45 +0000",
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -586,32 +612,6 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Fri, 16 Oct 2026 14:05:50 +0000",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.guerrillero.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Celebran en Nicaragua Día de la Cultura Cubana",
-      "resumen": "El Día de la Cultura Cubana se celebró en Nicaragua con un concierto en la Sala Mayor del Teatro Nacional Rubén Darío, donde se recordó el aniversario 158 de la entonación en la isla del Himno Nacional. La velada anoche congregó a decenas de personas que disfrutaron de un amplio repertorio de música",
-      "imagen_url": "",
-      "enlace_original": "https://www.guerrillero.cu/celebran-en-nicaragua-dia-de-la-cultura-cubana/",
-      "destacada": false,
-      "tema": "celebran",
-      "fecha": "Fri, 16 Oct 2026 13:09:03 +0000",
-      "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.guerrillero.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Premian en Villa Clara certamen literario Ciudad del Che",
-      "resumen": "La filial villaclareña de la Unión de Escritores y Artistas de Cuba confirió los lauros de la edición 30 del concurso y la beca de creación Ciudad del Che, convocatoria de las letras en el centro del país que reconoció este año obras en los apartados de poesía, narrativa y ensayo. &#160; &#160;En la",
-      "imagen_url": "",
-      "enlace_original": "https://www.guerrillero.cu/premian-en-villa-clara-certamen-literario-ciudad-del-che/",
-      "destacada": false,
-      "tema": "premian",
-      "fecha": "Fri, 16 Oct 2026 13:07:49 +0000",
       "id": 47
     },
     {
