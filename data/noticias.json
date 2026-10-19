@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-19",
-  "hora": "13:34",
-  "total": 56,
+  "hora": "15:24",
+  "total": 54,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -31,42 +31,55 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba resalta históricos vínculos bilaterales con Brasil",
-      "resumen": "Brasilia, 19 oct (Prensa Latina) El embajador de Cuba en Brasil, Víctor Cairo, destacó hoy la solidez de los vínculos históricos entre ambos países y agradeció la ayuda humanitaria brasileña del gigante sudamericano al pueblo caribeño. The post Cuba resalta históricos vínculos bilaterales con Brasil",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/19/cuba-resalta-historicos-vinculos-bilaterales-con-brasil/",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba recibió mucho menos combustible de lo anunciado: EE UU confundió litros con barriles",
+      "resumen": "La Isla no compró 3,2 millones de barriles de derivados del petróleo en julio, sino 182.932",
+      "imagen_url": "https://static.14ymedio.com/clip/92d23eef-229f-42bf-9f9f-f252b480de2a_source-aspect-ratio_default_0.png",
+      "enlace_original": "https://www.14ymedio.com/cuba/cuba-recibio-combustible-anunciado-ee_1_1132143.html",
       "destacada": true,
-      "tema": "resalta",
-      "fecha": "Mon, 19 Oct 2026 13:25:42 +0000",
+      "tema": "recibió",
+      "fecha": "Mon, 19 Oct 2026 13:51:29 +0000",
       "id": 3
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Sacerdote brasileño rechaza bloqueo de EEUU contra Cuba",
-      "resumen": "Brasilia, 19 oct (Prensa Latina) El sacerdote brasileño Julio Lancellotti condenó el bloqueo que Estados Unidos mantiene hoy contra Cuba y defendió el diálogo diplomático, el respeto a las diferencias y el derecho de los pueblos a vivir sin sanciones. The post Sacerdote brasileño rechaza bloqueo de ",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/19/sacerdote-brasileno-rechaza-bloqueo-de-eeuu-contra-cuba/",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Con las minas de níquel paralizadas, las exportaciones de Cuba caerán aún más que el PIB en 2026",
+      "resumen": "La Cepal sigue dando malas noticias: además de una contracción del 10% del PIB, la Isla registrará este año una caída del 13% de sus ventas al exterior",
+      "imagen_url": "https://static.14ymedio.com/clip/bf5a539a-554f-49d5-a043-6a59577b4c38_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/economia/minas-niquel-paralizadas-exportaciones-cuba_1_1132145.html",
       "destacada": true,
-      "tema": "sacerdote",
-      "fecha": "Mon, 19 Oct 2026 13:13:41 +0000",
+      "tema": "minas",
+      "fecha": "Mon, 19 Oct 2026 14:53:38 +0000",
       "id": 4
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Núcleo brasileño de estudios cubanos reclama fin de bloqueo de EEUU",
-      "resumen": "Brasilia, 19 oct (Prensa Latina) El Núcleo de Estudios Cubanos de la Universidad de Brasilia llamó a poner fin al bloqueo que Estados Unidos mantiene hoy contra Cuba y pidió a Naciones Unidas defender la soberanía del país caribeño. The post Núcleo brasileño de estudios cubanos reclama fin de bloque",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/19/nucleo-brasileno-de-estudios-cubanos-reclama-fin-de-bloqueo-de-eeuu/",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Las Vegas gana terreno como destino de la migración cubana en EE UU",
+      "resumen": "Nevada figura entre los estados que han ganado atractivo para los naturales de la Isla que buscan establecerse fuera de Florida",
+      "imagen_url": "https://static.14ymedio.com/clip/c02f8076-dc3e-4f16-ba9a-bfd4331a0b0f_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/migracion/vegas-gana-terreno-destino-migracion_1_1132146.html",
       "destacada": true,
-      "tema": "núcleo",
-      "fecha": "Mon, 19 Oct 2026 12:58:04 +0000",
+      "tema": "vegas",
+      "fecha": "Mon, 19 Oct 2026 15:22:06 +0000",
       "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La nueva ley petrolera en Cuba se topa con la escasa capacidad de inversión de los privados",
+      "resumen": "Los expertos señalan también como obstáculo la \"hipercentralización\" que el Estado mantiene sobre el sector",
+      "imagen_url": "https://static.14ymedio.com/clip/3187c2dc-4f56-4e6e-992f-f0dd32fe2ad1_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/nueva-ley-petrolera-cuba-topa_1_1132149.html",
+      "destacada": false,
+      "tema": "nueva",
+      "fecha": "Mon, 19 Oct 2026 15:14:41 +0000",
+      "id": 6
     },
     {
       "categoria": "energia",
@@ -79,7 +92,7 @@
       "destacada": false,
       "tema": "produce",
       "fecha": "Sun, 18 Oct 2026 18:56:17 +0000",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "energia",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "escasez",
       "fecha": "Sun, 18 Oct 2026 14:01:49 +0000",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -105,85 +118,98 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Sat, 17 Oct 2026 17:31:12 +0000",
-      "id": 8
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Llegan a Cuba 750 toneladas de aceite donadas por Rusia, además de alimentos pagados por Japón",
-      "resumen": "El ministro Óscar Pérez-Oliva asegura que estas ayudas estuvieron detenidas en Jamaica por culpa de EE UU",
-      "imagen_url": "https://static.14ymedio.com/clip/02bf4f5a-4a88-4686-bae6-3ecdd9343e8d_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/llegan-cuba-750-toneladas-aceite_1_1132081.html",
-      "destacada": false,
-      "tema": "llegan",
-      "fecha": "Sat, 17 Oct 2026 16:38:59 +0000",
       "id": 9
     },
     {
-      "categoria": "sociedad",
+      "categoria": "economia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Juez de Miami firma orden de arresto contra Raúl Castro por el derribo de las avionetas de Hermanos al Rescate",
+      "titulo": "Malas noticias para la economía cubana: CEPAL prevé desplome del 13% en exportaciones de bienes",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e207888-s27061-nid343257-juez-miami-firma-orden-arresto-contra-raul-castro",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e135253-s27061-nid343262-malas-noticias-economia-cubana-cepal-preve-desplome",
       "destacada": false,
-      "tema": "miami",
-      "fecha": "Mon, 19 Oct 2026 14:39:37 +0200",
+      "tema": "malas",
+      "fecha": "Mon, 19 Oct 2026 16:39:53 +0200",
       "id": 10
     },
     {
-      "categoria": "sociedad",
+      "categoria": "energia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "¡No pudieron contener las lágrimas! Madre cubana sorprende a sus hijos con el regalo que tanto soñaban",
+      "titulo": "Mercado de divisas en Cuba arranca el lunes con movimientos inesperados: dólar alcanza nuevo máximo",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u65722-e65722-s27065-nid343247-pudieron-contener-lagrimas-madre-cubana-sorprende",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e135253-s27061-nid343263-mercado-divisas-cuba-arranca-lunes-movimientos",
       "destacada": false,
-      "tema": "pudieron",
-      "fecha": "Mon, 19 Oct 2026 14:21:47 +0200",
+      "tema": "tipo_cambio",
+      "fecha": "Mon, 19 Oct 2026 16:13:53 +0200",
       "id": 11
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cantante Melanie Santiler: «En Cuba no existen los cisnes, ni la libertad»",
+      "titulo": "¡Sorpresa inolvidable! Cubana cumple el sueño de su madre de conocer a El Chacal y el cantante tiene un gesto inesperado",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e43231-s27065-nid343251-cantante-melanie-santiler-cuba-existen-cisnes-ni",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u65722-e65722-s27065-nid343254-sorpresa-inolvidable-cubana-cumple-sueno-madre",
       "destacada": false,
-      "tema": "cantante",
-      "fecha": "Mon, 19 Oct 2026 14:08:23 +0200",
+      "tema": "sorpresa",
+      "fecha": "Mon, 19 Oct 2026 16:12:58 +0200",
       "id": 12
     },
     {
-      "categoria": "energia",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Hurtado culpa a Trump de los apagones en Cuba y periodista oficialista le recuerda que «falta sentir como el que no tiene luz»",
+      "titulo": "A sus 85 años camina por los campos de Cuba vendiendo escobas para sobrevivir: Lo que hizo un cubano al verlo conmueve",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e207888-s27061-nid343249-hurtado-culpa-trump-apagones-cuba-periodista",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u65722-e65722-s27065-nid343253-sus-85-anos-camina-campos-cuba-vendiendo-escobas",
       "destacada": false,
-      "tema": "hurtado",
-      "fecha": "Mon, 19 Oct 2026 13:55:32 +0200",
+      "tema": "camina",
+      "fecha": "Mon, 19 Oct 2026 15:52:52 +0200",
       "id": 13
     },
     {
-      "categoria": "energia",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Fiscal general de Florida informará este lunes en FIU sobre «orden de arresto» contra Raúl Castro",
+      "titulo": "Lázaro Bruzón defiende su derecho a denunciar lo que pasa en su patria: «Hablo de Cuba porque me da la gana»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e209395-s27061-nid343244-fiscal-general-florida-informara-este-lunes-fiu",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e43231-s27061-nid343261-lazaro-bruzon-defiende-derecho-denunciar-pasa-patria",
       "destacada": false,
-      "tema": "fiscal",
-      "fecha": "Mon, 19 Oct 2026 07:17:14 +0200",
+      "tema": "lázaro",
+      "fecha": "Mon, 19 Oct 2026 15:15:47 +0200",
       "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Florida pedirá extraditar a Raúl Castro si es detenido fuera del estado",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e207888-s27061-nid343260-florida-pedira-extraditar-raul-castro-detenido-fuera",
+      "destacada": false,
+      "tema": "florida",
+      "fecha": "Mon, 19 Oct 2026 15:08:35 +0200",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "No todas las familias cubanas son iguales: Cubana lanza una reflexión que muchos emigrantes necesitaban escuchar",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u65722-e65722-s27065-nid343250-todas-familias-cubanas-son-iguales-cubana-lanza",
+      "destacada": false,
+      "tema": "todas",
+      "fecha": "Mon, 19 Oct 2026 15:01:50 +0200",
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -196,7 +222,7 @@
       "destacada": false,
       "tema": "podcast",
       "fecha": "Sat, 17 Oct 2026 19:26:24 +0000",
-      "id": 15
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -209,7 +235,7 @@
       "destacada": false,
       "tema": "regreso",
       "fecha": "Mon, 19 Oct 2026 00:14:05 +0000",
-      "id": 16
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -222,7 +248,7 @@
       "destacada": false,
       "tema": "melodía",
       "fecha": "Mon, 19 Oct 2026 00:09:52 +0000",
-      "id": 17
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -235,7 +261,7 @@
       "destacada": false,
       "tema": "cultura",
       "fecha": "Sun, 18 Oct 2026 23:40:05 +0000",
-      "id": 18
+      "id": 20
     },
     {
       "categoria": "salud",
@@ -248,7 +274,33 @@
       "destacada": false,
       "tema": "entregar",
       "fecha": "Sun, 18 Oct 2026 21:08:51 +0000",
-      "id": 19
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La revolución tiene casi 70 años sin haberse explicado a sí misma",
+      "resumen": "‘No me acostumbro a que los niños tengan que mendigar’: el periodista #JorgeEnriqueRodríguez escribe su bitácora desde #LaHabana.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792421861_69448.html",
+      "destacada": false,
+      "tema": "revolución",
+      "fecha": "Mon, 19 Oct 2026 16:57:41 +0200",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La emigración de cubanos a España se ha triplicado desde la Ley de Nietos",
+      "resumen": "La cantidad de #cubanos que han emigrado a #España se ha triplicado desde la #LeyDeNietos. Los que tienen la nacionalidad y residen en el país podrán votar en las elecciones, aunque se hayan nacionalizado por esa ley. #EmigraciónCubana.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792419381_69447.html",
+      "destacada": false,
+      "tema": "emigración",
+      "fecha": "Mon, 19 Oct 2026 16:16:21 +0200",
+      "id": 23
     },
     {
       "categoria": "energia",
@@ -261,7 +313,7 @@
       "destacada": false,
       "tema": "condenas",
       "fecha": "Mon, 19 Oct 2026 14:46:32 +0200",
-      "id": 20
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -274,7 +326,7 @@
       "destacada": false,
       "tema": "jubilados",
       "fecha": "Mon, 19 Oct 2026 14:07:35 +0200",
-      "id": 21
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -287,7 +339,7 @@
       "destacada": false,
       "tema": "medio",
       "fecha": "Mon, 19 Oct 2026 13:15:27 +0200",
-      "id": 22
+      "id": 26
     },
     {
       "categoria": "politica",
@@ -300,7 +352,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 19 Oct 2026 11:26:37 +0200",
-      "id": 23
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -313,7 +365,7 @@
       "destacada": false,
       "tema": "emprendedores",
       "fecha": "Sun, 18 Oct 2026 23:10:26 +0200",
-      "id": 24
+      "id": 28
     },
     {
       "categoria": "energia",
@@ -326,7 +378,7 @@
       "destacada": false,
       "tema": "horas",
       "fecha": "Sun, 18 Oct 2026 22:02:22 +0200",
-      "id": 25
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -339,33 +391,20 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Sun, 18 Oct 2026 19:34:13 +0200",
-      "id": 26
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La CEPAL prevé una caída del 13% de las exportaciones de bienes de Cuba frente a un alza regional del 20%",
-      "resumen": "Dos meses después de pronosticar la peor contracción de la economía de #Cuba desde 2020, la #CEPAL proyecta un desplome de las exportaciones de bienes frente al incremento en América Latina.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1792340211_69436.html",
-      "destacada": false,
-      "tema": "cepal",
-      "fecha": "Sun, 18 Oct 2026 18:16:51 +0200",
-      "id": 27
+      "id": 30
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El relato del embargo y las sanciones está agotado",
-      "resumen": "Puestos a destruir el relato del régimen, sería bueno explicar cuál de las #sanciones de #EEUU que se han ido aprobando desde junio ha podido afectar de forma directa al pueblo de #Cuba.",
+      "titulo": "El futuro es ya",
+      "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792339291_69433.html",
+      "enlace_original": "https://www.martinoticias.com/a/481276.html",
       "destacada": false,
-      "tema": "relato",
-      "fecha": "Sun, 18 Oct 2026 18:01:31 +0200",
-      "id": 28
+      "tema": "futuro",
+      "fecha": "Mon, 19 Oct 2026 10:00:00 -0400",
+      "id": 31
     },
     {
       "categoria": "economia",
@@ -378,7 +417,7 @@
       "destacada": false,
       "tema": "martí",
       "fecha": "Mon, 19 Oct 2026 08:00:00 -0400",
-      "id": 29
+      "id": 32
     },
     {
       "categoria": "politica",
@@ -391,7 +430,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Mon, 19 Oct 2026 07:00:00 -0400",
-      "id": 30
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -404,7 +443,7 @@
       "destacada": false,
       "tema": "cubalex",
       "fecha": "Sun, 18 Oct 2026 16:04:04 -0400",
-      "id": 31
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -417,59 +456,7 @@
       "destacada": false,
       "tema": "premia",
       "fecha": "Sun, 18 Oct 2026 14:34:48 -0400",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 12:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481263.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Sun, 18 Oct 2026 12:00:00 -0400",
-      "id": 33
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Jóvenes emprendedores cubanos pueden optar a un programa de prácticas profesionales en EEUU",
-      "resumen": "Financiado por el Departamento de Estado y administrado por la organización IREX, el programa prevé seleccionar a unos 250 emprendedores de América Latina y el Caribe para su edición de 2027.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/j%c3%b3venes-emprendedores-cubanos-pueden-optar-a-un-programa-de-pr%c3%a1cticas-profesionales-en-eeuu/482246.html",
-      "destacada": false,
-      "tema": "jóvenes",
-      "fecha": "Sun, 18 Oct 2026 11:47:52 -0400",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Solicitud urgente ante la CIDH por la liberación y protección del periodista cubano Henry Constantín",
-      "resumen": "\"Buscamos que la protección internacional llegue antes de que ocurra un daño irreparable”, señaló Juan Carlos Vargas, director ejecutivo de Defensa CD. Constantín se encuentra privado de libertad desde el pasado 16 de septiembre en el penal Kilo 7, situado en la provincia de Camagüey.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/solicitud-urgente-ante-la-cidh-por-la-liberaci%c3%b3n-y-protecci%c3%b3n-del-periodista-cubano-henry-constant%c3%adn/482245.html",
-      "destacada": false,
-      "tema": "solicitud",
-      "fecha": "Sun, 18 Oct 2026 09:52:05 -0400",
       "id": 35
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Denuncian en Miami el reclutamiento de cubanos para la guerra de Rusia en Ucrania",
-      "resumen": "Activistas y académicos denunciaron en Coral Gables el reclutamiento de cubanos para la guerra de Rusia contra Ucrania, en un foro organizado por Razom for Ukraine.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/denuncian-en-miami-el-reclutamiento-de-cubanos-para-la-guerra-de-rusia-en-ucrania/482244.html",
-      "destacada": false,
-      "tema": "denuncian",
-      "fecha": "Sun, 18 Oct 2026 09:15:06 -0400",
-      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -482,7 +469,7 @@
       "destacada": false,
       "tema": "arcoíris",
       "fecha": "Mon, 19 Oct 2026 12:54:46 +0000",
-      "id": 37
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -495,7 +482,7 @@
       "destacada": false,
       "tema": "recuperar",
       "fecha": "Mon, 19 Oct 2026 04:01:28 +0000",
-      "id": 38
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -508,7 +495,7 @@
       "destacada": false,
       "tema": "surfacen",
       "fecha": "Mon, 19 Oct 2026 00:07:11 +0000",
-      "id": 39
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -521,7 +508,7 @@
       "destacada": false,
       "tema": "serie",
       "fecha": "Sun, 18 Oct 2026 23:55:16 +0000",
-      "id": 40
+      "id": 39
     },
     {
       "categoria": "transporte",
@@ -534,7 +521,7 @@
       "destacada": false,
       "tema": "iverson",
       "fecha": "Sun, 18 Oct 2026 23:05:52 +0000",
-      "id": 41
+      "id": 40
     },
     {
       "categoria": "politica",
@@ -547,7 +534,7 @@
       "destacada": false,
       "tema": "guerra",
       "fecha": "Mon, 19 Oct 26 08:38:00 +0200",
-      "id": 42
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -560,7 +547,7 @@
       "destacada": false,
       "tema": "lezama",
       "fecha": "Mon, 19 Oct 26 08:29:00 +0200",
-      "id": 43
+      "id": 42
     },
     {
       "categoria": "energia",
@@ -573,7 +560,7 @@
       "destacada": false,
       "tema": "energia",
       "fecha": "Mon, 19 Oct 26 08:03:00 +0200",
-      "id": 44
+      "id": 43
     },
     {
       "categoria": "salud",
@@ -586,7 +573,7 @@
       "destacada": false,
       "tema": "rusia",
       "fecha": "Mon, 19 Oct 26 08:00:00 +0200",
-      "id": 45
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -599,7 +586,7 @@
       "destacada": false,
       "tema": "biblioteca",
       "fecha": "Mon, 19 Oct 26 07:52:00 +0200",
-      "id": 46
+      "id": 45
     },
     {
       "categoria": "politica",
@@ -612,7 +599,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Mon, 19 Oct 26 07:49:00 +0200",
-      "id": 47
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -625,7 +612,7 @@
       "destacada": false,
       "tema": "convoca",
       "fecha": "Mon, 19 Oct 26 07:43:00 +0200",
-      "id": 48
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -638,7 +625,7 @@
       "destacada": false,
       "tema": "servicio",
       "fecha": "Mon, 19 Oct 26 07:32:00 +0200",
-      "id": 49
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -651,7 +638,7 @@
       "destacada": false,
       "tema": "lanzan",
       "fecha": "Mon, 19 Oct 26 06:44:00 +0200",
-      "id": 50
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -664,7 +651,7 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Mon, 19 Oct 2026 12:39:44 +0000",
-      "id": 51
+      "id": 50
     },
     {
       "categoria": "transporte",
@@ -677,7 +664,7 @@
       "destacada": false,
       "tema": "ministro",
       "fecha": "Sun, 18 Oct 2026 22:21:01 +0000",
-      "id": 52
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -690,20 +677,7 @@
       "destacada": false,
       "tema": "celebra",
       "fecha": "Sun, 18 Oct 2026 21:54:20 +0000",
-      "id": 53
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Archivo Girón: María del Carmen, Jusvinza y la vida de una científica cubana",
-      "resumen": "La doctora María del Carmen Domínguez Horta, investigadora del Centro de Ingeniería Genética y Biotecnología (CIGB) de Cuba, fue reconocida con el Premio Mujeres Latinoamericanas en Química 2026, en la categoría Liderazgo en la Industria.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/17/archivo-giron-maria-del-carmen-dominguez/",
-      "destacada": false,
-      "tema": "archivo",
-      "fecha": "Sat, 17 Oct 2026 17:03:14 +0000",
-      "id": 54
+      "id": 52
     },
     {
       "categoria": "transporte",
@@ -716,7 +690,7 @@
       "destacada": false,
       "tema": "cuesta",
       "fecha": "Mon, 19 Oct 2026 11:40:00 GMT",
-      "id": 55
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -729,7 +703,7 @@
       "destacada": false,
       "tema": "archivos",
       "fecha": "Sat, 17 Oct 2026 22:28:33 GMT",
-      "id": 56
+      "id": 54
     }
   ]
 }
