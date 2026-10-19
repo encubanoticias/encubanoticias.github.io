@@ -1,33 +1,85 @@
 {
   "fecha": "2026-10-19",
-  "hora": "18:18",
-  "total": 52,
+  "hora": "19:24",
+  "total": 48,
   "noticias": [
     {
-      "categoria": "transporte",
-      "fuente": "https://www.prensa-latina.cu",
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "EEUU impide al voleibolista Yoel Despaigne asistir a Salón de la Fama",
-      "resumen": "Roma, 19 oct (Prensa Latina) El destacado voleibolista cubano Yoel Despaigne lamentó hoy no poder asistir a la ceremonia de ingreso al Salón de la Fama del Voleibol Internacional, por la denegación de los visados para viajar a Estados Unidos. The post EEUU impide al voleibolista Yoel Despaigne asist",
+      "titulo": "Cuba condena «farsa» de Washington en la ONU",
+      "resumen": "El representante permanente de Cuba ante Naciones Unidas, Ernesto Soberón denunció la celebración de un acto organizado por la Misión de Estados Unidos con el objetivo de desacreditar a la Isla",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/19/eeuu-impide-al-voleibolista-yoel-despaigne-asistir-a-salon-de-la-fama/",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-19/cuba-condena-farsa-de-washington-en-la-onu-19-10-2026-14-10-13",
       "destacada": true,
-      "tema": "impide",
-      "fecha": "Mon, 19 Oct 2026 17:40:34 +0000",
+      "tema": "condena",
+      "fecha": "Mon, 19 Oct 2026 14:10:13 -0400",
       "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La Biblioteca Nacional de Cuba José Martí celebra su aniversario 125",
+      "resumen": "Fundada el 18 de octubre de 1901, la institución cumple más de una centuria de historia como el principal repositorio bibliográfico y documental de la nación",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-19/la-biblioteca-nacional-de-cuba-jose-marti-celebra-su-aniversario-125-19-10-2026-14-10-38",
+      "destacada": true,
+      "tema": "biblioteca",
+      "fecha": "Mon, 19 Oct 2026 14:10:38 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Oro y plata en el Panamericano de Beisbol5",
+      "resumen": "Cuba alcanzó la corona continental juvenil y cedió el trono entre mayores",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-18/oro-y-plata-en-el-panamericano-de-beisbol5-18-10-2026-10-10-22",
+      "destacada": true,
+      "tema": "plata",
+      "fecha": "Sun, 18 Oct 2026 10:10:22 -0400",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Semana de coronas en varias geografías del ajedrez",
+      "resumen": "Trebejistas cubanos alcanzaron victorias en países centroamericanos y europeos",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-19/semana-de-coronas-en-varias-geografias-del-ajedrez-19-10-2026-09-10-59",
+      "destacada": true,
+      "tema": "semana",
+      "fecha": "Mon, 19 Oct 2026 09:10:59 -0400",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Jubileo por Margarita",
+      "resumen": "&nbsp;La escritora Margarita Mateo Palmer, Premio Nacional de Literatura, es la invitada este miércoles, al espacio El jubileo de Letras Cubanas",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-19/jubileo-por-margarita-19-10-2026-12-10-20",
+      "destacada": true,
+      "tema": "jubileo",
+      "fecha": "Mon, 19 Oct 2026 12:10:20 -0400",
+      "id": 5
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba aprecia posición de Rusia frente al bloqueo de EEUU",
-      "resumen": "Moscú, 19 oct (Prensa Latina) La posición de Rusia contraria al bloqueo de Estados Unidos, y expresada con gestos concretos de solidaridad, tiene el valor especial para Cuba, dijo hoy el embajador del país caribeño en Moscú, Enrique Orta. The post Cuba aprecia posición de Rusia frente al bloqueo de ",
+      "titulo": "Italianos en Castelnuovo di Porto denuncian bloqueo de EEUU a Cuba",
+      "resumen": "Roma, 19 oct (Prensa Latina) La compleja realidad que afecta hoy al pueblo cubano, debido al bloqueo impuesto por Estados Unidos, centró el encuentro Miradas sobre Cuba, en el espacio Gli Artenauti APS, en la localidad italiana de Castelnuovo di Porto. The post Italianos en Castelnuovo di Porto denu",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/19/cuba-aprecia-posicion-de-rusia-frente-al-bloqueo-de-eeuu/",
-      "destacada": true,
-      "tema": "aprecia",
-      "fecha": "Mon, 19 Oct 2026 17:30:03 +0000",
-      "id": 2
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/19/italianos-en-castelnuovo-di-porto-denuncian-bloqueo-de-eeuu-a-cuba/",
+      "destacada": false,
+      "tema": "italianos",
+      "fecha": "Mon, 19 Oct 2026 19:17:26 +0000",
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -37,10 +89,10 @@
       "resumen": "La Isla no compró 3,2 millones de barriles de derivados del petróleo en julio, sino 182.932",
       "imagen_url": "https://static.14ymedio.com/clip/92d23eef-229f-42bf-9f9f-f252b480de2a_source-aspect-ratio_default_0.png",
       "enlace_original": "https://www.14ymedio.com/cuba/cuba-recibio-combustible-anunciado-ee_1_1132143.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "recibió",
       "fecha": "Mon, 19 Oct 2026 13:51:29 +0000",
-      "id": 3
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -50,10 +102,10 @@
       "resumen": "La Cepal sigue dando malas noticias: además de una contracción del 10% del PIB, la Isla registrará este año una caída del 13% de sus ventas al exterior",
       "imagen_url": "https://static.14ymedio.com/clip/bf5a539a-554f-49d5-a043-6a59577b4c38_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/economia/minas-niquel-paralizadas-exportaciones-cuba_1_1132145.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "minas",
       "fecha": "Mon, 19 Oct 2026 14:53:38 +0000",
-      "id": 4
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -63,23 +115,10 @@
       "resumen": "“No fue un accidente, fue un asesinato”, sostuvo el fiscal general de Florida y prometió llevar al responsable ante la justicia",
       "imagen_url": "https://static.14ymedio.com/clip/066670f2-f5b8-46a4-b3d3-c8602da33828_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/migracion/florida-oficial-orden-arresto-raul_1_1132152.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "florida",
       "fecha": "Mon, 19 Oct 2026 16:19:09 +0000",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las Vegas gana terreno como destino de la migración cubana en EE UU",
-      "resumen": "Nevada figura entre los estados que han ganado atractivo para los naturales de la Isla que buscan establecerse fuera de Florida",
-      "imagen_url": "https://static.14ymedio.com/clip/c02f8076-dc3e-4f16-ba9a-bfd4331a0b0f_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/migracion/vegas-gana-terreno-destino-migracion_1_1132146.html",
-      "destacada": false,
-      "tema": "vegas",
-      "fecha": "Mon, 19 Oct 2026 15:22:06 +0000",
-      "id": 6
+      "id": 9
     },
     {
       "categoria": "energia",
@@ -92,7 +131,7 @@
       "destacada": false,
       "tema": "produce",
       "fecha": "Sun, 18 Oct 2026 18:56:17 +0000",
-      "id": 7
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -105,7 +144,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Mon, 19 Oct 2026 15:14:41 +0000",
-      "id": 8
+      "id": 11
     },
     {
       "categoria": "energia",
@@ -118,137 +157,20 @@
       "destacada": false,
       "tema": "escasez",
       "fecha": "Sun, 18 Oct 2026 14:01:49 +0000",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Florida blinda la acusación contra Raúl Castro frente a un posible indulto presidencial",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e207888-s27061-nid343276-florida-blinda-acusacion-contra-raul-castro-frente",
-      "destacada": false,
-      "tema": "florida",
-      "fecha": "Mon, 19 Oct 2026 19:43:21 +0200",
-      "id": 10
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Yandy Díaz, a un paso de la Serie Mundial: el cubano brilla con tres hits y promete que los Rays ganarán este lunes",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e43231-s27066-nid343273-yandy-diaz-paso-serie-mundial-cubano-brilla-tres-hits",
-      "destacada": false,
-      "tema": "yandy",
-      "fecha": "Mon, 19 Oct 2026 18:54:00 +0200",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Fiscal de Florida: «No puede haber un futuro de Cuba que incluya a los Castro»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e208933-s27061-nid343274-fiscal-florida-puede-haber-futuro-cuba-incluya",
-      "destacada": false,
-      "tema": "fiscal",
-      "fecha": "Mon, 19 Oct 2026 18:46:50 +0200",
       "id": 12
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "categoria": "politica",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Incendio en La Habana desata alarma por presunto almacenamiento de gasolina",
-      "resumen": "",
+      "titulo": "La Habana califica de 'maniobra estéril' la orden de arresto contra Raúl Castro",
+      "resumen": "Díaz-Canel descalifica la orden de arresto emitida por un tribunal de #EEUU contra #RaúlCastro y la tacha de una \"maniobra estéril\" sin sentido jurídico ni práctico.",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e208512-s27061-nid343275-incendio-habana-desata-alarma-presunto",
+      "enlace_original": "https://diariodecuba.com/cuba/1792435692_69455.html",
       "destacada": false,
-      "tema": "incendio",
-      "fecha": "Mon, 19 Oct 2026 18:40:33 +0200",
+      "tema": "habana",
+      "fecha": "Mon, 19 Oct 2026 20:48:12 +0200",
       "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Qué dice la nueva orden de arresto contra Raúl Castro y qué pruebas la sustentan?",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e207888-s27061-nid343259-dice-nueva-orden-arresto-contra-raul-castro-pruebas",
-      "destacada": false,
-      "tema": "nueva",
-      "fecha": "Mon, 19 Oct 2026 18:05:28 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Ni siquiera para recibir tratamiento médico»: Fiscal General de Florida advierte a Raúl Castro del riesgo de extradición si viaja a un país aliado",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e208933-s27061-nid343272-ni-tratamiento-medico-fiscal-general-florida",
-      "destacada": false,
-      "tema": "siquiera",
-      "fecha": "Mon, 19 Oct 2026 18:05:03 +0200",
-      "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Amigos del actor Néstor Jiménez impulsan una colecta tras el robo de su moto en La Habana",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e43231-s27061-nid343269-amigos-actor-nestor-jimenez-impulsan-colecta-tras",
-      "destacada": false,
-      "tema": "amigos",
-      "fecha": "Mon, 19 Oct 2026 18:04:50 +0200",
-      "id": 16
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "El regreso de Urquiola",
-      "resumen": "Alfonso Urquiola volvió a dirigir en la pelota cubana y lo está haciendo con la selección de siempre, los Vegueros de Pinar del Río",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261018/el-regreso-de-urquiola/",
-      "destacada": false,
-      "tema": "regreso",
-      "fecha": "Mon, 19 Oct 2026 00:14:05 +0000",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Melodía",
-      "resumen": "A las puertas del 20 de Octubre, Cuba celebra una cultura popular, diversa y profundamente ligada a su identidad, historia, dignidad y valores nacionales",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261018/melodia/",
-      "destacada": false,
-      "tema": "melodía",
-      "fecha": "Mon, 19 Oct 2026 00:09:52 +0000",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "La cultura, fundamento de la nación",
-      "resumen": "Festejar el Día de la Cultura Cubana es celebrar a Cuba: su memoria, su diversidad y su capacidad de proyectarse hacia el futuro",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261018/la-cultura-fundamento-de-la-nacion/",
-      "destacada": false,
-      "tema": "cultura",
-      "fecha": "Sun, 18 Oct 2026 23:40:05 +0000",
-      "id": 19
     },
     {
       "categoria": "energia",
@@ -261,7 +183,7 @@
       "destacada": false,
       "tema": "arranca",
       "fecha": "Mon, 19 Oct 2026 19:35:57 +0200",
-      "id": 20
+      "id": 14
     },
     {
       "categoria": "transporte",
@@ -274,7 +196,7 @@
       "destacada": false,
       "tema": "oficial",
       "fecha": "Mon, 19 Oct 2026 18:16:31 +0200",
-      "id": 21
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -287,7 +209,7 @@
       "destacada": false,
       "tema": "ernesto",
       "fecha": "Mon, 19 Oct 2026 18:00:40 +0200",
-      "id": 22
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -300,7 +222,7 @@
       "destacada": false,
       "tema": "posible",
       "fecha": "Mon, 19 Oct 2026 18:00:18 +0200",
-      "id": 23
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -313,7 +235,7 @@
       "destacada": false,
       "tema": "revolución",
       "fecha": "Mon, 19 Oct 2026 16:57:41 +0200",
-      "id": 24
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -326,7 +248,7 @@
       "destacada": false,
       "tema": "emigración",
       "fecha": "Mon, 19 Oct 2026 16:16:21 +0200",
-      "id": 25
+      "id": 19
     },
     {
       "categoria": "energia",
@@ -339,20 +261,59 @@
       "destacada": false,
       "tema": "condenas",
       "fecha": "Mon, 19 Oct 2026 14:46:32 +0200",
-      "id": 26
+      "id": 20
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Debate en la ONU expone las mentiras del régimen cubano y pide a los países dejar de apoyar la represión",
+      "resumen": "El embajador de Estados Unidos ante la ONU, Mike Waltz, acusó al Gobierno cubano de mantener a la población bajo represión, privaciones y apagones mientras la cúpula del régimen vive con lujos en el exterior.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/debate-en-la-onu-expone-las-mentiras-del-r%c3%a9gimen-cubano-y-pide-a-los-pa%c3%adses-dejar-de-apoyar-la-represi%c3%b3n/482313.html",
+      "destacada": false,
+      "tema": "debate",
+      "fecha": "Mon, 19 Oct 2026 15:10:20 -0400",
+      "id": 21
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Las noticias como son",
+      "resumen": "Amado Gil y José Luis Ramos, en tertulia con Vladimir Turró y José Luis Tan Estrada, abordan los datos que demuestran en números la crisis de la producción eléctrica en Cuba. Entra en vigor la ley petrolera que, según los expertos, lleva un sector privado pequeño y control rígido del gobierno.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/las-noticias-como-son/482312.html",
+      "destacada": false,
+      "tema": "noticias",
+      "fecha": "Mon, 19 Oct 2026 15:01:40 -0400",
+      "id": 22
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Jubilados en Cuba: vender su propia ropa para poder comer",
-      "resumen": "Justino, de 76 años, vende su ropa para alimentar a su hija, mientras Aurelio, de 82, sale cada día a ofrecer diversos artículos. Sus #pensiones no les alcanzan para cubrir sus necesidades. Es la realidad de miles de #ancianos en #Cuba.",
+      "titulo": "Trágica muerte de recluta revela fallas de seguridad en el Servicio Militar en Cuba",
+      "resumen": "Sobre el caso, el abogado Alain Espinosa argumentó que, al tratarse de un servicio militar obligatorio, el Estado y los mandos militares tienen una posición de garante que los obliga a prever el riesgo y mantener una supervisión ininterrumpida sobre los soldados alistados.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792411655_69445.html",
+      "enlace_original": "https://www.martinoticias.com/a/tr%c3%a1gica-muerte-de-recluta-revela-fallas-de-seguridad-en-el-servicio-militar-en-cuba/482249.html",
       "destacada": false,
-      "tema": "jubilados",
-      "fecha": "Mon, 19 Oct 2026 14:07:35 +0200",
-      "id": 27
+      "tema": "trágica",
+      "fecha": "Mon, 19 Oct 2026 14:53:13 -0400",
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Las nuevas cifras que desmontan el argumento del régimen sobre el embargo a Cuba",
+      "resumen": "Economista analiza los datos que echan por tierra campaña del régimen sobre el impacto del embargo a Cuba",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/las-nuevas-cifras-que-desmontan-el-argumento-del-r%c3%a9gimen-sobre-el-embargo-a-cuba/482308.html",
+      "destacada": false,
+      "tema": "nuevas",
+      "fecha": "Mon, 19 Oct 2026 14:29:22 -0400",
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -365,7 +326,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Mon, 19 Oct 2026 14:00:00 -0400",
-      "id": 28
+      "id": 25
     },
     {
       "categoria": "transporte",
@@ -378,7 +339,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Mon, 19 Oct 2026 13:50:24 -0400",
-      "id": 29
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -391,7 +352,7 @@
       "destacada": false,
       "tema": "waltz",
       "fecha": "Mon, 19 Oct 2026 13:50:20 -0400",
-      "id": 30
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -404,46 +365,20 @@
       "destacada": false,
       "tema": "futuro",
       "fecha": "Mon, 19 Oct 2026 13:47:55 -0400",
-      "id": 31
+      "id": 28
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Florida abre un nuevo frente judicial contra Raúl Castro por el derribo de avionetas de Hermanos al Rescate",
-      "resumen": "Treinta años después del derribo de las avionetas de Hermanos al Rescate, Florida emitió una orden de arresto contra Raúl Castro por su presunta participación en una conspiración para cometer asesinato en primer grado, en un caso que reabre una de las tragedias más recordadas del exilio cubano.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba abre con tres victorias y dos derrotas el continental de boxeo rumbo a Lima 2027",
+      "resumen": "Cuba inició con balance de tres victorias y dos derrotas en el campeonato continental de boxeo, con triunfos de Luis Enrique Vinent, Yusnier Sorsano y Jorge Cuéllar, y reveses de Carysney García y Magda Massó. El campeonato otorga cupos para los Juegos Panamericanos por lo que cada combate resulta d",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/florida-abre-un-nuevo-frente-judicial-contra-ra%c3%bal-castro-por-el-derribo-de-avionetas-de-hermanos-al-rescate/482302.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/19/cuba-abre-con-tres-victorias-y-dos-derrotas-el-continental-de-boxeo-rumbo-a-lima-2027/",
       "destacada": false,
-      "tema": "florida",
-      "fecha": "Mon, 19 Oct 2026 13:03:33 -0400",
-      "id": 32
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El régimen gasta en un día lo que la mayoría de los cubanos gana en meses, denuncia EEUU",
-      "resumen": "EEUU acusó a la élite gobernante de Cuba de gastar en un día más de lo que la mayoría de los ciudadanos gana en meses. El subsecretario de Estado Juan Pablo Segura señaló a GAESA como el centro de una cleptocracia, con 20.000 millones de dólares en activos ilícitos y desvío de fondos al extranjero.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/el-r%c3%a9gimen-gasta-en-un-d%c3%ada-lo-que-la-mayor%c3%ada-de-los-cubanos-gana-en-meses-denuncia-eeuu/482296.html",
-      "destacada": false,
-      "tema": "régimen",
-      "fecha": "Mon, 19 Oct 2026 12:21:52 -0400",
-      "id": 33
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Muerte de un recluso en Las Tunas evidencia negligencia penitenciaria",
-      "resumen": "Cubalex denunció la muerte bajo custodia estatal del recluso cubano Yales Mir Rodríguez Machado, de 52 años, quien falleció en Las Tunas tras sufrir desnutrición severa y la falta de atención médica, pese a las reiteradas alertas sobre el deterioro de su salud.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/muerte-bajo-custodia-en-las-tunas-evidencia-negligencia-penitenciaria/482298.html",
-      "destacada": false,
-      "tema": "muerte",
-      "fecha": "Mon, 19 Oct 2026 12:08:50 -0400",
-      "id": 34
+      "tema": "victorias",
+      "fecha": "Mon, 19 Oct 2026 18:58:36 +0000",
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -456,7 +391,7 @@
       "destacada": false,
       "tema": "conocer",
       "fecha": "Mon, 19 Oct 2026 17:58:56 +0000",
-      "id": 35
+      "id": 30
     },
     {
       "categoria": "energia",
@@ -469,20 +404,59 @@
       "destacada": false,
       "tema": "condenan",
       "fecha": "Mon, 19 Oct 2026 17:27:27 +0000",
-      "id": 36
+      "id": 31
     },
     {
       "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Arcoíris en La Habana",
-      "resumen": "Más allá de su belleza estética, el arcoíris suele interpretarse como un símbolo de esperanza y renovación. En medio del bullicio cotidiano, su aparición recuerda la armonía entre naturaleza y vida urbana, y ofrece un instante de pausa y paz. The post Arcoíris en La Habana first appeared on Cubadeba",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/fotorreportajes/2026/10/19/arcoiris-en-la-habana/",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Detalles ampliados de la investigación de la infiltración armada desde los Estados Unidos",
+      "resumen": "Redacción Razones de Cuba La denuncia sobre el intento de infiltración terrorista neutralizado p...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125592-detalles-ampliados-de-la-investigacion-de-la-infiltracion-armada-desde-los-estados-unidos.jpg?t=1792435420",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261019/125592/125592-detalles-ampliados-de-la-investigacion-de-la-infiltracion-armada-desde-los-estados-unidos",
       "destacada": false,
-      "tema": "arcoíris",
-      "fecha": "Mon, 19 Oct 2026 12:54:46 +0000",
-      "id": 37
+      "tema": "detalles",
+      "fecha": "Mon, 19 Oct 26 20:40:00 +0200",
+      "id": 32
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "EEUU impide al voleibolista Yoel Despaigne asistir a Salón de la Fama",
+      "resumen": "Roma, 19 oct (Prensa Latina) El destacado voleibolista cubano Yoel Despaigne lamentó hoy no po...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125591-eeuu-impide-al-voleibolista-yoel-despaigne-asistir-a-salon-de-la-fama.jpg?t=1792434934",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261019/125591/125591-eeuu-impide-al-voleibolista-yoel-despaigne-asistir-a-salon-de-la-fama",
+      "destacada": false,
+      "tema": "impide",
+      "fecha": "Mon, 19 Oct 26 20:34:00 +0200",
+      "id": 33
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "Prestigioso oncólogo suizo denuncia efectos del bloqueo EEUU a Cuba",
+      "resumen": "Roma, 19 oct (Prensa Latina) El oncólogo e investigador suizo Franco Cavalli advirtió sobre las con...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125590-prestigioso-oncologo-suizo-denuncia-efectos-del-bloqueo-eeuu-a-cuba.jpg?t=1792434868",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261019/125590/125590-prestigioso-oncologo-suizo-denuncia-efectos-del-bloqueo-eeuu-a-cuba",
+      "destacada": false,
+      "tema": "prestigioso",
+      "fecha": "Mon, 19 Oct 26 20:34:00 +0200",
+      "id": 34
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "alternativa",
+      "titulo": "&quot;Patético circo miamense&quot;: Díaz-Canel condena maniobra judicial contra Raúl Castro y denuncia trasfondo electoral",
+      "resumen": "Raúl en la clausura del Encuentro Mundial por la vigencia del Pensamiento de Chávez, marzo de 2023. ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125589-patetico-circo-miamense-diaz-canel-condena-maniobra-judicial-contra-raul-castro-y-denuncia-trasfondo-electoral.jpg?t=1792434828",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261019/125589/125589-patetico-circo-miamense-diaz-canel-condena-maniobra-judicial-contra-raul-castro-y-denuncia-trasfondo-electoral",
+      "destacada": false,
+      "tema": "patético",
+      "fecha": "Mon, 19 Oct 26 20:31:00 +0200",
+      "id": 35
     },
     {
       "categoria": "politica",
@@ -495,7 +469,7 @@
       "destacada": false,
       "tema": "guerra",
       "fecha": "Mon, 19 Oct 26 08:38:00 +0200",
-      "id": 38
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -508,7 +482,7 @@
       "destacada": false,
       "tema": "lezama",
       "fecha": "Mon, 19 Oct 26 08:29:00 +0200",
-      "id": 39
+      "id": 37
     },
     {
       "categoria": "energia",
@@ -521,7 +495,7 @@
       "destacada": false,
       "tema": "energia",
       "fecha": "Mon, 19 Oct 26 08:03:00 +0200",
-      "id": 40
+      "id": 38
     },
     {
       "categoria": "salud",
@@ -534,7 +508,7 @@
       "destacada": false,
       "tema": "rusia",
       "fecha": "Mon, 19 Oct 26 08:00:00 +0200",
-      "id": 41
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -547,7 +521,7 @@
       "destacada": false,
       "tema": "biblioteca",
       "fecha": "Mon, 19 Oct 26 07:52:00 +0200",
-      "id": 42
+      "id": 40
     },
     {
       "categoria": "politica",
@@ -560,59 +534,20 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Mon, 19 Oct 26 07:49:00 +0200",
-      "id": 43
+      "id": 41
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
+      "fuente": "https://www.guerrillero.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "Convoca el Ministerio de Educación a consulta pública del anteproyecto de Ley de Educación de Cuba",
-      "resumen": "Cubadebate El Ministerio de Educación de Cuba convocó hoy a la población a participar en la consult...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125580-convoca-el-ministerio-de-educacion-a-consulta-publica-del-anteproyecto-de-ley-de-educacion-de-cuba.jpg?t=1792388676",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261019/125580/125580-convoca-el-ministerio-de-educacion-a-consulta-publica-del-anteproyecto-de-ley-de-educacion-de-cuba",
+      "titulo": "Pinar del Río celebró los 40 años de la AHS",
+      "resumen": "Con la gala Ir de tu Mano, en el emblemático teatro José Jacinto Milanés, Pinar del Río celebró hoy los 40 años de la Asociación Hermanos Saíz (AHS), esa especie de obra colectiva que lleva la huella de varias generaciones de artistas cubanos. &#160; &#160;Dirigido por Dorys Méndez, el espectáculo c",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/pinar-del-rio-celebro-los-40-anos-de-la-ahs/",
       "destacada": false,
-      "tema": "convoca",
-      "fecha": "Mon, 19 Oct 26 07:43:00 +0200",
-      "id": 44
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "El arte al servicio de la comunidad: tributo a los instructores de arte de Cuba",
-      "resumen": "Canal Caribe.- Las escuelas de instructores de arte han graduado a jóvenes brillantes, cuyo trabajo ...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125577-el-arte-al-servicio-de-la-comunidad-tributo-a-los-instructores-de-arte-de-cuba.jpg?t=1792388151",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261019/125577/125577-el-arte-al-servicio-de-la-comunidad-tributo-a-los-instructores-de-arte-de-cuba",
-      "destacada": false,
-      "tema": "servicio",
-      "fecha": "Mon, 19 Oct 26 07:32:00 +0200",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "alternativa",
-      "titulo": "Lanzan en China Centro de Medios de Comunicación del Sur Global, con presencia de Cuba",
-      "resumen": "Beijing, 18 oct (Prensa Latina) El Centro de Medios de Comunicación del Sur Global (CMPSur) quedó c...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125576-lanzan-en-china-centro-de-medios-de-comunicacion-del-sur-global-con-presencia-de-cuba.jpg?t=1792385265",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261019/125576/125576-lanzan-en-china-centro-de-medios-de-comunicacion-del-sur-global-con-presencia-de-cuba",
-      "destacada": false,
-      "tema": "lanzan",
-      "fecha": "Mon, 19 Oct 26 06:44:00 +0200",
-      "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://actualidad.rt.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba responde a la nueva orden de arresto contra Raúl Castro en EE.UU.",
-      "resumen": "La Justicia estadounidense acusa al histórico líder revolucionario de conspirar para cometer asesinato en primer grado.",
-      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad62b5659bf5b4bf826af5e.jpeg",
-      "enlace_original": "https://actualidad-rt.com/actualidad/633225-cuba-responder-orden-arresto-raul-castro?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "destacada": false,
-      "tema": "responde",
-      "fecha": "Mon, 19 Oct 2026 17:55:15 +0000",
-      "id": 47
+      "tema": "pinar",
+      "fecha": "Mon, 19 Oct 2026 12:39:44 +0000",
+      "id": 42
     },
     {
       "categoria": "transporte",
@@ -625,7 +560,7 @@
       "destacada": false,
       "tema": "ministro",
       "fecha": "Sun, 18 Oct 2026 22:21:01 +0000",
-      "id": 48
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -638,7 +573,20 @@
       "destacada": false,
       "tema": "celebra",
       "fecha": "Sun, 18 Oct 2026 21:54:20 +0000",
-      "id": 49
+      "id": 44
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Agarra el niño y corre. Los trayectos de Lucy",
+      "resumen": "Luz, conocida como Lucy Martin, reconstruye el viaje que hizo con su hijo de 3 años desde Cuba hasta Texas en 2022, en medio del récord migratorio cubano por Centroamérica y cómo superó un diagnóstico de cáncer de mamá.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/2026_10_15_lucy_e937cbf6f9.jpg",
+      "enlace_original": "https://eltoque.com/agarra-el-nino-y-corre-los-trayectos-de-lucy",
+      "destacada": false,
+      "tema": "agarra",
+      "fecha": "Mon, 19 Oct 2026 18:30:00 GMT",
+      "id": 45
     },
     {
       "categoria": "transporte",
@@ -651,7 +599,7 @@
       "destacada": false,
       "tema": "cuesta",
       "fecha": "Mon, 19 Oct 2026 11:40:00 GMT",
-      "id": 50
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -664,7 +612,7 @@
       "destacada": false,
       "tema": "últimas",
       "fecha": "Mon, 19 Oct 2026 10:00:00 GMT",
-      "id": 51
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -677,7 +625,7 @@
       "destacada": false,
       "tema": "archivos",
       "fecha": "Sat, 17 Oct 2026 22:28:33 GMT",
-      "id": 52
+      "id": 48
     }
   ]
 }
