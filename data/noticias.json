@@ -1,34 +1,8 @@
 {
   "fecha": "2026-10-19",
-  "hora": "07:37",
-  "total": 52,
+  "hora": "09:24",
+  "total": 49,
   "noticias": [
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Despaigne, noveno cubano exaltado al Salón de la Fama del Voleibol",
-      "resumen": "La ceremonia ocurrió este fin de semana en la sede de Holyoke, Massachusetts",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-10-18/despaigne-noveno-cubano-exaltado-al-salon-de-la-fama-del-voleibol-18-10-2026-17-10-29",
-      "destacada": true,
-      "tema": "despaigne",
-      "fecha": "Sun, 18 Oct 2026 17:10:29 -0400",
-      "id": 1
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Pinar rompe la barrera de los diez triunfos",
-      "resumen": "Frederich Cepeda arribó a los 400 jonrones en la pelota cubana",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-10-18/pinar-rompe-la-barrera-de-los-diez-triunfos-18-10-2026-18-10-20",
-      "destacada": true,
-      "tema": "pinar",
-      "fecha": "Sun, 18 Oct 2026 18:10:20 -0400",
-      "id": 2
-    },
     {
       "categoria": "energia",
       "fuente": "https://www.14ymedio.com",
@@ -40,7 +14,7 @@
       "destacada": true,
       "tema": "produce",
       "fecha": "Sun, 18 Oct 2026 18:56:17 +0000",
-      "id": 3
+      "id": 1
     },
     {
       "categoria": "energia",
@@ -53,20 +27,7 @@
       "destacada": true,
       "tema": "escasez",
       "fecha": "Sun, 18 Oct 2026 14:01:49 +0000",
-      "id": 4
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El cineasta cubano Alejandro Alonso estrenará en Europa la película 'Bahía Honda', un viaje hacia la libertad en barcos rotos",
-      "resumen": "Se exhibirá el 16 de noviembre en el 39° Festival Internacional de Cine Documental de Ámsterdam, uno de los más prestigiosos del mundo",
-      "imagen_url": "https://static.14ymedio.com/clip/fd7d3241-5c53-47b0-8d9f-130cc28628d6_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cultura/cineasta-cubano-alejandro-alonso-estrenara_1_1132102.html",
-      "destacada": true,
-      "tema": "tipo_cambio",
-      "fecha": "Sun, 18 Oct 2026 13:01:51 +0000",
-      "id": 5
+      "id": 2
     },
     {
       "categoria": "sociedad",
@@ -76,10 +37,10 @@
       "resumen": "El régimen cubano teme perder votos a favor de su resolución anual contra el embargo",
       "imagen_url": "https://static.14ymedio.com/clip/a14c2e3b-c9ca-47cd-b1b3-6e2173fee045_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/habana-protesta-ee-uu-utilizara_1_1132090.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "habana",
       "fecha": "Sat, 17 Oct 2026 17:31:12 +0000",
-      "id": 6
+      "id": 3
     },
     {
       "categoria": "politica",
@@ -89,10 +50,10 @@
       "resumen": "El ministro Óscar Pérez-Oliva asegura que estas ayudas estuvieron detenidas en Jamaica por culpa de EE UU",
       "imagen_url": "https://static.14ymedio.com/clip/02bf4f5a-4a88-4686-bae6-3ecdd9343e8d_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/llegan-cuba-750-toneladas-aceite_1_1132081.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "llegan",
       "fecha": "Sat, 17 Oct 2026 16:38:59 +0000",
-      "id": 7
+      "id": 4
     },
     {
       "categoria": "energia",
@@ -102,10 +63,10 @@
       "resumen": "",
       "imagen_url": "",
       "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e209395-s27061-nid343244-fiscal-general-florida-informara-este-lunes-fiu",
-      "destacada": false,
+      "destacada": true,
       "tema": "fiscal",
       "fecha": "Mon, 19 Oct 2026 07:17:14 +0200",
-      "id": 8
+      "id": 5
     },
     {
       "categoria": "politica",
@@ -118,7 +79,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Mon, 19 Oct 2026 05:56:07 +0200",
-      "id": 9
+      "id": 6
     },
     {
       "categoria": "economia",
@@ -131,7 +92,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 19 Oct 2026 03:02:32 +0200",
-      "id": 10
+      "id": 7
     },
     {
       "categoria": "transporte",
@@ -144,7 +105,7 @@
       "destacada": false,
       "tema": "roban",
       "fecha": "Mon, 19 Oct 2026 01:38:53 +0200",
-      "id": 11
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -157,7 +118,7 @@
       "destacada": false,
       "tema": "podcast",
       "fecha": "Sat, 17 Oct 2026 19:26:24 +0000",
-      "id": 12
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -170,7 +131,7 @@
       "destacada": false,
       "tema": "regreso",
       "fecha": "Mon, 19 Oct 2026 00:14:05 +0000",
-      "id": 13
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -183,7 +144,7 @@
       "destacada": false,
       "tema": "melodía",
       "fecha": "Mon, 19 Oct 2026 00:09:52 +0000",
-      "id": 14
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -196,7 +157,7 @@
       "destacada": false,
       "tema": "cultura",
       "fecha": "Sun, 18 Oct 2026 23:40:05 +0000",
-      "id": 15
+      "id": 12
     },
     {
       "categoria": "salud",
@@ -209,7 +170,20 @@
       "destacada": false,
       "tema": "entregar",
       "fecha": "Sun, 18 Oct 2026 21:08:51 +0000",
-      "id": 16
+      "id": 13
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Habana amplía en 1.700 kilómetros cuadrados sus derechos sobre el subsuelo del Golfo de México",
+      "resumen": "El Gobierno obtuvo el reconocimiento de la prolongación de la #PlataformaContinentalCubana más allá de las 200 millas náuticas en el Polígono Oriental del Golfo de México. ¿Esperanzas con el #petróleo?",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1792401997_69441.html",
+      "destacada": false,
+      "tema": "habana",
+      "fecha": "Mon, 19 Oct 2026 11:26:37 +0200",
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -222,7 +196,7 @@
       "destacada": false,
       "tema": "emprendedores",
       "fecha": "Sun, 18 Oct 2026 23:10:26 +0200",
-      "id": 17
+      "id": 15
     },
     {
       "categoria": "energia",
@@ -235,7 +209,7 @@
       "destacada": false,
       "tema": "horas",
       "fecha": "Sun, 18 Oct 2026 22:02:22 +0200",
-      "id": 18
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -248,7 +222,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Sun, 18 Oct 2026 19:34:13 +0200",
-      "id": 19
+      "id": 17
     },
     {
       "categoria": "economia",
@@ -261,7 +235,7 @@
       "destacada": false,
       "tema": "cepal",
       "fecha": "Sun, 18 Oct 2026 18:16:51 +0200",
-      "id": 20
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -274,7 +248,7 @@
       "destacada": false,
       "tema": "relato",
       "fecha": "Sun, 18 Oct 2026 18:01:31 +0200",
-      "id": 21
+      "id": 19
     },
     {
       "categoria": "energia",
@@ -287,7 +261,7 @@
       "destacada": false,
       "tema": "siete",
       "fecha": "Sun, 18 Oct 2026 14:54:30 +0200",
-      "id": 22
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -300,7 +274,7 @@
       "destacada": false,
       "tema": "existe",
       "fecha": "Sun, 18 Oct 2026 13:00:18 +0200",
-      "id": 23
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -313,7 +287,7 @@
       "destacada": false,
       "tema": "empobrece",
       "fecha": "Sun, 18 Oct 2026 12:45:52 +0200",
-      "id": 24
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -326,20 +300,7 @@
       "destacada": false,
       "tema": "premia",
       "fecha": "Sat, 17 Oct 2026 23:27:17 +0200",
-      "id": 25
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubalex denuncia una nueva muerte bajo custodia estatal que evidencia el hambre en las cárceles de Cuba",
-      "resumen": "#SOSCuba: El preso Yales Mir Rodríguez Machado muere en el campamento de trabajo Tunas 2, dos días después de expresar su temor a morir de hambre en una llamada telefónica.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1792266381_69424.html",
-      "destacada": false,
-      "tema": "cubalex",
-      "fecha": "Sat, 17 Oct 2026 21:46:21 +0200",
-      "id": 26
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -352,7 +313,7 @@
       "destacada": false,
       "tema": "cubalex",
       "fecha": "Sun, 18 Oct 2026 16:04:04 -0400",
-      "id": 27
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -365,7 +326,7 @@
       "destacada": false,
       "tema": "premia",
       "fecha": "Sun, 18 Oct 2026 14:34:48 -0400",
-      "id": 28
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -378,7 +339,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Sun, 18 Oct 2026 12:00:00 -0400",
-      "id": 29
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -391,7 +352,7 @@
       "destacada": false,
       "tema": "jóvenes",
       "fecha": "Sun, 18 Oct 2026 11:47:52 -0400",
-      "id": 30
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -404,7 +365,7 @@
       "destacada": false,
       "tema": "solicitud",
       "fecha": "Sun, 18 Oct 2026 09:52:05 -0400",
-      "id": 31
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -417,7 +378,7 @@
       "destacada": false,
       "tema": "denuncian",
       "fecha": "Sun, 18 Oct 2026 09:15:06 -0400",
-      "id": 32
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -430,7 +391,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Sun, 18 Oct 2026 08:00:00 -0400",
-      "id": 33
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -443,7 +404,7 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Sun, 18 Oct 2026 07:00:30 -0400",
-      "id": 34
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -456,7 +417,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Sun, 18 Oct 2026 07:00:00 -0400",
-      "id": 35
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -469,7 +430,7 @@
       "destacada": false,
       "tema": "recuperar",
       "fecha": "Mon, 19 Oct 2026 04:01:28 +0000",
-      "id": 36
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -482,7 +443,7 @@
       "destacada": false,
       "tema": "surfacen",
       "fecha": "Mon, 19 Oct 2026 00:07:11 +0000",
-      "id": 37
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -495,7 +456,7 @@
       "destacada": false,
       "tema": "serie",
       "fecha": "Sun, 18 Oct 2026 23:55:16 +0000",
-      "id": 38
+      "id": 35
     },
     {
       "categoria": "transporte",
@@ -508,7 +469,7 @@
       "destacada": false,
       "tema": "iverson",
       "fecha": "Sun, 18 Oct 2026 23:05:52 +0000",
-      "id": 39
+      "id": 36
     },
     {
       "categoria": "politica",
@@ -521,7 +482,7 @@
       "destacada": false,
       "tema": "guerra",
       "fecha": "Mon, 19 Oct 26 08:38:00 +0200",
-      "id": 40
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -534,7 +495,7 @@
       "destacada": false,
       "tema": "lezama",
       "fecha": "Mon, 19 Oct 26 08:29:00 +0200",
-      "id": 41
+      "id": 38
     },
     {
       "categoria": "energia",
@@ -547,7 +508,7 @@
       "destacada": false,
       "tema": "energia",
       "fecha": "Mon, 19 Oct 26 08:03:00 +0200",
-      "id": 42
+      "id": 39
     },
     {
       "categoria": "salud",
@@ -560,7 +521,7 @@
       "destacada": false,
       "tema": "rusia",
       "fecha": "Mon, 19 Oct 26 08:00:00 +0200",
-      "id": 43
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -573,7 +534,7 @@
       "destacada": false,
       "tema": "biblioteca",
       "fecha": "Mon, 19 Oct 26 07:52:00 +0200",
-      "id": 44
+      "id": 41
     },
     {
       "categoria": "politica",
@@ -586,7 +547,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Mon, 19 Oct 26 07:49:00 +0200",
-      "id": 45
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -599,7 +560,7 @@
       "destacada": false,
       "tema": "convoca",
       "fecha": "Mon, 19 Oct 26 07:43:00 +0200",
-      "id": 46
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -612,7 +573,7 @@
       "destacada": false,
       "tema": "servicio",
       "fecha": "Mon, 19 Oct 26 07:32:00 +0200",
-      "id": 47
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -625,7 +586,7 @@
       "destacada": false,
       "tema": "lanzan",
       "fecha": "Mon, 19 Oct 26 06:44:00 +0200",
-      "id": 48
+      "id": 45
     },
     {
       "categoria": "transporte",
@@ -638,7 +599,7 @@
       "destacada": false,
       "tema": "ministro",
       "fecha": "Sun, 18 Oct 2026 22:21:01 +0000",
-      "id": 49
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -651,7 +612,7 @@
       "destacada": false,
       "tema": "celebra",
       "fecha": "Sun, 18 Oct 2026 21:54:20 +0000",
-      "id": 50
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -664,20 +625,20 @@
       "destacada": false,
       "tema": "archivos",
       "fecha": "Sat, 17 Oct 2026 22:28:33 GMT",
-      "id": 51
+      "id": 48
     },
     {
       "categoria": "sociedad",
       "fuente": "https://eltoque.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La columna de Fernández Era",
+      "titulo": "La columna de Fernández Era: Edulcorante",
       "resumen": "“¿Conseguiste azúcar?”. Jorge Fernández Era ironiza sobre las promesas oficiales de recuperación de la industria azucarera cubana, las medidas que no consiguen revertir la crisis y la multiplicación de reconocimientos mientras escasea el producto.",
       "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/Portada_azucar_ad7a172a1c.jpeg",
       "enlace_original": "https://eltoque.com/la-columna-de-fernandez-era",
       "destacada": false,
       "tema": "columna",
       "fecha": "Sat, 17 Oct 2026 10:30:00 GMT",
-      "id": 52
+      "id": 49
     }
   ]
 }
