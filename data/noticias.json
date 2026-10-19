@@ -1,8 +1,21 @@
 {
   "fecha": "2026-10-19",
-  "hora": "09:24",
+  "hora": "11:19",
   "total": 49,
   "noticias": [
+    {
+      "categoria": "salud",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Prestigioso oncólogo suizo denuncia efectos del bloqueo EEUU a Cuba",
+      "resumen": "Roma, 19 oct (Prensa Latina) El oncólogo e investigador suizo Franco Cavalli advirtió sobre las consecuencias que, a su juicio, tiene el recrudecimiento del bloqueo de Estados Unidos contra Cuba para el funcionamiento de los hospitales, la disponibilidad de medicamentos y la atención a los pacientes",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/19/prestigioso-oncologo-suizo-denuncia-efectos-del-bloqueo-eeuu-a-cuba/",
+      "destacada": true,
+      "tema": "prestigioso",
+      "fecha": "Mon, 19 Oct 2026 11:17:50 +0000",
+      "id": 1
+    },
     {
       "categoria": "energia",
       "fuente": "https://www.14ymedio.com",
@@ -14,7 +27,7 @@
       "destacada": true,
       "tema": "produce",
       "fecha": "Sun, 18 Oct 2026 18:56:17 +0000",
-      "id": 1
+      "id": 2
     },
     {
       "categoria": "energia",
@@ -27,7 +40,7 @@
       "destacada": true,
       "tema": "escasez",
       "fecha": "Sun, 18 Oct 2026 14:01:49 +0000",
-      "id": 2
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -40,7 +53,7 @@
       "destacada": true,
       "tema": "habana",
       "fecha": "Sat, 17 Oct 2026 17:31:12 +0000",
-      "id": 3
+      "id": 4
     },
     {
       "categoria": "politica",
@@ -53,7 +66,7 @@
       "destacada": true,
       "tema": "llegan",
       "fecha": "Sat, 17 Oct 2026 16:38:59 +0000",
-      "id": 4
+      "id": 5
     },
     {
       "categoria": "energia",
@@ -63,10 +76,10 @@
       "resumen": "",
       "imagen_url": "",
       "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e209395-s27061-nid343244-fiscal-general-florida-informara-este-lunes-fiu",
-      "destacada": true,
+      "destacada": false,
       "tema": "fiscal",
       "fecha": "Mon, 19 Oct 2026 07:17:14 +0200",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "politica",
@@ -79,7 +92,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Mon, 19 Oct 2026 05:56:07 +0200",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "economia",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 19 Oct 2026 03:02:32 +0200",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "transporte",
@@ -105,7 +118,7 @@
       "destacada": false,
       "tema": "roban",
       "fecha": "Mon, 19 Oct 2026 01:38:53 +0200",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -118,7 +131,7 @@
       "destacada": false,
       "tema": "podcast",
       "fecha": "Sat, 17 Oct 2026 19:26:24 +0000",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "regreso",
       "fecha": "Mon, 19 Oct 2026 00:14:05 +0000",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -144,7 +157,7 @@
       "destacada": false,
       "tema": "melodía",
       "fecha": "Mon, 19 Oct 2026 00:09:52 +0000",
-      "id": 11
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -157,7 +170,7 @@
       "destacada": false,
       "tema": "cultura",
       "fecha": "Sun, 18 Oct 2026 23:40:05 +0000",
-      "id": 12
+      "id": 13
     },
     {
       "categoria": "salud",
@@ -170,7 +183,20 @@
       "destacada": false,
       "tema": "entregar",
       "fecha": "Sun, 18 Oct 2026 21:08:51 +0000",
-      "id": 13
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Un medio estatal quiere oficializar que los habaneros paguen de sus bolsillos la recogida de basura",
+      "resumen": "El medio oficial Trabajadores propone oficializar que los #cubanos costeen la recogida de #Basura si quieren que las calles de #LaHabana estén limpias y afirma que 100 pesos es \"una suma modesta\", sin tener en cuenta los salarios y las jubilaciones que paga el #EstadoCubano.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792408527_69444.html",
+      "destacada": false,
+      "tema": "medio",
+      "fecha": "Mon, 19 Oct 2026 13:15:27 +0200",
+      "id": 15
     },
     {
       "categoria": "politica",
@@ -183,7 +209,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 19 Oct 2026 11:26:37 +0200",
-      "id": 14
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -196,7 +222,7 @@
       "destacada": false,
       "tema": "emprendedores",
       "fecha": "Sun, 18 Oct 2026 23:10:26 +0200",
-      "id": 15
+      "id": 17
     },
     {
       "categoria": "energia",
@@ -209,7 +235,7 @@
       "destacada": false,
       "tema": "horas",
       "fecha": "Sun, 18 Oct 2026 22:02:22 +0200",
-      "id": 16
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -222,7 +248,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Sun, 18 Oct 2026 19:34:13 +0200",
-      "id": 17
+      "id": 19
     },
     {
       "categoria": "economia",
@@ -235,7 +261,7 @@
       "destacada": false,
       "tema": "cepal",
       "fecha": "Sun, 18 Oct 2026 18:16:51 +0200",
-      "id": 18
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -248,7 +274,7 @@
       "destacada": false,
       "tema": "relato",
       "fecha": "Sun, 18 Oct 2026 18:01:31 +0200",
-      "id": 19
+      "id": 21
     },
     {
       "categoria": "energia",
@@ -261,7 +287,7 @@
       "destacada": false,
       "tema": "siete",
       "fecha": "Sun, 18 Oct 2026 14:54:30 +0200",
-      "id": 20
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -274,7 +300,7 @@
       "destacada": false,
       "tema": "existe",
       "fecha": "Sun, 18 Oct 2026 13:00:18 +0200",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -287,20 +313,20 @@
       "destacada": false,
       "tema": "empobrece",
       "fecha": "Sun, 18 Oct 2026 12:45:52 +0200",
-      "id": 22
+      "id": 24
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "politica",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La FIU premia al cubano Daniel Pedreira por su libro sobre 600 desapariciones bajo el castrismo",
-      "resumen": "La #FIU entrega su Premio a la Excelencia del Profesorado en Publicación y las Artes (2026) al académico Daniel Pedreira por su libro sobre las desapariciones en #Cuba bajo el #Castrismo.",
+      "titulo": "Cuba Habla: \"El trabajo no te paga lo que es”",
+      "resumen": "Habanera opina sobre las reformas del gobierno de la isla y asegura que su plan personal es: “… irme de el país”.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792272437_69432.html",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-el-trabajo-no-te-paga-lo-que-es/481393.html",
       "destacada": false,
-      "tema": "premia",
-      "fecha": "Sat, 17 Oct 2026 23:27:17 +0200",
-      "id": 23
+      "tema": "habla",
+      "fecha": "Mon, 19 Oct 2026 07:00:00 -0400",
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "cubalex",
       "fecha": "Sun, 18 Oct 2026 16:04:04 -0400",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -326,7 +352,7 @@
       "destacada": false,
       "tema": "premia",
       "fecha": "Sun, 18 Oct 2026 14:34:48 -0400",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -339,7 +365,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Sun, 18 Oct 2026 12:00:00 -0400",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "jóvenes",
       "fecha": "Sun, 18 Oct 2026 11:47:52 -0400",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -365,7 +391,7 @@
       "destacada": false,
       "tema": "solicitud",
       "fecha": "Sun, 18 Oct 2026 09:52:05 -0400",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -378,7 +404,7 @@
       "destacada": false,
       "tema": "denuncian",
       "fecha": "Sun, 18 Oct 2026 09:15:06 -0400",
-      "id": 29
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -391,7 +417,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Sun, 18 Oct 2026 08:00:00 -0400",
-      "id": 30
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -404,20 +430,7 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Sun, 18 Oct 2026 07:00:30 -0400",
-      "id": 31
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba Habla: \"Mejoría no veo ninguna”",
-      "resumen": "“Lo que vamos es más para atrás …” asegura padre habanero acerca de las reformas del régimen.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-mejor%c3%ada-no-veo-ninguna/481390.html",
-      "destacada": false,
-      "tema": "habla",
-      "fecha": "Sun, 18 Oct 2026 07:00:00 -0400",
-      "id": 32
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -430,7 +443,7 @@
       "destacada": false,
       "tema": "recuperar",
       "fecha": "Mon, 19 Oct 2026 04:01:28 +0000",
-      "id": 33
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -443,7 +456,7 @@
       "destacada": false,
       "tema": "surfacen",
       "fecha": "Mon, 19 Oct 2026 00:07:11 +0000",
-      "id": 34
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -456,7 +469,7 @@
       "destacada": false,
       "tema": "serie",
       "fecha": "Sun, 18 Oct 2026 23:55:16 +0000",
-      "id": 35
+      "id": 36
     },
     {
       "categoria": "transporte",
@@ -469,7 +482,7 @@
       "destacada": false,
       "tema": "iverson",
       "fecha": "Sun, 18 Oct 2026 23:05:52 +0000",
-      "id": 36
+      "id": 37
     },
     {
       "categoria": "politica",
@@ -482,7 +495,7 @@
       "destacada": false,
       "tema": "guerra",
       "fecha": "Mon, 19 Oct 26 08:38:00 +0200",
-      "id": 37
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -495,7 +508,7 @@
       "destacada": false,
       "tema": "lezama",
       "fecha": "Mon, 19 Oct 26 08:29:00 +0200",
-      "id": 38
+      "id": 39
     },
     {
       "categoria": "energia",
@@ -508,7 +521,7 @@
       "destacada": false,
       "tema": "energia",
       "fecha": "Mon, 19 Oct 26 08:03:00 +0200",
-      "id": 39
+      "id": 40
     },
     {
       "categoria": "salud",
@@ -521,7 +534,7 @@
       "destacada": false,
       "tema": "rusia",
       "fecha": "Mon, 19 Oct 26 08:00:00 +0200",
-      "id": 40
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -534,7 +547,7 @@
       "destacada": false,
       "tema": "biblioteca",
       "fecha": "Mon, 19 Oct 26 07:52:00 +0200",
-      "id": 41
+      "id": 42
     },
     {
       "categoria": "politica",
@@ -547,7 +560,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Mon, 19 Oct 26 07:49:00 +0200",
-      "id": 42
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -560,7 +573,7 @@
       "destacada": false,
       "tema": "convoca",
       "fecha": "Mon, 19 Oct 26 07:43:00 +0200",
-      "id": 43
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -573,7 +586,7 @@
       "destacada": false,
       "tema": "servicio",
       "fecha": "Mon, 19 Oct 26 07:32:00 +0200",
-      "id": 44
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -586,7 +599,7 @@
       "destacada": false,
       "tema": "lanzan",
       "fecha": "Mon, 19 Oct 26 06:44:00 +0200",
-      "id": 45
+      "id": 46
     },
     {
       "categoria": "transporte",
@@ -599,7 +612,7 @@
       "destacada": false,
       "tema": "ministro",
       "fecha": "Sun, 18 Oct 2026 22:21:01 +0000",
-      "id": 46
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -612,7 +625,7 @@
       "destacada": false,
       "tema": "celebra",
       "fecha": "Sun, 18 Oct 2026 21:54:20 +0000",
-      "id": 47
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -625,19 +638,6 @@
       "destacada": false,
       "tema": "archivos",
       "fecha": "Sat, 17 Oct 2026 22:28:33 GMT",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La columna de Fernández Era: Edulcorante",
-      "resumen": "“¿Conseguiste azúcar?”. Jorge Fernández Era ironiza sobre las promesas oficiales de recuperación de la industria azucarera cubana, las medidas que no consiguen revertir la crisis y la multiplicación de reconocimientos mientras escasea el producto.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/Portada_azucar_ad7a172a1c.jpeg",
-      "enlace_original": "https://eltoque.com/la-columna-de-fernandez-era",
-      "destacada": false,
-      "tema": "columna",
-      "fecha": "Sat, 17 Oct 2026 10:30:00 GMT",
       "id": 49
     }
   ]
