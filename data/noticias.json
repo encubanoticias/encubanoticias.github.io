@@ -1,20 +1,46 @@
 {
   "fecha": "2026-10-19",
-  "hora": "11:19",
-  "total": 49,
+  "hora": "12:22",
+  "total": 52,
   "noticias": [
     {
-      "categoria": "salud",
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Despaigne, noveno cubano exaltado al Salón de la Fama del Voleibol",
+      "resumen": "La ceremonia ocurrió este fin de semana en la sede de Holyoke, Massachusetts",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-18/despaigne-noveno-cubano-exaltado-al-salon-de-la-fama-del-voleibol-18-10-2026-17-10-29",
+      "destacada": true,
+      "tema": "despaigne",
+      "fecha": "Sun, 18 Oct 2026 17:10:29 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Pinar rompe la barrera de los diez triunfos",
+      "resumen": "Frederich Cepeda arribó a los 400 jonrones en la pelota cubana",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-18/pinar-rompe-la-barrera-de-los-diez-triunfos-18-10-2026-18-10-20",
+      "destacada": true,
+      "tema": "pinar",
+      "fecha": "Sun, 18 Oct 2026 18:10:20 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Prestigioso oncólogo suizo denuncia efectos del bloqueo EEUU a Cuba",
-      "resumen": "Roma, 19 oct (Prensa Latina) El oncólogo e investigador suizo Franco Cavalli advirtió sobre las consecuencias que, a su juicio, tiene el recrudecimiento del bloqueo de Estados Unidos contra Cuba para el funcionamiento de los hospitales, la disponibilidad de medicamentos y la atención a los pacientes",
+      "titulo": "Encuentro de residente cubanos en Europa: todo a defender la Patria",
+      "resumen": "Por Antonio Rondón The post Encuentro de residente cubanos en Europa: todo a defender la Patria first appeared on Noticias Prensa Latina.",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/19/prestigioso-oncologo-suizo-denuncia-efectos-del-bloqueo-eeuu-a-cuba/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/19/encuentro-de-residente-cubanos-en-europa-todo-a-defender-la-patria/",
       "destacada": true,
-      "tema": "prestigioso",
-      "fecha": "Mon, 19 Oct 2026 11:17:50 +0000",
-      "id": 1
+      "tema": "tipo_cambio",
+      "fecha": "Mon, 19 Oct 2026 12:11:58 +0000",
+      "id": 3
     },
     {
       "categoria": "energia",
@@ -27,7 +53,7 @@
       "destacada": true,
       "tema": "produce",
       "fecha": "Sun, 18 Oct 2026 18:56:17 +0000",
-      "id": 2
+      "id": 4
     },
     {
       "categoria": "energia",
@@ -40,7 +66,7 @@
       "destacada": true,
       "tema": "escasez",
       "fecha": "Sun, 18 Oct 2026 14:01:49 +0000",
-      "id": 3
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -50,10 +76,10 @@
       "resumen": "El régimen cubano teme perder votos a favor de su resolución anual contra el embargo",
       "imagen_url": "https://static.14ymedio.com/clip/a14c2e3b-c9ca-47cd-b1b3-6e2173fee045_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/habana-protesta-ee-uu-utilizara_1_1132090.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "habana",
       "fecha": "Sat, 17 Oct 2026 17:31:12 +0000",
-      "id": 4
+      "id": 6
     },
     {
       "categoria": "politica",
@@ -63,10 +89,10 @@
       "resumen": "El ministro Óscar Pérez-Oliva asegura que estas ayudas estuvieron detenidas en Jamaica por culpa de EE UU",
       "imagen_url": "https://static.14ymedio.com/clip/02bf4f5a-4a88-4686-bae6-3ecdd9343e8d_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/llegan-cuba-750-toneladas-aceite_1_1132081.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "llegan",
       "fecha": "Sat, 17 Oct 2026 16:38:59 +0000",
-      "id": 5
+      "id": 7
     },
     {
       "categoria": "energia",
@@ -79,7 +105,7 @@
       "destacada": false,
       "tema": "fiscal",
       "fecha": "Mon, 19 Oct 2026 07:17:14 +0200",
-      "id": 6
+      "id": 8
     },
     {
       "categoria": "politica",
@@ -92,7 +118,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Mon, 19 Oct 2026 05:56:07 +0200",
-      "id": 7
+      "id": 9
     },
     {
       "categoria": "economia",
@@ -105,7 +131,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 19 Oct 2026 03:02:32 +0200",
-      "id": 8
+      "id": 10
     },
     {
       "categoria": "transporte",
@@ -118,7 +144,7 @@
       "destacada": false,
       "tema": "roban",
       "fecha": "Mon, 19 Oct 2026 01:38:53 +0200",
-      "id": 9
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -131,7 +157,7 @@
       "destacada": false,
       "tema": "podcast",
       "fecha": "Sat, 17 Oct 2026 19:26:24 +0000",
-      "id": 10
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -144,7 +170,7 @@
       "destacada": false,
       "tema": "regreso",
       "fecha": "Mon, 19 Oct 2026 00:14:05 +0000",
-      "id": 11
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -157,7 +183,7 @@
       "destacada": false,
       "tema": "melodía",
       "fecha": "Mon, 19 Oct 2026 00:09:52 +0000",
-      "id": 12
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -170,7 +196,7 @@
       "destacada": false,
       "tema": "cultura",
       "fecha": "Sun, 18 Oct 2026 23:40:05 +0000",
-      "id": 13
+      "id": 15
     },
     {
       "categoria": "salud",
@@ -183,7 +209,20 @@
       "destacada": false,
       "tema": "entregar",
       "fecha": "Sun, 18 Oct 2026 21:08:51 +0000",
-      "id": 14
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Jubilados en Cuba: vender su propia ropa para poder comer",
+      "resumen": "Justino, de 76 años, vende su ropa para alimentar a su hija, mientras Aurelio, de 82, sale cada día a ofrecer diversos artículos. Sus #pensiones no les alcanzan para cubrir sus necesidades. Es la realidad de miles de #ancianos en #Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792411655_69445.html",
+      "destacada": false,
+      "tema": "jubilados",
+      "fecha": "Mon, 19 Oct 2026 14:07:35 +0200",
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -196,7 +235,7 @@
       "destacada": false,
       "tema": "medio",
       "fecha": "Mon, 19 Oct 2026 13:15:27 +0200",
-      "id": 15
+      "id": 18
     },
     {
       "categoria": "politica",
@@ -209,7 +248,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 19 Oct 2026 11:26:37 +0200",
-      "id": 16
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -222,7 +261,7 @@
       "destacada": false,
       "tema": "emprendedores",
       "fecha": "Sun, 18 Oct 2026 23:10:26 +0200",
-      "id": 17
+      "id": 20
     },
     {
       "categoria": "energia",
@@ -235,7 +274,7 @@
       "destacada": false,
       "tema": "horas",
       "fecha": "Sun, 18 Oct 2026 22:02:22 +0200",
-      "id": 18
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -248,7 +287,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Sun, 18 Oct 2026 19:34:13 +0200",
-      "id": 19
+      "id": 22
     },
     {
       "categoria": "economia",
@@ -261,7 +300,7 @@
       "destacada": false,
       "tema": "cepal",
       "fecha": "Sun, 18 Oct 2026 18:16:51 +0200",
-      "id": 20
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -274,7 +313,7 @@
       "destacada": false,
       "tema": "relato",
       "fecha": "Sun, 18 Oct 2026 18:01:31 +0200",
-      "id": 21
+      "id": 24
     },
     {
       "categoria": "energia",
@@ -287,33 +326,20 @@
       "destacada": false,
       "tema": "siete",
       "fecha": "Sun, 18 Oct 2026 14:54:30 +0200",
-      "id": 22
+      "id": 25
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "economia",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "¿Existe en Cuba un segundo Parque Güell?",
-      "resumen": "#Arquitectura de #Cuba: Mucho se ha dicho de las similitudes de los Jardines de La Tropical, en #LaHabana, con el #ParqueGüell de #Barcelona.",
+      "titulo": "Martí Noticias AM",
+      "resumen": "Revista informativa con los últimos acontecimientos ocurridos en Cuba y el mundo. Con entrevistas y temas de actualidad relacionados a la política, la economía y de interés general.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cultura/1792321218_69431.html",
+      "enlace_original": "https://www.martinoticias.com/a/481275.html",
       "destacada": false,
-      "tema": "existe",
-      "fecha": "Sun, 18 Oct 2026 13:00:18 +0200",
-      "id": 23
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Mientras empobrece y reprime a los cubanos, el régimen reivindica 'el derecho a vivir con dignidad'",
-      "resumen": "#SOSCuba: El #RégimenCubano dice defender el derecho de los pueblos a vivir con dignidad, pero un análisis de #DiarioDeCuba lo desmiente.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792320352_69434.html",
-      "destacada": false,
-      "tema": "empobrece",
-      "fecha": "Sun, 18 Oct 2026 12:45:52 +0200",
-      "id": 24
+      "tema": "martí",
+      "fecha": "Mon, 19 Oct 2026 08:00:00 -0400",
+      "id": 26
     },
     {
       "categoria": "politica",
@@ -326,7 +352,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Mon, 19 Oct 2026 07:00:00 -0400",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -339,7 +365,7 @@
       "destacada": false,
       "tema": "cubalex",
       "fecha": "Sun, 18 Oct 2026 16:04:04 -0400",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "premia",
       "fecha": "Sun, 18 Oct 2026 14:34:48 -0400",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -365,7 +391,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Sun, 18 Oct 2026 12:00:00 -0400",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -378,7 +404,7 @@
       "destacada": false,
       "tema": "jóvenes",
       "fecha": "Sun, 18 Oct 2026 11:47:52 -0400",
-      "id": 29
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -391,7 +417,7 @@
       "destacada": false,
       "tema": "solicitud",
       "fecha": "Sun, 18 Oct 2026 09:52:05 -0400",
-      "id": 30
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -404,7 +430,7 @@
       "destacada": false,
       "tema": "denuncian",
       "fecha": "Sun, 18 Oct 2026 09:15:06 -0400",
-      "id": 31
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -417,20 +443,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Sun, 18 Oct 2026 08:00:00 -0400",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Santa Misa",
-      "resumen": "La misa dominical transmitida para Cuba desde el Santuario Nacional de Nuestra Señor de la Caridad, un templo católico de la Arquidiócesis de Miami dedicado a la Patrona de Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481261.html",
-      "destacada": false,
-      "tema": "santa",
-      "fecha": "Sun, 18 Oct 2026 07:00:30 -0400",
-      "id": 33
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -443,7 +456,7 @@
       "destacada": false,
       "tema": "recuperar",
       "fecha": "Mon, 19 Oct 2026 04:01:28 +0000",
-      "id": 34
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -456,7 +469,7 @@
       "destacada": false,
       "tema": "surfacen",
       "fecha": "Mon, 19 Oct 2026 00:07:11 +0000",
-      "id": 35
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -469,7 +482,7 @@
       "destacada": false,
       "tema": "serie",
       "fecha": "Sun, 18 Oct 2026 23:55:16 +0000",
-      "id": 36
+      "id": 37
     },
     {
       "categoria": "transporte",
@@ -482,7 +495,7 @@
       "destacada": false,
       "tema": "iverson",
       "fecha": "Sun, 18 Oct 2026 23:05:52 +0000",
-      "id": 37
+      "id": 38
     },
     {
       "categoria": "politica",
@@ -495,7 +508,7 @@
       "destacada": false,
       "tema": "guerra",
       "fecha": "Mon, 19 Oct 26 08:38:00 +0200",
-      "id": 38
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -508,7 +521,7 @@
       "destacada": false,
       "tema": "lezama",
       "fecha": "Mon, 19 Oct 26 08:29:00 +0200",
-      "id": 39
+      "id": 40
     },
     {
       "categoria": "energia",
@@ -521,7 +534,7 @@
       "destacada": false,
       "tema": "energia",
       "fecha": "Mon, 19 Oct 26 08:03:00 +0200",
-      "id": 40
+      "id": 41
     },
     {
       "categoria": "salud",
@@ -534,7 +547,7 @@
       "destacada": false,
       "tema": "rusia",
       "fecha": "Mon, 19 Oct 26 08:00:00 +0200",
-      "id": 41
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -547,7 +560,7 @@
       "destacada": false,
       "tema": "biblioteca",
       "fecha": "Mon, 19 Oct 26 07:52:00 +0200",
-      "id": 42
+      "id": 43
     },
     {
       "categoria": "politica",
@@ -560,7 +573,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Mon, 19 Oct 26 07:49:00 +0200",
-      "id": 43
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -573,7 +586,7 @@
       "destacada": false,
       "tema": "convoca",
       "fecha": "Mon, 19 Oct 26 07:43:00 +0200",
-      "id": 44
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -586,7 +599,7 @@
       "destacada": false,
       "tema": "servicio",
       "fecha": "Mon, 19 Oct 26 07:32:00 +0200",
-      "id": 45
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -599,7 +612,7 @@
       "destacada": false,
       "tema": "lanzan",
       "fecha": "Mon, 19 Oct 26 06:44:00 +0200",
-      "id": 46
+      "id": 47
     },
     {
       "categoria": "transporte",
@@ -612,7 +625,7 @@
       "destacada": false,
       "tema": "ministro",
       "fecha": "Sun, 18 Oct 2026 22:21:01 +0000",
-      "id": 47
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -625,7 +638,33 @@
       "destacada": false,
       "tema": "celebra",
       "fecha": "Sun, 18 Oct 2026 21:54:20 +0000",
-      "id": 48
+      "id": 49
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Archivo Girón: María del Carmen, Jusvinza y la vida de una científica cubana",
+      "resumen": "La doctora María del Carmen Domínguez Horta, investigadora del Centro de Ingeniería Genética y Biotecnología (CIGB) de Cuba, fue reconocida con el Premio Mujeres Latinoamericanas en Química 2026, en la categoría Liderazgo en la Industria.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/17/archivo-giron-maria-del-carmen-dominguez/",
+      "destacada": false,
+      "tema": "archivo",
+      "fecha": "Sat, 17 Oct 2026 17:03:14 +0000",
+      "id": 50
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Esto es lo que cuesta poner un triciclo a rodar en Cuba",
+      "resumen": "Aunque los triciclos eléctricos se han convertido en una alternativa de transporte ante la escasez de combustible en Cuba, su uso no garantiza ingresos estables. Propietarios y choferes afrontan gastos de mantenimiento, las baterías que manejan son de duración limitada y hay cuotas diarias que puede",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/AP_26191583089305_26605caacf.jpg",
+      "enlace_original": "https://eltoque.com/lo-que-cuesta-poner-un-triciclo-a-rodar-en-cuba",
+      "destacada": false,
+      "tema": "cuesta",
+      "fecha": "Mon, 19 Oct 2026 11:40:00 GMT",
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -638,7 +677,7 @@
       "destacada": false,
       "tema": "archivos",
       "fecha": "Sat, 17 Oct 2026 22:28:33 GMT",
-      "id": 49
+      "id": 52
     }
   ]
 }
