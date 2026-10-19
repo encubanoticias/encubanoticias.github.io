@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-19",
-  "hora": "21:17",
-  "total": 53,
+  "hora": "22:18",
+  "total": 58,
   "noticias": [
     {
       "categoria": "energia",
@@ -20,6 +20,19 @@
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
+      "titulo": "Gana el holguinero Ronel González el Premio Mundial de Poesía Nosside 2026",
+      "resumen": "Otros cubanos obtuvieron menciones, mientras que la poeta Mariana Enriqueta Pérez, de Santa Clara, recibió uno de los premios colaterales",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-19/gana-el-holguinero-ronel-gonzalez-el-premio-mundial-de-poesia-nosside-2026-19-10-2026-17-10-25",
+      "destacada": true,
+      "tema": "holguinero",
+      "fecha": "Mon, 19 Oct 2026 17:10:25 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
       "titulo": "La Biblioteca Nacional de Cuba José Martí celebra su aniversario 125",
       "resumen": "Fundada el 18 de octubre de 1901, la institución cumple más de una centuria de historia como el principal repositorio bibliográfico y documental de la nación",
       "imagen_url": "",
@@ -27,7 +40,7 @@
       "destacada": true,
       "tema": "biblioteca",
       "fecha": "Mon, 19 Oct 2026 14:10:38 -0400",
-      "id": 2
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -40,7 +53,7 @@
       "destacada": true,
       "tema": "plata",
       "fecha": "Sun, 18 Oct 2026 10:10:22 -0400",
-      "id": 3
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -53,33 +66,33 @@
       "destacada": true,
       "tema": "semana",
       "fecha": "Mon, 19 Oct 2026 09:10:59 -0400",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Jubileo por Margarita",
-      "resumen": "&nbsp;La escritora Margarita Mateo Palmer, Premio Nacional de Literatura, es la invitada este miércoles, al espacio El jubileo de Letras Cubanas",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-19/jubileo-por-margarita-19-10-2026-12-10-20",
-      "destacada": true,
-      "tema": "jubileo",
-      "fecha": "Mon, 19 Oct 2026 12:10:20 -0400",
       "id": 5
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Programa cultural acompañará encuentro de cubanos en Europa",
-      "resumen": "París, 19 oct (Prensa Latina) Un programa cultural acompañará la inauguración del XVIII Encuentro de Cubanos Residentes en Europa, con una gran rueda de casino en esta capital el próximo día 23, indicaron hoy organizadores del evento. The post Programa cultural acompañará encuentro de cubanos en Eur",
+      "titulo": "Amigos de Cuba en Italia denuncian acción EEUU en ONU contra la isla",
+      "resumen": "Roma, 19 oct (Prensa Latina) La Asociación Nacional de Amistad Italia-Cuba (Anaic) calificó de inaceptable el uso hoy de espacios multilaterales de la sede de Naciones Unidas para \"montar espectáculos propagandísticos basados en mentiras, testimonios pagados y mistificaciones\" en contra de Cuba. The",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/19/programa-cultural-acompanara-encuentro-de-cubanos-en-europa/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/19/amigos-de-cuba-en-italia-denuncian-accion-eeuu-en-onu-contra-la-isla/",
       "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Mon, 19 Oct 2026 20:41:11 +0000",
+      "tema": "amigos",
+      "fecha": "Mon, 19 Oct 2026 21:52:24 +0000",
       "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Tres equipos comparten la cima oriental del béisbol cubano",
+      "resumen": "La Habana, 19 oct (Prensa Latina) Ciego de Ávila y Granma aprovecharon hoy el tropiezo de Santiago de Cuba para comprimir la lucha por el liderazgo de la Zona Oriental y compartir la cima de la 65 Serie Nacional de Béisbol. The post Tres equipos comparten la cima oriental del béisbol cubano first ap",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/19/tres-equipos-comparten-la-cima-oriental-del-beisbol-cubano/",
+      "destacada": false,
+      "tema": "equipos",
+      "fecha": "Mon, 19 Oct 2026 21:47:53 +0000",
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "recibió",
       "fecha": "Mon, 19 Oct 2026 13:51:29 +0000",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "transporte",
@@ -105,7 +118,7 @@
       "destacada": false,
       "tema": "cinco",
       "fecha": "Mon, 19 Oct 2026 20:27:35 +0000",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -118,7 +131,7 @@
       "destacada": false,
       "tema": "despaigne",
       "fecha": "Mon, 19 Oct 2026 19:38:38 +0000",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "minas",
       "fecha": "Mon, 19 Oct 2026 14:53:38 +0000",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -144,7 +157,7 @@
       "destacada": false,
       "tema": "florida",
       "fecha": "Mon, 19 Oct 2026 16:19:09 +0000",
-      "id": 11
+      "id": 12
     },
     {
       "categoria": "energia",
@@ -157,7 +170,7 @@
       "destacada": false,
       "tema": "produce",
       "fecha": "Sun, 18 Oct 2026 18:56:17 +0000",
-      "id": 12
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -170,7 +183,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Mon, 19 Oct 2026 15:14:41 +0000",
-      "id": 13
+      "id": 14
     },
     {
       "categoria": "energia",
@@ -183,46 +196,111 @@
       "destacada": false,
       "tema": "escasez",
       "fecha": "Sun, 18 Oct 2026 14:01:49 +0000",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubanos con orden de deportación en ausencia: cómo reabrir el caso si faltaste a la corte de inmigración",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e135253-s27061-nid343296-cubanos-orden-deportacion-ausencia-reabrir-caso",
-      "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Mon, 19 Oct 2026 22:11:48 +0200",
       "id": 15
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Diplomáticos del régimen montan acto de repudio en la ONU contra activistas cubanos",
+      "titulo": "EE.UU. cierra el año fiscal 2026 con los encuentros migratorios más bajos de su historia: así cayó la cifra de cubanos",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e208512-s27061-nid343294-diplomaticos-regimen-montan-acto-repudio-onu-contra",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e208933-s27061-nid343232-eeuu-cierra-ano-fiscal-2026-encuentros-migratorios",
       "destacada": false,
-      "tema": "diplomáticos",
-      "fecha": "Mon, 19 Oct 2026 21:38:08 +0200",
+      "tema": "cierra",
+      "fecha": "Mon, 19 Oct 2026 01:12:09 +0200",
       "id": 16
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Bruno Rodríguez llama «parásitos» a políticos de Florida tras la orden de arresto contra Raúl Castro",
+      "titulo": "Adiós a Melquíades de Dios Leyva, eminente físico y Profesor Emérito de la Universidad de La Habana",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e208512-s27061-nid343293-bruno-rodriguez-llama-parasitos-politicos-florida",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e209395-s27061-nid343223-adios-melquiades-dios-leyva-eminente-fisico-profesor",
       "destacada": false,
-      "tema": "bruno",
-      "fecha": "Mon, 19 Oct 2026 21:34:02 +0200",
+      "tema": "adiós",
+      "fecha": "Mon, 19 Oct 2026 00:53:29 +0200",
       "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba y Florida cambiarán la hora en noviembre: esta es la fecha",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e208933-s27061-nid343233-cuba-florida-cambiaran-hora-noviembre-esta-fecha",
+      "destacada": false,
+      "tema": "florida",
+      "fecha": "Mon, 19 Oct 2026 00:46:37 +0200",
+      "id": 18
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Gobierno cubano busca inversores, incluidos emigrados, para recuperar siete instalaciones turísticas en Cienfuegos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e208933-s27061-nid343230-gobierno-cubano-busca-inversores-incluidos-emigrados",
+      "destacada": false,
+      "tema": "gobierno",
+      "fecha": "Mon, 19 Oct 2026 00:16:47 +0200",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Otorgan a científica cubana María del Carmen Domínguez Premio Mujeres Latinoamericanas en Química 2026",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-18-u1-e209395-s27061-nid343221-otorgan-cientifica-cubana-maria-carmen-dominguez",
+      "destacada": false,
+      "tema": "otorgan",
+      "fecha": "Sun, 18 Oct 2026 23:53:05 +0200",
+      "id": 20
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Médico cubano revela por qué muchos colegas abandonan la profesión para trabajar en mipymes",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-18-u1-e135253-s27061-nid343228-medico-cubano-revela-muchos-colegas-abandonan",
+      "destacada": false,
+      "tema": "médico",
+      "fecha": "Sun, 18 Oct 2026 23:52:09 +0200",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Detalles de plan terrorista contra Cuba organizado desde Estados Unidos",
+      "resumen": "En febrero de este año se hicieron públicos detalles sobre el intento de infiltración de una lancha con armamento a territorio nacional. A partir del reporte oficial, un equipo de investigación presenta un análisis del caso: los hechos confirmados, los elementos aportados por fuentes propias y las p",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/detalles-de-plan-terrorista-contra-cuba-organizado-desde-estados-unidos/",
+      "destacada": false,
+      "tema": "detalles",
+      "fecha": "Mon, 19 Oct 2026 21:59:25 +0000",
+      "id": 22
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba denuncia en la ONU maniobra hostil auspiciada por Estados Unidos",
+      "resumen": "El representante permanente de Cuba ante la Organización de las Naciones Unidas (ONU) , Ernesto Soberón Guzmán, denunció este lunes en la sede del organismo una maniobra anticubana auspiciada por el Gobierno de Estados Unidos, en total contravención de las normas que rigen el uso de las instalacione",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261019/cuba-denuncia-en-la-onu-maniobra-hostil-auspiciada-por-estados-unidos/",
+      "destacada": false,
+      "tema": "denuncia",
+      "fecha": "Mon, 19 Oct 2026 21:38:04 +0000",
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -235,20 +313,20 @@
       "destacada": false,
       "tema": "jóvenes",
       "fecha": "Mon, 19 Oct 2026 20:40:39 +0000",
-      "id": 18
+      "id": 24
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El regreso de Urquiola",
-      "resumen": "Alfonso Urquiola volvió a dirigir en la pelota cubana y lo está haciendo con la selección de siempre, los Vegueros de Pinar del Río",
+      "titulo": "Dos meses para abandonar Cuba: el nuevo ultimátum de la Seguridad del Estado a un periodista independiente",
+      "resumen": "La Seguridad del Estado da dos meses al #periodista independiente José Antonio López Piña para abandonar #Cuba y amenaza con fabricarle causas penales y encarcelarlo si permanece en la Isla.",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261018/el-regreso-de-urquiola/",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1792448175_69457.html",
       "destacada": false,
-      "tema": "regreso",
-      "fecha": "Mon, 19 Oct 2026 00:14:05 +0000",
-      "id": 19
+      "tema": "meses",
+      "fecha": "Tue, 20 Oct 2026 00:16:15 +0200",
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -261,7 +339,7 @@
       "destacada": false,
       "tema": "gritos",
       "fecha": "Mon, 19 Oct 2026 22:57:11 +0200",
-      "id": 20
+      "id": 26
     },
     {
       "categoria": "politica",
@@ -274,7 +352,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 19 Oct 2026 20:48:12 +0200",
-      "id": 21
+      "id": 27
     },
     {
       "categoria": "energia",
@@ -287,7 +365,7 @@
       "destacada": false,
       "tema": "arranca",
       "fecha": "Mon, 19 Oct 2026 19:35:57 +0200",
-      "id": 22
+      "id": 28
     },
     {
       "categoria": "transporte",
@@ -300,7 +378,7 @@
       "destacada": false,
       "tema": "oficial",
       "fecha": "Mon, 19 Oct 2026 18:16:31 +0200",
-      "id": 23
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -313,7 +391,7 @@
       "destacada": false,
       "tema": "ernesto",
       "fecha": "Mon, 19 Oct 2026 18:00:40 +0200",
-      "id": 24
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -326,7 +404,7 @@
       "destacada": false,
       "tema": "posible",
       "fecha": "Mon, 19 Oct 2026 18:00:18 +0200",
-      "id": 25
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -339,20 +417,20 @@
       "destacada": false,
       "tema": "revolución",
       "fecha": "Mon, 19 Oct 2026 16:57:41 +0200",
-      "id": 26
+      "id": 32
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "economia",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La emigración de cubanos a España se ha triplicado desde la Ley de Nietos",
-      "resumen": "La cantidad de #cubanos que han emigrado a #España se ha triplicado desde la #LeyDeNietos. Los que tienen la nacionalidad y residen en el país podrán votar en las elecciones, aunque se hayan nacionalizado por esa ley. #EmigraciónCubana.",
+      "titulo": "Las cifras que muestran que el embargo a Cuba no existe, según experto",
+      "resumen": "Un informe de la CEPAL sobre perspectivas del comercio internacional en América Latina y el Caribe reaviva el debate sobre el embargo a Cuba, al mostrar exportaciones cubanas por 4.749 millones de dólares entre 2024 y 2026 e importaciones por 9.533 millones.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792419381_69447.html",
+      "enlace_original": "https://www.martinoticias.com/a/las-cifras-que-muestran-que-el-embargo-a-cuba-no-existe-seg%c3%ban-experto/482314.html",
       "destacada": false,
-      "tema": "emigración",
-      "fecha": "Mon, 19 Oct 2026 16:16:21 +0200",
-      "id": 27
+      "tema": "cifras",
+      "fecha": "Mon, 19 Oct 2026 17:27:44 -0400",
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -365,7 +443,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Mon, 19 Oct 2026 17:00:30 -0400",
-      "id": 28
+      "id": 34
     },
     {
       "categoria": "transporte",
@@ -378,7 +456,7 @@
       "destacada": false,
       "tema": "justicia",
       "fecha": "Mon, 19 Oct 2026 16:38:27 -0400",
-      "id": 29
+      "id": 35
     },
     {
       "categoria": "politica",
@@ -391,7 +469,7 @@
       "destacada": false,
       "tema": "ucrania",
       "fecha": "Mon, 19 Oct 2026 16:24:29 -0400",
-      "id": 30
+      "id": 36
     },
     {
       "categoria": "energia",
@@ -404,7 +482,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Mon, 19 Oct 2026 16:05:30 -0400",
-      "id": 31
+      "id": 37
     },
     {
       "categoria": "energia",
@@ -417,7 +495,7 @@
       "destacada": false,
       "tema": "condena",
       "fecha": "Mon, 19 Oct 2026 20:32:11 +0000",
-      "id": 32
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -430,7 +508,7 @@
       "destacada": false,
       "tema": "lanzan",
       "fecha": "Mon, 19 Oct 2026 19:35:58 +0000",
-      "id": 33
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -443,7 +521,7 @@
       "destacada": false,
       "tema": "victorias",
       "fecha": "Mon, 19 Oct 2026 18:58:36 +0000",
-      "id": 34
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -456,7 +534,7 @@
       "destacada": false,
       "tema": "conocer",
       "fecha": "Mon, 19 Oct 2026 17:58:56 +0000",
-      "id": 35
+      "id": 41
     },
     {
       "categoria": "energia",
@@ -469,7 +547,7 @@
       "destacada": false,
       "tema": "condenan",
       "fecha": "Mon, 19 Oct 2026 17:27:27 +0000",
-      "id": 36
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -482,7 +560,7 @@
       "destacada": false,
       "tema": "sionismo",
       "fecha": "Mon, 19 Oct 26 22:53:00 +0200",
-      "id": 37
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -495,7 +573,7 @@
       "destacada": false,
       "tema": "detalles",
       "fecha": "Mon, 19 Oct 26 20:40:00 +0200",
-      "id": 38
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -508,7 +586,7 @@
       "destacada": false,
       "tema": "impide",
       "fecha": "Mon, 19 Oct 26 20:34:00 +0200",
-      "id": 39
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -521,7 +599,7 @@
       "destacada": false,
       "tema": "prestigioso",
       "fecha": "Mon, 19 Oct 26 20:34:00 +0200",
-      "id": 40
+      "id": 46
     },
     {
       "categoria": "politica",
@@ -534,7 +612,7 @@
       "destacada": false,
       "tema": "patético",
       "fecha": "Mon, 19 Oct 26 20:31:00 +0200",
-      "id": 41
+      "id": 47
     },
     {
       "categoria": "politica",
@@ -547,7 +625,7 @@
       "destacada": false,
       "tema": "guerra",
       "fecha": "Mon, 19 Oct 26 08:38:00 +0200",
-      "id": 42
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -560,7 +638,7 @@
       "destacada": false,
       "tema": "lezama",
       "fecha": "Mon, 19 Oct 26 08:29:00 +0200",
-      "id": 43
+      "id": 49
     },
     {
       "categoria": "energia",
@@ -573,7 +651,7 @@
       "destacada": false,
       "tema": "energia",
       "fecha": "Mon, 19 Oct 26 08:03:00 +0200",
-      "id": 44
+      "id": 50
     },
     {
       "categoria": "salud",
@@ -586,7 +664,7 @@
       "destacada": false,
       "tema": "rusia",
       "fecha": "Mon, 19 Oct 26 08:00:00 +0200",
-      "id": 45
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -599,7 +677,7 @@
       "destacada": false,
       "tema": "biblioteca",
       "fecha": "Mon, 19 Oct 26 07:52:00 +0200",
-      "id": 46
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -612,33 +690,20 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Mon, 19 Oct 2026 12:39:44 +0000",
-      "id": 47
+      "id": 53
     },
     {
-      "categoria": "transporte",
-      "fuente": "https://www.tribuna.cu/",
+      "categoria": "politica",
+      "fuente": "https://giron.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "Ministro de Transporte recorre entidad del sector en La Habana",
-      "resumen": "Durante la reunión con los directivos de Viazul se analizaron proyectos estratégicos y se evaluaron las proyecciones de la entidad La entrada Ministro de Transporte recorre entidad del sector en La Habana se publicó primero en Tribuna de La Habana.",
+      "titulo": "Quien amenaza, ¿a qué le teme?",
+      "resumen": "El secretario de Estado, Marco Rubio, “nervioso y ansioso frente a otra nueva derrota en la ONU, está presionando y chantajeando a Jefes de Estado y Gobierno de varios países para que cambien su voto contra el bloqueo”.",
       "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/ministro-de-transporte-recorre-entidad-del-sector-en-la-habana/",
+      "enlace_original": "https://giron.cu/2026/10/19/quien-amenaza-a-que-le-teme/",
       "destacada": false,
-      "tema": "ministro",
-      "fecha": "Sun, 18 Oct 2026 22:21:01 +0000",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Celebra Cuba el Día Internacional del Patrimonio Cultural Inmaterial",
-      "resumen": "Con una amplia programación de actividades organizadas en varias provincias por el Consejo Nacional de Casas de Cultura. La actividad central tuvo lugar en la Casa de Cultura Sindo Garay, en el municipio habanero de La Lisa La entrada Celebra Cuba el Día Internacional del Patrimonio Cultural Inmater",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/celebra-cuba-el-dia-internacional-del-patrimonio-cultural-inmaterial/",
-      "destacada": false,
-      "tema": "celebra",
-      "fecha": "Sun, 18 Oct 2026 21:54:20 +0000",
-      "id": 49
+      "tema": "quien",
+      "fecha": "Mon, 19 Oct 2026 09:15:00 +0000",
+      "id": 54
     },
     {
       "categoria": "transporte",
@@ -651,7 +716,7 @@
       "destacada": false,
       "tema": "agarra",
       "fecha": "Mon, 19 Oct 2026 18:30:00 GMT",
-      "id": 50
+      "id": 55
     },
     {
       "categoria": "transporte",
@@ -664,7 +729,7 @@
       "destacada": false,
       "tema": "cuesta",
       "fecha": "Mon, 19 Oct 2026 11:40:00 GMT",
-      "id": 51
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -677,7 +742,7 @@
       "destacada": false,
       "tema": "últimas",
       "fecha": "Mon, 19 Oct 2026 10:00:00 GMT",
-      "id": 52
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -690,7 +755,7 @@
       "destacada": false,
       "tema": "archivos",
       "fecha": "Sat, 17 Oct 2026 22:28:33 GMT",
-      "id": 53
+      "id": 58
     }
   ]
 }
