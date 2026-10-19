@@ -1,6 +1,6 @@
 {
   "fecha": "2026-10-19",
-  "hora": "03:19",
+  "hora": "04:22",
   "total": 55,
   "noticias": [
     {
@@ -30,6 +30,19 @@
       "id": 2
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Artista cubano Lara Sotelo enriquece su reciente muestra en La Habana",
+      "resumen": "La Habana, 19 oct (Prensa Latina) El tapiz La memoria devora el olvido, del artista cubano Jesús Lara Sotelo, se develará hoy aquí como parte de la exposición personal Axiomática Lara. Retablos y otras iluminaciones, en la Biblioteca Nacional de Cuba José Martí. The post Artista cubano Lara Sotelo e",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/19/artista-cubano-lara-sotelo-enriquece-su-reciente-muestra-en-la-habana/",
+      "destacada": true,
+      "tema": "artista",
+      "fecha": "Mon, 19 Oct 2026 04:18:25 +0000",
+      "id": 3
+    },
+    {
       "categoria": "energia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -40,7 +53,7 @@
       "destacada": true,
       "tema": "produce",
       "fecha": "Sun, 18 Oct 2026 18:56:17 +0000",
-      "id": 3
+      "id": 4
     },
     {
       "categoria": "energia",
@@ -53,7 +66,7 @@
       "destacada": true,
       "tema": "escasez",
       "fecha": "Sun, 18 Oct 2026 14:01:49 +0000",
-      "id": 4
+      "id": 5
     },
     {
       "categoria": "transporte",
@@ -63,10 +76,10 @@
       "resumen": "Se exhibirá el 16 de noviembre en el 39° Festival Internacional de Cine Documental de Ámsterdam, uno de los más prestigiosos del mundo",
       "imagen_url": "https://static.14ymedio.com/clip/fd7d3241-5c53-47b0-8d9f-130cc28628d6_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cultura/cineasta-cubano-alejandro-alonso-estrenara_1_1132102.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sun, 18 Oct 2026 13:01:51 +0000",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -79,7 +92,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Sat, 17 Oct 2026 17:31:12 +0000",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "politica",
@@ -92,7 +105,46 @@
       "destacada": false,
       "tema": "llegan",
       "fecha": "Sat, 17 Oct 2026 16:38:59 +0000",
-      "id": 7
+      "id": 8
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El dólar aprieta el paso y el euro pierde impulso en el mercado informal cubano",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e209395-s27061-nid343241-dolar-aprieta-paso-euro-pierde-impulso-mercado",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Mon, 19 Oct 2026 03:02:32 +0200",
+      "id": 9
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Roban la moto al actor cubano Néstor Jiménez tras el estreno de la película «Neurótica anónima» en La Habana",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e208933-s27061-nid343237-roban-moto-al-actor-cubano-nestor-jimenez-tras",
+      "destacada": false,
+      "tema": "roban",
+      "fecha": "Mon, 19 Oct 2026 01:38:53 +0200",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Habría fallecido en prisión presunto homicida asociado a canibalismo en Santiago de Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e209395-s27061-nid343235-habria-fallecido-prision-presunto-homicida-asociado",
+      "destacada": false,
+      "tema": "habría",
+      "fecha": "Mon, 19 Oct 2026 01:30:38 +0200",
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -105,7 +157,7 @@
       "destacada": false,
       "tema": "cierra",
       "fecha": "Mon, 19 Oct 2026 01:12:09 +0200",
-      "id": 8
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -118,58 +170,6 @@
       "destacada": false,
       "tema": "adiós",
       "fecha": "Mon, 19 Oct 2026 00:53:29 +0200",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba y Florida cambiarán la hora en noviembre: esta es la fecha",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e208933-s27061-nid343233-cuba-florida-cambiaran-hora-noviembre-esta-fecha",
-      "destacada": false,
-      "tema": "florida",
-      "fecha": "Mon, 19 Oct 2026 00:46:37 +0200",
-      "id": 10
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Gobierno cubano busca inversores, incluidos emigrados, para recuperar siete instalaciones turísticas en Cienfuegos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-19-u1-e208933-s27061-nid343230-gobierno-cubano-busca-inversores-incluidos-emigrados",
-      "destacada": false,
-      "tema": "gobierno",
-      "fecha": "Mon, 19 Oct 2026 00:16:47 +0200",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Otorgan a científica cubana María del Carmen Domínguez Premio Mujeres Latinoamericanas en Química 2026",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-18-u1-e209395-s27061-nid343221-otorgan-cientifica-cubana-maria-carmen-dominguez",
-      "destacada": false,
-      "tema": "otorgan",
-      "fecha": "Sun, 18 Oct 2026 23:53:05 +0200",
-      "id": 12
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Médico cubano revela por qué muchos colegas abandonan la profesión para trabajar en mipymes",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-18-u1-e135253-s27061-nid343228-medico-cubano-revela-muchos-colegas-abandonan",
-      "destacada": false,
-      "tema": "médico",
-      "fecha": "Sun, 18 Oct 2026 23:52:09 +0200",
       "id": 13
     },
     {
@@ -488,6 +488,19 @@
       "categoria": "sociedad",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
+      "titulo": "¿Se puede recuperar la agricultura en Cuba? (+Video)",
+      "resumen": "El programa Cuadrando la Caja debatió las nuevas transformaciones económicas y sociales para la recuperación agrícola en Cuba y su impacto en la producción de alimentos. Con la ampliación de facultades para contratar, comercializar y decidir, quedó la interrogante de si campesinos y cooperativistas ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/19/se-puede-recuperar-la-agricultura-en-cuba-video/",
+      "destacada": false,
+      "tema": "recuperar",
+      "fecha": "Mon, 19 Oct 2026 04:01:28 +0000",
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
       "titulo": "El Surfacen cubano amplía sus potencialidades terapéuticas en asma y otras enfermedades respiratorias",
       "resumen": "Más de 30 años después de su obtención por un equipo de especialistas del Centro Nacional de Sanidad Agropecuaria (Censa), y de emplearse en unidades de cuidados intensivos neonatales para tratar el distrés respiratorio, el producto cubano Surfacen amplía sus potencialidades terapéuticas en asma bro",
       "imagen_url": "",
@@ -495,7 +508,7 @@
       "destacada": false,
       "tema": "surfacen",
       "fecha": "Mon, 19 Oct 2026 00:07:11 +0000",
-      "id": 38
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -508,7 +521,7 @@
       "destacada": false,
       "tema": "serie",
       "fecha": "Sun, 18 Oct 2026 23:55:16 +0000",
-      "id": 39
+      "id": 40
     },
     {
       "categoria": "transporte",
@@ -521,19 +534,6 @@
       "destacada": false,
       "tema": "iverson",
       "fecha": "Sun, 18 Oct 2026 23:05:52 +0000",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Abel Prieto denuncia en México la asfixia estadounidense contra Cuba: La palabra bloqueo se queda corta",
-      "resumen": "Durante su intervención, el relevante intelectual cubano afirmó que la nación caribeña atraviesa una situación compleja debido a la guerra económica de Washington. Sostuvo: “Vivimos en tiempos de tempestad. La palabra bloqueo se queda corta, ya no sirve para explicar lo que están haciendo con nosotr",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/18/abel-prieto-denuncia-en-mexico-la-asfixia-estadounidense-contra-cuba-la-palabra-bloqueo-se-queda-corta/",
-      "destacada": false,
-      "tema": "prieto",
-      "fecha": "Sun, 18 Oct 2026 14:50:45 +0000",
       "id": 41
     },
     {
