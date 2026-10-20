@@ -575,3 +575,19 @@ function inicializarVotaciones() {
 }
 
 setTimeout(cargarVotosGlobales, 1500);
+
+// --- BOTÓN SUBIR ---
+const btnSubir = document.getElementById('btn-subir');
+if (btnSubir) {
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > 300) {
+      btnSubir.classList.remove('oculto');
+    } else {
+      btnSubir.classList.add('oculto');
+    }
+  });
+
+  btnSubir.onclick = () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+}
