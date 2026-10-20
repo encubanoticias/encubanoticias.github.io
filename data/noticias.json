@@ -1,6 +1,6 @@
 {
   "fecha": "2026-10-20",
-  "hora": "07:31",
+  "hora": "09:21",
   "total": 58,
   "noticias": [
     {
@@ -30,16 +30,16 @@
       "id": 2
     },
     {
-      "categoria": "sociedad",
+      "categoria": "salud",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Nicaragüenses solidarios respaldan a Cuba y rechazan bloqueo de EEUU",
-      "resumen": "Managua, 20 oct (Prensa Latina) El Grupo Nicaragüense de Solidaridad “Amor por Cuba” expresó su respaldo a la isla y rechazó las iniciativas que buscan desacreditar al país caribeño, al tiempo que demandó el fin de la política de bloqueo que mantiene hoy Estados Unidos. The post Nicaragüenses solida",
+      "titulo": "Rusia registra medicamento cubano para tratamiento de tumores",
+      "resumen": "Moscú, 20 oct (Prensa Latina) El Ministerio de Salud ruso registró el fármaco cubano Nimotuzumab, usado para el tratamiento de tumores malignos de esófago, cabeza, cuello y otros de tipo cerebral, comunicó hoy el rotativo Vzgliad. The post Rusia registra medicamento cubano para tratamiento de tumore",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/20/nicaraguenses-solidarios-respaldan-a-cuba-y-rechazan-bloqueo-de-eeuu/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/20/rusia-registra-medicamento-cubano-para-tratamiento-de-tumores/",
       "destacada": true,
-      "tema": "solidarios",
-      "fecha": "Tue, 20 Oct 2026 07:02:40 +0000",
+      "tema": "rusia",
+      "fecha": "Tue, 20 Oct 2026 08:19:51 +0000",
       "id": 3
     },
     {
@@ -527,6 +527,19 @@
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
+      "titulo": "Barcelona acoge ciclo de cultura, memoria y solidaridad, con tres mujeres de la cultura cubana: 1, 6, 9 y 10 de noviembre",
+      "resumen": "Defensem Cuba / Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125618-barcelona-acoge-ciclo-de-cultura-memoria-y-solidaridad-con-tres-mujeres-de-la-cultura-cubana-1-6-9-y-10-de-noviembre.jpg?t=1792485421",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261020/125618/125618-barcelona-acoge-ciclo-de-cultura-memoria-y-solidaridad-con-tres-mujeres-de-la-cultura-cubana-1-6-9-y-10-de-noviembre",
+      "destacada": false,
+      "tema": "barcelona",
+      "fecha": "Tue, 20 Oct 26 10:32:00 +0200",
+      "id": 41
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
       "titulo": "Cuba’s UN Ambassador Calls Out Rubio",
       "resumen": "Belly of The Beast Cuba",
       "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125615-cuba-s-un-ambassador-calls-out-rubio.jpg?t=1792474711",
@@ -534,7 +547,7 @@
       "destacada": false,
       "tema": "ambassador",
       "fecha": "Tue, 20 Oct 26 07:38:00 +0200",
-      "id": 41
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -547,7 +560,7 @@
       "destacada": false,
       "tema": "gracias",
       "fecha": "Tue, 20 Oct 26 07:37:00 +0200",
-      "id": 42
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -560,7 +573,7 @@
       "destacada": false,
       "tema": "intervista",
       "fecha": "Tue, 20 Oct 26 07:36:00 +0200",
-      "id": 43
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -573,7 +586,7 @@
       "destacada": false,
       "tema": "grupo",
       "fecha": "Tue, 20 Oct 26 07:35:00 +0200",
-      "id": 44
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -586,7 +599,7 @@
       "destacada": false,
       "tema": "circo",
       "fecha": "Tue, 20 Oct 26 07:34:00 +0200",
-      "id": 45
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -599,7 +612,7 @@
       "destacada": false,
       "tema": "vínculo",
       "fecha": "Tue, 20 Oct 26 07:33:00 +0200",
-      "id": 46
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -612,7 +625,7 @@
       "destacada": false,
       "tema": "acollerá",
       "fecha": "Tue, 20 Oct 26 06:53:00 +0200",
-      "id": 47
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -625,19 +638,6 @@
       "destacada": false,
       "tema": "aprecia",
       "fecha": "Tue, 20 Oct 26 06:42:00 +0200",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "EEUU contra Raúl Castro: Una orden de captura con calendario electoral",
-      "resumen": "El gobernador republicano de Florida, Ron DeSantis y el jefe del Departamento de Estado de EEUU, Mar...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125603-eeuu-contra-raul-castro-una-orden-de-captura-con-calendario-electoral.jpg?t=1792471169",
-      "enlace_original": "https://www.cubainformacion.tv/opinion/20261020/125603/125603-eeuu-contra-raul-castro-una-orden-de-captura-con-calendario-electoral",
-      "destacada": false,
-      "tema": "contra",
-      "fecha": "Tue, 20 Oct 26 06:37:00 +0200",
       "id": 49
     },
     {
