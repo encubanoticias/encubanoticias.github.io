@@ -246,13 +246,18 @@ async function apiGet(path) {
 async function apiPut(path, contenido, mensaje) {
   const token = getToken();
   if (!token) { pedirToken(); return false; }
-  const actual = await apiGet(path);
+  
+  // Obtenemos el archivo para saber su SHA actual
+  const actual = await apiGet(path + '?ref=main'); 
   const sha = actual ? actual.sha : undefined;
+  
   const body = {
     message: mensaje,
     content: btoa(unescape(encodeURIComponent(contenido))),
-    sha: sha
+    sha: sha,
+    branch: 'main' // <--- ESTO ES LO NUEVO
   };
+  
   const r = await fetch(API + path, {
     method: 'PUT',
     headers: {
