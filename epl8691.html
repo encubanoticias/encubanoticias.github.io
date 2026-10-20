@@ -398,23 +398,54 @@ document.getElementById('btn-rastrear').onclick = async () => {
 function renderFuentes() {
   const cont = document.getElementById('lista-fuentes');
   cont.innerHTML = '';
+  
+  if (!fuentes.clasificaciones) fuentes.clasificaciones = {};
+  
   (fuentes.semilla || []).forEach(s => {
+    const actual = fuentes.clasificaciones[s] || 'alternativa';
+    
+    // Botones de clasificación
+    const btns = `
+      <div style="display:flex; gap:5px; margin-bottom:5px;">
+        <button class="btn-tipo" data-url="${s}" data-tipo="oficial" style="background:${actual === 'oficial' ? 'var(--oficial)' : '#eee'}; color:${actual === 'oficial' ? '#fff' : '#000'}; border:1px solid #ccc; padding:2px 8px; border-radius:10px; font-size:12px; cursor:pointer;">Oficial</button>
+        <button class="btn-tipo" data-url="${s}" data-tipo="alternativa" style="background:${actual === 'alternativa' ? 'var(--rojo)' : '#eee'}; color:${actual === 'alternativa' ? '#fff' : '#000'}; border:1px solid #ccc; padding:2px 8px; border-radius:10px; font-size:12px; cursor:pointer;">Alternativa</button>
+        <button class="btn-tipo" data-url="${s}" data-tipo="internacional" style="background:${actual === 'internacional' ? '#8E24AA' : '#eee'}; color:${actual === 'internacional' ? '#fff' : '#000'}; border:1px solid #ccc; padding:2px 8px; border-radius:10px; font-size:12px; cursor:pointer;">Internacional</button>
+      </div>
+    `;
+
     const div = document.createElement('div');
-    div.className = 'fuente-item';
-    div.innerHTML = `<span>${s}</span><button data-url="${s}">Eliminar</button>`;
+    div.style.cssText = 'background:#fff; padding:10px; border-radius:8px; margin-bottom:10px; border-left:3px solid #ccc;';
+    div.innerHTML = `
+      <div style="font-size:13px; font-weight:bold; margin-bottom:5px; word-break:break-all;">${s}</div>
+      ${btns}
+      <button class="btn-eliminar" data-url="${s}" style="background:#ffcccc; color:#cc0000; border:1px solid #cc0000; padding:2px 8px; border-radius:10px; font-size:12px; cursor:pointer;">Eliminar fuente</button>
+    `;
     cont.appendChild(div);
   });
-  cont.querySelectorAll('button[data-url]').forEach(b => {
+
+  // Guardar clasificación
+  cont.querySelectorAll('.btn-tipo').forEach(b => {
+    b.onclick = async () => {
+      fuentes.clasificaciones[b.dataset.url] = b.dataset.tipo;
+      const ok = await apiPut(`/repos/${REPO}/contents/data/fuentes.json`,
+        JSON.stringify(fuentes, null, 2), 'Clasificar fuente');
+      if (ok) { toast('Guardado'); renderFuentes(); }
+    };
+  });
+
+  // Eliminar
+  cont.querySelectorAll('.btn-eliminar').forEach(b => {
     b.onclick = async () => {
       fuentes.semilla = fuentes.semilla.filter(x => x !== b.dataset.url);
       delete fuentes.feeds[b.dataset.url];
+      if (fuentes.clasificaciones) delete fuentes.clasificaciones[b.dataset.url];
       const ok = await apiPut(`/repos/${REPO}/contents/data/fuentes.json`,
         JSON.stringify(fuentes, null, 2), 'Eliminar fuente');
-      if (ok) { toast('Fuente eliminada'); renderFuentes(); }
+      if (ok) { toast('Eliminado'); renderFuentes(); }
     };
   });
 }
-
+  
 document.getElementById('agregar-fuente').onclick = async () => {
   const url = document.getElementById('nueva-fuente').value.trim();
   if (!url) return;
