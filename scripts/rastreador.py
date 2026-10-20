@@ -4,6 +4,7 @@ import json
 import re
 import os
 from datetime import datetime
+from email.utils import parsedate_to_datetime
 
 RUTAS_FEED = ["/feed/", "/rss/", "/rss.xml", "/feed", "/?feed=rss2", "/atom.xml"]
 
@@ -70,11 +71,13 @@ def probar_feed(base):
 
 def cargar_fuentes():
     if not os.path.exists("data/fuentes.json"):
-        return []
+        return [], {}
     with open("data/fuentes.json", "r", encoding="utf-8") as f:
         data = json.load(f)
     semillas = data.get("semilla", [])
     feeds = data.get("feeds", {})
+    clasificaciones = data.get("clasificaciones", {})
+    
     nuevos = {}
     for s in semillas:
         if s in feeds:
@@ -84,11 +87,12 @@ def cargar_fuentes():
             nuevos[s] = url
             print(f"Nuevo feed: {s} -> {url}")
     feeds.update(nuevos)
+    
     with open("data/fuentes.json", "w", encoding="utf-8") as f:
-        json.dump({"semilla": semillas, "feeds": feeds}, f, ensure_ascii=False, indent=2)
-    return [(s, url) for s, url in feeds.items()]
+        json.dump({"semilla": semillas, "feeds": feeds, "clasificaciones": clasificaciones}, f, ensure_ascii=False, indent=2)
+    return [(s, url) for s, url in feeds.items()], clasificaciones
 
-def leer_feed(nombre, url):
+def leer_feed(nombre, url, clasificaciones):
     noticias = []
     try:
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -103,7 +107,7 @@ def leer_feed(nombre, url):
             noticias.append({
                 "categoria": clasificar(titulo + " " + desc),
                 "fuente": nombre,
-                "fuente_tipo": "oficial" if any(x in nombre.lower() for x in ["cubadebate", "granma", "prensa"]) else "alternativa",
+                "fuente_tipo": clasificaciones.get(nombre, "alternativa"),
                 "titulo": titulo,
                 "resumen": desc,
                 "imagen_url": extraer_imagen(item),
@@ -116,8 +120,25 @@ def leer_feed(nombre, url):
         print(f"Error {nombre}: {e}")
     return noticias
 
+def extraer_tema(titulo):
+    t = titulo.lower()
+    temas_fijos = {
+        "tipo_cambio": ["dólar", "dolar", "euro", "tasa de cambio", "divisa", "cambio de divisa", "bcc", "el toque"],
+        "apagones": ["apagón", "apagon", "déficit eléctrico", "une"],
+        "mipymes": ["mipyme", "cuentapropista", "pyme"],
+        "transporte": ["ómnibus", "omnibus", "ferrocarril", "tren", "transporte"]
+    }
+    for tema, claves in temas_fijos.items():
+        for c in claves:
+            if c in t:
+                return tema
+    palabras = re.findall(r'\b[a-záéíóúñ]{5,}\b', t)
+    stop = {"sobre", "desde", "hasta", "entre", "según", "mientras", "donde", "cuando", "tiene", "hacer", "puede", "tras", "ante"}
+    palabras = [p for p in palabras if p not in stop]
+    return palabras[0] if palabras else ""
+
 def main():
-    config = {"horas_entre_rastreos": 1, "max_por_fuente": 5}
+    config = {"horas_entre_rastreos": 1, "max_por_fuente": 5, "horas_vida_noticias": 48}
     if os.path.exists("data/config.json"):
         with open("data/config.json") as f:
             config.update(json.load(f))
@@ -127,14 +148,14 @@ def main():
         with open("data/ultimo.json") as f:
             ultimo = datetime.fromisoformat(json.load(f)["ts"])
         horas = (ahora - ultimo).total_seconds() / 3600
-        if horas < config["horas_entre_rastreos"]:
+        if horas < config.get("horas_entre_rastreos", 1):
             print(f"Saltando. Faltan {config['horas_entre_rastreos'] - horas:.1f}h")
             return
 
-    fuentes = cargar_fuentes()
+    fuentes, clasificaciones = cargar_fuentes()
     todas = []
     for nombre, url in fuentes:
-        todas.extend(leer_feed(nombre, url))
+        todas.extend(leer_feed(nombre, url, clasificaciones))
 
     vistos = set()
     unicas = []
@@ -149,47 +170,27 @@ def main():
     for n in unicas:
         f = n["fuente"]
         por_fuente[f] = por_fuente.get(f, 0) + 1
-        if por_fuente[f] <= config["max_por_fuente"]:
+        if por_fuente[f] <= config.get("max_por_fuente", 5):
             balanceadas.append(n)
     unicas = balanceadas
-   
-    
-    def extraer_tema(titulo):
-      t = titulo.lower()
-      temas_fijos = {
-        "tipo_cambio": ["dólar", "dolar", "euro", "tasa de cambio", "divisa", "cambio de divisa", "bcc", "el toque"],
-         "apagones": ["apagón", "apagon", "déficit eléctrico", "une"],
-         "mipymes": ["mipyme", "cuentapropista", "pyme"],
-         "transporte": ["ómnibus", "omnibus", "ferrocarril", "tren", "transporte"]
-       }
-      for tema, claves in temas_fijos.items():
-        for c in claves:
-            if c in t:
-                return tema
-        palabras = re.findall(r'\b[a-záéíóúñ]{5,}\b', t)
-        stop = {"sobre", "desde", "hasta", "entre", "según", "mientras", "donde", "cuando", "tiene", "hacer", "puede", "tras", "ante"}
-        palabras = [p for p in palabras if p not in stop]
-        return palabras[0] if palabras else ""
 
     for n in unicas:
         n["tema"] = extraer_tema(n["titulo"])
-    # Agrupar por tema (palabras clave comunes en el título)
+
     # Filtrar por antigüedad
-    from email.utils import parsedate_to_datetime
     horas_max = config.get("horas_vida_noticias", 48)
     ahora_utc = datetime.utcnow()
     filtradas = []
     for n in unicas:
-       try:
-        fecha_pub = parsedate_to_datetime(n.get("fecha", ""))
-        edad_horas = (ahora_utc - fecha_pub.replace(tzinfo=None)).total_seconds() / 3600
-        if edad_horas <= horas_max:
-          filtradas.append(n)
-       except Exception:
-         filtradas.append(n)
-    unicas = filtradas 
-    
-    
+        try:
+            fecha_pub = parsedate_to_datetime(n.get("fecha", ""))
+            edad_horas = (ahora_utc - fecha_pub.replace(tzinfo=None)).total_seconds() / 3600
+            if edad_horas <= horas_max:
+                filtradas.append(n)
+        except Exception:
+            filtradas.append(n)
+    unicas = filtradas
+
     for i, n in enumerate(unicas):
         n["id"] = i + 1
     for n in unicas[:5]:
