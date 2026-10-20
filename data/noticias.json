@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-20",
-  "hora": "05:18",
-  "total": 55,
+  "hora": "06:19",
+  "total": 56,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -31,32 +31,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Una jornada para celebrar la esencia de la nación cubana",
-      "resumen": "La Habana, 20 oct (Prensa Latina) Música, cine, danza, teatro y literatura convergen hoy en todo el territorio para celebrar el Día de la Cultura Cubana, fecha que conmemora la entonación por vez primera del himno de Bayamo el 20 de octubre de 1868. The post Una jornada para celebrar la esencia de l",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/20/una-jornada-para-celebrar-la-esencia-de-la-nacion-cubana/",
-      "destacada": true,
-      "tema": "jornada",
-      "fecha": "Tue, 20 Oct 2026 04:22:51 +0000",
-      "id": 3
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Celebran en Bolivia Día de la Cultura Cubana",
-      "resumen": "La Paz, 20 oct (Prensa Latina) Con la presentación en la Cinemateca Boliviana del documental Tras las huellas del Che, la Embajada de Cuba aquí y el Colectivo Nuestra América festejaron el Día de la Cultura de la isla, que hoy se celebra. The post Celebran en Bolivia Día de la Cultura Cubana first a",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/20/celebran-en-bolivia-dia-de-la-cultura-cubana/",
-      "destacada": true,
-      "tema": "celebran",
-      "fecha": "Tue, 20 Oct 2026 04:21:52 +0000",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
       "titulo": "Cuba recibió mucho menos combustible de lo anunciado: EE UU confundió litros con barriles",
@@ -66,7 +40,7 @@
       "destacada": true,
       "tema": "recibió",
       "fecha": "Mon, 19 Oct 2026 13:51:29 +0000",
-      "id": 5
+      "id": 3
     },
     {
       "categoria": "transporte",
@@ -76,10 +50,10 @@
       "resumen": "Otro que tuvo este padecimiento logra su traslado a Bolivia",
       "imagen_url": "https://static.14ymedio.com/clip/e38310fc-97bf-4a85-bceb-3507ea541eaa_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/migracion/cinco-cubanos-deportados-centroafrica-ee_1_1132158.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "cinco",
       "fecha": "Mon, 19 Oct 2026 20:27:35 +0000",
-      "id": 6
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -89,10 +63,10 @@
       "resumen": "‘El Diablo’ fue parte de la selección que ganó el Mundial en 1989 y fue el mejor jugador del orbe",
       "imagen_url": "https://static.14ymedio.com/clip/649a37f7-1301-44e8-8086-4d5934b80e0d_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/deportes/joel-despaigne-primer-voleibolista-masculino_1_1132156.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "despaigne",
       "fecha": "Mon, 19 Oct 2026 19:38:38 +0000",
-      "id": 7
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -105,7 +79,7 @@
       "destacada": false,
       "tema": "minas",
       "fecha": "Mon, 19 Oct 2026 14:53:38 +0000",
-      "id": 8
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -118,7 +92,7 @@
       "destacada": false,
       "tema": "florida",
       "fecha": "Mon, 19 Oct 2026 16:19:09 +0000",
-      "id": 9
+      "id": 7
     },
     {
       "categoria": "energia",
@@ -131,7 +105,7 @@
       "destacada": false,
       "tema": "produce",
       "fecha": "Sun, 18 Oct 2026 18:56:17 +0000",
-      "id": 10
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -144,7 +118,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Mon, 19 Oct 2026 15:14:41 +0000",
-      "id": 11
+      "id": 9
     },
     {
       "categoria": "energia",
@@ -157,7 +131,7 @@
       "destacada": false,
       "tema": "escasez",
       "fecha": "Sun, 18 Oct 2026 14:01:49 +0000",
-      "id": 12
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -170,7 +144,7 @@
       "destacada": false,
       "tema": "alarma",
       "fecha": "Tue, 20 Oct 2026 05:11:04 +0200",
-      "id": 13
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -183,7 +157,7 @@
       "destacada": false,
       "tema": "lotería",
       "fecha": "Tue, 20 Oct 2026 04:31:15 +0200",
-      "id": 14
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -196,7 +170,7 @@
       "destacada": false,
       "tema": "cubana",
       "fecha": "Tue, 20 Oct 2026 04:00:48 +0200",
-      "id": 15
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -209,7 +183,7 @@
       "destacada": false,
       "tema": "acaban",
       "fecha": "Tue, 20 Oct 2026 02:58:47 +0200",
-      "id": 16
+      "id": 14
     },
     {
       "categoria": "economia",
@@ -222,7 +196,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 20 Oct 2026 02:42:25 +0200",
-      "id": 17
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -235,7 +209,7 @@
       "destacada": false,
       "tema": "cubana",
       "fecha": "Tue, 20 Oct 2026 01:59:27 +0200",
-      "id": 18
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -248,7 +222,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Tue, 20 Oct 2026 01:56:20 +0200",
-      "id": 19
+      "id": 17
     },
     {
       "categoria": "transporte",
@@ -261,7 +235,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Tue, 20 Oct 2026 01:32:23 +0200",
-      "id": 20
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -274,20 +248,7 @@
       "destacada": false,
       "tema": "condenan",
       "fecha": "Tue, 20 Oct 2026 01:09:38 +0200",
-      "id": 21
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.radiocubana.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Detalles de plan terrorista contra Cuba organizado desde Estados Unidos",
-      "resumen": "En febrero de este año se hicieron públicos detalles sobre el intento de infiltración de una lancha con armamento a territorio nacional. A partir del reporte oficial, un equipo de investigación presenta un análisis del caso: los hechos confirmados, los elementos aportados por fuentes propias y las p",
-      "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/detalles-de-plan-terrorista-contra-cuba-organizado-desde-estados-unidos/",
-      "destacada": false,
-      "tema": "detalles",
-      "fecha": "Mon, 19 Oct 2026 21:59:25 +0000",
-      "id": 22
+      "id": 19
     },
     {
       "categoria": "energia",
@@ -300,7 +261,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Mon, 19 Oct 2026 21:38:04 +0000",
-      "id": 23
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -313,7 +274,20 @@
       "destacada": false,
       "tema": "jóvenes",
       "fecha": "Mon, 19 Oct 2026 20:40:39 +0000",
-      "id": 24
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "China organiza un vuelo extraordinario tras las cancelaciones de Air China que dejan a cubanos varados",
+      "resumen": "La crisis de #combustible en #Cuba agrava los problemas de conexión con #España. #AirChina se ve obligada a programar un vuelo extraordinario tras las cancelaciones de las últimas semanas.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792475958_69459.html",
+      "destacada": false,
+      "tema": "china",
+      "fecha": "Tue, 20 Oct 2026 07:59:18 +0200",
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -326,7 +300,7 @@
       "destacada": false,
       "tema": "supuestas",
       "fecha": "Tue, 20 Oct 2026 01:14:13 +0200",
-      "id": 25
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -339,7 +313,7 @@
       "destacada": false,
       "tema": "meses",
       "fecha": "Tue, 20 Oct 2026 00:16:15 +0200",
-      "id": 26
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -352,7 +326,7 @@
       "destacada": false,
       "tema": "gritos",
       "fecha": "Mon, 19 Oct 2026 22:57:11 +0200",
-      "id": 27
+      "id": 25
     },
     {
       "categoria": "politica",
@@ -365,7 +339,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 19 Oct 2026 20:48:12 +0200",
-      "id": 28
+      "id": 26
     },
     {
       "categoria": "energia",
@@ -378,7 +352,7 @@
       "destacada": false,
       "tema": "arranca",
       "fecha": "Mon, 19 Oct 2026 19:35:57 +0200",
-      "id": 29
+      "id": 27
     },
     {
       "categoria": "transporte",
@@ -391,7 +365,7 @@
       "destacada": false,
       "tema": "oficial",
       "fecha": "Mon, 19 Oct 2026 18:16:31 +0200",
-      "id": 30
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -404,20 +378,7 @@
       "destacada": false,
       "tema": "ernesto",
       "fecha": "Mon, 19 Oct 2026 18:00:40 +0200",
-      "id": 31
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "'No es posible que una empresa invierta en Cuba si no tiene la seguridad jurídica suficiente'",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/foro-ddc/1792425618_69449.html",
-      "destacada": false,
-      "tema": "posible",
-      "fecha": "Mon, 19 Oct 2026 18:00:18 +0200",
-      "id": 32
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -430,7 +391,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Tue, 20 Oct 2026 00:05:30 -0400",
-      "id": 33
+      "id": 30
     },
     {
       "categoria": "transporte",
@@ -443,7 +404,7 @@
       "destacada": false,
       "tema": "libertad",
       "fecha": "Mon, 19 Oct 2026 23:00:00 -0400",
-      "id": 34
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -456,7 +417,7 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Mon, 19 Oct 2026 21:00:00 -0400",
-      "id": 35
+      "id": 32
     },
     {
       "categoria": "politica",
@@ -469,7 +430,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Tue, 20 Oct 2026 04:29:59 +0000",
-      "id": 36
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -482,7 +443,7 @@
       "destacada": false,
       "tema": "memoria",
       "fecha": "Tue, 20 Oct 2026 04:10:08 +0000",
-      "id": 37
+      "id": 34
     },
     {
       "categoria": "energia",
@@ -495,7 +456,7 @@
       "destacada": false,
       "tema": "condena",
       "fecha": "Mon, 19 Oct 2026 20:32:11 +0000",
-      "id": 38
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -508,7 +469,7 @@
       "destacada": false,
       "tema": "lanzan",
       "fecha": "Mon, 19 Oct 2026 19:35:58 +0000",
-      "id": 39
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -521,7 +482,7 @@
       "destacada": false,
       "tema": "victorias",
       "fecha": "Mon, 19 Oct 2026 18:58:36 +0000",
-      "id": 40
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -534,7 +495,85 @@
       "destacada": false,
       "tema": "conocer",
       "fecha": "Mon, 19 Oct 2026 17:58:56 +0000",
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba’s UN Ambassador Calls Out Rubio",
+      "resumen": "Belly of The Beast Cuba",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125615-cuba-s-un-ambassador-calls-out-rubio.jpg?t=1792474711",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261020/125615/125615-cuba-s-un-ambassador-calls-out-rubio",
+      "destacada": false,
+      "tema": "ambassador",
+      "fecha": "Tue, 20 Oct 26 07:38:00 +0200",
+      "id": 39
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Gracias Ferrer (y otros)",
+      "resumen": "La Florecita Cubana",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125614-gracias-ferrer-y-otros.jpg?t=1792474621",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261020/125614/125614-gracias-ferrer-y-otros",
+      "destacada": false,
+      "tema": "gracias",
+      "fecha": "Tue, 20 Oct 26 07:37:00 +0200",
+      "id": 40
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Intervista a Stefania Ascari (M5S) e Marco Papacci (Italia-Cuba) di ritorno dall'Avana",
+      "resumen": "Italia X Cuba",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125613-intervista-a-stefania-ascari-m5s-e-marco-papacci-italia-cuba-di-ritorno-dall-avana.jpg?t=1792474588",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261020/125613/125613-intervista-a-stefania-ascari-m5s-e-marco-papacci-italia-cuba-di-ritorno-dall-avana",
+      "destacada": false,
+      "tema": "intervista",
+      "fecha": "Tue, 20 Oct 26 07:36:00 +0200",
       "id": 41
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Grupo minúsculo que no tiene ideología, convicciones ni fidelidad",
+      "resumen": "El Titan de #Cuba",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125611-grupo-minusculo-que-no-tiene-ideologia-convicciones-ni-fidelidad.jpg?t=1792474511",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261020/125611/125611-grupo-minusculo-que-no-tiene-ideologia-convicciones-ni-fidelidad",
+      "destacada": false,
+      "tema": "grupo",
+      "fecha": "Tue, 20 Oct 26 07:35:00 +0200",
+      "id": 42
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "El circo se mudó a Nueva York",
+      "resumen": "CUBA No Es Miami",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125610-el-circo-se-mudo-a-nueva-york.jpg?t=1792474477",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261020/125610/125610-el-circo-se-mudo-a-nueva-york",
+      "destacada": false,
+      "tema": "circo",
+      "fecha": "Tue, 20 Oct 26 07:34:00 +0200",
+      "id": 43
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "El otro vínculo comunista que Otaola ha mantenido escondido sale a la luz",
+      "resumen": "Guerrero Cubano con su verdad al desnudo",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125609-el-otro-vinculo-comunista-que-otaola-ha-mantenido-escondido-sale-a-la-luz.jpg?t=1792474438",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261020/125609/125609-el-otro-vinculo-comunista-que-otaola-ha-mantenido-escondido-sale-a-la-luz",
+      "destacada": false,
+      "tema": "vínculo",
+      "fecha": "Tue, 20 Oct 26 07:33:00 +0200",
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -547,7 +586,7 @@
       "destacada": false,
       "tema": "acollerá",
       "fecha": "Tue, 20 Oct 26 06:53:00 +0200",
-      "id": 42
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -560,7 +599,7 @@
       "destacada": false,
       "tema": "aprecia",
       "fecha": "Tue, 20 Oct 26 06:42:00 +0200",
-      "id": 43
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -573,72 +612,7 @@
       "destacada": false,
       "tema": "contra",
       "fecha": "Tue, 20 Oct 26 06:37:00 +0200",
-      "id": 44
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "La farsa jurídica que Washington recicla contra Raúl",
-      "resumen": "Por Raúl Capote* - Original en Cuba en Resumen y Granma....",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125601-la-farsa-juridica-que-washington-recicla-contra-raul.jpg?t=1792470964",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261020/125601/125601-la-farsa-juridica-que-washington-recicla-contra-raul",
-      "destacada": false,
-      "tema": "farsa",
-      "fecha": "Tue, 20 Oct 26 06:36:00 +0200",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Italia: en Castelnuovo di Porto denuncian bloqueo de EEUU a Cuba",
-      "resumen": "Roma, 19 oct (Prensa Latina) La compleja realidad que afecta hoy al pueblo cubano, debido al b...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125600-italia-en-castelnuovo-di-porto-denuncian-bloqueo-de-eeuu-a-cuba.jpg?t=1792470916",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261020/125600/125600-italia-en-castelnuovo-di-porto-denuncian-bloqueo-de-eeuu-a-cuba",
-      "destacada": false,
-      "tema": "italia",
-      "fecha": "Tue, 20 Oct 26 06:33:00 +0200",
-      "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Bayamo reafirma su identidad en la XXXII Fiesta de la Cubanía",
-      "resumen": "Jorge Rivas Rodríguez Trabajadores La tradicional Ceremonia de las Banderas marcó el sábado últim...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125596-bayamo-reafirma-su-identidad-en-la-xxxii-fiesta-de-la-cubania.jpg?t=1792470583",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261020/125596/125596-bayamo-reafirma-su-identidad-en-la-xxxii-fiesta-de-la-cubania",
-      "destacada": false,
-      "tema": "bayamo",
-      "fecha": "Tue, 20 Oct 26 06:25:00 +0200",
       "id": 47
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba denuncia maniobra de EE.UU. en la ONU con presencia de terroristas para justificar el bloqueo",
-      "resumen": "«Esta farsa es un intento de desviar la atención de un simple hecho: Estados Unidos está actuando c...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125595-cuba-denuncia-maniobra-de-ee-uu-en-la-onu-con-presencia-de-terroristas-para-justificar-el-bloqueo.jpg?t=1792469899",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261020/125595/125595-cuba-denuncia-maniobra-de-ee-uu-en-la-onu-con-presencia-de-terroristas-para-justificar-el-bloqueo",
-      "destacada": false,
-      "tema": "denuncia",
-      "fecha": "Tue, 20 Oct 26 06:12:00 +0200",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Gran rueda de casino inaugurará el XVIII Encuentro de Cubanos y Cubanas Residentes en Europa: París, 23 al 25 de octubre",
-      "resumen": "París, 19 oct (Prensa Latina) Un programa cultural acompañará la inauguración del XVIII Encuentro de...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125594-gran-rueda-de-casino-inaugurara-el-xviii-encuentro-de-cubanos-y-cubanas-residentes-en-europa-paris-23-al-25-de-octubre.jpg?t=1792469441",
-      "enlace_original": "https://www.cubainformacion.tv/emigracion/20261020/125594/125594-gran-rueda-de-casino-inaugurara-el-xviii-encuentro-de-cubanos-y-cubanas-residentes-en-europa-paris-23-al-25-de-octubre",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Tue, 20 Oct 26 06:08:00 +0200",
-      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -651,7 +625,7 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Mon, 19 Oct 2026 12:39:44 +0000",
-      "id": 50
+      "id": 48
     },
     {
       "categoria": "transporte",
@@ -664,7 +638,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Sun, 18 Oct 2026 22:21:01 +0000",
-      "id": 51
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -677,7 +651,46 @@
       "destacada": false,
       "tema": "celebra",
       "fecha": "Sun, 18 Oct 2026 21:54:20 +0000",
+      "id": 50
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Educadores matanceros debaten anteproyecto de Ley de Educación",
+      "resumen": "Con la presencia de la Ministra de Educación, Naima Trujillo Barreto, docentes matanceros de diferentes niveles de enseñanza debatieron este lunes el anteproyecto de Ley de Educación, que regirá el sistema educativo cubano a partir de su aprobación.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/19/educadores-debaten-anteproyecto-ley-educacion/",
+      "destacada": false,
+      "tema": "educadores",
+      "fecha": "Mon, 19 Oct 2026 23:52:51 +0000",
+      "id": 51
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "ETECSA: Instalan paneles solares en radio base de Bermejas",
+      "resumen": "Recientemente se instaló un kit solar en la radio base de la Empresa de Telecomunicaciones de Cuba S.A. (ETECSA) en el poblado de Bermejas, como parte de las acciones desarrolladas en el municipio de Unión de Reyes para favorecer la vitalidad de las comunicaciones en el territorio.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/19/paneles-solares-radio-base-etecsa-bermejas/",
+      "destacada": false,
+      "tema": "etecsa",
+      "fecha": "Mon, 19 Oct 2026 11:57:00 +0000",
       "id": 52
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Quien amenaza, ¿a qué le teme?",
+      "resumen": "El secretario de Estado, Marco Rubio, “nervioso y ansioso frente a otra nueva derrota en la ONU, está presionando y chantajeando a Jefes de Estado y Gobierno de varios países para que cambien su voto contra el bloqueo”.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/19/quien-amenaza-a-que-le-teme/",
+      "destacada": false,
+      "tema": "quien",
+      "fecha": "Mon, 19 Oct 2026 09:15:00 +0000",
+      "id": 53
     },
     {
       "categoria": "transporte",
@@ -690,7 +703,7 @@
       "destacada": false,
       "tema": "agarra",
       "fecha": "Mon, 19 Oct 2026 18:30:00 GMT",
-      "id": 53
+      "id": 54
     },
     {
       "categoria": "transporte",
@@ -703,7 +716,7 @@
       "destacada": false,
       "tema": "cuesta",
       "fecha": "Mon, 19 Oct 2026 11:40:00 GMT",
-      "id": 54
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -716,7 +729,7 @@
       "destacada": false,
       "tema": "últimas",
       "fecha": "Mon, 19 Oct 2026 10:00:00 GMT",
-      "id": 55
+      "id": 56
     }
   ]
 }
