@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-20",
-  "hora": "06:19",
-  "total": 56,
+  "hora": "07:31",
+  "total": 58,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -31,6 +31,19 @@
     },
     {
       "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Nicaragüenses solidarios respaldan a Cuba y rechazan bloqueo de EEUU",
+      "resumen": "Managua, 20 oct (Prensa Latina) El Grupo Nicaragüense de Solidaridad “Amor por Cuba” expresó su respaldo a la isla y rechazó las iniciativas que buscan desacreditar al país caribeño, al tiempo que demandó el fin de la política de bloqueo que mantiene hoy Estados Unidos. The post Nicaragüenses solida",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/20/nicaraguenses-solidarios-respaldan-a-cuba-y-rechazan-bloqueo-de-eeuu/",
+      "destacada": true,
+      "tema": "solidarios",
+      "fecha": "Tue, 20 Oct 2026 07:02:40 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
       "titulo": "Cuba recibió mucho menos combustible de lo anunciado: EE UU confundió litros con barriles",
@@ -40,7 +53,7 @@
       "destacada": true,
       "tema": "recibió",
       "fecha": "Mon, 19 Oct 2026 13:51:29 +0000",
-      "id": 3
+      "id": 4
     },
     {
       "categoria": "transporte",
@@ -53,7 +66,7 @@
       "destacada": true,
       "tema": "cinco",
       "fecha": "Mon, 19 Oct 2026 20:27:35 +0000",
-      "id": 4
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -63,10 +76,10 @@
       "resumen": "‘El Diablo’ fue parte de la selección que ganó el Mundial en 1989 y fue el mejor jugador del orbe",
       "imagen_url": "https://static.14ymedio.com/clip/649a37f7-1301-44e8-8086-4d5934b80e0d_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/deportes/joel-despaigne-primer-voleibolista-masculino_1_1132156.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "despaigne",
       "fecha": "Mon, 19 Oct 2026 19:38:38 +0000",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -79,7 +92,7 @@
       "destacada": false,
       "tema": "minas",
       "fecha": "Mon, 19 Oct 2026 14:53:38 +0000",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "florida",
       "fecha": "Mon, 19 Oct 2026 16:19:09 +0000",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "energia",
@@ -105,7 +118,7 @@
       "destacada": false,
       "tema": "produce",
       "fecha": "Sun, 18 Oct 2026 18:56:17 +0000",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -118,7 +131,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Mon, 19 Oct 2026 15:14:41 +0000",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "energia",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "escasez",
       "fecha": "Sun, 18 Oct 2026 14:01:49 +0000",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -144,7 +157,7 @@
       "destacada": false,
       "tema": "alarma",
       "fecha": "Tue, 20 Oct 2026 05:11:04 +0200",
-      "id": 11
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -157,7 +170,7 @@
       "destacada": false,
       "tema": "lotería",
       "fecha": "Tue, 20 Oct 2026 04:31:15 +0200",
-      "id": 12
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -170,7 +183,7 @@
       "destacada": false,
       "tema": "cubana",
       "fecha": "Tue, 20 Oct 2026 04:00:48 +0200",
-      "id": 13
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -183,7 +196,7 @@
       "destacada": false,
       "tema": "acaban",
       "fecha": "Tue, 20 Oct 2026 02:58:47 +0200",
-      "id": 14
+      "id": 15
     },
     {
       "categoria": "economia",
@@ -196,7 +209,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 20 Oct 2026 02:42:25 +0200",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -209,7 +222,7 @@
       "destacada": false,
       "tema": "cubana",
       "fecha": "Tue, 20 Oct 2026 01:59:27 +0200",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -222,7 +235,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Tue, 20 Oct 2026 01:56:20 +0200",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "transporte",
@@ -235,7 +248,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Tue, 20 Oct 2026 01:32:23 +0200",
-      "id": 18
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -248,7 +261,20 @@
       "destacada": false,
       "tema": "condenan",
       "fecha": "Tue, 20 Oct 2026 01:09:38 +0200",
-      "id": 19
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Detalles de plan terrorista contra Cuba organizado desde Estados Unidos",
+      "resumen": "En febrero de este año se hicieron públicos detalles sobre el intento de infiltración de una lancha con armamento a territorio nacional. A partir del reporte oficial, un equipo de investigación presenta un análisis del caso: los hechos confirmados, los elementos aportados por fuentes propias y las p",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/detalles-de-plan-terrorista-contra-cuba-organizado-desde-estados-unidos/",
+      "destacada": false,
+      "tema": "detalles",
+      "fecha": "Mon, 19 Oct 2026 21:59:25 +0000",
+      "id": 21
     },
     {
       "categoria": "energia",
@@ -261,7 +287,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Mon, 19 Oct 2026 21:38:04 +0000",
-      "id": 20
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -274,7 +300,7 @@
       "destacada": false,
       "tema": "jóvenes",
       "fecha": "Mon, 19 Oct 2026 20:40:39 +0000",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -287,7 +313,7 @@
       "destacada": false,
       "tema": "china",
       "fecha": "Tue, 20 Oct 2026 07:59:18 +0200",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "supuestas",
       "fecha": "Tue, 20 Oct 2026 01:14:13 +0200",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "meses",
       "fecha": "Tue, 20 Oct 2026 00:16:15 +0200",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -326,7 +352,7 @@
       "destacada": false,
       "tema": "gritos",
       "fecha": "Mon, 19 Oct 2026 22:57:11 +0200",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "politica",
@@ -339,7 +365,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 19 Oct 2026 20:48:12 +0200",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "energia",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "arranca",
       "fecha": "Mon, 19 Oct 2026 19:35:57 +0200",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "transporte",
@@ -365,7 +391,7 @@
       "destacada": false,
       "tema": "oficial",
       "fecha": "Mon, 19 Oct 2026 18:16:31 +0200",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -378,7 +404,7 @@
       "destacada": false,
       "tema": "ernesto",
       "fecha": "Mon, 19 Oct 2026 18:00:40 +0200",
-      "id": 29
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -391,7 +417,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Tue, 20 Oct 2026 00:05:30 -0400",
-      "id": 30
+      "id": 32
     },
     {
       "categoria": "transporte",
@@ -404,7 +430,7 @@
       "destacada": false,
       "tema": "libertad",
       "fecha": "Mon, 19 Oct 2026 23:00:00 -0400",
-      "id": 31
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -417,7 +443,7 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Mon, 19 Oct 2026 21:00:00 -0400",
-      "id": 32
+      "id": 34
     },
     {
       "categoria": "politica",
@@ -430,7 +456,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Tue, 20 Oct 2026 04:29:59 +0000",
-      "id": 33
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -443,7 +469,7 @@
       "destacada": false,
       "tema": "memoria",
       "fecha": "Tue, 20 Oct 2026 04:10:08 +0000",
-      "id": 34
+      "id": 36
     },
     {
       "categoria": "energia",
@@ -456,7 +482,7 @@
       "destacada": false,
       "tema": "condena",
       "fecha": "Mon, 19 Oct 2026 20:32:11 +0000",
-      "id": 35
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -469,7 +495,7 @@
       "destacada": false,
       "tema": "lanzan",
       "fecha": "Mon, 19 Oct 2026 19:35:58 +0000",
-      "id": 36
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -482,7 +508,7 @@
       "destacada": false,
       "tema": "victorias",
       "fecha": "Mon, 19 Oct 2026 18:58:36 +0000",
-      "id": 37
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -495,7 +521,7 @@
       "destacada": false,
       "tema": "conocer",
       "fecha": "Mon, 19 Oct 2026 17:58:56 +0000",
-      "id": 38
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -508,7 +534,7 @@
       "destacada": false,
       "tema": "ambassador",
       "fecha": "Tue, 20 Oct 26 07:38:00 +0200",
-      "id": 39
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -521,7 +547,7 @@
       "destacada": false,
       "tema": "gracias",
       "fecha": "Tue, 20 Oct 26 07:37:00 +0200",
-      "id": 40
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -534,7 +560,7 @@
       "destacada": false,
       "tema": "intervista",
       "fecha": "Tue, 20 Oct 26 07:36:00 +0200",
-      "id": 41
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -547,7 +573,7 @@
       "destacada": false,
       "tema": "grupo",
       "fecha": "Tue, 20 Oct 26 07:35:00 +0200",
-      "id": 42
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -560,7 +586,7 @@
       "destacada": false,
       "tema": "circo",
       "fecha": "Tue, 20 Oct 26 07:34:00 +0200",
-      "id": 43
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -573,7 +599,7 @@
       "destacada": false,
       "tema": "vínculo",
       "fecha": "Tue, 20 Oct 26 07:33:00 +0200",
-      "id": 44
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -586,7 +612,7 @@
       "destacada": false,
       "tema": "acollerá",
       "fecha": "Tue, 20 Oct 26 06:53:00 +0200",
-      "id": 45
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -599,7 +625,7 @@
       "destacada": false,
       "tema": "aprecia",
       "fecha": "Tue, 20 Oct 26 06:42:00 +0200",
-      "id": 46
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -612,7 +638,7 @@
       "destacada": false,
       "tema": "contra",
       "fecha": "Tue, 20 Oct 26 06:37:00 +0200",
-      "id": 47
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -625,7 +651,7 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Mon, 19 Oct 2026 12:39:44 +0000",
-      "id": 48
+      "id": 50
     },
     {
       "categoria": "transporte",
@@ -638,7 +664,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Sun, 18 Oct 2026 22:21:01 +0000",
-      "id": 49
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -651,7 +677,7 @@
       "destacada": false,
       "tema": "celebra",
       "fecha": "Sun, 18 Oct 2026 21:54:20 +0000",
-      "id": 50
+      "id": 52
     },
     {
       "categoria": "energia",
@@ -664,7 +690,7 @@
       "destacada": false,
       "tema": "educadores",
       "fecha": "Mon, 19 Oct 2026 23:52:51 +0000",
-      "id": 51
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -677,7 +703,7 @@
       "destacada": false,
       "tema": "etecsa",
       "fecha": "Mon, 19 Oct 2026 11:57:00 +0000",
-      "id": 52
+      "id": 54
     },
     {
       "categoria": "politica",
@@ -690,7 +716,7 @@
       "destacada": false,
       "tema": "quien",
       "fecha": "Mon, 19 Oct 2026 09:15:00 +0000",
-      "id": 53
+      "id": 55
     },
     {
       "categoria": "transporte",
@@ -703,7 +729,7 @@
       "destacada": false,
       "tema": "agarra",
       "fecha": "Mon, 19 Oct 2026 18:30:00 GMT",
-      "id": 54
+      "id": 56
     },
     {
       "categoria": "transporte",
@@ -716,7 +742,7 @@
       "destacada": false,
       "tema": "cuesta",
       "fecha": "Mon, 19 Oct 2026 11:40:00 GMT",
-      "id": 55
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -729,7 +755,7 @@
       "destacada": false,
       "tema": "últimas",
       "fecha": "Mon, 19 Oct 2026 10:00:00 GMT",
-      "id": 56
+      "id": 58
     }
   ]
 }
