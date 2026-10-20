@@ -1,12 +1,12 @@
 {
   "fecha": "2026-10-20",
-  "hora": "13:31",
-  "total": 62,
+  "hora": "15:21",
+  "total": 56,
   "noticias": [
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
-      "fuente_tipo": "alternativa",
+      "fuente_tipo": "oficial",
       "titulo": "¿La doble moral o la falsa voluntad?",
       "resumen": "Washington se empeña en la recolonización y en reinstaurar el imperio de La Habana sobre la base de sanciones, escaladas, amenazas, condicionamientos o preparativos bélicos",
       "imagen_url": "",
@@ -19,7 +19,7 @@
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
-      "fuente_tipo": "alternativa",
+      "fuente_tipo": "oficial",
       "titulo": "Pulsión en todas partes",
       "resumen": "Para evocar este 20 de octubre el Día de la Cultura Cubana, cuatro intelectuales que, al poner sus respectivos talentos a su disposición, la han defendido, nos&nbsp;ofrecen, sobre ella, sus impresiones",
       "imagen_url": "",
@@ -33,14 +33,53 @@
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Asociación brasileña repudia agresiones de EEUU contra Cuba",
-      "resumen": "Brasilia, 20 oct (Prensa Latina) La Asociación Cultural José Martí de Santa Catarina, del estado homónimo brasileño, exigió el cese de las agresiones de Estados Unidos contra Cuba, consideradas hoy formas de castigo colectivo contra el pueblo de la isla. The post Asociación brasileña repudia agresio",
+      "titulo": "Cuba destaca en China su identidad cultural y denuncia el bloqueo",
+      "resumen": "Beijing, 20 oct (Prensa Latina) Con un intercambio entre artistas y obras de China y Cuba, ambos países celebraron hoy en esta capital el Día de la Cultura Cubana, jornada dedicada a promover el conocimiento mutuo y fortalecer los vínculos entre sus pueblos. The post Cuba destaca en China su identid",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/20/asociacion-brasilena-repudia-agresiones-de-eeuu-contra-cuba/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/20/cuba-destaca-en-china-su-identidad-cultural-y-denuncia-el-bloqueo/",
       "destacada": true,
-      "tema": "asociación",
-      "fecha": "Tue, 20 Oct 2026 12:39:32 +0000",
+      "tema": "destaca",
+      "fecha": "Tue, 20 Oct 2026 15:23:04 +0000",
       "id": 3
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Turismo patrimonial destaca en Cuba",
+      "resumen": "La Habana, 20 oct (Prensa Latina) El turismo patrimonial resalta hoy como uno de los elementos para atraer viajeros a Cuba, debido a la protección de dicho valor en esta isla. The post Turismo patrimonial destaca en Cuba first appeared on Noticias Prensa Latina.",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/20/turismo-patrimonial-destaca-en-cuba/",
+      "destacada": true,
+      "tema": "turismo",
+      "fecha": "Tue, 20 Oct 2026 14:19:52 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Sherritt se asocia con Gillon Capital para conseguir una licencia para enviar combustible a Cuba",
+      "resumen": "La alianza entre la canadiense y una empresa cercana a Trump ha permitido la firma de un acuerdo con los herederos de Moa Bay, confiscada en 1960",
+      "imagen_url": "https://static.14ymedio.com/clip/4a6e0ed6-3ca3-4b6a-b108-de256d2f9b29_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/sherritt-asocia-gillon-capital-licencia_1_1132183.html",
+      "destacada": true,
+      "tema": "sherritt",
+      "fecha": "Tue, 20 Oct 2026 15:15:40 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Tomar un cuartel en Varadero y repartir armas a la población, el supuesto plan ideado en EE UU",
+      "resumen": "El oficialismo acusa a EE UU de no actuar contra los “terroristas” y de infiltrar a 'autodeportados' en Cuba14:55",
+      "imagen_url": "https://static.14ymedio.com/clip/28380fb3-29b0-4426-8210-08eca730d51d_source-aspect-ratio_default_0.png",
+      "enlace_original": "https://www.14ymedio.com/cuba/cuartel-varadero-repartir-armas-poblacion_1_1132179.html",
+      "destacada": false,
+      "tema": "tomar",
+      "fecha": "Tue, 20 Oct 2026 13:04:23 +0000",
+      "id": 6
     },
     {
       "categoria": "politica",
@@ -50,36 +89,23 @@
       "resumen": "Díaz-Canel y el canciller Bruno Rodríguez arremeten en redes sociales contra los opositores y ex presos políticos invitados a participar por EE UU en una reunión sobre “la opresión que La Habana oculta”",
       "imagen_url": "https://static.14ymedio.com/clip/977ea256-4121-4d7f-8e9a-b32016ead02a_source-aspect-ratio_default_0.png",
       "enlace_original": "https://www.14ymedio.com/cuba/aspavientos-e-insultos-mision-cubana_1_1132160.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "aspavientos",
       "fecha": "Tue, 20 Oct 2026 09:37:51 +0000",
-      "id": 4
+      "id": 7
     },
     {
-      "categoria": "sociedad",
+      "categoria": "energia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba recibió mucho menos combustible de lo anunciado: EE UU confundió litros con barriles",
-      "resumen": "La Isla no compró 3,2 millones de barriles de derivados del petróleo en julio, sino 182.932",
-      "imagen_url": "https://static.14ymedio.com/clip/92d23eef-229f-42bf-9f9f-f252b480de2a_source-aspect-ratio_default_0.png",
-      "enlace_original": "https://www.14ymedio.com/cuba/cuba-recibio-combustible-anunciado-ee_1_1132143.html",
-      "destacada": true,
-      "tema": "recibió",
-      "fecha": "Mon, 19 Oct 2026 13:51:29 +0000",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Con las minas de níquel paralizadas, las exportaciones de Cuba caerán aún más que el PIB en 2026",
-      "resumen": "La Cepal sigue dando malas noticias: además de una contracción del 10% del PIB, la Isla registrará este año una caída del 13% de sus ventas al exterior",
-      "imagen_url": "https://static.14ymedio.com/clip/bf5a539a-554f-49d5-a043-6a59577b4c38_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/economia/minas-niquel-paralizadas-exportaciones-cuba_1_1132145.html",
+      "titulo": "Air China saca de Cuba a pasajeros varados en un vuelo chárter tras una ola de cancelaciones",
+      "resumen": "El CA590 despegó el lunes por la noche y aterrizó en Nassau, Bahamas, según los registros de FlightAware",
+      "imagen_url": "https://static.14ymedio.com/clip/5ff2ded7-dd55-4555-9b4c-0af3cf80a875_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/air-china-saca-cuba-pasajeros_1_1132181.html",
       "destacada": false,
-      "tema": "minas",
-      "fecha": "Mon, 19 Oct 2026 14:53:38 +0000",
-      "id": 6
+      "tema": "china",
+      "fecha": "Tue, 20 Oct 2026 14:17:22 +0000",
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -92,150 +118,111 @@
       "destacada": false,
       "tema": "florida",
       "fecha": "Mon, 19 Oct 2026 16:19:09 +0000",
-      "id": 7
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba produce menos electricidad hoy que hace 20 años",
-      "resumen": "La generación y el consumo cayeron un 33% en el último quinquenio, contribuyendo a la parálisis de la economía nacional, mientras el país vive al ritmo de los apagones",
-      "imagen_url": "https://static.14ymedio.com/clip/93ddef19-d1ca-4dbd-b07b-81733399e27f_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/cuba-produce-electricidad-hoy-20_1_1132118.html",
-      "destacada": false,
-      "tema": "produce",
-      "fecha": "Sun, 18 Oct 2026 18:56:17 +0000",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La nueva ley petrolera en Cuba se topa con la escasa capacidad de inversión de los privados",
-      "resumen": "Los expertos señalan también como obstáculo la \"hipercentralización\" que el Estado mantiene sobre el sector",
-      "imagen_url": "https://static.14ymedio.com/clip/3187c2dc-4f56-4e6e-992f-f0dd32fe2ad1_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/nueva-ley-petrolera-cuba-topa_1_1132149.html",
-      "destacada": false,
-      "tema": "nueva",
-      "fecha": "Mon, 19 Oct 2026 15:14:41 +0000",
       "id": 9
     },
     {
-      "categoria": "sociedad",
+      "categoria": "economia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubano avisa cuál es el error que cometen muchos al solicitar refugio en Brasil: ¿Qué no debes hacer?",
+      "titulo": "Cubano recibe 100 dólares de un seguidor y sorprende con lo que decide hacer con el dinero: «Cero miedo al éxito»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u1-e129488-s27061-nid343318-cubano-avisa-cual-error-cometen-muchos-al-solicitar",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u65722-e65722-s27065-nid343334-cubano-recibe-100-dolares-seguidor-sorprende",
       "destacada": false,
-      "tema": "cubano",
-      "fecha": "Tue, 20 Oct 2026 13:27:59 +0200",
+      "tema": "tipo_cambio",
+      "fecha": "Tue, 20 Oct 2026 15:46:29 +0200",
       "id": 10
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "¿Justicia o campaña electoral? La orden contra Raúl Castro llega entre dudas y malestar en el exilio cubano",
+      "titulo": "Así es el desayuno «millonario» de los cubanos en la isla: ¿Sí o no?",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u207888-e207888-s27061-nid343317-justicia-campana-electoral-orden-contra-raul",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u65722-e65722-s27065-nid343333-asi-desayuno-millonario-cubanos-isla",
       "destacada": false,
-      "tema": "justicia",
-      "fecha": "Tue, 20 Oct 2026 12:59:33 +0200",
+      "tema": "desayuno",
+      "fecha": "Tue, 20 Oct 2026 15:39:46 +0200",
       "id": 11
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "¿Por qué el formulario I-220A no es un parole? Lo que deben saber los cubanos sobre la Ley de Ajuste",
+      "titulo": "¡Otra vez al quirófano! La influencer cubana Dunia Díaz preocupa a sus seguidores: «Ya me desmayé»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u1-e129488-s27061-nid343316-220a-parole-deben-saber-cubanos-ley-ajuste",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u65722-e65722-s27065-nid343331-otra-vez-al-quirofano-influencer-cubana-dunia",
       "destacada": false,
-      "tema": "formulario",
-      "fecha": "Tue, 20 Oct 2026 12:32:02 +0200",
+      "tema": "quirófano",
+      "fecha": "Tue, 20 Oct 2026 15:32:25 +0200",
       "id": 12
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Sismólogo cubano se pronuncia sobre supuesto aviso de «actividad sísmica importante al sur de Cuba»",
+      "titulo": "¿Por qué cada vez más cubanos eligen Las Vegas como alternativa a Miami?",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u1-e135253-s27061-nid343315-alarma-supuesto-riesgo-terremoto-cuba-sismologo",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u1-e129488-s27061-nid343323-cada-vez-cubanos-eligen-vegas-alternativa-miami",
       "destacada": false,
-      "tema": "sismólogo",
-      "fecha": "Tue, 20 Oct 2026 05:11:04 +0200",
+      "tema": "cubanos",
+      "fecha": "Tue, 20 Oct 2026 15:26:12 +0200",
       "id": 13
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Lotería de Visas 2027 de EE. UU.: nuevas fechas de inscripción y una incógnita clave para los cubanos",
+      "titulo": "¡No sabía que venían! Cubana regresa a la isla después de 3 años y sorprende a su madre con su nieto",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u1-e135253-s27061-nid343314-loteria-visas-2027-ee-uu-nuevas-fechas-inscripcion",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u65722-e65722-s27065-nid343330-sabia-venian-cubana-regresa-isla-despues-3-anos",
       "destacada": false,
-      "tema": "lotería",
-      "fecha": "Tue, 20 Oct 2026 04:31:15 +0200",
+      "tema": "sabía",
+      "fecha": "Tue, 20 Oct 2026 15:23:31 +0200",
       "id": 14
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubana en Uruguay: «Un día te das cuenta de que ya no estás sobreviviendo, estás viviendo»",
+      "titulo": "¿Quién liderará la transición en Cuba? El exilio que no cabe en el análisis de Alina Bárbara López Hernández",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u1-e135253-s27061-nid343313-cubana-uruguay-dia-te-das-cuenta-estas-sobreviviendo",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u207888-e207888-s27061-nid343328-quien-liderara-transicion-cuba-exilio-cabe",
       "destacada": false,
-      "tema": "cubana",
-      "fecha": "Tue, 20 Oct 2026 04:00:48 +0200",
+      "tema": "quién",
+      "fecha": "Tue, 20 Oct 2026 15:08:50 +0200",
       "id": 15
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "«Acaban de llamarme»: madre cubana confirma que encontraron a su hija desaparecida en Florida",
+      "titulo": "«En Cuba era más fácil enamorarse»: Cubano en EE.UU. compara las relaciones amorosas antes y después de emigrar",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u1-e135253-s27061-nid343312-acaban-llamarme-madre-cubana-confirma-encontraron",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u65722-e65722-s27065-nid343326-cuba-era-facil-enamorarse-cubano-eeuu-compara",
       "destacada": false,
-      "tema": "acaban",
-      "fecha": "Tue, 20 Oct 2026 02:58:47 +0200",
+      "tema": "fácil",
+      "fecha": "Tue, 20 Oct 2026 14:53:48 +0200",
       "id": 16
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Dólar y euro parecen no tener freno en Cuba: ambas divisas siguen subiendo en el mercado informal",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u1-e135253-s27061-nid343311-dolar-euro-parecen-tener-freno-cuba-ambas-divisas",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Tue, 20 Oct 2026 02:42:25 +0200",
-      "id": 17
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubana cuenta el susto que pasó con su esposo en el aeropuerto de Miami al regresar de Cuba",
+      "titulo": "«¿Cómo es posible?»: Cubano intenta cederle el paso a un auto y descubre algo que lo deja sin palabras",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u1-e208933-s27061-nid343308-cubana-cuenta-susto-paso-esposo-aeropuerto-miami-al",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u65722-e65722-s27065-nid343324-posible-cubano-intenta-cederle-paso-auto-descubre",
       "destacada": false,
-      "tema": "cubana",
-      "fecha": "Tue, 20 Oct 2026 01:59:27 +0200",
-      "id": 18
+      "tema": "posible",
+      "fecha": "Tue, 20 Oct 2026 14:36:08 +0200",
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -248,7 +235,7 @@
       "destacada": false,
       "tema": "detalles",
       "fecha": "Mon, 19 Oct 2026 21:59:25 +0000",
-      "id": 19
+      "id": 18
     },
     {
       "categoria": "energia",
@@ -261,7 +248,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Mon, 19 Oct 2026 21:38:04 +0000",
-      "id": 20
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -274,6 +261,19 @@
       "destacada": false,
       "tema": "jóvenes",
       "fecha": "Mon, 19 Oct 2026 20:40:39 +0000",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba se queda sin Festival de Ballet por segunda vez en seis años",
+      "resumen": "El Festival Internacional de Ballet de La Habana sucumbe a la crisis y el #BNC anuncia \"galas para compensar\".",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cultura/1792503386_69466.html",
+      "destacada": false,
+      "tema": "queda",
+      "fecha": "Tue, 20 Oct 2026 15:36:26 +0200",
       "id": 21
     },
     {
@@ -381,17 +381,30 @@
       "id": 29
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Entre gritos, diplomáticos del régimen cubano intentan boicotear un acto en la ONU",
-      "resumen": "Diplomáticos del régimen #cubano intentan boicotear entre gritos un acto de #EEUU en la #ONU con José Daniel Ferrer y Luis Manuel Otero Alcántara. #Washington denuncia la corrupción y la represión del castrismo.",
+      "titulo": "EEUU denuncia acoso de diplomáticos de Cuba a expresos políticos en la ONU (VIDEO)",
+      "resumen": "Miembros de la delegación del régimen cubano ante la ONU, encabezados por el embajador Ernesto Soberón Guzmán, increparon este lunes a expresos políticos tras un debate sobre la represión en la Isla, según denunció el embajador de Estados Unidos ante Naciones Unidas, Mike Waltz.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792443431_69456.html",
+      "enlace_original": "https://www.martinoticias.com/a/eeuu-denuncia-acoso-de-diplom%c3%a1ticos-de-cuba-a-expresos-pol%c3%adticos-en-la-onu-video/482367.html",
       "destacada": false,
-      "tema": "gritos",
-      "fecha": "Mon, 19 Oct 2026 22:57:11 +0200",
+      "tema": "denuncia",
+      "fecha": "Tue, 20 Oct 2026 11:00:30 -0400",
       "id": 30
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Lawton Libre",
+      "resumen": "El reconocido opositor cubano Dr. Oscar Elías Biscet aborda la situación de los derechos humanos en Cuba y la conquista de las libertades básicas de los cubanos, bajo el precepto de que “si aprendes a ser libre, todos los seremos”. Correo Electrónico: lawtonlibremarti@gmail.com",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481353.html",
+      "destacada": false,
+      "tema": "lawton",
+      "fecha": "Tue, 20 Oct 2026 11:00:00 -0400",
+      "id": 31
     },
     {
       "categoria": "economia",
@@ -404,7 +417,7 @@
       "destacada": false,
       "tema": "martinoticias",
       "fecha": "Tue, 20 Oct 2026 08:00:00 -0400",
-      "id": 31
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -417,7 +430,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Tue, 20 Oct 2026 07:00:00 -0400",
-      "id": 32
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -430,20 +443,20 @@
       "destacada": false,
       "tema": "",
       "fecha": "Tue, 20 Oct 2026 00:05:30 -0400",
-      "id": 33
+      "id": 34
     },
     {
-      "categoria": "transporte",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La libertad es una librería",
-      "resumen": "El verso de Joan Margarit, “La libertad es una librería”, da título a este podcast cuyo sentido es el de animar a la lectura y a crearnos una librería itinerante que viaje en nosotros. Esta quinta temporada tratará de libros sobre la gran literatura, cubana y universal.",
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cristiano Ronaldo recibe 30 días de suspensión y una multa de 255 euros por abandonar la concentración lusa",
+      "resumen": "El delantero portugués recibió una sanción disciplinaria tras su salida de la concentración del seleccionado nacional en territorio danés. The post Cristiano Ronaldo recibe 30 días de suspensión y una multa de 255 euros por abandonar la concentración lusa first appeared on Cubadebate.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481307.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/20/cristiano-ronaldo-recibe-30-dias-de-suspension-y-una-multa-de-255-euros-por-abandonar-la-concentracion-lusa/",
       "destacada": false,
-      "tema": "libertad",
-      "fecha": "Mon, 19 Oct 2026 23:00:00 -0400",
-      "id": 34
+      "tema": "tipo_cambio",
+      "fecha": "Tue, 20 Oct 2026 14:51:10 +0000",
+      "id": 35
     },
     {
       "categoria": "energia",
@@ -456,7 +469,7 @@
       "destacada": false,
       "tema": "despaigne",
       "fecha": "Tue, 20 Oct 2026 12:46:29 +0000",
-      "id": 35
+      "id": 36
     },
     {
       "categoria": "politica",
@@ -469,59 +482,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Tue, 20 Oct 2026 04:29:59 +0000",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba: ADN, Memoria e Identidad",
-      "resumen": "Cada 20 de octubre, al conmemorar la fecha en que el pueblo cubano hizo suya “La Bayamesa” como himno de libertad, los cubanos regresamos inevitablemente a preguntarnos sobre nuestra propia esencia: ¿quiénes somos y de dónde venimos? La respuesta no se agota en actas notariales, censos coloniales ni",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/20/cuba-adn-memoria-e-identidad/",
-      "destacada": false,
-      "tema": "memoria",
-      "fecha": "Tue, 20 Oct 2026 04:10:08 +0000",
       "id": 37
-    },
-    {
-      "categoria": "energia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba condena nueva maniobra judicial de EE.UU contra Raúl Castro",
-      "resumen": "El presidente Miguel Díaz-Canel condenó este lunes una nueva acción judicial promovida en Miami contra el líder de la Revolución Cubana, Raúl Castro, una maniobra política sin valor jurídico ni efecto práctico contra la isla. Este tipo de acciones forman parte de la política de hostilidad de Washing",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/19/cuba-condena-nueva-maniobra-judicial-de-ee-uu-contra-raul-castro/",
-      "destacada": false,
-      "tema": "condena",
-      "fecha": "Mon, 19 Oct 2026 20:32:11 +0000",
-      "id": 38
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Lanzan en México campaña “Un litro de gasolina para Cuba” contra el bloqueo",
-      "resumen": "La Liga Cultural Antifascista (LCA) de México lanzó la iniciativa “Un litro de gasolina para Cuba” en la Feria Internacional del Libro (FIL) del Zócalo, con la venta de pequeñas obras gráficas de creadores cubanos a 25 pesos en las 37 librerías del FCE y Educal de la Zona Metropolitana de la Ciudad ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/19/lanzan-en-mexico-campana-un-litro-de-gasolina-para-cuba-contra-el-bloqueo/",
-      "destacada": false,
-      "tema": "lanzan",
-      "fecha": "Mon, 19 Oct 2026 19:35:58 +0000",
-      "id": 39
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba abre con tres victorias y dos derrotas el continental de boxeo rumbo a Lima 2027",
-      "resumen": "Cuba inició con balance de tres victorias y dos derrotas en el campeonato continental de boxeo, con triunfos de Luis Enrique Vinent, Yusnier Sorsano y Jorge Cuéllar, y reveses de Carysney García y Magda Massó. El campeonato otorga cupos para los Juegos Panamericanos por lo que cada combate resulta d",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/19/cuba-abre-con-tres-victorias-y-dos-derrotas-el-continental-de-boxeo-rumbo-a-lima-2027/",
-      "destacada": false,
-      "tema": "victorias",
-      "fecha": "Mon, 19 Oct 2026 18:58:36 +0000",
-      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -534,7 +495,7 @@
       "destacada": false,
       "tema": "barcelona",
       "fecha": "Tue, 20 Oct 26 10:32:00 +0200",
-      "id": 41
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -547,7 +508,7 @@
       "destacada": false,
       "tema": "ambassador",
       "fecha": "Tue, 20 Oct 26 07:38:00 +0200",
-      "id": 42
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -560,7 +521,7 @@
       "destacada": false,
       "tema": "gracias",
       "fecha": "Tue, 20 Oct 26 07:37:00 +0200",
-      "id": 43
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -573,7 +534,7 @@
       "destacada": false,
       "tema": "intervista",
       "fecha": "Tue, 20 Oct 26 07:36:00 +0200",
-      "id": 44
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -586,7 +547,7 @@
       "destacada": false,
       "tema": "grupo",
       "fecha": "Tue, 20 Oct 26 07:35:00 +0200",
-      "id": 45
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -599,7 +560,7 @@
       "destacada": false,
       "tema": "circo",
       "fecha": "Tue, 20 Oct 26 07:34:00 +0200",
-      "id": 46
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -612,7 +573,7 @@
       "destacada": false,
       "tema": "vínculo",
       "fecha": "Tue, 20 Oct 26 07:33:00 +0200",
-      "id": 47
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -625,7 +586,7 @@
       "destacada": false,
       "tema": "acollerá",
       "fecha": "Tue, 20 Oct 26 06:53:00 +0200",
-      "id": 48
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -638,20 +599,20 @@
       "destacada": false,
       "tema": "aprecia",
       "fecha": "Tue, 20 Oct 26 06:42:00 +0200",
-      "id": 49
+      "id": 46
     },
     {
-      "categoria": "politica",
-      "fuente": "https://actualidad.rt.com",
-      "fuente_tipo": "internacional",
-      "titulo": "Rusia advierte del riesgo de desestabilización en Latinoamérica y el Caribe",
-      "resumen": "La advertencia se produce tras la emisión de una orden de arresto por un juez en Miami contra el líder histórico cubano y expresidente de la nación Raúl Castro.",
-      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad75d00e9ff71620f76c10e.jpg",
-      "enlace_original": "https://actualidad-rt.com/actualidad/633370-rusia-riesgos-desestabilizacion-latinoamerica-caribe?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "categoria": "sociedad",
+      "fuente": "https://www.guerrillero.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba, sinónimo de solidaridad",
+      "resumen": "Uno de los valores humanos más aquilatados es la solidaridad. Esta práctica entre los seres humanos tiene la fuerza poderosa de extraer lo mejor de cada persona y de repartir entre todos el fruto de la generosidad. En los tiempos modernos, a veces fríos e impasibles, cuando en la cercanía puede habe",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/cuba-sinonimo-de-solidaridad/",
       "destacada": false,
-      "tema": "rusia",
-      "fecha": "Tue, 20 Oct 2026 13:08:57 +0000",
-      "id": 50
+      "tema": "sinónimo",
+      "fecha": "Tue, 20 Oct 2026 15:13:03 +0000",
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -664,59 +625,72 @@
       "destacada": false,
       "tema": "conjuro",
       "fecha": "Tue, 20 Oct 2026 11:30:00 +0000",
-      "id": 51
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.guerrillero.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Pinar del Río celebró los 40 años de la AHS",
-      "resumen": "Con la gala Ir de tu Mano, en el emblemático teatro José Jacinto Milanés, Pinar del Río celebró hoy los 40 años de la Asociación Hermanos Saíz (AHS), esa especie de obra colectiva que lleva la huella de varias generaciones de artistas cubanos. &#160; &#160;Dirigido por Dorys Méndez, el espectáculo c",
-      "imagen_url": "",
-      "enlace_original": "https://www.guerrillero.cu/pinar-del-rio-celebro-los-40-anos-de-la-ahs/",
-      "destacada": false,
-      "tema": "pinar",
-      "fecha": "Mon, 19 Oct 2026 12:39:44 +0000",
-      "id": 52
+      "id": 48
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "oficial",
-      "titulo": "Himno Nacional, símbolo representativo de nuestra identidad, y el profundo amor a la Patria",
+      "titulo": "Himno Nacional, símbolo representativo de nuestra identidad y el profundo amor a la Patria",
       "resumen": "A partir del 20 de octubre de 1868, el insigne patriota, Pedro Figueredo, compositor del Himno Nacional, legaba un símbolo de independencia que contribuiría a reafirmar la cultura cubana, y mostraba la determinación del pueblo de defender su identidad y emancipación La entrada Himno Nacional, símbol",
       "imagen_url": "",
       "enlace_original": "https://www.tribuna.cu/himno-nacional-simbolo-representativo-de-nuestra-identidad-y-el-profundo-amor-a-la-patria/",
       "destacada": false,
       "tema": "himno",
       "fecha": "Tue, 20 Oct 2026 13:00:12 +0000",
-      "id": 53
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Ministro de Transporte recorre entidad del sector en La Habana",
-      "resumen": "Durante la reunión con los directivos de Viazul se analizaron proyectos estratégicos y se evaluaron las proyecciones de la entidad La entrada Ministro de Transporte recorre entidad del sector en La Habana se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/ministro-de-transporte-recorre-entidad-del-sector-en-la-habana/",
-      "destacada": false,
-      "tema": "transporte",
-      "fecha": "Sun, 18 Oct 2026 22:21:01 +0000",
-      "id": 54
+      "id": 49
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "oficial",
-      "titulo": "Celebra Cuba el Día Internacional del Patrimonio Cultural Inmaterial",
-      "resumen": "Con una amplia programación de actividades organizadas en varias provincias por el Consejo Nacional de Casas de Cultura. La actividad central tuvo lugar en la Casa de Cultura Sindo Garay, en el municipio habanero de La Lisa La entrada Celebra Cuba el Día Internacional del Patrimonio Cultural Inmater",
+      "titulo": "Tres compañías emblemáticas de la danza cubana abren temporada de celebración en la Sala Avellaneda",
+      "resumen": "Las funciones estarán dedicadas a la Organización de Naciones Unidas, al Ballet Nacional de Cuba, al Día de la Hispanidad y al Ministerio de Cultura La entrada Tres compañías emblemáticas de la danza cubana abren temporada de celebración en la Sala Avellaneda se publicó primero en Tribuna de La Haba",
       "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/celebra-cuba-el-dia-internacional-del-patrimonio-cultural-inmaterial/",
+      "enlace_original": "https://www.tribuna.cu/tres-companias-emblematicas-de-la-danza-cubana-abren-temporada-de-celebracion-en-la-sala-avellaneda/",
       "destacada": false,
-      "tema": "celebra",
-      "fecha": "Sun, 18 Oct 2026 21:54:20 +0000",
-      "id": 55
+      "tema": "compañías",
+      "fecha": "Tue, 20 Oct 2026 14:54:14 +0000",
+      "id": 50
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Arte y Patria: jornada para celebrar la cultura cubana",
+      "resumen": "La Uneac invita a participar de un programa nacional de actividades por el Día de la Cultura Cubana, con diversas actividades e incluye las sesiones de los jurados para el ingreso de nuevos miembros, como parte del Crecimiento Especial Centenario de Fidel Castro. La entrada Arte y Patria: jornada pa",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/arte-y-patria-jornada-para-celebrar-la-cultura-cubana/",
+      "destacada": false,
+      "tema": "patria",
+      "fecha": "Tue, 20 Oct 2026 14:50:29 +0000",
+      "id": 51
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Iniciativa abre las puertas al cambio en agricultura de La Habana del Este",
+      "resumen": "En este municipio capitalino concluyó un proyecto que dejó conocimientos, recursos y una familia llamada a darle continuidad a los avances, lo que demanda de apoyo institucional La entrada Iniciativa abre las puertas al cambio en agricultura de La Habana del Este se publicó primero en Tribuna de La ",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/iniciativa-abre-las-puertas-al-cambio-en-agricultura-de-la-habana-del-este/",
+      "destacada": false,
+      "tema": "iniciativa",
+      "fecha": "Tue, 20 Oct 2026 15:19:13 +0000",
+      "id": 52
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba denuncia «patético circo miamense» contra el General de Ejército Raúl Castro Ruz",
+      "resumen": "«La repudiable acción contra el General de Ejército esta mañana en un patético circo miamense, con trasfondo electoral, no tiene, ni tendrá jamás, el más mínimo sentido jurídico y mucho menos práctico».",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/20/cuba-denuncia-circo-contra-general-de-ejercito-raul-castro/",
+      "destacada": false,
+      "tema": "denuncia",
+      "fecha": "Tue, 20 Oct 2026 12:50:00 +0000",
+      "id": 53
     },
     {
       "categoria": "energia",
@@ -729,33 +703,7 @@
       "destacada": false,
       "tema": "educadores",
       "fecha": "Mon, 19 Oct 2026 23:52:51 +0000",
-      "id": 56
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "ETECSA: Instalan paneles solares en radio base de Bermejas",
-      "resumen": "Recientemente se instaló un kit solar en la radio base de la Empresa de Telecomunicaciones de Cuba S.A. (ETECSA) en el poblado de Bermejas, como parte de las acciones desarrolladas en el municipio de Unión de Reyes para favorecer la vitalidad de las comunicaciones en el territorio.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/19/paneles-solares-radio-base-etecsa-bermejas/",
-      "destacada": false,
-      "tema": "etecsa",
-      "fecha": "Mon, 19 Oct 2026 11:57:00 +0000",
-      "id": 57
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Quien amenaza, ¿a qué le teme?",
-      "resumen": "El secretario de Estado, Marco Rubio, “nervioso y ansioso frente a otra nueva derrota en la ONU, está presionando y chantajeando a Jefes de Estado y Gobierno de varios países para que cambien su voto contra el bloqueo”.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/19/quien-amenaza-a-que-le-teme/",
-      "destacada": false,
-      "tema": "quien",
-      "fecha": "Mon, 19 Oct 2026 09:15:00 +0000",
-      "id": 58
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -768,7 +716,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 20 Oct 2026 10:30:00 GMT",
-      "id": 59
+      "id": 55
     },
     {
       "categoria": "transporte",
@@ -781,33 +729,7 @@
       "destacada": false,
       "tema": "agarra",
       "fecha": "Mon, 19 Oct 2026 18:30:00 GMT",
-      "id": 60
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Esto es lo que cuesta poner un triciclo a rodar en Cuba",
-      "resumen": "Aunque los triciclos eléctricos se han convertido en una alternativa de transporte ante la escasez de combustible en Cuba, su uso no garantiza ingresos estables. Propietarios y choferes afrontan gastos de mantenimiento, las baterías que manejan son de duración limitada y hay cuotas diarias que puede",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/AP_26191583089305_26605caacf.jpg",
-      "enlace_original": "https://eltoque.com/lo-que-cuesta-poner-un-triciclo-a-rodar-en-cuba",
-      "destacada": false,
-      "tema": "cuesta",
-      "fecha": "Mon, 19 Oct 2026 11:40:00 GMT",
-      "id": 61
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Últimas noticias de las protestas en Cuba",
-      "resumen": "elTOQUE recopila los reportes de protestas continuas, pronunciamientos ciudadanos, denuncias de represión y el avance de una crisis que mantiene a millones de cubanos entre la oscuridad, el cansancio y la indignación.",
-      "imagen_url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/2026_03_08_protestas_2f29c1e864.jpg/width=1920,quality=75,fit=scale-down,dpr=1,slow-connection-quality=40",
-      "enlace_original": "https://eltoque.com/ultimas-noticias-de-las-protestas-en-cuba",
-      "destacada": false,
-      "tema": "últimas",
-      "fecha": "Mon, 19 Oct 2026 10:00:00 GMT",
-      "id": 62
+      "id": 56
     }
   ]
 }
