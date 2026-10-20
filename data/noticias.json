@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-20",
-  "hora": "21:19",
-  "total": 62,
+  "hora": "23:15",
+  "total": 65,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -20,6 +20,32 @@
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
+      "titulo": "Hart, medio siglo de una voluntad cultural",
+      "resumen": "A propósito del venidero aniversario 50 del Ministerio de Cultura, y el cierre de la Jornada por la Cultura Cubana, ofrecemos algunas ideas sobre el destacado intelectual",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-20/hart-medio-siglo-de-una-voluntad-cultural-20-10-2026-18-10-08",
+      "destacada": true,
+      "tema": "medio",
+      "fecha": "Tue, 20 Oct 2026 18:10:08 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La cultura como campo de batalla: el eje de la guerra multidimensional contra Cuba",
+      "resumen": "En 1993, cuando Cuba atravesaba el momento más oscuro del periodo especial, con una economía en colapso y el enemigo apostando a la caída inminente de la Revolución, Fidel Castro pronunció una frase que muchos interpretaron como una consigna, «La cultura es lo primero que hay que salvar», dijo ante ",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-20/la-cultura-como-campo-de-batalla-el-eje-de-la-guerra-multidimensional-contra-cuba-20-10-2026-19-10-41",
+      "destacada": true,
+      "tema": "cultura",
+      "fecha": "Tue, 20 Oct 2026 19:10:41 -0400",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
       "titulo": "Congreso del Frente Amplio califica de «genocidio silencioso» el bloqueo a Cuba y reafirma su firme solidaridad antimperialista",
       "resumen": "El Congreso enfatizó la defensa de la autodeterminación de los pueblos, instando a la comunidad a rechazar las políticas de agresión y a respaldar la soberanía y el derecho a la vida del pueblo cubano",
       "imagen_url": "",
@@ -27,7 +53,7 @@
       "destacada": true,
       "tema": "congreso",
       "fecha": "Tue, 20 Oct 2026 17:10:40 -0400",
-      "id": 2
+      "id": 4
     },
     {
       "categoria": "transporte",
@@ -40,20 +66,46 @@
       "destacada": true,
       "tema": "reinician",
       "fecha": "Tue, 20 Oct 2026 16:10:48 -0400",
-      "id": 3
+      "id": 5
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Comienza Convención Científica Internacional en universidad cubana",
-      "resumen": "Cienfuegos, Cuba, 20 oct (Prensa Latina) La IV Convención Científica Internacional de la Universidad de Cienfuegos “Carlos Rafael Rodríguez” comenzó hoy con la participación de investigadores de seis países para socializar resultados científicos y fortalecer la colaboración académica. The post Comie",
+      "titulo": "Béisbol cubano: Granma reina en solitario en el oriente",
+      "resumen": "La Habana, 20 oct (Prensa Latina) Los Alazanes de Granma cabalgaron hoy hasta la cima en solitario de la Zona Oriental de la 65ta Serie Nacional de Béisbol, al combinar su victoria con las derrotas de Avispas y Tigres. The post Béisbol cubano: Granma reina en solitario en el oriente first appeared o",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/20/comienza-convencion-cientifica-internacional-en-universidad-cubana/",
-      "destacada": true,
-      "tema": "comienza",
-      "fecha": "Tue, 20 Oct 2026 21:09:05 +0000",
-      "id": 4
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/20/beisbol-cubano-granma-reina-en-solitario-en-el-oriente/",
+      "destacada": false,
+      "tema": "béisbol",
+      "fecha": "Tue, 20 Oct 2026 22:59:21 +0000",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Exaltan pensamiento de Fidel Castro en muestra artística de Holguín",
+      "resumen": "Holguín, Cuba, 21 oct (Prensa Latina) Creadores de esta provincia oriental inauguraron el Salón de Artes Visuales Lote en homenaje al líder histórico de la Revolución Cubana, Fidel Castro, durante la Feria Internacional de Artesanía Iberoarte 2026. The post Exaltan pensamiento de Fidel Castro en mue",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/20/exaltan-pensamiento-de-fidel-castro-en-muestra-artistica-de-holguin/",
+      "destacada": false,
+      "tema": "exaltan",
+      "fecha": "Tue, 20 Oct 2026 22:27:45 +0000",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Presentan pieza teatral en Francia en Día de la Cultura Cubana",
+      "resumen": "París, 20 oct (Prensa Latina) La embajada de Cuba en Francia acogió hoy la presentación de la pieza “El nombre de Juana”, protagonizada por Monse Duany y dirigida por Osvaldo Doimeadiós, como parte de la celebración del Día de la Cultura Cubana. The post Presentan pieza teatral en Francia en Día de ",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/20/presentan-pieza-teatral-en-francia-en-dia-de-la-cultura-cubana/",
+      "destacada": false,
+      "tema": "presentan",
+      "fecha": "Tue, 20 Oct 2026 22:26:15 +0000",
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -63,10 +115,10 @@
       "resumen": "La polémica sobre la participación a las elecciones españolas de noviembre suscita indiferencia en la cola del Consulado en La Habana",
       "imagen_url": "https://static.14ymedio.com/clip/d6926535-6a71-4bac-9c80-07111cd15d74_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/migracion/llegan-espana-media-34000-cubanos_1_1132195.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "llegan",
       "fecha": "Tue, 20 Oct 2026 19:33:22 +0000",
-      "id": 5
+      "id": 9
     },
     {
       "categoria": "transporte",
@@ -79,7 +131,7 @@
       "destacada": false,
       "tema": "sherritt",
       "fecha": "Tue, 20 Oct 2026 15:15:40 +0000",
-      "id": 6
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -92,7 +144,7 @@
       "destacada": false,
       "tema": "tomar",
       "fecha": "Tue, 20 Oct 2026 13:04:23 +0000",
-      "id": 7
+      "id": 11
     },
     {
       "categoria": "politica",
@@ -105,7 +157,7 @@
       "destacada": false,
       "tema": "aspavientos",
       "fecha": "Tue, 20 Oct 2026 09:37:51 +0000",
-      "id": 8
+      "id": 12
     },
     {
       "categoria": "energia",
@@ -118,7 +170,33 @@
       "destacada": false,
       "tema": "china",
       "fecha": "Tue, 20 Oct 2026 14:17:22 +0000",
-      "id": 9
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cocinero cubano denuncia discriminación en U-Haul: «No nos quieren rentar porque no hablamos inglés»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u1-e129488-s27061-nid343338-cocinero-cubano-denuncia-discriminacion-u-haul-nos",
+      "destacada": false,
+      "tema": "cocinero",
+      "fecha": "Tue, 20 Oct 2026 23:22:01 +0200",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Fiscalía cubana pide hasta 13 años de cárcel para 19 procesados tras las protestas de Morón, incluidos adolescentes",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u1-e208933-s27061-nid343374-fiscalia-cubana-pide-13-anos-carcel-19-procesados",
+      "destacada": false,
+      "tema": "fiscalía",
+      "fecha": "Tue, 20 Oct 2026 23:20:09 +0200",
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -131,7 +209,7 @@
       "destacada": false,
       "tema": "daniel",
       "fecha": "Tue, 20 Oct 2026 22:51:50 +0200",
-      "id": 10
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -144,46 +222,7 @@
       "destacada": false,
       "tema": "pueblo",
       "fecha": "Tue, 20 Oct 2026 22:42:39 +0200",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba envejece: El 26,7 % de su población tiene 60 años o más",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u1-e135253-s27061-nid343358-cuba-envejece-267-poblacion-tiene-60-anos",
-      "destacada": false,
-      "tema": "envejece",
-      "fecha": "Tue, 20 Oct 2026 22:32:24 +0200",
-      "id": 12
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El régimen admite que 2,5 millones de cubanos tienen afectado el servicio de agua por los apagones",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u1-e199894-s27061-nid343365-regimen-admite-25-millones-cubanos-tienen-afectado",
-      "destacada": false,
-      "tema": "apagones",
-      "fecha": "Tue, 20 Oct 2026 22:02:41 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Dejarías Miami por amor? Joven cubana decide comenzar de cero en El Salvador junto a su pareja",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u194224-e208487-s27065-nid343364-dejarias-miami-amor-joven-cubana-decide",
-      "destacada": false,
-      "tema": "dejarías",
-      "fecha": "Tue, 20 Oct 2026 21:48:30 +0200",
-      "id": 14
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -196,20 +235,20 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Tue, 20 Oct 2026 17:08:53 +0000",
-      "id": 15
+      "id": 18
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.radiocubana.cu",
+      "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Detalles de plan terrorista contra Cuba organizado desde Estados Unidos",
-      "resumen": "En febrero de este año se hicieron públicos detalles sobre el intento de infiltración de una lancha con armamento a territorio nacional. A partir del reporte oficial, un equipo de investigación presenta un análisis del caso: los hechos confirmados, los elementos aportados por fuentes propias y las p",
+      "titulo": "Un Himno, 100 voces y toda una isla",
+      "resumen": "Este 20 de octubre se celebró en Camagüey el Día de la Cultura Cubana con 100 voces entonando el Himno de Bayamo",
       "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/detalles-de-plan-terrorista-contra-cuba-organizado-desde-estados-unidos/",
+      "enlace_original": "https://www.trabajadores.cu/20261020/un-himno-100-voces-y-toda-una-isla/",
       "destacada": false,
-      "tema": "detalles",
-      "fecha": "Mon, 19 Oct 2026 21:59:25 +0000",
-      "id": 16
+      "tema": "himno",
+      "fecha": "Tue, 20 Oct 2026 21:28:43 +0000",
+      "id": 19
     },
     {
       "categoria": "transporte",
@@ -222,7 +261,7 @@
       "destacada": false,
       "tema": "nuevas",
       "fecha": "Tue, 20 Oct 2026 16:50:03 +0000",
-      "id": 17
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -235,20 +274,20 @@
       "destacada": false,
       "tema": "cultura",
       "fecha": "Tue, 20 Oct 2026 16:40:05 +0000",
-      "id": 18
+      "id": 21
     },
     {
-      "categoria": "energia",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba denuncia en la ONU maniobra hostil auspiciada por Estados Unidos",
-      "resumen": "El representante permanente de Cuba ante la Organización de las Naciones Unidas (ONU) , Ernesto Soberón Guzmán, denunció este lunes en la sede del organismo una maniobra anticubana auspiciada por el Gobierno de Estados Unidos, en total contravención de las normas que rigen el uso de las instalacione",
+      "categoria": "salud",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La presa política Ana Ibis Tristá, en riesgo: desatención médica, alimentación insuficiente y trabajos forzados",
+      "resumen": "En riego la salud de la #PresaPolítica cubana Ana Ibis Tristá Padilla, por la desatención médica y los trabajos forzados, que agravan sus crisis respiratorias y renales, en medio de \"condiciones de hambre extrema\".",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261019/cuba-denuncia-en-la-onu-maniobra-hostil-auspiciada-por-estados-unidos/",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1792537893_69471.html",
       "destacada": false,
-      "tema": "denuncia",
-      "fecha": "Mon, 19 Oct 2026 21:38:04 +0000",
-      "id": 19
+      "tema": "presa",
+      "fecha": "Wed, 21 Oct 2026 01:11:33 +0200",
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -261,7 +300,7 @@
       "destacada": false,
       "tema": "fiebre",
       "fecha": "Tue, 20 Oct 2026 23:20:50 +0200",
-      "id": 20
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -274,7 +313,7 @@
       "destacada": false,
       "tema": "violaciones",
       "fecha": "Tue, 20 Oct 2026 22:51:03 +0200",
-      "id": 21
+      "id": 24
     },
     {
       "categoria": "economia",
@@ -287,7 +326,7 @@
       "destacada": false,
       "tema": "funcionario",
       "fecha": "Tue, 20 Oct 2026 21:04:37 +0200",
-      "id": 22
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -300,7 +339,7 @@
       "destacada": false,
       "tema": "orden",
       "fecha": "Tue, 20 Oct 2026 20:49:21 +0200",
-      "id": 23
+      "id": 26
     },
     {
       "categoria": "transporte",
@@ -313,7 +352,7 @@
       "destacada": false,
       "tema": "autoriza",
       "fecha": "Tue, 20 Oct 2026 19:17:59 +0200",
-      "id": 24
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -326,7 +365,7 @@
       "destacada": false,
       "tema": "embarazos",
       "fecha": "Tue, 20 Oct 2026 18:01:10 +0200",
-      "id": 25
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -339,7 +378,7 @@
       "destacada": false,
       "tema": "queda",
       "fecha": "Tue, 20 Oct 2026 15:36:26 +0200",
-      "id": 26
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -352,7 +391,7 @@
       "destacada": false,
       "tema": "cuarto",
       "fecha": "Tue, 20 Oct 2026 14:47:39 +0200",
-      "id": 27
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -365,20 +404,33 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Tue, 20 Oct 2026 14:05:15 +0200",
-      "id": 28
+      "id": 31
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Ucrania pide en la ONU el fin del reclutamiento de cubanos por Rusia, que sigue bombardeando a Kiev",
-      "resumen": "Kiev pide \"que se ponga fin al reclutamiento y despliegue de cubanos en la guerra de Rusia contra Ucrania\", mientras Moscú sigue bombardeando Kiev con víctimas mortales entre civiles.",
+      "titulo": "Denuncian graves irregularidades y trabas judiciales en procesos contra el periodista Henry Constantín",
+      "resumen": "El director de La Hora de Cuba, Henry Constantín, podría enfrentar hasta dos años más de prisión por un nuevo cargo fabricado en la cárcel.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792496453_69463.html",
+      "enlace_original": "https://www.martinoticias.com/a/denuncian-graves-irregularidades-y-trabas-judiciales-en-procesos-contra-el-periodista-henry-constant%c3%adn/482390.html",
       "destacada": false,
-      "tema": "ucrania",
-      "fecha": "Tue, 20 Oct 2026 13:40:53 +0200",
-      "id": 29
+      "tema": "denuncian",
+      "fecha": "Tue, 20 Oct 2026 18:48:06 -0400",
+      "id": 32
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Mike Waltz responde a Bruno Rodríguez: la verdad duele y seguirá contándose en la ONU",
+      "resumen": "“La verdad duele y los presos políticos cubanos liberados y los expertos en corrupción seguirán contando las verdades incómodas en la ONU”, escribió Waltz en X.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/mike-waltz-responde-a-bruno-rodr%c3%adguez-la-verdad-duele-y-seguir%c3%a1-cont%c3%a1ndose-en-la-onu/482395.html",
+      "destacada": false,
+      "tema": "waltz",
+      "fecha": "Tue, 20 Oct 2026 17:24:19 -0400",
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -391,7 +443,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Tue, 20 Oct 2026 17:06:20 -0400",
-      "id": 30
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -404,7 +456,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Tue, 20 Oct 2026 17:00:30 -0400",
-      "id": 31
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -417,20 +469,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Tue, 20 Oct 2026 16:29:41 -0400",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Exdiplomático cubano alerta sobre gravedad de acto de repudio del régimen en la ONU",
-      "resumen": "Exdiplomático dice que Estados Unidos tiene el derecho a exigir a la ONU que ponga fin a actos de repudio protagonizados por representantes del régimen cubano.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/exdiplom%c3%a1tico-cubano-alerta-sobre-gravedad-de-acto-de-repudio-del-r%c3%a9gimen-en-la-onu/482391.html",
-      "destacada": false,
-      "tema": "exdiplomático",
-      "fecha": "Tue, 20 Oct 2026 16:17:36 -0400",
-      "id": 33
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -443,7 +482,7 @@
       "destacada": false,
       "tema": "redonda",
       "fecha": "Tue, 20 Oct 2026 18:08:46 +0000",
-      "id": 34
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -456,7 +495,7 @@
       "destacada": false,
       "tema": "sguardi",
       "fecha": "Tue, 20 Oct 2026 17:24:30 +0000",
-      "id": 35
+      "id": 38
     },
     {
       "categoria": "politica",
@@ -469,7 +508,7 @@
       "destacada": false,
       "tema": "sheinbaum",
       "fecha": "Tue, 20 Oct 2026 16:46:55 +0000",
-      "id": 36
+      "id": 39
     },
     {
       "categoria": "salud",
@@ -482,7 +521,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Tue, 20 Oct 2026 16:10:36 +0000",
-      "id": 37
+      "id": 40
     },
     {
       "categoria": "transporte",
@@ -495,7 +534,7 @@
       "destacada": false,
       "tema": "bayamo",
       "fecha": "Tue, 20 Oct 2026 15:47:19 +0000",
-      "id": 38
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -508,7 +547,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 20 Oct 2026 14:51:10 +0000",
-      "id": 39
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -521,7 +560,7 @@
       "destacada": false,
       "tema": "mundo",
       "fecha": "Tue, 20 Oct 26 22:58:00 +0200",
-      "id": 40
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -534,7 +573,7 @@
       "destacada": false,
       "tema": "barcelona",
       "fecha": "Tue, 20 Oct 26 17:33:00 +0200",
-      "id": 41
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -547,7 +586,7 @@
       "destacada": false,
       "tema": "farsa",
       "fecha": "Tue, 20 Oct 26 17:30:00 +0200",
-      "id": 42
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -560,7 +599,7 @@
       "destacada": false,
       "tema": "barcelona",
       "fecha": "Tue, 20 Oct 26 10:32:00 +0200",
-      "id": 43
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -573,7 +612,7 @@
       "destacada": false,
       "tema": "ambassador",
       "fecha": "Tue, 20 Oct 26 07:38:00 +0200",
-      "id": 44
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -586,7 +625,7 @@
       "destacada": false,
       "tema": "gracias",
       "fecha": "Tue, 20 Oct 26 07:37:00 +0200",
-      "id": 45
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -599,7 +638,7 @@
       "destacada": false,
       "tema": "intervista",
       "fecha": "Tue, 20 Oct 26 07:36:00 +0200",
-      "id": 46
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -612,7 +651,7 @@
       "destacada": false,
       "tema": "grupo",
       "fecha": "Tue, 20 Oct 26 07:35:00 +0200",
-      "id": 47
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -625,7 +664,7 @@
       "destacada": false,
       "tema": "circo",
       "fecha": "Tue, 20 Oct 26 07:34:00 +0200",
-      "id": 48
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -638,20 +677,20 @@
       "destacada": false,
       "tema": "vínculo",
       "fecha": "Tue, 20 Oct 26 07:33:00 +0200",
-      "id": 49
+      "id": 52
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu/",
+      "fuente": "https://actualidad.rt.com",
       "fuente_tipo": "internacional",
-      "titulo": "Cubanos en Brasil reafirman defensa de su identidad cultural",
-      "resumen": "Brasilia, 20 oct (Prensa Latina) Cubanos en Brasil resaltaron hoy la celebración del Día de la Cultura de la isla y destacaron el papel de las tradiciones, la historia y la creación artística en la preservación de la identidad nacional. The post Cubanos en Brasil reafirman defensa de su identidad cu",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/20/cubanos-en-brasil-reafirman-defensa-de-su-identidad-cultural/",
+      "titulo": "\"Criminal e ilegal\": Irán reacciona a la orden de arresto contra Raúl Castro en EE.UU.",
+      "resumen": "El Ministerio de Relaciones Exteriores iraní rechazó las sanciones de Washington contra la isla.",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad7dff5e9ff713b7e5c53aa.jpg",
+      "enlace_original": "https://actualidad-rt.com/actualidad/633445-iran-condena-acciones-eeuu-cuba?utm_source=rss&utm_medium=rss&utm_campaign=all",
       "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Tue, 20 Oct 2026 20:25:57 +0000",
-      "id": 50
+      "tema": "criminal",
+      "fecha": "Tue, 20 Oct 2026 22:31:43 +0000",
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -664,7 +703,7 @@
       "destacada": false,
       "tema": "sinónimo",
       "fecha": "Tue, 20 Oct 2026 15:13:03 +0000",
-      "id": 51
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -677,7 +716,33 @@
       "destacada": false,
       "tema": "conjuro",
       "fecha": "Tue, 20 Oct 2026 11:30:00 +0000",
-      "id": 52
+      "id": 55
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "SNB 65: Vegueros frenan a los Leones en el San Luis",
+      "resumen": "Pinar del Río se impuso este martes 5-2 a Industriales en el estadio Capitán San Luis, para abrir con victoria el duelo semanal entre ambos equipos en la 65.ª Serie Nacional de Béisbol La entrada SNB 65: Vegueros frenan a los Leones en el San Luis se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/snb-65-vegueros-frenan-a-los-leones-en-el-san-luis/",
+      "destacada": false,
+      "tema": "vegueros",
+      "fecha": "Tue, 20 Oct 2026 23:05:12 +0000",
+      "id": 56
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Cultura cubana: Escudo y espada de la nación",
+      "resumen": "Escudo que protege nuestros valores y nuestra memoria, y espada que defiende la verdad y la soberanía frente a cualquier amenaza La entrada Cultura cubana: Escudo y espada de la nación se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/cultura-cubana-escudo-y-espada-de-la-nacion/",
+      "destacada": false,
+      "tema": "cultura",
+      "fecha": "Tue, 20 Oct 2026 22:11:37 +0000",
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -690,7 +755,7 @@
       "destacada": false,
       "tema": "himno",
       "fecha": "Tue, 20 Oct 2026 13:00:12 +0000",
-      "id": 53
+      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -703,33 +768,7 @@
       "destacada": false,
       "tema": "compañías",
       "fecha": "Tue, 20 Oct 2026 14:54:14 +0000",
-      "id": 54
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Arte y Patria: jornada para celebrar la cultura cubana",
-      "resumen": "La Uneac invita a participar de un programa nacional de actividades por el Día de la Cultura Cubana, con diversas actividades e incluye las sesiones de los jurados para el ingreso de nuevos miembros, como parte del Crecimiento Especial Centenario de Fidel Castro. La entrada Arte y Patria: jornada pa",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/arte-y-patria-jornada-para-celebrar-la-cultura-cubana/",
-      "destacada": false,
-      "tema": "patria",
-      "fecha": "Tue, 20 Oct 2026 14:50:29 +0000",
-      "id": 55
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Iniciativa abre las puertas al cambio en agricultura de La Habana del Este",
-      "resumen": "En este municipio capitalino concluyó un proyecto que dejó conocimientos, recursos y una familia llamada a darle continuidad a los avances, lo que demanda de apoyo institucional La entrada Iniciativa abre las puertas al cambio en agricultura de La Habana del Este se publicó primero en Tribuna de La ",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/iniciativa-abre-las-puertas-al-cambio-en-agricultura-de-la-habana-del-este/",
-      "destacada": false,
-      "tema": "iniciativa",
-      "fecha": "Tue, 20 Oct 2026 15:19:13 +0000",
-      "id": 56
+      "id": 59
     },
     {
       "categoria": "sociedad",
@@ -742,7 +781,7 @@
       "destacada": false,
       "tema": "varios",
       "fecha": "Tue, 20 Oct 2026 21:14:13 +0000",
-      "id": 57
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -755,7 +794,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Tue, 20 Oct 2026 12:50:00 +0000",
-      "id": 58
+      "id": 61
     },
     {
       "categoria": "sociedad",
@@ -768,7 +807,7 @@
       "destacada": false,
       "tema": "rinden",
       "fecha": "Tue, 20 Oct 2026 07:36:00 +0000",
-      "id": 59
+      "id": 62
     },
     {
       "categoria": "energia",
@@ -781,7 +820,7 @@
       "destacada": false,
       "tema": "educadores",
       "fecha": "Mon, 19 Oct 2026 23:52:51 +0000",
-      "id": 60
+      "id": 63
     },
     {
       "categoria": "transporte",
@@ -794,7 +833,7 @@
       "destacada": false,
       "tema": "diplomáticos",
       "fecha": "Tue, 20 Oct 2026 17:00:00 GMT",
-      "id": 61
+      "id": 64
     },
     {
       "categoria": "sociedad",
@@ -807,7 +846,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 20 Oct 2026 10:30:00 GMT",
-      "id": 62
+      "id": 65
     }
   ]
 }
