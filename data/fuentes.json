@@ -23,7 +23,11 @@
     "https://www.guerrillero.cu/",
     "https://www.tribuna.cu/",
     "https://giron.cu/",
-    "https://www.sierramaestra.cu/"
+    "https://www.sierramaestra.cu/",
+    "https://www.granma.cu",
+    "https://oncubanews.com",
+    "https://www.14ymedio.com",
+    "https://www.cibercuba.com"
   ],
   "feeds": {
     "https://www.granma.cu": "https://www.granma.cu/feed/",
@@ -57,15 +61,22 @@
     "https://www.tribuna.cu/": "oficial",
     "http://www.cubadebate.cu": "oficial",
     "https://www.bc.gob.cu/": "oficial",
-    "https://www.telesurtv.net": "internacional",
     "https://www.cubainformacion.tv": "oficial",
+    "https://www.guerrillero.cu/": "oficial",
+    "https://www.granma.cu": "oficial",
+    "https://www.telesurtv.net": "internacional",
     "https://www.prensa-latina.cu/": "internacional",
     "https://spanish.xinhuanet.com": "internacional",
-    "https://www.guerrillero.cu/": "oficial",
     "https://apnews.com/hub/noticias": "internacional",
     "https://actualidad.rt.com": "internacional",
     "https://cnnespanol.cnn.com": "internacional",
     "https://www.washingtonpost.com": "internacional",
-    "https://elpais.com": "internacional"
+    "https://elpais.com": "internacional",
+    "https://www.diariodecuba.com": "alternativa",
+    "https://www.martinoticias.com": "alternativa",
+    "https://eltoque.com": "alternativa",
+    "https://oncubanews.com": "alternativa",
+    "https://www.14ymedio.com": "alternativa",
+    "https://www.cibercuba.com": "alternativa"
   }
 }
