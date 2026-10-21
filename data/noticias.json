@@ -1,8 +1,21 @@
 {
   "fecha": "2026-10-21",
-  "hora": "12:21",
-  "total": 59,
+  "hora": "13:30",
+  "total": 57,
   "noticias": [
+    {
+      "categoria": "energia",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Investigador avileño saca a la luz la influencia escocesa en Martí y en la cultura cubana",
+      "resumen": "«Muy visible, pero al mismo tiempo invisible»: así calificó el investigador y escritor Félix Flores Varona la influencia escocesa en la literatura cubana, tema de casi una década de investigación presentado en la Uneac avileña",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-21/investigador-avileno-saca-a-la-luz-la-influencia-escocesa-en-marti-y-en-la-cultura-cubana-21-10-2026-08-10-32",
+      "destacada": true,
+      "tema": "investigador",
+      "fecha": "Wed, 21 Oct 2026 08:10:32 -0400",
+      "id": 1
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
@@ -14,46 +27,7 @@
       "destacada": true,
       "tema": "congreso",
       "fecha": "Tue, 20 Oct 2026 17:10:40 -0400",
-      "id": 1
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Reinician reparación de viales en Villa Clara",
-      "resumen": "El bacheo de las principales arterias de la provincia, se realiza en medio del cerco energético impuesto a Cuba.",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-20/reinician-reparacion-de-viales-en-villa-clara-20-10-2026-16-10-48",
-      "destacada": true,
-      "tema": "reinician",
-      "fecha": "Tue, 20 Oct 2026 16:10:48 -0400",
       "id": 2
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Presidente cubano exige respuestas ágiles a la vulnerabilidad",
-      "resumen": "La Habana, 21 oct (Prensa Latina) El presidente de Cuba, Miguel Díaz-Canel, instó hoy a atender con mayor agilidad, sensibilidad y compromiso los problemas que afectan a las familias y personas en situación de vulnerabilidad, priorizando las soluciones por encima de las justificaciones. The post Pre",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/21/presidente-cubano-exige-respuestas-agiles-a-la-vulnerabilidad/",
-      "destacada": true,
-      "tema": "presidente",
-      "fecha": "Wed, 21 Oct 2026 12:20:19 +0000",
-      "id": 3
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Aprueba OIEA contrato de investigación con institución cubana",
-      "resumen": "Cienfuegos, Cuba, 21 oct (Prensa Latina) El Centro de Estudios Ambientales de Cienfuegos (CEAC) ejecutará un contrato de investigación auspiciado por el Organismo Internacional de Energía Atómica (OIEA) durante cuatro años, para evaluar la contaminación por microplásticos en aguas subterráneas cuban",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/21/aprueba-oiea-contrato-de-investigacion-con-institucion-cubana/",
-      "destacada": true,
-      "tema": "aprueba",
-      "fecha": "Wed, 21 Oct 2026 11:37:13 +0000",
-      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -66,7 +40,7 @@
       "destacada": true,
       "tema": "llegan",
       "fecha": "Tue, 20 Oct 2026 19:33:22 +0000",
-      "id": 5
+      "id": 3
     },
     {
       "categoria": "transporte",
@@ -76,10 +50,10 @@
       "resumen": "La alianza entre la canadiense y una empresa cercana a Trump ha permitido la firma de un acuerdo con los herederos de Moa Bay, confiscada en 1960",
       "imagen_url": "https://static.14ymedio.com/clip/4a6e0ed6-3ca3-4b6a-b108-de256d2f9b29_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/sherritt-asocia-gillon-capital-licencia_1_1132183.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "sherritt",
       "fecha": "Tue, 20 Oct 2026 15:15:40 +0000",
-      "id": 6
+      "id": 4
     },
     {
       "categoria": "politica",
@@ -89,23 +63,75 @@
       "resumen": "Teherán califica de \"criminal\" la orden de arresto contra el ex presidente por el derribo de las avionetas de Hermanos al Rescate; Moscú señala una \"venganza del lobby anticubano de Miami\" y Pekín ofrece su \"apoyo firme\"",
       "imagen_url": "https://static.14ymedio.com/clip/f3ad616e-b3b3-41cd-b0ce-abcd55290431_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/china-rusia-e-iran-cierran_1_1132202.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "china",
       "fecha": "Wed, 21 Oct 2026 10:39:23 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Vuelve Havana Harry's: el clásico restaurante cubano de Miami reabre tras más de un año cerrado",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e43231-s27061-nid343394-vuelve-havana-harrys-clasico-restaurante-cubano-miami",
+      "destacada": false,
+      "tema": "vuelve",
+      "fecha": "Wed, 21 Oct 2026 15:19:14 +0200",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Vale la pena vivir en Serbia? Cubana revela cuánto se gana y cuánto cuesta alquilar una vivienda",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u65722-e65722-s27065-nid343403-vale-pena-vivir-serbia-cubana-revela-cuanto-gana",
+      "destacada": false,
+      "tema": "vivir",
+      "fecha": "Wed, 21 Oct 2026 14:58:55 +0200",
       "id": 7
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Tomar un cuartel en Varadero y repartir armas a la población, el supuesto plan ideado en EE UU",
-      "resumen": "El oficialismo acusa a EE UU de no actuar contra los “terroristas” y de infiltrar a 'autodeportados' en Cuba14:55",
-      "imagen_url": "https://static.14ymedio.com/clip/28380fb3-29b0-4426-8210-08eca730d51d_source-aspect-ratio_default_0.png",
-      "enlace_original": "https://www.14ymedio.com/cuba/cuartel-varadero-repartir-armas-poblacion_1_1132179.html",
+      "titulo": "«Las redes no me dan dinero»: Cubana sorprende mostrando cómo fabrica jabones caseros para vende",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u65722-e65722-s27065-nid343402-redes-me-dan-dinero-cubana-sorprende-mostrando",
       "destacada": false,
-      "tema": "tomar",
-      "fecha": "Tue, 20 Oct 2026 13:04:23 +0000",
+      "tema": "redes",
+      "fecha": "Wed, 21 Oct 2026 14:45:28 +0200",
       "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Nos estamos volviendo un poco tontos»: Cubano estalla contra la obsesión con el reparto",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u65722-e65722-s27065-nid343401-nos-estamos-volviendo-poco-tontos-cubano-estalla",
+      "destacada": false,
+      "tema": "estamos",
+      "fecha": "Wed, 21 Oct 2026 14:37:29 +0200",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Jurado propone pena de muerte para cubano que mató a su esposa y a sus dos hijastras en Miami: ¿qué viene ahora?",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e129488-s27061-nid343393-jurado-propone-pena-cubano-mato-esposa-sus-dos",
+      "destacada": false,
+      "tema": "jurado",
+      "fecha": "Wed, 21 Oct 2026 14:28:52 +0200",
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -118,7 +144,7 @@
       "destacada": false,
       "tema": "vulgar",
       "fecha": "Wed, 21 Oct 2026 14:04:31 +0200",
-      "id": 9
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -131,72 +157,7 @@
       "destacada": false,
       "tema": "asilo",
       "fecha": "Wed, 21 Oct 2026 13:45:41 +0200",
-      "id": 10
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Un estornudo y zassss»: Cubanos destrozan a la Guiteras tras nueva caída a 24 horas de conectarse",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e207888-s27061-nid343400-estornudo-zassss-cubanos-destrozan-guiteras-tras",
-      "destacada": false,
-      "tema": "estornudo",
-      "fecha": "Wed, 21 Oct 2026 13:20:29 +0200",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Corresponsal de la Casa Blanca muestra otro ángulo del acto de repudio del régimen cubano en la ONU: «¡Esto es inaceptable!»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e208933-s27061-nid343390-corresponsal-casa-blanca-muestra-otro-angulo-acto",
-      "destacada": false,
-      "tema": "corresponsal",
-      "fecha": "Wed, 21 Oct 2026 04:15:15 +0200",
       "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Lis Cuesta invita a celebrar la cultura y culpa a los «imperialistas» de la «corrosiva cotidianidad» que viven los cubanos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e208933-s27061-nid343389-lis-cuesta-invita-celebrar-cultura-culpa",
-      "destacada": false,
-      "tema": "cuesta",
-      "fecha": "Wed, 21 Oct 2026 03:45:31 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Dólar y euro siguen subiendo en Cuba: así cierra el mercado informal este martes",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e208933-s27061-nid343388-dolar-euro-siguen-subiendo-cuba-asi-cierra-mercado",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Wed, 21 Oct 2026 03:05:32 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La «diplomacia» del régimen cubano: embajador ante la ONU se burla de Ferrer y Waltz con un «video romántico»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e208933-s27061-nid343387-diplomacia-diplochusma-critican-al-embajador-cubano",
-      "destacada": false,
-      "tema": "diplomacia",
-      "fecha": "Wed, 21 Oct 2026 02:37:51 +0200",
-      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -209,7 +170,7 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Tue, 20 Oct 2026 17:08:53 +0000",
-      "id": 16
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -222,7 +183,7 @@
       "destacada": false,
       "tema": "himno",
       "fecha": "Tue, 20 Oct 2026 21:28:43 +0000",
-      "id": 17
+      "id": 14
     },
     {
       "categoria": "transporte",
@@ -235,7 +196,7 @@
       "destacada": false,
       "tema": "nuevas",
       "fecha": "Tue, 20 Oct 2026 16:50:03 +0000",
-      "id": 18
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -248,7 +209,20 @@
       "destacada": false,
       "tema": "cultura",
       "fecha": "Tue, 20 Oct 2026 16:40:05 +0000",
-      "id": 19
+      "id": 16
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El régimen culpa a EEUU del aumento de muertes por cáncer en Cuba tras reducir la inversión en salud pública",
+      "resumen": "El #RégimenCubano culpa a #EEUU del aumento de muertes por cáncer en #Cuba. Una revisión de los anuarios de salud y de la #ONEI muestra que ese incremento no llevó a las autoridades a invertir más en salud pública.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792588264_69479.html",
+      "destacada": false,
+      "tema": "régimen",
+      "fecha": "Wed, 21 Oct 2026 15:11:04 +0200",
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -261,7 +235,7 @@
       "destacada": false,
       "tema": "ferrer",
       "fecha": "Wed, 21 Oct 2026 13:21:34 +0200",
-      "id": 20
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -274,7 +248,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Wed, 21 Oct 2026 12:31:01 +0200",
-      "id": 21
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -287,7 +261,7 @@
       "destacada": false,
       "tema": "envejece",
       "fecha": "Wed, 21 Oct 2026 11:44:35 +0200",
-      "id": 22
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -300,7 +274,7 @@
       "destacada": false,
       "tema": "cremitas",
       "fecha": "Wed, 21 Oct 2026 11:30:00 +0200",
-      "id": 23
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -313,7 +287,7 @@
       "destacada": false,
       "tema": "waltz",
       "fecha": "Wed, 21 Oct 2026 07:48:21 +0200",
-      "id": 24
+      "id": 22
     },
     {
       "categoria": "salud",
@@ -326,7 +300,7 @@
       "destacada": false,
       "tema": "presa",
       "fecha": "Wed, 21 Oct 2026 01:11:33 +0200",
-      "id": 25
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -339,20 +313,20 @@
       "destacada": false,
       "tema": "fiebre",
       "fecha": "Tue, 20 Oct 2026 23:20:50 +0200",
-      "id": 26
+      "id": 24
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Las violaciones a la libertad de prensa crecen casi un 130% en Cuba en un mes",
-      "resumen": "El #ICLEP documentó 134 violaciones a la libertad de expresión y de prensa en #Cuba en septiembre, con un claro patrón ascendente. Las violaciones contra los #periodistas independientes aumentaron un 129,4% respecto a agosto.",
+      "titulo": "La mayor central eléctrica de Cuba sufre otra falla y frustra la recuperación del sistema",
+      "resumen": "La crisis energética en Cuba volvió a agravarse este martes, cuando la termoeléctrica Antonio Guiteras, la mayor del país, salió nuevamente de servicio apenas cinco minutos después de sincronizarse con el Sistema Electroenergético Naciona...",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1792529463_69470.html",
+      "enlace_original": "https://www.martinoticias.com/a/la-mayor-central-el%c3%a9ctrica-de-cuba-sufre-otra-falla-y-frustra-la-recuperaci%c3%b3n-del-sistema/482443.html",
       "destacada": false,
-      "tema": "violaciones",
-      "fecha": "Tue, 20 Oct 2026 22:51:03 +0200",
-      "id": 27
+      "tema": "mayor",
+      "fecha": "Wed, 21 Oct 2026 09:15:25 -0400",
+      "id": 25
     },
     {
       "categoria": "economia",
@@ -365,7 +339,7 @@
       "destacada": false,
       "tema": "martinoticias",
       "fecha": "Wed, 21 Oct 2026 08:00:00 -0400",
-      "id": 28
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -378,7 +352,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Wed, 21 Oct 2026 07:00:00 -0400",
-      "id": 29
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -391,7 +365,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Wed, 21 Oct 2026 00:00:30 -0400",
-      "id": 30
+      "id": 28
     },
     {
       "categoria": "energia",
@@ -404,7 +378,7 @@
       "destacada": false,
       "tema": "denuncian",
       "fecha": "Tue, 20 Oct 2026 20:09:39 -0400",
-      "id": 31
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -417,7 +391,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Tue, 20 Oct 2026 20:00:00 -0400",
-      "id": 32
+      "id": 30
     },
     {
       "categoria": "economia",
@@ -430,7 +404,7 @@
       "destacada": false,
       "tema": "quinta",
       "fecha": "Tue, 20 Oct 2026 19:14:40 -0400",
-      "id": 33
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -443,6 +417,32 @@
       "destacada": false,
       "tema": "denuncian",
       "fecha": "Tue, 20 Oct 2026 18:48:06 -0400",
+      "id": 32
+    },
+    {
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Díaz-Canel en Criterio Compartido: Sensibilidad y soluciones sin trabas para las familias vulnerables",
+      "resumen": "En la tercera emisión de Criterio Compartido, el presidente cubano destacó la necesidad de actuar con sensibilidad y agilidad ante los problemas de la población. Más de 883 000 personas estaban registradas en situación de vulnerabilidad al cierre de septiembre. The post Díaz-Canel en Criterio Compar",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/21/diaz-canel-en-criterio-compartido-sensibilidad-y-soluciones-sin-trabas-para-las-familias-vulnerables/",
+      "destacada": false,
+      "tema": "canel",
+      "fecha": "Wed, 21 Oct 2026 13:26:32 +0000",
+      "id": 33
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Barcelona acogerá en noviembre un ciclo de cultura y solidaridad con Cuba",
+      "resumen": "Barcelona acogerá durante el mes de noviembre un ciclo de actividades culturales y solidarias con Cuba, protagonizado por tres mujeres vinculadas a diferentes ámbitos de la cultura cubana: la artista plástica Diana Balboa, la también artista Betzy Arias López y la periodista, escritora, investigador",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/21/barcelona-acogera-en-noviembre-un-ciclo-de-cultura-y-solidaridad-con-cuba/",
+      "destacada": false,
+      "tema": "barcelona",
+      "fecha": "Wed, 21 Oct 2026 12:33:05 +0000",
       "id": 34
     },
     {
@@ -511,19 +511,6 @@
       "id": 39
     },
     {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "\"Sguardi su Cuba\": en Castelnuovo di Porto una reflexión humana y política contra el \"genocidio silencioso\"",
-      "resumen": "En los espacios de Gli Artenauti APS, se llevó a cabo el evento socio-político-cultural \"Sguardi su Cuba\" (Miradas sobre Cuba), un encuentro de intenso testimonio que puso en el centro de atención la compleja realidad del pueblo cubano y las dramáticas consecuencias del aislamiento internacional. Th",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/20/sguardi-su-cuba-en-castelnuovo-di-porto-una-reflexion-humana-y-politica-contra-el-genocidio-silencioso/",
-      "destacada": false,
-      "tema": "sguardi",
-      "fecha": "Tue, 20 Oct 2026 17:24:30 +0000",
-      "id": 40
-    },
-    {
       "categoria": "transporte",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
@@ -534,7 +521,7 @@
       "destacada": false,
       "tema": "américa",
       "fecha": "Wed, 21 Oct 26 09:00:00 +0200",
-      "id": 41
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -547,7 +534,7 @@
       "destacada": false,
       "tema": "acoge",
       "fecha": "Wed, 21 Oct 26 08:47:00 +0200",
-      "id": 42
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -560,7 +547,7 @@
       "destacada": false,
       "tema": "vivienda",
       "fecha": "Wed, 21 Oct 26 07:56:00 +0200",
-      "id": 43
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -573,7 +560,7 @@
       "destacada": false,
       "tema": "apuesta",
       "fecha": "Wed, 21 Oct 26 07:53:00 +0200",
-      "id": 44
+      "id": 43
     },
     {
       "categoria": "politica",
@@ -586,7 +573,7 @@
       "destacada": false,
       "tema": "fortalece",
       "fecha": "Wed, 21 Oct 26 07:50:00 +0200",
-      "id": 45
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -599,7 +586,7 @@
       "destacada": false,
       "tema": "memoria",
       "fecha": "Wed, 21 Oct 26 07:48:00 +0200",
-      "id": 46
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -612,7 +599,7 @@
       "destacada": false,
       "tema": "cubanas",
       "fecha": "Wed, 21 Oct 26 07:42:00 +0200",
-      "id": 47
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -625,7 +612,7 @@
       "destacada": false,
       "tema": "cultura",
       "fecha": "Wed, 21 Oct 26 07:00:00 +0200",
-      "id": 48
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -638,7 +625,7 @@
       "destacada": false,
       "tema": "entera",
       "fecha": "Wed, 21 Oct 26 06:50:00 +0200",
-      "id": 49
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -651,7 +638,7 @@
       "destacada": false,
       "tema": "intentos",
       "fecha": "Wed, 21 Oct 26 06:48:00 +0200",
-      "id": 50
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -664,6 +651,19 @@
       "destacada": false,
       "tema": "sinónimo",
       "fecha": "Tue, 20 Oct 2026 15:13:03 +0000",
+      "id": 50
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba con 138 boletos a Lima 2027",
+      "resumen": "Cuba cuenta ya con 138 atletas con cupo seguro rumbo a los Juegos Panamericanos y del Caribe de Lima 2027 La entrada Cuba con 138 boletos a Lima 2027 se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/cuba-con-138-boletos-a-lima-2027/",
+      "destacada": false,
+      "tema": "boletos",
+      "fecha": "Wed, 21 Oct 2026 13:32:14 +0000",
       "id": 51
     },
     {
@@ -707,19 +707,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Cultura cubana: Escudo y espada de la nación",
-      "resumen": "Escudo que protege nuestros valores y nuestra memoria, y espada que defiende la verdad y la soberanía frente a cualquier amenaza La entrada Cultura cubana: Escudo y espada de la nación se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/cultura-cubana-escudo-y-espada-de-la-nacion/",
-      "destacada": false,
-      "tema": "cultura",
-      "fecha": "Tue, 20 Oct 2026 22:11:37 +0000",
-      "id": 55
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://giron.cu/",
       "fuente_tipo": "oficial",
       "titulo": "Varios premios y una tórtola dentro de una Sala de Conciertos",
@@ -729,20 +716,7 @@
       "destacada": false,
       "tema": "varios",
       "fecha": "Tue, 20 Oct 2026 21:14:13 +0000",
-      "id": 56
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba denuncia «patético circo miamense» contra el General de Ejército Raúl Castro Ruz",
-      "resumen": "«La repudiable acción contra el General de Ejército esta mañana en un patético circo miamense, con trasfondo electoral, no tiene, ni tendrá jamás, el más mínimo sentido jurídico y mucho menos práctico».",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/20/cuba-denuncia-circo-contra-general-raul-castro/",
-      "destacada": false,
-      "tema": "denuncia",
-      "fecha": "Tue, 20 Oct 2026 12:50:00 +0000",
-      "id": 57
+      "id": 55
     },
     {
       "categoria": "economia",
@@ -755,7 +729,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 21 Oct 2026 10:30:00 GMT",
-      "id": 58
+      "id": 56
     },
     {
       "categoria": "transporte",
@@ -768,7 +742,7 @@
       "destacada": false,
       "tema": "diplomáticos",
       "fecha": "Tue, 20 Oct 2026 17:00:00 GMT",
-      "id": 59
+      "id": 57
     }
   ]
 }
