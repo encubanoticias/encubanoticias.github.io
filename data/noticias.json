@@ -1,47 +1,8 @@
 {
-  "fecha": "2026-10-20",
-  "hora": "23:15",
-  "total": 65,
+  "fecha": "2026-10-21",
+  "hora": "01:27",
+  "total": 61,
   "noticias": [
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Bayamo vuelve a cantarle a la Patria",
-      "resumen": "Con la evocación del primer canto de La Bayamesa, la Plaza del Himno acogió la gala nacional por el Día de la Cultura Cubana, que enlazó música, cine, poesía y memoria, y rindió homenaje a creadores e instituciones que preservan la identidad nacional",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-20/bayamo-vuelve-a-cantar-a-la-patria-20-10-2026-12-10-54",
-      "destacada": true,
-      "tema": "bayamo",
-      "fecha": "Tue, 20 Oct 2026 12:10:54 -0400",
-      "id": 1
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Hart, medio siglo de una voluntad cultural",
-      "resumen": "A propósito del venidero aniversario 50 del Ministerio de Cultura, y el cierre de la Jornada por la Cultura Cubana, ofrecemos algunas ideas sobre el destacado intelectual",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-20/hart-medio-siglo-de-una-voluntad-cultural-20-10-2026-18-10-08",
-      "destacada": true,
-      "tema": "medio",
-      "fecha": "Tue, 20 Oct 2026 18:10:08 -0400",
-      "id": 2
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "La cultura como campo de batalla: el eje de la guerra multidimensional contra Cuba",
-      "resumen": "En 1993, cuando Cuba atravesaba el momento más oscuro del periodo especial, con una economía en colapso y el enemigo apostando a la caída inminente de la Revolución, Fidel Castro pronunció una frase que muchos interpretaron como una consigna, «La cultura es lo primero que hay que salvar», dijo ante ",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-20/la-cultura-como-campo-de-batalla-el-eje-de-la-guerra-multidimensional-contra-cuba-20-10-2026-19-10-41",
-      "destacada": true,
-      "tema": "cultura",
-      "fecha": "Tue, 20 Oct 2026 19:10:41 -0400",
-      "id": 3
-    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
@@ -53,7 +14,7 @@
       "destacada": true,
       "tema": "congreso",
       "fecha": "Tue, 20 Oct 2026 17:10:40 -0400",
-      "id": 4
+      "id": 1
     },
     {
       "categoria": "transporte",
@@ -66,46 +27,20 @@
       "destacada": true,
       "tema": "reinician",
       "fecha": "Tue, 20 Oct 2026 16:10:48 -0400",
-      "id": 5
+      "id": 2
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Béisbol cubano: Granma reina en solitario en el oriente",
-      "resumen": "La Habana, 20 oct (Prensa Latina) Los Alazanes de Granma cabalgaron hoy hasta la cima en solitario de la Zona Oriental de la 65ta Serie Nacional de Béisbol, al combinar su victoria con las derrotas de Avispas y Tigres. The post Béisbol cubano: Granma reina en solitario en el oriente first appeared o",
+      "titulo": "Cubanos residentes en Colombia rechazan presiones de EEUU",
+      "resumen": "Bogotá, 20 oct (Prensa Latina) La Asociación de Cubanos residentes en Colombia (ACRC) rechazó hoy las presiones ejercidas por parte de Estados Unidos hacia otros países que históricamente rechazan en la ONU el bloqueo impuesto contra la isla por Washington. The post Cubanos residentes en Colombia re",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/20/beisbol-cubano-granma-reina-en-solitario-en-el-oriente/",
-      "destacada": false,
-      "tema": "béisbol",
-      "fecha": "Tue, 20 Oct 2026 22:59:21 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Exaltan pensamiento de Fidel Castro en muestra artística de Holguín",
-      "resumen": "Holguín, Cuba, 21 oct (Prensa Latina) Creadores de esta provincia oriental inauguraron el Salón de Artes Visuales Lote en homenaje al líder histórico de la Revolución Cubana, Fidel Castro, durante la Feria Internacional de Artesanía Iberoarte 2026. The post Exaltan pensamiento de Fidel Castro en mue",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/20/exaltan-pensamiento-de-fidel-castro-en-muestra-artistica-de-holguin/",
-      "destacada": false,
-      "tema": "exaltan",
-      "fecha": "Tue, 20 Oct 2026 22:27:45 +0000",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Presentan pieza teatral en Francia en Día de la Cultura Cubana",
-      "resumen": "París, 20 oct (Prensa Latina) La embajada de Cuba en Francia acogió hoy la presentación de la pieza “El nombre de Juana”, protagonizada por Monse Duany y dirigida por Osvaldo Doimeadiós, como parte de la celebración del Día de la Cultura Cubana. The post Presentan pieza teatral en Francia en Día de ",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/20/presentan-pieza-teatral-en-francia-en-dia-de-la-cultura-cubana/",
-      "destacada": false,
-      "tema": "presentan",
-      "fecha": "Tue, 20 Oct 2026 22:26:15 +0000",
-      "id": 8
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/20/cubanos-residentes-en-colombia-rechazan-presiones-de-eeuu/",
+      "destacada": true,
+      "tema": "cubanos",
+      "fecha": "Wed, 21 Oct 2026 01:18:40 +0000",
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -115,10 +50,10 @@
       "resumen": "La polémica sobre la participación a las elecciones españolas de noviembre suscita indiferencia en la cola del Consulado en La Habana",
       "imagen_url": "https://static.14ymedio.com/clip/d6926535-6a71-4bac-9c80-07111cd15d74_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/migracion/llegan-espana-media-34000-cubanos_1_1132195.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "llegan",
       "fecha": "Tue, 20 Oct 2026 19:33:22 +0000",
-      "id": 9
+      "id": 4
     },
     {
       "categoria": "transporte",
@@ -128,10 +63,10 @@
       "resumen": "La alianza entre la canadiense y una empresa cercana a Trump ha permitido la firma de un acuerdo con los herederos de Moa Bay, confiscada en 1960",
       "imagen_url": "https://static.14ymedio.com/clip/4a6e0ed6-3ca3-4b6a-b108-de256d2f9b29_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/sherritt-asocia-gillon-capital-licencia_1_1132183.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "sherritt",
       "fecha": "Tue, 20 Oct 2026 15:15:40 +0000",
-      "id": 10
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -144,7 +79,7 @@
       "destacada": false,
       "tema": "tomar",
       "fecha": "Tue, 20 Oct 2026 13:04:23 +0000",
-      "id": 11
+      "id": 6
     },
     {
       "categoria": "politica",
@@ -157,7 +92,7 @@
       "destacada": false,
       "tema": "aspavientos",
       "fecha": "Tue, 20 Oct 2026 09:37:51 +0000",
-      "id": 12
+      "id": 7
     },
     {
       "categoria": "energia",
@@ -170,59 +105,72 @@
       "destacada": false,
       "tema": "china",
       "fecha": "Tue, 20 Oct 2026 14:17:22 +0000",
+      "id": 8
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Dólar y euro siguen subiendo en Cuba: así cierra el mercado informal este martes",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e208933-s27061-nid343388-dolar-euro-siguen-subiendo-cuba-asi-cierra-mercado",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Wed, 21 Oct 2026 03:05:32 +0200",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Diplomacia o «diplochusma»? Critican al embajador cubano en la ONU por «video romántico» que se burla de Ferrer y Waltz",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e208933-s27061-nid343387-diplomacia-diplochusma-critican-al-embajador-cubano",
+      "destacada": false,
+      "tema": "diplomacia",
+      "fecha": "Wed, 21 Oct 2026 02:37:51 +0200",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Jueza que condenó a Anna Bensi presidirá el juicio contra los líderes masones en Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e208933-s27061-nid343386-jueza-condeno-anna-bensi-presidira-juicio-contra",
+      "destacada": false,
+      "tema": "jueza",
+      "fecha": "Wed, 21 Oct 2026 02:10:25 +0200",
+      "id": 11
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EE.UU. autoriza a Sherritt a enviar combustible a sus minas en Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e208933-s27061-nid343383-eeuu-autoriza-sherritt-enviar-combustible-sus-minas",
+      "destacada": false,
+      "tema": "autoriza",
+      "fecha": "Wed, 21 Oct 2026 01:15:43 +0200",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Detienen en Texas a cubano deportado en 2025 y lo acusan de reingreso ilegal a EE.UU.",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e208933-s27061-nid343377-detienen-texas-cubano-deportado-2025-acusan",
+      "destacada": false,
+      "tema": "detienen",
+      "fecha": "Wed, 21 Oct 2026 00:47:09 +0200",
       "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cocinero cubano denuncia discriminación en U-Haul: «No nos quieren rentar porque no hablamos inglés»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u1-e129488-s27061-nid343338-cocinero-cubano-denuncia-discriminacion-u-haul-nos",
-      "destacada": false,
-      "tema": "cocinero",
-      "fecha": "Tue, 20 Oct 2026 23:22:01 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Fiscalía cubana pide hasta 13 años de cárcel para 19 procesados tras las protestas de Morón, incluidos adolescentes",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u1-e208933-s27061-nid343374-fiscalia-cubana-pide-13-anos-carcel-19-procesados",
-      "destacada": false,
-      "tema": "fiscalía",
-      "fecha": "Tue, 20 Oct 2026 23:20:09 +0200",
-      "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "José Daniel Ferrer, sobre política de EE.UU. hacia Cuba: «Después del 3 de noviembre van a ocurrir cosas\"",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u1-e192519-s27061-nid343369-jose-daniel-ferrer-politica-eeuu-hacia-cuba-despues",
-      "destacada": false,
-      "tema": "daniel",
-      "fecha": "Tue, 20 Oct 2026 22:51:50 +0200",
-      "id": 16
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Al lado del pueblo cubano»: EE.UU. reafirma su respaldo a la libertad de Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-20-u1-e199894-s27061-nid343368-al-lado-pueblo-cubano-eeuu-reafirma-respaldo",
-      "destacada": false,
-      "tema": "pueblo",
-      "fecha": "Tue, 20 Oct 2026 22:42:39 +0200",
-      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -235,7 +183,7 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Tue, 20 Oct 2026 17:08:53 +0000",
-      "id": 18
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -248,7 +196,7 @@
       "destacada": false,
       "tema": "himno",
       "fecha": "Tue, 20 Oct 2026 21:28:43 +0000",
-      "id": 19
+      "id": 15
     },
     {
       "categoria": "transporte",
@@ -261,7 +209,7 @@
       "destacada": false,
       "tema": "nuevas",
       "fecha": "Tue, 20 Oct 2026 16:50:03 +0000",
-      "id": 20
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -274,7 +222,7 @@
       "destacada": false,
       "tema": "cultura",
       "fecha": "Tue, 20 Oct 2026 16:40:05 +0000",
-      "id": 21
+      "id": 17
     },
     {
       "categoria": "salud",
@@ -287,7 +235,7 @@
       "destacada": false,
       "tema": "presa",
       "fecha": "Wed, 21 Oct 2026 01:11:33 +0200",
-      "id": 22
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -300,7 +248,7 @@
       "destacada": false,
       "tema": "fiebre",
       "fecha": "Tue, 20 Oct 2026 23:20:50 +0200",
-      "id": 23
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -313,7 +261,7 @@
       "destacada": false,
       "tema": "violaciones",
       "fecha": "Tue, 20 Oct 2026 22:51:03 +0200",
-      "id": 24
+      "id": 20
     },
     {
       "categoria": "economia",
@@ -326,7 +274,7 @@
       "destacada": false,
       "tema": "funcionario",
       "fecha": "Tue, 20 Oct 2026 21:04:37 +0200",
-      "id": 25
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -339,7 +287,7 @@
       "destacada": false,
       "tema": "orden",
       "fecha": "Tue, 20 Oct 2026 20:49:21 +0200",
-      "id": 26
+      "id": 22
     },
     {
       "categoria": "transporte",
@@ -352,7 +300,7 @@
       "destacada": false,
       "tema": "autoriza",
       "fecha": "Tue, 20 Oct 2026 19:17:59 +0200",
-      "id": 27
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -365,7 +313,7 @@
       "destacada": false,
       "tema": "embarazos",
       "fecha": "Tue, 20 Oct 2026 18:01:10 +0200",
-      "id": 28
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -378,7 +326,7 @@
       "destacada": false,
       "tema": "queda",
       "fecha": "Tue, 20 Oct 2026 15:36:26 +0200",
-      "id": 29
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -391,7 +339,7 @@
       "destacada": false,
       "tema": "cuarto",
       "fecha": "Tue, 20 Oct 2026 14:47:39 +0200",
-      "id": 30
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -404,7 +352,46 @@
       "destacada": false,
       "tema": "fiscalía",
       "fecha": "Tue, 20 Oct 2026 14:05:15 +0200",
-      "id": 31
+      "id": 27
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Denuncian deterioro de salud de la presa política Ana Ibis Tristá en Las Tunas",
+      "resumen": "Tristá Padilla fue condenada a 14 años de cárcel en Cuba, por los delitos de propaganda contra el orden constitucional y otros actos contra la Seguridad del Estado. La Fiscalía le atribuyó la organización de una manifestación pacífica en la capital tunera que no llegó a celebrarse.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/denuncian-deterioro-de-salud-de-presa-pol%c3%adtica-ana-ibis-trist%c3%a1-en-las-tunas/482439.html",
+      "destacada": false,
+      "tema": "denuncian",
+      "fecha": "Tue, 20 Oct 2026 20:09:39 -0400",
+      "id": 28
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 8:00 PM",
+      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481384.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Tue, 20 Oct 2026 20:00:00 -0400",
+      "id": 29
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba: Quinta tasa de inflación más alta del mundo",
+      "resumen": "El régimen dice que los precios acumulan un incremento de casi el 25% durante los primeros nueve meses del año y la inflación interanual supera el 28%. El economista Steve Hanke sostiene que la inflación real supera el 71%.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-quinta-tasa-de-inflacion-mas-alta-del-mundo/482398.html",
+      "destacada": false,
+      "tema": "quinta",
+      "fecha": "Tue, 20 Oct 2026 19:14:40 -0400",
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -417,7 +404,7 @@
       "destacada": false,
       "tema": "denuncian",
       "fecha": "Tue, 20 Oct 2026 18:48:06 -0400",
-      "id": 32
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -430,7 +417,7 @@
       "destacada": false,
       "tema": "waltz",
       "fecha": "Tue, 20 Oct 2026 17:24:19 -0400",
-      "id": 33
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -443,7 +430,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Tue, 20 Oct 2026 17:06:20 -0400",
-      "id": 34
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -456,20 +443,20 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Tue, 20 Oct 2026 17:00:30 -0400",
-      "id": 35
+      "id": 34
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las noticias como son",
-      "resumen": "Amado Gil y José Luis Ramos, con Yoani Sánchez y Alejandro Tur, comentan la petición fiscal contra manifestantes de Morón. Mitin de repudio de diplomáticos cubanos en Nueva York contra expresos políticos y embajador de EEUU en la ONU. Ucrania dice no más mercenarios cubanos peleando para Rusia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Granma se corona en el oriente cubano",
+      "resumen": "La tropa granmense derrotó 8-3 a los Cachorros de Holguín con una ofensiva de apenas seis imparables, pero suficiente para marcar diferencias. Un doble de Alexquemer Sánchez, que encontró las bases pobladas, produjo tres carreras decisivas en el camino hacia la novena victoria de los orientales. The",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/las-noticias-como-son/482392.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/20/granma-se-corona-en-el-oriente-cubano/",
       "destacada": false,
-      "tema": "noticias",
-      "fecha": "Tue, 20 Oct 2026 16:29:41 -0400",
-      "id": 36
+      "tema": "granma",
+      "fecha": "Wed, 21 Oct 2026 01:21:56 +0000",
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -482,7 +469,7 @@
       "destacada": false,
       "tema": "redonda",
       "fecha": "Tue, 20 Oct 2026 18:08:46 +0000",
-      "id": 37
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -495,7 +482,7 @@
       "destacada": false,
       "tema": "sguardi",
       "fecha": "Tue, 20 Oct 2026 17:24:30 +0000",
-      "id": 38
+      "id": 37
     },
     {
       "categoria": "politica",
@@ -508,7 +495,7 @@
       "destacada": false,
       "tema": "sheinbaum",
       "fecha": "Tue, 20 Oct 2026 16:46:55 +0000",
-      "id": 39
+      "id": 38
     },
     {
       "categoria": "salud",
@@ -521,7 +508,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Tue, 20 Oct 2026 16:10:36 +0000",
-      "id": 40
+      "id": 39
     },
     {
       "categoria": "transporte",
@@ -534,7 +521,7 @@
       "destacada": false,
       "tema": "bayamo",
       "fecha": "Tue, 20 Oct 2026 15:47:19 +0000",
-      "id": 41
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -547,7 +534,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 20 Oct 2026 14:51:10 +0000",
-      "id": 42
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -560,7 +547,7 @@
       "destacada": false,
       "tema": "mundo",
       "fecha": "Tue, 20 Oct 26 22:58:00 +0200",
-      "id": 43
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -573,7 +560,7 @@
       "destacada": false,
       "tema": "barcelona",
       "fecha": "Tue, 20 Oct 26 17:33:00 +0200",
-      "id": 44
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -586,7 +573,7 @@
       "destacada": false,
       "tema": "farsa",
       "fecha": "Tue, 20 Oct 26 17:30:00 +0200",
-      "id": 45
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -599,7 +586,7 @@
       "destacada": false,
       "tema": "barcelona",
       "fecha": "Tue, 20 Oct 26 10:32:00 +0200",
-      "id": 46
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -612,7 +599,7 @@
       "destacada": false,
       "tema": "ambassador",
       "fecha": "Tue, 20 Oct 26 07:38:00 +0200",
-      "id": 47
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -625,7 +612,7 @@
       "destacada": false,
       "tema": "gracias",
       "fecha": "Tue, 20 Oct 26 07:37:00 +0200",
-      "id": 48
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -638,7 +625,7 @@
       "destacada": false,
       "tema": "intervista",
       "fecha": "Tue, 20 Oct 26 07:36:00 +0200",
-      "id": 49
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -651,7 +638,7 @@
       "destacada": false,
       "tema": "grupo",
       "fecha": "Tue, 20 Oct 26 07:35:00 +0200",
-      "id": 50
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -664,7 +651,7 @@
       "destacada": false,
       "tema": "circo",
       "fecha": "Tue, 20 Oct 26 07:34:00 +0200",
-      "id": 51
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -677,20 +664,7 @@
       "destacada": false,
       "tema": "vínculo",
       "fecha": "Tue, 20 Oct 26 07:33:00 +0200",
-      "id": 52
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://actualidad.rt.com",
-      "fuente_tipo": "internacional",
-      "titulo": "\"Criminal e ilegal\": Irán reacciona a la orden de arresto contra Raúl Castro en EE.UU.",
-      "resumen": "El Ministerio de Relaciones Exteriores iraní rechazó las sanciones de Washington contra la isla.",
-      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad7dff5e9ff713b7e5c53aa.jpg",
-      "enlace_original": "https://actualidad-rt.com/actualidad/633445-iran-condena-acciones-eeuu-cuba?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "destacada": false,
-      "tema": "criminal",
-      "fecha": "Tue, 20 Oct 2026 22:31:43 +0000",
-      "id": 53
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -703,7 +677,7 @@
       "destacada": false,
       "tema": "sinónimo",
       "fecha": "Tue, 20 Oct 2026 15:13:03 +0000",
-      "id": 54
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -716,7 +690,20 @@
       "destacada": false,
       "tema": "conjuro",
       "fecha": "Tue, 20 Oct 2026 11:30:00 +0000",
-      "id": 55
+      "id": 53
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "La carga esencial que salva vidas: 44 nuevos vehículos eléctricos",
+      "resumen": "Anuncian incorporación de 44 nuevos vehículos eléctricos de carga al sector de la Salud en Cuba La entrada La carga esencial que salva vidas: 44 nuevos vehículos eléctricos se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/la-carga-esencial-que-salva-vidas-44-nuevos-vehiculos-electricos/",
+      "destacada": false,
+      "tema": "carga",
+      "fecha": "Tue, 20 Oct 2026 23:36:54 +0000",
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -729,7 +716,7 @@
       "destacada": false,
       "tema": "vegueros",
       "fecha": "Tue, 20 Oct 2026 23:05:12 +0000",
-      "id": 56
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -742,33 +729,7 @@
       "destacada": false,
       "tema": "cultura",
       "fecha": "Tue, 20 Oct 2026 22:11:37 +0000",
-      "id": 57
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Himno Nacional, símbolo representativo de nuestra identidad y el profundo amor a la Patria",
-      "resumen": "A partir del 20 de octubre de 1868, el insigne patriota, Pedro Figueredo, compositor del Himno Nacional, legaba un símbolo de independencia que contribuiría a reafirmar la cultura cubana, y mostraba la determinación del pueblo de defender su identidad y emancipación La entrada Himno Nacional, símbol",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/himno-nacional-simbolo-representativo-de-nuestra-identidad-y-el-profundo-amor-a-la-patria/",
-      "destacada": false,
-      "tema": "himno",
-      "fecha": "Tue, 20 Oct 2026 13:00:12 +0000",
-      "id": 58
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Tres compañías emblemáticas de la danza cubana abren temporada de celebración en la Sala Avellaneda",
-      "resumen": "Las funciones estarán dedicadas a la Organización de Naciones Unidas, al Ballet Nacional de Cuba, al Día de la Hispanidad y al Ministerio de Cultura La entrada Tres compañías emblemáticas de la danza cubana abren temporada de celebración en la Sala Avellaneda se publicó primero en Tribuna de La Haba",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/tres-companias-emblematicas-de-la-danza-cubana-abren-temporada-de-celebracion-en-la-sala-avellaneda/",
-      "destacada": false,
-      "tema": "compañías",
-      "fecha": "Tue, 20 Oct 2026 14:54:14 +0000",
-      "id": 59
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -781,7 +742,7 @@
       "destacada": false,
       "tema": "varios",
       "fecha": "Tue, 20 Oct 2026 21:14:13 +0000",
-      "id": 60
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -794,7 +755,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Tue, 20 Oct 2026 12:50:00 +0000",
-      "id": 61
+      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -807,20 +768,7 @@
       "destacada": false,
       "tema": "rinden",
       "fecha": "Tue, 20 Oct 2026 07:36:00 +0000",
-      "id": 62
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Educadores matanceros debaten anteproyecto de Ley de Educación",
-      "resumen": "Con la presencia de la Ministra de Educación, Naima Trujillo Barreto, docentes matanceros de diferentes niveles de enseñanza debatieron este lunes el anteproyecto de Ley de Educación, que regirá el sistema educativo cubano a partir de su aprobación.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/19/educadores-debaten-anteproyecto-ley-educacion/",
-      "destacada": false,
-      "tema": "educadores",
-      "fecha": "Mon, 19 Oct 2026 23:52:51 +0000",
-      "id": 63
+      "id": 59
     },
     {
       "categoria": "transporte",
@@ -833,7 +781,7 @@
       "destacada": false,
       "tema": "diplomáticos",
       "fecha": "Tue, 20 Oct 2026 17:00:00 GMT",
-      "id": 64
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -846,7 +794,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 20 Oct 2026 10:30:00 GMT",
-      "id": 65
+      "id": 61
     }
   ]
 }
