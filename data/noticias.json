@@ -1,8 +1,21 @@
 {
   "fecha": "2026-10-21",
-  "hora": "21:18",
-  "total": 56,
+  "hora": "23:15",
+  "total": 61,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "China reafirma respaldo al General de Ejército Raúl Castro Ruz y a la soberanía de Cuba",
+      "resumen": "El Ministerio de Relaciones Exteriores chino destacó el prestigio internacional del General de Ejército y rechazó las presiones de Washington contra la Isla",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-21/china-reafirma-respaldo-al-general-de-ejercito-raul-castro-ruz-y-a-la-soberania-de-cuba-21-10-2026-14-10-34",
+      "destacada": true,
+      "tema": "china",
+      "fecha": "Wed, 21 Oct 2026 14:10:34 -0400",
+      "id": 1
+    },
     {
       "categoria": "salud",
       "fuente": "https://www.granma.cu",
@@ -14,7 +27,7 @@
       "destacada": true,
       "tema": "anuncian",
       "fecha": "Wed, 21 Oct 2026 16:10:41 -0400",
-      "id": 1
+      "id": 2
     },
     {
       "categoria": "sociedad",
@@ -27,7 +40,20 @@
       "destacada": true,
       "tema": "frente",
       "fecha": "Wed, 21 Oct 2026 10:10:36 -0400",
-      "id": 2
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Sinesio y su obra, a la carta",
+      "resumen": "Al poeta y narrador oral estará dedicado este jueves Libro a la carta, un espacio que conduce el periodista y crítico Fernando Rodríguez Sosa, en la Librería Fayad Jamís, ubicada en Obispo 261, entre Cuba y Aguiar en La Habana Vieja",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-21/sinesio-y-su-obra-a-la-carta-21-10-2026-17-10-24",
+      "destacada": true,
+      "tema": "sinesio",
+      "fecha": "Wed, 21 Oct 2026 17:10:24 -0400",
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -40,7 +66,7 @@
       "destacada": true,
       "tema": "cultura",
       "fecha": "Wed, 21 Oct 2026 08:10:51 -0400",
-      "id": 3
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -50,23 +76,49 @@
       "resumen": "Originado a partir de una zona de mal tiempo en el sur del mar Caribe occidental y después de desplazarse con rumbo aproximado al nortenoroeste, en la mañana del 20 de octubre de 1926 uno de los huracanes más intensos que azotó a La Habana en el siglo XX, penetró en tierra por las inmediaciones de P",
       "imagen_url": "",
       "enlace_original": "http://www.granma.cu/ciencia/2026-10-21/centenario-del-celebre-huracan-de-1926-21-10-2026-16-10-54",
-      "destacada": true,
+      "destacada": false,
       "tema": "centenario",
       "fecha": "Wed, 21 Oct 2026 16:10:54 -0400",
-      "id": 4
+      "id": 6
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Villa Clara gana por partida doble a Mayabeque en béisbol de Cuba",
-      "resumen": "Santa Clara, Cuba, 21 oct (Prensa Latina) El equipo de béisbol de Villa Clara venció por partida doble de seis carreras a una y seis a cero al conjunto de Mayabeque en desafíos pactados a siete inning en el estadio Augusto César Sandino de esta ciudad. The post Villa Clara gana por partida doble a M",
+      "titulo": "Embajador de Cuba en Colombia denunció impacto del bloqueo de EEUU",
+      "resumen": "Bogotá, 21 oct (Prensa Latina) El embajador de Cuba en Colombia, Carlos de Céspedes Piedra, denunció hoy aquí cómo el bloqueo que Estados Unidos impone a su país impacta a toda la sociedad, pero fundamentalmente a los grupos más vulnerables. The post Embajador de Cuba en Colombia denunció impacto de",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/21/villa-clara-gana-por-partida-doble-a-mayabeque-en-beisbol-de-cuba/",
-      "destacada": true,
-      "tema": "villa",
-      "fecha": "Wed, 21 Oct 2026 21:12:44 +0000",
-      "id": 5
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/21/embajador-de-cuba-en-colombia-denuncio-impacto-del-bloqueo-de-eeuu/",
+      "destacada": false,
+      "tema": "embajador",
+      "fecha": "Wed, 21 Oct 2026 22:44:29 +0000",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Proyecto mexicano beneficiara producción de alimentos en Cuba",
+      "resumen": "Ciego de Ávila, Cuba, 21 oct (Prensa Latina) Unos mil 500 productores agropecuarios de Ciego de Ávila, en la región central de la isla, serán beneficiados con el proyecto Sembrando Vida, iniciativa de cooperación entre México y Cuba, trascendió hoy. The post Proyecto mexicano beneficiara producción ",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/21/proyecto-mexicano-beneficiara-produccion-de-alimentos-en-cuba/",
+      "destacada": false,
+      "tema": "proyecto",
+      "fecha": "Wed, 21 Oct 2026 22:42:00 +0000",
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Embajadora cubana en Nicaragua visita Centro Educativo Fidel Castro",
+      "resumen": "Managua, 21 oct (Prensa Latina) La embajadora de Cuba en Nicaragua, Iliana Fonseca, visitó hoy el Centro Educativo “Comandante Fidel Castro Ruz”, como parte de las actividades de homenaje al líder histórico de la Revolución cubana en el año de su Centenario. The post Embajadora cubana en Nicaragua v",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/21/embajadora-cubana-en-nicaragua-visita-centro-educativo-fidel-castro/",
+      "destacada": false,
+      "tema": "embajadora",
+      "fecha": "Wed, 21 Oct 2026 21:59:53 +0000",
+      "id": 9
     },
     {
       "categoria": "energia",
@@ -79,20 +131,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Wed, 21 Oct 2026 17:40:37 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El Cerro, un barrio de La Habana incomunicado desde hace un mes",
-      "resumen": "Los vecinos caminan varios kilómetros para comunicarse y otros siguen pagando 1.000 pesos por Nauta Hogar por temor a perder el servicio",
-      "imagen_url": "https://static.14ymedio.com/clip/47237b4e-839c-4fc9-894c-d943473a2419_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/cerro-barrio-habana-incomunicado-mes_1_1132214.html",
-      "destacada": false,
-      "tema": "cerro",
-      "fecha": "Wed, 21 Oct 2026 14:31:55 +0000",
-      "id": 7
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -105,7 +144,33 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Wed, 21 Oct 2026 16:07:12 +0000",
-      "id": 8
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Un total de 11 balseros cubanos han llegado este mes a Cancún",
+      "resumen": "El titular de la Capitanía Regional de Puerto Juárez dice que los migrantes llegaron en dos embarcaciones y confirma el abandono de otras balsas en la región",
+      "imagen_url": "https://static.14ymedio.com/clip/d8dd07e2-ecc4-40ea-8206-dbb590fa594e_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/migracion/total-11-balseros-cubanos-han_1_1132238.html",
+      "destacada": false,
+      "tema": "total",
+      "fecha": "Wed, 21 Oct 2026 20:30:09 +0000",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El Cerro, un barrio de La Habana incomunicado desde hace un mes",
+      "resumen": "Los vecinos caminan varios kilómetros para comunicarse y otros siguen pagando 1.000 pesos por Nauta Hogar por temor a perder el servicio",
+      "imagen_url": "https://static.14ymedio.com/clip/47237b4e-839c-4fc9-894c-d943473a2419_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/cerro-barrio-habana-incomunicado-mes_1_1132214.html",
+      "destacada": false,
+      "tema": "cerro",
+      "fecha": "Wed, 21 Oct 2026 14:31:55 +0000",
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -118,20 +183,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Wed, 21 Oct 2026 15:54:19 +0000",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Miami rendirá homenaje a Celia Cruz con una nueva plaza en la Pequeña Habana",
-      "resumen": "La Plaza Azúcar incluirá una escultura de la cantante y una recreación de su voz mediante inteligencia artificial",
-      "imagen_url": "https://static.14ymedio.com/clip/870d0c73-9677-44d0-aa1b-94f2fe8752e9_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cultura/miami-rendira-homenaje-celia-cruz_1_1132232.html",
-      "destacada": false,
-      "tema": "miami",
-      "fecha": "Wed, 21 Oct 2026 19:15:46 +0000",
-      "id": 10
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -144,7 +196,7 @@
       "destacada": false,
       "tema": "envejecido",
       "fecha": "Wed, 21 Oct 2026 13:51:52 +0000",
-      "id": 11
+      "id": 15
     },
     {
       "categoria": "politica",
@@ -157,72 +209,98 @@
       "destacada": false,
       "tema": "china",
       "fecha": "Wed, 21 Oct 2026 10:39:23 +0000",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Consulado cubano en España niega renovar el pasaporte al animalista Javier Larrea",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e209399-s27061-nid343462-consulado-cubano-espana-niega-renovar-pasaporte-al",
-      "destacada": false,
-      "tema": "consulado",
-      "fecha": "Wed, 21 Oct 2026 22:17:33 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Paquito D'Rivera aplaude a Daymé Arocena tras rechazar actuación en Blues Alley, auspiciada por Embajada de Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e192519-s27061-nid343460-paquito-drivera-aplaude-dayme-arocena-tras-rechazar",
-      "destacada": false,
-      "tema": "paquito",
-      "fecha": "Wed, 21 Oct 2026 22:15:17 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Aquí sobrevive quien tiene a alguien afuera»: el testimonio de una madre que define la situación de Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e43231-s27061-nid343443-aqui-sobrevive-quien-tiene-alguien-afuera-testimonio",
-      "destacada": false,
-      "tema": "sobrevive",
-      "fecha": "Wed, 21 Oct 2026 22:00:09 +0200",
-      "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Ramón Saúl Sánchez acusa a Trump de priorizar negocios sobre la libertad de Cuba: «Se los advertí»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e208933-s27061-nid343455-ramon-saul-sanchez-acusa-trump-priorizar-negocios",
-      "destacada": false,
-      "tema": "ramón",
-      "fecha": "Wed, 21 Oct 2026 21:35:46 +0200",
       "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Cuba es pobre porque no es libre»: experto de Human Rights Foundation cuestiona el discurso del régimen sobre el embargo",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e135253-s27061-nid343475-cuba-pobre-porque-libre-experto-human-rights",
+      "destacada": false,
+      "tema": "pobre",
+      "fecha": "Thu, 22 Oct 2026 00:18:21 +0200",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubano gravemente enfermo enfrenta posible deportación a África desde un centro de ICE en Miami",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e208933-s27061-nid343450-cubano-gravemente-enfermo-enfrenta-posible",
+      "destacada": false,
+      "tema": "cubano",
+      "fecha": "Thu, 22 Oct 2026 00:10:19 +0200",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubano muere apuñalado en Guyana y detienen a compatriota con quien compartía habitación",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e208933-s27061-nid343449-cubano-muere-apunalado-guyana-detienen-compatriota",
+      "destacada": false,
+      "tema": "cubano",
+      "fecha": "Wed, 21 Oct 2026 23:40:54 +0200",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Denuncian represalias contra pastores cubanos que ofrecen desayunos a niños y alimentos a personas vulnerables",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e135253-s27061-nid343473-denuncian-represalias-contra-pastores-cubanos",
+      "destacada": false,
+      "tema": "denuncian",
+      "fecha": "Wed, 21 Oct 2026 23:33:04 +0200",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Régimen cubano niega tener militares en Ucrania «ni en ningún otro país»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e208933-s27061-nid343465-regimen-cubano-niega-tener-militares-ucrania-ni",
+      "destacada": false,
+      "tema": "régimen",
+      "fecha": "Wed, 21 Oct 2026 23:15:30 +0200",
+      "id": 21
     },
     {
       "categoria": "politica",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Bruno Rodríguez atribuye la resistencia de Cuba a la «gestión eficaz» del Gobierno y del Partido Comunista",
+      "titulo": "Una madre logra ser reconocida como cuidadora de su hijo tras llamar al programa de Díaz-Canel",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e207888-s27061-nid343453-bruno-rodriguez-atribuye-resistencia-cuba-gestion",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e43231-s27061-nid343467-madre-logra-ser-reconocida-cuidadora-hijo-tras-llamar",
       "destacada": false,
-      "tema": "bruno",
-      "fecha": "Wed, 21 Oct 2026 21:16:38 +0200",
-      "id": 17
+      "tema": "madre",
+      "fecha": "Wed, 21 Oct 2026 23:12:58 +0200",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Jóvenes cubanos encuentran en Perú oportunidades para emprender y aportar al desarrollo económico",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e199894-s27061-nid343468-jovenes-cubanos-encuentran-peru-oportunidades",
+      "destacada": false,
+      "tema": "jóvenes",
+      "fecha": "Wed, 21 Oct 2026 22:43:45 +0200",
+      "id": 23
     },
     {
       "categoria": "politica",
@@ -235,7 +313,7 @@
       "destacada": false,
       "tema": "criterio",
       "fecha": "Wed, 21 Oct 2026 15:41:53 +0000",
-      "id": 18
+      "id": 24
     },
     {
       "categoria": "politica",
@@ -248,7 +326,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Wed, 21 Oct 2026 18:19:00 +0000",
-      "id": 19
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -261,7 +339,33 @@
       "destacada": false,
       "tema": "ciencia",
       "fecha": "Wed, 21 Oct 2026 17:33:10 +0000",
-      "id": 20
+      "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Ante el auge de los señalamientos, La Habana insiste en negar su participación en la guerra de Ucrania",
+      "resumen": "Mientras #Kiev y #Washington lo señalan, el régimen de #Cuba insiste en negar su participación en la guerra de #Ucrania, aunque reconoce que hay cubanos involucrados en el conflicto.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792624256_69492.html",
+      "destacada": false,
+      "tema": "señalamientos",
+      "fecha": "Thu, 22 Oct 2026 01:10:56 +0200",
+      "id": 27
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Venezuela reta a EEUU y expresa su 'firme rechazo' a la orden de arresto contra Raúl Castro",
+      "resumen": "A pesar de su distanciamiento con #LaHabana, #Venezuela expresa su \"firme rechazo\" a la orden de arresto contra #RaúlCastro. #China e #Irán también salen en defensa del nonagenario general.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792620102_69490.html",
+      "destacada": false,
+      "tema": "venezuela",
+      "fecha": "Thu, 22 Oct 2026 00:01:42 +0200",
+      "id": 28
     },
     {
       "categoria": "energia",
@@ -274,7 +378,7 @@
       "destacada": false,
       "tema": "apagones",
       "fecha": "Wed, 21 Oct 2026 22:54:08 +0200",
-      "id": 21
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -287,7 +391,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Wed, 21 Oct 2026 20:43:07 +0200",
-      "id": 22
+      "id": 30
     },
     {
       "categoria": "economia",
@@ -300,7 +404,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 21 Oct 2026 19:15:32 +0200",
-      "id": 23
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -313,7 +417,7 @@
       "destacada": false,
       "tema": "mercados",
       "fecha": "Wed, 21 Oct 2026 18:00:48 +0200",
-      "id": 24
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -326,7 +430,7 @@
       "destacada": false,
       "tema": "amenazado",
       "fecha": "Wed, 21 Oct 2026 17:44:15 +0200",
-      "id": 25
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -339,7 +443,7 @@
       "destacada": false,
       "tema": "barriles",
       "fecha": "Wed, 21 Oct 2026 16:55:46 +0200",
-      "id": 26
+      "id": 34
     },
     {
       "categoria": "salud",
@@ -352,20 +456,46 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Wed, 21 Oct 2026 15:11:04 +0200",
-      "id": 27
+      "id": 35
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Ferrer y Otero Alcántara piden en la ONU que el mundo no dé la espalda a los cubanos",
-      "resumen": "Ferrer y Otero Alcántara en la #ONU: El líder de la #UNPACU reclama no respaldar la resolución de #LaHabana contra el embargo. El artista denuncia la cárcel como castigo por proponer \"otra #Cuba\".",
+      "titulo": "DeSantis dice que Fidel Castro debió haber enfrentado la justicia \"fue una oportunidad perdida\"",
+      "resumen": "Ron DeSantis expresó su apoyo a que Raúl Castro enfrente la justicia en Estados Unidos y defendió el potencial de una Cuba libre, al asegurar que la isla podría convertirse en el país más exitoso del Caribe si existiera un verdadero estado de derecho.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1792581694_69478.html",
+      "enlace_original": "https://www.martinoticias.com/a/desantis-dice-que-fidel-castro-debi%c3%b3-haber-enfrentado-la-justicia-fue-una-oportunidad-perdida/482477.html",
       "destacada": false,
-      "tema": "ferrer",
-      "fecha": "Wed, 21 Oct 2026 13:21:34 +0200",
-      "id": 28
+      "tema": "desantis",
+      "fecha": "Wed, 21 Oct 2026 19:05:21 -0400",
+      "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Mario Díaz-Balart recibe el Premio Campeón de la Libertad 2026 por su defensa de la democracia",
+      "resumen": "El congresista cubanoamericano Mario Díaz-Balart recibió este miércoles el Premio Campeón de la Libertad 2026, durante una ceremonia en Miami en la que también se habló de la situación de Cuba y la lucha contra los regímenes autoritarios.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/mario-d%c3%adaz-balart-recibe-el-premio-campe%c3%b3n-de-la-libertad-2026-por-su-defensa-de-la-democracia/482475.html",
+      "destacada": false,
+      "tema": "mario",
+      "fecha": "Wed, 21 Oct 2026 18:09:37 -0400",
+      "id": 37
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"Los mejores talentos se han ido\", reconoce una leyenda del ajedrez cubano",
+      "resumen": "Jesús Nogueiras Santiago, una de las grandes leyendas del ajedrez cubano, relató a Martí Noticias cómo vive hoy en Santa Clara entre apagones, escasez y carencias cotidianas.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/los-mejores-talentos-se-han-ido-reconoce-una-leyenda-del-ajedrez-cubano/482450.html",
+      "destacada": false,
+      "tema": "mejores",
+      "fecha": "Wed, 21 Oct 2026 17:13:56 -0400",
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -378,59 +508,46 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Wed, 21 Oct 2026 17:00:30 -0400",
-      "id": 29
+      "id": 39
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Jueza en el caso de Anna Bensi será la misma en proceso contra líderes masones en Cuba",
-      "resumen": "La designación de Zamira Marrero Morgado como jueza del proceso contra cuatro líderes de la masonería en Cuba ha desatado denuncias de falta de imparcialidad y de un montaje político impulsado por la Seguridad del Estado, según señaló uno de los procesados a Martí Noticias.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Serie Nacional: Avispas se posan otra vez en el trono oriental",
+      "resumen": "Las Avispas de Santiago de Cuba aprovecharon hoy la derrota de los Alazanes de Granma para alcanzarlos otra vez en la cima de la Zona Oriental, en la continuación de la 65.ª Serie Nacional de Béisbol. The post Serie Nacional: Avispas se posan otra vez en el trono oriental first appeared on Cubadebat",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/jueza-en-el-caso-de-anna-bensi-ser%c3%a1-la-misma-en-proceso-contra-l%c3%adderes-masones-en-cuba/482462.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/21/serie-nacional-avispas-se-posan-otra-vez-en-el-trono-oriental/",
       "destacada": false,
-      "tema": "jueza",
-      "fecha": "Wed, 21 Oct 2026 16:49:48 -0400",
-      "id": 30
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Reinaldo Escobar: “El dólar llegará a mil pesos este año”",
-      "resumen": "Amado Gil y José Luis Ramos, en Tertulia con Reinaldo Escobar y Omar López Montenegro, comentan sobre la Sherritt, su alianza con la estadounidense Gillon Capital y el permiso para importar combustible. Cuba sigue envejeciendo y el Euro sube a 912 pesos.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/reinaldo-escobar-el-d%c3%b3lar-llegar%c3%a1-a-mil-pesos-este-a%c3%b1o/482469.html",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Wed, 21 Oct 2026 16:34:37 -0400",
-      "id": 31
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las Noticias Como Son",
-      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481438.html",
-      "destacada": false,
-      "tema": "noticias",
-      "fecha": "Wed, 21 Oct 2026 16:05:30 -0400",
-      "id": 32
+      "tema": "serie",
+      "fecha": "Wed, 21 Oct 2026 22:48:27 +0000",
+      "id": 40
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Una cubana entre los primeros detenidos tras operación de ICE contra fraude con 'food stamps'",
-      "resumen": "Una cubana figura entre los primeros detenidos por ICE en un operativo nacional contra inmigrantes acusados de obtener de forma fraudulenta beneficios del programa SNAP.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Presentan nuevas normas para el desarrollo local y la autonomía municipal en Cuba",
+      "resumen": "Cuba cuenta desde hoy con un nuevo marco para la gestión estratégica del desarrollo territorial: el Decreto 174/2026, publicado en la Gaceta Oficial No. 87 junto a tres resoluciones complementarias, deroga el Decreto 33/2021 y apuesta por fortalecer la autonomía municipal, simplificar procesos y pro",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/una-cubana-entre-los-primeros-detenidos-tras-operaci%c3%b3n-de-ice-contra-fraude-con-food-stamps/482464.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/21/presentan-nuevas-normas-para-el-desarrollo-local-y-la-autonomia-municipal-en-cuba/",
       "destacada": false,
-      "tema": "cubana",
-      "fecha": "Wed, 21 Oct 2026 15:52:32 -0400",
-      "id": 33
+      "tema": "presentan",
+      "fecha": "Wed, 21 Oct 2026 22:20:58 +0000",
+      "id": 41
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Isabel Monal, a sus 95 años, protagoniza una nueva emisión del podcast “Es la IDEA” (+ Video)",
+      "resumen": "La filósofa y profesora emérita de la Universidad de La Habana Isabel Monal, quien celebra su 95 cumpleaños, es la invitada del podcast “Es la IDEA”, para dialogar sobre cultura, filosofía y pensamiento. En este capítulo se conversa sobre su papel en la cultura en los inicios de la Revolución, sobre",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/21/isabel-monal-a-sus-95-anos-protagoniza-una-nueva-emision-del-podcast-es-la-idea/",
+      "destacada": false,
+      "tema": "isabel",
+      "fecha": "Wed, 21 Oct 2026 21:32:37 +0000",
+      "id": 42
     },
     {
       "categoria": "politica",
@@ -443,7 +560,7 @@
       "destacada": false,
       "tema": "minrex",
       "fecha": "Wed, 21 Oct 2026 20:34:05 +0000",
-      "id": 34
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -456,46 +573,7 @@
       "destacada": false,
       "tema": "china",
       "fecha": "Wed, 21 Oct 2026 19:22:55 +0000",
-      "id": 35
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Septiembre de 2026 (casi) sigue el camino de agosto",
-      "resumen": "Septiembre de 2026 no quedó en el primer lugar histórico en cuanto a temperaturas récord, pero “subió al podio”, al ocupar el segundo puesto, detrás de su homónimo de 2023. En el caso de Europa occidental, sí hubo un empate entre ambos meses. Sin embargo, no llegó a ese puesto mundial porque sí, sin",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/21/septiembre-de-2026-casi-sigue-el-camino-de-agosto/",
-      "destacada": false,
-      "tema": "septiembre",
-      "fecha": "Wed, 21 Oct 2026 17:49:22 +0000",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Esta tarde Cubadebate en Mesa Redonda: Podcast Es la IDEA, con Isabel Monal: Cultura, Filosofía y Pensamiento",
-      "resumen": "Hoy cumple 95 años la destacada filósofa y pedagoga cubana Isabel Monal, una de nuestras más reconocidas marxistas y profesora emérita de la Universidad de La Habana. Sobre su papel en la cultura cubana en los inicios de la Revolución, la filosofía, el marxismo, los desafíos de la Cuba actual conver",
-      "imagen_url": "",
-      "enlace_original": "http://mesaredonda.cubadebate.cu/noticias/2026/10/21/esta-tarde-cubadebate-en-mesa-redonda-podcast-es-la-idea-con-isabel-monal-cultura-filosofia-y-pensamiento/",
-      "destacada": false,
-      "tema": "tarde",
-      "fecha": "Wed, 21 Oct 2026 17:46:45 +0000",
-      "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Vea en “Con filo” un homenaje a Isabel Monal y a la cultura cubana",
-      "resumen": "Con motivo del Día de la Cultura Cubana, el programa Con filo dedicó su edición a la pensadora Isabel Monal, quien cumple 95 años este 21 de octubre. A través de su pensamiento, el espacio rindió tributo a los hombres y mujeres que han defendido y nutrido, con su vida y con su obra, la idea que se h",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/21/vea-en-con-filo-un-homenaje-a-isabel-monal-y-a-la-cultura-cubana/",
-      "destacada": false,
-      "tema": "homenaje",
-      "fecha": "Wed, 21 Oct 2026 17:10:41 +0000",
-      "id": 38
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -508,7 +586,7 @@
       "destacada": false,
       "tema": "saldrá",
       "fecha": "Wed, 21 Oct 26 23:01:00 +0200",
-      "id": 39
+      "id": 45
     },
     {
       "categoria": "transporte",
@@ -521,7 +599,7 @@
       "destacada": false,
       "tema": "américa",
       "fecha": "Wed, 21 Oct 26 09:00:00 +0200",
-      "id": 40
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -534,7 +612,7 @@
       "destacada": false,
       "tema": "acoge",
       "fecha": "Wed, 21 Oct 26 08:47:00 +0200",
-      "id": 41
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -547,7 +625,7 @@
       "destacada": false,
       "tema": "vivienda",
       "fecha": "Wed, 21 Oct 26 07:56:00 +0200",
-      "id": 42
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -560,7 +638,7 @@
       "destacada": false,
       "tema": "apuesta",
       "fecha": "Wed, 21 Oct 26 07:53:00 +0200",
-      "id": 43
+      "id": 49
     },
     {
       "categoria": "politica",
@@ -573,7 +651,7 @@
       "destacada": false,
       "tema": "fortalece",
       "fecha": "Wed, 21 Oct 26 07:50:00 +0200",
-      "id": 44
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -586,7 +664,7 @@
       "destacada": false,
       "tema": "memoria",
       "fecha": "Wed, 21 Oct 26 07:48:00 +0200",
-      "id": 45
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -599,7 +677,20 @@
       "destacada": false,
       "tema": "cubanas",
       "fecha": "Wed, 21 Oct 26 07:42:00 +0200",
-      "id": 46
+      "id": 52
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "La cultura como campo de batalla: el eje de la guerra multidimensional contra Cuba",
+      "resumen": "Por Raúl Capote* - Original en Granma.",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125628-la-cultura-como-campo-de-batalla-el-eje-de-la-guerra-multidimensional-contra-cuba.jpg?t=1792558812",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261021/125628/125628-la-cultura-como-campo-de-batalla-el-eje-de-la-guerra-multidimensional-contra-cuba",
+      "destacada": false,
+      "tema": "cultura",
+      "fecha": "Wed, 21 Oct 26 07:00:00 +0200",
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -612,33 +703,7 @@
       "destacada": false,
       "tema": "entera",
       "fecha": "Wed, 21 Oct 26 06:50:00 +0200",
-      "id": 47
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Los intentos de apoderarse de Cuba: una historia que no comenzó con Fidel Castro",
-      "resumen": "Desde 1805, Washington ha buscado someter la isla a sus intereses....",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125626-los-intentos-de-apoderarse-de-cuba-una-historia-que-no-comenzo-con-fidel-castro.jpg?t=1792558176",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261021/125626/125626-los-intentos-de-apoderarse-de-cuba-una-historia-que-no-comenzo-con-fidel-castro",
-      "destacada": false,
-      "tema": "intentos",
-      "fecha": "Wed, 21 Oct 26 06:48:00 +0200",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://actualidad.rt.com",
-      "fuente_tipo": "internacional",
-      "titulo": "\"Condiciones inusuales\": Cuba advierte lo que se vivirá en la ONU en la votación contra el bloqueo",
-      "resumen": "En conferencia de prensa, el canciller cubano lamentó los \"métodos de presión\" empleados por Washington.",
-      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad8f82259bf5b0dff5cfbff.jpg",
-      "enlace_original": "https://actualidad-rt.com/actualidad/633592-condiciones-inusuales-cuba-advertir-vivir-onu?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "destacada": false,
-      "tema": "condiciones",
-      "fecha": "Wed, 21 Oct 2026 19:44:44 +0000",
-      "id": 49
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -651,7 +716,7 @@
       "destacada": false,
       "tema": "salón",
       "fecha": "Wed, 21 Oct 2026 15:39:17 +0000",
-      "id": 50
+      "id": 55
     },
     {
       "categoria": "salud",
@@ -664,7 +729,7 @@
       "destacada": false,
       "tema": "refuerza",
       "fecha": "Wed, 21 Oct 2026 14:43:19 +0000",
-      "id": 51
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -677,7 +742,7 @@
       "destacada": false,
       "tema": "museo",
       "fecha": "Wed, 21 Oct 2026 14:57:24 +0000",
-      "id": 52
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -690,7 +755,7 @@
       "destacada": false,
       "tema": "universidades",
       "fecha": "Wed, 21 Oct 2026 14:30:17 +0000",
-      "id": 53
+      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -703,7 +768,7 @@
       "destacada": false,
       "tema": "ediciones",
       "fecha": "Wed, 21 Oct 2026 12:13:00 +0000",
-      "id": 54
+      "id": 59
     },
     {
       "categoria": "sociedad",
@@ -716,7 +781,7 @@
       "destacada": false,
       "tema": "quieto",
       "fecha": "Wed, 21 Oct 2026 12:00:00 +0000",
-      "id": 55
+      "id": 60
     },
     {
       "categoria": "economia",
@@ -729,7 +794,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 21 Oct 2026 10:30:00 GMT",
-      "id": 56
+      "id": 61
     }
   ]
 }
