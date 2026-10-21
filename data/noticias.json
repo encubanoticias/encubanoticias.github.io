@@ -1,6 +1,6 @@
 {
   "fecha": "2026-10-21",
-  "hora": "04:21",
+  "hora": "06:21",
   "total": 60,
   "noticias": [
     {
@@ -31,19 +31,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cantautor Adrián Berazain dedica concierto en Panamá a cultura cubana",
-      "resumen": "Ciudad de Panamá, 20 oct (Prensa Latina) El joven cantautor Adrián Berazaín ofreció hoy en Panamá un concierto dedicado al Día de la Cultura Cubana, jornada que evoca la primera interpretación pública del Himno Nacional, el 20 de octubre de 1868. The post Cantautor Adrián Berazain dedica concierto e",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/20/cantautor-adrian-berazain-dedica-concierto-en-panama-a-cultura-cubana/",
-      "destacada": true,
-      "tema": "cantautor",
-      "fecha": "Wed, 21 Oct 2026 03:29:26 +0000",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
       "titulo": "Llegan a España una media de 34.000 cubanos al año, la mayoría con nacionalidad y derecho a voto",
@@ -53,7 +40,7 @@
       "destacada": true,
       "tema": "llegan",
       "fecha": "Tue, 20 Oct 2026 19:33:22 +0000",
-      "id": 4
+      "id": 3
     },
     {
       "categoria": "transporte",
@@ -66,7 +53,7 @@
       "destacada": true,
       "tema": "sherritt",
       "fecha": "Tue, 20 Oct 2026 15:15:40 +0000",
-      "id": 5
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -76,10 +63,10 @@
       "resumen": "El oficialismo acusa a EE UU de no actuar contra los “terroristas” y de infiltrar a 'autodeportados' en Cuba14:55",
       "imagen_url": "https://static.14ymedio.com/clip/28380fb3-29b0-4426-8210-08eca730d51d_source-aspect-ratio_default_0.png",
       "enlace_original": "https://www.14ymedio.com/cuba/cuartel-varadero-repartir-armas-poblacion_1_1132179.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "tomar",
       "fecha": "Tue, 20 Oct 2026 13:04:23 +0000",
-      "id": 6
+      "id": 5
     },
     {
       "categoria": "politica",
@@ -92,7 +79,7 @@
       "destacada": false,
       "tema": "aspavientos",
       "fecha": "Tue, 20 Oct 2026 09:37:51 +0000",
-      "id": 7
+      "id": 6
     },
     {
       "categoria": "energia",
@@ -105,7 +92,7 @@
       "destacada": false,
       "tema": "china",
       "fecha": "Tue, 20 Oct 2026 14:17:22 +0000",
-      "id": 8
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -118,7 +105,7 @@
       "destacada": false,
       "tema": "corresponsal",
       "fecha": "Wed, 21 Oct 2026 04:15:15 +0200",
-      "id": 9
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -131,7 +118,7 @@
       "destacada": false,
       "tema": "cuesta",
       "fecha": "Wed, 21 Oct 2026 03:45:31 +0200",
-      "id": 10
+      "id": 9
     },
     {
       "categoria": "economia",
@@ -144,7 +131,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 21 Oct 2026 03:05:32 +0200",
-      "id": 11
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -157,7 +144,7 @@
       "destacada": false,
       "tema": "diplomacia",
       "fecha": "Wed, 21 Oct 2026 02:37:51 +0200",
-      "id": 12
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -170,7 +157,7 @@
       "destacada": false,
       "tema": "jueza",
       "fecha": "Wed, 21 Oct 2026 02:10:25 +0200",
-      "id": 13
+      "id": 12
     },
     {
       "categoria": "transporte",
@@ -183,7 +170,7 @@
       "destacada": false,
       "tema": "autoriza",
       "fecha": "Wed, 21 Oct 2026 01:15:43 +0200",
-      "id": 14
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -196,7 +183,7 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Tue, 20 Oct 2026 17:08:53 +0000",
-      "id": 15
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -209,7 +196,7 @@
       "destacada": false,
       "tema": "himno",
       "fecha": "Tue, 20 Oct 2026 21:28:43 +0000",
-      "id": 16
+      "id": 15
     },
     {
       "categoria": "transporte",
@@ -222,7 +209,7 @@
       "destacada": false,
       "tema": "nuevas",
       "fecha": "Tue, 20 Oct 2026 16:50:03 +0000",
-      "id": 17
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -235,6 +222,19 @@
       "destacada": false,
       "tema": "cultura",
       "fecha": "Tue, 20 Oct 2026 16:40:05 +0000",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Mike Waltz: 'No hay un bloqueo alrededor de Cuba; el régimen ama jugar a la víctima en la ONU'",
+      "resumen": "#EEUU al #RégimenCubano: \"La #ONU era como su criatura. Bueno, ya no lo es, al menos no bajo esta Administración\".",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792561701_69474.html",
+      "destacada": false,
+      "tema": "waltz",
+      "fecha": "Wed, 21 Oct 2026 07:48:21 +0200",
       "id": 18
     },
     {
@@ -356,19 +356,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Fiscalía pide hasta 13 años de cárcel para los cubanos manifestantes de Morón, incluidos menores",
-      "resumen": "El #RégimenCubano pide hasta 13 años de cárcel para los manifestantes de Morón. En la acusación figuran 19 personas, con cargo de sedición, menores de edad incluidos.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1792497915_69460.html",
-      "destacada": false,
-      "tema": "fiscalía",
-      "fecha": "Tue, 20 Oct 2026 14:05:15 +0200",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
       "titulo": "Cuba al Día",
@@ -378,7 +365,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Wed, 21 Oct 2026 00:00:30 -0400",
-      "id": 29
+      "id": 28
     },
     {
       "categoria": "energia",
@@ -391,7 +378,7 @@
       "destacada": false,
       "tema": "denuncian",
       "fecha": "Tue, 20 Oct 2026 20:09:39 -0400",
-      "id": 30
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -404,7 +391,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Tue, 20 Oct 2026 20:00:00 -0400",
-      "id": 31
+      "id": 30
     },
     {
       "categoria": "economia",
@@ -417,7 +404,7 @@
       "destacada": false,
       "tema": "quinta",
       "fecha": "Tue, 20 Oct 2026 19:14:40 -0400",
-      "id": 32
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -430,7 +417,7 @@
       "destacada": false,
       "tema": "denuncian",
       "fecha": "Tue, 20 Oct 2026 18:48:06 -0400",
-      "id": 33
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -443,7 +430,7 @@
       "destacada": false,
       "tema": "waltz",
       "fecha": "Tue, 20 Oct 2026 17:24:19 -0400",
-      "id": 34
+      "id": 33
     },
     {
       "categoria": "politica",
@@ -456,7 +443,7 @@
       "destacada": false,
       "tema": "quieren",
       "fecha": "Wed, 21 Oct 2026 04:01:18 +0000",
-      "id": 35
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -469,7 +456,7 @@
       "destacada": false,
       "tema": "granma",
       "fecha": "Wed, 21 Oct 2026 01:21:56 +0000",
-      "id": 36
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -482,7 +469,7 @@
       "destacada": false,
       "tema": "redonda",
       "fecha": "Tue, 20 Oct 2026 18:08:46 +0000",
-      "id": 37
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -495,7 +482,7 @@
       "destacada": false,
       "tema": "sguardi",
       "fecha": "Tue, 20 Oct 2026 17:24:30 +0000",
-      "id": 38
+      "id": 37
     },
     {
       "categoria": "politica",
@@ -508,7 +495,7 @@
       "destacada": false,
       "tema": "sheinbaum",
       "fecha": "Tue, 20 Oct 2026 16:46:55 +0000",
-      "id": 39
+      "id": 38
     },
     {
       "categoria": "salud",
@@ -521,137 +508,137 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Tue, 20 Oct 2026 16:10:36 +0000",
+      "id": 39
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Ley de la Vivienda incorpora nuevos actores al programa para la recuperación habitacional en Cuba",
+      "resumen": "Cubavisión Internacional.- El próximo 21 de octubre entrará en vigor la nueva Ley de la Vivienda en ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125633-ley-de-la-vivienda-incorpora-nuevos-actores-al-programa-para-la-recuperacion-habitacional-en-cuba.jpg?t=1792562238",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261021/125633/125633-ley-de-la-vivienda-incorpora-nuevos-actores-al-programa-para-la-recuperacion-habitacional-en-cuba",
+      "destacada": false,
+      "tema": "vivienda",
+      "fecha": "Wed, 21 Oct 26 07:56:00 +0200",
       "id": 40
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "El mundo votará por Cuba",
-      "resumen": "Cristóbal León Campos - Cubainformación.- Al acercarse la presentación y votación del proyecto de Re...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125621-el-mundo-votara-por-cuba.jpg?t=1792529923",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261020/125621/125621-el-mundo-votara-por-cuba",
+      "titulo": "Cuba apuesta por combustibles nacionales para cubrir sus necesidades",
+      "resumen": "Canal Caribe - Foto: Rincón Cubano.- Las Transformaciones Económicas y Sociales recientemente implem...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125632-cuba-apuesta-por-combustibles-nacionales-para-cubrir-sus-necesidades.jpg?t=1792562182",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261021/125632/125632-cuba-apuesta-por-combustibles-nacionales-para-cubrir-sus-necesidades",
       "destacada": false,
-      "tema": "mundo",
-      "fecha": "Tue, 20 Oct 26 22:58:00 +0200",
+      "tema": "apuesta",
+      "fecha": "Wed, 21 Oct 26 07:53:00 +0200",
       "id": 41
     },
     {
-      "categoria": "sociedad",
+      "categoria": "politica",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "Barcelona convoca una concentración el 27 de octubre contra el bloqueo de EE. UU. a Cuba",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125620-barcelona-convoca-una-concentracion-el-27-de-octubre-contra-el-bloqueo-de-ee-uu-a-cuba.jpg?t=1792510478",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261020/125620/125620-barcelona-convoca-una-concentracion-el-27-de-octubre-contra-el-bloqueo-de-ee-uu-a-cuba",
+      "titulo": "Cuba fortalece autonomía municipal dentro de sus transformaciones",
+      "resumen": "Señal en vivo Sur - Foto: Cubadebate.- Gobierno cubano impulsa la descentralización económica median...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125631-cuba-fortalece-autonomia-municipal-dentro-de-sus-transformaciones.jpg?t=1792561904",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261021/125631/125631-cuba-fortalece-autonomia-municipal-dentro-de-sus-transformaciones",
       "destacada": false,
-      "tema": "barcelona",
-      "fecha": "Tue, 20 Oct 26 17:33:00 +0200",
+      "tema": "fortalece",
+      "fecha": "Wed, 21 Oct 26 07:50:00 +0200",
       "id": 42
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "Otra farsa de EE. UU. contra Raúl Castro. Solidaridad con Cuba por parte de asociaciones italianas",
-      "resumen": "Argentino Tellini - Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125619-otra-farsa-de-ee-uu-contra-raul-castro-solidaridad-con-cuba-por-parte-de-asociaciones-italianas.jpg?t=1792510216",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261020/125619/125619-otra-farsa-de-ee-uu-contra-raul-castro-solidaridad-con-cuba-por-parte-de-asociaciones-italianas",
+      "titulo": "Memoria viva, gala de Timbalaye en Italia en Día de la Cultura Cubana",
+      "resumen": "Roma, 20 oct (Prensa Latina) Con el título Memoria Viva, la promotora Timbalaye de Italia ofre...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125630-memoria-viva-gala-de-timbalaye-en-italia-en-dia-de-la-cultura-cubana.jpg?t=1792561774",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261021/125630/125630-memoria-viva-gala-de-timbalaye-en-italia-en-dia-de-la-cultura-cubana",
       "destacada": false,
-      "tema": "farsa",
-      "fecha": "Tue, 20 Oct 26 17:30:00 +0200",
+      "tema": "memoria",
+      "fecha": "Wed, 21 Oct 26 07:48:00 +0200",
       "id": 43
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "Barcelona acoge ciclo de cultura, memoria y solidaridad, con tres mujeres de la cultura cubana: 1, 6, 9 y 10 de noviembre",
-      "resumen": "Defensem Cuba / Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125618-barcelona-acoge-ciclo-de-cultura-memoria-y-solidaridad-con-tres-mujeres-de-la-cultura-cubana-1-6-9-y-10-de-noviembre.jpg?t=1792485421",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261020/125618/125618-barcelona-acoge-ciclo-de-cultura-memoria-y-solidaridad-con-tres-mujeres-de-la-cultura-cubana-1-6-9-y-10-de-noviembre",
+      "titulo": "Cubanas y cubanos residentes en Panamá convocan caravana contra bloqueo de EEUU: domingo 25 de octubre",
+      "resumen": "Ciudad de Panamá, 20 oct (Prensa Latina) La Asociación Martiana de Cubanos Residentes en Panamá (Amc...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125629-cubanas-y-cubanos-residentes-en-panama-convocan-caravana-contra-bloqueo-de-eeuu-domingo-25-de-octubre.jpg?t=1792561626",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261021/125629/125629-cubanas-y-cubanos-residentes-en-panama-convocan-caravana-contra-bloqueo-de-eeuu-domingo-25-de-octubre",
       "destacada": false,
-      "tema": "barcelona",
-      "fecha": "Tue, 20 Oct 26 10:32:00 +0200",
+      "tema": "cubanas",
+      "fecha": "Wed, 21 Oct 26 07:42:00 +0200",
       "id": 44
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba’s UN Ambassador Calls Out Rubio",
-      "resumen": "Belly of The Beast Cuba",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125615-cuba-s-un-ambassador-calls-out-rubio.jpg?t=1792474711",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261020/125615/125615-cuba-s-un-ambassador-calls-out-rubio",
+      "titulo": "La cultura como campo de batalla: el eje de la guerra multidimensional contra Cuba",
+      "resumen": "Por Raúl Capote* - Original en Granma.",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125628-la-cultura-como-campo-de-batalla-el-eje-de-la-guerra-multidimensional-contra-cuba.jpg?t=1792558812",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261021/125628/125628-la-cultura-como-campo-de-batalla-el-eje-de-la-guerra-multidimensional-contra-cuba",
       "destacada": false,
-      "tema": "ambassador",
-      "fecha": "Tue, 20 Oct 26 07:38:00 +0200",
+      "tema": "cultura",
+      "fecha": "Wed, 21 Oct 26 07:00:00 +0200",
       "id": 45
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "Gracias Ferrer (y otros)",
-      "resumen": "La Florecita Cubana",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125614-gracias-ferrer-y-otros.jpg?t=1792474621",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261020/125614/125614-gracias-ferrer-y-otros",
+      "titulo": "La Isla entera celebró el Día de la Cultura Cubana",
+      "resumen": "Foto: Yanelkis Llera Céspedes / Granma.",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125627-la-isla-entera-celebro-el-dia-de-la-cultura-cubana.jpg?t=1792558393",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261021/125627/125627-la-isla-entera-celebro-el-dia-de-la-cultura-cubana",
       "destacada": false,
-      "tema": "gracias",
-      "fecha": "Tue, 20 Oct 26 07:37:00 +0200",
+      "tema": "entera",
+      "fecha": "Wed, 21 Oct 26 06:50:00 +0200",
       "id": 46
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "Intervista a Stefania Ascari (M5S) e Marco Papacci (Italia-Cuba) di ritorno dall'Avana",
-      "resumen": "Italia X Cuba",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125613-intervista-a-stefania-ascari-m5s-e-marco-papacci-italia-cuba-di-ritorno-dall-avana.jpg?t=1792474588",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261020/125613/125613-intervista-a-stefania-ascari-m5s-e-marco-papacci-italia-cuba-di-ritorno-dall-avana",
+      "titulo": "Los intentos de apoderarse de Cuba: una historia que no comenzó con Fidel Castro",
+      "resumen": "Desde 1805, Washington ha buscado someter la isla a sus intereses....",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125626-los-intentos-de-apoderarse-de-cuba-una-historia-que-no-comenzo-con-fidel-castro.jpg?t=1792558176",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261021/125626/125626-los-intentos-de-apoderarse-de-cuba-una-historia-que-no-comenzo-con-fidel-castro",
       "destacada": false,
-      "tema": "intervista",
-      "fecha": "Tue, 20 Oct 26 07:36:00 +0200",
+      "tema": "intentos",
+      "fecha": "Wed, 21 Oct 26 06:48:00 +0200",
       "id": 47
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "Grupo minúsculo que no tiene ideología, convicciones ni fidelidad",
-      "resumen": "El Titan de #Cuba",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125611-grupo-minusculo-que-no-tiene-ideologia-convicciones-ni-fidelidad.jpg?t=1792474511",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261020/125611/125611-grupo-minusculo-que-no-tiene-ideologia-convicciones-ni-fidelidad",
+      "titulo": "Raúl Castro, la última jugada de los republicanos",
+      "resumen": "La arremetida contra La Habana no evidencia fortaleza imperial sino la vulnerabilidad de un imperio ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125625-raul-castro-la-ultima-jugada-de-los-republicanos.jpg?t=1792558074",
+      "enlace_original": "https://www.cubainformacion.tv/opinion/20261021/125625/125625-raul-castro-la-ultima-jugada-de-los-republicanos",
       "destacada": false,
-      "tema": "grupo",
-      "fecha": "Tue, 20 Oct 26 07:35:00 +0200",
+      "tema": "castro",
+      "fecha": "Wed, 21 Oct 26 06:46:00 +0200",
       "id": 48
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "El circo se mudó a Nueva York",
-      "resumen": "CUBA No Es Miami",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125610-el-circo-se-mudo-a-nueva-york.jpg?t=1792474477",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261020/125610/125610-el-circo-se-mudo-a-nueva-york",
+      "titulo": "Rusia, México e Irán rechazan como jugada política electoral la orden contra Raúl Castro",
+      "resumen": "Canal Caribe.- El Ministerio de Relaciones Exteriores de Rusia emitió este martes una declaración en...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125624-rusia-mexico-e-iran-rechazan-como-jugada-politica-electoral-la-orden-contra-raul-castro.jpg?t=1792557986",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261021/125624/125624-rusia-mexico-e-iran-rechazan-como-jugada-politica-electoral-la-orden-contra-raul-castro",
       "destacada": false,
-      "tema": "circo",
-      "fecha": "Tue, 20 Oct 26 07:34:00 +0200",
+      "tema": "rusia",
+      "fecha": "Wed, 21 Oct 26 06:40:00 +0200",
       "id": 49
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "El otro vínculo comunista que Otaola ha mantenido escondido sale a la luz",
-      "resumen": "Guerrero Cubano con su verdad al desnudo",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125609-el-otro-vinculo-comunista-que-otaola-ha-mantenido-escondido-sale-a-la-luz.jpg?t=1792474438",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261020/125609/125609-el-otro-vinculo-comunista-que-otaola-ha-mantenido-escondido-sale-a-la-luz",
-      "destacada": false,
-      "tema": "vínculo",
-      "fecha": "Tue, 20 Oct 26 07:33:00 +0200",
-      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -664,7 +651,7 @@
       "destacada": false,
       "tema": "sinónimo",
       "fecha": "Tue, 20 Oct 2026 15:13:03 +0000",
-      "id": 51
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -677,6 +664,19 @@
       "destacada": false,
       "tema": "conjuro",
       "fecha": "Tue, 20 Oct 2026 11:30:00 +0000",
+      "id": 51
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "El mundo votará por Cuba",
+      "resumen": "En la próxima votación sobre la Resolución cubana contra el bloqueo, el Gobierno estadounidense sabe muy bien que la gran mayoría de los países una vez más apoyarán la demanda de la isla, porque Cuba no es una amenaza; el bloqueo sí lo es La entrada El mundo votará por Cuba se publicó primero en Tri",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/el-mundo-votara-por-cuba/",
+      "destacada": false,
+      "tema": "mundo",
+      "fecha": "Tue, 20 Oct 2026 23:51:09 +0000",
       "id": 52
     },
     {
