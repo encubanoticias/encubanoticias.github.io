@@ -1,6 +1,6 @@
 {
   "fecha": "2026-10-21",
-  "hora": "07:33",
+  "hora": "09:22",
   "total": 59,
   "noticias": [
     {
@@ -31,6 +31,19 @@
     },
     {
       "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Desde Vietnam, frases de aliento a Cuba contra el bloqueo de EEUU",
+      "resumen": "Hanoi, 21 oct (Prensa Latina) Vietnamitas de pueblo alientan hoy a los cubanos en su lucha contra el bloqueo, una política aplicada por Estados Unidos por más de 60 años y que volverá a examen la semana próxima en la ONU. The post Desde Vietnam, frases de aliento a Cuba contra el bloqueo de EEUU fir",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/21/frases-desde-vietnam-alientan-a-cuba-contra-el-bloqueo-de-eeuu/",
+      "destacada": true,
+      "tema": "vietnam",
+      "fecha": "Wed, 21 Oct 2026 08:37:13 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
       "titulo": "Llegan a España una media de 34.000 cubanos al año, la mayoría con nacionalidad y derecho a voto",
@@ -40,7 +53,7 @@
       "destacada": true,
       "tema": "llegan",
       "fecha": "Tue, 20 Oct 2026 19:33:22 +0000",
-      "id": 3
+      "id": 4
     },
     {
       "categoria": "transporte",
@@ -53,7 +66,7 @@
       "destacada": true,
       "tema": "sherritt",
       "fecha": "Tue, 20 Oct 2026 15:15:40 +0000",
-      "id": 4
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -63,10 +76,10 @@
       "resumen": "El oficialismo acusa a EE UU de no actuar contra los “terroristas” y de infiltrar a 'autodeportados' en Cuba14:55",
       "imagen_url": "https://static.14ymedio.com/clip/28380fb3-29b0-4426-8210-08eca730d51d_source-aspect-ratio_default_0.png",
       "enlace_original": "https://www.14ymedio.com/cuba/cuartel-varadero-repartir-armas-poblacion_1_1132179.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "tomar",
       "fecha": "Tue, 20 Oct 2026 13:04:23 +0000",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "politica",
@@ -79,7 +92,7 @@
       "destacada": false,
       "tema": "aspavientos",
       "fecha": "Tue, 20 Oct 2026 09:37:51 +0000",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "energia",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "china",
       "fecha": "Tue, 20 Oct 2026 14:17:22 +0000",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -105,7 +118,7 @@
       "destacada": false,
       "tema": "corresponsal",
       "fecha": "Wed, 21 Oct 2026 04:15:15 +0200",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -118,7 +131,7 @@
       "destacada": false,
       "tema": "cuesta",
       "fecha": "Wed, 21 Oct 2026 03:45:31 +0200",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "economia",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 21 Oct 2026 03:05:32 +0200",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -144,7 +157,7 @@
       "destacada": false,
       "tema": "diplomacia",
       "fecha": "Wed, 21 Oct 2026 02:37:51 +0200",
-      "id": 11
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -157,7 +170,7 @@
       "destacada": false,
       "tema": "jueza",
       "fecha": "Wed, 21 Oct 2026 02:10:25 +0200",
-      "id": 12
+      "id": 13
     },
     {
       "categoria": "transporte",
@@ -170,7 +183,7 @@
       "destacada": false,
       "tema": "autoriza",
       "fecha": "Wed, 21 Oct 2026 01:15:43 +0200",
-      "id": 13
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -183,7 +196,7 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Tue, 20 Oct 2026 17:08:53 +0000",
-      "id": 14
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -196,7 +209,7 @@
       "destacada": false,
       "tema": "himno",
       "fecha": "Tue, 20 Oct 2026 21:28:43 +0000",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "transporte",
@@ -209,7 +222,7 @@
       "destacada": false,
       "tema": "nuevas",
       "fecha": "Tue, 20 Oct 2026 16:50:03 +0000",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -222,7 +235,7 @@
       "destacada": false,
       "tema": "cultura",
       "fecha": "Tue, 20 Oct 2026 16:40:05 +0000",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -235,7 +248,7 @@
       "destacada": false,
       "tema": "waltz",
       "fecha": "Wed, 21 Oct 2026 07:48:21 +0200",
-      "id": 18
+      "id": 19
     },
     {
       "categoria": "salud",
@@ -248,7 +261,7 @@
       "destacada": false,
       "tema": "presa",
       "fecha": "Wed, 21 Oct 2026 01:11:33 +0200",
-      "id": 19
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -261,7 +274,7 @@
       "destacada": false,
       "tema": "fiebre",
       "fecha": "Tue, 20 Oct 2026 23:20:50 +0200",
-      "id": 20
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -274,7 +287,7 @@
       "destacada": false,
       "tema": "violaciones",
       "fecha": "Tue, 20 Oct 2026 22:51:03 +0200",
-      "id": 21
+      "id": 22
     },
     {
       "categoria": "economia",
@@ -287,7 +300,7 @@
       "destacada": false,
       "tema": "funcionario",
       "fecha": "Tue, 20 Oct 2026 21:04:37 +0200",
-      "id": 22
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -300,7 +313,7 @@
       "destacada": false,
       "tema": "orden",
       "fecha": "Tue, 20 Oct 2026 20:49:21 +0200",
-      "id": 23
+      "id": 24
     },
     {
       "categoria": "transporte",
@@ -313,7 +326,7 @@
       "destacada": false,
       "tema": "autoriza",
       "fecha": "Tue, 20 Oct 2026 19:17:59 +0200",
-      "id": 24
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -326,7 +339,7 @@
       "destacada": false,
       "tema": "embarazos",
       "fecha": "Tue, 20 Oct 2026 18:01:10 +0200",
-      "id": 25
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -339,19 +352,6 @@
       "destacada": false,
       "tema": "queda",
       "fecha": "Tue, 20 Oct 2026 15:36:26 +0200",
-      "id": 26
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Solo un cuarto de los cubanos solicitantes obtuvo la residencia por la Ley de Ajuste en EEUU en tres meses",
-      "resumen": "Menos #Cubanos obtienen la residencia en #EEUU por la #LeyDeAjusteCubano. #USCIS resuelve menos expedientes aunque las solicitudes disminuyen.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792500459_69464.html",
-      "destacada": false,
-      "tema": "cuarto",
-      "fecha": "Tue, 20 Oct 2026 14:47:39 +0200",
       "id": 27
     },
     {
