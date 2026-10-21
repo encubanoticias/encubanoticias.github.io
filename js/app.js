@@ -416,38 +416,72 @@ function renderPerspectivas() {
   const cont = document.getElementById('perspectivas');
   if (!cont) return;
 
-  const porTema = {};
+  // 1. Agrupar por temas usando palabras clave
+  const temasClave = {
+    "apagones": ["apagón", "apagon", "déficit", "eléctrica", "electricidad", "generación", "une", "sen"],
+    "tipo_cambio": ["dólar", "dolar", "euro", "divisa", "tasa", "cambio", "mlc", "cup", "el toque", "bcc"],
+    "economia": ["economía", "economia", "precio", "inflación", "salario", "pensiones", "mipyme", "pyme", "comercio"],
+    "salud": ["salud", "medicamento", "hospital", "médico", "medico", "farmacia", "dengue", "virus"],
+    "transporte": ["transporte", "ómnibus", "omnibus", "ferrocarril", "tren", "vuelo", "aerolínea", "gasolina", "combustible"],
+    "politica": ["gobierno", "díaz-canel", "diaz-canel", "partido", "ministro", "presidente", "raul castro", "bloqueo", "embargo", "eeuu", "estados unidos"],
+    "sociedad": ["protesta", "derechos", "libertad", "censura", "periodista", "presos", "religión", "iglesia"]
+  };
+
+  const grupos = {};
+
   noticias.forEach(n => {
-    const t = (n.tema || '').toLowerCase();
-    if (!t || t.length < 4) return;
-    if (!porTema[t]) porTema[t] = [];
-    porTema[t].push(n);
+    const texto = (n.titulo + " " + n.resumen).toLowerCase();
+    let temaAsignado = null;
+
+    // Buscar a qué tema corresponde
+    for (const [tema, palabras] of Object.entries(temasClave)) {
+      if (palabras.some(p => texto.includes(p))) {
+        temaAsignado = tema;
+        break;
+      }
+    }
+
+    if (temaAsignado) {
+      if (!grupos[temaAsignado]) grupos[temaAsignado] = [];
+      grupos[temaAsignado].push(n);
+    }
   });
 
-  const bloques = Object.entries(porTema)
-    .filter(([_, arr]) => {
-      const tipos = new Set(arr.map(n => n.fuente_tipo));
-      return tipos.size >= 2;
-    })
-    .slice(0, maxTemasPerspectivas);
+  // 2. Filtrar grupos: deben tener al menos 2 tipos distintos
+  const bloquesValidos = [];
+  for (const [tema, arr] of Object.entries(grupos)) {
+    const tipos = new Set(arr.map(n => n.fuente_tipo));
+    if (tipos.size >= 2) {
+      bloquesValidos.push({ tema, noticias: arr });
+    }
+  }
+
+  // 3. Ordenar por cantidad de noticias (los más comentados primero) y tomar 3
+  const bloquesFinales = bloquesValidos
+    .sort((a, b) => b.noticias.length - a.noticias.length)
+    .slice(0, 3);
 
   cont.innerHTML = '';
-  if (!bloques.length) {
+  if (!bloquesFinales.length) {
     cont.innerHTML = '<p style="color:var(--texto-suave)">Aún no hay temas con múltiples perspectivas.</p>';
     return;
   }
 
-  bloques.forEach(([tema, arr]) => {
+  // 4. Renderizar
+  bloquesFinales.forEach(bloque => {
+    // De cada tipo, tomar solo la primera noticia para no repetir medio
     const porTipo = {};
-    arr.forEach(n => {
+    bloque.noticias.forEach(n => {
       if (!porTipo[n.fuente_tipo]) porTipo[n.fuente_tipo] = n;
     });
     const versiones = Object.values(porTipo).slice(0, 3);
 
+    const nombreTema = bloque.tema.replace('_', ' ').toUpperCase();
+
     const div = document.createElement('div');
     div.className = 'tema-bloque';
     div.innerHTML = `
-      <div class="tema-titulo">${tema}</div>
+      <div class="tema-titulo">${nombreTema}</div>
       <div class="tema-versiones">
         ${versiones.map(n => `
           <div class="version" data-tipo="${n.fuente_tipo}">
