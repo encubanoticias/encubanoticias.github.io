@@ -1,19 +1,19 @@
 {
   "fecha": "2026-10-21",
-  "hora": "16:21",
-  "total": 64,
+  "hora": "18:19",
+  "total": 63,
   "noticias": [
     {
-      "categoria": "sociedad",
+      "categoria": "economia",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Hart, medio siglo de una voluntad cultural",
-      "resumen": "A propósito del venidero aniversario 50 del Ministerio de Cultura, y el cierre de la Jornada por la Cultura Cubana, ofrecemos algunas ideas sobre el destacado intelectual",
+      "titulo": "La cultura como campo de batalla: el eje de la guerra multidimensional contra Cuba",
+      "resumen": "En 1993, cuando Cuba atravesaba el momento más oscuro del periodo especial, con una economía en colapso y el enemigo apostando a la caída inminente de la Revolución, Fidel Castro pronunció una frase que muchos interpretaron como una consigna, «La cultura es lo primero que hay que salvar», dijo ante ",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-20/hart-medio-siglo-de-una-voluntad-cultural-20-10-2026-18-10-08",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-20/la-cultura-como-campo-de-batalla-el-eje-de-la-guerra-multidimensional-contra-cuba-20-10-2026-19-10-41",
       "destacada": true,
-      "tema": "medio",
-      "fecha": "Tue, 20 Oct 2026 18:10:08 -0400",
+      "tema": "cultura",
+      "fecha": "Tue, 20 Oct 2026 19:10:41 -0400",
       "id": 1
     },
     {
@@ -44,55 +44,42 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba amplía su plataforma continental en el Golfo de México tras reconocimiento de la ONU",
-      "resumen": "La Comisión de Límites de la ONU aprobó sin objeciones todos los trabajos y metodologías presentados por el equipo cubano",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Mujeres de Perú alientan rechazo a bloqueo anticubano en la ONU",
+      "resumen": "Lima, 21 oct (Prensa Latina) Dos agrupaciones de mujeres peruanas expresaron hoy en sendos comunicados la seguridad de que, como cada año desde 1992, la mayoría de la comunidad internacional volverá a pronunciarse la próxima semana contra el bloqueo a Cuba. The post Mujeres de Perú alientan rechazo ",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/ciencia/2026-10-21/cuba-amplia-su-plataforma-continental-en-el-golfo-de-mexico-tras-reconocimiento-de-la-onu-21-10-2026-09-10-21",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/21/mujeres-de-peru-alientan-rechazo-a-bloqueo-anticubano-en-la-onu/",
       "destacada": true,
-      "tema": "amplía",
-      "fecha": "Wed, 21 Oct 2026 09:10:21 -0400",
+      "tema": "mujeres",
+      "fecha": "Wed, 21 Oct 2026 17:48:13 +0000",
       "id": 4
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba abre consulta pública de anteproyecto de Ley de Educación",
-      "resumen": "La Habana, 21 oct (Prensa Latina) El anteproyecto de Ley de Educación, cuyo texto está hoy a disposición del público en Cuba, propone reconocer y certificar conocimientos adquiridos fuera de las aulas, además de definir la enseñanza obligatoria desde preescolar hasta noveno grado. The post Cuba abre",
+      "titulo": "Conferencistas abordan la IA y el desarrollo local en Cuba",
+      "resumen": "Cienfuegos, Cuba, 21 oct (Prensa Latina) Los académicos Michael Feitó y Maydel Gómez disertaron hoy aquí sobre los fundamentos, implicaciones y oportunidades de la inteligencia artificial (IA) para impulsar el desarrollo local, durante la IV Convención Científica Internacional de la Universidad de C",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/21/cuba-abre-consulta-publica-de-anteproyecto-de-ley-de-educacion/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/21/conferencistas-abordan-la-ia-y-el-desarrollo-local-en-cuba/",
       "destacada": true,
-      "tema": "consulta",
-      "fecha": "Wed, 21 Oct 2026 16:20:14 +0000",
+      "tema": "conferencistas",
+      "fecha": "Wed, 21 Oct 2026 17:40:43 +0000",
       "id": 5
     },
     {
       "categoria": "energia",
-      "fuente": "https://www.prensa-latina.cu",
+      "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Ratifica Díaz-Canel papel de la cultura en Cuba",
-      "resumen": "La Habana, 21 oct (Prensa Latina) El presidente cubano, Miguel Díaz-Canel, afirmó hoy que no habrá “apagón cultural” en la isla pese al recrudecimiento del bloqueo y las dificultades energéticas, al destacar el papel de la cultura como defensa de la identidad nacional. The post Ratifica Díaz-Canel p",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/21/ratifica-diaz-canel-papel-de-la-cultura-en-cuba/",
+      "titulo": "La Habana, una ciudad de búsquedas desesperadas",
+      "resumen": "De Nuevo Vedado a Carlos III, un recorrido entre apagones, edificios ruinosos y personas que persiguen una conexión o algo que llevarse a la boca",
+      "imagen_url": "https://static.14ymedio.com/clip/05773779-7a30-4182-886a-d7d1e45c25b4_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/habana-ciudad-busquedas-desesperadas_1_1132227.html",
       "destacada": false,
-      "tema": "ratifica",
-      "fecha": "Wed, 21 Oct 2026 16:16:19 +0000",
+      "tema": "habana",
+      "fecha": "Wed, 21 Oct 2026 17:40:37 +0000",
       "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Presentan en Suiza filme cubano Neurótica Anónima",
-      "resumen": "Berna, 21 oct (Prensa Latina) Dentro del marco de las jornadas por la Cultura Nacional, se presentó en la 15 edición del Festival de Cine Latinoamericano y Caribeño de esta capital la película Neurótica Anónima, indicaron hoy fuentes diplomáticas. The post Presentan en Suiza filme cubano Neurótica A",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/21/presentan-en-suiza-filme-cubano-neurotica-anonima/",
-      "destacada": false,
-      "tema": "presentan",
-      "fecha": "Wed, 21 Oct 2026 15:51:45 +0000",
-      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -105,32 +92,45 @@
       "destacada": false,
       "tema": "cerro",
       "fecha": "Wed, 21 Oct 2026 14:31:55 +0000",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Una nueva Ley de Educación para Cuba, pero con el mismo control ideológico",
+      "resumen": "El anteproyecto abre espacio al sector privado en los servicios educativos y el financiamiento, pero mantiene las escuelas en manos del Estado",
+      "imagen_url": "https://static.14ymedio.com/clip/ff740be5-37f1-4674-a085-79b4cedd99e9_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/nueva-ley-educacion-cuba-control_1_1132223.html",
+      "destacada": false,
+      "tema": "nueva",
+      "fecha": "Wed, 21 Oct 2026 16:07:12 +0000",
       "id": 8
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba es ya el país más envejecido de América, con el 26,7% de la población mayor de 60 años",
-      "resumen": "Encabeza la lista el municipio habanera de Plaza de la Revolución, con un 38,2%, seguido de la provincia de Villa Clara, con un 30,2%, mientras Guantánamo es la región más joven, con un 23,3 % que ha llegado a la tercera edad",
-      "imagen_url": "https://static.14ymedio.com/clip/4fc31acf-dac5-49a3-896c-096086585ae9_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/cuba-pais-envejecido-america-26_1_1132213.html",
+      "titulo": "Un cubano se enfrenta a la pena de muerte en Florida por los asesinatos de su mujer y sus dos hijastras",
+      "resumen": "Alberto Sierra confesó haber matado en 2012 a su esposa Gladys Machado, de 29 años, y las dos hijas pequeñas que ella tenía, Julia Padrino, de 6 años, y Daniela Padrino, de 3",
+      "imagen_url": "https://static.14ymedio.com/clip/0d1e4ba5-6285-449b-9646-392b882cccdf_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/internacional/cubano-enfrenta-pena-muerte-florida_1_1132220.html",
       "destacada": false,
-      "tema": "envejecido",
-      "fecha": "Wed, 21 Oct 2026 13:51:52 +0000",
+      "tema": "cubano",
+      "fecha": "Wed, 21 Oct 2026 15:54:19 +0000",
       "id": 9
     },
     {
-      "categoria": "politica",
+      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "China, Rusia e Irán cierran filas con Raúl Castro, \"líder revolucionario de gran prestigio\"",
-      "resumen": "Teherán califica de \"criminal\" la orden de arresto contra el ex presidente por el derribo de las avionetas de Hermanos al Rescate; Moscú señala una \"venganza del lobby anticubano de Miami\" y Pekín ofrece su \"apoyo firme\"",
-      "imagen_url": "https://static.14ymedio.com/clip/f3ad616e-b3b3-41cd-b0ce-abcd55290431_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/china-rusia-e-iran-cierran_1_1132202.html",
+      "titulo": "Alayn Daniel Blanco, la segunda joven promesa del béisbol cubano que se fuga en el mes",
+      "resumen": "Se estima que de los más de 1.000 atletas que han dejado la Isla en la última década, al menos 700 son peloteros",
+      "imagen_url": "https://static.14ymedio.com/clip/3d8de09a-413c-4ce4-9ed7-0a11017e7cd6_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/deportes/alayn-daniel-blanco-segunda-joven_1_1132217.html",
       "destacada": false,
-      "tema": "china",
-      "fecha": "Wed, 21 Oct 2026 10:39:23 +0000",
+      "tema": "alayn",
+      "fecha": "Wed, 21 Oct 2026 16:03:33 +0000",
       "id": 10
     },
     {
@@ -148,94 +148,120 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubana muestra lo que gastó en una compra de alimentos que «no es la gran cosa»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e43231-s27061-nid343404-cubana-muestra-gasto-compra-alimentos-gran-cosa",
+      "titulo": "Cuba es ya el país más envejecido de América, con el 26,7% de la población mayor de 60 años",
+      "resumen": "Encabeza la lista el municipio habanera de Plaza de la Revolución, con un 38,2%, seguido de la provincia de Villa Clara, con un 30,2%, mientras Guantánamo es la región más joven, con un 23,3 % que ha llegado a la tercera edad",
+      "imagen_url": "https://static.14ymedio.com/clip/4fc31acf-dac5-49a3-896c-096086585ae9_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/cuba-pais-envejecido-america-26_1_1132213.html",
       "destacada": false,
-      "tema": "cubana",
-      "fecha": "Wed, 21 Oct 2026 16:51:41 +0200",
+      "tema": "envejecido",
+      "fecha": "Wed, 21 Oct 2026 13:51:52 +0000",
       "id": 12
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "categoria": "politica",
+      "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Pelotero cubano Javier Carabeo revela cómo la Seguridad frustró su fuga en México y lo castigó al volver a Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e129488-s27066-nid343320-pelotero-cubano-javier-carabeo-revela-seguridad",
+      "titulo": "China, Rusia e Irán cierran filas con Raúl Castro, \"líder revolucionario de gran prestigio\"",
+      "resumen": "Teherán califica de \"criminal\" la orden de arresto contra el ex presidente por el derribo de las avionetas de Hermanos al Rescate; Moscú señala una \"venganza del lobby anticubano de Miami\" y Pekín ofrece su \"apoyo firme\"",
+      "imagen_url": "https://static.14ymedio.com/clip/f3ad616e-b3b3-41cd-b0ce-abcd55290431_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/china-rusia-e-iran-cierran_1_1132202.html",
       "destacada": false,
-      "tema": "pelotero",
-      "fecha": "Wed, 21 Oct 2026 16:50:07 +0200",
+      "tema": "china",
+      "fecha": "Wed, 21 Oct 2026 10:39:23 +0000",
       "id": 13
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "EE.UU. denuncia el acto de repudio del régimen cubano en la ONU contra opositores: «Una turba de \"diplomáticos\"»",
+      "titulo": "Suciedad en la caldera reduce el aporte de Felton al sistema eléctrico cubano",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e209399-s27061-nid343420-eeuu-denuncia-acto-repudio-regimen-cubano-onu-contra",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e199894-s27061-nid343440-suciedad-caldera-reduce-aporte-felton-al-sistema",
       "destacada": false,
-      "tema": "denuncia",
-      "fecha": "Wed, 21 Oct 2026 16:49:43 +0200",
+      "tema": "suciedad",
+      "fecha": "Wed, 21 Oct 2026 19:23:13 +0200",
       "id": 14
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "ICE lanza operativo nacional contra inmigrantes acusados de fraude con cupones de alimentos: una cubana entre los primeros arrestados",
+      "titulo": "Joven madre y emprendedora cubana en Miami sigue pidiendo ayuda para evitar su deportación",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e135253-s27061-nid343416-ice-lanza-operativo-nacional-contra-inmigrantes",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e74-s27061-nid343437-joven-madre-emprendedora-cubana-miami-sigue-pidiendo",
       "destacada": false,
-      "tema": "lanza",
-      "fecha": "Wed, 21 Oct 2026 16:45:42 +0200",
+      "tema": "joven",
+      "fecha": "Wed, 21 Oct 2026 18:59:31 +0200",
       "id": 15
     },
     {
-      "categoria": "economia",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Gastó 90 dólares en un restaurante de Cuba y mostró todo lo que comieron: ¿Caro o barato?",
+      "titulo": "Cubanos deportados a África podrían recibir ayuda para trasladarse a Latinoamérica, según uno de los afectados",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u65722-e65722-s27065-nid343419-gasto-90-dolares-restaurante-cuba-mostro-todo",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e208933-s27061-nid343435-cubanos-deportados-africa-podrian-recibir-ayuda",
       "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Wed, 21 Oct 2026 16:34:29 +0200",
+      "tema": "cubanos",
+      "fecha": "Wed, 21 Oct 2026 18:59:27 +0200",
       "id": 16
     },
     {
-      "categoria": "economia",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El dólar y el euro siguen ganando terreno frente al peso cubano: Nuevos aumentos en la venta informal",
+      "titulo": "Cubano deportado a África pide que se castigue a Trump en las elecciones: «Se lo tiene merecido»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e129488-s27061-nid343417-dolar-euro-siguen-ganando-terreno-frente-al-peso",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e129488-s27061-nid343426-cubano-deportado-africa-pide-castigue-trump",
       "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Wed, 21 Oct 2026 16:32:35 +0200",
+      "tema": "cubano",
+      "fecha": "Wed, 21 Oct 2026 18:44:35 +0200",
       "id": 17
     },
     {
-      "categoria": "energia",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba se acerca a los 2,000 MW de apagones este miércoles con varias termoeléctricas fuera de servicio por averías",
+      "titulo": "EE.UU.: Votar por la resolución cubana es apoyar la trata de personas y los lujos de la élite",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e207888-s27061-nid343410-cuba-acerca-2000-mw-apagones-este-miercoles-varias",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e199894-s27061-nid343434-eeuu-votar-resolucion-cubana-apoyar-trata-personas",
       "destacada": false,
-      "tema": "apagones",
-      "fecha": "Wed, 21 Oct 2026 16:23:45 +0200",
+      "tema": "votar",
+      "fecha": "Wed, 21 Oct 2026 18:42:22 +0200",
       "id": 18
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Brasil autoriza a cuatro médicas cubanas a ejercer en Mais Médicos mediante permisos especiales",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e208933-s27061-nid343432-brasil-autoriza-cuatro-medicas-cubanas-ejercer-mais",
+      "destacada": false,
+      "tema": "brasil",
+      "fecha": "Wed, 21 Oct 2026 18:29:06 +0200",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Ana Hurtado rescata consigna de Kcho para defender a Raúl Castro: «Lío con Raúl, lío conmigo»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e207888-s27061-nid343418-ana-hurtado-rescata-consigna-kcho-defender-raul",
+      "destacada": false,
+      "tema": "hurtado",
+      "fecha": "Wed, 21 Oct 2026 18:04:11 +0200",
+      "id": 20
     },
     {
       "categoria": "politica",
@@ -248,59 +274,46 @@
       "destacada": false,
       "tema": "criterio",
       "fecha": "Wed, 21 Oct 2026 15:41:53 +0000",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.radiocubana.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Una jornada para celebrar la esencia de la nación cubana",
-      "resumen": "La Habana.- Música, cine, danza, teatro y literatura convergen hoy en todo el territorio para celebrar el Día de la Cultura Cubana, fecha que conmemora la entonación por vez primera del himno de Bayamo el 20 de octubre de 1868. Instituciones culturales, centros educacionales, bibliotecas, museos, ga",
-      "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/una-jornada-para-celebrar-la-esencia-de-la-nacion-cubana/",
-      "destacada": false,
-      "tema": "jornada",
-      "fecha": "Tue, 20 Oct 2026 17:08:53 +0000",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Un Himno, 100 voces y toda una isla",
-      "resumen": "Este 20 de octubre se celebró en Camagüey el Día de la Cultura Cubana con 100 voces entonando el Himno de Bayamo",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261020/un-himno-100-voces-y-toda-una-isla/",
-      "destacada": false,
-      "tema": "himno",
-      "fecha": "Tue, 20 Oct 2026 21:28:43 +0000",
       "id": 21
     },
     {
-      "categoria": "transporte",
+      "categoria": "politica",
       "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Nuevas maniobras anticubanas de Estados Unidos",
-      "resumen": "Como si fueran los dueños de un mundo esclavo, Washington, trata de desviar la atención y crear estados negativos de opinión sobre Cuba, de cara a la votación en unos días en Naciones Unidas de la Resolución “Necesidad de poner fin al bloqueo económico, comercial y financiero impuesto por los Estado",
+      "titulo": "Denuncia Canciller cubano ofensiva de EE.UU. para modificar votación en ONU",
+      "resumen": "La votación de la resolución contra el bloqueo tendrá lugar este 28 de octubre en condiciones inusuales, marcadas por el brutal endurecimiento del cerco económico y una campaña de presiones, intimidaciones y chantajes del gobierno estadounidense",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261020/nuevas-maniobras-anticubanas-de-estados-unidos/",
+      "enlace_original": "https://www.trabajadores.cu/20261021/denuncia-canciller-cubano-ofensiva-de-ee-uu-para-modificar-votacion-en-onu/",
       "destacada": false,
-      "tema": "nuevas",
-      "fecha": "Tue, 20 Oct 2026 16:50:03 +0000",
+      "tema": "denuncia",
+      "fecha": "Wed, 21 Oct 2026 18:19:00 +0000",
       "id": 22
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "oficial",
-      "titulo": "La cultura, fundamento de la nación",
-      "resumen": "Festejar el Día de la Cultura Cubana es celebrar a Cuba: su memoria, su diversidad y su capacidad de proyectarse hacia el futuro",
+      "titulo": "Ciencia e innovación a favor del actuar de los tribunales",
+      "resumen": "La XVI Jornada de Ciencia e Innovación tendrá lugar este viernes en el teatro Heredia de la ciudad de Santiago de Cuba",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261020/la-cultura-fundamento-de-la-nacion/",
+      "enlace_original": "https://www.trabajadores.cu/20261021/ciencia-e-innovacion-a-favor-del-actuar-de-los-tribunales/",
       "destacada": false,
-      "tema": "cultura",
-      "fecha": "Tue, 20 Oct 2026 16:40:05 +0000",
+      "tema": "ciencia",
+      "fecha": "Wed, 21 Oct 2026 17:33:10 +0000",
       "id": 23
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El euro rompe la barrera de los 900 pesos en el mercado informal cubano",
+      "resumen": "El #euro rompe la barrera de los 900 pesos en el mercado informal #cubano y el resto de las principales divisas extranjeras también registran subidas, mientras la inflación domina la economía de la Isla.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1792602932_69487.html",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Wed, 21 Oct 2026 19:15:32 +0200",
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -313,7 +326,7 @@
       "destacada": false,
       "tema": "mercados",
       "fecha": "Wed, 21 Oct 2026 18:00:48 +0200",
-      "id": 24
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -326,7 +339,7 @@
       "destacada": false,
       "tema": "amenazado",
       "fecha": "Wed, 21 Oct 2026 17:44:15 +0200",
-      "id": 25
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -339,7 +352,7 @@
       "destacada": false,
       "tema": "barriles",
       "fecha": "Wed, 21 Oct 2026 16:55:46 +0200",
-      "id": 26
+      "id": 27
     },
     {
       "categoria": "salud",
@@ -352,7 +365,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Wed, 21 Oct 2026 15:11:04 +0200",
-      "id": 27
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -365,7 +378,7 @@
       "destacada": false,
       "tema": "ferrer",
       "fecha": "Wed, 21 Oct 2026 13:21:34 +0200",
-      "id": 28
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -378,7 +391,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Wed, 21 Oct 2026 12:31:01 +0200",
-      "id": 29
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -391,7 +404,7 @@
       "destacada": false,
       "tema": "envejece",
       "fecha": "Wed, 21 Oct 2026 11:44:35 +0200",
-      "id": 30
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -404,58 +417,45 @@
       "destacada": false,
       "tema": "cremitas",
       "fecha": "Wed, 21 Oct 2026 11:30:00 +0200",
-      "id": 31
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Al menos uno de cada cuatro cubanos tiene problemas de acceso al agua",
-      "resumen": "La crisis del agua potable en Cuba se agrava al ritmo de los apagones, con alrededor de 2,5 millones de personas afectadas por un suministro irregular o inexistente, según reconoció el vicepresidente del Grupo Empresarial de Agua y Saneamiento del INRH.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/al-menos-uno-de-cada-cuatro-cubanos-tiene-problemas-de-acceso-al-agua/482447.html",
-      "destacada": false,
-      "tema": "menos",
-      "fecha": "Wed, 21 Oct 2026 12:05:02 -0400",
       "id": 32
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 12:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "titulo": "Cuba al Día",
+      "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481428.html",
+      "enlace_original": "https://www.martinoticias.com/a/481432.html",
       "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Wed, 21 Oct 2026 12:00:00 -0400",
+      "tema": "",
+      "fecha": "Wed, 21 Oct 2026 14:00:00 -0400",
       "id": 33
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Barrio adentro",
-      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
+      "titulo": "Repudio en la ONU: Opositores denuncian \"violencia de Estado\" de La Habana",
+      "resumen": "Denuncian la \"degradación diplomática\" del régimen cubano tras altercado contra activistas en las Naciones Unidas.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481426.html",
+      "enlace_original": "https://www.martinoticias.com/a/repudio-en-la-onu-opositores-denuncian-violencia-de-estado-de-la-habana/482461.html",
       "destacada": false,
-      "tema": "barrio",
-      "fecha": "Wed, 21 Oct 2026 11:30:00 -0400",
+      "tema": "repudio",
+      "fecha": "Wed, 21 Oct 2026 13:59:38 -0400",
       "id": 34
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "EEUU advierte que el apoyo a la resolución cubana en la ONU respalda la trata de personas y la corrupción",
-      "resumen": "“Votar a favor de la resolución del régimen cubano respalda la trata de personas patrocinada por el Estado, la corrupción y el estilo de vida ostentoso de la élite de la dictadura”, escribió el funcionario en la red social X.",
+      "titulo": "Envejecimiento poblacional y desprotección del Estado van de la mano en Cuba, denuncia experta",
+      "resumen": "Las personas de 60 años o más representan el 26,7% de la población cubana, según reconoce la Oficina Nacional de Estadística e Información (ONEI), una realidad que, para la socióloga Elaine Acosta, expone la falta de preparación del país y las consecuencias de años sin políticas públicas oportunas p",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/eeuu-advierte-que-el-apoyo-a-la-resoluci%c3%b3n-cubana-en-la-onu-respalda-la-trata-de-personas-y-la-corrupci%c3%b3n/482445.html",
+      "enlace_original": "https://www.martinoticias.com/a/482457.html",
       "destacada": false,
-      "tema": "advierte",
-      "fecha": "Wed, 21 Oct 2026 10:30:17 -0400",
+      "tema": "envejecimiento",
+      "fecha": "Wed, 21 Oct 2026 13:42:37 -0400",
       "id": 35
     },
     {
@@ -465,24 +465,89 @@
       "titulo": "El futuro es ya",
       "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481424.html",
+      "enlace_original": "https://www.martinoticias.com/a/el-futuro-es-ya/482446.html",
       "destacada": false,
       "tema": "futuro",
-      "fecha": "Wed, 21 Oct 2026 10:00:00 -0400",
+      "fecha": "Wed, 21 Oct 2026 13:34:10 -0400",
       "id": 36
     },
     {
-      "categoria": "energia",
+      "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La mayor central eléctrica de Cuba sufre otra falla y frustra la recuperación del sistema",
-      "resumen": "La crisis energética en Cuba volvió a agravarse este martes, cuando la termoeléctrica Antonio Guiteras, la mayor del país, salió nuevamente de servicio apenas cinco minutos después de sincronizarse con el Sistema Electroenergético Naciona...",
+      "titulo": "El jaque mate de la resistencia: Jesús Nogueiras, leyenda del ajedrez cubano, sobrevive entre la crisis y la solidaridad.",
+      "resumen": "En conversación con Martí Noticias, el Gran Maestro Jesús Nogueiras, residente en Santa Clara afirmó que afronta la crisis sistémica del país y el débil apoyo institucional.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/la-mayor-central-el%c3%a9ctrica-de-cuba-sufre-otra-falla-y-frustra-la-recuperaci%c3%b3n-del-sistema/482443.html",
+      "enlace_original": "https://www.martinoticias.com/a/el-jaque-mate-de-la-resistencia-jes%c3%bas-nogueiras-leyenda-del-ajedrez-cubano-sobrevive-entre-la-crisis-y-la-solidaridad/482459.html",
       "destacada": false,
-      "tema": "mayor",
-      "fecha": "Wed, 21 Oct 2026 09:15:25 -0400",
+      "tema": "jaque",
+      "fecha": "Wed, 21 Oct 2026 13:26:13 -0400",
       "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"Estoy dispuesto a morir por la libertad de mi pueblo\": El testimonio de un preso político cubano",
+      "resumen": "El preso político Fidel Mojena expresó que no traicionará su posición en contra del régimen cubano, tras recibir constantes presiones en prisión para claudicar y traicionar sus convicciones políticas.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/estoy-dispuesto-a-morir-por-la-libertad-de-mi-pueblo-el-testimonio-de-un-preso-pol%c3%adtico-cubano/482448.html",
+      "destacada": false,
+      "tema": "estoy",
+      "fecha": "Wed, 21 Oct 2026 13:01:53 -0400",
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Septiembre de 2026 (casi) sigue el camino de agosto",
+      "resumen": "Septiembre de 2026 no quedó en el primer lugar histórico en cuanto a temperaturas récord, pero “subió al podio”, al ocupar el segundo puesto, detrás de su homónimo de 2023. En el caso de Europa occidental, sí hubo un empate entre ambos meses. Sin embargo, no llegó a ese puesto mundial porque sí, sin",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/21/septiembre-de-2026-casi-sigue-el-camino-de-agosto/",
+      "destacada": false,
+      "tema": "septiembre",
+      "fecha": "Wed, 21 Oct 2026 17:49:22 +0000",
+      "id": 39
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Esta tarde Cubadebate en Mesa Redonda: Podcast Es la IDEA, con Isabel Monal: Cultura, Filosofía y Pensamiento",
+      "resumen": "Hoy cumple 95 años la destacada filósofa y pedagoga cubana Isabel Monal, una de nuestras más reconocidas marxistas y profesora emérita de la Universidad de La Habana. Sobre su papel en la cultura cubana en los inicios de la Revolución, la filosofía, el marxismo, los desafíos de la Cuba actual conver",
+      "imagen_url": "",
+      "enlace_original": "http://mesaredonda.cubadebate.cu/noticias/2026/10/21/esta-tarde-cubadebate-en-mesa-redonda-podcast-es-la-idea-con-isabel-monal-cultura-filosofia-y-pensamiento/",
+      "destacada": false,
+      "tema": "tarde",
+      "fecha": "Wed, 21 Oct 2026 17:46:45 +0000",
+      "id": 40
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Vea en “Con filo” un homenaje a Isabel Monal y a la cultura cubana",
+      "resumen": "Con motivo del Día de la Cultura Cubana, el programa Con filo dedicó su edición a la pensadora Isabel Monal, quien cumple 95 años este 21 de octubre. A través de su pensamiento, el espacio rindió tributo a los hombres y mujeres que han defendido y nutrido, con su vida y con su obra, la idea que se h",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/21/vea-en-con-filo-un-homenaje-a-isabel-monal-y-a-la-cultura-cubana/",
+      "destacada": false,
+      "tema": "homenaje",
+      "fecha": "Wed, 21 Oct 2026 17:10:41 +0000",
+      "id": 41
+    },
+    {
+      "categoria": "energia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Díaz-Canel a los creadores: “No va a haber apagón cultural en Cuba”",
+      "resumen": "Cuba vive un momento como aquel en el cual Fidel convocó a salvar la cultura —fuerza definida por él como escudo y espada de la nación—, así afirmó en la tarde de este martes, desde el Palacio de la Revolución, el primer secretario del Comité Central del Partido Comunista de Cuba y presidente de la ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/21/diaz-canel-a-los-creadores-no-va-a-haber-apagon-cultural-en-cuba/",
+      "destacada": false,
+      "tema": "apagones",
+      "fecha": "Wed, 21 Oct 2026 16:41:23 +0000",
+      "id": 42
     },
     {
       "categoria": "energia",
@@ -495,7 +560,7 @@
       "destacada": false,
       "tema": "apagones",
       "fecha": "Wed, 21 Oct 2026 15:26:22 +0000",
-      "id": 38
+      "id": 43
     },
     {
       "categoria": "transporte",
@@ -508,7 +573,7 @@
       "destacada": false,
       "tema": "disponible",
       "fecha": "Wed, 21 Oct 2026 14:13:19 +0000",
-      "id": 39
+      "id": 44
     },
     {
       "categoria": "politica",
@@ -521,59 +586,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Wed, 21 Oct 2026 13:26:32 +0000",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Barcelona acogerá en noviembre un ciclo de cultura y solidaridad con Cuba",
-      "resumen": "Barcelona acogerá durante el mes de noviembre un ciclo de actividades culturales y solidarias con Cuba, protagonizado por tres mujeres vinculadas a diferentes ámbitos de la cultura cubana: la artista plástica Diana Balboa, la también artista Betzy Arias López y la periodista, escritora, investigador",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/21/barcelona-acogera-en-noviembre-un-ciclo-de-cultura-y-solidaridad-con-cuba/",
-      "destacada": false,
-      "tema": "barcelona",
-      "fecha": "Wed, 21 Oct 2026 12:33:05 +0000",
-      "id": 41
-    },
-    {
-      "categoria": "energia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Unión Eléctrica prevé afectaciones de 1 963 MW en el horario pico de este miércoles",
-      "resumen": "La Unión Eléctrica pronostica afectaciones de hasta 1 963 MW durante el horario de máxima demanda. En la mañana, el déficit era de 1 292 MW. The post Unión Eléctrica prevé afectaciones de 1 963 MW en el horario pico de este miércoles first appeared on Cubadebate.",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/21/deficit-de-generacion-electrica-alcanzara-los-1-933-mw-en-el-horario-pico-de-este-miercoles/",
-      "destacada": false,
-      "tema": "unión",
-      "fecha": "Wed, 21 Oct 2026 12:04:56 +0000",
-      "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Homenaje a Fidel Castro y apoyo a Cuba desde Berlín",
-      "resumen": "Una conferencia sobre Cuba, bajo el título: “Centenario de Fidel Castro y el futuro de la Revolución Cubana” fue organizada por la Fundación Rosa Luxemburgo, en Berlín, Alemania. El legado de las ideas del Comandante en Jefe en el año de su centenario y lo que representa la causa cubana para la regi",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/21/homenaje-a-fidel-castro-y-apoyo-a-cuba-desde-berlin/",
-      "destacada": false,
-      "tema": "homenaje",
-      "fecha": "Wed, 21 Oct 2026 11:51:56 +0000",
-      "id": 43
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "La Cuba que no quieren que conozcas",
-      "resumen": "En Cuba, en los gobiernos, siempre hubo un nivel de represión, sobre todo después de los años 30, hubo a partir de Machado a Batista, pero ya eso en los años 50, es un nivel de represión tan brutal que simplemente Cuba es calificada como una de las dictaduras más violentas de la historia en América ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/21/la-cuba-que-no-quieren-que-conozcas/",
-      "destacada": false,
-      "tema": "quieren",
-      "fecha": "Wed, 21 Oct 2026 04:01:18 +0000",
-      "id": 44
+      "id": 45
     },
     {
       "categoria": "transporte",
@@ -586,7 +599,7 @@
       "destacada": false,
       "tema": "américa",
       "fecha": "Wed, 21 Oct 26 09:00:00 +0200",
-      "id": 45
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -599,7 +612,7 @@
       "destacada": false,
       "tema": "acoge",
       "fecha": "Wed, 21 Oct 26 08:47:00 +0200",
-      "id": 46
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -612,7 +625,7 @@
       "destacada": false,
       "tema": "vivienda",
       "fecha": "Wed, 21 Oct 26 07:56:00 +0200",
-      "id": 47
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -625,7 +638,7 @@
       "destacada": false,
       "tema": "apuesta",
       "fecha": "Wed, 21 Oct 26 07:53:00 +0200",
-      "id": 48
+      "id": 49
     },
     {
       "categoria": "politica",
@@ -638,7 +651,7 @@
       "destacada": false,
       "tema": "fortalece",
       "fecha": "Wed, 21 Oct 26 07:50:00 +0200",
-      "id": 49
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -651,7 +664,7 @@
       "destacada": false,
       "tema": "memoria",
       "fecha": "Wed, 21 Oct 26 07:48:00 +0200",
-      "id": 50
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -664,19 +677,6 @@
       "destacada": false,
       "tema": "cubanas",
       "fecha": "Wed, 21 Oct 26 07:42:00 +0200",
-      "id": 51
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "La cultura como campo de batalla: el eje de la guerra multidimensional contra Cuba",
-      "resumen": "Por Raúl Capote* - Original en Granma.",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125628-la-cultura-como-campo-de-batalla-el-eje-de-la-guerra-multidimensional-contra-cuba.jpg?t=1792558812",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261021/125628/125628-la-cultura-como-campo-de-batalla-el-eje-de-la-guerra-multidimensional-contra-cuba",
-      "destacada": false,
-      "tema": "cultura",
-      "fecha": "Wed, 21 Oct 26 07:00:00 +0200",
       "id": 52
     },
     {
@@ -707,6 +707,19 @@
     },
     {
       "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Raúl Castro, la última jugada de los republicanos",
+      "resumen": "La arremetida contra La Habana no evidencia fortaleza imperial sino la vulnerabilidad de un imperio ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125625-raul-castro-la-ultima-jugada-de-los-republicanos.jpg?t=1792558074",
+      "enlace_original": "https://www.cubainformacion.tv/opinion/20261021/125625/125625-raul-castro-la-ultima-jugada-de-los-republicanos",
+      "destacada": false,
+      "tema": "castro",
+      "fecha": "Wed, 21 Oct 26 06:46:00 +0200",
+      "id": 55
+    },
+    {
+      "categoria": "sociedad",
       "fuente": "https://www.guerrillero.cu/",
       "fuente_tipo": "oficial",
       "titulo": "Salón 20 de Octubre, una apuesta por las artes plásticas en Pinar del Río",
@@ -716,7 +729,7 @@
       "destacada": false,
       "tema": "salón",
       "fecha": "Wed, 21 Oct 2026 15:39:17 +0000",
-      "id": 55
+      "id": 56
     },
     {
       "categoria": "salud",
@@ -729,7 +742,7 @@
       "destacada": false,
       "tema": "refuerza",
       "fecha": "Wed, 21 Oct 2026 14:43:19 +0000",
-      "id": 56
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -742,7 +755,7 @@
       "destacada": false,
       "tema": "museo",
       "fecha": "Wed, 21 Oct 2026 14:57:24 +0000",
-      "id": 57
+      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -755,19 +768,6 @@
       "destacada": false,
       "tema": "universidades",
       "fecha": "Wed, 21 Oct 2026 14:30:17 +0000",
-      "id": 58
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Celebran aniversario 64 del Instituto de Ciencias Básicas y Preclínicas Victoria de Girón",
-      "resumen": "El aniversario 64 del ICBP Victoria de Girón, inaugurado por el Comandante en Jefe Fidel Castro Ruz el 17 de octubre de 1962, se recordó en La Habana, con un acto político cultural La entrada Celebran aniversario 64 del Instituto de Ciencias Básicas y Preclínicas Victoria de Girón se publicó primero",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/celebran-aniversario-64-del-instituto-de-ciencias-basicas-y-preclinicas-victoria-de-giron/",
-      "destacada": false,
-      "tema": "celebran",
-      "fecha": "Wed, 21 Oct 2026 14:08:42 +0000",
       "id": 59
     },
     {
@@ -821,19 +821,6 @@
       "tema": "tipo_cambio",
       "fecha": "Wed, 21 Oct 2026 10:30:00 GMT",
       "id": 63
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Diplomáticos cubanos ante la ONU confiaron a una vendedora de motos los trámites de sus envíos a Cuba",
-      "resumen": "En los correos filtrados de la Embajada cubana en Washington descubrimos que, en julio de 2025, dos diplomáticos de la misión cubana ante la ONU y su hija de 13 años firmaron poderes notariales a favor de la misma persona para enviar vehículos a la isla. Los adultos enviaban dos motos de fabricación",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/Portada_0d3584ac9c.jpeg",
-      "enlace_original": "https://eltoque.com/diplomaticos-cubanos-ante-la-onu-confiaron-a-una-vendedora-de-motos-los-tramites-de-sus-envios-a-cuba",
-      "destacada": false,
-      "tema": "diplomáticos",
-      "fecha": "Tue, 20 Oct 2026 17:00:00 GMT",
-      "id": 64
     }
   ]
 }
