@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-21",
-  "hora": "15:20",
-  "total": 57,
+  "hora": "16:21",
+  "total": 64,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -20,6 +20,19 @@
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
+      "titulo": "Desde Vietnam, frases de aliento a Cuba contra el bloqueo de EE. UU.",
+      "resumen": "Vietnamitas de pueblo alientan hoy a los cubanos en su lucha contra el bloqueo, una política aplicada por Estados Unidos por más de 60 años y que volverá a examen la semana próxima en la ONU",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-21/desde-vietnam-frases-de-aliento-a-cuba-contra-el-bloqueo-de-ee-uu-21-10-2026-11-10-27",
+      "destacada": true,
+      "tema": "vietnam",
+      "fecha": "Wed, 21 Oct 2026 11:10:27 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
       "titulo": "Fomentan la capacitación en el Proyecto «Mi Costa» en Granma",
       "resumen": "En el marco del proyecto de Resiliencia al Cambio Climático en la Zona Costera de Cuba, conocido como “Mi Costa”, se han capacitado a aproximadamente 35 000 personas, de las cuales más del 60 por ciento son mujeres",
       "imagen_url": "",
@@ -27,7 +40,7 @@
       "destacada": true,
       "tema": "fomentan",
       "fecha": "Wed, 21 Oct 2026 09:10:14 -0400",
-      "id": 2
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -40,33 +53,59 @@
       "destacada": true,
       "tema": "amplía",
       "fecha": "Wed, 21 Oct 2026 09:10:21 -0400",
-      "id": 3
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Investigador avileño saca a la luz la influencia escocesa en Martí y en la cultura cubana",
-      "resumen": "«Muy visible, pero al mismo tiempo invisible»: así calificó el investigador y escritor Félix Flores Varona la influencia escocesa en la literatura cubana, tema de casi una década de investigación presentado en la Uneac avileña",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-21/investigador-avileno-saca-a-la-luz-la-influencia-escocesa-en-marti-y-en-la-cultura-cubana-21-10-2026-08-10-32",
-      "destacada": true,
-      "tema": "investigador",
-      "fecha": "Wed, 21 Oct 2026 08:10:32 -0400",
       "id": 4
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Fortalece Cuba cooperación agrícola con México",
-      "resumen": "Holguín, Cuba, 21 oct (Prensa Latina) Cuba impulsa hoy la soberanía alimentaria con el despliegue en la provincia de Holguín de la segunda fase del proyecto Sembrando Vida, iniciativa de cooperación mexicana orientada a fortalecer las capacidades productivas locales. The post Fortalece Cuba cooperac",
+      "titulo": "Cuba abre consulta pública de anteproyecto de Ley de Educación",
+      "resumen": "La Habana, 21 oct (Prensa Latina) El anteproyecto de Ley de Educación, cuyo texto está hoy a disposición del público en Cuba, propone reconocer y certificar conocimientos adquiridos fuera de las aulas, además de definir la enseñanza obligatoria desde preescolar hasta noveno grado. The post Cuba abre",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/21/fortalece-cuba-cooperacion-agricola-con-mexico/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/21/cuba-abre-consulta-publica-de-anteproyecto-de-ley-de-educacion/",
       "destacada": true,
-      "tema": "fortalece",
-      "fecha": "Wed, 21 Oct 2026 14:35:20 +0000",
+      "tema": "consulta",
+      "fecha": "Wed, 21 Oct 2026 16:20:14 +0000",
       "id": 5
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Ratifica Díaz-Canel papel de la cultura en Cuba",
+      "resumen": "La Habana, 21 oct (Prensa Latina) El presidente cubano, Miguel Díaz-Canel, afirmó hoy que no habrá “apagón cultural” en la isla pese al recrudecimiento del bloqueo y las dificultades energéticas, al destacar el papel de la cultura como defensa de la identidad nacional. The post Ratifica Díaz-Canel p",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/21/ratifica-diaz-canel-papel-de-la-cultura-en-cuba/",
+      "destacada": false,
+      "tema": "ratifica",
+      "fecha": "Wed, 21 Oct 2026 16:16:19 +0000",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Presentan en Suiza filme cubano Neurótica Anónima",
+      "resumen": "Berna, 21 oct (Prensa Latina) Dentro del marco de las jornadas por la Cultura Nacional, se presentó en la 15 edición del Festival de Cine Latinoamericano y Caribeño de esta capital la película Neurótica Anónima, indicaron hoy fuentes diplomáticas. The post Presentan en Suiza filme cubano Neurótica A",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/21/presentan-en-suiza-filme-cubano-neurotica-anonima/",
+      "destacada": false,
+      "tema": "presentan",
+      "fecha": "Wed, 21 Oct 2026 15:51:45 +0000",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El Cerro, un barrio de La Habana incomunicado desde hace un mes",
+      "resumen": "Los vecinos caminan varios kilómetros para comunicarse y otros siguen pagando 1.000 pesos por Nauta Hogar por temor a perder el servicio",
+      "imagen_url": "https://static.14ymedio.com/clip/47237b4e-839c-4fc9-894c-d943473a2419_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/cerro-barrio-habana-incomunicado-mes_1_1132214.html",
+      "destacada": false,
+      "tema": "cerro",
+      "fecha": "Wed, 21 Oct 2026 14:31:55 +0000",
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -79,20 +118,7 @@
       "destacada": false,
       "tema": "envejecido",
       "fecha": "Wed, 21 Oct 2026 13:51:52 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Llegan a España una media de 34.000 cubanos al año, la mayoría con nacionalidad y derecho a voto",
-      "resumen": "La polémica sobre la participación a las elecciones españolas de noviembre suscita indiferencia en la cola del Consulado en La Habana",
-      "imagen_url": "https://static.14ymedio.com/clip/d6926535-6a71-4bac-9c80-07111cd15d74_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/migracion/llegan-espana-media-34000-cubanos_1_1132195.html",
-      "destacada": false,
-      "tema": "llegan",
-      "fecha": "Tue, 20 Oct 2026 19:33:22 +0000",
-      "id": 7
+      "id": 9
     },
     {
       "categoria": "politica",
@@ -105,98 +131,124 @@
       "destacada": false,
       "tema": "china",
       "fecha": "Wed, 21 Oct 2026 10:39:23 +0000",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Entra en vigor la nueva Ley de Vivienda en Cuba: Qué cambia desde hoy",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e74-s27061-nid343414-entra-vigor-nueva-ley-vivienda-cuba-cambia-hoy",
-      "destacada": false,
-      "tema": "entra",
-      "fecha": "Wed, 21 Oct 2026 16:19:10 +0200",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Muere joven cubano de 25 años en una playa de México",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e129488-s27061-nid343411-muere-joven-cubano-25-anos-playa-mexico",
-      "destacada": false,
-      "tema": "muere",
-      "fecha": "Wed, 21 Oct 2026 16:02:12 +0200",
       "id": 10
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "«Si vives aquí, ¿qué haces yendo a Cuba a buscar pareja?»: cubana en EE.UU. advierte a quienes van a la isla en busca de amor",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e65722-s27065-nid343407-vives-aqui-haces-yendo-cuba-buscar-pareja-cubana-eeuu",
+      "titulo": "Llegan a España una media de 34.000 cubanos al año, la mayoría con nacionalidad y derecho a voto",
+      "resumen": "La polémica sobre la participación a las elecciones españolas de noviembre suscita indiferencia en la cola del Consulado en La Habana",
+      "imagen_url": "https://static.14ymedio.com/clip/d6926535-6a71-4bac-9c80-07111cd15d74_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/migracion/llegan-espana-media-34000-cubanos_1_1132195.html",
       "destacada": false,
-      "tema": "vives",
-      "fecha": "Wed, 21 Oct 2026 15:46:43 +0200",
+      "tema": "llegan",
+      "fecha": "Tue, 20 Oct 2026 19:33:22 +0000",
       "id": 11
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "«Nuestros niños lloran de hambre»: El desgarrador relato de una madre cubana",
+      "titulo": "Cubana muestra lo que gastó en una compra de alimentos que «no es la gran cosa»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e74-s27061-nid343412-nuestros-ninos-lloran-hambre-desgarrador-relato-madre",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e43231-s27061-nid343404-cubana-muestra-gasto-compra-alimentos-gran-cosa",
       "destacada": false,
-      "tema": "nuestros",
-      "fecha": "Wed, 21 Oct 2026 15:34:58 +0200",
+      "tema": "cubana",
+      "fecha": "Wed, 21 Oct 2026 16:51:41 +0200",
       "id": 12
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "¿Cómo sobrevivo en Cuba? Este es el negocio de esta cubana",
+      "titulo": "Pelotero cubano Javier Carabeo revela cómo la Seguridad frustró su fuga en México y lo castigó al volver a Cuba",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u65722-e65722-s27065-nid343406-sobrevivo-cuba-este-negocio-esta-cubana",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e129488-s27066-nid343320-pelotero-cubano-javier-carabeo-revela-seguridad",
       "destacada": false,
-      "tema": "sobrevivo",
-      "fecha": "Wed, 21 Oct 2026 15:31:12 +0200",
+      "tema": "pelotero",
+      "fecha": "Wed, 21 Oct 2026 16:50:07 +0200",
       "id": 13
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Vuelve Havana Harry's: el clásico restaurante cubano de Miami reabre tras más de un año cerrado",
+      "titulo": "EE.UU. denuncia el acto de repudio del régimen cubano en la ONU contra opositores: «Una turba de \"diplomáticos\"»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e43231-s27061-nid343394-vuelve-havana-harrys-clasico-restaurante-cubano-miami",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e209399-s27061-nid343420-eeuu-denuncia-acto-repudio-regimen-cubano-onu-contra",
       "destacada": false,
-      "tema": "vuelve",
-      "fecha": "Wed, 21 Oct 2026 15:19:14 +0200",
+      "tema": "denuncia",
+      "fecha": "Wed, 21 Oct 2026 16:49:43 +0200",
       "id": 14
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "¿Vale la pena vivir en Serbia? Cubana revela cuánto se gana y cuánto cuesta alquilar una vivienda",
+      "titulo": "ICE lanza operativo nacional contra inmigrantes acusados de fraude con cupones de alimentos: una cubana entre los primeros arrestados",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u65722-e65722-s27065-nid343403-vale-pena-vivir-serbia-cubana-revela-cuanto-gana",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e135253-s27061-nid343416-ice-lanza-operativo-nacional-contra-inmigrantes",
       "destacada": false,
-      "tema": "vivir",
-      "fecha": "Wed, 21 Oct 2026 14:58:55 +0200",
+      "tema": "lanza",
+      "fecha": "Wed, 21 Oct 2026 16:45:42 +0200",
       "id": 15
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Gastó 90 dólares en un restaurante de Cuba y mostró todo lo que comieron: ¿Caro o barato?",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u65722-e65722-s27065-nid343419-gasto-90-dolares-restaurante-cuba-mostro-todo",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Wed, 21 Oct 2026 16:34:29 +0200",
+      "id": 16
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El dólar y el euro siguen ganando terreno frente al peso cubano: Nuevos aumentos en la venta informal",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e129488-s27061-nid343417-dolar-euro-siguen-ganando-terreno-frente-al-peso",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Wed, 21 Oct 2026 16:32:35 +0200",
+      "id": 17
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba se acerca a los 2,000 MW de apagones este miércoles con varias termoeléctricas fuera de servicio por averías",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e207888-s27061-nid343410-cuba-acerca-2000-mw-apagones-este-miercoles-varias",
+      "destacada": false,
+      "tema": "apagones",
+      "fecha": "Wed, 21 Oct 2026 16:23:45 +0200",
+      "id": 18
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Desde Criterio Compartido reafirma Díaz-Canel: «Nadie queda atrás»",
+      "resumen": "La voluntad de no dejar a nadie desamparado en las actuales circunstancias primó hoy, en la emisión de Criterio Compartido, conducido por el Miguel Díaz-Canel Bermúdez, Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, y la periodista Bárbara Betancourt",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/desde-criterio-compartido-reafirma-diaz-canel-nadie-queda-atras/",
+      "destacada": false,
+      "tema": "criterio",
+      "fecha": "Wed, 21 Oct 2026 15:41:53 +0000",
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -209,7 +261,72 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Tue, 20 Oct 2026 17:08:53 +0000",
-      "id": 16
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Un Himno, 100 voces y toda una isla",
+      "resumen": "Este 20 de octubre se celebró en Camagüey el Día de la Cultura Cubana con 100 voces entonando el Himno de Bayamo",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261020/un-himno-100-voces-y-toda-una-isla/",
+      "destacada": false,
+      "tema": "himno",
+      "fecha": "Tue, 20 Oct 2026 21:28:43 +0000",
+      "id": 21
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Nuevas maniobras anticubanas de Estados Unidos",
+      "resumen": "Como si fueran los dueños de un mundo esclavo, Washington, trata de desviar la atención y crear estados negativos de opinión sobre Cuba, de cara a la votación en unos días en Naciones Unidas de la Resolución “Necesidad de poner fin al bloqueo económico, comercial y financiero impuesto por los Estado",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261020/nuevas-maniobras-anticubanas-de-estados-unidos/",
+      "destacada": false,
+      "tema": "nuevas",
+      "fecha": "Tue, 20 Oct 2026 16:50:03 +0000",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La cultura, fundamento de la nación",
+      "resumen": "Festejar el Día de la Cultura Cubana es celebrar a Cuba: su memoria, su diversidad y su capacidad de proyectarse hacia el futuro",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261020/la-cultura-fundamento-de-la-nacion/",
+      "destacada": false,
+      "tema": "cultura",
+      "fecha": "Tue, 20 Oct 2026 16:40:05 +0000",
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Mercados de barrio en Cuba: ¿quién puede pagar la comida?",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1792598448_69485.html",
+      "destacada": false,
+      "tema": "mercados",
+      "fecha": "Wed, 21 Oct 2026 18:00:48 +0200",
+      "id": 24
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Amenazado con hasta diez años de cárcel el periodista independiente Adelth Bonne",
+      "resumen": "#SOSCuba: La Seguridad del Estado advierte al periodista independiente Adelth Bonne Gamboa que debe buscar alguien que le haga los mandados, porque no podrá salir de su casa. También lo amenaza con acusarlo de \"propaganda contra el orden constitucional\".",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1792597455_69484.html",
+      "destacada": false,
+      "tema": "amenazado",
+      "fecha": "Wed, 21 Oct 2026 17:44:15 +0200",
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -222,7 +339,7 @@
       "destacada": false,
       "tema": "barriles",
       "fecha": "Wed, 21 Oct 2026 16:55:46 +0200",
-      "id": 17
+      "id": 26
     },
     {
       "categoria": "salud",
@@ -235,7 +352,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Wed, 21 Oct 2026 15:11:04 +0200",
-      "id": 18
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -248,7 +365,7 @@
       "destacada": false,
       "tema": "ferrer",
       "fecha": "Wed, 21 Oct 2026 13:21:34 +0200",
-      "id": 19
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -261,7 +378,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Wed, 21 Oct 2026 12:31:01 +0200",
-      "id": 20
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -274,7 +391,7 @@
       "destacada": false,
       "tema": "envejece",
       "fecha": "Wed, 21 Oct 2026 11:44:35 +0200",
-      "id": 21
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -287,33 +404,46 @@
       "destacada": false,
       "tema": "cremitas",
       "fecha": "Wed, 21 Oct 2026 11:30:00 +0200",
-      "id": 22
+      "id": 31
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Al menos uno de cada cuatro cubanos tiene problemas de acceso al agua",
+      "resumen": "La crisis del agua potable en Cuba se agrava al ritmo de los apagones, con alrededor de 2,5 millones de personas afectadas por un suministro irregular o inexistente, según reconoció el vicepresidente del Grupo Empresarial de Agua y Saneamiento del INRH.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/al-menos-uno-de-cada-cuatro-cubanos-tiene-problemas-de-acceso-al-agua/482447.html",
+      "destacada": false,
+      "tema": "menos",
+      "fecha": "Wed, 21 Oct 2026 12:05:02 -0400",
+      "id": 32
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Mike Waltz: 'No hay un bloqueo alrededor de Cuba; el régimen ama jugar a la víctima en la ONU'",
-      "resumen": "#EEUU al #RégimenCubano: \"La #ONU era como su criatura. Bueno, ya no lo es, al menos no bajo esta Administración\".",
+      "titulo": "Noticiero de Radio Martí 12:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792561701_69474.html",
+      "enlace_original": "https://www.martinoticias.com/a/481428.html",
       "destacada": false,
-      "tema": "waltz",
-      "fecha": "Wed, 21 Oct 2026 07:48:21 +0200",
-      "id": 23
+      "tema": "noticiero",
+      "fecha": "Wed, 21 Oct 2026 12:00:00 -0400",
+      "id": 33
     },
     {
-      "categoria": "salud",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La presa política Ana Ibis Tristá, en riesgo: desatención médica, alimentación insuficiente y trabajos forzados",
-      "resumen": "En riego la salud de la #PresaPolítica cubana Ana Ibis Tristá Padilla, por la desatención médica y los trabajos forzados, que agravan sus crisis respiratorias y renales, en medio de \"condiciones de hambre extrema\".",
+      "titulo": "Barrio adentro",
+      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1792537893_69471.html",
+      "enlace_original": "https://www.martinoticias.com/a/481426.html",
       "destacada": false,
-      "tema": "presa",
-      "fecha": "Wed, 21 Oct 2026 01:11:33 +0200",
-      "id": 24
+      "tema": "barrio",
+      "fecha": "Wed, 21 Oct 2026 11:30:00 -0400",
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -326,7 +456,7 @@
       "destacada": false,
       "tema": "advierte",
       "fecha": "Wed, 21 Oct 2026 10:30:17 -0400",
-      "id": 25
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -339,7 +469,7 @@
       "destacada": false,
       "tema": "futuro",
       "fecha": "Wed, 21 Oct 2026 10:00:00 -0400",
-      "id": 26
+      "id": 36
     },
     {
       "categoria": "energia",
@@ -352,59 +482,20 @@
       "destacada": false,
       "tema": "mayor",
       "fecha": "Wed, 21 Oct 2026 09:15:25 -0400",
-      "id": 27
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Martinoticias AM",
-      "resumen": "Revista informativa con los últimos acontecimientos ocurridos en Cuba y el mundo. Con entrevistas y temas de actualidad relacionados a la política, la economía y de interés general.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481423.html",
-      "destacada": false,
-      "tema": "martinoticias",
-      "fecha": "Wed, 21 Oct 2026 08:00:00 -0400",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba Habla: \"No es para el pueblo”",
-      "resumen": "Habanero opina acerca de las recientes reformas económicas del regimen cubano.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-no-es-para-el-pueblo/481889.html",
-      "destacada": false,
-      "tema": "habla",
-      "fecha": "Wed, 21 Oct 2026 07:00:00 -0400",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481421.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Wed, 21 Oct 2026 00:00:30 -0400",
-      "id": 30
+      "id": 37
     },
     {
       "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Denuncian deterioro de salud de la presa política Ana Ibis Tristá en Las Tunas",
-      "resumen": "Tristá Padilla fue condenada a 14 años de cárcel en Cuba, por los delitos de propaganda contra el orden constitucional y otros actos contra la Seguridad del Estado. La Fiscalía le atribuyó la organización de una manifestación pacífica en la capital tunera que no llegó a celebrarse.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La conciencia lo delata: Waltz confunde “bloqueo” con “apagones” en un panel contra Cuba en ONU",
+      "resumen": "El representante de Estados Unidos ante la ONU, Michael Waltz, confundió la palabra “bloqueo” al usarla para referirse a los “apagones” en Cuba y sus efectos, un desliz difícil de pasar por alto en un gobierno que niega la existencia de esa política contra la Isla. La escena resulta reveladora porqu",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/denuncian-deterioro-de-salud-de-presa-pol%c3%adtica-ana-ibis-trist%c3%a1-en-las-tunas/482439.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/21/la-conciencia-lo-delata-waltz-confunde-bloqueo-con-apagones-en-un-panel-contra-cuba-en-onu/",
       "destacada": false,
-      "tema": "denuncian",
-      "fecha": "Tue, 20 Oct 2026 20:09:39 -0400",
-      "id": 31
+      "tema": "apagones",
+      "fecha": "Wed, 21 Oct 2026 15:26:22 +0000",
+      "id": 38
     },
     {
       "categoria": "transporte",
@@ -417,7 +508,7 @@
       "destacada": false,
       "tema": "disponible",
       "fecha": "Wed, 21 Oct 2026 14:13:19 +0000",
-      "id": 32
+      "id": 39
     },
     {
       "categoria": "politica",
@@ -430,7 +521,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Wed, 21 Oct 2026 13:26:32 +0000",
-      "id": 33
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -443,7 +534,7 @@
       "destacada": false,
       "tema": "barcelona",
       "fecha": "Wed, 21 Oct 2026 12:33:05 +0000",
-      "id": 34
+      "id": 41
     },
     {
       "categoria": "energia",
@@ -456,7 +547,7 @@
       "destacada": false,
       "tema": "unión",
       "fecha": "Wed, 21 Oct 2026 12:04:56 +0000",
-      "id": 35
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -469,7 +560,7 @@
       "destacada": false,
       "tema": "homenaje",
       "fecha": "Wed, 21 Oct 2026 11:51:56 +0000",
-      "id": 36
+      "id": 43
     },
     {
       "categoria": "politica",
@@ -482,20 +573,7 @@
       "destacada": false,
       "tema": "quieren",
       "fecha": "Wed, 21 Oct 2026 04:01:18 +0000",
-      "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Granma se corona en el oriente cubano",
-      "resumen": "La tropa granmense derrotó 8-3 a los Cachorros de Holguín con una ofensiva de apenas seis imparables, pero suficiente para marcar diferencias. Un doble de Alexquemer Sánchez, que encontró las bases pobladas, produjo tres carreras decisivas en el camino hacia la novena victoria de los orientales. The",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/20/granma-se-corona-en-el-oriente-cubano/",
-      "destacada": false,
-      "tema": "granma",
-      "fecha": "Wed, 21 Oct 2026 01:21:56 +0000",
-      "id": 38
+      "id": 44
     },
     {
       "categoria": "transporte",
@@ -508,7 +586,7 @@
       "destacada": false,
       "tema": "américa",
       "fecha": "Wed, 21 Oct 26 09:00:00 +0200",
-      "id": 39
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -521,7 +599,7 @@
       "destacada": false,
       "tema": "acoge",
       "fecha": "Wed, 21 Oct 26 08:47:00 +0200",
-      "id": 40
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -534,7 +612,7 @@
       "destacada": false,
       "tema": "vivienda",
       "fecha": "Wed, 21 Oct 26 07:56:00 +0200",
-      "id": 41
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -547,7 +625,7 @@
       "destacada": false,
       "tema": "apuesta",
       "fecha": "Wed, 21 Oct 26 07:53:00 +0200",
-      "id": 42
+      "id": 48
     },
     {
       "categoria": "politica",
@@ -560,7 +638,7 @@
       "destacada": false,
       "tema": "fortalece",
       "fecha": "Wed, 21 Oct 26 07:50:00 +0200",
-      "id": 43
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -573,7 +651,7 @@
       "destacada": false,
       "tema": "memoria",
       "fecha": "Wed, 21 Oct 26 07:48:00 +0200",
-      "id": 44
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -586,7 +664,7 @@
       "destacada": false,
       "tema": "cubanas",
       "fecha": "Wed, 21 Oct 26 07:42:00 +0200",
-      "id": 45
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -599,7 +677,7 @@
       "destacada": false,
       "tema": "cultura",
       "fecha": "Wed, 21 Oct 26 07:00:00 +0200",
-      "id": 46
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -612,7 +690,7 @@
       "destacada": false,
       "tema": "entera",
       "fecha": "Wed, 21 Oct 26 06:50:00 +0200",
-      "id": 47
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -625,20 +703,20 @@
       "destacada": false,
       "tema": "intentos",
       "fecha": "Wed, 21 Oct 26 06:48:00 +0200",
-      "id": 48
+      "id": 54
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://actualidad.rt.com",
-      "fuente_tipo": "internacional",
-      "titulo": "China manda un fuerte mensaje a EE.UU. tras la orden de arresto contra Raúl Castro",
-      "resumen": "Pekín también reiteró el llamado a Washington para que ponga \"fin inmediato\" al bloqueo económico y comercial que pesa contra la isla desde hace más de seis décadas.",
-      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad8d15ae9ff7129af6462bf.jpg",
-      "enlace_original": "https://actualidad-rt.com/actualidad/633558-china-fuerte-mensaje-eeuu-raul-castro?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "fuente": "https://www.guerrillero.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Salón 20 de Octubre, una apuesta por las artes plásticas en Pinar del Río",
+      "resumen": "El Salón 20 de Octubre, en su 34 edición, se consolida en Pinar del Río como una de las más importantes apuestas por las artes plásticas en la provincia, inaugurado hoy a propósito del día de la cultura cubana. &#160; &#160;La sede de la Asociación Hermanos Saíz (AHS) acoge la muestra en concurso, q",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/salon-20-de-octubre-una-apuesta-por-las-artes-plasticas-en-pinar-del-rio/",
       "destacada": false,
-      "tema": "china",
-      "fecha": "Wed, 21 Oct 2026 15:04:04 +0000",
-      "id": 49
+      "tema": "salón",
+      "fecha": "Wed, 21 Oct 2026 15:39:17 +0000",
+      "id": 55
     },
     {
       "categoria": "salud",
@@ -651,7 +729,7 @@
       "destacada": false,
       "tema": "refuerza",
       "fecha": "Wed, 21 Oct 2026 14:43:19 +0000",
-      "id": 50
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -664,7 +742,7 @@
       "destacada": false,
       "tema": "museo",
       "fecha": "Wed, 21 Oct 2026 14:57:24 +0000",
-      "id": 51
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -677,7 +755,7 @@
       "destacada": false,
       "tema": "universidades",
       "fecha": "Wed, 21 Oct 2026 14:30:17 +0000",
-      "id": 52
+      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -690,7 +768,20 @@
       "destacada": false,
       "tema": "celebran",
       "fecha": "Wed, 21 Oct 2026 14:08:42 +0000",
-      "id": 53
+      "id": 59
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Ediciones Vigía es poesía",
+      "resumen": "La sala principal de Ediciones Vigía (EV) volvió a acoger el proyecto Lectura de poesías, como parte de la Jornada por la Cultura Cubana.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/21/ediciones-vigia-es-poesia-matanzas/",
+      "destacada": false,
+      "tema": "ediciones",
+      "fecha": "Wed, 21 Oct 2026 12:13:00 +0000",
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -703,7 +794,7 @@
       "destacada": false,
       "tema": "quieto",
       "fecha": "Wed, 21 Oct 2026 12:00:00 +0000",
-      "id": 54
+      "id": 61
     },
     {
       "categoria": "sociedad",
@@ -716,7 +807,7 @@
       "destacada": false,
       "tema": "varios",
       "fecha": "Tue, 20 Oct 2026 21:14:13 +0000",
-      "id": 55
+      "id": 62
     },
     {
       "categoria": "economia",
@@ -729,7 +820,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 21 Oct 2026 10:30:00 GMT",
-      "id": 56
+      "id": 63
     },
     {
       "categoria": "transporte",
@@ -742,7 +833,7 @@
       "destacada": false,
       "tema": "diplomáticos",
       "fecha": "Tue, 20 Oct 2026 17:00:00 GMT",
-      "id": 57
+      "id": 64
     }
   ]
 }
