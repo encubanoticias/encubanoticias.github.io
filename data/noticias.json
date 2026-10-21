@@ -1,8 +1,47 @@
 {
   "fecha": "2026-10-21",
-  "hora": "13:30",
+  "hora": "15:20",
   "total": 57,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Hart, medio siglo de una voluntad cultural",
+      "resumen": "A propósito del venidero aniversario 50 del Ministerio de Cultura, y el cierre de la Jornada por la Cultura Cubana, ofrecemos algunas ideas sobre el destacado intelectual",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-20/hart-medio-siglo-de-una-voluntad-cultural-20-10-2026-18-10-08",
+      "destacada": true,
+      "tema": "medio",
+      "fecha": "Tue, 20 Oct 2026 18:10:08 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Fomentan la capacitación en el Proyecto «Mi Costa» en Granma",
+      "resumen": "En el marco del proyecto de Resiliencia al Cambio Climático en la Zona Costera de Cuba, conocido como “Mi Costa”, se han capacitado a aproximadamente 35 000 personas, de las cuales más del 60 por ciento son mujeres",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-21/capacitacion-pilar-fundamental-del-proyecto-mi-costa-en-granma-21-10-2026-09-10-14",
+      "destacada": true,
+      "tema": "fomentan",
+      "fecha": "Wed, 21 Oct 2026 09:10:14 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba amplía su plataforma continental en el Golfo de México tras reconocimiento de la ONU",
+      "resumen": "La Comisión de Límites de la ONU aprobó sin objeciones todos los trabajos y metodologías presentados por el equipo cubano",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/ciencia/2026-10-21/cuba-amplia-su-plataforma-continental-en-el-golfo-de-mexico-tras-reconocimiento-de-la-onu-21-10-2026-09-10-21",
+      "destacada": true,
+      "tema": "amplía",
+      "fecha": "Wed, 21 Oct 2026 09:10:21 -0400",
+      "id": 3
+    },
     {
       "categoria": "energia",
       "fuente": "https://www.granma.cu",
@@ -14,20 +53,33 @@
       "destacada": true,
       "tema": "investigador",
       "fecha": "Wed, 21 Oct 2026 08:10:32 -0400",
-      "id": 1
+      "id": 4
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Congreso del Frente Amplio califica de «genocidio silencioso» el bloqueo a Cuba y reafirma su firme solidaridad antimperialista",
-      "resumen": "El Congreso enfatizó la defensa de la autodeterminación de los pueblos, instando a la comunidad a rechazar las políticas de agresión y a respaldar la soberanía y el derecho a la vida del pueblo cubano",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Fortalece Cuba cooperación agrícola con México",
+      "resumen": "Holguín, Cuba, 21 oct (Prensa Latina) Cuba impulsa hoy la soberanía alimentaria con el despliegue en la provincia de Holguín de la segunda fase del proyecto Sembrando Vida, iniciativa de cooperación mexicana orientada a fortalecer las capacidades productivas locales. The post Fortalece Cuba cooperac",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-20/congreso-del-frente-amplio-califica-de-genocidio-silencioso-el-bloqueo-a-cuba-y-reafirma-su-firme-solidaridad-antimperialista-20-10-2026-17-10-40",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/21/fortalece-cuba-cooperacion-agricola-con-mexico/",
       "destacada": true,
-      "tema": "congreso",
-      "fecha": "Tue, 20 Oct 2026 17:10:40 -0400",
-      "id": 2
+      "tema": "fortalece",
+      "fecha": "Wed, 21 Oct 2026 14:35:20 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba es ya el país más envejecido de América, con el 26,7% de la población mayor de 60 años",
+      "resumen": "Encabeza la lista el municipio habanera de Plaza de la Revolución, con un 38,2%, seguido de la provincia de Villa Clara, con un 30,2%, mientras Guantánamo es la región más joven, con un 23,3 % que ha llegado a la tercera edad",
+      "imagen_url": "https://static.14ymedio.com/clip/4fc31acf-dac5-49a3-896c-096086585ae9_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/cuba-pais-envejecido-america-26_1_1132213.html",
+      "destacada": false,
+      "tema": "envejecido",
+      "fecha": "Wed, 21 Oct 2026 13:51:52 +0000",
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -37,23 +89,10 @@
       "resumen": "La polémica sobre la participación a las elecciones españolas de noviembre suscita indiferencia en la cola del Consulado en La Habana",
       "imagen_url": "https://static.14ymedio.com/clip/d6926535-6a71-4bac-9c80-07111cd15d74_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/migracion/llegan-espana-media-34000-cubanos_1_1132195.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "llegan",
       "fecha": "Tue, 20 Oct 2026 19:33:22 +0000",
-      "id": 3
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Sherritt se asocia con Gillon Capital para conseguir una licencia para enviar combustible a Cuba",
-      "resumen": "La alianza entre la canadiense y una empresa cercana a Trump ha permitido la firma de un acuerdo con los herederos de Moa Bay, confiscada en 1960",
-      "imagen_url": "https://static.14ymedio.com/clip/4a6e0ed6-3ca3-4b6a-b108-de256d2f9b29_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/sherritt-asocia-gillon-capital-licencia_1_1132183.html",
-      "destacada": true,
-      "tema": "sherritt",
-      "fecha": "Tue, 20 Oct 2026 15:15:40 +0000",
-      "id": 4
+      "id": 7
     },
     {
       "categoria": "politica",
@@ -63,10 +102,75 @@
       "resumen": "Teherán califica de \"criminal\" la orden de arresto contra el ex presidente por el derribo de las avionetas de Hermanos al Rescate; Moscú señala una \"venganza del lobby anticubano de Miami\" y Pekín ofrece su \"apoyo firme\"",
       "imagen_url": "https://static.14ymedio.com/clip/f3ad616e-b3b3-41cd-b0ce-abcd55290431_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/china-rusia-e-iran-cierran_1_1132202.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "china",
       "fecha": "Wed, 21 Oct 2026 10:39:23 +0000",
-      "id": 5
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Entra en vigor la nueva Ley de Vivienda en Cuba: Qué cambia desde hoy",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e74-s27061-nid343414-entra-vigor-nueva-ley-vivienda-cuba-cambia-hoy",
+      "destacada": false,
+      "tema": "entra",
+      "fecha": "Wed, 21 Oct 2026 16:19:10 +0200",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Muere joven cubano de 25 años en una playa de México",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e129488-s27061-nid343411-muere-joven-cubano-25-anos-playa-mexico",
+      "destacada": false,
+      "tema": "muere",
+      "fecha": "Wed, 21 Oct 2026 16:02:12 +0200",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Si vives aquí, ¿qué haces yendo a Cuba a buscar pareja?»: cubana en EE.UU. advierte a quienes van a la isla en busca de amor",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e65722-s27065-nid343407-vives-aqui-haces-yendo-cuba-buscar-pareja-cubana-eeuu",
+      "destacada": false,
+      "tema": "vives",
+      "fecha": "Wed, 21 Oct 2026 15:46:43 +0200",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Nuestros niños lloran de hambre»: El desgarrador relato de una madre cubana",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e74-s27061-nid343412-nuestros-ninos-lloran-hambre-desgarrador-relato-madre",
+      "destacada": false,
+      "tema": "nuestros",
+      "fecha": "Wed, 21 Oct 2026 15:34:58 +0200",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Cómo sobrevivo en Cuba? Este es el negocio de esta cubana",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u65722-e65722-s27065-nid343406-sobrevivo-cuba-este-negocio-esta-cubana",
+      "destacada": false,
+      "tema": "sobrevivo",
+      "fecha": "Wed, 21 Oct 2026 15:31:12 +0200",
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -79,7 +183,7 @@
       "destacada": false,
       "tema": "vuelve",
       "fecha": "Wed, 21 Oct 2026 15:19:14 +0200",
-      "id": 6
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -92,72 +196,7 @@
       "destacada": false,
       "tema": "vivir",
       "fecha": "Wed, 21 Oct 2026 14:58:55 +0200",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Las redes no me dan dinero»: Cubana sorprende mostrando cómo fabrica jabones caseros para vende",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u65722-e65722-s27065-nid343402-redes-me-dan-dinero-cubana-sorprende-mostrando",
-      "destacada": false,
-      "tema": "redes",
-      "fecha": "Wed, 21 Oct 2026 14:45:28 +0200",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Nos estamos volviendo un poco tontos»: Cubano estalla contra la obsesión con el reparto",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u65722-e65722-s27065-nid343401-nos-estamos-volviendo-poco-tontos-cubano-estalla",
-      "destacada": false,
-      "tema": "estamos",
-      "fecha": "Wed, 21 Oct 2026 14:37:29 +0200",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Jurado propone pena de muerte para cubano que mató a su esposa y a sus dos hijastras en Miami: ¿qué viene ahora?",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e129488-s27061-nid343393-jurado-propone-pena-cubano-mato-esposa-sus-dos",
-      "destacada": false,
-      "tema": "jurado",
-      "fecha": "Wed, 21 Oct 2026 14:28:52 +0200",
-      "id": 10
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Lo vulgar no me representa»: Laritza Camacho critica la «chusmería barata» de los diplomáticos cubanos en la ONU",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e43231-s27061-nid343395-vulgar-me-representa-laritza-camacho-critica",
-      "destacada": false,
-      "tema": "vulgar",
-      "fecha": "Wed, 21 Oct 2026 14:04:31 +0200",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Asilo después de un año en EE.UU: las excepciones que pueden salvar tu caso si eres cubano",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e129488-s27061-nid343392-asilo-despues-primer-ano-excepciones-pueden-salvar",
-      "destacada": false,
-      "tema": "asilo",
-      "fecha": "Wed, 21 Oct 2026 13:45:41 +0200",
-      "id": 12
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -170,46 +209,20 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Tue, 20 Oct 2026 17:08:53 +0000",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Un Himno, 100 voces y toda una isla",
-      "resumen": "Este 20 de octubre se celebró en Camagüey el Día de la Cultura Cubana con 100 voces entonando el Himno de Bayamo",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261020/un-himno-100-voces-y-toda-una-isla/",
-      "destacada": false,
-      "tema": "himno",
-      "fecha": "Tue, 20 Oct 2026 21:28:43 +0000",
-      "id": 14
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Nuevas maniobras anticubanas de Estados Unidos",
-      "resumen": "Como si fueran los dueños de un mundo esclavo, Washington, trata de desviar la atención y crear estados negativos de opinión sobre Cuba, de cara a la votación en unos días en Naciones Unidas de la Resolución “Necesidad de poner fin al bloqueo económico, comercial y financiero impuesto por los Estado",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261020/nuevas-maniobras-anticubanas-de-estados-unidos/",
-      "destacada": false,
-      "tema": "nuevas",
-      "fecha": "Tue, 20 Oct 2026 16:50:03 +0000",
-      "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "La cultura, fundamento de la nación",
-      "resumen": "Festejar el Día de la Cultura Cubana es celebrar a Cuba: su memoria, su diversidad y su capacidad de proyectarse hacia el futuro",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261020/la-cultura-fundamento-de-la-nacion/",
-      "destacada": false,
-      "tema": "cultura",
-      "fecha": "Tue, 20 Oct 2026 16:40:05 +0000",
       "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Los barriles exportados de EEUU a Cuba en julio pasan de millones a menos de 200.000  tras una corrección",
+      "resumen": "#EEUU corrige el volumen de combustible exportado a #Cuba en julio, pero el valor monetario se mantiene.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792594546_69483.html",
+      "destacada": false,
+      "tema": "barriles",
+      "fecha": "Wed, 21 Oct 2026 16:55:46 +0200",
+      "id": 17
     },
     {
       "categoria": "salud",
@@ -222,7 +235,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Wed, 21 Oct 2026 15:11:04 +0200",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -235,7 +248,7 @@
       "destacada": false,
       "tema": "ferrer",
       "fecha": "Wed, 21 Oct 2026 13:21:34 +0200",
-      "id": 18
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -248,7 +261,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Wed, 21 Oct 2026 12:31:01 +0200",
-      "id": 19
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -261,7 +274,7 @@
       "destacada": false,
       "tema": "envejece",
       "fecha": "Wed, 21 Oct 2026 11:44:35 +0200",
-      "id": 20
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -274,7 +287,7 @@
       "destacada": false,
       "tema": "cremitas",
       "fecha": "Wed, 21 Oct 2026 11:30:00 +0200",
-      "id": 21
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -287,7 +300,7 @@
       "destacada": false,
       "tema": "waltz",
       "fecha": "Wed, 21 Oct 2026 07:48:21 +0200",
-      "id": 22
+      "id": 23
     },
     {
       "categoria": "salud",
@@ -300,20 +313,33 @@
       "destacada": false,
       "tema": "presa",
       "fecha": "Wed, 21 Oct 2026 01:11:33 +0200",
-      "id": 23
+      "id": 24
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Fiebre del oro en Cuba: ¿podrían los buscadores terminar en prisión?",
-      "resumen": "#AnálisisCuba: ¿Hay una \"fiebre del #oro\" en #Cuba? El experto de #DiarioDeCuba Edel González Jiménez advierte sobre las consecuencias que podría tener buscar el metal fuera de la ley.",
+      "titulo": "EEUU advierte que el apoyo a la resolución cubana en la ONU respalda la trata de personas y la corrupción",
+      "resumen": "“Votar a favor de la resolución del régimen cubano respalda la trata de personas patrocinada por el Estado, la corrupción y el estilo de vida ostentoso de la élite de la dictadura”, escribió el funcionario en la red social X.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792531250_69467.html",
+      "enlace_original": "https://www.martinoticias.com/a/eeuu-advierte-que-el-apoyo-a-la-resoluci%c3%b3n-cubana-en-la-onu-respalda-la-trata-de-personas-y-la-corrupci%c3%b3n/482445.html",
       "destacada": false,
-      "tema": "fiebre",
-      "fecha": "Tue, 20 Oct 2026 23:20:50 +0200",
-      "id": 24
+      "tema": "advierte",
+      "fecha": "Wed, 21 Oct 2026 10:30:17 -0400",
+      "id": 25
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El futuro es ya",
+      "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481424.html",
+      "destacada": false,
+      "tema": "futuro",
+      "fecha": "Wed, 21 Oct 2026 10:00:00 -0400",
+      "id": 26
     },
     {
       "categoria": "energia",
@@ -326,7 +352,7 @@
       "destacada": false,
       "tema": "mayor",
       "fecha": "Wed, 21 Oct 2026 09:15:25 -0400",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "economia",
@@ -339,7 +365,7 @@
       "destacada": false,
       "tema": "martinoticias",
       "fecha": "Wed, 21 Oct 2026 08:00:00 -0400",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Wed, 21 Oct 2026 07:00:00 -0400",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -365,7 +391,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Wed, 21 Oct 2026 00:00:30 -0400",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "energia",
@@ -378,52 +404,26 @@
       "destacada": false,
       "tema": "denuncian",
       "fecha": "Tue, 20 Oct 2026 20:09:39 -0400",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 8:00 PM",
-      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481384.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Tue, 20 Oct 2026 20:00:00 -0400",
-      "id": 30
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba: Quinta tasa de inflación más alta del mundo",
-      "resumen": "El régimen dice que los precios acumulan un incremento de casi el 25% durante los primeros nueve meses del año y la inflación interanual supera el 28%. El economista Steve Hanke sostiene que la inflación real supera el 71%.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-quinta-tasa-de-inflacion-mas-alta-del-mundo/482398.html",
-      "destacada": false,
-      "tema": "quinta",
-      "fecha": "Tue, 20 Oct 2026 19:14:40 -0400",
       "id": 31
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Denuncian graves irregularidades y trabas judiciales en procesos contra el periodista Henry Constantín",
-      "resumen": "El director de La Hora de Cuba, Henry Constantín, podría enfrentar hasta dos años más de prisión por un nuevo cargo fabricado en la cárcel.",
+      "categoria": "transporte",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Disponible en Cuba para consulta el anteproyecto de Ley de Educación",
+      "resumen": "Entre las novedades del anteproyecto Ley de Educación sobresale el reconocimiento y la certificación de saberes adquiridos mediante diferentes vías, incluso fuera de los procesos formales de enseñanza. The post Disponible en Cuba para consulta el anteproyecto de Ley de Educación first appeared on Cu",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/denuncian-graves-irregularidades-y-trabas-judiciales-en-procesos-contra-el-periodista-henry-constant%c3%adn/482390.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/21/disponible-para-consulta-el-anteproyecto-de-ley-de-educacion-en-cuba/",
       "destacada": false,
-      "tema": "denuncian",
-      "fecha": "Tue, 20 Oct 2026 18:48:06 -0400",
+      "tema": "disponible",
+      "fecha": "Wed, 21 Oct 2026 14:13:19 +0000",
       "id": 32
     },
     {
       "categoria": "politica",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Díaz-Canel en Criterio Compartido: Sensibilidad y soluciones sin trabas para las familias vulnerables",
+      "titulo": "Díaz-Canel en Criterio Compartido: Sensibilidad y soluciones sin trabas para las familias en situación de vulnerabilidad",
       "resumen": "En la tercera emisión de Criterio Compartido, el presidente cubano destacó la necesidad de actuar con sensibilidad y agilidad ante los problemas de la población. Más de 883 000 personas estaban registradas en situación de vulnerabilidad al cierre de septiembre. The post Díaz-Canel en Criterio Compar",
       "imagen_url": "",
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/21/diaz-canel-en-criterio-compartido-sensibilidad-y-soluciones-sin-trabas-para-las-familias-vulnerables/",
@@ -498,19 +498,6 @@
       "id": 38
     },
     {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Hoy en la Mesa Redonda: Háblame de Fidel: Intelectuales y artistas",
-      "resumen": "En su serie de programas dedicados al Centenario de Fidel y en el Día de la Cultura Cubana, la Mesa Redonda recordará este martes momentos vividos por relevantes artistas e intelectuales cubanos con el líder histórico de la Revolución. The post Hoy en la Mesa Redonda: Háblame de Fidel: Intelectuales",
-      "imagen_url": "",
-      "enlace_original": "http://mesaredonda.cubadebate.cu/noticias/2026/10/20/hoy-en-la-mesa-redonda-hablame-de-fidel-intelectuales-y-artistas/",
-      "destacada": false,
-      "tema": "redonda",
-      "fecha": "Tue, 20 Oct 2026 18:08:46 +0000",
-      "id": 39
-    },
-    {
       "categoria": "transporte",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
@@ -521,7 +508,7 @@
       "destacada": false,
       "tema": "américa",
       "fecha": "Wed, 21 Oct 26 09:00:00 +0200",
-      "id": 40
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -534,7 +521,7 @@
       "destacada": false,
       "tema": "acoge",
       "fecha": "Wed, 21 Oct 26 08:47:00 +0200",
-      "id": 41
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -547,7 +534,7 @@
       "destacada": false,
       "tema": "vivienda",
       "fecha": "Wed, 21 Oct 26 07:56:00 +0200",
-      "id": 42
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -560,7 +547,7 @@
       "destacada": false,
       "tema": "apuesta",
       "fecha": "Wed, 21 Oct 26 07:53:00 +0200",
-      "id": 43
+      "id": 42
     },
     {
       "categoria": "politica",
@@ -573,7 +560,7 @@
       "destacada": false,
       "tema": "fortalece",
       "fecha": "Wed, 21 Oct 26 07:50:00 +0200",
-      "id": 44
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -586,7 +573,7 @@
       "destacada": false,
       "tema": "memoria",
       "fecha": "Wed, 21 Oct 26 07:48:00 +0200",
-      "id": 45
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -599,7 +586,7 @@
       "destacada": false,
       "tema": "cubanas",
       "fecha": "Wed, 21 Oct 26 07:42:00 +0200",
-      "id": 46
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -612,7 +599,7 @@
       "destacada": false,
       "tema": "cultura",
       "fecha": "Wed, 21 Oct 26 07:00:00 +0200",
-      "id": 47
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -625,7 +612,7 @@
       "destacada": false,
       "tema": "entera",
       "fecha": "Wed, 21 Oct 26 06:50:00 +0200",
-      "id": 48
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -638,71 +625,84 @@
       "destacada": false,
       "tema": "intentos",
       "fecha": "Wed, 21 Oct 26 06:48:00 +0200",
-      "id": 49
+      "id": 48
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.guerrillero.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba, sinónimo de solidaridad",
-      "resumen": "Uno de los valores humanos más aquilatados es la solidaridad. Esta práctica entre los seres humanos tiene la fuerza poderosa de extraer lo mejor de cada persona y de repartir entre todos el fruto de la generosidad. En los tiempos modernos, a veces fríos e impasibles, cuando en la cercanía puede habe",
-      "imagen_url": "",
-      "enlace_original": "https://www.guerrillero.cu/cuba-sinonimo-de-solidaridad/",
+      "fuente": "https://actualidad.rt.com",
+      "fuente_tipo": "internacional",
+      "titulo": "China manda un fuerte mensaje a EE.UU. tras la orden de arresto contra Raúl Castro",
+      "resumen": "Pekín también reiteró el llamado a Washington para que ponga \"fin inmediato\" al bloqueo económico y comercial que pesa contra la isla desde hace más de seis décadas.",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad8d15ae9ff7129af6462bf.jpg",
+      "enlace_original": "https://actualidad-rt.com/actualidad/633558-china-fuerte-mensaje-eeuu-raul-castro?utm_source=rss&utm_medium=rss&utm_campaign=all",
       "destacada": false,
-      "tema": "sinónimo",
-      "fecha": "Tue, 20 Oct 2026 15:13:03 +0000",
+      "tema": "china",
+      "fecha": "Wed, 21 Oct 2026 15:04:04 +0000",
+      "id": 49
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba refuerza la salud con ciencia y vigilancia epidemiológica",
+      "resumen": "La doctora María Guadalupe Guzmán Tirado, jefa del Centro de Investigación, Diagnóstico y Referencia del Instituto de Medicina Tropical Pedro Kourí (IPK), destacó que la red nacional de laboratorios constituye un pilar esencial de la salud pública cubana La entrada Cuba refuerza la salud con ciencia",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/cuba-refuerza-la-salud-con-ciencia-y-vigilancia-epidemiologica-2/",
+      "destacada": false,
+      "tema": "refuerza",
+      "fecha": "Wed, 21 Oct 2026 14:43:19 +0000",
       "id": 50
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba con 138 boletos a Lima 2027",
-      "resumen": "Cuba cuenta ya con 138 atletas con cupo seguro rumbo a los Juegos Panamericanos y del Caribe de Lima 2027 La entrada Cuba con 138 boletos a Lima 2027 se publicó primero en Tribuna de La Habana.",
+      "titulo": "Un museo cubano que atesora una historia de tradición y entrega",
+      "resumen": "El Museo Nacional del Cuerpo de Bomberos de Cuba, enclavado en la Calle Zulueta No. 257 entre Ánimas y Neptuno, en el corazón de La Habana Vieja, ha convertido la memoria de los bomberos cubanos en un patrimonio vivo La entrada Un museo cubano que atesora una historia de tradición y entrega se publi",
       "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/cuba-con-138-boletos-a-lima-2027/",
+      "enlace_original": "https://www.tribuna.cu/un-museo-cubano-que-atesora-una-historia-de-tradicion-y-entrega-2/",
       "destacada": false,
-      "tema": "boletos",
-      "fecha": "Wed, 21 Oct 2026 13:32:14 +0000",
+      "tema": "museo",
+      "fecha": "Wed, 21 Oct 2026 14:57:24 +0000",
       "id": 51
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "El mundo votará por Cuba",
-      "resumen": "En la próxima votación sobre la Resolución cubana contra el bloqueo, el Gobierno estadounidense sabe muy bien que la gran mayoría de los países una vez más apoyarán la demanda de la isla, porque Cuba no es una amenaza; el bloqueo sí lo es La entrada El mundo votará por Cuba se publicó primero en Tri",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/el-mundo-votara-por-cuba/",
-      "destacada": false,
-      "tema": "mundo",
-      "fecha": "Tue, 20 Oct 2026 23:51:09 +0000",
-      "id": 52
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "La carga esencial que salva vidas: 44 nuevos vehículos eléctricos",
-      "resumen": "Anuncian incorporación de 44 nuevos vehículos eléctricos de carga al sector de la Salud en Cuba La entrada La carga esencial que salva vidas: 44 nuevos vehículos eléctricos se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/la-carga-esencial-que-salva-vidas-44-nuevos-vehiculos-electricos/",
-      "destacada": false,
-      "tema": "carga",
-      "fecha": "Tue, 20 Oct 2026 23:36:54 +0000",
-      "id": 53
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "oficial",
-      "titulo": "SNB 65: Vegueros frenan a los Leones en el San Luis",
-      "resumen": "Pinar del Río se impuso este martes 5-2 a Industriales en el estadio Capitán San Luis, para abrir con victoria el duelo semanal entre ambos equipos en la 65.ª Serie Nacional de Béisbol La entrada SNB 65: Vegueros frenan a los Leones en el San Luis se publicó primero en Tribuna de La Habana.",
+      "titulo": "Universidades de Cuba y Brasil afianzan vínculos de cooperación",
+      "resumen": "El acuerdo constituye un paso hacia la consolidación de las relaciones entre las universidades y los parques científico-tecnológicos vinculados a ellas, el Parque Científico Tecnológico de La Habana y el Jataí Tech, de Brazil La entrada Universidades de Cuba y Brasil afianzan vínculos de cooperación",
       "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/snb-65-vegueros-frenan-a-los-leones-en-el-san-luis/",
+      "enlace_original": "https://www.tribuna.cu/universidades-de-cuba-y-brasil-afianzan-vinculos-de-cooperacion/",
       "destacada": false,
-      "tema": "vegueros",
-      "fecha": "Tue, 20 Oct 2026 23:05:12 +0000",
+      "tema": "universidades",
+      "fecha": "Wed, 21 Oct 2026 14:30:17 +0000",
+      "id": 52
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Celebran aniversario 64 del Instituto de Ciencias Básicas y Preclínicas Victoria de Girón",
+      "resumen": "El aniversario 64 del ICBP Victoria de Girón, inaugurado por el Comandante en Jefe Fidel Castro Ruz el 17 de octubre de 1962, se recordó en La Habana, con un acto político cultural La entrada Celebran aniversario 64 del Instituto de Ciencias Básicas y Preclínicas Victoria de Girón se publicó primero",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/celebran-aniversario-64-del-instituto-de-ciencias-basicas-y-preclinicas-victoria-de-giron/",
+      "destacada": false,
+      "tema": "celebran",
+      "fecha": "Wed, 21 Oct 2026 14:08:42 +0000",
+      "id": 53
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Quieto, out o violencia: elija respeto",
+      "resumen": "Los errores arbitrales y las reacciones de violencia amenazan el espectáculo de la 65 Serie Nacional. El béisbol cubano no puede permitir que una jugada discutible...",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/21/quieto-out-o-violencia-elija-respeto/",
+      "destacada": false,
+      "tema": "quieto",
+      "fecha": "Wed, 21 Oct 2026 12:00:00 +0000",
       "id": 54
     },
     {
