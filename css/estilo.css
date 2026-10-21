@@ -335,7 +335,7 @@ body.oscuro .categoria { background: rgba(255,255,255,0.1); color: #7EB6FF; }
 }
 
 .btn-audio {
-  background: var(--azul);
+  background: #4A6FA5; /* Azul más suave y elegante */
   color: #fff;
   border: none;
   padding: 0.35rem 0.8rem;
@@ -344,6 +344,8 @@ body.oscuro .categoria { background: rgba(255,255,255,0.1); color: #7EB6FF; }
   cursor: pointer;
   margin-top: 0.5rem;
 }
+
+.btn-audio:hover { background: #385886; }
 
 .btn-audio:hover { background: var(--rojo); }
 
@@ -845,7 +847,7 @@ body.oscuro .btn-subir:hover {
 }
 
 .btn-compartir {
-  background: #25D366; /* Color de WhatsApp */
+  background: #C74B50; /* Rojo suave, no tan intenso como el de la bandera */
   color: #fff;
   border: none;
   padding: 0.35rem 0.8rem;
@@ -855,4 +857,4 @@ body.oscuro .btn-subir:hover {
   margin-top: 0.5rem;
   margin-left: 0.3rem;
 }
-.btn-compartir:hover { background: #128C7E; }
+.btn-compartir:hover { background: #A33A3E; }
