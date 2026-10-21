@@ -222,6 +222,7 @@ function renderNoticias() {
         </div>
         <br>
         <button class="btn-audio">🎧 Escuchar</button>
+        <button class="btn-compartir" onclick="compartirNoticia('${encodeURIComponent(n.titulo)}', '${encodeURIComponent(n.enlace_original)}')">📲 Compartir</button>
       </div>
     `;
     art.querySelector('.btn-audio').onclick = (e) => {
@@ -590,4 +591,24 @@ if (btnSubir) {
   btnSubir.onclick = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
+}
+
+// --- COMPARTIR NOTICIA ---
+function compartirNoticia(titulo, enlace) {
+  const t = decodeURIComponent(titulo);
+  const e = decodeURIComponent(enlace);
+  const promo = `\n\n📰 Lee esta y más noticias contrastadas en EnCuba Pulso:\nhttps://encubanoticias.github.io`;
+  
+  const textoCompleto = `${t}\n\nFuente original: ${e}${promo}`;
+
+  if (navigator.share) {
+    navigator.share({
+      title: 'EnCuba Pulso',
+      text: textoCompleto,
+    }).catch(console.error);
+  } else {
+    // Si el navegador no soporta compartir nativo (ej. PC), copia al portapapeles
+    navigator.clipboard.writeText(textoCompleto);
+    alert('Texto copiado. ¡Pégalo en tus redes!');
+  }
 }
