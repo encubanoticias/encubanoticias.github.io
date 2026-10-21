@@ -843,3 +843,16 @@ body.oscuro .btn-subir {
 body.oscuro .btn-subir:hover {
   background: rgba(207, 20, 43, 0.95);
 }
+
+.btn-compartir {
+  background: #25D366; /* Color de WhatsApp */
+  color: #fff;
+  border: none;
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  cursor: pointer;
+  margin-top: 0.5rem;
+  margin-left: 0.3rem;
+}
+.btn-compartir:hover { background: #128C7E; }
