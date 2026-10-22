@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-22",
-  "hora": "01:26",
-  "total": 58,
+  "hora": "03:19",
+  "total": 52,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -43,6 +43,19 @@
       "id": 3
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Celebran en Pakistán Día de la Cultura Cubana",
+      "resumen": "Islamabad, 21 oct (Prensa Latina) Familias cubano-pakistaníes y amigos solidarios con la isla caribeña compartieron muestras de identidad a propósito del Día de la Cultura Nacional de Cuba, destacó hoy la Embajada de ese país en esta capital. The post Celebran en Pakistán Día de la Cultura Cubana fi",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/21/celebran-en-pakistan-dia-de-la-cultura-cubana/",
+      "destacada": true,
+      "tema": "celebran",
+      "fecha": "Thu, 22 Oct 2026 02:11:24 +0000",
+      "id": 4
+    },
+    {
       "categoria": "transporte",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "alternativa",
@@ -53,33 +66,7 @@
       "destacada": true,
       "tema": "piden",
       "fecha": "Thu, 22 Oct 2026 01:26:49 +0000",
-      "id": 4
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Apuestan en Holguín por soberanía energética y desarrollo en Cuba",
-      "resumen": "Holguín, Cuba, 21 oct (Prensa Latina) El gobierno cubano prioriza hoy en esta oriental provincia la descentralización de alternativas y el control de recursos estratégicos para dinamizar la recuperación de su sistema eléctrico y la soberanía energética. The post Apuestan en Holguín por soberanía ene",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/21/apuestan-en-holguin-por-soberania-energetica-y-desarrollo-en-cuba/",
-      "destacada": true,
-      "tema": "apuestan",
-      "fecha": "Thu, 22 Oct 2026 00:41:13 +0000",
       "id": 5
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba debuta mañana en Panamericano de béisbol sub-18 en Dominicana",
-      "resumen": "Santo Domingo, 21 oct (Prensa Latina) El equipo cubano de béisbol sub-18 ya se encuentra en la República Dominicana, donde mañana comenzará el Torneo Panamericano de la categoría, clasificatorio para la Copa Mundial de 2027, trascendió hoy. The post Cuba debuta mañana en Panamericano de béisbol sub-",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/21/cuba-debuta-manana-en-panamericano-de-beisbol-sub-18-en-dominicana/",
-      "destacada": false,
-      "tema": "debuta",
-      "fecha": "Thu, 22 Oct 2026 00:10:40 +0000",
-      "id": 6
     },
     {
       "categoria": "energia",
@@ -92,7 +79,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Wed, 21 Oct 2026 17:40:37 +0000",
-      "id": 7
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -105,7 +92,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Wed, 21 Oct 2026 16:07:12 +0000",
-      "id": 8
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -118,7 +105,7 @@
       "destacada": false,
       "tema": "total",
       "fecha": "Wed, 21 Oct 2026 20:30:09 +0000",
-      "id": 9
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -131,7 +118,7 @@
       "destacada": false,
       "tema": "cerro",
       "fecha": "Wed, 21 Oct 2026 14:31:55 +0000",
-      "id": 10
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -144,7 +131,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Wed, 21 Oct 2026 15:54:19 +0000",
-      "id": 11
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -157,7 +144,7 @@
       "destacada": false,
       "tema": "envejecido",
       "fecha": "Wed, 21 Oct 2026 13:51:52 +0000",
-      "id": 12
+      "id": 11
     },
     {
       "categoria": "politica",
@@ -170,6 +157,19 @@
       "destacada": false,
       "tema": "china",
       "fecha": "Wed, 21 Oct 2026 10:39:23 +0000",
+      "id": 12
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cierra el mercado informal en Cuba: El dólar y el euro suben al final de la jornada",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e208574-s27061-nid343481-cierra-mercado-informal-cuba-dolar-euro-suben-al",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Thu, 22 Oct 2026 03:04:02 +0200",
       "id": 13
     },
     {
@@ -225,45 +225,6 @@
       "id": 17
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubano gravemente enfermo enfrenta posible deportación a África desde un centro de ICE en Miami",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e208933-s27061-nid343450-cubano-gravemente-enfermo-enfrenta-posible",
-      "destacada": false,
-      "tema": "cubano",
-      "fecha": "Thu, 22 Oct 2026 00:10:19 +0200",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubano muere apuñalado en Guyana y detienen a compatriota con quien compartía habitación",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e208933-s27061-nid343449-cubano-muere-apunalado-guyana-detienen-compatriota",
-      "destacada": false,
-      "tema": "cubano",
-      "fecha": "Wed, 21 Oct 2026 23:40:54 +0200",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Denuncian represalias contra pastores cubanos que ofrecen desayunos a niños y alimentos a personas vulnerables",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-21-u1-e135253-s27061-nid343473-denuncian-represalias-contra-pastores-cubanos",
-      "destacada": false,
-      "tema": "denuncian",
-      "fecha": "Wed, 21 Oct 2026 23:33:04 +0200",
-      "id": 20
-    },
-    {
       "categoria": "politica",
       "fuente": "https://www.radiocubana.cu",
       "fuente_tipo": "oficial",
@@ -274,7 +235,7 @@
       "destacada": false,
       "tema": "criterio",
       "fecha": "Wed, 21 Oct 2026 15:41:53 +0000",
-      "id": 21
+      "id": 18
     },
     {
       "categoria": "politica",
@@ -287,7 +248,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Wed, 21 Oct 2026 18:19:00 +0000",
-      "id": 22
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -300,7 +261,7 @@
       "destacada": false,
       "tema": "ciencia",
       "fecha": "Wed, 21 Oct 2026 17:33:10 +0000",
-      "id": 23
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -313,7 +274,7 @@
       "destacada": false,
       "tema": "señalamientos",
       "fecha": "Thu, 22 Oct 2026 01:10:56 +0200",
-      "id": 24
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -326,7 +287,7 @@
       "destacada": false,
       "tema": "venezuela",
       "fecha": "Thu, 22 Oct 2026 00:01:42 +0200",
-      "id": 25
+      "id": 22
     },
     {
       "categoria": "energia",
@@ -339,7 +300,7 @@
       "destacada": false,
       "tema": "apagones",
       "fecha": "Wed, 21 Oct 2026 22:54:08 +0200",
-      "id": 26
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -352,7 +313,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Wed, 21 Oct 2026 20:43:07 +0200",
-      "id": 27
+      "id": 24
     },
     {
       "categoria": "economia",
@@ -365,7 +326,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 21 Oct 2026 19:15:32 +0200",
-      "id": 28
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -378,7 +339,7 @@
       "destacada": false,
       "tema": "mercados",
       "fecha": "Wed, 21 Oct 2026 18:00:48 +0200",
-      "id": 29
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -391,7 +352,7 @@
       "destacada": false,
       "tema": "amenazado",
       "fecha": "Wed, 21 Oct 2026 17:44:15 +0200",
-      "id": 30
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -404,7 +365,7 @@
       "destacada": false,
       "tema": "barriles",
       "fecha": "Wed, 21 Oct 2026 16:55:46 +0200",
-      "id": 31
+      "id": 28
     },
     {
       "categoria": "salud",
@@ -417,7 +378,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Wed, 21 Oct 2026 15:11:04 +0200",
-      "id": 32
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -430,7 +391,7 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Wed, 21 Oct 2026 21:00:00 -0400",
-      "id": 33
+      "id": 30
     },
     {
       "categoria": "salud",
@@ -443,46 +404,20 @@
       "destacada": false,
       "tema": "opositor",
       "fecha": "Wed, 21 Oct 2026 20:28:06 -0400",
-      "id": 34
+      "id": 31
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 8:00 PM",
-      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Díaz-Canel chequea Programa Integral de Abasto de Agua en La Habana, y visita el municipio capitalino del Cerro",
+      "resumen": "Este miércoles en la mañana el Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, visitó la fuente de abasto “Aguada del Cura”, ubicada en el capitalino municipio de Boyeros. Después, estuvo en tres entidades económicas del Ce",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481450.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/21/diaz-canel-chequea-programa-integral-de-abasto-de-agua-en-la-habana-y-visita-el-municipio-capitalino-del-cerro/",
       "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Wed, 21 Oct 2026 20:00:00 -0400",
-      "id": 35
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al día",
-      "resumen": "Cuba cambia las reglas: quién puede comprar casas y quién paga las reparaciones",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/482478.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Wed, 21 Oct 2026 19:54:54 -0400",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "DeSantis dice que Fidel Castro debió haber enfrentado la justicia \"fue una oportunidad perdida\"",
-      "resumen": "Ron DeSantis expresó su apoyo a que Raúl Castro enfrente la justicia en Estados Unidos y defendió el potencial de una Cuba libre, al asegurar que la isla podría convertirse en el país más exitoso del Caribe si existiera un verdadero estado de derecho.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/desantis-dice-que-fidel-castro-debi%c3%b3-haber-enfrentado-la-justicia-fue-una-oportunidad-perdida/482477.html",
-      "destacada": false,
-      "tema": "desantis",
-      "fecha": "Wed, 21 Oct 2026 19:05:21 -0400",
-      "id": 37
+      "tema": "canel",
+      "fecha": "Thu, 22 Oct 2026 02:18:37 +0000",
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -495,7 +430,7 @@
       "destacada": false,
       "tema": "serie",
       "fecha": "Wed, 21 Oct 2026 22:48:27 +0000",
-      "id": 38
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -508,7 +443,7 @@
       "destacada": false,
       "tema": "presentan",
       "fecha": "Wed, 21 Oct 2026 22:20:58 +0000",
-      "id": 39
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -521,33 +456,7 @@
       "destacada": false,
       "tema": "isabel",
       "fecha": "Wed, 21 Oct 2026 21:32:37 +0000",
-      "id": 40
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Minrex: Cuba reitera su rechazo a los intentos de EEUU de involucrarla en el conflicto en Ucrania",
-      "resumen": "El Ministerio de Relaciones Exteriores de Cuba reitera su absoluto rechazo a las falsas acusaciones que el gobierno de Estados Unidos, sin sustento ni evidencia alguna, continúa divulgando sobre una supuesta participación cubana en el conflicto militar en Ucrania, con el objetivo de confundir y desi",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/21/minrex-cuba-reitera-su-rechazo-a-los-intentos-de-eeuu-de-involucrarla-en-el-conflicto-en-ucrania/",
-      "destacada": false,
-      "tema": "minrex",
-      "fecha": "Wed, 21 Oct 2026 20:34:05 +0000",
-      "id": 41
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "China repudia maniobra judicial de EEUU contra Raúl y rechaza la presión sobre Cuba",
-      "resumen": "China rechazó hoy el uso de medidas judiciales para presionar a Cuba y reiteró el respaldo a su soberanía, tras la emisión de una orden de arresto contra el líder histórico Raúl Castro por autoridades estadounidenses. La portavoz Mao Ning aseguró que el “camarada Raúl Castro es un dirigente revoluci",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/21/china-repudia-maniobra-judicial-de-eeuu-contra-raul-y-rechaza-la-presion-sobre-cuba/",
-      "destacada": false,
-      "tema": "china",
-      "fecha": "Wed, 21 Oct 2026 19:22:55 +0000",
-      "id": 42
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -560,7 +469,7 @@
       "destacada": false,
       "tema": "saldrá",
       "fecha": "Wed, 21 Oct 26 23:01:00 +0200",
-      "id": 43
+      "id": 36
     },
     {
       "categoria": "transporte",
@@ -573,7 +482,7 @@
       "destacada": false,
       "tema": "américa",
       "fecha": "Wed, 21 Oct 26 09:00:00 +0200",
-      "id": 44
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -586,7 +495,7 @@
       "destacada": false,
       "tema": "acoge",
       "fecha": "Wed, 21 Oct 26 08:47:00 +0200",
-      "id": 45
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -599,7 +508,7 @@
       "destacada": false,
       "tema": "vivienda",
       "fecha": "Wed, 21 Oct 26 07:56:00 +0200",
-      "id": 46
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -612,7 +521,7 @@
       "destacada": false,
       "tema": "apuesta",
       "fecha": "Wed, 21 Oct 26 07:53:00 +0200",
-      "id": 47
+      "id": 40
     },
     {
       "categoria": "politica",
@@ -625,7 +534,7 @@
       "destacada": false,
       "tema": "fortalece",
       "fecha": "Wed, 21 Oct 26 07:50:00 +0200",
-      "id": 48
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -638,7 +547,7 @@
       "destacada": false,
       "tema": "memoria",
       "fecha": "Wed, 21 Oct 26 07:48:00 +0200",
-      "id": 49
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -651,7 +560,7 @@
       "destacada": false,
       "tema": "cubanas",
       "fecha": "Wed, 21 Oct 26 07:42:00 +0200",
-      "id": 50
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -664,7 +573,7 @@
       "destacada": false,
       "tema": "cultura",
       "fecha": "Wed, 21 Oct 26 07:00:00 +0200",
-      "id": 51
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -677,20 +586,7 @@
       "destacada": false,
       "tema": "entera",
       "fecha": "Wed, 21 Oct 26 06:50:00 +0200",
-      "id": 52
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://actualidad.rt.com",
-      "fuente_tipo": "internacional",
-      "titulo": "El PSUV reacciona a la orden de arresto de EE.UU. contra Raúl Castro",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://actualidad-rt.com/actualidad/633643-partido-gobernante-venezuela-rechaza-orden?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "destacada": false,
-      "tema": "reacciona",
-      "fecha": "Thu, 22 Oct 2026 00:53:29 +0000",
-      "id": 53
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -703,7 +599,20 @@
       "destacada": false,
       "tema": "salón",
       "fecha": "Wed, 21 Oct 2026 15:39:17 +0000",
-      "id": 54
+      "id": 46
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Barrio Debate en Plaza de la Revolución: ¡NO! al bloqueo contra Cuba",
+      "resumen": "Vecinos y participantes del capitalino municipio de Plaza de la Revolución se reunieron para debatir sobre las consecuencias del cerco económico, comercial y financiero impuesto por Estados Unidos a la Isla La entrada Barrio Debate en Plaza de la Revolución: ¡NO! al bloqueo contra Cuba se publicó pr",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/barrio-debate-en-plaza-de-la-revolucion-no-al-bloqueo-contra-cuba/",
+      "destacada": false,
+      "tema": "barrio",
+      "fecha": "Thu, 22 Oct 2026 02:22:11 +0000",
+      "id": 47
     },
     {
       "categoria": "salud",
@@ -716,7 +625,7 @@
       "destacada": false,
       "tema": "refuerza",
       "fecha": "Wed, 21 Oct 2026 14:43:19 +0000",
-      "id": 55
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -729,20 +638,33 @@
       "destacada": false,
       "tema": "museo",
       "fecha": "Wed, 21 Oct 2026 14:57:24 +0000",
-      "id": 56
+      "id": 49
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
+      "fuente": "https://giron.cu/",
       "fuente_tipo": "oficial",
-      "titulo": "Universidades de Cuba y Brasil afianzan vínculos de cooperación",
-      "resumen": "El acuerdo constituye un paso hacia la consolidación de las relaciones entre las universidades y los parques científico-tecnológicos vinculados a ellas, el Parque Científico Tecnológico de La Habana y el Jataí Tech, de Brazil La entrada Universidades de Cuba y Brasil afianzan vínculos de cooperación",
+      "titulo": "Ediciones Vigía es poesía",
+      "resumen": "La sala principal de Ediciones Vigía (EV) volvió a acoger el proyecto Lectura de poesías, como parte de la Jornada por la Cultura Cubana.",
       "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/universidades-de-cuba-y-brasil-afianzan-vinculos-de-cooperacion/",
+      "enlace_original": "https://giron.cu/2026/10/21/ediciones-vigia-es-poesia-matanzas/",
       "destacada": false,
-      "tema": "universidades",
-      "fecha": "Wed, 21 Oct 2026 14:30:17 +0000",
-      "id": 57
+      "tema": "ediciones",
+      "fecha": "Wed, 21 Oct 2026 12:13:00 +0000",
+      "id": 50
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Quieto, out o violencia: elija respeto",
+      "resumen": "Los errores arbitrales y las reacciones de violencia amenazan el espectáculo de la 65 Serie Nacional. El béisbol cubano no puede permitir que una jugada discutible...",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/21/quieto-out-o-violencia-elija-respeto/",
+      "destacada": false,
+      "tema": "quieto",
+      "fecha": "Wed, 21 Oct 2026 12:00:00 +0000",
+      "id": 51
     },
     {
       "categoria": "economia",
@@ -755,7 +677,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 21 Oct 2026 10:30:00 GMT",
-      "id": 58
+      "id": 52
     }
   ]
 }
