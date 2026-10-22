@@ -646,3 +646,17 @@ function compartirNoticia(titulo, enlace) {
     alert('Texto copiado. ¡Pégalo en tus redes!');
   }
 }
+
+// --- AJUSTAR TICKER AL HEADER ---
+function ajustarTicker() {
+  const header = document.querySelector('header');
+  const ticker = document.getElementById('ticker');
+  if (header && ticker) {
+    // Calcula la altura real del menú y coloca el ticker justo debajo
+    const altura = header.offsetHeight;
+    ticker.style.top = altura + 'px';
+  }
+}
+
+window.addEventListener('resize', ajustarTicker);
+window.addEventListener('load', ajustarTicker);
