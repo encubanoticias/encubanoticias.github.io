@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-22",
-  "hora": "09:23",
-  "total": 44,
+  "hora": "11:20",
+  "total": 43,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -30,19 +30,6 @@
       "id": 2
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba con la frente en alto y otra votación por la justicia",
-      "resumen": "El bloqueo es un castigo colectivo que ya no cabe en la palabra, documenta cifras récord y su impacto en la vida diaria cada vez es más terrible",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-21/cuba-con-la-frente-en-alto-y-otra-votacion-por-la-justicia-21-10-2026-10-10-36",
-      "destacada": true,
-      "tema": "frente",
-      "fecha": "Wed, 21 Oct 2026 10:10:36 -0400",
-      "id": 3
-    },
-    {
       "categoria": "energia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -53,7 +40,7 @@
       "destacada": true,
       "tema": "habana",
       "fecha": "Wed, 21 Oct 2026 17:40:37 +0000",
-      "id": 4
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -66,7 +53,7 @@
       "destacada": true,
       "tema": "nueva",
       "fecha": "Wed, 21 Oct 2026 16:07:12 +0000",
-      "id": 5
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -76,10 +63,10 @@
       "resumen": "Los vecinos caminan varios kilómetros para comunicarse y otros siguen pagando 1.000 pesos por Nauta Hogar por temor a perder el servicio",
       "imagen_url": "https://static.14ymedio.com/clip/47237b4e-839c-4fc9-894c-d943473a2419_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/cerro-barrio-habana-incomunicado-mes_1_1132214.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "cerro",
       "fecha": "Wed, 21 Oct 2026 14:31:55 +0000",
-      "id": 6
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -92,7 +79,7 @@
       "destacada": false,
       "tema": "total",
       "fecha": "Wed, 21 Oct 2026 20:30:09 +0000",
-      "id": 7
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -105,59 +92,7 @@
       "destacada": false,
       "tema": "envejecido",
       "fecha": "Wed, 21 Oct 2026 13:51:52 +0000",
-      "id": 8
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "China, Rusia e Irán cierran filas con Raúl Castro, \"líder revolucionario de gran prestigio\"",
-      "resumen": "Teherán califica de \"criminal\" la orden de arresto contra el ex presidente por el derribo de las avionetas de Hermanos al Rescate; Moscú señala una \"venganza del lobby anticubano de Miami\" y Pekín ofrece su \"apoyo firme\"",
-      "imagen_url": "https://static.14ymedio.com/clip/f3ad616e-b3b3-41cd-b0ce-abcd55290431_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/china-rusia-e-iran-cierran_1_1132202.html",
-      "destacada": false,
-      "tema": "china",
-      "fecha": "Wed, 21 Oct 2026 10:39:23 +0000",
-      "id": 9
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cierra el mercado informal en Cuba: El dólar y el euro suben al final de la jornada",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e208574-s27061-nid343481-cierra-mercado-informal-cuba-dolar-euro-suben-al",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Thu, 22 Oct 2026 03:04:02 +0200",
-      "id": 10
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Represión contra periodistas independientes en Cuba se dispara un 129% en septiembre, según informe",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e208933-s27061-nid343479-represion-contra-periodistas-independientes-cuba",
-      "destacada": false,
-      "tema": "represión",
-      "fecha": "Thu, 22 Oct 2026 02:02:57 +0200",
-      "id": 11
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Juez en Florida ratifica multa de 668,000 dólares por incumplir orden de deportación: ¿Qué deben saber los cubanos con I-220A?",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e199894-s27061-nid343478-juez-florida-ratifica-multa-668000-dolares-incumplir",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Thu, 22 Oct 2026 01:25:09 +0200",
-      "id": 12
+      "id": 7
     },
     {
       "categoria": "politica",
@@ -170,7 +105,7 @@
       "destacada": false,
       "tema": "criterio",
       "fecha": "Wed, 21 Oct 2026 15:41:53 +0000",
-      "id": 13
+      "id": 8
     },
     {
       "categoria": "politica",
@@ -183,7 +118,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Wed, 21 Oct 2026 18:19:00 +0000",
-      "id": 14
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -196,7 +131,46 @@
       "destacada": false,
       "tema": "ciencia",
       "fecha": "Wed, 21 Oct 2026 17:33:10 +0000",
-      "id": 15
+      "id": 10
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "México amplía su ayuda al campo cubano, relegado por la inversión del Gobierno",
+      "resumen": "El Gobierno de #México amplía el programa agropecuario #SembrandoVida en #Cuba con entregas de insumos, semillas, maquinaria y capacitación",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1792667854_69498.html",
+      "destacada": false,
+      "tema": "méxico",
+      "fecha": "Thu, 22 Oct 2026 13:17:34 +0200",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Iglesias cubanas denuncian el acoso del régimen contra dos pastores por 'servir a los más vulnerables'",
+      "resumen": "La Alianza de Iglesias Cubanas No Registradas (AICNOR) denuncia el acoso del #RégimenCubano contra los líderes religiosos Mario Jorge Travieso y su esposa Velmis Adriana Mariño por asistir a #cubanos vulnerables. Exige a las denominaciones registradas que no guarden silencio. #LibertadReligiosa #Der",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1792664254_69497.html",
+      "destacada": false,
+      "tema": "iglesias",
+      "fecha": "Thu, 22 Oct 2026 12:17:34 +0200",
+      "id": 12
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Díaz-Canel pide 'sensibilidad' mientras una madre de ocho hijos denuncia hambre y ayudas negadas",
+      "resumen": "Díaz-Canel promete atención a las familias mientras una madre de ocho hijos denuncia hambre y ayudas negadas. El Gobierno registra más de 883.000 personas como vulnerables y esta es la referencia que usa para identificarlas.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792662487_69496.html",
+      "destacada": false,
+      "tema": "canel",
+      "fecha": "Thu, 22 Oct 2026 11:48:07 +0200",
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -209,7 +183,7 @@
       "destacada": false,
       "tema": "mario",
       "fecha": "Thu, 22 Oct 2026 07:45:59 +0200",
-      "id": 16
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -222,7 +196,7 @@
       "destacada": false,
       "tema": "señalamientos",
       "fecha": "Thu, 22 Oct 2026 01:10:56 +0200",
-      "id": 17
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -235,7 +209,7 @@
       "destacada": false,
       "tema": "venezuela",
       "fecha": "Thu, 22 Oct 2026 00:01:42 +0200",
-      "id": 18
+      "id": 16
     },
     {
       "categoria": "energia",
@@ -248,7 +222,7 @@
       "destacada": false,
       "tema": "apagones",
       "fecha": "Wed, 21 Oct 2026 22:54:08 +0200",
-      "id": 19
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -261,59 +235,33 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Wed, 21 Oct 2026 20:43:07 +0200",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba Habla: \"No veo prosperidad para nada”",
+      "resumen": "“Mejoría por ningún lado” asegura cubana desde La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-no-veo-prosperidad-para-nada/481890.html",
+      "destacada": false,
+      "tema": "habla",
+      "fecha": "Thu, 22 Oct 2026 07:00:00 -0400",
+      "id": 19
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Patria. Fundador: José Martí.",
+      "resumen": "El 14 de marzo de 1892, salió a la luz el primer número del periódico Patria, creado por José Martí en New York, que en breve se convirtió en el vocero de “la guerra necesaria y humanitaria”, convocada por él poco antes de que naciera el Partido Revolucionario Cubano.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/patria-fundador-jos%c3%a9-mart%c3%ad/482528.html",
+      "destacada": false,
+      "tema": "patria",
+      "fecha": "Thu, 22 Oct 2026 06:13:15 -0400",
       "id": 20
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El euro rompe la barrera de los 900 pesos en el mercado informal cubano",
-      "resumen": "El #euro rompe la barrera de los 900 pesos en el mercado informal #cubano y el resto de las principales divisas extranjeras también registran subidas, mientras la inflación domina la economía de la Isla.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1792602932_69487.html",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Wed, 21 Oct 2026 19:15:32 +0200",
-      "id": 21
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Mercados de barrio en Cuba: ¿quién puede pagar la comida?",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1792598448_69485.html",
-      "destacada": false,
-      "tema": "mercados",
-      "fecha": "Wed, 21 Oct 2026 18:00:48 +0200",
-      "id": 22
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Amenazado con hasta diez años de cárcel el periodista independiente Adelth Bonne",
-      "resumen": "#SOSCuba: La Seguridad del Estado advierte al periodista independiente Adelth Bonne Gamboa que debe buscar alguien que le haga los mandados, porque no podrá salir de su casa. También lo amenaza con acusarlo de \"propaganda contra el orden constitucional\".",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1792597455_69484.html",
-      "destacada": false,
-      "tema": "amenazado",
-      "fecha": "Wed, 21 Oct 2026 17:44:15 +0200",
-      "id": 23
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Los barriles exportados de EEUU a Cuba en julio pasan de millones a menos de 200.000  tras una corrección",
-      "resumen": "#EEUU corrige el volumen de combustible exportado a #Cuba en julio, pero el valor monetario se mantiene.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792594546_69483.html",
-      "destacada": false,
-      "tema": "barriles",
-      "fecha": "Wed, 21 Oct 2026 16:55:46 +0200",
-      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -326,7 +274,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Thu, 22 Oct 2026 00:00:30 -0400",
-      "id": 25
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -339,7 +287,7 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Wed, 21 Oct 2026 21:00:00 -0400",
-      "id": 26
+      "id": 22
     },
     {
       "categoria": "politica",
@@ -352,7 +300,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 22 Oct 2026 02:18:37 +0000",
-      "id": 27
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -365,7 +313,7 @@
       "destacada": false,
       "tema": "serie",
       "fecha": "Wed, 21 Oct 2026 22:48:27 +0000",
-      "id": 28
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -378,7 +326,7 @@
       "destacada": false,
       "tema": "presentan",
       "fecha": "Wed, 21 Oct 2026 22:20:58 +0000",
-      "id": 29
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -391,7 +339,7 @@
       "destacada": false,
       "tema": "isabel",
       "fecha": "Wed, 21 Oct 2026 21:32:37 +0000",
-      "id": 30
+      "id": 26
     },
     {
       "categoria": "politica",
@@ -404,7 +352,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Thu, 22 Oct 26 08:15:00 +0200",
-      "id": 31
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -417,7 +365,7 @@
       "destacada": false,
       "tema": "otacosa",
       "fecha": "Thu, 22 Oct 26 08:13:00 +0200",
-      "id": 32
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -430,7 +378,7 @@
       "destacada": false,
       "tema": "gente",
       "fecha": "Thu, 22 Oct 26 08:12:00 +0200",
-      "id": 33
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -443,7 +391,7 @@
       "destacada": false,
       "tema": "castro",
       "fecha": "Thu, 22 Oct 26 08:04:00 +0200",
-      "id": 34
+      "id": 30
     },
     {
       "categoria": "energia",
@@ -456,7 +404,7 @@
       "destacada": false,
       "tema": "energía",
       "fecha": "Thu, 22 Oct 26 07:47:00 +0200",
-      "id": 35
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -469,7 +417,7 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Thu, 22 Oct 26 07:41:00 +0200",
-      "id": 36
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -482,7 +430,7 @@
       "destacada": false,
       "tema": "quieren",
       "fecha": "Thu, 22 Oct 26 07:39:00 +0200",
-      "id": 37
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -495,7 +443,7 @@
       "destacada": false,
       "tema": "desmonta",
       "fecha": "Thu, 22 Oct 26 07:35:00 +0200",
-      "id": 38
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -508,7 +456,7 @@
       "destacada": false,
       "tema": "homenaje",
       "fecha": "Thu, 22 Oct 26 07:05:00 +0200",
-      "id": 39
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -521,7 +469,20 @@
       "destacada": false,
       "tema": "homenaje",
       "fecha": "Thu, 22 Oct 26 07:01:00 +0200",
-      "id": 40
+      "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://actualidad.rt.com",
+      "fuente_tipo": "internacional",
+      "titulo": "MINUTO A MINUTO: Europa arde en una ola de protestas y bloqueos estudiantiles",
+      "resumen": "Las protestas masivas contra los recortes presupuestarios, la crisis de la vivienda y las reformas educativas siguen sacudiendo a los países europeos. Las manifestaciones azotan Francia, Grecia, Bélgica, Italia, España, Portugal y Albania, entre otros países. Los manifestantes bloquean universidades",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad9ebca59bf5b6de3410772.jpg",
+      "enlace_original": "https://actualidad-rt.com/actualidad/633686-munito-europa-arde-ola-protestas-bloqueos-estudiantiles?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Thu, 22 Oct 2026 10:48:42 +0000",
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -534,6 +495,45 @@
       "destacada": false,
       "tema": "salón",
       "fecha": "Wed, 21 Oct 2026 15:39:17 +0000",
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Barrio Debate en Plaza de la Revolución: ¡NO! al bloqueo contra Cuba",
+      "resumen": "Vecinos y participantes del capitalino municipio de Plaza de la Revolución se reunieron para debatir sobre las consecuencias del cerco económico, comercial y financiero impuesto por Estados Unidos a la Isla La entrada Barrio Debate en Plaza de la Revolución: ¡NO! al bloqueo contra Cuba se publicó pr",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/barrio-debate-en-plaza-de-la-revolucion-no-al-bloqueo-contra-cuba/",
+      "destacada": false,
+      "tema": "barrio",
+      "fecha": "Thu, 22 Oct 2026 02:22:11 +0000",
+      "id": 39
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba refuerza la salud con ciencia y vigilancia epidemiológica",
+      "resumen": "La doctora María Guadalupe Guzmán Tirado, jefa del Centro de Investigación, Diagnóstico y Referencia del Instituto de Medicina Tropical Pedro Kourí (IPK), destacó que la red nacional de laboratorios constituye un pilar esencial de la salud pública cubana La entrada Cuba refuerza la salud con ciencia",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/cuba-refuerza-la-salud-con-ciencia-y-vigilancia-epidemiologica-2/",
+      "destacada": false,
+      "tema": "refuerza",
+      "fecha": "Wed, 21 Oct 2026 14:43:19 +0000",
+      "id": 40
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Un museo cubano que atesora una historia de tradición y entrega",
+      "resumen": "El Museo Nacional del Cuerpo de Bomberos de Cuba, enclavado en la Calle Zulueta No. 257 entre Ánimas y Neptuno, en el corazón de La Habana Vieja, ha convertido la memoria de los bomberos cubanos en un patrimonio vivo La entrada Un museo cubano que atesora una historia de tradición y entrega se publi",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/un-museo-cubano-que-atesora-una-historia-de-tradicion-y-entrega-2/",
+      "destacada": false,
+      "tema": "museo",
+      "fecha": "Wed, 21 Oct 2026 14:57:24 +0000",
       "id": 41
     },
     {
@@ -561,19 +561,6 @@
       "tema": "quieto",
       "fecha": "Wed, 21 Oct 2026 12:00:00 +0000",
       "id": 43
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El euro se dispara en el mercado informal cubano con un salto inusual y supera los 912 CUP",
-      "resumen": "El euro subió 47.5 CUP este 21 de octubre y alcanzó 912.5 CUP en el mercado informal cubano, mientras el dólar se mantuvo en 815 CUP por segundo día consecutivo.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/22_06_Dominguez_Jesica_MLC_DINERO_6ee45f991e.jpg",
-      "enlace_original": "https://eltoque.com/el-euro-se-dispara-en-el-mercado-informal-cubano-con-un-salto-inusual-y-supera-los-912-cup",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Wed, 21 Oct 2026 10:30:00 GMT",
-      "id": 44
     }
   ]
 }
