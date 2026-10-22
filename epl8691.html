@@ -494,6 +494,68 @@ function renderEstado(data) {
   `;
 }
 
+// --- GENERADOR DE FACEBOOK ---
+document.getElementById('btn-generar-fb').onclick = () => {
+  if (!noticias || noticias.length < 5) {
+    alert('No hay suficientes noticias cargadas.');
+    return;
+  }
+
+  // 1. Mezclar noticias y tomar las primeras 20 para asegurar variedad
+  const mezcladas = [...noticias].sort(() => 0.5 - Math.random()).slice(0, 20);
+  
+  // 2. Seleccionar 5 noticias intentando que no sean del mismo medio
+  const seleccionadas = [];
+  const mediosUsados = new Set();
+  
+  for (const n of mezcladas) {
+    if (!mediosUsados.has(n.fuente) && seleccionadas.length < 5) {
+      seleccionadas.push(n);
+      mediosUsados.add(n.fuente);
+    }
+  }
+  
+  // Si faltan, rellenar con las que queden
+  if (seleccionadas.length < 5) {
+    for (const n of mezcladas) {
+      if (!seleccionadas.includes(n) && seleccionadas.length < 5) {
+        seleccionadas.push(n);
+      }
+    }
+  }
+
+  // 3. Encabezados aleatorios
+  const encabezados = [
+    "📌 Lo que se mueve hoy en Cuba",
+    "📌 Cinco titulares que mueven el pulso",
+    "📌 El pulso de hoy, en cinco líneas",
+    "📌 Lo que no te puedes perder hoy"
+  ];
+  const encabezado = encabezados[Math.floor(Math.random() * encabezados.length)];
+
+  // 4. Formatear los titulares
+  let bloqueTitulares = "";
+  seleccionadas.forEach((n, i) => {
+    const etiqueta = n.fuente_tipo.toUpperCase();
+    bloqueTitulares += `${i + 1}. ${n.titulo} — ${etiqueta}\n`;
+  });
+
+  // 5. Gancho para el primer comentario
+  const gancho = "💬 (Para el primer comentario):\nNo todas las versiones caben en cinco líneas. Las que faltan, con sus contrastes y tu voto, están aquí: encubanoticias.github.io";
+
+  // 6. Unir todo
+  const resultadoFinal = `${encabezado}\n\n${bloqueTitulares}\n${gancho}`;
+
+  document.getElementById('fb-resultado').value = resultadoFinal;
+};
+
+document.getElementById('btn-copiar-fb').onclick = () => {
+  const txt = document.getElementById('fb-resultado');
+  if (!txt.value) return;
+  navigator.clipboard.writeText(txt.value);
+  toast('Texto copiado al portapapeles');
+};
+  
 cargarTodo();
 </script>
 </body>
