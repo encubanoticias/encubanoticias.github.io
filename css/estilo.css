@@ -767,8 +767,8 @@ body.oscuro .modal-caja h3 { color: #7EB6FF; }
 /* TICKER */
 .ticker {
   position: sticky;
-  top: 105px;
-  z-index: 98;
+  top: 0; /* Ajustaremos esto con JS */
+  z-index: 99;
   background: var(--azul);
   color: #fff;
   overflow: hidden;
@@ -776,6 +776,7 @@ body.oscuro .modal-caja h3 { color: #7EB6FF; }
   padding: 0.4rem 0;
   font-size: 0.85rem;
   border-bottom: 2px solid var(--rojo);
+  margin-bottom: 1rem;
 }
 
 .ticker.oculto { display: none; }
