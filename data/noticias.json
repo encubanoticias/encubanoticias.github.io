@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-22",
-  "hora": "17:18",
-  "total": 44,
+  "hora": "19:24",
+  "total": 41,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -18,185 +18,94 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "La ermita de Caisimú",
-      "resumen": "Miles de personas han visitado esa capilla que parece recibir la bendición del cielo, pero ignoran la divina y cubanísima razón que le dio origen",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-22/la-ermita-de-caisimu-22-10-2026-10-10-02",
-      "destacada": true,
-      "tema": "ermita",
-      "fecha": "Thu, 22 Oct 2026 10:10:02 -0400",
-      "id": 2
-    },
-    {
-      "categoria": "salud",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba denuncia impacto extraterritorial del bloqueo estadounidense",
-      "resumen": "Ciudad del Vaticano, 22 oct (Prensa Latina) El embajador cubano ante la Santa Sede, Leyde Rodríguez Hernández, denunció hoy el impacto extraterritorial del bloqueo estadounidense contra su país, que obstaculiza el transporte marítimo y la llegada de alimentos, medicamentos y ayuda humanitaria a la p",
+      "titulo": "Foro Italia-Cuba fomenta oportunidades de inversión bilateral",
+      "resumen": "Roma, 22 oct (Prensa Latina) El fortalecimiento de las relaciones económicas entre Italia y Cuba y las oportunidades de inversión en la isla centraron hoy el Foro Italia-Cuba, celebrado en la Sala Mechelli del Consejo Regional del Lazio, en esta capital. The post Foro Italia-Cuba fomenta oportunidad",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/22/cuba-denuncia-impacto-extraterritorial-del-bloqueo-estadounidense/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/22/foro-italia-cuba-fomenta-oportunidades-de-inversion-bilateral/",
       "destacada": true,
-      "tema": "denuncia",
-      "fecha": "Thu, 22 Oct 2026 16:56:06 +0000",
-      "id": 3
+      "tema": "italia",
+      "fecha": "Thu, 22 Oct 2026 19:10:09 +0000",
+      "id": 2
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Cepal destaca manejo de IA en El Salvador, pese a desafíos existentes",
-      "resumen": "San Salvador, 22 oct (Prensa Latina) La Comisión Económica para América Latina y el Caribe (Cepal) indicó que hoy El Salvador avanza en inteligencia artificial en temas relacionados con la gobernanza, seguridad y estrategias nacionales, sin embargo persisten brechas en cuestiones de desarrollo. The ",
+      "titulo": "Bloqueo de EEUU viola derechos políticos y civiles, denuncian en Cuba (+Foto)",
+      "resumen": "La Habana, 22 oct (Prensa Latina) La presidenta de la Asociación Cubana de Naciones Unidas (ACNU), Norma Goicochea, denunció hoy que el bloqueo impuesto por Estados Unidos viola los derechos civiles y políticos al ser utilizado como herramienta para intentar derrocar la Revolución. The post Bloqueo ",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/22/cepal-destaca-manejo-de-ia-en-el-salvador-pese-a-desafios-existentes/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/22/bloqueo-de-eeuu-viola-derechos-politicos-y-civiles-denuncian-en-cuba/",
       "destacada": true,
-      "tema": "cepal",
-      "fecha": "Thu, 22 Oct 2026 16:55:35 +0000",
+      "tema": "bloqueo",
+      "fecha": "Thu, 22 Oct 2026 18:24:58 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El mar se abre a los cubanos con el estreno de la primera tienda náutica en La Habana",
+      "resumen": "Delcos Marine, vinculada a una empresa española, ofrece productos para las actividades marítimas, un sector muy vigilado por el régimen",
+      "imagen_url": "https://static.14ymedio.com/clip/25db1a98-4cea-4fa2-9ac5-08eed1f39f6a_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/mar-abre-cubanos-estreno-primera_1_1132267.html",
+      "destacada": true,
+      "tema": "transporte",
+      "fecha": "Thu, 22 Oct 2026 17:19:46 +0000",
       "id": 4
     },
     {
-      "categoria": "politica",
+      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El Kremlin elogia la mediación de Trump mientras el presidente checo lo acusa de favorecer a Rusia",
-      "resumen": "Petr Pavel considera un error levantar las sanciones al diésel ruso, mientras La Habana rechaza las acusaciones de EE UU sobre la participación de cubanos en la guerra de Ucrania",
-      "imagen_url": "https://static.14ymedio.com/clip/f2ae6b9e-705f-424a-9b6c-a8d2ff4c50dd_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/internacional/kremlin-elogia-mediacion-trump-presidente_1_1132261.html",
+      "titulo": "El saxofón de Efrén es supervivencia; la música de Díaz-Canel, \"espada\" de la Revolución",
+      "resumen": "El artista jubilado toca en las calles de La Habana para mejorar su pensión miserable, mientras el mandatario reúne a representantes de la cultura oficial en el Palacio de la Revolución",
+      "imagen_url": "https://static.14ymedio.com/clip/4c896480-9325-42b6-bb32-44ad03783a95_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cultura/saxofon-efren-supervivencia-musica-diaz_1_1132273.html",
       "destacada": true,
-      "tema": "kremlin",
-      "fecha": "Thu, 22 Oct 2026 13:50:35 +0000",
+      "tema": "saxofón",
+      "fecha": "Thu, 22 Oct 2026 18:33:33 +0000",
       "id": 5
     },
     {
-      "categoria": "energia",
+      "categoria": "transporte",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La Habana, una ciudad de búsquedas desesperadas",
-      "resumen": "De Nuevo Vedado a Carlos III, un recorrido entre apagones, edificios ruinosos y personas que persiguen una conexión o algo que llevarse a la boca",
-      "imagen_url": "https://static.14ymedio.com/clip/05773779-7a30-4182-886a-d7d1e45c25b4_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/habana-ciudad-busquedas-desesperadas_1_1132227.html",
+      "titulo": "Se dispara el número de vehículos eléctricos, pero faltan 'solineras'",
+      "resumen": "El Gobierno cubano señala que el transporte de pasajeros ha bajado un 75% y hasta el 90% en el caso de los ómnibus de trabajadores",
+      "imagen_url": "https://static.14ymedio.com/clip/2b801209-842a-4a8d-8e83-537f86407cc8_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/dispara-numero-vehiculos-electricos-faltan_1_1132266.html",
       "destacada": false,
-      "tema": "habana",
-      "fecha": "Wed, 21 Oct 2026 17:40:37 +0000",
+      "tema": "dispara",
+      "fecha": "Thu, 22 Oct 2026 17:14:43 +0000",
       "id": 6
     },
     {
       "categoria": "politica",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Quejas por jubilaciones y falta de asistencia llegan al programa de Díaz-Canel: «Todos ustedes van a ser atendidos»",
+      "titulo": "Para acusar de terrorismo a Gutiérrez-Boronat, Díaz-Canel cita a Bruno y la lista del propio régimen",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e209399-s27061-nid343522-quejas-jubilaciones-falta-asistencia-llegan-al",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e74-s27061-nid343539-acusar-gutierrez-boronat-diaz-canel-cita-bruno-lista",
       "destacada": false,
-      "tema": "quejas",
-      "fecha": "Thu, 22 Oct 2026 18:20:33 +0200",
+      "tema": "acusar",
+      "fecha": "Thu, 22 Oct 2026 20:20:59 +0200",
       "id": 7
     },
     {
       "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Ministro de Transporte de Cuba admite el colapso: de 419 viajes interprovinciales diarios desde La Habana a solo 11",
-      "resumen": "",
+      "titulo": "El transporte público, un fantasma en Cuba: el régimen reconoce un desplome del 75%",
+      "resumen": "\"Uno de sus peores momentos de la historia\": el régimen cubano reconoce el colapso y anticipa que los viajes en #transporte público caerán un 75% al cierre de 2026. El ministro del sector promete vehículos eléctricos.",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e43231-s27061-nid343518-ministro-transporte-cuba-admite-colapso-419-viajes",
+      "enlace_original": "https://diariodecuba.com/cuba/1792695124_69505.html",
       "destacada": false,
       "tema": "transporte",
-      "fecha": "Thu, 22 Oct 2026 17:51:09 +0200",
+      "fecha": "Thu, 22 Oct 2026 20:52:04 +0200",
       "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Imagínense eso en La Habana»: Otero Alcántara responde al acto de repudio en la ONU",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e74-s27061-nid343519-imaginense-eso-habana-otero-alcantara-responde-al-acto",
-      "destacada": false,
-      "tema": "imagínense",
-      "fecha": "Thu, 22 Oct 2026 17:50:38 +0200",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Autoridades de Colorado se pronuncian sobre solicitud de libertad condicional para camionero cubano condenado por grave accidente",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e129488-s27061-nid343503-autoridades-colorado-pronuncian-solicitud-libertad",
-      "destacada": false,
-      "tema": "autoridades",
-      "fecha": "Thu, 22 Oct 2026 17:50:32 +0200",
-      "id": 10
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Estados Unidos envía más ayuda humanitaria a Cuba: segundo avión aterriza en Matanzas",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e135253-s27061-nid343517-estados-unidos-envia-ayuda-humanitaria-cuba-segundo",
-      "destacada": false,
-      "tema": "estados",
-      "fecha": "Thu, 22 Oct 2026 17:33:12 +0200",
-      "id": 11
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Prensa italiana retrata una Cuba «al límite»: médicos que cobran 11 euros, ciudades turísticas vacías y dos horas de luz",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e43231-s27061-nid343513-prensa-italiana-retrata-cuba-al-limite-medicos-cobran",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Thu, 22 Oct 2026 17:09:34 +0200",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubana pierde la ciudadanía estadounidense por lo que ocultó durante su entrevista de naturalización",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e135253-s27061-nid343515-cubana-pierde-ciudadania-estadounidense-oculto",
-      "destacada": false,
-      "tema": "cubana",
-      "fecha": "Thu, 22 Oct 2026 17:00:33 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Denuncia Canciller cubano ofensiva de EE.UU. para modificar votación en ONU",
-      "resumen": "La votación de la resolución contra el bloqueo tendrá lugar este 28 de octubre en condiciones inusuales, marcadas por el brutal endurecimiento del cerco económico y una campaña de presiones, intimidaciones y chantajes del gobierno estadounidense",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261021/denuncia-canciller-cubano-ofensiva-de-ee-uu-para-modificar-votacion-en-onu/",
-      "destacada": false,
-      "tema": "denuncia",
-      "fecha": "Wed, 21 Oct 2026 18:19:00 +0000",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Ciencia e innovación a favor del actuar de los tribunales",
-      "resumen": "La XVI Jornada de Ciencia e Innovación tendrá lugar este viernes en el teatro Heredia de la ciudad de Santiago de Cuba",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261021/ciencia-e-innovacion-a-favor-del-actuar-de-los-tribunales/",
-      "destacada": false,
-      "tema": "ciencia",
-      "fecha": "Wed, 21 Oct 2026 17:33:10 +0000",
-      "id": 15
     },
     {
       "categoria": "transporte",
@@ -209,7 +118,7 @@
       "destacada": false,
       "tema": "envía",
       "fecha": "Thu, 22 Oct 2026 19:18:03 +0200",
-      "id": 16
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -222,7 +131,7 @@
       "destacada": false,
       "tema": "condenado",
       "fecha": "Thu, 22 Oct 2026 18:42:34 +0200",
-      "id": 17
+      "id": 10
     },
     {
       "categoria": "politica",
@@ -235,7 +144,7 @@
       "destacada": false,
       "tema": "leydis",
       "fecha": "Thu, 22 Oct 2026 18:01:15 +0200",
-      "id": 18
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -248,7 +157,7 @@
       "destacada": false,
       "tema": "miami",
       "fecha": "Thu, 22 Oct 2026 15:11:53 +0200",
-      "id": 19
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -261,7 +170,7 @@
       "destacada": false,
       "tema": "españa",
       "fecha": "Thu, 22 Oct 2026 14:58:38 +0200",
-      "id": 20
+      "id": 13
     },
     {
       "categoria": "politica",
@@ -274,7 +183,7 @@
       "destacada": false,
       "tema": "méxico",
       "fecha": "Thu, 22 Oct 2026 13:17:34 +0200",
-      "id": 21
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -287,72 +196,111 @@
       "destacada": false,
       "tema": "iglesias",
       "fecha": "Thu, 22 Oct 2026 12:17:34 +0200",
+      "id": 15
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Las noticias como son",
+      "resumen": "Amado Gil y José Luis Ramos, con Luz Escobar e Hildebrando Chaviano: ministro cubano de Transporte reconoce que el sector tocó fondo. Después que gobierno de EEUU denunció mercenarismo cubano en guerra de Ucrania, La Habana reporta juicios. Ley de educación, mantiene control del gobierno",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/las-noticias-como-son/482554.html",
+      "destacada": false,
+      "tema": "noticias",
+      "fecha": "Thu, 22 Oct 2026 14:56:42 -0400",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"Plantadas\" lleva las historias de presas políticas cubanas a Colombia",
+      "resumen": "La película Plantadas, inspirada en historias de presas políticas cubanas, inaugurará el Festival Internacional de Cine por la Democracia en Colombia, y su director, Lilo Vilaplana, destaca la relevancia de llevar a universidades y otras ciudades la memoria de la represión en la isla.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/plantadas-lleva-las-historias-de-presas-pol%c3%adticas-cubanas-a-colombia/482549.html",
+      "destacada": false,
+      "tema": "plantadas",
+      "fecha": "Thu, 22 Oct 2026 14:28:43 -0400",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al Día",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481518.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Thu, 22 Oct 2026 14:00:00 -0400",
+      "id": 18
+    },
+    {
+      "categoria": "economia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "¿Dónde están los mercados de barrio en Cuba y qué opinan los lectores de Cubadebate?",
+      "resumen": "¿Cumplen los mercados de barrio su propósito de ofrecer alimentos a precios más asequibles? Los lectores de Cubadebate comparten sus experiencias, cuestionan los precios y señalan dificultades con los pagos y el acceso a estos establecimientos. Aquí también podrán consultar las direcciones de los 30",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/22/donde-estan-los-30-mercados-de-barrio-en-cuba-y-que-opinan-los-lectores-de-cubadebate/",
+      "destacada": false,
+      "tema": "dónde",
+      "fecha": "Thu, 22 Oct 2026 19:15:02 +0000",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Audiencia Pública Parlamentaria “Cuba no es una amenaza, el bloqueo sí” denuncia los efectos del bloqueo de EE.UU.",
+      "resumen": "La Audiencia Pública Parlamentaria se realizó en el Instituto Nacional de Oncología y Radiobiología, a pocos días de la votación en Naciones Unidas contra el cerco económico, comercial y financiero impuesto por Estados Unidos a la Isla. The post Audiencia Pública Parlamentaria “Cuba no es una amenaz",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/22/audiencia-publica-parlamentaria-cuba-no-es-una-amenaza-el-bloqueo-si-denuncia-los-efectos-del-bloqueo-de-ee-uu/",
+      "destacada": false,
+      "tema": "audiencia",
+      "fecha": "Thu, 22 Oct 2026 18:51:30 +0000",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba aprueba programa para dotar de activos productivos a personas en situación de vulnerabilidad",
+      "resumen": "Cuba aprobó el Acuerdo 10455, que establece el Programa de inclusión económica para la dotación de activos productivos de pequeña escala a personas en situación de vulnerabilidad multidimensional, una iniciativa que busca favorecer su incorporación a actividades económicas y contribuir a superar las",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/22/cuba-aprueba-programa-para-dotar-de-activos-productivos-a-personas-en-situacion-de-vulnerabilidad/",
+      "destacada": false,
+      "tema": "aprueba",
+      "fecha": "Thu, 22 Oct 2026 18:24:01 +0000",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Esta tarde en la Mesa Redonda: Audiencia parlamentaria contra el bloqueo",
+      "resumen": "La Mesa Redonda transmitirá en su espacio la audiencia parlamentaria contra el bloqueo “Cuba no es una amenaza, el bloqueo sí”, realizada en esta jornada en el Instituto Nacional de Oncología y Radiobiología. The post Esta tarde en la Mesa Redonda: Audiencia parlamentaria contra el bloqueo first app",
+      "imagen_url": "",
+      "enlace_original": "http://mesaredonda.cubadebate.cu/noticias/2026/10/22/esta-tarde-en-la-mesa-redonda-audiencia-parlamentaria-contra-el-bloqueo/",
+      "destacada": false,
+      "tema": "tarde",
+      "fecha": "Thu, 22 Oct 2026 18:12:28 +0000",
       "id": 22
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel pide 'sensibilidad' mientras una madre de ocho hijos denuncia hambre y ayudas negadas",
-      "resumen": "Díaz-Canel promete atención a las familias mientras una madre de ocho hijos denuncia hambre y ayudas negadas. El Gobierno registra más de 883.000 personas como vulnerables y esta es la referencia que usa para identificarlas.",
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El libro “Y en eso llegó Fidel” llega a Casa de las Américas",
+      "resumen": "La Casa de las Américas informó este miércoles sobre la llegada a su sede del libro “Y en eso llegó Fidel”, publicado por Ediciones La Estaca y dedicado al líder histórico de la Revolución Cubana. Inspirado en la canción del trovador Carlos Puebla, el volumen reúne cerca de treinta autores que refle",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792662487_69496.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/22/el-libro-y-en-eso-llego-fidel-llega-a-casa-de-las-americas/",
       "destacada": false,
-      "tema": "canel",
-      "fecha": "Thu, 22 Oct 2026 11:48:07 +0200",
+      "tema": "libro",
+      "fecha": "Thu, 22 Oct 2026 17:15:47 +0000",
       "id": 23
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Retiran ciudadanía estadounidense a cubana que ocultó antecedentes penales",
-      "resumen": "El Departamento de Justicia de Estados Unidos anunció la revocación de la ciudadanía de la cubana Milagros Marileisis Acosta Torres, luego de que ocultara su participación en una conspiración para cometer lavado de dinero vinculada al desfalco de un casino tribal en Florida.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/eeuu-retira-ciudadan%c3%ada-a-cubana-por-mentir-en-antecedentes-penales/482542.html",
-      "destacada": false,
-      "tema": "retiran",
-      "fecha": "Thu, 22 Oct 2026 12:10:00 -0400",
-      "id": 24
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 12:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481514.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Thu, 22 Oct 2026 12:00:00 -0400",
-      "id": 25
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "EEUU acusa al régimen cubano de utilizar votación sobre el embargo para aferrarse al poder",
-      "resumen": "El subsecretario de Estado de EEUU para Asuntos del Hemisferio Occidental, Juan Pablo Segura, acusó al régimen cubano de usar la votación anual de la ONU sobre el embargo para presentarla como un respaldo internacional a su permanencia en el poder.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/eeuu-acusa-al-r%c3%a9gimen-cubano-de-utilizar-votaci%c3%b3n-sobre-el-embargo-para-aferrarse-al-poder/482536.html",
-      "destacada": false,
-      "tema": "acusa",
-      "fecha": "Thu, 22 Oct 2026 11:36:27 -0400",
-      "id": 26
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barrio adentro",
-      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481511.html",
-      "destacada": false,
-      "tema": "barrio",
-      "fecha": "Thu, 22 Oct 2026 11:30:00 -0400",
-      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -365,7 +313,7 @@
       "destacada": false,
       "tema": "inicia",
       "fecha": "Thu, 22 Oct 2026 16:59:11 +0000",
-      "id": 28
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -378,20 +326,7 @@
       "destacada": false,
       "tema": "centro",
       "fecha": "Thu, 22 Oct 2026 15:55:58 +0000",
-      "id": 29
-    },
-    {
-      "categoria": "energia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "UJC lanza “La talla, es hacer”, campaña que impulsa el protagonismo de la juventud cubana",
-      "resumen": "Entre actividades y con la energía que caracteriza a las nuevas generaciones, se realizó este miércoles, en la capital, el lanzamiento oficial de la campaña “La talla, es hacer\", dando inicio a la jornada de celebración por los 65 años de la Unión de Jóvenes Comunistas (UJC), a conmemorarse el 4 de ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/22/ujc-lanza-la-talla-es-hacer-campana-que-impulsa-el-protagonismo-de-la-juventud-cubana/",
-      "destacada": false,
-      "tema": "lanza",
-      "fecha": "Thu, 22 Oct 2026 15:39:25 +0000",
-      "id": 30
+      "id": 25
     },
     {
       "categoria": "politica",
@@ -404,7 +339,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Thu, 22 Oct 26 08:15:00 +0200",
-      "id": 31
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -417,7 +352,7 @@
       "destacada": false,
       "tema": "otacosa",
       "fecha": "Thu, 22 Oct 26 08:13:00 +0200",
-      "id": 32
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -430,7 +365,7 @@
       "destacada": false,
       "tema": "gente",
       "fecha": "Thu, 22 Oct 26 08:12:00 +0200",
-      "id": 33
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -443,7 +378,7 @@
       "destacada": false,
       "tema": "castro",
       "fecha": "Thu, 22 Oct 26 08:04:00 +0200",
-      "id": 34
+      "id": 29
     },
     {
       "categoria": "energia",
@@ -456,7 +391,7 @@
       "destacada": false,
       "tema": "energía",
       "fecha": "Thu, 22 Oct 26 07:47:00 +0200",
-      "id": 35
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -469,7 +404,7 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Thu, 22 Oct 26 07:41:00 +0200",
-      "id": 36
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -482,7 +417,7 @@
       "destacada": false,
       "tema": "quieren",
       "fecha": "Thu, 22 Oct 26 07:39:00 +0200",
-      "id": 37
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -495,7 +430,7 @@
       "destacada": false,
       "tema": "desmonta",
       "fecha": "Thu, 22 Oct 26 07:35:00 +0200",
-      "id": 38
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -508,7 +443,7 @@
       "destacada": false,
       "tema": "homenaje",
       "fecha": "Thu, 22 Oct 26 07:05:00 +0200",
-      "id": 39
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -521,20 +456,46 @@
       "destacada": false,
       "tema": "homenaje",
       "fecha": "Thu, 22 Oct 26 07:01:00 +0200",
-      "id": 40
+      "id": 35
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "oficial",
-      "titulo": "Barrio Debate en Plaza de la Revolución: ¡NO! al bloqueo contra Cuba",
-      "resumen": "Vecinos y participantes del capitalino municipio de Plaza de la Revolución se reunieron para debatir sobre las consecuencias del cerco económico, comercial y financiero impuesto por Estados Unidos a la Isla La entrada Barrio Debate en Plaza de la Revolución: ¡NO! al bloqueo contra Cuba se publicó pr",
+      "titulo": "Taller tributará a conservación de patrimonio documental",
+      "resumen": "Está destinado a la formación teórica y práctica de capacidades en materias como la digitalización La entrada Taller tributará a conservación de patrimonio documental se publicó primero en Tribuna de La Habana.",
       "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/barrio-debate-en-plaza-de-la-revolucion-no-al-bloqueo-contra-cuba/",
+      "enlace_original": "https://www.tribuna.cu/taller-tributara-a-conservacion-de-patrimonio-documental/",
       "destacada": false,
-      "tema": "barrio",
-      "fecha": "Thu, 22 Oct 2026 02:22:11 +0000",
-      "id": 41
+      "tema": "taller",
+      "fecha": "Thu, 22 Oct 2026 19:02:14 +0000",
+      "id": 36
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Escuela de Eduación Vial y Conducción de La Habana convoca a ferias este sábado",
+      "resumen": "En todos los municipios de la capital. En el horario de 9:00 a.m a 1:00 p.m. La entrada Escuela de Eduación Vial y Conducción de La Habana convoca a ferias este sábado se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/escuela-de-eduacion-vial-y-conduccion-de-la-habana-convoca-a-ferias-este-sabado/",
+      "destacada": false,
+      "tema": "escuela",
+      "fecha": "Thu, 22 Oct 2026 19:02:52 +0000",
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Lanzan campaña por el aniversario 65 de la Unión de Jóvenes Comunistas",
+      "resumen": "Con el lema \"La talla, es hacer\" la campaña invita a todos los jóvenes a seguir luchando por Cuba desde los centros estudiantiles y laborales, la comunidad y en el espectro digital La entrada Lanzan campaña por el aniversario 65 de la Unión de Jóvenes Comunistas se publicó primero en Tribuna de La H",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/lanzan-campana-por-el-aniversario-65-de-la-union-de-jovenes-comunistas/",
+      "destacada": false,
+      "tema": "lanzan",
+      "fecha": "Thu, 22 Oct 2026 19:07:04 +0000",
+      "id": 38
     },
     {
       "categoria": "transporte",
@@ -547,7 +508,7 @@
       "destacada": false,
       "tema": "varadero",
       "fecha": "Thu, 22 Oct 2026 12:54:00 +0000",
-      "id": 42
+      "id": 39
     },
     {
       "categoria": "economia",
@@ -560,7 +521,7 @@
       "destacada": false,
       "tema": "suben",
       "fecha": "Thu, 22 Oct 2026 16:31:20 GMT",
-      "id": 43
+      "id": 40
     },
     {
       "categoria": "economia",
@@ -573,7 +534,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "id": 44
+      "id": 41
     }
   ]
 }
