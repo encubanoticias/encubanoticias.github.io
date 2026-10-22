@@ -195,6 +195,20 @@ main { padding: 1rem; max-width: 900px; margin: 0 auto; }
     <div id="lista-fuentes" style="margin-top:0.75rem"></div>
   </section>
 
+  <section class="seccion" id="sec-fb">
+   <div class="campo">
+     <label>Generador de Post para Facebook</label>
+     <p style="font-size:0.85rem; color:var(--texto-suave); margin-bottom:0.5rem;">
+       Genera un bloque con los últimos titulares, sin enlaces ni resúmenes. Ideal para el post y el primer comentario.
+     </p>
+     <button class="btn" id="btn-generar-fb">✨ Generar Bloque</button>
+   </div>
+   <div class="campo">
+     <textarea id="fb-resultado" rows="12" readonly placeholder="Aquí aparecerá el texto..."></textarea>
+   </div>
+   <button class="btn" id="btn-copiar-fb">📋 Copiar todo el texto</button>
+ </section>
+  
   <section class="seccion" id="sec-estado">
     <div id="estado-contenido"></div>
   </section>
