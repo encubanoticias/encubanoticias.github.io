@@ -626,15 +626,6 @@ if (btnSubir) {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 }
-function ajustarTicker() {
-  const header = document.querySelector('header');
-  const ticker = document.getElementById('ticker');
-  if (header && ticker) {
-    // Forzamos a que el ticker se pegue exactamente a la altura del header
-    const altura = header.getBoundingClientRect().height;
-    ticker.style.top = altura + 'px';
-  }
-}
 
 // Ejecutar al cargar y al cambiar el tamaño
 window.addEventListener('load', ajustarTicker);
