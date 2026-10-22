@@ -536,7 +536,9 @@ document.getElementById('btn-generar-fb').onclick = () => {
   // 4. Formatear los titulares
   let bloqueTitulares = "";
   seleccionadas.forEach((n, i) => {
-    const etiqueta = "MEDIO " + n.fuente_tipo.toUpperCase();
+    let tipoTexto = n.fuente_tipo;
+if (tipoTexto === 'alternativa') tipoTexto = 'alternativo';
+const etiqueta = "MEDIO " + tipoTexto.toUpperCase();
     bloqueTitulares += `${i + 1}. ${n.titulo} — ${etiqueta}\n`;
   });
 
