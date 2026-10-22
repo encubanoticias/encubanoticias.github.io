@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-22",
-  "hora": "12:22",
-  "total": 44,
+  "hora": "13:34",
+  "total": 46,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -30,17 +30,30 @@
       "id": 2
     },
     {
-      "categoria": "transporte",
+      "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Exigen en Bolivia cese del bloqueo de EEUU a Cuba",
-      "resumen": "La Paz, 22 oct (Prensa Latina) La presidenta del Comité de Solidaridad de Bolivia con Cuba en La Paz, Alidson Gómez, exigió hoy el levantamiento del bloqueo económico, financiero y comercial de Estados Unidos contra la Isla, mecanismo que calificó de ilegal e inhumano. The post Exigen en Bolivia ces",
+      "titulo": "Embajador cubano en Brasil rechaza polémico evento en ONU",
+      "resumen": "Brasilia, 22 oct (Prensa Latina) El embajador de Cuba en Brasil, Víctor Cairo, criticó hoy un evento organizado por Estados Unidos en la sede de Naciones Unidas de Nueva York y denunció maniobras diplomáticas norteamericanas contra su país. The post Embajador cubano en Brasil rechaza polémico evento",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/22/exigen-en-bolivia-cese-del-bloqueo-de-eeuu-a-cuba/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/22/embajador-cubano-en-brasil-rechaza-polemico-evento-en-onu/",
       "destacada": true,
-      "tema": "exigen",
-      "fecha": "Thu, 22 Oct 2026 12:13:18 +0000",
+      "tema": "embajador",
+      "fecha": "Thu, 22 Oct 2026 13:31:49 +0000",
       "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Embajador cubano en Santa Sede denuncia carácter genocida del bloqueo",
+      "resumen": "Ciudad del Vaticano, 22 oct (Prensa Latina) El embajador de Cuba ante la Santa Sede, Leyde Rodríguez, denunció hoy el carácter genocida del bloqueo económico, comercial y financiero impuesto por Estados Unidos a su país su recrudecimiento desde inicios de este año. The post Embajador cubano en Santa",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/22/embajador-cubano-en-santa-sede-denuncia-caracter-genocida-del-bloqueo/",
+      "destacada": true,
+      "tema": "embajador",
+      "fecha": "Thu, 22 Oct 2026 13:30:50 +0000",
+      "id": 4
     },
     {
       "categoria": "energia",
@@ -53,7 +66,7 @@
       "destacada": true,
       "tema": "habana",
       "fecha": "Wed, 21 Oct 2026 17:40:37 +0000",
-      "id": 4
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -63,10 +76,10 @@
       "resumen": "El anteproyecto abre espacio al sector privado en los servicios educativos y el financiamiento, pero mantiene las escuelas en manos del Estado",
       "imagen_url": "https://static.14ymedio.com/clip/ff740be5-37f1-4674-a085-79b4cedd99e9_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/nueva-ley-educacion-cuba-control_1_1132223.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "nueva",
       "fecha": "Wed, 21 Oct 2026 16:07:12 +0000",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -79,19 +92,6 @@
       "destacada": false,
       "tema": "cerro",
       "fecha": "Wed, 21 Oct 2026 14:31:55 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Un total de 11 balseros cubanos han llegado este mes a Cancún",
-      "resumen": "El titular de la Capitanía Regional de Puerto Juárez dice que los migrantes llegaron en dos embarcaciones y confirma el abandono de otras balsas en la región",
-      "imagen_url": "https://static.14ymedio.com/clip/d8dd07e2-ecc4-40ea-8206-dbb590fa594e_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/migracion/total-11-balseros-cubanos-han_1_1132238.html",
-      "destacada": false,
-      "tema": "total",
-      "fecha": "Wed, 21 Oct 2026 20:30:09 +0000",
       "id": 7
     },
     {
@@ -111,66 +111,105 @@
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "De trabajar en un restaurante a formar a 50,000 estudiantes: la historia del cubano Adalberto Ravelo | $how me the mon€y EP3",
+      "titulo": "¡Imposible no emocionarse! Cubana rescata sus fotos de 15 años y cuenta la triste historia que hay detrás",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e129488-s27061-nid343427-trabajar-restaurante-formar-50000-estudiantes",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u65722-e65722-s27065-nid343500-imposible-emocionarse-cubana-rescata-sus-fotos-15",
       "destacada": false,
-      "tema": "trabajar",
-      "fecha": "Thu, 22 Oct 2026 11:19:23 +0200",
+      "tema": "imposible",
+      "fecha": "Thu, 22 Oct 2026 15:02:31 +0200",
       "id": 9
     },
     {
-      "categoria": "economia",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cierra el mercado informal en Cuba: El dólar y el euro suben al final de la jornada",
+      "titulo": "¡Lo reconoció sin verlo! Padre llega chiflando a Cuba y su hija protagoniza un emotivo reencuentro",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e208574-s27061-nid343481-cierra-mercado-informal-cuba-dolar-euro-suben-al",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u65722-e65722-s27065-nid343496-reconocio-verlo-padre-llega-chiflando-cuba-hija",
       "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Thu, 22 Oct 2026 03:04:02 +0200",
+      "tema": "reconoció",
+      "fecha": "Thu, 22 Oct 2026 14:47:17 +0200",
       "id": 10
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.radiocubana.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Desde Criterio Compartido reafirma Díaz-Canel: «Nadie queda atrás»",
-      "resumen": "La voluntad de no dejar a nadie desamparado en las actuales circunstancias primó hoy, en la emisión de Criterio Compartido, conducido por el Miguel Díaz-Canel Bermúdez, Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, y la periodista Bárbara Betancourt",
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«¡Ay, perdimos a Lalito!»: Cubana se monta en una yegua en EE.UU. y termina dando tremendo espectáculo",
+      "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/desde-criterio-compartido-reafirma-diaz-canel-nadie-queda-atras/",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u65722-e65722-s27065-nid343495-ay-perdimos-lalito-cubana-monta-yegua-eeuu",
       "destacada": false,
-      "tema": "criterio",
-      "fecha": "Wed, 21 Oct 2026 15:41:53 +0000",
+      "tema": "perdimos",
+      "fecha": "Thu, 22 Oct 2026 14:41:18 +0200",
       "id": 11
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Denuncia Canciller cubano ofensiva de EE.UU. para modificar votación en ONU",
-      "resumen": "La votación de la resolución contra el bloqueo tendrá lugar este 28 de octubre en condiciones inusuales, marcadas por el brutal endurecimiento del cerco económico y una campaña de presiones, intimidaciones y chantajes del gobierno estadounidense",
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubano que regresó a vivir a Cuba revela lo que más extraña de EE.UU.: «No aparece nada»",
+      "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261021/denuncia-canciller-cubano-ofensiva-de-ee-uu-para-modificar-votacion-en-onu/",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u65722-e65722-s27065-nid343491-cubano-regreso-vivir-cuba-revela-extrana-eeuu",
       "destacada": false,
-      "tema": "denuncia",
-      "fecha": "Wed, 21 Oct 2026 18:19:00 +0000",
+      "tema": "cubano",
+      "fecha": "Thu, 22 Oct 2026 14:27:47 +0200",
       "id": 12
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Ciencia e innovación a favor del actuar de los tribunales",
-      "resumen": "La XVI Jornada de Ciencia e Innovación tendrá lugar este viernes en el teatro Heredia de la ciudad de Santiago de Cuba",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¡Como en los viejos tiempos! Tremenda descarga nocturna en el Malecón de La Habana despierta nostalgia",
+      "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261021/ciencia-e-innovacion-a-favor-del-actuar-de-los-tribunales/",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u65722-e65722-s27065-nid343490-viejos-tiempos-tremenda-descarga-nocturna-malecon",
       "destacada": false,
-      "tema": "ciencia",
-      "fecha": "Wed, 21 Oct 2026 17:33:10 +0000",
+      "tema": "viejos",
+      "fecha": "Thu, 22 Oct 2026 14:19:33 +0200",
       "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Madre cubana de cuatro hijos es asesinada en Holguín presuntamente por un vecino: dos menores fueron testigos del crimen",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e129488-s27061-nid343493-horror-gibara-cubana-madre-cuatro-hijos-asesinada",
+      "destacada": false,
+      "tema": "madre",
+      "fecha": "Thu, 22 Oct 2026 14:08:44 +0200",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Miami dedicará un nuevo espacio público a Celia Cruz, mientras el régimen de Cuba se empeña en silenciarla",
+      "resumen": "El comisionado de #Miami Ralph Rosado anuncia la construcción de la #PlazaAzúcar, dedicada a #CeliaCruz. La nueva plaza se suma a otros espacios públicos que rinden homenaje a la cantante en #EEUU, mientras el #RégimenCubano se empeña en silenciar su legado.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cultura/1792674713_69502.html",
+      "destacada": false,
+      "tema": "miami",
+      "fecha": "Thu, 22 Oct 2026 15:11:53 +0200",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "España admite el acceso de la estatal Palco a los sistemas de su Consulado en La Habana",
+      "resumen": "#España admite que empleados de la empresa estatal #Palco acceden a documentos y sistemas del consulado en #LaHabana, pero no precisa qué datos pueden consultar.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792673918_69501.html",
+      "destacada": false,
+      "tema": "españa",
+      "fecha": "Thu, 22 Oct 2026 14:58:38 +0200",
+      "id": 16
     },
     {
       "categoria": "politica",
@@ -183,7 +222,7 @@
       "destacada": false,
       "tema": "méxico",
       "fecha": "Thu, 22 Oct 2026 13:17:34 +0200",
-      "id": 14
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -196,7 +235,7 @@
       "destacada": false,
       "tema": "iglesias",
       "fecha": "Thu, 22 Oct 2026 12:17:34 +0200",
-      "id": 15
+      "id": 18
     },
     {
       "categoria": "politica",
@@ -209,7 +248,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 22 Oct 2026 11:48:07 +0200",
-      "id": 16
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -222,7 +261,7 @@
       "destacada": false,
       "tema": "mario",
       "fecha": "Thu, 22 Oct 2026 07:45:59 +0200",
-      "id": 17
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -235,7 +274,7 @@
       "destacada": false,
       "tema": "señalamientos",
       "fecha": "Thu, 22 Oct 2026 01:10:56 +0200",
-      "id": 18
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -248,7 +287,7 @@
       "destacada": false,
       "tema": "venezuela",
       "fecha": "Thu, 22 Oct 2026 00:01:42 +0200",
-      "id": 19
+      "id": 22
     },
     {
       "categoria": "energia",
@@ -261,20 +300,7 @@
       "destacada": false,
       "tema": "apagones",
       "fecha": "Wed, 21 Oct 2026 22:54:08 +0200",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Habana y Washington elevan el tono de su batalla diplomática ante la votación en la ONU",
-      "resumen": "#LaHabana y #Washington intensifican su pulso diplomático antes de la votación en la #ONU sobre el embargo. #EEUU acusa al régimen cubano de trata de personas, corrupción y privilegios para su élite.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792608187_69489.html",
-      "destacada": false,
-      "tema": "habana",
-      "fecha": "Wed, 21 Oct 2026 20:43:07 +0200",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "economia",
@@ -287,7 +313,7 @@
       "destacada": false,
       "tema": "martinoticias",
       "fecha": "Thu, 22 Oct 2026 08:00:00 -0400",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Thu, 22 Oct 2026 07:00:00 -0400",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "politica",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "patria",
       "fecha": "Thu, 22 Oct 2026 06:13:15 -0400",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -326,7 +352,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Thu, 22 Oct 2026 00:00:30 -0400",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -339,7 +365,7 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Wed, 21 Oct 2026 21:00:00 -0400",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "politica",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Thu, 22 Oct 2026 02:18:37 +0000",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -365,7 +391,7 @@
       "destacada": false,
       "tema": "serie",
       "fecha": "Wed, 21 Oct 2026 22:48:27 +0000",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -378,7 +404,7 @@
       "destacada": false,
       "tema": "presentan",
       "fecha": "Wed, 21 Oct 2026 22:20:58 +0000",
-      "id": 29
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -391,7 +417,7 @@
       "destacada": false,
       "tema": "isabel",
       "fecha": "Wed, 21 Oct 2026 21:32:37 +0000",
-      "id": 30
+      "id": 32
     },
     {
       "categoria": "politica",
@@ -404,7 +430,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Thu, 22 Oct 26 08:15:00 +0200",
-      "id": 31
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -417,7 +443,7 @@
       "destacada": false,
       "tema": "otacosa",
       "fecha": "Thu, 22 Oct 26 08:13:00 +0200",
-      "id": 32
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -430,7 +456,7 @@
       "destacada": false,
       "tema": "gente",
       "fecha": "Thu, 22 Oct 26 08:12:00 +0200",
-      "id": 33
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -443,7 +469,7 @@
       "destacada": false,
       "tema": "castro",
       "fecha": "Thu, 22 Oct 26 08:04:00 +0200",
-      "id": 34
+      "id": 36
     },
     {
       "categoria": "energia",
@@ -456,7 +482,7 @@
       "destacada": false,
       "tema": "energía",
       "fecha": "Thu, 22 Oct 26 07:47:00 +0200",
-      "id": 35
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -469,7 +495,7 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Thu, 22 Oct 26 07:41:00 +0200",
-      "id": 36
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -482,7 +508,7 @@
       "destacada": false,
       "tema": "quieren",
       "fecha": "Thu, 22 Oct 26 07:39:00 +0200",
-      "id": 37
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -495,7 +521,7 @@
       "destacada": false,
       "tema": "desmonta",
       "fecha": "Thu, 22 Oct 26 07:35:00 +0200",
-      "id": 38
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -508,7 +534,7 @@
       "destacada": false,
       "tema": "homenaje",
       "fecha": "Thu, 22 Oct 26 07:05:00 +0200",
-      "id": 39
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -521,7 +547,7 @@
       "destacada": false,
       "tema": "homenaje",
       "fecha": "Thu, 22 Oct 26 07:01:00 +0200",
-      "id": 40
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -534,7 +560,7 @@
       "destacada": false,
       "tema": "salón",
       "fecha": "Wed, 21 Oct 2026 15:39:17 +0000",
-      "id": 41
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -547,7 +573,7 @@
       "destacada": false,
       "tema": "barrio",
       "fecha": "Thu, 22 Oct 2026 02:22:11 +0000",
-      "id": 42
+      "id": 44
     },
     {
       "categoria": "salud",
@@ -560,7 +586,7 @@
       "destacada": false,
       "tema": "refuerza",
       "fecha": "Wed, 21 Oct 2026 14:43:19 +0000",
-      "id": 43
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -573,7 +599,7 @@
       "destacada": false,
       "tema": "museo",
       "fecha": "Wed, 21 Oct 2026 14:57:24 +0000",
-      "id": 44
+      "id": 46
     }
   ]
 }
