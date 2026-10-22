@@ -1,46 +1,33 @@
 {
   "fecha": "2026-10-22",
-  "hora": "19:24",
-  "total": 41,
+  "hora": "21:20",
+  "total": 50,
   "noticias": [
     {
       "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Celebran Audiencia Pública Parlamentaria Cuba no es una amenaza, el bloqueo sí",
-      "resumen": "La Audiencia Pública Parlamentaria se realizó en el Instituto Nacional de Oncología y Radiobiología, a pocos días de la votación en Naciones Unidas contra el cerco económico, comercial y financiero impuesto por Estados Unidos a la Isla",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Mayabeque frena a Villa Clara en béisbol de Cuba",
+      "resumen": "Santa Clara, Cuba, 22 oct (Prensa Latina) El equipo de béisbol de Mayabeque derrotó hoy a Villa Clara dos careras a cero y frenó el ímpetu local que los había vencido por partida doble ayer en el estadio Augusto César Sandino de esta ciudad cubana. The post Mayabeque frena a Villa Clara en béisbol d",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-22/realizan-audiencia-parlamentaria-cubanoesunaamenaza-el-bloqueo-si-22-10-2026-11-10-11",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/22/mayabeque-frena-a-villa-clara-en-beisbol-de-cuba/",
       "destacada": true,
-      "tema": "celebran",
-      "fecha": "Thu, 22 Oct 2026 11:10:11 -0400",
+      "tema": "mayabeque",
+      "fecha": "Thu, 22 Oct 2026 21:01:55 +0000",
       "id": 1
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Foro Italia-Cuba fomenta oportunidades de inversión bilateral",
-      "resumen": "Roma, 22 oct (Prensa Latina) El fortalecimiento de las relaciones económicas entre Italia y Cuba y las oportunidades de inversión en la isla centraron hoy el Foro Italia-Cuba, celebrado en la Sala Mechelli del Consejo Regional del Lazio, en esta capital. The post Foro Italia-Cuba fomenta oportunidad",
+      "titulo": "Cuba cae ante Venezuela en Panamericano sub-18 en Dominicana",
+      "resumen": "Santo Domingo, 22 oct (Prensa Latina) Cuba perdió hoy por 4-5 ante Venezuela en su debut en el Campeonato Panamericano de Béisbol sub-18, que se disputa en República Dominicana hasta el 29 de octubre. The post Cuba cae ante Venezuela en Panamericano sub-18 en Dominicana first appeared on Noticias Pr",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/22/foro-italia-cuba-fomenta-oportunidades-de-inversion-bilateral/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/22/cuba-cae-ante-venezuela-en-panamericano-sub-18-en-dominicana/",
       "destacada": true,
-      "tema": "italia",
-      "fecha": "Thu, 22 Oct 2026 19:10:09 +0000",
+      "tema": "venezuela",
+      "fecha": "Thu, 22 Oct 2026 20:13:20 +0000",
       "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Bloqueo de EEUU viola derechos políticos y civiles, denuncian en Cuba (+Foto)",
-      "resumen": "La Habana, 22 oct (Prensa Latina) La presidenta de la Asociación Cubana de Naciones Unidas (ACNU), Norma Goicochea, denunció hoy que el bloqueo impuesto por Estados Unidos viola los derechos civiles y políticos al ser utilizado como herramienta para intentar derrocar la Revolución. The post Bloqueo ",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/22/bloqueo-de-eeuu-viola-derechos-politicos-y-civiles-denuncian-en-cuba/",
-      "destacada": true,
-      "tema": "bloqueo",
-      "fecha": "Thu, 22 Oct 2026 18:24:58 +0000",
-      "id": 3
     },
     {
       "categoria": "transporte",
@@ -53,6 +40,19 @@
       "destacada": true,
       "tema": "transporte",
       "fecha": "Thu, 22 Oct 2026 17:19:46 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El fútbol oficialista pide unos mil euros a jóvenes cubanos para participar en pruebas en España",
+      "resumen": "Los candidatos, de entre 16 y 20 años, podrán entrenar con la selección cubana Sub 17 en Huelva un par de días, los 2 y 3 de noviembre",
+      "imagen_url": "https://static.14ymedio.com/clip/0c2c3af5-3bc1-4b83-bbaa-1820fcd2555c_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/deportes/futbol-oficialista-pide-mil-euros_1_1132283.html",
+      "destacada": true,
+      "tema": "tipo_cambio",
+      "fecha": "Thu, 22 Oct 2026 19:42:45 +0000",
       "id": 4
     },
     {
@@ -69,6 +69,19 @@
       "id": 5
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Una ONG denuncia que EE UU deportará a migrantes enfermos, entre ellos cubanos, a África",
+      "resumen": "A Noslén Sendra, con diabetes y pancreatitis aguda, le dijeron que México lo rechazó",
+      "imagen_url": "https://static.14ymedio.com/clip/9a4144ab-ae0b-4f79-966f-a4760168d409_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/migracion/ong-denuncia-ee-uu-deportara_1_1132288.html",
+      "destacada": false,
+      "tema": "denuncia",
+      "fecha": "Thu, 22 Oct 2026 20:48:41 +0000",
+      "id": 6
+    },
+    {
       "categoria": "transporte",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -79,20 +92,98 @@
       "destacada": false,
       "tema": "dispara",
       "fecha": "Thu, 22 Oct 2026 17:14:43 +0000",
-      "id": 6
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Autoridades mexicanas confirman arribo de dos embarcaciones con cubanos a Quintana Roo",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e129488-s27061-nid343508-autoridades-mexicanas-confirman-arribo-dos",
+      "destacada": false,
+      "tema": "autoridades",
+      "fecha": "Thu, 22 Oct 2026 22:17:02 +0200",
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Ferrer: «El pueblo cubano quiere que los capturen ya»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e209399-s27061-nid343546-ferrer-pueblo-cubano-quiere-capturen",
+      "destacada": false,
+      "tema": "ferrer",
+      "fecha": "Thu, 22 Oct 2026 22:14:57 +0200",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Rusia y China defienden a Raúl Castro y Moscú advierte de una posible migración masiva de cubanos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e208933-s27061-nid343544-rusia-china-defienden-raul-castro-moscu-advierte",
+      "destacada": false,
+      "tema": "rusia",
+      "fecha": "Thu, 22 Oct 2026 21:55:54 +0200",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "José Daniel Ferrer: «Si alguien me dice que pierdo el tiempo, me voy pa' Cuba»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e209399-s27061-nid343545-jose-daniel-ferrer-alguien-me-dice-pierdo-tiempo-me",
+      "destacada": false,
+      "tema": "daniel",
+      "fecha": "Thu, 22 Oct 2026 21:38:34 +0200",
+      "id": 11
     },
     {
       "categoria": "politica",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Para acusar de terrorismo a Gutiérrez-Boronat, Díaz-Canel cita a Bruno y la lista del propio régimen",
+      "titulo": "«Van a cambiar el voto porque se acobardan»: Díaz-Canel anticipa menos apoyos en la ONU",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e74-s27061-nid343539-acusar-gutierrez-boronat-diaz-canel-cita-bruno-lista",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e74-s27061-nid343543-van-cambiar-voto-porque-acobardan-diaz-canel-anticipa",
       "destacada": false,
-      "tema": "acusar",
-      "fecha": "Thu, 22 Oct 2026 20:20:59 +0200",
-      "id": 7
+      "tema": "cambiar",
+      "fecha": "Thu, 22 Oct 2026 21:05:25 +0200",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Un día como hoy en la vida y obra de Fidel. 22 de octubre",
+      "resumen": "&#8211; 22 de octubre de 1959. Fidel en el programa televisivo Ante la Prensa denuncia los hechos terroristas realizados el día anterior en La Habana por avionetas procedentes de los Estados Unidos de América. Resalta que creía en la firmeza del pueblo cubano. Señala: &#160; “Porque nunca el pueblo ",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/un-dia-como-hoy-en-la-vida-y-obra-de-fidel/un-dia-como-hoy-en-la-vida-y-obra-de-fidel-22-de-octubre/",
+      "destacada": false,
+      "tema": "fidel",
+      "fecha": "Thu, 22 Oct 2026 19:48:21 +0000",
+      "id": 13
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Tras negar sus vínculos con la guerra de Ucrania, funcionarios del régimen se unen a un evento contra Kiev",
+      "resumen": "Mientras #LaHabana niega su participación en la guerra de #Ucrania, funcionarios cubanos respaldan a #Moscú y participan en una teleconferencia que condena a #Kiev.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792702308_69506.html",
+      "destacada": false,
+      "tema": "apagones",
+      "fecha": "Thu, 22 Oct 2026 22:51:48 +0200",
+      "id": 14
     },
     {
       "categoria": "transporte",
@@ -105,7 +196,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Thu, 22 Oct 2026 20:52:04 +0200",
-      "id": 8
+      "id": 15
     },
     {
       "categoria": "transporte",
@@ -118,7 +209,7 @@
       "destacada": false,
       "tema": "envía",
       "fecha": "Thu, 22 Oct 2026 19:18:03 +0200",
-      "id": 9
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -131,7 +222,7 @@
       "destacada": false,
       "tema": "condenado",
       "fecha": "Thu, 22 Oct 2026 18:42:34 +0200",
-      "id": 10
+      "id": 17
     },
     {
       "categoria": "politica",
@@ -144,7 +235,7 @@
       "destacada": false,
       "tema": "leydis",
       "fecha": "Thu, 22 Oct 2026 18:01:15 +0200",
-      "id": 11
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -157,7 +248,7 @@
       "destacada": false,
       "tema": "miami",
       "fecha": "Thu, 22 Oct 2026 15:11:53 +0200",
-      "id": 12
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -170,7 +261,7 @@
       "destacada": false,
       "tema": "españa",
       "fecha": "Thu, 22 Oct 2026 14:58:38 +0200",
-      "id": 13
+      "id": 20
     },
     {
       "categoria": "politica",
@@ -183,72 +274,124 @@
       "destacada": false,
       "tema": "méxico",
       "fecha": "Thu, 22 Oct 2026 13:17:34 +0200",
-      "id": 14
+      "id": 21
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Vecinos en varias provincias de Cuba reportan hasta cuatro meses sin servicio de agua",
+      "resumen": "Residentes en distintas regiones de Cuba reportan suspensiones prolongadas del servicio de agua por tuberías, recurriendo al consumo de agua de lluvia, el acarreo desde pozos artesanales y la compra de camiones cisterna a precios elevadísimos.En el municipio de San Juan y Martínez, Pinar del Río, Mi",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/482561.html",
+      "destacada": false,
+      "tema": "vecinos",
+      "fecha": "Thu, 22 Oct 2026 17:01:08 -0400",
+      "id": 22
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Iglesias cubanas denuncian el acoso del régimen contra dos pastores por 'servir a los más vulnerables'",
-      "resumen": "La Alianza de Iglesias Cubanas No Registradas (AICNOR) denuncia el acoso del #RégimenCubano contra los líderes religiosos Mario Jorge Travieso y su esposa Velmis Adriana Mariño por asistir a #cubanos vulnerables. Exige a las denominaciones registradas que no guarden silencio. #LibertadReligiosa #Der",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1792664254_69497.html",
-      "destacada": false,
-      "tema": "iglesias",
-      "fecha": "Thu, 22 Oct 2026 12:17:34 +0200",
-      "id": 15
-    },
-    {
-      "categoria": "transporte",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Las noticias como son",
-      "resumen": "Amado Gil y José Luis Ramos, con Luz Escobar e Hildebrando Chaviano: ministro cubano de Transporte reconoce que el sector tocó fondo. Después que gobierno de EEUU denunció mercenarismo cubano en guerra de Ucrania, La Habana reporta juicios. Ley de educación, mantiene control del gobierno",
+      "titulo": "Noticiero de Radio Martí 5:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/las-noticias-como-son/482554.html",
+      "enlace_original": "https://www.martinoticias.com/a/481538.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Thu, 22 Oct 2026 17:00:30 -0400",
+      "id": 23
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Crisis en el suministro de agua potable",
+      "resumen": "Uno de cada cuatro cubanos sufre afectaciones totales o parciales en el suministro de agua, una crisis vinculada estrechamente a los prolongados apagones y al deterioro de la infraestructura hidráulica del país.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/crisis-en-el-suministro-de-agua-potable/482566.html",
+      "destacada": false,
+      "tema": "crisis",
+      "fecha": "Thu, 22 Oct 2026 16:30:46 -0400",
+      "id": 24
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Expresos políticos rechazan negociación que pacte permanencia en el poder del régimen en Cuba",
+      "resumen": "Expresos políticos cubanos advirtieron que cualquier negociación para una transición política debe ocurrir después de liberar a los prisioneros políticos en Cuba",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/expresos-pol%c3%adticos-rechazan-negociaci%c3%b3n-que-pacte-permanencia-en-el-poder-del-r%c3%a9gimen-en-cuba/482563.html",
+      "destacada": false,
+      "tema": "expresos",
+      "fecha": "Thu, 22 Oct 2026 16:05:40 -0400",
+      "id": 25
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Las Noticias Como Son",
+      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481530.html",
       "destacada": false,
       "tema": "noticias",
-      "fecha": "Thu, 22 Oct 2026 14:56:42 -0400",
-      "id": 16
+      "fecha": "Thu, 22 Oct 2026 16:05:30 -0400",
+      "id": 26
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "\"Plantadas\" lleva las historias de presas políticas cubanas a Colombia",
-      "resumen": "La película Plantadas, inspirada en historias de presas políticas cubanas, inaugurará el Festival Internacional de Cine por la Democracia en Colombia, y su director, Lilo Vilaplana, destaca la relevancia de llevar a universidades y otras ciudades la memoria de la represión en la isla.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Crecen los cupos de Cuba para el torneo de boxeo de Lima 2027",
+      "resumen": "Cuba elevó a cuatro los cupos asegurados para el torneo de boxeo de los Juegos Panamericanos de Lima 2027 e intentará otros dos este jueves. a cifra se actualizó con los aportes de Saidel Horta (60 kg), Nelson Williams (90 kg) y Yusnier Sorsano (70 kg) en combates que les dejaron bronces en el campe",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/plantadas-lleva-las-historias-de-presas-pol%c3%adticas-cubanas-a-colombia/482549.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/22/crecen-los-cupos-de-cuba-para-el-torneo-de-boxeo-de-lima-2027/",
       "destacada": false,
-      "tema": "plantadas",
-      "fecha": "Thu, 22 Oct 2026 14:28:43 -0400",
-      "id": 17
+      "tema": "crecen",
+      "fecha": "Thu, 22 Oct 2026 20:10:38 +0000",
+      "id": 27
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Ballet Nacional de Cuba dedicará función especial de Giselle a la ONU, en su 81 aniversario",
+      "resumen": "El Ballet Nacional de Cuba, Patrimonio Cultural de la Nación, celebrará el aniversario 81 de la Organización de Naciones Unidas, con una función de gala que tendrá lugar el sábado 24 de octubre, en la Sala Avellaneda del Teatro Nacional a las 7:00 p.m. The post Ballet Nacional de Cuba dedicará funci",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481518.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/22/ballet-nacional-de-cuba-dedicara-funcion-especial-de-giselle-a-la-onu-en-su-81-aniversario/",
       "destacada": false,
-      "tema": "",
-      "fecha": "Thu, 22 Oct 2026 14:00:00 -0400",
-      "id": 18
+      "tema": "ballet",
+      "fecha": "Thu, 22 Oct 2026 20:02:14 +0000",
+      "id": 28
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Don Rubio",
+      "resumen": "A pocos días de la votación en la ONU contra el bloqueo a Cuba, Washington despliega una ofensiva para reducir la mayoría, conseguir abstenciones y fomentar ausencias. Con el embajador Mike Waltz organizando actos para desacreditar a la isla y una orden de arresto contra Raúl Castro anunciada a dos ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/opinion/2026/10/22/don-rubio/",
+      "destacada": false,
+      "tema": "rubio",
+      "fecha": "Thu, 22 Oct 2026 19:50:26 +0000",
+      "id": 29
     },
     {
       "categoria": "economia",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
       "titulo": "¿Dónde están los mercados de barrio en Cuba y qué opinan los lectores de Cubadebate?",
-      "resumen": "¿Cumplen los mercados de barrio su propósito de ofrecer alimentos a precios más asequibles? Los lectores de Cubadebate comparten sus experiencias, cuestionan los precios y señalan dificultades con los pagos y el acceso a estos establecimientos. Aquí también podrán consultar las direcciones de los 30",
+      "resumen": "¿Cumplen los mercados de barrio su propósito de ofrecer alimentos a precios más asequibles? Los lectores de Cubadebate comparten sus experiencias, cuestionan los precios y señalan dificultades con los pagos y el acceso a estos establecimientos. Aquí también podrán consultar las direcciones de 30 de ",
       "imagen_url": "",
       "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/22/donde-estan-los-30-mercados-de-barrio-en-cuba-y-que-opinan-los-lectores-de-cubadebate/",
       "destacada": false,
       "tema": "dónde",
       "fecha": "Thu, 22 Oct 2026 19:15:02 +0000",
-      "id": 19
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -261,7 +404,7 @@
       "destacada": false,
       "tema": "audiencia",
       "fecha": "Thu, 22 Oct 2026 18:51:30 +0000",
-      "id": 20
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -274,7 +417,7 @@
       "destacada": false,
       "tema": "aprueba",
       "fecha": "Thu, 22 Oct 2026 18:24:01 +0000",
-      "id": 21
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -287,46 +430,20 @@
       "destacada": false,
       "tema": "tarde",
       "fecha": "Thu, 22 Oct 2026 18:12:28 +0000",
-      "id": 22
+      "id": 33
     },
     {
       "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
+      "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "El libro “Y en eso llegó Fidel” llega a Casa de las Américas",
-      "resumen": "La Casa de las Américas informó este miércoles sobre la llegada a su sede del libro “Y en eso llegó Fidel”, publicado por Ediciones La Estaca y dedicado al líder histórico de la Revolución Cubana. Inspirado en la canción del trovador Carlos Puebla, el volumen reúne cerca de treinta autores que refle",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/22/el-libro-y-en-eso-llego-fidel-llega-a-casa-de-las-americas/",
+      "titulo": "El compromiso con la Carta de las NNUU es votar contra el bloqueo",
+      "resumen": "Chantajes, amenazas, extorsiones a quienes en la ONU van a votar contra el bloqueo, esa es la acción...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125663-el-compromiso-con-la-carta-de-las-nnuu-es-votar-contra-el-bloqueo.jpg?t=1792701493",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261022/125663/125663-el-compromiso-con-la-carta-de-las-nnuu-es-votar-contra-el-bloqueo",
       "destacada": false,
-      "tema": "libro",
-      "fecha": "Thu, 22 Oct 2026 17:15:47 +0000",
-      "id": 23
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Inicia en La Habana la edición 27 del Festival de Cine Francés",
-      "resumen": "La edición 27 del Festival de Cine Francés comenzará hoy en La Habana con la proyección del filme “Los niños de la resistencia”, dirigido por el cineasta Christophe Barratier en el céntrico Cine Yara. El largometraje es un acercamiento a la historia de Francia, a través de las actuaciones de tres ni",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/22/inicia-en-la-habana-la-edicion-27-del-festival-de-cine-frances/",
-      "destacada": false,
-      "tema": "inicia",
-      "fecha": "Thu, 22 Oct 2026 16:59:11 +0000",
-      "id": 24
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Centro educativo en Nicaragua rinde homenaje permanente al legado de Fidel Castro",
-      "resumen": "El Centro Educativo Comandante Fidel Castro Ruz, que funciona hoy en Ciudad Sandino, constituye un homenaje permanente al legado del comandante en jefe, y a los lazos de hermandad entre Nicaragua y Cuba. The post Centro educativo en Nicaragua rinde homenaje permanente al legado de Fidel Castro first",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/22/centro-educativo-en-nicaragua-rinde-homenaje-permanente-al-legado-de-fidel-castro/",
-      "destacada": false,
-      "tema": "centro",
-      "fecha": "Thu, 22 Oct 2026 15:55:58 +0000",
-      "id": 25
+      "tema": "compromiso",
+      "fecha": "Thu, 22 Oct 26 22:38:00 +0200",
+      "id": 34
     },
     {
       "categoria": "politica",
@@ -339,7 +456,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Thu, 22 Oct 26 08:15:00 +0200",
-      "id": 26
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -352,7 +469,7 @@
       "destacada": false,
       "tema": "otacosa",
       "fecha": "Thu, 22 Oct 26 08:13:00 +0200",
-      "id": 27
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -365,7 +482,7 @@
       "destacada": false,
       "tema": "gente",
       "fecha": "Thu, 22 Oct 26 08:12:00 +0200",
-      "id": 28
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -378,7 +495,7 @@
       "destacada": false,
       "tema": "castro",
       "fecha": "Thu, 22 Oct 26 08:04:00 +0200",
-      "id": 29
+      "id": 38
     },
     {
       "categoria": "energia",
@@ -391,7 +508,7 @@
       "destacada": false,
       "tema": "energía",
       "fecha": "Thu, 22 Oct 26 07:47:00 +0200",
-      "id": 30
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -404,7 +521,7 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Thu, 22 Oct 26 07:41:00 +0200",
-      "id": 31
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -417,7 +534,7 @@
       "destacada": false,
       "tema": "quieren",
       "fecha": "Thu, 22 Oct 26 07:39:00 +0200",
-      "id": 32
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -430,7 +547,7 @@
       "destacada": false,
       "tema": "desmonta",
       "fecha": "Thu, 22 Oct 26 07:35:00 +0200",
-      "id": 33
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -443,20 +560,7 @@
       "destacada": false,
       "tema": "homenaje",
       "fecha": "Thu, 22 Oct 26 07:05:00 +0200",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Homenaje a la Cultura cubana: Con Filo",
-      "resumen": "Con motivo del Día de la Cultura Cubana, el programa Con filo dedicó su edición a la pensadora Isa...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125647-homenaje-a-la-cultura-cubana-con-filo.jpg?t=1792645364",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261022/125647/125647-homenaje-a-la-cultura-cubana-con-filo",
-      "destacada": false,
-      "tema": "homenaje",
-      "fecha": "Thu, 22 Oct 26 07:01:00 +0200",
-      "id": 35
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -469,7 +573,7 @@
       "destacada": false,
       "tema": "taller",
       "fecha": "Thu, 22 Oct 2026 19:02:14 +0000",
-      "id": 36
+      "id": 44
     },
     {
       "categoria": "transporte",
@@ -482,7 +586,7 @@
       "destacada": false,
       "tema": "escuela",
       "fecha": "Thu, 22 Oct 2026 19:02:52 +0000",
-      "id": 37
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -495,7 +599,7 @@
       "destacada": false,
       "tema": "lanzan",
       "fecha": "Thu, 22 Oct 2026 19:07:04 +0000",
-      "id": 38
+      "id": 46
     },
     {
       "categoria": "transporte",
@@ -508,7 +612,20 @@
       "destacada": false,
       "tema": "varadero",
       "fecha": "Thu, 22 Oct 2026 12:54:00 +0000",
-      "id": 39
+      "id": 47
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Bruno Rodríguez y la necesidad de mentir para conservar",
+      "resumen": "Las descalificaciones contra José Daniel Ferrer y Luis Manuel Otero Alcántara buscan restar legitimidad a denuncias de abusos y extender la presión estatal sobre activistas fuera de Cuba.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/2026_10_26_bruno_58d85a3fe6.jpg",
+      "enlace_original": "https://eltoque.com/bruno-rodriguez-y-la-necesidad-de-mentir-para-conservar",
+      "destacada": false,
+      "tema": "bruno",
+      "fecha": "Thu, 22 Oct 2026 20:00:00 GMT",
+      "id": 48
     },
     {
       "categoria": "economia",
@@ -521,7 +638,7 @@
       "destacada": false,
       "tema": "suben",
       "fecha": "Thu, 22 Oct 2026 16:31:20 GMT",
-      "id": 40
+      "id": 49
     },
     {
       "categoria": "economia",
@@ -534,7 +651,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "id": 41
+      "id": 50
     }
   ]
 }
