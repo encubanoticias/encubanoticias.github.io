@@ -766,9 +766,8 @@ body.oscuro .modal-caja h3 { color: #7EB6FF; }
 }
 /* TICKER */
 .ticker {
-  position: -webkit-sticky;
   position: sticky;
-  top: 0; /* El JS lo ajustará a la altura exacta del header */
+  top: 0; /* Se ajusta con JS */
   z-index: 99;
   background: var(--azul);
   color: #fff;
@@ -777,8 +776,14 @@ body.oscuro .modal-caja h3 { color: #7EB6FF; }
   padding: 0.4rem 0;
   font-size: 0.85rem;
   border-bottom: 2px solid var(--rojo);
+  transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
 }
-.ticker.oculto { display: none; }
+
+.ticker.oculto-scroll {
+  transform: translateY(-100%);
+  opacity: 0;
+  pointer-events: none;
+}
 
 .ticker-texto {
   display: inline-block;
