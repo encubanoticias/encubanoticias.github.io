@@ -1,32 +1,32 @@
 {
   "fecha": "2026-10-23",
-  "hora": "21:19",
-  "total": 62,
+  "hora": "23:15",
+  "total": 63,
   "noticias": [
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Defender la cultura de la televisión es defender la nación",
-      "resumen": "En acto solemne fueron entregados los premios Pequeña Pantalla y el Sello Aniversario 75 de la Televisión Cubana",
+      "titulo": "Es también un crimen no impugnar al bloqueo que abruma y mata",
+      "resumen": "No es solo que exista el bloqueo, sino que este constituye un peso tan grande sobre un pueblo, que se convierte en carga que solo puede afrontarse por titanes de la resistencia",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-23/defender-la-cultura-de-la-television-es-defender-la-nacion-23-10-2026-16-10-27",
+      "enlace_original": "http://www.granma.cu/cuba-no-es-una-amenaza/2026-10-23/es-tambien-un-crimen-no-impugnar-al-bloqueo-que-abruma-y-mata-23-10-2026-09-10-07",
       "destacada": true,
-      "tema": "defender",
-      "fecha": "Fri, 23 Oct 2026 16:10:27 -0400",
+      "tema": "también",
+      "fecha": "Fri, 23 Oct 2026 09:10:07 -0400",
       "id": 1
     },
     {
-      "categoria": "salud",
+      "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "A pesar del cerco: el derecho de nacer en Cuba",
-      "resumen": "La cifra de muertes infantiles en Cuba debido al recrudecimiento del bloqueo estadounidense contra la Isla, no es aún más dolorosa gracias a la efectividad del sistema de salud cubano",
+      "titulo": "Cuba rechaza toda amenaza relacionada con ambiciones de EE. UU. hacia la Isla",
+      "resumen": "El jefe de la diplomacia cubana aseguró que, quien llegue con sed de dominación a Mayor de las Antillas, encontrará un «entorno inhóspito»",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-23/cuba-como-marcha-el-estado-fallido-23-10-2026-13-10-26",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-23/cuba-rechaza-toda-amenaza-relacionada-con-ambiciones-de-ee-uu-hacia-la-isla-23-10-2026-18-10-21",
       "destacada": true,
-      "tema": "pesar",
-      "fecha": "Fri, 23 Oct 2026 13:10:26 -0400",
+      "tema": "rechaza",
+      "fecha": "Fri, 23 Oct 2026 18:10:21 -0400",
       "id": 2
     },
     {
@@ -44,19 +44,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Sigue vivo el sueño en el Panamericano de beisbol Sub-18",
-      "resumen": "Cuba derrotó a México en entradas adicionales",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-10-23/sigue-vivo-el-sueno-en-el-panamericano-de-beisbol-sub-18-23-10-2026-16-10-03",
-      "destacada": true,
-      "tema": "sigue",
-      "fecha": "Fri, 23 Oct 2026 16:10:03 -0400",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
       "titulo": "Recogiendo basura con las manos en La Habana, la otra cara del proyecto piloto El Rampeño",
@@ -66,7 +53,7 @@
       "destacada": true,
       "tema": "recogiendo",
       "fecha": "Fri, 23 Oct 2026 19:50:19 +0000",
-      "id": 5
+      "id": 4
     },
     {
       "categoria": "economia",
@@ -76,10 +63,10 @@
       "resumen": "La inflación y el encarecimiento de la vida empujan a cada vez más ancianos cubanos a trabajar o desprenderse de sus pertenencias",
       "imagen_url": "https://static.14ymedio.com/clip/ee45d047-c192-4037-9ea9-a2b8a1c23160_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/ultima-muda-ropa-venta-habana_1_1132329.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "última",
       "fecha": "Fri, 23 Oct 2026 18:44:56 +0000",
-      "id": 6
+      "id": 5
     },
     {
       "categoria": "transporte",
@@ -92,7 +79,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Fri, 23 Oct 2026 20:56:27 +0000",
-      "id": 7
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -105,7 +92,7 @@
       "destacada": false,
       "tema": "despoja",
       "fecha": "Fri, 23 Oct 2026 20:34:27 +0000",
-      "id": 8
+      "id": 7
     },
     {
       "categoria": "economia",
@@ -118,7 +105,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 23 Oct 2026 17:01:50 +0000",
-      "id": 9
+      "id": 8
     },
     {
       "categoria": "politica",
@@ -131,7 +118,111 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Fri, 23 Oct 2026 10:12:29 +0000",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Marco Rubio llama públicamente a cubanos a colaborar «de forma discreta con la CIA» para crear el cambio en la isla",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e199894-s27061-nid343640-marco-rubio-llama-publicamente-cubanos-colaborar",
+      "destacada": false,
+      "tema": "marco",
+      "fecha": "Fri, 23 Oct 2026 23:20:52 +0200",
       "id": 10
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Trump bromea con enviar portaviones a las costas de Cuba: «Levantarán las manos»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e135253-s27061-nid343638-trump-bromea-enviar-portaviones-costas-cuba",
+      "destacada": false,
+      "tema": "trump",
+      "fecha": "Fri, 23 Oct 2026 23:16:04 +0200",
+      "id": 11
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Trump sobre las negociaciones con Cuba: «Enviaremos a Marco Rubio para cerrar el trato»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e208574-s27061-nid343637-trump-negociaciones-cuba-enviaremos-marco-rubio",
+      "destacada": false,
+      "tema": "trump",
+      "fecha": "Fri, 23 Oct 2026 23:13:37 +0200",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "En una Habana destruida y llena de basura inauguran edición 27 del Festival de Cine Francés",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e209395-s27061-nid343616-habana-destruida-llena-basura-inauguran-edicion-27",
+      "destacada": false,
+      "tema": "habana",
+      "fecha": "Fri, 23 Oct 2026 23:08:43 +0200",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Era lo que nos faltaba para pagar la casa»: Ayudan a una cubana que vende comida en Nicaragua",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e74-s27061-nid343631-era-nos-faltaba-pagar-casa-ayudan-cubana-vende-comida",
+      "destacada": false,
+      "tema": "faltaba",
+      "fecha": "Fri, 23 Oct 2026 23:07:55 +0200",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba retrocede en libertad de internet: Freedom House le da 19 puntos de 100",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e199894-s27061-nid343617-cuba-retrocede-libertad-internet-freedom-house-le-da",
+      "destacada": false,
+      "tema": "retrocede",
+      "fecha": "Fri, 23 Oct 2026 23:04:32 +0200",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Marco Rubio lanza contundente mensaje sobre Cuba: «Este es el momento»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e208574-s27061-nid343635-marco-rubio-lanza-contundente-mensaje-cuba-este",
+      "destacada": false,
+      "tema": "marco",
+      "fecha": "Fri, 23 Oct 2026 23:00:52 +0200",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Vamos a regresar de Irán, esos hermosos barcos pasarán por Cuba»: Trump vuelve a hablar de la Isla",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e135253-s27061-nid343630-vamos-regresar-iran-esos-hermosos-barcos-pasaran",
+      "destacada": false,
+      "tema": "vamos",
+      "fecha": "Fri, 23 Oct 2026 22:35:13 +0200",
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -144,85 +235,7 @@
       "destacada": false,
       "tema": "santiago",
       "fecha": "Fri, 23 Oct 2026 22:22:47 +0200",
-      "id": 11
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Dos cubanos enviados a prisión preventiva en Cancún por presunto tráfico de narcóticos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e208574-s27061-nid343627-dos-cubanos-enviados-prision-preventiva-cancun",
-      "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Fri, 23 Oct 2026 22:22:15 +0200",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Jueza ordena a ICE revisar la detención de un cubano al que La Habana negó la entrada",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e43231-s27061-nid343583-jueza-ordena-ice-revisar-detencion-cubano-al-habana",
-      "destacada": false,
-      "tema": "jueza",
-      "fecha": "Fri, 23 Oct 2026 22:07:06 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Jorge Junior arremete contra artistas cubanos por el nuevo homenaje a El Taiger: «Sin pedir permiso le hacen un videíto con IA»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u194224-e208487-s27065-nid343625-jorge-junior-arremete-contra-artistas-cubanos",
-      "destacada": false,
-      "tema": "jorge",
-      "fecha": "Fri, 23 Oct 2026 22:03:38 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "María Elvira Salazar pide exigir cuentas a México por la contratación de médicos cubanos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e199894-s27061-nid343624-maria-elvira-salazar-pide-exigir-cuentas-mexico",
-      "destacada": false,
-      "tema": "maría",
-      "fecha": "Fri, 23 Oct 2026 21:49:19 +0200",
-      "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Ya no nos daba para la comida»: Dos jóvenes cubanos cuentan cómo empezaron de cero en Uruguay",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e74-s27061-nid343621-nos-daba-comida-dos-jovenes-cubanos-cuentan-empezaron",
-      "destacada": false,
-      "tema": "comida",
-      "fecha": "Fri, 23 Oct 2026 21:10:22 +0200",
-      "id": 16
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Artistas cubanos se unen en homenaje a El Taiger: «El mejor de todos los tiempos»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u194224-e208487-s27065-nid343619-artistas-cubanos-unen-homenaje-taiger-mejor",
-      "destacada": false,
-      "tema": "apagones",
-      "fecha": "Fri, 23 Oct 2026 20:56:01 +0200",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -235,19 +248,6 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Fri, 23 Oct 2026 19:54:39 +0000",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.radiocubana.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "XI Simposio de Emisoras Maceístas: la radio cubana reafirma su compromiso con la memoria histórica (Fotos)",
-      "resumen": "Del 20 al 22 de octubre, Guantánamo fue sede del XI Simposio de Emisoras Maceístas, encuentro que reunió a radialistas de varias provincias del país con el propósito de investigar, promover y difundir el legado del Titán de Bronce y de la familia Maceo-Grajales. En esta ocasión, el comienzo del even",
-      "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/xi-simposio-de-emisoras-maceistas-la-radio-cubana-reafirma-su-compromiso-con-la-memoria-historica/",
-      "destacada": false,
-      "tema": "simposio",
-      "fecha": "Thu, 22 Oct 2026 21:29:05 +0000",
       "id": 19
     },
     {
@@ -280,12 +280,12 @@
       "categoria": "sociedad",
       "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba no es una amenaza, el bloqueo sí",
+      "titulo": "El pueblo no debe ser castigado por querer defender su libertad",
       "resumen": "Disponible para descargar el Informe de Cuba a la ONU entre marzo de 2025 y febrero de 2026",
       "imagen_url": "",
       "enlace_original": "https://www.trabajadores.cu/20261023/cuba-no-es-una-amenaza-el-bloqueo-si/",
       "destacada": false,
-      "tema": "amenaza",
+      "tema": "pueblo",
       "fecha": "Fri, 23 Oct 2026 19:07:23 +0000",
       "id": 22
     },
@@ -304,15 +304,15 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Aprueban normativas para fortalecer trabajo social en Cuba (+ PDF)",
-      "resumen": "Un grupo de normativas que oficializan el fortalecimiento del trabajo social, especialmente la dotación de activos productivos de pequeña escala a personas en situación de vulnerabilidad multidimensional, y el programa de capacitación y preparación para la inserción laboral de los jóvenes de 18 a 30",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Rubio ofrece una 'asociación discreta con la CIA' a quienes buscan 'un cambio en Cuba'",
+      "resumen": "#MarcoRubio afirma que \"ahora es el momento\" para \"aquellos que buscan crear un cambio en #Cuba\", y les ofrece una \"asociación discreta con la #CIA\". Mientras, #Trump promete que se \"ocupará\" de la Isla \"al regreso de Irán\".",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261023/aprueban-normativas-para-fortalecer-trabajo-social-en-cuba-pdf/",
+      "enlace_original": "https://diariodecuba.com/cuba/1792796927_69522.html",
       "destacada": false,
-      "tema": "aprueban",
-      "fecha": "Fri, 23 Oct 2026 14:18:45 +0000",
+      "tema": "rubio",
+      "fecha": "Sat, 24 Oct 2026 01:08:47 +0200",
       "id": 24
     },
     {
@@ -408,16 +408,55 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Tras años de relegar el sector eléctrico frente al turismo, La Habana culpa a EEUU del desastre actual",
-      "resumen": "El #RégimenCubano refuerza su narrativa victimista sobre el embargo antes de la votación en la #ONU. Culpa a #EEUU de la crisis del sistema eléctrico, al que relegó frente al turismo durante años, como demuestra una investigación de #DiarioDeCuba.",
+      "titulo": "¿Arrendamiento o reorganización de GAESA? Las dudas que genera la licitación de Cimex",
+      "resumen": "El MINCIN abrió en Cuba una licitación para arrendar al sector privado más de 170 locales estatales y de Cimex, bajo la Resolución 40 de 2022.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792757002_69512.html",
+      "enlace_original": "https://www.martinoticias.com/a/arrendamiento-o-reorganizaci%c3%b3n-de-gaesa-las-dudas-que-genera-la-licitaci%c3%b3n-de-cimex/482650.html",
       "destacada": false,
-      "tema": "relegar",
-      "fecha": "Fri, 23 Oct 2026 14:03:22 +0200",
+      "tema": "arrendamiento",
+      "fecha": "Fri, 23 Oct 2026 19:15:43 -0400",
       "id": 32
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Legisladores de EEUU piden mantener la presión contra Cuba y elecciones en Venezuela",
+      "resumen": "Legisladores republicanos del sur de Florida exigieron este viernes mantener e intensificar la presión de EEUU sobre el régimen cubano, al tiempo que respaldaron una salida electoral para la crisis política en Venezuela.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/legisladores-de-eeuu-piden-mantener-la-presi%c3%b3n-contra-cuba-y-elecciones-en-venezuela/482661.html",
+      "destacada": false,
+      "tema": "legisladores",
+      "fecha": "Fri, 23 Oct 2026 18:35:11 -0400",
+      "id": 33
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Sin una hoja de ruta, la crisis cubana podría empeorar durante una transición, advierte experto",
+      "resumen": "Cuba debe preparar desde ahora una hoja de ruta para su recuperación económica ante una eventual transición política, advirtió el experto en energía Jorge Piñón, al alertar que la crisis social y productiva podría agravarse si el país llega a ese momento sin un plan coordinado listo para ejecutarse.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/sin-una-hoja-de-ruta-la-crisis-cubana-podr%c3%ada-empeorar-durante-una-transici%c3%b3n-advierte-experto/482644.html",
+      "destacada": false,
+      "tema": "crisis",
+      "fecha": "Fri, 23 Oct 2026 18:29:51 -0400",
+      "id": 34
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Legisladores estadounidenses instan a mayor presión internacional contra Cuba",
+      "resumen": "Desde el sur de Florida, legisladores republicanos instaron al gobierno de Estados Unidos y aliados en el hemisferio a elevar la presión contra el régimen de Cuba. Al mismo tiempo, reiteraron el esquema de elecciones en Venezuela para facilitar el alivio de la crisis de esa nación.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/legisladores-estadounidenses-instan-a-mayor-presi%c3%b3n-internacional-contra-cuba/482659.html",
+      "destacada": false,
+      "tema": "legisladores",
+      "fecha": "Fri, 23 Oct 2026 17:40:43 -0400",
+      "id": 35
     },
     {
       "categoria": "transporte",
@@ -430,7 +469,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Fri, 23 Oct 2026 17:15:19 -0400",
-      "id": 33
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -443,7 +482,7 @@
       "destacada": false,
       "tema": "rubio",
       "fecha": "Fri, 23 Oct 2026 17:11:59 -0400",
-      "id": 34
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -456,20 +495,20 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Fri, 23 Oct 2026 17:00:30 -0400",
-      "id": 35
+      "id": 38
     },
     {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las Noticias Como Son",
-      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuando el oso ruso se pone furioso",
+      "resumen": "El oso del arte ruso es, básicamente, muy simpático. Pero también el oso ruso puede ser muy furioso. Y es justamente lo que está pasando ahora, señala el periodista ruso Víctor Ternovsky en una nueva entrega de Cuadernos de un moscovita, una colaboración entre @Cubadebate y @SputnikMundo. The post C",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481596.html",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/23/cuando-el-oso-ruso-se-pone-furioso/",
       "destacada": false,
-      "tema": "noticias",
-      "fecha": "Fri, 23 Oct 2026 16:00:30 -0400",
-      "id": 36
+      "tema": "furioso",
+      "fecha": "Fri, 23 Oct 2026 21:49:55 +0000",
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -482,7 +521,7 @@
       "destacada": false,
       "tema": "raíces",
       "fecha": "Fri, 23 Oct 2026 21:05:32 +0000",
-      "id": 37
+      "id": 40
     },
     {
       "categoria": "transporte",
@@ -495,7 +534,7 @@
       "destacada": false,
       "tema": "autoridades",
       "fecha": "Fri, 23 Oct 2026 20:05:32 +0000",
-      "id": 38
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -508,7 +547,7 @@
       "destacada": false,
       "tema": "redonda",
       "fecha": "Fri, 23 Oct 2026 18:48:57 +0000",
-      "id": 39
+      "id": 42
     },
     {
       "categoria": "salud",
@@ -521,7 +560,7 @@
       "destacada": false,
       "tema": "accidente",
       "fecha": "Fri, 23 Oct 2026 16:35:28 +0000",
-      "id": 40
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -534,20 +573,7 @@
       "destacada": false,
       "tema": "presidente",
       "fecha": "Fri, 23 Oct 2026 15:32:44 +0000",
-      "id": 41
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba extiende invitación al papa León XIV para que visite la isla",
-      "resumen": "El embajador de Cuba ante la Santa Sede, Leyde Ernesto Rodríguez Hernández, destacó el papel de la Iglesia Católica en los esfuerzos para poner fin al bloqueo de Estados Unidos contra su país y recordó la preocupación del papa León XIV, en febrero pasado, ante el aumento de las tensiones entre Washi",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/23/cuba-extiende-invitacion-al-papa-leon-xiv-para-que-visite-la-isla/",
-      "destacada": false,
-      "tema": "extiende",
-      "fecha": "Fri, 23 Oct 2026 14:40:30 +0000",
-      "id": 42
+      "id": 44
     },
     {
       "categoria": "salud",
@@ -560,7 +586,7 @@
       "destacada": false,
       "tema": "cajas",
       "fecha": "Fri, 23 Oct 26 20:50:00 +0200",
-      "id": 43
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -573,7 +599,7 @@
       "destacada": false,
       "tema": "largometraje",
       "fecha": "Fri, 23 Oct 26 20:29:00 +0200",
-      "id": 44
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -586,7 +612,7 @@
       "destacada": false,
       "tema": "necesidad",
       "fecha": "Fri, 23 Oct 26 20:22:00 +0200",
-      "id": 45
+      "id": 47
     },
     {
       "categoria": "energia",
@@ -599,7 +625,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 23 Oct 26 20:17:00 +0200",
-      "id": 46
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -612,7 +638,7 @@
       "destacada": false,
       "tema": "casal",
       "fecha": "Fri, 23 Oct 26 15:44:00 +0200",
-      "id": 47
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -625,7 +651,7 @@
       "destacada": false,
       "tema": "rusia",
       "fecha": "Fri, 23 Oct 26 08:18:00 +0200",
-      "id": 48
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -638,7 +664,7 @@
       "destacada": false,
       "tema": "batalla",
       "fecha": "Fri, 23 Oct 26 07:52:00 +0200",
-      "id": 49
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -651,7 +677,7 @@
       "destacada": false,
       "tema": "exposición",
       "fecha": "Fri, 23 Oct 26 07:50:00 +0200",
-      "id": 50
+      "id": 52
     },
     {
       "categoria": "transporte",
@@ -664,7 +690,7 @@
       "destacada": false,
       "tema": "todavía",
       "fecha": "Fri, 23 Oct 26 07:39:00 +0200",
-      "id": 51
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -677,32 +703,6 @@
       "destacada": false,
       "tema": "podemos",
       "fecha": "Fri, 23 Oct 26 07:06:00 +0200",
-      "id": 52
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://actualidad.rt.com",
-      "fuente_tipo": "internacional",
-      "titulo": "La dura respuesta de Cuba a la más reciente amenaza de Trump",
-      "resumen": "\"En nuestras costas hay bellas playas, pero también diente de perro, inhóspito para quienes llegan con fines hostiles y ansias de dominación\", advirtieron desde La Habana.",
-      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adbc694e9ff7138d937eb19.jpg",
-      "enlace_original": "https://actualidad-rt.com/actualidad/633960-cuba-dura-respuesta-amenazas-trump?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "destacada": false,
-      "tema": "respuesta",
-      "fecha": "Fri, 23 Oct 2026 20:33:48 +0000",
-      "id": 53
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://actualidad.rt.com",
-      "fuente_tipo": "internacional",
-      "titulo": "Trump: Nos encargaremos de Cuba al regreso de Irán",
-      "resumen": "No es la primera vez que el mandatario amenaza militarmente al país caribeño.",
-      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adbba8359bf5b0a103d533c.jpg",
-      "enlace_original": "https://actualidad-rt.com/actualidad/633953-trump-encargaremos-cuba-regreso-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "destacada": false,
-      "tema": "trump",
-      "fecha": "Fri, 23 Oct 2026 19:38:08 +0000",
       "id": 54
     },
     {
@@ -787,6 +787,19 @@
       "categoria": "sociedad",
       "fuente": "https://eltoque.com",
       "fuente_tipo": "alternativa",
+      "titulo": "Noticias de la negociación de Donald Trump con Cuba",
+      "resumen": "La relación entre Estados Unidos y Cuba atraviesa uno de sus momentos más tensos en años, marcada por una combinación de presión económica, sanciones, crisis energética y contactos discretos, de los cuales, en muchos casos, solo se conoce lo que se filtra a la prensa. Desde elTOQUE monitoreamos la e",
+      "imagen_url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/AP_131403754861_f6c2a900de.jpg/width=1920,quality=75,fit=scale-down,dpr=1,slow-connection-quality=40",
+      "enlace_original": "https://eltoque.com/noticias-de-la-negociacion-de-donald-trump-con-cuba",
+      "destacada": false,
+      "tema": "noticias",
+      "fecha": "Fri, 23 Oct 2026 22:19:39 GMT",
+      "id": 61
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
       "titulo": "Cuba reorganiza el trabajo social y lanza dos programas para personas en situación de vulnerabilidad",
       "resumen": "Jóvenes de 18 a 30 años desvinculados del estudio y el trabajo podrán capacitarse con un estipendio equivalente al salario mínimo, aunque deberán devolverlo en algunos casos.",
       "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/AP_239926649203_0e8d74ba9e.jpg",
@@ -794,7 +807,7 @@
       "destacada": false,
       "tema": "reorganiza",
       "fecha": "Fri, 23 Oct 2026 18:00:00 GMT",
-      "id": 61
+      "id": 62
     },
     {
       "categoria": "sociedad",
@@ -807,7 +820,7 @@
       "destacada": false,
       "tema": "destierro",
       "fecha": "Fri, 23 Oct 2026 11:00:00 GMT",
-      "id": 62
+      "id": 63
     }
   ]
 }
