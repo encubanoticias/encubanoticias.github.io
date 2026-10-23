@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-23",
-  "hora": "03:20",
-  "total": 54,
+  "hora": "04:20",
+  "total": 53,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -332,6 +332,19 @@
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
+      "titulo": "Cuba al Día",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481578.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Fri, 23 Oct 2026 00:00:30 -0400",
+      "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
       "titulo": "Noticiero de Radio Martí 8:00 PM",
       "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
       "imagen_url": "",
@@ -339,7 +352,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Thu, 22 Oct 2026 20:00:00 -0400",
-      "id": 26
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -352,7 +365,7 @@
       "destacada": false,
       "tema": "pastores",
       "fecha": "Thu, 22 Oct 2026 19:23:37 -0400",
-      "id": 27
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -365,19 +378,6 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Thu, 22 Oct 2026 18:25:27 -0400",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al día",
-      "resumen": "Rusia, Cuba y un arma misteriosa: las revelaciones del Síndrome de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/482570.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Thu, 22 Oct 2026 17:38:37 -0400",
       "id": 29
     },
     {
@@ -395,15 +395,15 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 5:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Ciudades Patrimoniales de Cuba: Baluarte cultural de la nación",
+      "resumen": "Nuestras ciudades patrimoniales son el tejido donde la cultura cubana nace, se produce, se transmite y se transforma. En ellas convergen la música, la artesanía, la religión, la gastronomía, la literatura y las fiestas que conforman el carácter del cubano. The post Ciudades Patrimoniales de Cuba: Ba",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481538.html",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/22/ciudades-patrimoniales-de-cuba-baluarte-cultural-de-la-nacion/",
       "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Thu, 22 Oct 2026 17:00:30 -0400",
+      "tema": "ciudades",
+      "fecha": "Fri, 23 Oct 2026 03:36:12 +0000",
       "id": 31
     },
     {
@@ -485,6 +485,19 @@
       "id": 37
     },
     {
+      "categoria": "politica",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "¿Cómo EE. UU. compra votos contra Cuba en la ONU?",
+      "resumen": "Cubainformación.- En Naciones Unidas, el Gobierno de Estados Unidos chantajea, presiona y amenaza co...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125662-como-ee-uu-compra-votos-contra-cuba-en-la-onu.jpg?t=1792682907",
+      "enlace_original": "https://www.cubainformacion.tv/especiales/20261023/125662/125662-como-ee-uu-compra-votos-contra-cuba-en-la-onu",
+      "destacada": false,
+      "tema": "compra",
+      "fecha": "Fri, 23 Oct 26 01:00:00 +0200",
+      "id": 38
+    },
+    {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
@@ -495,7 +508,7 @@
       "destacada": false,
       "tema": "compromiso",
       "fecha": "Thu, 22 Oct 26 22:38:00 +0200",
-      "id": 38
+      "id": 39
     },
     {
       "categoria": "politica",
@@ -508,7 +521,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Thu, 22 Oct 26 08:15:00 +0200",
-      "id": 39
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -521,7 +534,7 @@
       "destacada": false,
       "tema": "otacosa",
       "fecha": "Thu, 22 Oct 26 08:13:00 +0200",
-      "id": 40
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -534,7 +547,7 @@
       "destacada": false,
       "tema": "gente",
       "fecha": "Thu, 22 Oct 26 08:12:00 +0200",
-      "id": 41
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -547,7 +560,7 @@
       "destacada": false,
       "tema": "castro",
       "fecha": "Thu, 22 Oct 26 08:04:00 +0200",
-      "id": 42
+      "id": 43
     },
     {
       "categoria": "energia",
@@ -560,7 +573,7 @@
       "destacada": false,
       "tema": "energía",
       "fecha": "Thu, 22 Oct 26 07:47:00 +0200",
-      "id": 43
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -573,7 +586,7 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Thu, 22 Oct 26 07:41:00 +0200",
-      "id": 44
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -586,7 +599,7 @@
       "destacada": false,
       "tema": "quieren",
       "fecha": "Thu, 22 Oct 26 07:39:00 +0200",
-      "id": 45
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -599,19 +612,6 @@
       "destacada": false,
       "tema": "desmonta",
       "fecha": "Thu, 22 Oct 26 07:35:00 +0200",
-      "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Homenaje a Fidel Castro y apoyo a Cuba desde Berlín",
-      "resumen": "“Centenario de Fidel Castro y el futuro de la Revolución Cubana” conferencia en homenaje al Comandan...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125649-homenaje-a-fidel-castro-y-apoyo-a-cuba-desde-berlin.jpg?t=1792645639",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261022/125649/125649-homenaje-a-fidel-castro-y-apoyo-a-cuba-desde-berlin",
-      "destacada": false,
-      "tema": "homenaje",
-      "fecha": "Thu, 22 Oct 26 07:05:00 +0200",
       "id": 47
     },
     {
@@ -654,19 +654,6 @@
       "id": 50
     },
     {
-      "categoria": "transporte",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Varadero prepara una fiesta aérea",
-      "resumen": "El Club de Aviación de Cuba (CAC) realizará el Festival Aerodeportivo Varadero 2026 el próximo domingo 25 de octubre en el terreno de fútbol de la pista del aeropuerto de Kawama.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/22/varadero-prepara-una-fiesta-aerea/",
-      "destacada": false,
-      "tema": "varadero",
-      "fecha": "Thu, 22 Oct 2026 12:54:00 +0000",
-      "id": 51
-    },
-    {
       "categoria": "sociedad",
       "fuente": "https://eltoque.com",
       "fuente_tipo": "alternativa",
@@ -677,7 +664,7 @@
       "destacada": false,
       "tema": "bruno",
       "fecha": "Thu, 22 Oct 2026 20:00:00 GMT",
-      "id": 52
+      "id": 51
     },
     {
       "categoria": "economia",
@@ -690,7 +677,7 @@
       "destacada": false,
       "tema": "suben",
       "fecha": "Thu, 22 Oct 2026 16:31:20 GMT",
-      "id": 53
+      "id": 52
     },
     {
       "categoria": "economia",
@@ -703,7 +690,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "id": 54
+      "id": 53
     }
   ]
 }
