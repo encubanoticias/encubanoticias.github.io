@@ -1,8 +1,34 @@
 {
   "fecha": "2026-10-23",
-  "hora": "19:24",
-  "total": 55,
+  "hora": "21:19",
+  "total": 62,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Defender la cultura de la televisión es defender la nación",
+      "resumen": "En acto solemne fueron entregados los premios Pequeña Pantalla y el Sello Aniversario 75 de la Televisión Cubana",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-23/defender-la-cultura-de-la-television-es-defender-la-nacion-23-10-2026-16-10-27",
+      "destacada": true,
+      "tema": "defender",
+      "fecha": "Fri, 23 Oct 2026 16:10:27 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "A pesar del cerco: el derecho de nacer en Cuba",
+      "resumen": "La cifra de muertes infantiles en Cuba debido al recrudecimiento del bloqueo estadounidense contra la Isla, no es aún más dolorosa gracias a la efectividad del sistema de salud cubano",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-23/cuba-como-marcha-el-estado-fallido-23-10-2026-13-10-26",
+      "destacada": true,
+      "tema": "pesar",
+      "fecha": "Fri, 23 Oct 2026 13:10:26 -0400",
+      "id": 2
+    },
     {
       "categoria": "politica",
       "fuente": "https://www.granma.cu",
@@ -14,33 +40,33 @@
       "destacada": true,
       "tema": "vietnam",
       "fecha": "Fri, 23 Oct 2026 14:10:52 -0400",
-      "id": 1
+      "id": 3
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba invita al Papa a visitar la Isla",
-      "resumen": "El embajador de Cuba ante la Santa Sede destacó el papel de la Iglesia católica en los esfuerzos para poner fin al bloqueo",
+      "titulo": "Sigue vivo el sueño en el Panamericano de beisbol Sub-18",
+      "resumen": "Cuba derrotó a México en entradas adicionales",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-23/cuba-invita-al-papa-a-visitar-la-isla-23-10-2026-13-10-06",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-23/sigue-vivo-el-sueno-en-el-panamericano-de-beisbol-sub-18-23-10-2026-16-10-03",
       "destacada": true,
-      "tema": "invita",
-      "fecha": "Fri, 23 Oct 2026 13:10:06 -0400",
-      "id": 2
+      "tema": "sigue",
+      "fecha": "Fri, 23 Oct 2026 16:10:03 -0400",
+      "id": 4
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
+      "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Evalúan en Cuba transformaciones del comercio interior",
-      "resumen": "Holguín, Cuba, 23 oct (Prensa Latina) Autoridades de Cuba evaluaron hoy en esta provincia oriental la marcha de las transformaciones económicas destinadas a diversificar la oferta comercial, elevar la calidad de los servicios y asegurar la protección de la población. The post Evalúan en Cuba transfo",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/23/evaluan-en-cuba-transformaciones-del-comercio-interior/",
+      "titulo": "Recogiendo basura con las manos en La Habana, la otra cara del proyecto piloto El Rampeño",
+      "resumen": "Pese a ampliar su flota de triciclos, las condiciones de trabajo son deplorables, aunque la situación en los otros barrios de la capital es mucho peor",
+      "imagen_url": "https://static.14ymedio.com/clip/34adc991-2409-4532-9b8e-f32e7a94cd1e_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/recogiendo-basura-manos-habana-cara_1_1132336.html",
       "destacada": true,
-      "tema": "evalúan",
-      "fecha": "Fri, 23 Oct 2026 18:44:01 +0000",
-      "id": 3
+      "tema": "recogiendo",
+      "fecha": "Fri, 23 Oct 2026 19:50:19 +0000",
+      "id": 5
     },
     {
       "categoria": "economia",
@@ -50,10 +76,36 @@
       "resumen": "La inflación y el encarecimiento de la vida empujan a cada vez más ancianos cubanos a trabajar o desprenderse de sus pertenencias",
       "imagen_url": "https://static.14ymedio.com/clip/ee45d047-c192-4037-9ea9-a2b8a1c23160_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/ultima-muda-ropa-venta-habana_1_1132329.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "última",
       "fecha": "Fri, 23 Oct 2026 18:44:56 +0000",
-      "id": 4
+      "id": 6
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Trump dice que los barcos de EE UU harán \"una pequeña escala\" en Cuba al regresar de Irán",
+      "resumen": "El presidente volvió a decir que enviará a Marco Rubio \"ahí, y él lo resolverá\"",
+      "imagen_url": "https://static.14ymedio.com/clip/043a01d3-ad7f-417a-93df-5c74930499f2_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/internacional/trump-dice-barcos-ee-uu_1_1132340.html",
+      "destacada": false,
+      "tema": "trump",
+      "fecha": "Fri, 23 Oct 2026 20:56:27 +0000",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EE UU despoja de la nacionalidad a una mujer de origen cubano por un fraude millonario contra un casino",
+      "resumen": "Milagros Marileisis Acosta aceptó su culpa y ha sido condenada a seis meses de prisión y 36 meses de libertad supervisada",
+      "imagen_url": "https://static.14ymedio.com/clip/d952e643-050a-40ce-94ed-eddd01580865_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/migracion/ee-uu-despoja-nacionalidad-mujer_1_1132333.html",
+      "destacada": false,
+      "tema": "despoja",
+      "fecha": "Fri, 23 Oct 2026 20:34:27 +0000",
+      "id": 8
     },
     {
       "categoria": "economia",
@@ -63,10 +115,10 @@
       "resumen": "La formación durará entre uno y seis meses, exigirá una asistencia mínima del 85% y quienes incumplan las condiciones tendrían que devolver el dinero",
       "imagen_url": "https://static.14ymedio.com/clip/818fff28-69df-4db3-9653-eba7bd861a21_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/gobierno-cubano-atraer-jovenes-desocupados_1_1132327.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 23 Oct 2026 17:01:50 +0000",
-      "id": 5
+      "id": 9
     },
     {
       "categoria": "politica",
@@ -79,85 +131,111 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Fri, 23 Oct 2026 10:12:29 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubano cuenta cómo fue deportado a México tras vivir 55 años en EE.UU.: «No se metan en problemas con la ley»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e74-s27061-nid343606-cubano-cuenta-fue-deportado-mexico-tras-vivir-55-anos",
-      "destacada": false,
-      "tema": "cubano",
-      "fecha": "Fri, 23 Oct 2026 19:25:12 +0200",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba y el imperativo de «mirar hacia fuera para poder vivir dentro»: fotógrafo y emprendedor pinareño",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e209395-s27061-nid343599-cuba-imperativo-mirar-hacia-fuera-poder-vivir-dentro",
-      "destacada": false,
-      "tema": "imperativo",
-      "fecha": "Fri, 23 Oct 2026 18:59:49 +0200",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba investigará los microplásticos en aguas subterráneas en un proyecto del OIEA",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e208574-s27061-nid343597-cuba-investigara-microplasticos-aguas-subterraneas",
-      "destacada": false,
-      "tema": "investigará",
-      "fecha": "Fri, 23 Oct 2026 18:38:50 +0200",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Gracias a ustedes»: ancianos agradecen la ayuda de opositores que siguen repartiendo comida en Santiago de Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e74-s27061-nid343598-gracias-ustedes-ancianos-agradecen-ayuda-opositores",
-      "destacada": false,
-      "tema": "gracias",
-      "fecha": "Fri, 23 Oct 2026 18:22:15 +0200",
       "id": 10
     },
     {
-      "categoria": "politica",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel advierte: «Si no hay alimentos, no hay estabilidad social»",
+      "titulo": "Santiago de Cuba anuncia multas de hasta 100 mil pesos a negocios que no acepten transferencias",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e74-s27061-nid343596-diaz-canel-advierte-hay-alimentos-hay-estabilidad-social",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e135253-s27061-nid343628-santiago-cuba-anuncia-multas-100-mil-pesos-negocios",
       "destacada": false,
-      "tema": "canel",
-      "fecha": "Fri, 23 Oct 2026 18:10:33 +0200",
+      "tema": "santiago",
+      "fecha": "Fri, 23 Oct 2026 22:22:47 +0200",
       "id": 11
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Dos cubanos enviados a prisión preventiva en Cancún por presunto tráfico de narcóticos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e208574-s27061-nid343627-dos-cubanos-enviados-prision-preventiva-cancun",
+      "destacada": false,
+      "tema": "cubanos",
+      "fecha": "Fri, 23 Oct 2026 22:22:15 +0200",
+      "id": 12
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "EE.UU. exigirá una declaración por ébola para volar desde Cuba y otros países",
+      "titulo": "Jueza ordena a ICE revisar la detención de un cubano al que La Habana negó la entrada",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e135253-s27061-nid343595-eeuu-exigira-declaracion-ebola-volar-cuba-otros",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e43231-s27061-nid343583-jueza-ordena-ice-revisar-detencion-cubano-al-habana",
       "destacada": false,
-      "tema": "exigirá",
-      "fecha": "Fri, 23 Oct 2026 17:10:09 +0200",
-      "id": 12
+      "tema": "jueza",
+      "fecha": "Fri, 23 Oct 2026 22:07:06 +0200",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Jorge Junior arremete contra artistas cubanos por el nuevo homenaje a El Taiger: «Sin pedir permiso le hacen un videíto con IA»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u194224-e208487-s27065-nid343625-jorge-junior-arremete-contra-artistas-cubanos",
+      "destacada": false,
+      "tema": "jorge",
+      "fecha": "Fri, 23 Oct 2026 22:03:38 +0200",
+      "id": 14
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "María Elvira Salazar pide exigir cuentas a México por la contratación de médicos cubanos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e199894-s27061-nid343624-maria-elvira-salazar-pide-exigir-cuentas-mexico",
+      "destacada": false,
+      "tema": "maría",
+      "fecha": "Fri, 23 Oct 2026 21:49:19 +0200",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Ya no nos daba para la comida»: Dos jóvenes cubanos cuentan cómo empezaron de cero en Uruguay",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e74-s27061-nid343621-nos-daba-comida-dos-jovenes-cubanos-cuentan-empezaron",
+      "destacada": false,
+      "tema": "comida",
+      "fecha": "Fri, 23 Oct 2026 21:10:22 +0200",
+      "id": 16
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Artistas cubanos se unen en homenaje a El Taiger: «El mejor de todos los tiempos»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u194224-e208487-s27065-nid343619-artistas-cubanos-unen-homenaje-taiger-mejor",
+      "destacada": false,
+      "tema": "apagones",
+      "fecha": "Fri, 23 Oct 2026 20:56:01 +0200",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Un día como hoy en la vida y obra de Fidel. 23 de octubre",
+      "resumen": "&#8211; 23 de octubre de 1961. Fidel clausura la Plenaria Nacional de la Asociación de Jóvenes Rebeldes, AJR, en el teatro Payret, en La Habana. Señala acerca de los jóvenes y niños que les ha correspondido vivir esta etapa profundamente revolucionaria de la historia de nuestro país. Expresa: &#160;",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/historia-de-la-radio-cubana/un-dia-como-hoy-en-la-vida-y-obra-de-fidel/un-dia-como-hoy-en-la-vida-y-obra-de-fidel-23-de-octubre/",
+      "destacada": false,
+      "tema": "fidel",
+      "fecha": "Fri, 23 Oct 2026 19:54:39 +0000",
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -170,20 +248,33 @@
       "destacada": false,
       "tema": "simposio",
       "fecha": "Thu, 22 Oct 2026 21:29:05 +0000",
-      "id": 13
+      "id": 19
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.radiocubana.cu",
+      "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Un día como hoy en la vida y obra de Fidel. 22 de octubre",
-      "resumen": "&#8211; 22 de octubre de 1959. Fidel en el programa televisivo Ante la Prensa denuncia los hechos terroristas realizados el día anterior en La Habana por avionetas procedentes de los Estados Unidos de América. Resalta que creía en la firmeza del pueblo cubano. Señala: &#160; “Porque nunca el pueblo ",
+      "titulo": "¿Cómo empezó el bloqueo económico contra Cuba?",
+      "resumen": "Las medidas de carácter económico, como política frente a la Revolución Cubana, se empezaron a considerar desde muy temprano. Ya en 1959 hubo criterios de utilizar ese mecanismo como elemento de presión ante las leyes revolucionarias que se aprobaban",
       "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/historia-de-la-radio-cubana/un-dia-como-hoy-en-la-vida-y-obra-de-fidel/un-dia-como-hoy-en-la-vida-y-obra-de-fidel-22-de-octubre/",
+      "enlace_original": "https://www.trabajadores.cu/20261023/como-empezo-el-bloqueo-economico-contra-cuba-2/",
       "destacada": false,
-      "tema": "fidel",
-      "fecha": "Thu, 22 Oct 2026 19:48:21 +0000",
-      "id": 14
+      "tema": "empezó",
+      "fecha": "Fri, 23 Oct 2026 20:00:56 +0000",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Debates en Santiago de Cuba sobre garantías juridiccionales de los derechos",
+      "resumen": "Ciencia e innovación marcaron la jornada de este viernes para operadores del Derecho en el ámbito de los tribunales en Santiago de Cuba",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261023/debates-en-santiago-de-cuba-sobre-garantias-juridiccionales-de-los-derechos/",
+      "destacada": false,
+      "tema": "debates",
+      "fecha": "Fri, 23 Oct 2026 19:30:45 +0000",
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -196,7 +287,7 @@
       "destacada": false,
       "tema": "amenaza",
       "fecha": "Fri, 23 Oct 2026 19:07:23 +0000",
-      "id": 15
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -209,46 +300,33 @@
       "destacada": false,
       "tema": "inventiva",
       "fecha": "Fri, 23 Oct 2026 15:07:23 +0000",
-      "id": 16
+      "id": 23
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Aprueban normativas para fortalecer trabajo social en Cuba (+ Gaceta Oficial)",
+      "titulo": "Aprueban normativas para fortalecer trabajo social en Cuba (+ PDF)",
       "resumen": "Un grupo de normativas que oficializan el fortalecimiento del trabajo social, especialmente la dotación de activos productivos de pequeña escala a personas en situación de vulnerabilidad multidimensional, y el programa de capacitación y preparación para la inserción laboral de los jóvenes de 18 a 30",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261023/aprueban-normativas-para-fortalecer-trabajo-social-en-cuba-gaceta-oficial/",
+      "enlace_original": "https://www.trabajadores.cu/20261023/aprueban-normativas-para-fortalecer-trabajo-social-en-cuba-pdf/",
       "destacada": false,
       "tema": "aprueban",
       "fecha": "Fri, 23 Oct 2026 14:18:45 +0000",
-      "id": 17
+      "id": 24
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "En la Isla vibró la cubanía y el patriotismo",
-      "resumen": "\"Un pueblo será tanto más fuerte, tendrá un porvenir tanto más seguro, cuanto más cultura, cuanto más capacitación tenga en todos los órdenes; pero sobre todo cuanto más cultura política, cuanto más cultura revolucionaria tenga ese pueblo\"",
+      "categoria": "energia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Más escasez: el régimen advierte 'no tiene ni va a tener combustible en el corto plazo'",
+      "resumen": "\"El país no tiene ni va a tener combustible en el corto plazo\", advierte el ministro #cubano de Energía y Minas. Mientras, una investigación señala que el régimen se está beneficiando de las exportaciones de #EEUU mediante privados.",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261022/en-la-isla-vibro-la-cubania-y-el-patriotismo/",
+      "enlace_original": "https://diariodecuba.com/cuba/1792788927_69521.html",
       "destacada": false,
-      "tema": "vibró",
-      "fecha": "Thu, 22 Oct 2026 23:44:13 +0000",
-      "id": 18
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba reitera su rechazo a los intentos de Estados Unidos de involucrarla en el conflicto en Ucrania",
-      "resumen": "El Ministerio de Relaciones Exteriores reitera el firme compromiso de Cuba contra el mercenarismo, así como su disposición a evaluar vías de cooperación, en correspondencia con la legislación nacional y las obligaciones internacionales, para prevenir, enfrentar y sancionar este grave delito en todas",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261022/cuba-reitera-su-rechazo-a-los-intentos-de-estados-unidos-de-involucrarla-en-el-conflicto-en-ucrania/",
-      "destacada": false,
-      "tema": "reitera",
-      "fecha": "Thu, 22 Oct 2026 22:27:41 +0000",
-      "id": 19
+      "tema": "escasez",
+      "fecha": "Fri, 23 Oct 2026 22:55:27 +0200",
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -261,7 +339,7 @@
       "destacada": false,
       "tema": "cinco",
       "fecha": "Fri, 23 Oct 2026 20:47:18 +0200",
-      "id": 20
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -274,7 +352,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Fri, 23 Oct 2026 19:25:26 +0200",
-      "id": 21
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -287,7 +365,7 @@
       "destacada": false,
       "tema": "perdido",
       "fecha": "Fri, 23 Oct 2026 18:05:44 +0200",
-      "id": 22
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -300,7 +378,7 @@
       "destacada": false,
       "tema": "ayuda",
       "fecha": "Fri, 23 Oct 2026 17:43:27 +0200",
-      "id": 23
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -313,7 +391,7 @@
       "destacada": false,
       "tema": "editorial",
       "fecha": "Fri, 23 Oct 2026 17:23:41 +0200",
-      "id": 24
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -326,7 +404,7 @@
       "destacada": false,
       "tema": "avería",
       "fecha": "Fri, 23 Oct 2026 14:25:22 +0200",
-      "id": 25
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -339,59 +417,85 @@
       "destacada": false,
       "tema": "relegar",
       "fecha": "Fri, 23 Oct 2026 14:03:22 +0200",
-      "id": 26
+      "id": 32
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "transporte",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "'Ninguna familia sola': el hermano de Karildi Marín impulsa una red de apoyo ante las desapariciones en Cuba",
-      "resumen": "El hermano de Karildi Marín impulsa una red para quienes buscan a familiares #desaparecidos en #Cuba: \"No prometo milagros\", pero \"ninguna familia debería estar sola\".",
+      "titulo": "Trump dice que EEUU \"se encargará de Cuba\" después de Irán",
+      "resumen": "El presidente de Estados Unidos, Donald Trump, afirmó este viernes que Washington \"se encargará de Cuba\" después de Irán y dijo que enviaría al secretario de Estado, Marco Rubio, para \"cerrar el acuerdo\", durante un mitin en Fort Myers.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792753686_69480.html",
+      "enlace_original": "https://www.martinoticias.com/a/trump-dice-que-eeuu-se-encargar%c3%a1-de-cuba-despu%c3%a9s-de-ir%c3%a1n/482658.html",
       "destacada": false,
-      "tema": "ninguna",
-      "fecha": "Fri, 23 Oct 2026 13:08:06 +0200",
-      "id": 27
+      "tema": "trump",
+      "fecha": "Fri, 23 Oct 2026 17:15:19 -0400",
+      "id": 33
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba licita comercios estatales a privados entre alertas de analistas",
-      "resumen": "Cuba licita más de 170 locales estatales al sector privado entre dudas sobre empleo, origen de fondos y desabastecimiento.",
+      "titulo": "Rubio llama a quienes buscan un cambio en Cuba a colaborar discretamente con la CIA",
+      "resumen": "“Ante la decepción de las promesas incumplidas, la corrupción y la vida privilegiada de unos pocos, aprovechen esta oportunidad para lograr el cambio que desean mediante una colaboración discreta con la CIA”, escribió en X.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-licita-comercios-estatales-a-privados-entre-alertas-de-analistas/482645.html",
+      "enlace_original": "https://www.martinoticias.com/a/rubio-llama-a-quienes-buscan-un-cambio-en-cuba-a-colaborar-discretamente-con-la-cia/482657.html",
       "destacada": false,
-      "tema": "licita",
-      "fecha": "Fri, 23 Oct 2026 14:47:02 -0400",
-      "id": 28
+      "tema": "rubio",
+      "fecha": "Fri, 23 Oct 2026 17:11:59 -0400",
+      "id": 34
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
+      "titulo": "Noticiero de Radio Martí 5:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481589.html",
+      "enlace_original": "https://www.martinoticias.com/a/481610.html",
       "destacada": false,
-      "tema": "",
-      "fecha": "Fri, 23 Oct 2026 14:00:00 -0400",
-      "id": 29
+      "tema": "noticiero",
+      "fecha": "Fri, 23 Oct 2026 17:00:30 -0400",
+      "id": 35
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Las Noticias Como Son",
+      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481596.html",
+      "destacada": false,
+      "tema": "noticias",
+      "fecha": "Fri, 23 Oct 2026 16:00:30 -0400",
+      "id": 36
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubalex denuncia ensañamiento y torturas contra el preso político Ediolvis Marín Mora",
-      "resumen": "La organización de asesoría jurídica Cubalex denunció un patrón de represalias y ensañamiento contra el preso político cubano Ediolvis Marín Mora, condenado a 13 años de prisión por participar en las protestas de 2022 en Nuevitas, Camagüey.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Raíces japonesas en Cuba, historia de integración y cultura",
+      "resumen": "La historia de la inmigración japonesa a Cuba puede dividirse aproximadamente en cinco períodos. Desde la llegada oficial del primer inmigrante nipón en 1898 hasta el inicio de la Segunda Guerra Mundial (1939-1945) creció la afluencia de ciudadanos de ese país, en su mayoría hombres, sobre todo, por",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cubalex-denuncia-ensa%c3%b1amiento-y-torturas-contra-el-preso-pol%c3%adtico-ediolvis-mar%c3%adn-mora/482643.html",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/23/raices-japonesas-en-cuba-historia-de-integracion-y-cultura/",
       "destacada": false,
-      "tema": "cubalex",
-      "fecha": "Fri, 23 Oct 2026 13:29:58 -0400",
-      "id": 30
+      "tema": "raíces",
+      "fecha": "Fri, 23 Oct 2026 21:05:32 +0000",
+      "id": 37
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Autoridades alertan ante inminencia de lluvias intensas este fin de semana en Guantánamo",
+      "resumen": "La situación climatológica es provocada por la presencia de una vaguada al sureste del Golfo de México que se traslada y acerca a ese oriental territorio de Cuba, y que, en su pronta combinación con dos áreas de bajas presiones, crea las condiciones para la ocurrencia de fuertes precipitaciones, las",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/23/autoridades-alertan-ante-inminencia-de-lluvias-intensas-este-fin-de-semana-en-guantanamo/",
+      "destacada": false,
+      "tema": "autoridades",
+      "fecha": "Fri, 23 Oct 2026 20:05:32 +0000",
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -404,7 +508,7 @@
       "destacada": false,
       "tema": "redonda",
       "fecha": "Fri, 23 Oct 2026 18:48:57 +0000",
-      "id": 31
+      "id": 39
     },
     {
       "categoria": "salud",
@@ -417,7 +521,7 @@
       "destacada": false,
       "tema": "accidente",
       "fecha": "Fri, 23 Oct 2026 16:35:28 +0000",
-      "id": 32
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -430,7 +534,7 @@
       "destacada": false,
       "tema": "presidente",
       "fecha": "Fri, 23 Oct 2026 15:32:44 +0000",
-      "id": 33
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -443,33 +547,7 @@
       "destacada": false,
       "tema": "extiende",
       "fecha": "Fri, 23 Oct 2026 14:40:30 +0000",
-      "id": 34
-    },
-    {
-      "categoria": "economia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "¿Cuánto cuesta apagar un país y dejarlo sin visitantes?",
-      "resumen": "Cuba cuantifica en 8 083 300 000 dólares las pérdidas causadas por el bloqueo estadounidense entre el 1 de marzo de 2025 y el 28 de febrero de 2026, la cifra más alta que registra y un 7 % superior a la del informe anterior. El turismo y el sector electroenergético concentran más de un tercio de ese",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/23/cuanto-cuesta-apagar-un-pais-y-dejarlo-sin-visitantes/",
-      "destacada": false,
-      "tema": "cuánto",
-      "fecha": "Fri, 23 Oct 2026 06:04:29 +0000",
-      "id": 35
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Ciudades Patrimoniales de Cuba: Baluarte cultural de la nación",
-      "resumen": "Nuestras ciudades patrimoniales son el tejido donde la cultura cubana nace, se produce, se transmite y se transforma. En ellas convergen la música, la artesanía, la religión, la gastronomía, la literatura y las fiestas que conforman el carácter del cubano. The post Ciudades Patrimoniales de Cuba: Ba",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/22/ciudades-patrimoniales-de-cuba-baluarte-cultural-de-la-nacion/",
-      "destacada": false,
-      "tema": "ciudades",
-      "fecha": "Fri, 23 Oct 2026 03:36:12 +0000",
-      "id": 36
+      "id": 42
     },
     {
       "categoria": "salud",
@@ -482,7 +560,7 @@
       "destacada": false,
       "tema": "cajas",
       "fecha": "Fri, 23 Oct 26 20:50:00 +0200",
-      "id": 37
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -495,7 +573,7 @@
       "destacada": false,
       "tema": "largometraje",
       "fecha": "Fri, 23 Oct 26 20:29:00 +0200",
-      "id": 38
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -508,7 +586,7 @@
       "destacada": false,
       "tema": "necesidad",
       "fecha": "Fri, 23 Oct 26 20:22:00 +0200",
-      "id": 39
+      "id": 45
     },
     {
       "categoria": "energia",
@@ -521,7 +599,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 23 Oct 26 20:17:00 +0200",
-      "id": 40
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -534,7 +612,7 @@
       "destacada": false,
       "tema": "casal",
       "fecha": "Fri, 23 Oct 26 15:44:00 +0200",
-      "id": 41
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -547,7 +625,7 @@
       "destacada": false,
       "tema": "rusia",
       "fecha": "Fri, 23 Oct 26 08:18:00 +0200",
-      "id": 42
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -560,7 +638,7 @@
       "destacada": false,
       "tema": "batalla",
       "fecha": "Fri, 23 Oct 26 07:52:00 +0200",
-      "id": 43
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -573,7 +651,7 @@
       "destacada": false,
       "tema": "exposición",
       "fecha": "Fri, 23 Oct 26 07:50:00 +0200",
-      "id": 44
+      "id": 50
     },
     {
       "categoria": "transporte",
@@ -586,7 +664,7 @@
       "destacada": false,
       "tema": "todavía",
       "fecha": "Fri, 23 Oct 26 07:39:00 +0200",
-      "id": 45
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -599,7 +677,33 @@
       "destacada": false,
       "tema": "podemos",
       "fecha": "Fri, 23 Oct 26 07:06:00 +0200",
-      "id": 46
+      "id": 52
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://actualidad.rt.com",
+      "fuente_tipo": "internacional",
+      "titulo": "La dura respuesta de Cuba a la más reciente amenaza de Trump",
+      "resumen": "\"En nuestras costas hay bellas playas, pero también diente de perro, inhóspito para quienes llegan con fines hostiles y ansias de dominación\", advirtieron desde La Habana.",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adbc694e9ff7138d937eb19.jpg",
+      "enlace_original": "https://actualidad-rt.com/actualidad/633960-cuba-dura-respuesta-amenazas-trump?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "destacada": false,
+      "tema": "respuesta",
+      "fecha": "Fri, 23 Oct 2026 20:33:48 +0000",
+      "id": 53
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://actualidad.rt.com",
+      "fuente_tipo": "internacional",
+      "titulo": "Trump: Nos encargaremos de Cuba al regreso de Irán",
+      "resumen": "No es la primera vez que el mandatario amenaza militarmente al país caribeño.",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adbba8359bf5b0a103d533c.jpg",
+      "enlace_original": "https://actualidad-rt.com/actualidad/633953-trump-encargaremos-cuba-regreso-iran?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "destacada": false,
+      "tema": "trump",
+      "fecha": "Fri, 23 Oct 2026 19:38:08 +0000",
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -612,7 +716,7 @@
       "destacada": false,
       "tema": "harry",
       "fecha": "Fri, 23 Oct 2026 19:11:08 +0000",
-      "id": 47
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -625,7 +729,7 @@
       "destacada": false,
       "tema": "mercado",
       "fecha": "Fri, 23 Oct 2026 18:38:11 +0000",
-      "id": 48
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -638,7 +742,7 @@
       "destacada": false,
       "tema": "evaluó",
       "fecha": "Fri, 23 Oct 2026 17:39:58 +0000",
-      "id": 49
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -651,7 +755,7 @@
       "destacada": false,
       "tema": "inauguran",
       "fecha": "Fri, 23 Oct 2026 17:00:28 +0000",
-      "id": 50
+      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -664,7 +768,7 @@
       "destacada": false,
       "tema": "estampas",
       "fecha": "Fri, 23 Oct 2026 15:29:38 +0000",
-      "id": 51
+      "id": 59
     },
     {
       "categoria": "transporte",
@@ -677,7 +781,7 @@
       "destacada": false,
       "tema": "industriales",
       "fecha": "Fri, 23 Oct 2026 14:56:28 +0000",
-      "id": 52
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -690,7 +794,7 @@
       "destacada": false,
       "tema": "reorganiza",
       "fecha": "Fri, 23 Oct 2026 18:00:00 GMT",
-      "id": 53
+      "id": 61
     },
     {
       "categoria": "sociedad",
@@ -703,20 +807,7 @@
       "destacada": false,
       "tema": "destierro",
       "fecha": "Fri, 23 Oct 2026 11:00:00 GMT",
-      "id": 54
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Bruno Rodríguez y la necesidad de mentir para conservar",
-      "resumen": "Las descalificaciones contra José Daniel Ferrer y Luis Manuel Otero Alcántara buscan restar legitimidad a denuncias de abusos y extender la presión estatal sobre activistas fuera de Cuba.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/2026_10_26_bruno_58d85a3fe6.jpg",
-      "enlace_original": "https://eltoque.com/bruno-rodriguez-y-la-necesidad-de-mentir-para-conservar",
-      "destacada": false,
-      "tema": "bruno",
-      "fecha": "Thu, 22 Oct 2026 20:00:00 GMT",
-      "id": 55
+      "id": 62
     }
   ]
 }
