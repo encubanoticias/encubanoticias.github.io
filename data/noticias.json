@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-10-22",
-  "hora": "23:18",
-  "total": 51,
+  "fecha": "2026-10-23",
+  "hora": "01:29",
+  "total": 55,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -17,56 +17,30 @@
       "id": 1
     },
     {
-      "categoria": "economia",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Presentan Miradas a la economía cubana, libro sobre desafíos y cambio",
-      "resumen": "La Habana, 22 oct (Prensa Latina) La economía cubana requiere transformaciones que incluyen la estabilización macroeconómica, eficiencia en los modelos productivo y empresarial, entre otras, detalla el libro “Miradas a la Economía Cubana. El laberinto de la policrisis”, presentado hoy en La Habana. ",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/22/presentan-miradas-a-la-economia-cubana-libro-sobre-desafios-y-cambio/",
-      "destacada": true,
-      "tema": "presentan",
-      "fecha": "Thu, 22 Oct 2026 22:22:40 +0000",
-      "id": 2
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Más que cifras, daños del bloqueo de EEUU en la salud de los cubanos",
-      "resumen": "La Habana, 22 oct (Prensa Latina) Representantes de la sociedad civil cubana denunciaron hoy el impacto del bloqueo estadounidense en la salud de la población, una realidad que trasciende las cifras y se refleja en el sufrimiento de familias privadas de tratamientos oportunos. The post Más que cifra",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/22/mas-que-cifras-danos-del-bloqueo-de-eeuu-en-la-salud-de-los-cubanos/",
-      "destacada": true,
-      "tema": "cifras",
-      "fecha": "Thu, 22 Oct 2026 22:11:38 +0000",
-      "id": 3
-    },
-    {
       "categoria": "politica",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Reabre centro cubano de rehabilitación para personas ciegas",
-      "resumen": "La Habana, 22 oct (Prensa Latina) El presidente de Cuba, Miguel Díaz-Canel, asistió hoy a la reapertura del Centro Nacional de Rehabilitación para personas ciegas y con baja visión, institución fundada por el líder histórico de la Revolución, Fidel Castro, hace 36 años. The post Reabre centro cubano",
+      "titulo": "Liga Parlamentaria: Perú debe votar contra el bloqueo de EEUU a Cuba",
+      "resumen": "Lima, 22 oct (Prensa Latina) La Liga Parlamentaria Perú-Cuba declaró hoy que el Gobierno debe mantener la política tradicional del país y votar por el cese del bloqueo de Estados Unidos contra Cuba, la próxima semana en las Naciones Unidas. The post Liga Parlamentaria: Perú debe votar contra el bloq",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/22/reabre-centro-cubano-de-rehabilitacion-para-personas-ciegas/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/22/liga-parlamentaria-peru-debe-votar-contra-el-bloqueo-de-eeuu-a-cuba/",
       "destacada": true,
-      "tema": "reabre",
-      "fecha": "Thu, 22 Oct 2026 22:02:06 +0000",
-      "id": 4
+      "tema": "parlamentaria",
+      "fecha": "Fri, 23 Oct 2026 00:21:35 +0000",
+      "id": 2
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Avispas vuelan solas en la cima oriental del béisbol cubano",
-      "resumen": "La Habana, 22 oct (Prensa Latina) Las Avispas de Santiago de Cuba recuperaron hoy el liderazgo en solitario de la Zona Oriental de la 65 Serie Nacional de Béisbol, tras vencer a Guantánamo y aprovechar el tropiezo de Granma. The post Avispas vuelan solas en la cima oriental del béisbol cubano first ",
+      "titulo": "Ingenio y honestidad literaria distinguen en Cuba a María Elena Llana",
+      "resumen": "La Habana, 22 oct (Prensa Latina) Reconocida como una de las voces emblemáticas de la literatura en Cuba, María Elena Llana, candidata hoy al Premio Miguel de Cervantes, vierte ingenio y fantasía en cada vuelo narrativo, con la satisfacción de considerarse, sobre todo, honesta. The post Ingenio y ho",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/22/avispas-vuelan-solas-en-la-cima-oriental-del-beisbol-cubano/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/22/ingenio-y-honestidad-literaria-distinguen-en-cuba-a-maria-elena-llana/",
       "destacada": true,
-      "tema": "avispas",
-      "fecha": "Thu, 22 Oct 2026 21:57:35 +0000",
-      "id": 5
+      "tema": "ingenio",
+      "fecha": "Thu, 22 Oct 2026 23:26:16 +0000",
+      "id": 3
     },
     {
       "categoria": "transporte",
@@ -76,10 +50,10 @@
       "resumen": "Delcos Marine, vinculada a una empresa española, ofrece productos para las actividades marítimas, un sector muy vigilado por el régimen",
       "imagen_url": "https://static.14ymedio.com/clip/25db1a98-4cea-4fa2-9ac5-08eed1f39f6a_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/mar-abre-cubanos-estreno-primera_1_1132267.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "transporte",
       "fecha": "Thu, 22 Oct 2026 17:19:46 +0000",
-      "id": 6
+      "id": 4
     },
     {
       "categoria": "transporte",
@@ -89,10 +63,10 @@
       "resumen": "Los candidatos, de entre 16 y 20 años, podrán entrenar con la selección cubana Sub 17 en Huelva un par de días, los 2 y 3 de noviembre",
       "imagen_url": "https://static.14ymedio.com/clip/0c2c3af5-3bc1-4b83-bbaa-1820fcd2555c_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/deportes/futbol-oficialista-pide-mil-euros_1_1132283.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "tipo_cambio",
       "fecha": "Thu, 22 Oct 2026 19:42:45 +0000",
-      "id": 7
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -105,7 +79,7 @@
       "destacada": false,
       "tema": "saxofón",
       "fecha": "Thu, 22 Oct 2026 18:33:33 +0000",
-      "id": 8
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -118,7 +92,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Thu, 22 Oct 2026 20:48:41 +0000",
-      "id": 9
+      "id": 7
     },
     {
       "categoria": "transporte",
@@ -131,59 +105,98 @@
       "destacada": false,
       "tema": "dispara",
       "fecha": "Thu, 22 Oct 2026 17:14:43 +0000",
+      "id": 8
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Así cierra el mercado informal en Cuba: el dólar sube y el euro gana terreno",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e199894-s27061-nid343566-asi-cierra-mercado-informal-cuba-dolar-sube-euro",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Fri, 23 Oct 2026 03:12:04 +0200",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "“Todo esto se bota a diario”: cubano compara el desperdicio de alimentos en EE.UU. con la escasez en la isla",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e199894-s27061-nid343565-todo-bota-diario-cubano-compara-desperdicio",
+      "destacada": false,
+      "tema": "diario",
+      "fecha": "Fri, 23 Oct 2026 02:30:28 +0200",
       "id": 10
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Betis, equipo de Primera División de España, utiliza video de dos joyeros cubanos de Miami para bromear con la UEFA",
+      "titulo": "Familia cubana con I-220A acude a cita de ICE temiendo ser deportada y recibe fecha de corte para 2028",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e208933-s27066-nid343548-betis-equipo-primera-division-espana-utiliza-video",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e208933-s27061-nid343563-familia-cubana-220a-acude-cita-ice-temiendo-ser",
       "destacada": false,
-      "tema": "betis",
-      "fecha": "Fri, 23 Oct 2026 00:15:35 +0200",
+      "tema": "familia",
+      "fecha": "Fri, 23 Oct 2026 02:08:46 +0200",
       "id": 11
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Paquito D'Rivera no juzga al pueblo cubano y denuncia la huella que deja la libreta de abastecimiento",
+      "titulo": "Familia cubana vinculada a las Damas de Blanco pierde apelación de asilo en EE.UU.",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e192519-s27061-nid343458-paquito-drivera-juzga-al-pueblo-cubano-denuncia",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e208933-s27061-nid343561-familia-cubana-vinculada-damas-blanco-pierde",
       "destacada": false,
-      "tema": "paquito",
-      "fecha": "Thu, 22 Oct 2026 23:14:16 +0200",
+      "tema": "familia",
+      "fecha": "Fri, 23 Oct 2026 01:50:45 +0200",
       "id": 12
     },
     {
-      "categoria": "salud",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Madre cubana pasó ocho días sin saber de su hijo de 23 años detenido por ICE: la agencia dice que lo llevaron al hospital",
+      "titulo": "Nueve años sin documentos en Canadá: la historia de una cubana que se salvó de la deportación porque Cuba no contestó el teléfono",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e43231-s27061-nid343499-madre-cubana-paso-ocho-dias-saber-hijo-23-anos",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e199894-s27061-nid343562-nueve-anos-documentos-canada-historia-cubana-salvo",
       "destacada": false,
-      "tema": "madre",
-      "fecha": "Thu, 22 Oct 2026 23:08:39 +0200",
+      "tema": "nueve",
+      "fecha": "Fri, 23 Oct 2026 01:41:27 +0200",
       "id": 13
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Actriz cubana conmocionada al encontrar a un niño durmiendo en un portal de Centro Habana con signos de violencia",
+      "titulo": "Cuba aprueba programa de capacitación para jóvenes que ni estudian ni trabajan: recibirán un ingreso mensual con condiciones",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-22-u1-e43231-s27061-nid343549-actriz-cubana-conmocionada-al-encontrar-nino",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e208933-s27061-nid343560-cuba-aprueba-programa-capacitacion-jovenes-ni",
       "destacada": false,
-      "tema": "actriz",
-      "fecha": "Thu, 22 Oct 2026 22:37:09 +0200",
+      "tema": "aprueba",
+      "fecha": "Fri, 23 Oct 2026 01:27:56 +0200",
       "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EE.UU. adelanta un año las fechas de varias visas familiares: ¿Qué significa para Cuba?",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e135253-s27061-nid343558-eeuu-adelanta-ano-fechas-varias-visas-familiares",
+      "destacada": false,
+      "tema": "adelanta",
+      "fecha": "Fri, 23 Oct 2026 01:02:04 +0200",
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -196,7 +209,7 @@
       "destacada": false,
       "tema": "simposio",
       "fecha": "Thu, 22 Oct 2026 21:29:05 +0000",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -209,7 +222,20 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Thu, 22 Oct 2026 19:48:21 +0000",
-      "id": 16
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "En la Isla vibró la cubanía y el patriotismo",
+      "resumen": "\"Un pueblo será tanto más fuerte, tendrá un porvenir tanto más seguro, cuanto más cultura, cuanto más capacitación tenga en todos los órdenes; pero sobre todo cuanto más cultura política, cuanto más cultura revolucionaria tenga ese pueblo\"",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261022/en-la-isla-vibro-la-cubania-y-el-patriotismo/",
+      "destacada": false,
+      "tema": "vibró",
+      "fecha": "Thu, 22 Oct 2026 23:44:13 +0000",
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -222,7 +248,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Fri, 23 Oct 2026 01:10:37 +0200",
-      "id": 17
+      "id": 19
     },
     {
       "categoria": "energia",
@@ -235,7 +261,7 @@
       "destacada": false,
       "tema": "apagones",
       "fecha": "Thu, 22 Oct 2026 22:51:48 +0200",
-      "id": 18
+      "id": 20
     },
     {
       "categoria": "transporte",
@@ -248,7 +274,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Thu, 22 Oct 2026 20:52:04 +0200",
-      "id": 19
+      "id": 21
     },
     {
       "categoria": "transporte",
@@ -261,7 +287,7 @@
       "destacada": false,
       "tema": "envía",
       "fecha": "Thu, 22 Oct 2026 19:18:03 +0200",
-      "id": 20
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -274,7 +300,7 @@
       "destacada": false,
       "tema": "condenado",
       "fecha": "Thu, 22 Oct 2026 18:42:34 +0200",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "politica",
@@ -287,7 +313,7 @@
       "destacada": false,
       "tema": "leydis",
       "fecha": "Thu, 22 Oct 2026 18:01:15 +0200",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "miami",
       "fecha": "Thu, 22 Oct 2026 15:11:53 +0200",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "españa",
       "fecha": "Thu, 22 Oct 2026 14:58:38 +0200",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "politica",
@@ -326,7 +352,33 @@
       "destacada": false,
       "tema": "méxico",
       "fecha": "Thu, 22 Oct 2026 13:17:34 +0200",
-      "id": 25
+      "id": 27
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 8:00 PM",
+      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481544.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Thu, 22 Oct 2026 20:00:00 -0400",
+      "id": 28
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Pastores de Las Tunas enfrentan vigilancia, detenciones y campaña de descrédito, denuncia AICNOR",
+      "resumen": "Ante el acoso que sufren los pastores Mario Jorge Travieso Medina y su esposa, Velmis Adriana Mariño González, la Alianza de Iglesias Cubanas No Registradas (AICNOR) pidió el respaldo de todas las comunidades de fe.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/pastores-de-las-tunas-enfrentan-vigilancia-detenciones-y-campa%c3%b1a-de-descr%c3%a9dito-denuncia-aicnor/482564.html",
+      "destacada": false,
+      "tema": "pastores",
+      "fecha": "Thu, 22 Oct 2026 19:23:37 -0400",
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -339,7 +391,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Thu, 22 Oct 2026 18:25:27 -0400",
-      "id": 26
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -352,7 +404,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Thu, 22 Oct 2026 17:38:37 -0400",
-      "id": 27
+      "id": 31
     },
     {
       "categoria": "economia",
@@ -365,7 +417,7 @@
       "destacada": false,
       "tema": "vecinos",
       "fecha": "Thu, 22 Oct 2026 17:01:08 -0400",
-      "id": 28
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -378,20 +430,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Thu, 22 Oct 2026 17:00:30 -0400",
-      "id": 29
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Crisis en el suministro de agua potable",
-      "resumen": "Uno de cada cuatro cubanos sufre afectaciones totales o parciales en el suministro de agua, una crisis vinculada estrechamente a los prolongados apagones y al deterioro de la infraestructura hidráulica del país.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/crisis-en-el-suministro-de-agua-potable/482566.html",
-      "destacada": false,
-      "tema": "crisis",
-      "fecha": "Thu, 22 Oct 2026 16:30:46 -0400",
-      "id": 30
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -404,7 +443,7 @@
       "destacada": false,
       "tema": "crecen",
       "fecha": "Thu, 22 Oct 2026 20:10:38 +0000",
-      "id": 31
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -417,7 +456,7 @@
       "destacada": false,
       "tema": "ballet",
       "fecha": "Thu, 22 Oct 2026 20:02:14 +0000",
-      "id": 32
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -430,7 +469,7 @@
       "destacada": false,
       "tema": "rubio",
       "fecha": "Thu, 22 Oct 2026 19:50:26 +0000",
-      "id": 33
+      "id": 36
     },
     {
       "categoria": "economia",
@@ -443,7 +482,7 @@
       "destacada": false,
       "tema": "dónde",
       "fecha": "Thu, 22 Oct 2026 19:15:02 +0000",
-      "id": 34
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -456,7 +495,7 @@
       "destacada": false,
       "tema": "audiencia",
       "fecha": "Thu, 22 Oct 2026 18:51:30 +0000",
-      "id": 35
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -469,20 +508,7 @@
       "destacada": false,
       "tema": "aprueba",
       "fecha": "Thu, 22 Oct 2026 18:24:01 +0000",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Esta tarde en la Mesa Redonda: Audiencia parlamentaria contra el bloqueo",
-      "resumen": "La Mesa Redonda transmitirá en su espacio la audiencia parlamentaria contra el bloqueo “Cuba no es una amenaza, el bloqueo sí”, realizada en esta jornada en el Instituto Nacional de Oncología y Radiobiología. The post Esta tarde en la Mesa Redonda: Audiencia parlamentaria contra el bloqueo first app",
-      "imagen_url": "",
-      "enlace_original": "http://mesaredonda.cubadebate.cu/noticias/2026/10/22/esta-tarde-en-la-mesa-redonda-audiencia-parlamentaria-contra-el-bloqueo/",
-      "destacada": false,
-      "tema": "tarde",
-      "fecha": "Thu, 22 Oct 2026 18:12:28 +0000",
-      "id": 37
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -495,7 +521,7 @@
       "destacada": false,
       "tema": "compromiso",
       "fecha": "Thu, 22 Oct 26 22:38:00 +0200",
-      "id": 38
+      "id": 40
     },
     {
       "categoria": "politica",
@@ -508,7 +534,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Thu, 22 Oct 26 08:15:00 +0200",
-      "id": 39
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -521,7 +547,7 @@
       "destacada": false,
       "tema": "otacosa",
       "fecha": "Thu, 22 Oct 26 08:13:00 +0200",
-      "id": 40
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -534,7 +560,7 @@
       "destacada": false,
       "tema": "gente",
       "fecha": "Thu, 22 Oct 26 08:12:00 +0200",
-      "id": 41
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -547,7 +573,7 @@
       "destacada": false,
       "tema": "castro",
       "fecha": "Thu, 22 Oct 26 08:04:00 +0200",
-      "id": 42
+      "id": 44
     },
     {
       "categoria": "energia",
@@ -560,7 +586,7 @@
       "destacada": false,
       "tema": "energía",
       "fecha": "Thu, 22 Oct 26 07:47:00 +0200",
-      "id": 43
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -573,7 +599,7 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Thu, 22 Oct 26 07:41:00 +0200",
-      "id": 44
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -586,7 +612,7 @@
       "destacada": false,
       "tema": "quieren",
       "fecha": "Thu, 22 Oct 26 07:39:00 +0200",
-      "id": 45
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -599,7 +625,7 @@
       "destacada": false,
       "tema": "desmonta",
       "fecha": "Thu, 22 Oct 26 07:35:00 +0200",
-      "id": 46
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -612,20 +638,46 @@
       "destacada": false,
       "tema": "homenaje",
       "fecha": "Thu, 22 Oct 26 07:05:00 +0200",
-      "id": 47
+      "id": 49
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Taller tributará a conservación de patrimonio documental",
+      "resumen": "Está destinado a la formación teórica y práctica de capacidades en materias como la digitalización La entrada Taller tributará a conservación de patrimonio documental se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/taller-tributara-a-conservacion-de-patrimonio-documental/",
+      "destacada": false,
+      "tema": "taller",
+      "fecha": "Thu, 22 Oct 2026 19:02:14 +0000",
+      "id": 50
     },
     {
       "categoria": "transporte",
-      "fuente": "https://giron.cu/",
+      "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "oficial",
-      "titulo": "Varadero prepara una fiesta aérea",
-      "resumen": "El Club de Aviación de Cuba (CAC) realizará el Festival Aerodeportivo Varadero 2026 el próximo domingo 25 de octubre en el terreno de fútbol de la pista del aeropuerto de Kawama.",
+      "titulo": "Escuela de Eduación Vial y Conducción de La Habana convoca a ferias este sábado",
+      "resumen": "En todos los municipios de la capital. En el horario de 9:00 a.m a 1:00 p.m. La entrada Escuela de Eduación Vial y Conducción de La Habana convoca a ferias este sábado se publicó primero en Tribuna de La Habana.",
       "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/22/varadero-prepara-una-fiesta-aerea/",
+      "enlace_original": "https://www.tribuna.cu/escuela-de-eduacion-vial-y-conduccion-de-la-habana-convoca-a-ferias-este-sabado/",
       "destacada": false,
-      "tema": "varadero",
-      "fecha": "Thu, 22 Oct 2026 12:54:00 +0000",
-      "id": 48
+      "tema": "escuela",
+      "fecha": "Thu, 22 Oct 2026 19:02:52 +0000",
+      "id": 51
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Lanzan campaña por el aniversario 65 de la Unión de Jóvenes Comunistas",
+      "resumen": "Con el lema \"La talla, es hacer\" la campaña invita a todos los jóvenes a seguir luchando por Cuba desde los centros estudiantiles y laborales, la comunidad y en el espectro digital La entrada Lanzan campaña por el aniversario 65 de la Unión de Jóvenes Comunistas se publicó primero en Tribuna de La H",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/lanzan-campana-por-el-aniversario-65-de-la-union-de-jovenes-comunistas/",
+      "destacada": false,
+      "tema": "lanzan",
+      "fecha": "Thu, 22 Oct 2026 19:07:04 +0000",
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -638,7 +690,7 @@
       "destacada": false,
       "tema": "bruno",
       "fecha": "Thu, 22 Oct 2026 20:00:00 GMT",
-      "id": 49
+      "id": 53
     },
     {
       "categoria": "economia",
@@ -651,7 +703,7 @@
       "destacada": false,
       "tema": "suben",
       "fecha": "Thu, 22 Oct 2026 16:31:20 GMT",
-      "id": 50
+      "id": 54
     },
     {
       "categoria": "economia",
@@ -664,7 +716,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "id": 51
+      "id": 55
     }
   ]
 }
