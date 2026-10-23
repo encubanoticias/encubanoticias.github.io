@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-23",
-  "hora": "04:20",
-  "total": 53,
+  "hora": "06:21",
+  "total": 55,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -17,6 +17,19 @@
       "id": 1
     },
     {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Chilenas piden parar el genocidio de EEUU contra Cuba",
+      "resumen": "Santiago de Chile, 23 oct (Prensa Latina) Mujeres de distintas generaciones llamaron la atención sobre los efectos del bloqueo estadounidense sobre la población cubana, agravados hoy por el cerco energético, y pidieron al gobierno chileno votar en contra de esa política genocida. The post Chilenas p",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/23/chilenas-piden-parar-el-genocidio-de-eeuu-contra-cuba/",
+      "destacada": true,
+      "tema": "chilenas",
+      "fecha": "Fri, 23 Oct 2026 04:48:15 +0000",
+      "id": 2
+    },
+    {
       "categoria": "transporte",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -27,7 +40,7 @@
       "destacada": true,
       "tema": "transporte",
       "fecha": "Thu, 22 Oct 2026 17:19:46 +0000",
-      "id": 2
+      "id": 3
     },
     {
       "categoria": "transporte",
@@ -40,7 +53,7 @@
       "destacada": true,
       "tema": "tipo_cambio",
       "fecha": "Thu, 22 Oct 2026 19:42:45 +0000",
-      "id": 3
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -53,7 +66,7 @@
       "destacada": true,
       "tema": "saxofón",
       "fecha": "Thu, 22 Oct 2026 18:33:33 +0000",
-      "id": 4
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -63,10 +76,10 @@
       "resumen": "A Noslén Sendra, con diabetes y pancreatitis aguda, le dijeron que México lo rechazó",
       "imagen_url": "https://static.14ymedio.com/clip/9a4144ab-ae0b-4f79-966f-a4760168d409_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/migracion/ong-denuncia-ee-uu-deportara_1_1132288.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "denuncia",
       "fecha": "Thu, 22 Oct 2026 20:48:41 +0000",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "transporte",
@@ -79,7 +92,7 @@
       "destacada": false,
       "tema": "dispara",
       "fecha": "Thu, 22 Oct 2026 17:14:43 +0000",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "expresos",
       "fecha": "Fri, 23 Oct 2026 04:17:37 +0200",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "economia",
@@ -105,7 +118,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 23 Oct 2026 03:12:04 +0200",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -118,7 +131,7 @@
       "destacada": false,
       "tema": "diario",
       "fecha": "Fri, 23 Oct 2026 02:30:28 +0200",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "familia",
       "fecha": "Fri, 23 Oct 2026 02:08:46 +0200",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -144,7 +157,7 @@
       "destacada": false,
       "tema": "familia",
       "fecha": "Fri, 23 Oct 2026 01:50:45 +0200",
-      "id": 11
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -157,7 +170,7 @@
       "destacada": false,
       "tema": "nueve",
       "fecha": "Fri, 23 Oct 2026 01:41:27 +0200",
-      "id": 12
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -170,7 +183,7 @@
       "destacada": false,
       "tema": "aprueba",
       "fecha": "Fri, 23 Oct 2026 01:27:56 +0200",
-      "id": 13
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -183,7 +196,7 @@
       "destacada": false,
       "tema": "simposio",
       "fecha": "Thu, 22 Oct 2026 21:29:05 +0000",
-      "id": 14
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -196,7 +209,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Thu, 22 Oct 2026 19:48:21 +0000",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -209,7 +222,20 @@
       "destacada": false,
       "tema": "vibró",
       "fecha": "Thu, 22 Oct 2026 23:44:13 +0000",
-      "id": 16
+      "id": 17
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Jóvenes cubanos sin empleo ni estudios recibirán un salario mínimo... si se capacitan",
+      "resumen": "El Gobierno promete 'activos productivos' para personas en 'situación de vulnerabilidad', capacitación remunerada de jóvenes desvinculados del estudio y el trabajo, y nuevas estructuras de Trabajo Social.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792735281_69509.html",
+      "destacada": false,
+      "tema": "jóvenes",
+      "fecha": "Fri, 23 Oct 2026 08:01:21 +0200",
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -222,7 +248,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Fri, 23 Oct 2026 01:10:37 +0200",
-      "id": 17
+      "id": 19
     },
     {
       "categoria": "energia",
@@ -235,7 +261,7 @@
       "destacada": false,
       "tema": "apagones",
       "fecha": "Thu, 22 Oct 2026 22:51:48 +0200",
-      "id": 18
+      "id": 20
     },
     {
       "categoria": "transporte",
@@ -248,7 +274,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Thu, 22 Oct 2026 20:52:04 +0200",
-      "id": 19
+      "id": 21
     },
     {
       "categoria": "transporte",
@@ -261,7 +287,7 @@
       "destacada": false,
       "tema": "envía",
       "fecha": "Thu, 22 Oct 2026 19:18:03 +0200",
-      "id": 20
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -274,7 +300,7 @@
       "destacada": false,
       "tema": "condenado",
       "fecha": "Thu, 22 Oct 2026 18:42:34 +0200",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "politica",
@@ -287,7 +313,7 @@
       "destacada": false,
       "tema": "leydis",
       "fecha": "Thu, 22 Oct 2026 18:01:15 +0200",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "miami",
       "fecha": "Thu, 22 Oct 2026 15:11:53 +0200",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -313,20 +339,7 @@
       "destacada": false,
       "tema": "españa",
       "fecha": "Thu, 22 Oct 2026 14:58:38 +0200",
-      "id": 24
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "México amplía su ayuda al campo cubano, relegado por la inversión del Gobierno",
-      "resumen": "El Gobierno de #México amplía el programa agropecuario #SembrandoVida en #Cuba con entregas de insumos, semillas, maquinaria y capacitación",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1792667854_69498.html",
-      "destacada": false,
-      "tema": "méxico",
-      "fecha": "Thu, 22 Oct 2026 13:17:34 +0200",
-      "id": 25
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -339,7 +352,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Fri, 23 Oct 2026 00:00:30 -0400",
-      "id": 26
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -352,7 +365,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Thu, 22 Oct 2026 20:00:00 -0400",
-      "id": 27
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -365,7 +378,7 @@
       "destacada": false,
       "tema": "pastores",
       "fecha": "Thu, 22 Oct 2026 19:23:37 -0400",
-      "id": 28
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -378,7 +391,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Thu, 22 Oct 2026 18:25:27 -0400",
-      "id": 29
+      "id": 30
     },
     {
       "categoria": "economia",
@@ -391,7 +404,20 @@
       "destacada": false,
       "tema": "vecinos",
       "fecha": "Thu, 22 Oct 2026 17:01:08 -0400",
-      "id": 30
+      "id": 31
+    },
+    {
+      "categoria": "economia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "¿Cuánto cuesta apagar un país y dejarlo sin visitantes?",
+      "resumen": "Cuba cuantifica en 8 083 300 000 dólares las pérdidas causadas por el bloqueo estadounidense entre el 1 de marzo de 2025 y el 28 de febrero de 2026, la cifra más alta que registra y un 7 % superior a la del informe anterior. El turismo y el sector electroenergético concentran más de un tercio de ese",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/23/cuanto-cuesta-apagar-un-pais-y-dejarlo-sin-visitantes/",
+      "destacada": false,
+      "tema": "cuánto",
+      "fecha": "Fri, 23 Oct 2026 06:04:29 +0000",
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -404,7 +430,7 @@
       "destacada": false,
       "tema": "ciudades",
       "fecha": "Fri, 23 Oct 2026 03:36:12 +0000",
-      "id": 31
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -417,7 +443,7 @@
       "destacada": false,
       "tema": "avispas",
       "fecha": "Fri, 23 Oct 2026 02:00:15 +0000",
-      "id": 32
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -430,7 +456,7 @@
       "destacada": false,
       "tema": "crecen",
       "fecha": "Thu, 22 Oct 2026 20:10:38 +0000",
-      "id": 33
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -443,7 +469,7 @@
       "destacada": false,
       "tema": "ballet",
       "fecha": "Thu, 22 Oct 2026 20:02:14 +0000",
-      "id": 34
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -456,7 +482,7 @@
       "destacada": false,
       "tema": "rubio",
       "fecha": "Thu, 22 Oct 2026 19:50:26 +0000",
-      "id": 35
+      "id": 37
     },
     {
       "categoria": "economia",
@@ -469,150 +495,137 @@
       "destacada": false,
       "tema": "dónde",
       "fecha": "Thu, 22 Oct 2026 19:15:02 +0000",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Audiencia Pública Parlamentaria “Cuba no es una amenaza, el bloqueo sí” denuncia los efectos del bloqueo de EE.UU.",
-      "resumen": "La Audiencia Pública Parlamentaria se realizó en el Instituto Nacional de Oncología y Radiobiología, a pocos días de la votación en Naciones Unidas contra el cerco económico, comercial y financiero impuesto por Estados Unidos a la Isla. The post Audiencia Pública Parlamentaria “Cuba no es una amenaz",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/22/audiencia-publica-parlamentaria-cuba-no-es-una-amenaza-el-bloqueo-si-denuncia-los-efectos-del-bloqueo-de-ee-uu/",
-      "destacada": false,
-      "tema": "audiencia",
-      "fecha": "Thu, 22 Oct 2026 18:51:30 +0000",
-      "id": 37
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "¿Cómo EE. UU. compra votos contra Cuba en la ONU?",
-      "resumen": "Cubainformación.- En Naciones Unidas, el Gobierno de Estados Unidos chantajea, presiona y amenaza co...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125662-como-ee-uu-compra-votos-contra-cuba-en-la-onu.jpg?t=1792682907",
-      "enlace_original": "https://www.cubainformacion.tv/especiales/20261023/125662/125662-como-ee-uu-compra-votos-contra-cuba-en-la-onu",
-      "destacada": false,
-      "tema": "compra",
-      "fecha": "Fri, 23 Oct 26 01:00:00 +0200",
       "id": 38
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "El compromiso con la Carta de las NNUU es votar contra el bloqueo",
-      "resumen": "Chantajes, amenazas, extorsiones a quienes en la ONU van a votar contra el bloqueo, esa es la acción...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125663-el-compromiso-con-la-carta-de-las-nnuu-es-votar-contra-el-bloqueo.jpg?t=1792701493",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261022/125663/125663-el-compromiso-con-la-carta-de-las-nnuu-es-votar-contra-el-bloqueo",
+      "titulo": "Cuba y Rusia registran un fármaco anticancerígeno desarrollado en La Habana",
+      "resumen": "Argentino Tellini - Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125676-cuba-y-rusia-registran-un-farmaco-anticancerigeno-desarrollado-en-la-habana.jpg?t=1792736322",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261023/125676/125676-cuba-y-rusia-registran-un-farmaco-anticancerigeno-desarrollado-en-la-habana",
       "destacada": false,
-      "tema": "compromiso",
-      "fecha": "Thu, 22 Oct 26 22:38:00 +0200",
+      "tema": "rusia",
+      "fecha": "Fri, 23 Oct 26 08:18:00 +0200",
       "id": 39
     },
     {
-      "categoria": "politica",
+      "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba denuncia con pruebas las amenazas de aranceles y sanciones de EEUU a numerosos países para que varíen su voto contra el bloqueo a Cuba en la ONU",
-      "resumen": "El ministro de Relaciones Exteriores de Cuba, Bruno Rodríguez Parrilla. Foto: Cubaminrex....",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125640-cuba-denuncia-con-pruebas-las-amenazas-de-aranceles-y-sanciones-de-eeuu-a-numerosos-paises-para-que-varien-su-voto-contra-el-bloqueo-a-cuba-en-la-onu.jpg?t=1792644053",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261022/125640/125640-cuba-denuncia-con-pruebas-las-amenazas-de-aranceles-y-sanciones-de-eeuu-a-numerosos-paises-para-que-varien-su-voto-contra-el-bloqueo-a-cuba-en-la-onu",
+      "titulo": "La batalla comunicacional y el legado de Fidel Castro: Una reflexión desde el corazón de México",
+      "resumen": "Araceli Aguilar Salgado nycpressnews.com “Durante toda su vida, el líder cubano solo utilizó el ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125675-la-batalla-comunicacional-y-el-legado-de-fidel-castro-una-reflexion-desde-el-corazon-de-mexico.jpg?t=1792734872",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261023/125675/125675-la-batalla-comunicacional-y-el-legado-de-fidel-castro-una-reflexion-desde-el-corazon-de-mexico",
       "destacada": false,
-      "tema": "denuncia",
-      "fecha": "Thu, 22 Oct 26 08:15:00 +0200",
+      "tema": "batalla",
+      "fecha": "Fri, 23 Oct 26 07:52:00 +0200",
       "id": 40
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "El OTACOSA no fue a la fiesta",
-      "resumen": "La Florecita Cubana",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125659-el-otacosa-no-fue-a-la-fiesta.jpg?t=1792649589",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261022/125659/125659-el-otacosa-no-fue-a-la-fiesta",
+      "titulo": "Exposición «Operación Milagro: solidaridad médica de Cuba en Argentina» ya puede verse en la localidad vasca de Lezama, que acogerá el 30 de octubre un concierto solidario del trovador Jorge Sánchez",
+      "resumen": "Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125674-exposicion-operacion-milagro-solidaridad-medica-de-cuba-en-argentina-ya-puede-verse-en-la-localidad-vasca-de-lezama-que-acogera-el-30-de-octubre-un-concierto-solidario-del-trovador-jorge-sanchez.jpg?t=1792735349",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261023/125674/125674-exposicion-operacion-milagro-solidaridad-medica-de-cuba-en-argentina-ya-puede-verse-en-la-localidad-vasca-de-lezama-que-acogera-el-30-de-octubre-un-concierto-solidario-del-trovador-jorge-sanchez",
       "destacada": false,
-      "tema": "otacosa",
-      "fecha": "Thu, 22 Oct 26 08:13:00 +0200",
+      "tema": "exposición",
+      "fecha": "Fri, 23 Oct 26 07:50:00 +0200",
       "id": 41
     },
     {
-      "categoria": "sociedad",
+      "categoria": "transporte",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "La gente en Cuba desmiente a José Daniel Ferrer",
-      "resumen": "CUBA No Es Miami",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125657-la-gente-en-cuba-desmiente-a-jose-daniel-ferrer.jpg?t=1792649520",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261022/125657/125657-la-gente-en-cuba-desmiente-a-jose-daniel-ferrer",
+      "titulo": "Todavía la ONU huele a azufre, le piden al Guerrero que fumigue",
+      "resumen": "Guerrero Cubano con su verdad al desnudo",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125673-todavia-la-onu-huele-a-azufre-le-piden-al-guerrero-que-fumigue.jpg?t=1792733983",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261023/125673/125673-todavia-la-onu-huele-a-azufre-le-piden-al-guerrero-que-fumigue",
       "destacada": false,
-      "tema": "gente",
-      "fecha": "Thu, 22 Oct 26 08:12:00 +0200",
+      "tema": "todavía",
+      "fecha": "Fri, 23 Oct 26 07:39:00 +0200",
       "id": 42
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "EEUU va por Raúl Castro: ¿Acción electoral desesperada o amenaza militar real?",
-      "resumen": "La Base América Latina",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125655-eeuu-va-por-raul-castro-accion-electoral-desesperada-o-amenaza-militar-real.jpg?t=1792649114",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261022/125655/125655-eeuu-va-por-raul-castro-accion-electoral-desesperada-o-amenaza-militar-real",
+      "titulo": "“No podemos pedirle mucho más a los cubanos y a las cubanas”: Mario Santucho analiza la ofensiva de Estados Unidos contra Cuba",
+      "resumen": "Mario Santucho en La Base América Latina.",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125672-no-podemos-pedirle-mucho-mas-a-los-cubanos-y-a-las-cubanas-mario-santucho-analiza-la-ofensiva-de-estados-unidos-contra-cuba.jpg?t=1792732118",
+      "enlace_original": "https://www.cubainformacion.tv/opinion/20261023/125672/125672-no-podemos-pedirle-mucho-mas-a-los-cubanos-y-a-las-cubanas-mario-santucho-analiza-la-ofensiva-de-estados-unidos-contra-cuba",
       "destacada": false,
-      "tema": "castro",
-      "fecha": "Thu, 22 Oct 26 08:04:00 +0200",
+      "tema": "podemos",
+      "fecha": "Fri, 23 Oct 26 07:06:00 +0200",
       "id": 43
     },
     {
-      "categoria": "energia",
+      "categoria": "politica",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "Energía solar contra el bloqueo: colectivos aragoneses impulsan proyecto solidario",
-      "resumen": "Las consecuencias de la prohibición de Estados Unidos de exportar combustible a Cuba recaen directam...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125654-energia-solar-contra-el-bloqueo-colectivos-aragoneses-impulsan-proyecto-solidario.jpg?t=1792648308",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261022/125654/125654-energia-solar-contra-el-bloqueo-colectivos-aragoneses-impulsan-proyecto-solidario",
+      "titulo": "Cuba, el trofeo del imperio en declive",
+      "resumen": "Protestas en la ciudad de Holguín contra el bloqueo impuesto por el gobierno de EE.UU. contra Cuba. ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125671-cuba-el-trofeo-del-imperio-en-declive.jpg?t=1792731990",
+      "enlace_original": "https://www.cubainformacion.tv/opinion/20261023/125671/125671-cuba-el-trofeo-del-imperio-en-declive",
       "destacada": false,
-      "tema": "energía",
-      "fecha": "Thu, 22 Oct 26 07:47:00 +0200",
+      "tema": "trofeo",
+      "fecha": "Fri, 23 Oct 26 07:04:00 +0200",
       "id": 44
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "Organizaciones Juveniles apuestan por una labor activa en las comunidades de Cuba",
-      "resumen": "“La talla, es hacer”, el sentir que mueve a la juventud cubana (+Fotos) Jessica Jimene...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125652-organizaciones-juveniles-apuestan-por-una-labor-activa-en-las-comunidades-de-cuba.jpg?t=1792647822",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261022/125652/125652-organizaciones-juveniles-apuestan-por-una-labor-activa-en-las-comunidades-de-cuba",
+      "titulo": "Desde Irlanda, más solidaridad con Cuba",
+      "resumen": "Siempre con Cuba / ICAP",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125670-desde-irlanda-mas-solidaridad-con-cuba.jpg?t=1792731765",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261023/125670/125670-desde-irlanda-mas-solidaridad-con-cuba",
       "destacada": false,
-      "tema": "organizaciones",
-      "fecha": "Thu, 22 Oct 26 07:41:00 +0200",
+      "tema": "irlanda",
+      "fecha": "Fri, 23 Oct 26 07:01:00 +0200",
       "id": 45
     },
     {
-      "categoria": "sociedad",
+      "categoria": "energia",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "La Cuba que no quieren que conozcas",
-      "resumen": "Las Yaguas, uno de los barrios insalubres ubicados en la periferia de La Habana. Foto: Archivo CD......",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125651-la-cuba-que-no-quieren-que-conozcas.jpg?t=1792647633",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261022/125651/125651-la-cuba-que-no-quieren-que-conozcas",
+      "titulo": "Hacemos Cuba: Prevención y enfrentamiento a los delitos contra fuentes renovables de energía",
+      "resumen": "Canal Caribe.- Hacemos Cuba aborda las acciones de prevención y enfrentamiento a los delitos contra ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125669-hacemos-cuba-prevencion-y-enfrentamiento-a-los-delitos-contra-fuentes-renovables-de-energia.jpg?t=1792731472",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261023/125669/125669-hacemos-cuba-prevencion-y-enfrentamiento-a-los-delitos-contra-fuentes-renovables-de-energia",
       "destacada": false,
-      "tema": "quieren",
-      "fecha": "Thu, 22 Oct 26 07:39:00 +0200",
+      "tema": "hacemos",
+      "fecha": "Fri, 23 Oct 26 06:57:00 +0200",
       "id": 46
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba desmonta acusaciones de EE.UU. sobre participación en guerra de Ucrania",
-      "resumen": "Minrex: Cuba reitera su rechazo a los intentos de EEUU de involucrarla en el conflicto en Ucrania ...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125650-cuba-desmonta-acusaciones-de-ee-uu-sobre-participacion-en-guerra-de-ucrania.jpg?t=1792647545",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261022/125650/125650-cuba-desmonta-acusaciones-de-ee-uu-sobre-participacion-en-guerra-de-ucrania",
+      "titulo": "Cuba aprueba programa para dotar de activos productivos a personas en situación de vulnerabilidad",
+      "resumen": "Oscar Figueredo Reinaldo Cubadebate El objetivo es crear condiciones para que quienes se encuentre...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125668-cuba-aprueba-programa-para-dotar-de-activos-productivos-a-personas-en-situacion-de-vulnerabilidad.jpg?t=1792731370",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261023/125668/125668-cuba-aprueba-programa-para-dotar-de-activos-productivos-a-personas-en-situacion-de-vulnerabilidad",
       "destacada": false,
-      "tema": "desmonta",
-      "fecha": "Thu, 22 Oct 26 07:35:00 +0200",
+      "tema": "aprueba",
+      "fecha": "Fri, 23 Oct 26 06:54:00 +0200",
       "id": 47
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Reinaguran Centro Nacional de Rehabilitación para personas ciegas y con baja visión",
+      "resumen": "Reabre sus puertas una joya de humanidad Alina Perera Robbio Presidencia Cuba Este 22 de octubre se...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125667-reinaguran-centro-nacional-de-rehabilitacion-para-personas-ciegas-y-con-baja-vision.jpg?t=1792731199",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261023/125667/125667-reinaguran-centro-nacional-de-rehabilitacion-para-personas-ciegas-y-con-baja-vision",
+      "destacada": false,
+      "tema": "reinaguran",
+      "fecha": "Fri, 23 Oct 26 06:52:00 +0200",
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -625,7 +638,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Fri, 23 Oct 2026 02:10:08 +0000",
-      "id": 48
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -638,7 +651,7 @@
       "destacada": false,
       "tema": "taller",
       "fecha": "Thu, 22 Oct 2026 19:02:14 +0000",
-      "id": 49
+      "id": 50
     },
     {
       "categoria": "transporte",
@@ -651,7 +664,20 @@
       "destacada": false,
       "tema": "escuela",
       "fecha": "Thu, 22 Oct 2026 19:02:52 +0000",
-      "id": 50
+      "id": 51
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Varadero prepara una fiesta aérea",
+      "resumen": "El Club de Aviación de Cuba (CAC) realizará el Festival Aerodeportivo Varadero 2026 el próximo domingo 25 de octubre en el terreno de fútbol de la pista del aeropuerto de Kawama.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/22/varadero-prepara-una-fiesta-aerea/",
+      "destacada": false,
+      "tema": "varadero",
+      "fecha": "Thu, 22 Oct 2026 12:54:00 +0000",
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -664,7 +690,7 @@
       "destacada": false,
       "tema": "bruno",
       "fecha": "Thu, 22 Oct 2026 20:00:00 GMT",
-      "id": 51
+      "id": 53
     },
     {
       "categoria": "economia",
@@ -677,7 +703,7 @@
       "destacada": false,
       "tema": "suben",
       "fecha": "Thu, 22 Oct 2026 16:31:20 GMT",
-      "id": 52
+      "id": 54
     },
     {
       "categoria": "economia",
@@ -690,7 +716,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "id": 53
+      "id": 55
     }
   ]
 }
