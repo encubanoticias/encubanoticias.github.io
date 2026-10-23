@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-23",
-  "hora": "01:29",
-  "total": 55,
+  "hora": "03:20",
+  "total": 54,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -17,32 +17,6 @@
       "id": 1
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Liga Parlamentaria: Perú debe votar contra el bloqueo de EEUU a Cuba",
-      "resumen": "Lima, 22 oct (Prensa Latina) La Liga Parlamentaria Perú-Cuba declaró hoy que el Gobierno debe mantener la política tradicional del país y votar por el cese del bloqueo de Estados Unidos contra Cuba, la próxima semana en las Naciones Unidas. The post Liga Parlamentaria: Perú debe votar contra el bloq",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/22/liga-parlamentaria-peru-debe-votar-contra-el-bloqueo-de-eeuu-a-cuba/",
-      "destacada": true,
-      "tema": "parlamentaria",
-      "fecha": "Fri, 23 Oct 2026 00:21:35 +0000",
-      "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Ingenio y honestidad literaria distinguen en Cuba a María Elena Llana",
-      "resumen": "La Habana, 22 oct (Prensa Latina) Reconocida como una de las voces emblemáticas de la literatura en Cuba, María Elena Llana, candidata hoy al Premio Miguel de Cervantes, vierte ingenio y fantasía en cada vuelo narrativo, con la satisfacción de considerarse, sobre todo, honesta. The post Ingenio y ho",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/22/ingenio-y-honestidad-literaria-distinguen-en-cuba-a-maria-elena-llana/",
-      "destacada": true,
-      "tema": "ingenio",
-      "fecha": "Thu, 22 Oct 2026 23:26:16 +0000",
-      "id": 3
-    },
-    {
       "categoria": "transporte",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -53,7 +27,7 @@
       "destacada": true,
       "tema": "transporte",
       "fecha": "Thu, 22 Oct 2026 17:19:46 +0000",
-      "id": 4
+      "id": 2
     },
     {
       "categoria": "transporte",
@@ -66,7 +40,7 @@
       "destacada": true,
       "tema": "tipo_cambio",
       "fecha": "Thu, 22 Oct 2026 19:42:45 +0000",
-      "id": 5
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -76,10 +50,10 @@
       "resumen": "El artista jubilado toca en las calles de La Habana para mejorar su pensión miserable, mientras el mandatario reúne a representantes de la cultura oficial en el Palacio de la Revolución",
       "imagen_url": "https://static.14ymedio.com/clip/4c896480-9325-42b6-bb32-44ad03783a95_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cultura/saxofon-efren-supervivencia-musica-diaz_1_1132273.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "saxofón",
       "fecha": "Thu, 22 Oct 2026 18:33:33 +0000",
-      "id": 6
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -89,10 +63,10 @@
       "resumen": "A Noslén Sendra, con diabetes y pancreatitis aguda, le dijeron que México lo rechazó",
       "imagen_url": "https://static.14ymedio.com/clip/9a4144ab-ae0b-4f79-966f-a4760168d409_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/migracion/ong-denuncia-ee-uu-deportara_1_1132288.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "denuncia",
       "fecha": "Thu, 22 Oct 2026 20:48:41 +0000",
-      "id": 7
+      "id": 5
     },
     {
       "categoria": "transporte",
@@ -105,7 +79,20 @@
       "destacada": false,
       "tema": "dispara",
       "fecha": "Thu, 22 Oct 2026 17:14:43 +0000",
-      "id": 8
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Más de 130 expresos políticos cubanos fijan sus condiciones: liberar a todos los presos antes de negociar con el régimen",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e199894-s27061-nid343568-130-expresos-politicos-cubanos-fijan-sus-condiciones",
+      "destacada": false,
+      "tema": "expresos",
+      "fecha": "Fri, 23 Oct 2026 04:17:37 +0200",
+      "id": 7
     },
     {
       "categoria": "economia",
@@ -118,7 +105,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 23 Oct 2026 03:12:04 +0200",
-      "id": 9
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -131,7 +118,7 @@
       "destacada": false,
       "tema": "diario",
       "fecha": "Fri, 23 Oct 2026 02:30:28 +0200",
-      "id": 10
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -144,7 +131,7 @@
       "destacada": false,
       "tema": "familia",
       "fecha": "Fri, 23 Oct 2026 02:08:46 +0200",
-      "id": 11
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -157,7 +144,7 @@
       "destacada": false,
       "tema": "familia",
       "fecha": "Fri, 23 Oct 2026 01:50:45 +0200",
-      "id": 12
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -170,7 +157,7 @@
       "destacada": false,
       "tema": "nueve",
       "fecha": "Fri, 23 Oct 2026 01:41:27 +0200",
-      "id": 13
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -183,20 +170,7 @@
       "destacada": false,
       "tema": "aprueba",
       "fecha": "Fri, 23 Oct 2026 01:27:56 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "EE.UU. adelanta un año las fechas de varias visas familiares: ¿Qué significa para Cuba?",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e135253-s27061-nid343558-eeuu-adelanta-ano-fechas-varias-visas-familiares",
-      "destacada": false,
-      "tema": "adelanta",
-      "fecha": "Fri, 23 Oct 2026 01:02:04 +0200",
-      "id": 15
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -209,7 +183,7 @@
       "destacada": false,
       "tema": "simposio",
       "fecha": "Thu, 22 Oct 2026 21:29:05 +0000",
-      "id": 16
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -218,11 +192,11 @@
       "titulo": "Un día como hoy en la vida y obra de Fidel. 22 de octubre",
       "resumen": "&#8211; 22 de octubre de 1959. Fidel en el programa televisivo Ante la Prensa denuncia los hechos terroristas realizados el día anterior en La Habana por avionetas procedentes de los Estados Unidos de América. Resalta que creía en la firmeza del pueblo cubano. Señala: &#160; “Porque nunca el pueblo ",
       "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/un-dia-como-hoy-en-la-vida-y-obra-de-fidel/un-dia-como-hoy-en-la-vida-y-obra-de-fidel-22-de-octubre/",
+      "enlace_original": "https://www.radiocubana.cu/historia-de-la-radio-cubana/un-dia-como-hoy-en-la-vida-y-obra-de-fidel/un-dia-como-hoy-en-la-vida-y-obra-de-fidel-22-de-octubre/",
       "destacada": false,
       "tema": "fidel",
       "fecha": "Thu, 22 Oct 2026 19:48:21 +0000",
-      "id": 17
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -235,7 +209,7 @@
       "destacada": false,
       "tema": "vibró",
       "fecha": "Thu, 22 Oct 2026 23:44:13 +0000",
-      "id": 18
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -248,7 +222,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Fri, 23 Oct 2026 01:10:37 +0200",
-      "id": 19
+      "id": 17
     },
     {
       "categoria": "energia",
@@ -261,7 +235,7 @@
       "destacada": false,
       "tema": "apagones",
       "fecha": "Thu, 22 Oct 2026 22:51:48 +0200",
-      "id": 20
+      "id": 18
     },
     {
       "categoria": "transporte",
@@ -274,7 +248,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Thu, 22 Oct 2026 20:52:04 +0200",
-      "id": 21
+      "id": 19
     },
     {
       "categoria": "transporte",
@@ -287,7 +261,7 @@
       "destacada": false,
       "tema": "envía",
       "fecha": "Thu, 22 Oct 2026 19:18:03 +0200",
-      "id": 22
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -300,7 +274,7 @@
       "destacada": false,
       "tema": "condenado",
       "fecha": "Thu, 22 Oct 2026 18:42:34 +0200",
-      "id": 23
+      "id": 21
     },
     {
       "categoria": "politica",
@@ -313,7 +287,7 @@
       "destacada": false,
       "tema": "leydis",
       "fecha": "Thu, 22 Oct 2026 18:01:15 +0200",
-      "id": 24
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -326,7 +300,7 @@
       "destacada": false,
       "tema": "miami",
       "fecha": "Thu, 22 Oct 2026 15:11:53 +0200",
-      "id": 25
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -339,7 +313,7 @@
       "destacada": false,
       "tema": "españa",
       "fecha": "Thu, 22 Oct 2026 14:58:38 +0200",
-      "id": 26
+      "id": 24
     },
     {
       "categoria": "politica",
@@ -352,7 +326,7 @@
       "destacada": false,
       "tema": "méxico",
       "fecha": "Thu, 22 Oct 2026 13:17:34 +0200",
-      "id": 27
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -365,7 +339,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Thu, 22 Oct 2026 20:00:00 -0400",
-      "id": 28
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -378,7 +352,7 @@
       "destacada": false,
       "tema": "pastores",
       "fecha": "Thu, 22 Oct 2026 19:23:37 -0400",
-      "id": 29
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -391,7 +365,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Thu, 22 Oct 2026 18:25:27 -0400",
-      "id": 30
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -404,7 +378,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Thu, 22 Oct 2026 17:38:37 -0400",
-      "id": 31
+      "id": 29
     },
     {
       "categoria": "economia",
@@ -417,7 +391,7 @@
       "destacada": false,
       "tema": "vecinos",
       "fecha": "Thu, 22 Oct 2026 17:01:08 -0400",
-      "id": 32
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -430,7 +404,20 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Thu, 22 Oct 2026 17:00:30 -0400",
-      "id": 33
+      "id": 31
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Las Avispas de Santiago de Cuba vuelven a reinar en solitario durante la Serie Nacional",
+      "resumen": "Los santiagueros derrotaron 9-6 a los Indios de Guantánamo en el estadio Nguyen Van Troi, mientras los granmenses cayeron 5-7 ante los Cachorros de Holguín, como anfitriones en el Mártires de Barbados, y cedieron el primer puesto oriental. Las Avispas necesitaron 11 entradas para doblegar a la tribu",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/22/las-avispas-de-santiago-de-cuba-vuelven-a-reinar-en-solitario-durante-la-serie-nacional/",
+      "destacada": false,
+      "tema": "avispas",
+      "fecha": "Fri, 23 Oct 2026 02:00:15 +0000",
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -443,7 +430,7 @@
       "destacada": false,
       "tema": "crecen",
       "fecha": "Thu, 22 Oct 2026 20:10:38 +0000",
-      "id": 34
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -456,7 +443,7 @@
       "destacada": false,
       "tema": "ballet",
       "fecha": "Thu, 22 Oct 2026 20:02:14 +0000",
-      "id": 35
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -469,7 +456,7 @@
       "destacada": false,
       "tema": "rubio",
       "fecha": "Thu, 22 Oct 2026 19:50:26 +0000",
-      "id": 36
+      "id": 35
     },
     {
       "categoria": "economia",
@@ -482,7 +469,7 @@
       "destacada": false,
       "tema": "dónde",
       "fecha": "Thu, 22 Oct 2026 19:15:02 +0000",
-      "id": 37
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -495,20 +482,7 @@
       "destacada": false,
       "tema": "audiencia",
       "fecha": "Thu, 22 Oct 2026 18:51:30 +0000",
-      "id": 38
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba aprueba programa para dotar de activos productivos a personas en situación de vulnerabilidad",
-      "resumen": "Cuba aprobó el Acuerdo 10455, que establece el Programa de inclusión económica para la dotación de activos productivos de pequeña escala a personas en situación de vulnerabilidad multidimensional, una iniciativa que busca favorecer su incorporación a actividades económicas y contribuir a superar las",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/22/cuba-aprueba-programa-para-dotar-de-activos-productivos-a-personas-en-situacion-de-vulnerabilidad/",
-      "destacada": false,
-      "tema": "aprueba",
-      "fecha": "Thu, 22 Oct 2026 18:24:01 +0000",
-      "id": 39
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -521,7 +495,7 @@
       "destacada": false,
       "tema": "compromiso",
       "fecha": "Thu, 22 Oct 26 22:38:00 +0200",
-      "id": 40
+      "id": 38
     },
     {
       "categoria": "politica",
@@ -534,7 +508,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Thu, 22 Oct 26 08:15:00 +0200",
-      "id": 41
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -547,7 +521,7 @@
       "destacada": false,
       "tema": "otacosa",
       "fecha": "Thu, 22 Oct 26 08:13:00 +0200",
-      "id": 42
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -560,7 +534,7 @@
       "destacada": false,
       "tema": "gente",
       "fecha": "Thu, 22 Oct 26 08:12:00 +0200",
-      "id": 43
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -573,7 +547,7 @@
       "destacada": false,
       "tema": "castro",
       "fecha": "Thu, 22 Oct 26 08:04:00 +0200",
-      "id": 44
+      "id": 42
     },
     {
       "categoria": "energia",
@@ -586,7 +560,7 @@
       "destacada": false,
       "tema": "energía",
       "fecha": "Thu, 22 Oct 26 07:47:00 +0200",
-      "id": 45
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -599,7 +573,7 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Thu, 22 Oct 26 07:41:00 +0200",
-      "id": 46
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -612,7 +586,7 @@
       "destacada": false,
       "tema": "quieren",
       "fecha": "Thu, 22 Oct 26 07:39:00 +0200",
-      "id": 47
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -625,7 +599,7 @@
       "destacada": false,
       "tema": "desmonta",
       "fecha": "Thu, 22 Oct 26 07:35:00 +0200",
-      "id": 48
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -638,7 +612,20 @@
       "destacada": false,
       "tema": "homenaje",
       "fecha": "Thu, 22 Oct 26 07:05:00 +0200",
-      "id": 49
+      "id": 47
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Una joya para Joya",
+      "resumen": "La Casa de Cultura de Santa María del Rosario, en el Cotorro, festejó este jueves los 89 años del nacimiento de Gastón Joya La entrada Una joya para Joya se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/una-joya-para-joya/",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Fri, 23 Oct 2026 02:10:08 +0000",
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -651,7 +638,7 @@
       "destacada": false,
       "tema": "taller",
       "fecha": "Thu, 22 Oct 2026 19:02:14 +0000",
-      "id": 50
+      "id": 49
     },
     {
       "categoria": "transporte",
@@ -664,20 +651,20 @@
       "destacada": false,
       "tema": "escuela",
       "fecha": "Thu, 22 Oct 2026 19:02:52 +0000",
-      "id": 51
+      "id": 50
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
+      "categoria": "transporte",
+      "fuente": "https://giron.cu/",
       "fuente_tipo": "oficial",
-      "titulo": "Lanzan campaña por el aniversario 65 de la Unión de Jóvenes Comunistas",
-      "resumen": "Con el lema \"La talla, es hacer\" la campaña invita a todos los jóvenes a seguir luchando por Cuba desde los centros estudiantiles y laborales, la comunidad y en el espectro digital La entrada Lanzan campaña por el aniversario 65 de la Unión de Jóvenes Comunistas se publicó primero en Tribuna de La H",
+      "titulo": "Varadero prepara una fiesta aérea",
+      "resumen": "El Club de Aviación de Cuba (CAC) realizará el Festival Aerodeportivo Varadero 2026 el próximo domingo 25 de octubre en el terreno de fútbol de la pista del aeropuerto de Kawama.",
       "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/lanzan-campana-por-el-aniversario-65-de-la-union-de-jovenes-comunistas/",
+      "enlace_original": "https://giron.cu/2026/10/22/varadero-prepara-una-fiesta-aerea/",
       "destacada": false,
-      "tema": "lanzan",
-      "fecha": "Thu, 22 Oct 2026 19:07:04 +0000",
-      "id": 52
+      "tema": "varadero",
+      "fecha": "Thu, 22 Oct 2026 12:54:00 +0000",
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -690,7 +677,7 @@
       "destacada": false,
       "tema": "bruno",
       "fecha": "Thu, 22 Oct 2026 20:00:00 GMT",
-      "id": 53
+      "id": 52
     },
     {
       "categoria": "economia",
@@ -703,7 +690,7 @@
       "destacada": false,
       "tema": "suben",
       "fecha": "Thu, 22 Oct 2026 16:31:20 GMT",
-      "id": 54
+      "id": 53
     },
     {
       "categoria": "economia",
@@ -716,7 +703,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "id": 55
+      "id": 54
     }
   ]
 }
