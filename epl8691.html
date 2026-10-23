@@ -509,14 +509,14 @@ document.getElementById('btn-generar-fb').onclick = () => {
   const mediosUsados = new Set();
   
   for (const n of mezcladas) {
-    if (!mediosUsados.has(n.fuente) && seleccionadas.length < 5) {
+    if (!mediosUsados.has(n.fuente) && seleccionadas.length < 10) {
       seleccionadas.push(n);
       mediosUsados.add(n.fuente);
     }
   }
   
   // Si faltan, rellenar con las que queden
-  if (seleccionadas.length < 5) {
+  if (seleccionadas.length < 10) {
     for (const n of mezcladas) {
       if (!seleccionadas.includes(n) && seleccionadas.length < 5) {
         seleccionadas.push(n);
@@ -526,10 +526,10 @@ document.getElementById('btn-generar-fb').onclick = () => {
 
   // 3. Encabezados aleatorios
   const encabezados = [
-    "📌 Lo que se mueve hoy en Cuba",
-    "📌 Cinco titulares que mueven el pulso",
-    "📌 El pulso de hoy, en cinco líneas",
-    "📌 Lo que no te puedes perder hoy"
+    "📌 Lo que se mueve hoy en #Cuba",
+    "📌 Titulares que mueven el pulso en #Cuba",
+    "📌 El pulso de hoy, en #Cuba",
+    "📌 Lo que no te puedes perder hoy sobre #Cuba"
   ];
   const encabezado = encabezados[Math.floor(Math.random() * encabezados.length)];
 
@@ -543,7 +543,7 @@ const etiqueta = "MEDIO " + tipoTexto.toUpperCase();
   });
 
   // 5. Gancho para el primer comentario
-  const gancho = "💬 (Para el primer comentario):\nNo todas las versiones caben en cinco líneas. Las que faltan, con sus contrastes y tu voto, están aquí: encubanoticias.github.io";
+  const gancho = "💬 Estos son algunos titulares. Las versiones completas, con sus contrastes y tu voto, están aquí: \nencubanoticias.github.io";
 
   // 6. Unir todo
   const resultadoFinal = `${encabezado}\n\n${bloqueTitulares}\n${gancho}`;
