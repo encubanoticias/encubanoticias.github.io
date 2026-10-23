@@ -1,33 +1,59 @@
 {
   "fecha": "2026-10-23",
-  "hora": "18:17",
-  "total": 52,
+  "hora": "19:24",
+  "total": 55,
   "noticias": [
     {
-      "categoria": "salud",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba denuncia impacto del bloqueo EEUU en su sistema de salud",
-      "resumen": "Roma, 23 oct (Prensa Latina) El consejero político de la Embajada de Cuba en Italia Damián Delgado, denunció hoy el bloqueo económico, comercial y financiero de Estados Unidos hacia la isla y su impacto sobre los principales indicadores del sistema de salud cubano. The post Cuba denuncia impacto del",
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Vietnam apoyará a Cuba codo con codo en foros internacionales",
+      "resumen": "El presidente del Grupo parlamentario de Amistad Vietnam-Cuba, Vu Hai Ha, reafirmó hoy la postura inquebrantable de Vietnam de permanecer siempre codo con codo con Cuba y de seguir apoyándola firmemente en los foros internacionales",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/23/cuba-denuncia-impacto-del-bloqueo-eeuu-en-su-sistema-de-salud/",
+      "enlace_original": "http://www.granma.cu/vietnam-y-cuba/2026-10-23/vietnam-apoyara-a-cuba-codo-con-codo-en-foros-internacionales-23-10-2026-14-10-52",
       "destacada": true,
-      "tema": "denuncia",
-      "fecha": "Fri, 23 Oct 2026 17:46:51 +0000",
+      "tema": "vietnam",
+      "fecha": "Fri, 23 Oct 2026 14:10:52 -0400",
       "id": 1
     },
     {
-      "categoria": "salud",
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba invita al Papa a visitar la Isla",
+      "resumen": "El embajador de Cuba ante la Santa Sede destacó el papel de la Iglesia católica en los esfuerzos para poner fin al bloqueo",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-23/cuba-invita-al-papa-a-visitar-la-isla-23-10-2026-13-10-06",
+      "destacada": true,
+      "tema": "invita",
+      "fecha": "Fri, 23 Oct 2026 13:10:06 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Destacan en Cuba importancia de las donaciones de sangre",
-      "resumen": "La Habana, 23 oct (Prensa Latina) El director del Instituto de Hematología e Inmunología de Cuba, Wilfredo Roque destacó la importancia que reviste hoy las donaciones de sangre ara el sistema de salud, al tiempo que resaltó la actitud altruista de los donantes. The post Destacan en Cuba importancia ",
+      "titulo": "Evalúan en Cuba transformaciones del comercio interior",
+      "resumen": "Holguín, Cuba, 23 oct (Prensa Latina) Autoridades de Cuba evaluaron hoy en esta provincia oriental la marcha de las transformaciones económicas destinadas a diversificar la oferta comercial, elevar la calidad de los servicios y asegurar la protección de la población. The post Evalúan en Cuba transfo",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/23/destacan-en-cuba-importancia-de-las-donaciones-de-sangre/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/23/evaluan-en-cuba-transformaciones-del-comercio-interior/",
       "destacada": true,
-      "tema": "destacan",
-      "fecha": "Fri, 23 Oct 2026 17:46:24 +0000",
-      "id": 2
+      "tema": "evalúan",
+      "fecha": "Fri, 23 Oct 2026 18:44:01 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La última muda de ropa de Norbert Galland está en venta",
+      "resumen": "La inflación y el encarecimiento de la vida empujan a cada vez más ancianos cubanos a trabajar o desprenderse de sus pertenencias",
+      "imagen_url": "https://static.14ymedio.com/clip/ee45d047-c192-4037-9ea9-a2b8a1c23160_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/ultima-muda-ropa-venta-habana_1_1132329.html",
+      "destacada": true,
+      "tema": "última",
+      "fecha": "Fri, 23 Oct 2026 18:44:56 +0000",
+      "id": 4
     },
     {
       "categoria": "economia",
@@ -40,7 +66,7 @@
       "destacada": true,
       "tema": "tipo_cambio",
       "fecha": "Fri, 23 Oct 2026 17:01:50 +0000",
-      "id": 3
+      "id": 5
     },
     {
       "categoria": "politica",
@@ -50,23 +76,10 @@
       "resumen": "Los firmantes del documento piden en prioridad la “total liberación de todos los presos políticos y la despenalización del disenso”",
       "imagen_url": "https://static.14ymedio.com/clip/33dbd73f-3362-4065-902c-112a845cea24_source-aspect-ratio_default_0.png",
       "enlace_original": "https://www.14ymedio.com/cuba/gobierno-provisional-transicion-exigen-146_1_1132294.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "gobierno",
       "fecha": "Fri, 23 Oct 2026 10:12:29 +0000",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El saxofón de Efrén es supervivencia; la música de Díaz-Canel, \"espada\" de la Revolución",
-      "resumen": "El artista jubilado toca en las calles de La Habana para mejorar su pensión miserable, mientras el mandatario reúne a representantes de la cultura oficial en el Palacio de la Revolución",
-      "imagen_url": "https://static.14ymedio.com/clip/4c896480-9325-42b6-bb32-44ad03783a95_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cultura/saxofon-efren-supervivencia-musica-diaz_1_1132273.html",
-      "destacada": true,
-      "tema": "saxofón",
-      "fecha": "Thu, 22 Oct 2026 18:33:33 +0000",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -79,7 +92,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Fri, 23 Oct 2026 19:25:12 +0200",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "imperativo",
       "fecha": "Fri, 23 Oct 2026 18:59:49 +0200",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -105,7 +118,7 @@
       "destacada": false,
       "tema": "investigará",
       "fecha": "Fri, 23 Oct 2026 18:38:50 +0200",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -118,7 +131,7 @@
       "destacada": false,
       "tema": "gracias",
       "fecha": "Fri, 23 Oct 2026 18:22:15 +0200",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "politica",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Fri, 23 Oct 2026 18:10:33 +0200",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -144,7 +157,7 @@
       "destacada": false,
       "tema": "exigirá",
       "fecha": "Fri, 23 Oct 2026 17:10:09 +0200",
-      "id": 11
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -157,7 +170,7 @@
       "destacada": false,
       "tema": "simposio",
       "fecha": "Thu, 22 Oct 2026 21:29:05 +0000",
-      "id": 12
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -170,7 +183,20 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Thu, 22 Oct 2026 19:48:21 +0000",
-      "id": 13
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba no es una amenaza, el bloqueo sí",
+      "resumen": "Disponible para descargar el Informe de Cuba a la ONU entre marzo de 2025 y febrero de 2026",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261023/cuba-no-es-una-amenaza-el-bloqueo-si/",
+      "destacada": false,
+      "tema": "amenaza",
+      "fecha": "Fri, 23 Oct 2026 19:07:23 +0000",
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -183,20 +209,7 @@
       "destacada": false,
       "tema": "inventiva",
       "fecha": "Fri, 23 Oct 2026 15:07:23 +0000",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba obtiene nuevos apoyos en el piquete de huelga del SEIU en Los Ángeles",
-      "resumen": "En su primera huelga de la historia, miles de miembros de la sección local 1000 del Sindicato Internacional de Empleados de Servicios (SEIU) —que cuenta con 100.000 afiliados en todo el estado— se declararon en huelga el miércoles 21 de octubre",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261023/cuba-obtiene-nuevos-apoyos-en-el-piquete-de-huelga-del-seiu-en-los-angeles/",
-      "destacada": false,
-      "tema": "obtiene",
-      "fecha": "Fri, 23 Oct 2026 14:57:16 +0000",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -209,7 +222,7 @@
       "destacada": false,
       "tema": "aprueban",
       "fecha": "Fri, 23 Oct 2026 14:18:45 +0000",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -222,7 +235,7 @@
       "destacada": false,
       "tema": "vibró",
       "fecha": "Thu, 22 Oct 2026 23:44:13 +0000",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "transporte",
@@ -235,7 +248,20 @@
       "destacada": false,
       "tema": "reitera",
       "fecha": "Thu, 22 Oct 2026 22:27:41 +0000",
-      "id": 18
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba, entre los cinco entornos más hostiles del mundo para la libertad digital, según Freedom House",
+      "resumen": "#FreedomHouse sitúa a #Cuba entre los cinco entornos más restrictivos del mundo para la libertad en #internet, con apenas 19 puntos sobre 100, aunque destaca que persiste cierta disidencia pese a los riesgos.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792781238_69520.html",
+      "destacada": false,
+      "tema": "cinco",
+      "fecha": "Fri, 23 Oct 2026 20:47:18 +0200",
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -248,7 +274,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Fri, 23 Oct 2026 19:25:26 +0200",
-      "id": 19
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -261,7 +287,7 @@
       "destacada": false,
       "tema": "perdido",
       "fecha": "Fri, 23 Oct 2026 18:05:44 +0200",
-      "id": 20
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -274,7 +300,7 @@
       "destacada": false,
       "tema": "ayuda",
       "fecha": "Fri, 23 Oct 2026 17:43:27 +0200",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -287,7 +313,7 @@
       "destacada": false,
       "tema": "editorial",
       "fecha": "Fri, 23 Oct 2026 17:23:41 +0200",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "avería",
       "fecha": "Fri, 23 Oct 2026 14:25:22 +0200",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "relegar",
       "fecha": "Fri, 23 Oct 2026 14:03:22 +0200",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -326,20 +352,20 @@
       "destacada": false,
       "tema": "ninguna",
       "fecha": "Fri, 23 Oct 2026 13:08:06 +0200",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Exprisioneros políticos cubanos: hay que liberar a los presos políticos antes de cualquier negociación",
-      "resumen": "#SOSCuba: Exprisioneros políticos, entre ellos Ángel de Fana, Sissi Abascal y José Daniel Ferrer, denuncian la \"estrategia apaciguadora\" actual del #RégimenCubano y exigen la liberación de los presos políticos como condición indispensable para cualquier negociación.",
+      "titulo": "Cuba licita comercios estatales a privados entre alertas de analistas",
+      "resumen": "Cuba licita más de 170 locales estatales al sector privado entre dudas sobre empleo, origen de fondos y desabastecimiento.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1792751230_69511.html",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-licita-comercios-estatales-a-privados-entre-alertas-de-analistas/482645.html",
       "destacada": false,
-      "tema": "exprisioneros",
-      "fecha": "Fri, 23 Oct 2026 12:27:10 +0200",
-      "id": 26
+      "tema": "licita",
+      "fecha": "Fri, 23 Oct 2026 14:47:02 -0400",
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Fri, 23 Oct 2026 14:00:00 -0400",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -365,20 +391,20 @@
       "destacada": false,
       "tema": "cubalex",
       "fecha": "Fri, 23 Oct 2026 13:29:58 -0400",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Observatorio confirma feminicidio de joven de 21 años y eleva a 59 los casos registrados en Cuba en 2026",
-      "resumen": "La verificación se produjo más de dos meses después del fallecimiento de la joven, en medio de dificultades para acceder a información sobre lo sucedido, explicó a Martí Noticias la especialista Yanelis Núñez.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Hoy en la Mesa Redonda: Universidad de las Artes: 50 años",
+      "resumen": "El Rector y otras autoridades académicas de la Universidad de las Artes comparecerán este viernes en la Mesa Redonda para conversar sobre las cinco décadas de esta prestigiosa institución de la educación superior y la cultura cubanas. The post Hoy en la Mesa Redonda: Universidad de las Artes: 50 año",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/observatorio-confirma-feminicidio-de-joven-de-21-a%c3%b1os-y-eleva-a-59-los-casos-registrados-en-cuba-en-2026/482632.html",
+      "enlace_original": "http://mesaredonda.cubadebate.cu/noticias/2026/10/23/hoy-en-la-mesa-redonda-universidad-de-las-artes-50-anos/",
       "destacada": false,
-      "tema": "observatorio",
-      "fecha": "Fri, 23 Oct 2026 12:44:23 -0400",
-      "id": 29
+      "tema": "redonda",
+      "fecha": "Fri, 23 Oct 2026 18:48:57 +0000",
+      "id": 31
     },
     {
       "categoria": "salud",
@@ -391,7 +417,7 @@
       "destacada": false,
       "tema": "accidente",
       "fecha": "Fri, 23 Oct 2026 16:35:28 +0000",
-      "id": 30
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -404,7 +430,7 @@
       "destacada": false,
       "tema": "presidente",
       "fecha": "Fri, 23 Oct 2026 15:32:44 +0000",
-      "id": 31
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -417,7 +443,7 @@
       "destacada": false,
       "tema": "extiende",
       "fecha": "Fri, 23 Oct 2026 14:40:30 +0000",
-      "id": 32
+      "id": 34
     },
     {
       "categoria": "economia",
@@ -430,7 +456,7 @@
       "destacada": false,
       "tema": "cuánto",
       "fecha": "Fri, 23 Oct 2026 06:04:29 +0000",
-      "id": 33
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -443,20 +469,59 @@
       "destacada": false,
       "tema": "ciudades",
       "fecha": "Fri, 23 Oct 2026 03:36:12 +0000",
-      "id": 34
+      "id": 36
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "22 cajas de medicamentos llegan a centros de salud de Guanabacoa donados por la solidaridad vasca con Cuba",
+      "resumen": "En las fotografías enviadas, se ven las primeras personas beneficiadas en la entrega de los medicame...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125683-22-cajas-de-medicamentos-llegan-a-centros-de-salud-de-guanabacoa-donados-por-la-solidaridad-vasca-con-cuba.jpg?t=1792781667",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261023/125683/125683-22-cajas-de-medicamentos-llegan-a-centros-de-salud-de-guanabacoa-donados-por-la-solidaridad-vasca-con-cuba",
+      "destacada": false,
+      "tema": "cajas",
+      "fecha": "Fri, 23 Oct 26 20:50:00 +0200",
+      "id": 37
     },
     {
       "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
+      "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "Las Avispas de Santiago de Cuba vuelven a reinar en solitario durante la Serie Nacional",
-      "resumen": "Los santiagueros derrotaron 9-6 a los Indios de Guantánamo en el estadio Nguyen Van Troi, mientras los granmenses cayeron 5-7 ante los Cachorros de Holguín, como anfitriones en el Mártires de Barbados, y cedieron el primer puesto oriental. Las Avispas necesitaron 11 entradas para doblegar a la tribu",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/22/las-avispas-de-santiago-de-cuba-vuelven-a-reinar-en-solitario-durante-la-serie-nacional/",
+      "titulo": "Largometraje Estrés, de la realizadora cubana Marilyn Solaya, conquista Premio del Festival Internacional de Cine Invisible en Bilbao",
+      "resumen": "Foto: Instagram de Marilyn Solaya.",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125682-largometraje-estres-de-la-realizadora-cubana-marilyn-solaya-conquista-premio-del-festival-internacional-de-cine-invisible-en-bilbao.jpg?t=1792780256",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261023/125682/125682-largometraje-estres-de-la-realizadora-cubana-marilyn-solaya-conquista-premio-del-festival-internacional-de-cine-invisible-en-bilbao",
       "destacada": false,
-      "tema": "avispas",
-      "fecha": "Fri, 23 Oct 2026 02:00:15 +0000",
-      "id": 35
+      "tema": "largometraje",
+      "fecha": "Fri, 23 Oct 26 20:29:00 +0200",
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Necesidad de poner fin al bloqueo, hoy más que nunca: urge evitar que conviertan a Cuba en una Gaza silenciosa",
+      "resumen": "Por Justo Cruz*/Foto Virgilio Ponce -Martianos-Hermes-Cubainformación...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125681-necesidad-de-poner-fin-al-bloqueo-hoy-mas-que-nunca-urge-evitar-que-conviertan-a-cuba-en-una-gaza-silenciosa.jpg?t=1792781750",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261023/125681/125681-necesidad-de-poner-fin-al-bloqueo-hoy-mas-que-nunca-urge-evitar-que-conviertan-a-cuba-en-una-gaza-silenciosa",
+      "destacada": false,
+      "tema": "necesidad",
+      "fecha": "Fri, 23 Oct 26 20:22:00 +0200",
+      "id": 39
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "El Ayuntamiento de Mollet del Vallès aporta 10.000 euros para impulsar la energía solar en los hospitales de Cuba",
+      "resumen": "Una charla a La Marineta expone el proyecto científico del CIES....",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125680-el-ayuntamiento-de-mollet-del-valles-aporta-10-000-euros-para-impulsar-la-energia-solar-en-los-hospitales-de-cuba.jpg?t=1792779643",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261023/125680/125680-el-ayuntamiento-de-mollet-del-valles-aporta-10-000-euros-para-impulsar-la-energia-solar-en-los-hospitales-de-cuba",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Fri, 23 Oct 26 20:17:00 +0200",
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -469,7 +534,7 @@
       "destacada": false,
       "tema": "casal",
       "fecha": "Fri, 23 Oct 26 15:44:00 +0200",
-      "id": 36
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -482,7 +547,7 @@
       "destacada": false,
       "tema": "rusia",
       "fecha": "Fri, 23 Oct 26 08:18:00 +0200",
-      "id": 37
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -495,7 +560,7 @@
       "destacada": false,
       "tema": "batalla",
       "fecha": "Fri, 23 Oct 26 07:52:00 +0200",
-      "id": 38
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -508,7 +573,7 @@
       "destacada": false,
       "tema": "exposición",
       "fecha": "Fri, 23 Oct 26 07:50:00 +0200",
-      "id": 39
+      "id": 44
     },
     {
       "categoria": "transporte",
@@ -521,7 +586,7 @@
       "destacada": false,
       "tema": "todavía",
       "fecha": "Fri, 23 Oct 26 07:39:00 +0200",
-      "id": 40
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -534,59 +599,33 @@
       "destacada": false,
       "tema": "podemos",
       "fecha": "Fri, 23 Oct 26 07:06:00 +0200",
-      "id": 41
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba, el trofeo del imperio en declive",
-      "resumen": "Protestas en la ciudad de Holguín contra el bloqueo impuesto por el gobierno de EE.UU. contra Cuba. ...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125671-cuba-el-trofeo-del-imperio-en-declive.jpg?t=1792731990",
-      "enlace_original": "https://www.cubainformacion.tv/opinion/20261023/125671/125671-cuba-el-trofeo-del-imperio-en-declive",
-      "destacada": false,
-      "tema": "trofeo",
-      "fecha": "Fri, 23 Oct 26 07:04:00 +0200",
-      "id": 42
+      "id": 46
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
+      "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "oficial",
-      "titulo": "Desde Irlanda, más solidaridad con Cuba",
-      "resumen": "Siempre con Cuba / ICAP",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125670-desde-irlanda-mas-solidaridad-con-cuba.jpg?t=1792731765",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261023/125670/125670-desde-irlanda-mas-solidaridad-con-cuba",
+      "titulo": "¡Harry Potter vuelve a La Habana Vieja!",
+      "resumen": "El venidero domingo se realizará en el Centro Histórico de La Habana Vieja la 4ta edición de la Convención anual Harry Potter, que vinculará el universo del personaje literario con el mundo mágico cubano, a través de juegos, concursos y actividades interactivas La entrada ¡Harry Potter vuelve a La H",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/harry-potter-vuelve-a-la-habana-vieja/",
       "destacada": false,
-      "tema": "irlanda",
-      "fecha": "Fri, 23 Oct 26 07:01:00 +0200",
-      "id": 43
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Hacemos Cuba: Prevención y enfrentamiento a los delitos contra fuentes renovables de energía",
-      "resumen": "Canal Caribe.- Hacemos Cuba aborda las acciones de prevención y enfrentamiento a los delitos contra ...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125669-hacemos-cuba-prevencion-y-enfrentamiento-a-los-delitos-contra-fuentes-renovables-de-energia.jpg?t=1792731472",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261023/125669/125669-hacemos-cuba-prevencion-y-enfrentamiento-a-los-delitos-contra-fuentes-renovables-de-energia",
-      "destacada": false,
-      "tema": "hacemos",
-      "fecha": "Fri, 23 Oct 26 06:57:00 +0200",
-      "id": 44
+      "tema": "harry",
+      "fecha": "Fri, 23 Oct 2026 19:11:08 +0000",
+      "id": 47
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
+      "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba aprueba programa para dotar de activos productivos a personas en situación de vulnerabilidad",
-      "resumen": "Oscar Figueredo Reinaldo Cubadebate El objetivo es crear condiciones para que quienes se encuentre...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125668-cuba-aprueba-programa-para-dotar-de-activos-productivos-a-personas-en-situacion-de-vulnerabilidad.jpg?t=1792731370",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261023/125668/125668-cuba-aprueba-programa-para-dotar-de-activos-productivos-a-personas-en-situacion-de-vulnerabilidad",
+      "titulo": "Hacer que el mercado de barrio cumpla su fin",
+      "resumen": "Los establecimientos pueden ser administrados por diferentes actores económicos autorizados, mediante procedimientos de licitación que mantienen la propiedad estatal de los inmuebles La entrada Hacer que el mercado de barrio cumpla su fin se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/hacer-que-el-mercado-de-barrio-cumpla-su-fin/",
       "destacada": false,
-      "tema": "aprueba",
-      "fecha": "Fri, 23 Oct 26 06:54:00 +0200",
-      "id": 45
+      "tema": "mercado",
+      "fecha": "Fri, 23 Oct 2026 18:38:11 +0000",
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -599,7 +638,7 @@
       "destacada": false,
       "tema": "evaluó",
       "fecha": "Fri, 23 Oct 2026 17:39:58 +0000",
-      "id": 46
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -612,7 +651,7 @@
       "destacada": false,
       "tema": "inauguran",
       "fecha": "Fri, 23 Oct 2026 17:00:28 +0000",
-      "id": 47
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -625,7 +664,7 @@
       "destacada": false,
       "tema": "estampas",
       "fecha": "Fri, 23 Oct 2026 15:29:38 +0000",
-      "id": 48
+      "id": 51
     },
     {
       "categoria": "transporte",
@@ -638,7 +677,7 @@
       "destacada": false,
       "tema": "industriales",
       "fecha": "Fri, 23 Oct 2026 14:56:28 +0000",
-      "id": 49
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -651,7 +690,7 @@
       "destacada": false,
       "tema": "reorganiza",
       "fecha": "Fri, 23 Oct 2026 18:00:00 GMT",
-      "id": 50
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -664,7 +703,7 @@
       "destacada": false,
       "tema": "destierro",
       "fecha": "Fri, 23 Oct 2026 11:00:00 GMT",
-      "id": 51
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -677,7 +716,7 @@
       "destacada": false,
       "tema": "bruno",
       "fecha": "Thu, 22 Oct 2026 20:00:00 GMT",
-      "id": 52
+      "id": 55
     }
   ]
 }
