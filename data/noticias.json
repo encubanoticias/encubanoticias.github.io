@@ -1,21 +1,8 @@
 {
   "fecha": "2026-10-24",
-  "hora": "17:15",
-  "total": 54,
+  "hora": "19:16",
+  "total": 53,
   "noticias": [
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Ballet Nacional de Cuba dedica función de gala a la ONU",
-      "resumen": "La compañía, Patrimonio Cultural de la Nación, presentará «Giselle» este sábado 24 y domingo 25 de octubre en la Sala Avellaneda del Teatro Nacional",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-24/ballet-nacional-de-cuba-dedica-funcion-de-gala-a-la-onu-24-10-2026-11-10-32",
-      "destacada": true,
-      "tema": "ballet",
-      "fecha": "Sat, 24 Oct 2026 11:10:32 -0400",
-      "id": 1
-    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
@@ -27,7 +14,72 @@
       "destacada": true,
       "tema": "caravana",
       "fecha": "Sat, 24 Oct 2026 10:10:38 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba nos une, más allá de las fronteras",
+      "resumen": "Francia acoge el XVIII Encuentro Regional de Cubanos Residentes en Europa, una iniciativa nacida en 2006 que celebra este año su vigésimo aniversario y reafirma los lazos entre Cuba y sus nacionales en el exterior, informó la Cancillería de Cuba en sus redes sociales",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-10-24/cuba-nos-une-mas-alla-de-las-fronteras-24-10-2026-12-10-00",
+      "destacada": true,
+      "tema": "apagones",
+      "fecha": "Sat, 24 Oct 2026 12:10:00 -0400",
       "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Ballet Nacional de Cuba dedica función de gala a la ONU",
+      "resumen": "La compañía, Patrimonio Cultural de la Nación, presentará «Giselle» este sábado 24 y domingo 25 de octubre en la Sala Avellaneda del Teatro Nacional",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-24/ballet-nacional-de-cuba-dedica-funcion-de-gala-a-la-onu-24-10-2026-11-10-32",
+      "destacada": true,
+      "tema": "ballet",
+      "fecha": "Sat, 24 Oct 2026 11:10:32 -0400",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Carrera simbólica en Zimbabwe contra bloqueo EEUU a Cuba",
+      "resumen": "Harare, 24 oct (Prensa Latina) Miembros de las organizaciones Tropas Voluntarias para el Desarrollo Sostenible y del Foro Panafricano de la Juventud de Zimbabwe se sumaron hoy a una carrera simbólica en Harare para rechazar el bloqueo de Estados Unidos contra Cuba. The post Carrera simbólica en Zimb",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/24/carrera-simbolica-en-zimbabwe-contra-bloqueo-eeuu-a-cuba/",
+      "destacada": true,
+      "tema": "carrera",
+      "fecha": "Sat, 24 Oct 2026 18:53:48 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Perú debe votar contra el bloqueo a Cuba, afirma expresidente Humala",
+      "resumen": "Lima, 24 oct (Prensa Latina) El expresidente de Perú Ollanta Humala, declaró hoy que su país debe votar en las Naciones Unidas contra el bloqueo económico, comercial y financiero y ratificó la posición que, en tal sentido, mantuvo durante su gobierno. The post Perú debe votar contra el bloqueo a Cub",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/24/peru-debe-votar-contra-el-bloqueo-a-cuba-afirma-expresidente-humala/",
+      "destacada": true,
+      "tema": "votar",
+      "fecha": "Sat, 24 Oct 2026 18:30:15 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Reúne Cuba a creadores de 12 países en Fiesta Iberoamericana",
+      "resumen": "Holguín, Cuba, 24 oct (Prensa Latina) Con un llamado a preservar las tradiciones y ensalzar la diversidad cultural, comenzó hoy aquí la XXXII Fiesta de la Cultura Iberoamericana, cita que reúne a delegados de 12 países. The post Reúne Cuba a creadores de 12 países en Fiesta Iberoamericana first appe",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/24/reune-cuba-a-creadores-de-12-paises-en-fiesta-iberoamericana/",
+      "destacada": false,
+      "tema": "reúne",
+      "fecha": "Sat, 24 Oct 2026 18:07:40 +0000",
+      "id": 6
     },
     {
       "categoria": "transporte",
@@ -37,10 +89,10 @@
       "resumen": "Un portavoz del Departamento de Estado sostiene que el Gobierno de La Habana “ahora debe recurrir al subterfugio y la ilegalidad” para conseguir carburante",
       "imagen_url": "https://static.14ymedio.com/clip/686b8549-821e-4d2e-9686-65a2bbb80e94_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/ee-uu-reconoce-regimen-cubano_1_1132362.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "reconoce",
       "fecha": "Sat, 24 Oct 2026 15:46:31 +0000",
-      "id": 3
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -50,10 +102,10 @@
       "resumen": "“¿Y los ladrones y asaltadores para cuándo?”, cuestionan los cubanos en las redes a las autoridades que presumen de su operación",
       "imagen_url": "https://static.14ymedio.com/clip/0c7945ac-bf2d-45b6-a29b-61afef956089_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/redada-mercado-17-k-policia_1_1132344.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "redada",
       "fecha": "Sat, 24 Oct 2026 11:43:13 +0000",
-      "id": 4
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -63,10 +115,10 @@
       "resumen": "La agencia de inteligencia difunde una guía para que puedan contactar con ella de forma anónima desde Cuba y Bruno Rodríguez lanza amenazas a EE UU",
       "imagen_url": "https://static.14ymedio.com/clip/a4e0fae1-8cb9-4e4d-9b75-080d3a2ffe9b_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/rubio-pide-colaboracion-discreta-cia_1_1132351.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "rubio",
       "fecha": "Sat, 24 Oct 2026 12:42:14 +0000",
-      "id": 5
+      "id": 9
     },
     {
       "categoria": "energia",
@@ -79,20 +131,7 @@
       "destacada": false,
       "tema": "apagones",
       "fecha": "Sat, 24 Oct 2026 13:15:12 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La última muda de ropa de Norbert Galland está en venta",
-      "resumen": "La inflación y el encarecimiento de la vida empujan a cada vez más ancianos cubanos a trabajar o desprenderse de sus pertenencias",
-      "imagen_url": "https://static.14ymedio.com/clip/ee45d047-c192-4037-9ea9-a2b8a1c23160_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/ultima-muda-ropa-venta-habana_1_1132329.html",
-      "destacada": false,
-      "tema": "última",
-      "fecha": "Fri, 23 Oct 2026 18:44:56 +0000",
-      "id": 7
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -105,7 +144,7 @@
       "destacada": false,
       "tema": "recogiendo",
       "fecha": "Fri, 23 Oct 2026 19:50:19 +0000",
-      "id": 8
+      "id": 11
     },
     {
       "categoria": "transporte",
@@ -118,85 +157,85 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Fri, 23 Oct 2026 20:56:27 +0000",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Régimen cubano acusa a la administración Trump de actuar como un «Estado terrorista y delincuente»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e74-s27061-nid343688-regimen-cubano-acusa-administracion-trump-actuar-estado",
-      "destacada": false,
-      "tema": "régimen",
-      "fecha": "Sat, 24 Oct 2026 18:35:50 +0200",
-      "id": 10
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Del diálogo al espionaje: EE.UU. busca fisuras en el régimen mientras La Habana se niega a negociar cambios políticos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u207888-e207888-s27061-nid343676-dialogo-al-espionaje-eeuu-busca-fisuras-regimen",
-      "destacada": false,
-      "tema": "diálogo",
-      "fecha": "Sat, 24 Oct 2026 18:10:15 +0200",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Amanece el mercado informal en Cuba con el alza de las divisas extranjeras",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e208574-s27061-nid343681-amanece-mercado-informal-cuba-alza-divisas",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Sat, 24 Oct 2026 17:48:29 +0200",
       "id": 12
     },
     {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubano detenido por ICE tras viajar a Cuba a ver a su abuela enferma es liberado un año después",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e43231-s27061-nid343678-cubano-detenido-ice-tras-viajar-cuba-ver-abuela",
-      "destacada": false,
-      "tema": "cubano",
-      "fecha": "Sat, 24 Oct 2026 17:40:38 +0200",
-      "id": 13
-    },
-    {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "«Bla bla bla»: Cubanos responden con hartazgo e ironía a las nuevas promesas de Trump sobre Cuba",
+      "titulo": "Frutero español prueba el batido de mamey cubano: «Puede que sea el mejor batido del mundo»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e207888-s27061-nid343677-bla-bla-bla-cubanos-responden-hartazgo-ironia-nuevas",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e74-s27061-nid343706-frutero-espanol-prueba-batido-mamey-cubano-puede-sea",
       "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Sat, 24 Oct 2026 15:36:57 +0200",
+      "tema": "frutero",
+      "fecha": "Sat, 24 Oct 2026 20:26:43 +0200",
+      "id": 13
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Vicepresidente de la UPEC admite que el NTV no conecta con el cubano de a pie",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e209363-s27061-nid343700-vicepresidente-upec-admite-ntv-conecta-cubano-pie",
+      "destacada": false,
+      "tema": "vicepresidente",
+      "fecha": "Sat, 24 Oct 2026 20:26:43 +0200",
       "id": 14
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El poder económico de las FAR y GAESA, principal desafío para una transición democrática en Cuba, según estudio",
+      "titulo": "Cuba mantendrá el horario de verano hasta noviembre de 2027 y retrasará la entrada a escuelas y trabajos",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e207888-s27061-nid343673-poder-economico-far-gaesa-principal-desafio",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e74-s27061-nid343708-cuba-mantendra-horario-verano-noviembre-2027-retrasara",
       "destacada": false,
-      "tema": "poder",
-      "fecha": "Sat, 24 Oct 2026 15:08:37 +0200",
+      "tema": "mantendrá",
+      "fecha": "Sat, 24 Oct 2026 20:16:47 +0200",
       "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Doctora cubana se va del país: «Lo mejor que podía hacer por mi bebé y su futuro»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e43231-s27061-nid343702-doctora-cubana-pais-mejor-podia-hacer-mi-bebe-futuro",
+      "destacada": false,
+      "tema": "doctora",
+      "fecha": "Sat, 24 Oct 2026 20:03:41 +0200",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Rosa María Payá presentará Plan de Transición para Cuba ante jefes de Estado en Cumbre Iberoamericana de Madrid",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e207888-s27061-nid343703-rosa-maria-paya-presentara-plan-transicion-cuba",
+      "destacada": false,
+      "tema": "maría",
+      "fecha": "Sat, 24 Oct 2026 19:54:55 +0200",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Casi el 30% de las adolescentes cubanas está casada o unida con hombres diez años mayores, según informe",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e208574-s27061-nid343686-casi-30-adolescentes-cubanas-esta-casada-unida",
+      "destacada": false,
+      "tema": "adolescentes",
+      "fecha": "Sat, 24 Oct 2026 19:44:18 +0200",
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -209,7 +248,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Sat, 24 Oct 2026 04:56:23 +0000",
-      "id": 16
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -222,7 +261,7 @@
       "destacada": false,
       "tema": "podcast",
       "fecha": "Fri, 23 Oct 2026 23:42:58 +0000",
-      "id": 17
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -235,45 +274,6 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Fri, 23 Oct 2026 19:54:39 +0000",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "¿Cómo empezó el bloqueo económico contra Cuba?",
-      "resumen": "Las medidas de carácter económico, como política frente a la Revolución cubana, se empezaron a considerar desde muy temprano. Ya en 1959 hubo criterios de utilizar ese mecanismo como elemento de presión ante las leyes revolucionarias que se aprobaban",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261023/como-empezo-el-bloqueo-economico-contra-cuba-2/",
-      "destacada": false,
-      "tema": "empezó",
-      "fecha": "Fri, 23 Oct 2026 20:00:56 +0000",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Debates en Santiago de Cuba sobre garantías juridiccionales de los derechos",
-      "resumen": "Ciencia e innovación marcaron la jornada de este viernes para operadores del Derecho en el ámbito de los tribunales en Santiago de Cuba",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261023/debates-en-santiago-de-cuba-sobre-garantias-juridiccionales-de-los-derechos/",
-      "destacada": false,
-      "tema": "debates",
-      "fecha": "Fri, 23 Oct 2026 19:30:45 +0000",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "El pueblo no debe ser castigado por querer defender su libertad",
-      "resumen": "Disponible para descargar el Informe de Cuba a la ONU entre marzo de 2025 y febrero de 2026",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261023/cuba-no-es-una-amenaza-el-bloqueo-si/",
-      "destacada": false,
-      "tema": "pueblo",
-      "fecha": "Fri, 23 Oct 2026 19:07:23 +0000",
       "id": 21
     },
     {
@@ -381,17 +381,43 @@
       "id": 29
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "politica",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba, entre los cinco entornos más hostiles del mundo para la libertad digital, según Freedom House",
-      "resumen": "#FreedomHouse sitúa a #Cuba entre los cinco entornos más restrictivos del mundo para la libertad en #internet, con apenas 19 puntos sobre 100, aunque destaca que persiste cierta disidencia pese a los riesgos.",
+      "titulo": "Trump dice que EEUU \"se encargará de Cuba\" después de Irán",
+      "resumen": "Durante un mitin político en Florida, el presidente Donald Trump afirmó que los buques de guerra de Estados Unidos harán una \"pequeña parada\" frente a las costas de Cuba al regresar de sus operaciones en Irán.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792781238_69520.html",
+      "enlace_original": "https://www.martinoticias.com/a/trump-dice-que-eeuu-se-encargar%c3%a1-de-cuba-despu%c3%a9s-de-ir%c3%a1n/482733.html",
       "destacada": false,
-      "tema": "cinco",
-      "fecha": "Fri, 23 Oct 2026 20:47:18 +0200",
+      "tema": "trump",
+      "fecha": "Sat, 24 Oct 2026 14:35:56 -0400",
       "id": 30
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"Ahora es el momento\": Jefe militar respalda llamado de Rubio sobre Cuba",
+      "resumen": "El jefe del Comando Sur de Estados Unidos, general Francis L. Donovan, lanzó un nuevo llamado a los cubanos para impulsar un cambio en la isla, en sintonía con el mensaje de Marco Rubio.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/ahora-es-el-momento-jefe-militar-respalda-llamado-de-rubio-sobre-cuba/482734.html",
+      "destacada": false,
+      "tema": "ahora",
+      "fecha": "Sat, 24 Oct 2026 14:34:15 -0400",
+      "id": 31
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba y Haití afectan índice de expansión económica del Caribe, según CEPAL (VIDEO)",
+      "resumen": "La CEPAL prevé un crecimiento moderado para América Latina y el Caribe en 2026 y 2027, pero advierte que los casos de Cuba y Haití pesan de forma decisiva en el desempeño del Caribe.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-y-hait%c3%ad-afectan-%c3%adndice-de-expansi%c3%b3n-econ%c3%b3mica-del-caribe-seg%c3%ban-cepal-video/482730.html",
+      "destacada": false,
+      "tema": "haití",
+      "fecha": "Sat, 24 Oct 2026 13:53:06 -0400",
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -404,7 +430,20 @@
       "destacada": false,
       "tema": "",
       "fecha": "Sat, 24 Oct 2026 12:30:00 -0400",
-      "id": 31
+      "id": 33
+    },
+    {
+      "categoria": "energia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cronista del cuerpo de guardia: Así es el pediatra cubano que triunfa en las redes",
+      "resumen": "Con decenas de miles de seguidores, el médico tunero Daniel Del Toro González ha ganado notoriedad gracias a la acertada simbiosis de talento, humor y defensa a ultranza de su profesión The post Cronista del cuerpo de guardia: Así es el pediatra cubano que triunfa en las redes first appeared on Cuba",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/24/cronista-del-cuerpo-de-guardia-asi-es-el-pediatra-cubano-que-triunfa-en-las-redes/",
+      "destacada": false,
+      "tema": "cronista",
+      "fecha": "Sat, 24 Oct 2026 18:31:40 +0000",
+      "id": 34
     },
     {
       "categoria": "politica",
@@ -417,7 +456,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Sat, 24 Oct 2026 15:53:01 +0000",
-      "id": 32
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -430,7 +469,7 @@
       "destacada": false,
       "tema": "reafirma",
       "fecha": "Sat, 24 Oct 2026 15:14:01 +0000",
-      "id": 33
+      "id": 36
     },
     {
       "categoria": "economia",
@@ -443,7 +482,7 @@
       "destacada": false,
       "tema": "actual",
       "fecha": "Sat, 24 Oct 2026 08:28:55 +0000",
-      "id": 34
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -456,7 +495,7 @@
       "destacada": false,
       "tema": "última",
       "fecha": "Sat, 24 Oct 2026 08:20:25 +0000",
-      "id": 35
+      "id": 38
     },
     {
       "categoria": "politica",
@@ -469,7 +508,7 @@
       "destacada": false,
       "tema": "escritores",
       "fecha": "Sat, 24 Oct 2026 04:30:41 +0000",
-      "id": 36
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -482,7 +521,7 @@
       "destacada": false,
       "tema": "evocación",
       "fecha": "Sat, 24 Oct 26 14:12:00 +0200",
-      "id": 37
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -495,7 +534,7 @@
       "destacada": false,
       "tema": "pesar",
       "fecha": "Sat, 24 Oct 26 08:19:00 +0200",
-      "id": 38
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -508,7 +547,7 @@
       "destacada": false,
       "tema": "brutal",
       "fecha": "Sat, 24 Oct 26 08:16:00 +0200",
-      "id": 39
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -521,7 +560,7 @@
       "destacada": false,
       "tema": "fallar",
       "fecha": "Sat, 24 Oct 26 08:13:00 +0200",
-      "id": 40
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -534,7 +573,7 @@
       "destacada": false,
       "tema": "cuánto",
       "fecha": "Sat, 24 Oct 26 08:11:00 +0200",
-      "id": 41
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -547,7 +586,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Sat, 24 Oct 26 08:10:00 +0200",
-      "id": 42
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -560,7 +599,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Sat, 24 Oct 26 08:09:00 +0200",
-      "id": 43
+      "id": 46
     },
     {
       "categoria": "politica",
@@ -573,7 +612,7 @@
       "destacada": false,
       "tema": "reclutamientos",
       "fecha": "Sat, 24 Oct 26 08:08:00 +0200",
-      "id": 44
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -586,7 +625,7 @@
       "destacada": false,
       "tema": "resistencia",
       "fecha": "Sat, 24 Oct 26 07:57:00 +0200",
-      "id": 45
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -599,45 +638,6 @@
       "destacada": false,
       "tema": "recibe",
       "fecha": "Sat, 24 Oct 26 07:52:00 +0200",
-      "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "¡Harry Potter vuelve a La Habana Vieja!",
-      "resumen": "El venidero domingo se realizará en el Centro Histórico de La Habana Vieja la 4ta edición de la Convención anual Harry Potter, que vinculará el universo del personaje literario con el mundo mágico cubano, a través de juegos, concursos y actividades interactivas La entrada ¡Harry Potter vuelve a La H",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/harry-potter-vuelve-a-la-habana-vieja/",
-      "destacada": false,
-      "tema": "harry",
-      "fecha": "Fri, 23 Oct 2026 19:11:08 +0000",
-      "id": 47
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Hacer que el mercado de barrio cumpla su fin",
-      "resumen": "Los establecimientos pueden ser administrados por diferentes actores económicos autorizados, mediante procedimientos de licitación que mantienen la propiedad estatal de los inmuebles La entrada Hacer que el mercado de barrio cumpla su fin se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/hacer-que-el-mercado-de-barrio-cumpla-su-fin/",
-      "destacada": false,
-      "tema": "mercado",
-      "fecha": "Fri, 23 Oct 2026 18:38:11 +0000",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Evaluó PCC transformaciones en la Agricultura",
-      "resumen": "Miguel Díaz-Canel Bermúdez, Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, encabezó la clausura de la visita del Comité Central al Ministerio de la Agricultura y su sistema empresarial, como parte del seguimiento a la implementación de las 176 transf",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/evaluo-pcc-transformaciones-en-la-agricultura/",
-      "destacada": false,
-      "tema": "evaluó",
-      "fecha": "Fri, 23 Oct 2026 17:39:58 +0000",
       "id": 49
     },
     {
@@ -691,19 +691,6 @@
       "tema": "noticias",
       "fecha": "Fri, 23 Oct 2026 22:19:39 GMT",
       "id": 53
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba reorganiza el trabajo social y lanza dos programas para personas en situación de vulnerabilidad",
-      "resumen": "Jóvenes de 18 a 30 años desvinculados del estudio y el trabajo podrán capacitarse con un estipendio equivalente al salario mínimo, aunque deberán devolverlo en algunos casos.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/AP_239926649203_0e8d74ba9e.jpg",
-      "enlace_original": "https://eltoque.com/cuba-lanza-dos-programas-para-personas-en-situacion-de-vulnerabilidad",
-      "destacada": false,
-      "tema": "reorganiza",
-      "fecha": "Fri, 23 Oct 2026 18:00:00 GMT",
-      "id": 54
     }
   ]
 }
