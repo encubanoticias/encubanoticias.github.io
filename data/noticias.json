@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-24",
-  "hora": "05:17",
-  "total": 61,
+  "hora": "06:17",
+  "total": 49,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -33,6 +33,19 @@
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "alternativa",
+      "titulo": "Cuba espera que Chile mantenga posición en ONU contra el bloqueo",
+      "resumen": "Santiago de Chile, 24 oct (Prensa Latina) Cuba espera que Chile mantenga su histórica política de Estado de votar en la Organización de Naciones Unidas en contra del bloqueo estadounidense, expresó el embajador de la isla aquí, Oscar Cornelio Oliva. The post Cuba espera que Chile mantenga posición e",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/24/cuba-espera-que-chile-mantenga-posicion-en-onu-contra-el-bloqueo/",
+      "destacada": true,
+      "tema": "espera",
+      "fecha": "Sat, 24 Oct 2026 06:08:59 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
       "titulo": "Caravana contra bloqueo a Cuba recorrerá avenida de Luanda",
       "resumen": "Luanda, 24 oct (Prensa Latina) Una caravana recorrerá hoy parte de la avenida Fidel Castro, en la capital de Angola, en solidaridad con Cuba y contra el bloqueo económico, comercial y financiero de Estados Unidos a la nación caribeña. The post Caravana contra bloqueo a Cuba recorrerá avenida de Luan",
       "imagen_url": "",
@@ -40,7 +53,7 @@
       "destacada": true,
       "tema": "caravana",
       "fecha": "Sat, 24 Oct 2026 04:54:22 +0000",
-      "id": 3
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -53,19 +66,6 @@
       "destacada": true,
       "tema": "embajador",
       "fecha": "Sat, 24 Oct 2026 04:28:49 +0000",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Encuentro de cubanos en París: imposible bloquear la solidaridad",
-      "resumen": "Por Antonio Rondón The post Encuentro de cubanos en París: imposible bloquear la solidaridad first appeared on Noticias Prensa Latina.",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/24/encuentro-de-cubanos-en-paris-imposible-bloquear-la-solidaridad/",
-      "destacada": true,
-      "tema": "encuentro",
-      "fecha": "Sat, 24 Oct 2026 04:13:47 +0000",
       "id": 5
     },
     {
@@ -147,6 +147,32 @@
       "id": 11
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Presentarán en Buenos Aires cortos restaurados de Nicolás Guillén Landrián, cineasta cubano víctima del régimen",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e209395-s27061-nid343629-presentaran-buenos-aires-cortos-restaurados-nicolas",
+      "destacada": false,
+      "tema": "presentarán",
+      "fecha": "Sat, 24 Oct 2026 07:21:16 +0200",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubanos condenados a entre 4 y 5 años de prisión por comercializar antenas Starlink en Santa Clara",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e209395-s27061-nid343658-cubanos-condenados-4-5-anos-prision-comercializar",
+      "destacada": false,
+      "tema": "cubanos",
+      "fecha": "Sat, 24 Oct 2026 06:43:50 +0200",
+      "id": 13
+    },
+    {
       "categoria": "politica",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
@@ -157,7 +183,7 @@
       "destacada": false,
       "tema": "podemos",
       "fecha": "Sat, 24 Oct 2026 06:01:09 +0200",
-      "id": 12
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -170,7 +196,7 @@
       "destacada": false,
       "tema": "diseñador",
       "fecha": "Sat, 24 Oct 2026 04:59:59 +0200",
-      "id": 13
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -183,85 +209,7 @@
       "destacada": false,
       "tema": "padre",
       "fecha": "Sat, 24 Oct 2026 04:54:31 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Euro roza los 920 pesos y dólar marca nuevo máximo en el mercado informal cubano",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e209363-s27061-nid343659-euro-roza-920-pesos-dolar-marca-nuevo-maximo-mercado",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Sat, 24 Oct 2026 03:57:00 +0200",
-      "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba vence 5-4 a México en nueve entradas en el Panamericano Sub-18",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e199894-s27066-nid343657-cuba-vence-5-4-mexico-nueve-entradas-panamericano",
-      "destacada": false,
-      "tema": "vence",
-      "fecha": "Sat, 24 Oct 2026 03:46:19 +0200",
       "id": 16
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "“¿Qué temporada es esta?”: Cubanos responden con escepticismo a declaraciones de Trump sobre enviar buques a Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e209363-s27061-nid343653-temporada-esta-cubanos-responden-escepticismo",
-      "destacada": false,
-      "tema": "temporada",
-      "fecha": "Sat, 24 Oct 2026 03:43:55 +0200",
-      "id": 17
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel responde a Trump y reivindica el 1 de enero de 1959 como la verdadera independencia de Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e209363-s27061-nid343656-diaz-canel-responde-trump-reivindica-1-enero-1959",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Sat, 24 Oct 2026 03:26:01 +0200",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.radiocubana.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "#Podcast «A contracorriente». Capítulo 54. «La formación de realizadores audiovisuales en Cuba»",
-      "resumen": "¿Existen academias para la formación de realizadores audiovisuales en nuestro país?. ¿Cómo contribuir, desde la formación, a la transformación estética del audiovisual producido en la Isla?. Estas y otras preguntas encuentran respuesta en el diálogo entre el realizador audiovisual Waldo Ramírez de l",
-      "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/podcast-a-contracorriente-capitulo-54-la-formacion-de-realizadores-audiovisuales-en-cuba/",
-      "destacada": false,
-      "tema": "podcast",
-      "fecha": "Fri, 23 Oct 2026 23:42:58 +0000",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.radiocubana.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Un día como hoy en la vida y obra de Fidel. 23 de octubre",
-      "resumen": "&#8211; 23 de octubre de 1961. Fidel clausura la Plenaria Nacional de la Asociación de Jóvenes Rebeldes, AJR, en el teatro Payret, en La Habana. Señala acerca de los jóvenes y niños que les ha correspondido vivir esta etapa profundamente revolucionaria de la historia de nuestro país. Expresa: &#160;",
-      "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/historia-de-la-radio-cubana/un-dia-como-hoy-en-la-vida-y-obra-de-fidel/un-dia-como-hoy-en-la-vida-y-obra-de-fidel-23-de-octubre/",
-      "destacada": false,
-      "tema": "fidel",
-      "fecha": "Fri, 23 Oct 2026 19:54:39 +0000",
-      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -274,7 +222,7 @@
       "destacada": false,
       "tema": "empezó",
       "fecha": "Fri, 23 Oct 2026 20:00:56 +0000",
-      "id": 21
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -287,7 +235,7 @@
       "destacada": false,
       "tema": "debates",
       "fecha": "Fri, 23 Oct 2026 19:30:45 +0000",
-      "id": 22
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -300,7 +248,7 @@
       "destacada": false,
       "tema": "pueblo",
       "fecha": "Fri, 23 Oct 2026 19:07:23 +0000",
-      "id": 23
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -313,7 +261,7 @@
       "destacada": false,
       "tema": "inventiva",
       "fecha": "Fri, 23 Oct 2026 15:07:23 +0000",
-      "id": 24
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -326,7 +274,7 @@
       "destacada": false,
       "tema": "rubio",
       "fecha": "Sat, 24 Oct 2026 01:08:47 +0200",
-      "id": 25
+      "id": 21
     },
     {
       "categoria": "energia",
@@ -339,7 +287,7 @@
       "destacada": false,
       "tema": "escasez",
       "fecha": "Fri, 23 Oct 2026 22:55:27 +0200",
-      "id": 26
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -352,7 +300,7 @@
       "destacada": false,
       "tema": "cinco",
       "fecha": "Fri, 23 Oct 2026 20:47:18 +0200",
-      "id": 27
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -365,7 +313,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Fri, 23 Oct 2026 19:25:26 +0200",
-      "id": 28
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -378,7 +326,7 @@
       "destacada": false,
       "tema": "perdido",
       "fecha": "Fri, 23 Oct 2026 18:05:44 +0200",
-      "id": 29
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -391,7 +339,7 @@
       "destacada": false,
       "tema": "ayuda",
       "fecha": "Fri, 23 Oct 2026 17:43:27 +0200",
-      "id": 30
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -404,7 +352,7 @@
       "destacada": false,
       "tema": "editorial",
       "fecha": "Fri, 23 Oct 2026 17:23:41 +0200",
-      "id": 31
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -417,7 +365,7 @@
       "destacada": false,
       "tema": "avería",
       "fecha": "Fri, 23 Oct 2026 14:25:22 +0200",
-      "id": 32
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -430,7 +378,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Sat, 24 Oct 2026 00:00:30 -0400",
-      "id": 33
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -443,7 +391,7 @@
       "destacada": false,
       "tema": "publica",
       "fecha": "Fri, 23 Oct 2026 22:18:46 -0400",
-      "id": 34
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -456,7 +404,7 @@
       "destacada": false,
       "tema": "encausamiento",
       "fecha": "Fri, 23 Oct 2026 21:00:00 -0400",
-      "id": 35
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -469,7 +417,7 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Fri, 23 Oct 2026 21:00:00 -0400",
-      "id": 36
+      "id": 32
     },
     {
       "categoria": "politica",
@@ -482,7 +430,7 @@
       "destacada": false,
       "tema": "escritores",
       "fecha": "Sat, 24 Oct 2026 04:30:41 +0000",
-      "id": 37
+      "id": 33
     },
     {
       "categoria": "politica",
@@ -495,7 +443,7 @@
       "destacada": false,
       "tema": "reclutamientos",
       "fecha": "Sat, 24 Oct 2026 03:45:28 +0000",
-      "id": 38
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -508,7 +456,7 @@
       "destacada": false,
       "tema": "instituto",
       "fecha": "Sat, 24 Oct 2026 02:56:52 +0000",
-      "id": 39
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -521,7 +469,7 @@
       "destacada": false,
       "tema": "vence",
       "fecha": "Sat, 24 Oct 2026 02:54:00 +0000",
-      "id": 40
+      "id": 36
     },
     {
       "categoria": "politica",
@@ -534,7 +482,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sat, 24 Oct 2026 01:11:10 +0000",
-      "id": 41
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -547,215 +495,111 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Sat, 24 Oct 2026 00:53:07 +0000",
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "¡Brutal! A la luz sustanciosas pruebas de plan macabro contra los inmigrantes cubanos en la Florida",
+      "resumen": "Guerrero Cubano con su verdad al desnudo",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125696-brutal-a-la-luz-sustanciosas-pruebas-de-plan-macabro-contra-los-inmigrantes-cubanos-en-la-florida.jpg?t=1792822573",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261024/125696/125696-brutal-a-la-luz-sustanciosas-pruebas-de-plan-macabro-contra-los-inmigrantes-cubanos-en-la-florida",
+      "destacada": false,
+      "tema": "brutal",
+      "fecha": "Sat, 24 Oct 26 08:16:00 +0200",
+      "id": 39
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba: ¿fallar o estallar?",
+      "resumen": "Agentes de la policía francesa ejercen violencia contra manifestantes durante una de las recientes p...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125695-cuba-fallar-o-estallar.jpg?t=1792822459",
+      "enlace_original": "https://www.cubainformacion.tv/opinion/20261024/125695/125695-cuba-fallar-o-estallar",
+      "destacada": false,
+      "tema": "fallar",
+      "fecha": "Sat, 24 Oct 26 08:13:00 +0200",
+      "id": 40
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "¿Cuánto cuesta apagar un país y dejarlo sin visitantes?",
+      "resumen": "Cubadebate - Tomado de Cuba en Resumen",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125694-cuanto-cuesta-apagar-un-pais-y-dejarlo-sin-visitantes.jpg?t=1792822396",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261024/125694/125694-cuanto-cuesta-apagar-un-pais-y-dejarlo-sin-visitantes",
+      "destacada": false,
+      "tema": "cuánto",
+      "fecha": "Sat, 24 Oct 26 08:11:00 +0200",
+      "id": 41
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Trump retoma las amenazas militares a Cuba",
+      "resumen": "Tomado de Cuba en Resumen",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125693-trump-retoma-las-amenazas-militares-a-cuba.jpg?t=1792822290",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261024/125693/125693-trump-retoma-las-amenazas-militares-a-cuba",
+      "destacada": false,
+      "tema": "trump",
+      "fecha": "Sat, 24 Oct 26 08:10:00 +0200",
       "id": 42
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "¿Cómo contar la violencia? El desafío de un periodismo con perspectiva de género en Cuba",
-      "resumen": "Aplicar la perspectiva de género en el periodismo implica una revisión crítica de las rutinas produc...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125566-como-contar-la-violencia-el-desafio-de-un-periodismo-con-perspectiva-de-genero-en-cuba.jpg?t=1792342813",
-      "enlace_original": "https://www.cubainformacion.tv/genero/20261024/125566/125566-como-contar-la-violencia-el-desafio-de-un-periodismo-con-perspectiva-de-genero-en-cuba",
+      "titulo": "Cuba, Resistencia y Dignidad: entrevista a Enrique Ubieta, director de Revolución y Cultura",
+      "resumen": "Vocesenlucha",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125689-cuba-resistencia-y-dignidad-entrevista-a-enrique-ubieta-director-de-revolucion-y-cultura.jpg?t=1792821527",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261024/125689/125689-cuba-resistencia-y-dignidad-entrevista-a-enrique-ubieta-director-de-revolucion-y-cultura",
       "destacada": false,
-      "tema": "contar",
-      "fecha": "Sat, 24 Oct 26 07:00:00 +0200",
+      "tema": "resistencia",
+      "fecha": "Sat, 24 Oct 26 07:57:00 +0200",
       "id": 43
     },
     {
-      "categoria": "salud",
+      "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "22 cajas de medicamentos llegan a centros de salud de Guanabacoa donados por la solidaridad vasca con Cuba",
-      "resumen": "En las fotografías enviadas, se ven las primeras personas beneficiadas en la entrega de los medicame...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125683-22-cajas-de-medicamentos-llegan-a-centros-de-salud-de-guanabacoa-donados-por-la-solidaridad-vasca-con-cuba.jpg?t=1792781667",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261023/125683/125683-22-cajas-de-medicamentos-llegan-a-centros-de-salud-de-guanabacoa-donados-por-la-solidaridad-vasca-con-cuba",
+      "titulo": "Cuba recibe apoyo global ante votaciones en la ONU sobre el bloqueo",
+      "resumen": "Canal Caribe.- Las muestras de solidaridad con Cuba continúan a medida que se acercan las votacione...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125688-cuba-recibe-apoyo-global-ante-votaciones-en-la-onu-sobre-el-bloqueo.jpg?t=1792821403",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261024/125688/125688-cuba-recibe-apoyo-global-ante-votaciones-en-la-onu-sobre-el-bloqueo",
       "destacada": false,
-      "tema": "cajas",
-      "fecha": "Fri, 23 Oct 26 20:50:00 +0200",
+      "tema": "recibe",
+      "fecha": "Sat, 24 Oct 26 07:52:00 +0200",
       "id": 44
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "Largometraje Estrés, de la realizadora cubana Marilyn Solaya, conquista Premio del Festival Internacional de Cine Invisible en Bilbao",
-      "resumen": "Foto: Instagram de Marilyn Solaya.",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125682-largometraje-estres-de-la-realizadora-cubana-marilyn-solaya-conquista-premio-del-festival-internacional-de-cine-invisible-en-bilbao.jpg?t=1792780256",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261023/125682/125682-largometraje-estres-de-la-realizadora-cubana-marilyn-solaya-conquista-premio-del-festival-internacional-de-cine-invisible-en-bilbao",
+      "titulo": "176 transformaciones en la Agricultura cubana",
+      "resumen": "El Partido evalúa implementación de las 176 transformaciones en la Agricultura René Tamayo León Pres...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125687-176-transformaciones-en-la-agricultura-cubana.jpg?t=1792821130",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261024/125687/125687-176-transformaciones-en-la-agricultura-cubana",
       "destacada": false,
-      "tema": "largometraje",
-      "fecha": "Fri, 23 Oct 26 20:29:00 +0200",
+      "tema": "transformaciones",
+      "fecha": "Sat, 24 Oct 26 07:50:00 +0200",
       "id": 45
     },
     {
-      "categoria": "sociedad",
+      "categoria": "salud",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "Necesidad de poner fin al bloqueo, hoy más que nunca: urge evitar que conviertan a Cuba en una Gaza silenciosa",
-      "resumen": "Por Justo Cruz*/Foto Virgilio Ponce -Martianos-Hermes-Cubainformación...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125681-necesidad-de-poner-fin-al-bloqueo-hoy-mas-que-nunca-urge-evitar-que-conviertan-a-cuba-en-una-gaza-silenciosa.jpg?t=1792781750",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261023/125681/125681-necesidad-de-poner-fin-al-bloqueo-hoy-mas-que-nunca-urge-evitar-que-conviertan-a-cuba-en-una-gaza-silenciosa",
+      "titulo": "Presidenta Sheinbaum resalta labor de cooperantes de la salud de Cuba en México",
+      "resumen": "Ciudad de México, 23 oct (Prensa Latina) La presidenta Claudia Sheinbaum destacó hoy la labor de los...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125686-presidenta-sheinbaum-resalta-labor-de-cooperantes-de-la-salud-de-cuba-en-mexico.jpg?t=1792820990",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261024/125686/125686-presidenta-sheinbaum-resalta-labor-de-cooperantes-de-la-salud-de-cuba-en-mexico",
       "destacada": false,
-      "tema": "necesidad",
-      "fecha": "Fri, 23 Oct 26 20:22:00 +0200",
+      "tema": "presidenta",
+      "fecha": "Sat, 24 Oct 26 07:49:00 +0200",
       "id": 46
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "El Ayuntamiento de Mollet del Vallès aporta 10.000 euros para impulsar la energía solar en los hospitales de Cuba",
-      "resumen": "Una charla a La Marineta expone el proyecto científico del CIES....",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125680-el-ayuntamiento-de-mollet-del-valles-aporta-10-000-euros-para-impulsar-la-energia-solar-en-los-hospitales-de-cuba.jpg?t=1792779643",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261023/125680/125680-el-ayuntamiento-de-mollet-del-valles-aporta-10-000-euros-para-impulsar-la-energia-solar-en-los-hospitales-de-cuba",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Fri, 23 Oct 26 20:17:00 +0200",
-      "id": 47
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "El Casal Cuba de Sabadell presentó el libro &quot;Voces con Fidel&quot; en un acto de memoria y solidaridad frente al genocidio y el bloqueo de EE. UU. contra Cuba (+Fotos)",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125679-el-casal-cuba-de-sabadell-presento-el-libro-voces-con-fidel-en-un-acto-de-memoria-y-solidaridad-frente-al-genocidio-y-el-bloqueo-de-ee-uu-contra-cuba-fotos.jpg?t=1792763275",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261023/125679/125679-el-casal-cuba-de-sabadell-presento-el-libro-voces-con-fidel-en-un-acto-de-memoria-y-solidaridad-frente-al-genocidio-y-el-bloqueo-de-ee-uu-contra-cuba-fotos",
-      "destacada": false,
-      "tema": "casal",
-      "fecha": "Fri, 23 Oct 26 15:44:00 +0200",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba y Rusia registran un fármaco anticancerígeno desarrollado en La Habana",
-      "resumen": "Argentino Tellini - Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125676-cuba-y-rusia-registran-un-farmaco-anticancerigeno-desarrollado-en-la-habana.jpg?t=1792737214",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261023/125676/125676-cuba-y-rusia-registran-un-farmaco-anticancerigeno-desarrollado-en-la-habana",
-      "destacada": false,
-      "tema": "rusia",
-      "fecha": "Fri, 23 Oct 26 08:18:00 +0200",
-      "id": 49
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "La batalla comunicacional y el legado de Fidel Castro: Una reflexión desde el corazón de México",
-      "resumen": "Araceli Aguilar Salgado nycpressnews.com “Durante toda su vida, el líder cubano solo utilizó el ...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125675-la-batalla-comunicacional-y-el-legado-de-fidel-castro-una-reflexion-desde-el-corazon-de-mexico.jpg?t=1792734872",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261023/125675/125675-la-batalla-comunicacional-y-el-legado-de-fidel-castro-una-reflexion-desde-el-corazon-de-mexico",
-      "destacada": false,
-      "tema": "batalla",
-      "fecha": "Fri, 23 Oct 26 07:52:00 +0200",
-      "id": 50
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Exposición «Operación Milagro: solidaridad médica de Cuba en Argentina» ya puede verse en la localidad vasca de Lezama, que acogerá el 30 de octubre un concierto solidario del trovador Jorge Sánchez",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125674-exposicion-operacion-milagro-solidaridad-medica-de-cuba-en-argentina-ya-puede-verse-en-la-localidad-vasca-de-lezama-que-acogera-el-30-de-octubre-un-concierto-solidario-del-trovador-jorge-sanchez.jpg?t=1792735349",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261023/125674/125674-exposicion-operacion-milagro-solidaridad-medica-de-cuba-en-argentina-ya-puede-verse-en-la-localidad-vasca-de-lezama-que-acogera-el-30-de-octubre-un-concierto-solidario-del-trovador-jorge-sanchez",
-      "destacada": false,
-      "tema": "exposición",
-      "fecha": "Fri, 23 Oct 26 07:50:00 +0200",
-      "id": 51
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Todavía la ONU huele a azufre, le piden al Guerrero que fumigue",
-      "resumen": "Guerrero Cubano con su verdad al desnudo",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125673-todavia-la-onu-huele-a-azufre-le-piden-al-guerrero-que-fumigue.jpg?t=1792733983",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261023/125673/125673-todavia-la-onu-huele-a-azufre-le-piden-al-guerrero-que-fumigue",
-      "destacada": false,
-      "tema": "todavía",
-      "fecha": "Fri, 23 Oct 26 07:39:00 +0200",
-      "id": 52
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "¡Harry Potter vuelve a La Habana Vieja!",
-      "resumen": "El venidero domingo se realizará en el Centro Histórico de La Habana Vieja la 4ta edición de la Convención anual Harry Potter, que vinculará el universo del personaje literario con el mundo mágico cubano, a través de juegos, concursos y actividades interactivas La entrada ¡Harry Potter vuelve a La H",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/harry-potter-vuelve-a-la-habana-vieja/",
-      "destacada": false,
-      "tema": "harry",
-      "fecha": "Fri, 23 Oct 2026 19:11:08 +0000",
-      "id": 53
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Hacer que el mercado de barrio cumpla su fin",
-      "resumen": "Los establecimientos pueden ser administrados por diferentes actores económicos autorizados, mediante procedimientos de licitación que mantienen la propiedad estatal de los inmuebles La entrada Hacer que el mercado de barrio cumpla su fin se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/hacer-que-el-mercado-de-barrio-cumpla-su-fin/",
-      "destacada": false,
-      "tema": "mercado",
-      "fecha": "Fri, 23 Oct 2026 18:38:11 +0000",
-      "id": 54
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Evaluó PCC transformaciones en la Agricultura",
-      "resumen": "Miguel Díaz-Canel Bermúdez, Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, encabezó la clausura de la visita del Comité Central al Ministerio de la Agricultura y su sistema empresarial, como parte del seguimiento a la implementación de las 176 transf",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/evaluo-pcc-transformaciones-en-la-agricultura/",
-      "destacada": false,
-      "tema": "evaluó",
-      "fecha": "Fri, 23 Oct 2026 17:39:58 +0000",
-      "id": 55
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Inauguran en La Habana edición 27 del Festival de Cine Francés (+ Fotos)",
-      "resumen": "La nueva edición se inauguró con la exhibición del filme \"Los niños de la resistencia\" (2026), de Christophe Barrartier, director que ha mantenido sostenida presencia en varias ediciones del evento La entrada Inauguran en La Habana edición 27 del Festival de Cine Francés (+ Fotos) se publicó primero",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/inauguran-en-la-habana-edicion-27-del-festival-de-cine-frances-fotos/",
-      "destacada": false,
-      "tema": "inauguran",
-      "fecha": "Fri, 23 Oct 2026 17:00:28 +0000",
-      "id": 56
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Estampas de mi ciudad: El Caballero de París",
-      "resumen": "Como parte de la campaña “Habana mía”, dedicada al aniversario de la capital, Tribuna de La Habana retoma la sección “Estampas de mi ciudad”, publicada por primera vez en 1985. En esta primera publicación, nos acercamos a la historia del Caballero de París La entrada Estampas de mi ciudad: El Caball",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/estampas-de-mi-ciudad-el-caballero-de-paris/",
-      "destacada": false,
-      "tema": "estampas",
-      "fecha": "Fri, 23 Oct 2026 15:29:38 +0000",
-      "id": 57
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Industriales: un aspirante a la corona en busca de equilibrio",
-      "resumen": "Los Leones de Industriales tienen linaje para mirar hacia la cima, pero todavía caminan a media ladera en la 65.ª Serie Nacional de Béisbol La entrada Industriales: un aspirante a la corona en busca de equilibrio se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/industriales-un-aspirante-a-la-corona-en-busca-de-equilibrio/",
-      "destacada": false,
-      "tema": "industriales",
-      "fecha": "Fri, 23 Oct 2026 14:56:28 +0000",
-      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -768,7 +612,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Fri, 23 Oct 2026 22:19:39 GMT",
-      "id": 59
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -781,7 +625,7 @@
       "destacada": false,
       "tema": "reorganiza",
       "fecha": "Fri, 23 Oct 2026 18:00:00 GMT",
-      "id": 60
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -794,7 +638,7 @@
       "destacada": false,
       "tema": "destierro",
       "fecha": "Fri, 23 Oct 2026 11:00:00 GMT",
-      "id": 61
+      "id": 49
     }
   ]
 }
