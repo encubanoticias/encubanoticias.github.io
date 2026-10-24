@@ -1,20 +1,46 @@
 {
   "fecha": "2026-10-24",
-  "hora": "13:23",
-  "total": 55,
+  "hora": "15:14",
+  "total": 52,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Caravana contra bloqueo a Cuba recorrerá avenida de Luanda",
+      "resumen": "Una caravana recorrerá hoy parte de la avenida Fidel Castro, en la capital de Angola, en solidaridad con Cuba y contra el bloqueo económico, comercial y financiero de Estados Unidos a la nación caribeña&nbsp;",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-24/caravana-contra-bloqueo-a-cuba-recorrera-avenida-de-luanda-24-10-2026-10-10-38",
+      "destacada": true,
+      "tema": "caravana",
+      "fecha": "Sat, 24 Oct 2026 10:10:38 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Médico cubano denuncia impacto del bloqueo en pacientes críticos",
+      "resumen": "La Habana, 24 oct (Prensa Latina) Para el doctor cubano Fran Daniel Martos ver a niños, que representan el renacer de la vida, y no contar con los medios necesarios para ofrecer una solución quirúrgica oportuna, resulta particularmente doloroso. The post Médico cubano denuncia impacto del bloqueo en",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/24/medico-cubano-denuncia-impacto-del-bloqueo-en-pacientes-criticos/",
+      "destacada": true,
+      "tema": "médico",
+      "fecha": "Sat, 24 Oct 2026 14:32:30 +0000",
+      "id": 2
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba: «Quienes promueven el bloqueo no tienen corazón»",
-      "resumen": "La Habana, 24 oct (Prensa Latina) La vicepresidenta de la Asamblea Nacional del Poder Popular en Cuba, Ana María Mari, destacó aquí la grandeza y la capacidad de resiliencia del pueblo cubano. The post Cuba: «Quienes promueven el bloqueo no tienen corazón» first appeared on Noticias Prensa Latina.",
+      "titulo": "Embajador de Cuba en Dominicana denuncia presiones de EEUU ante ONU",
+      "resumen": "Santo Domingo, 24 oct (Prensa Latina) El embajador de Cuba en República Dominicana, Ángel Arzuaga, denunció hoy las presiones de Estados Unidos contra numerosos países para que cambien su posición de apoyo a la resolución que reclama el fin del bloqueo contra la isla. The post Embajador de Cuba en D",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/24/cuba-quienes-promueven-el-bloqueo-no-tienen-corazon/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/24/embajador-de-cuba-en-dominicana-denuncia-presiones-de-eeuu-ante-onu/",
       "destacada": true,
-      "tema": "quienes",
-      "fecha": "Sat, 24 Oct 2026 13:05:48 +0000",
-      "id": 1
+      "tema": "embajador",
+      "fecha": "Sat, 24 Oct 2026 14:13:57 +0000",
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -27,7 +53,7 @@
       "destacada": true,
       "tema": "redada",
       "fecha": "Sat, 24 Oct 2026 11:43:13 +0000",
-      "id": 2
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -40,20 +66,20 @@
       "destacada": true,
       "tema": "recogiendo",
       "fecha": "Fri, 23 Oct 2026 19:50:19 +0000",
-      "id": 3
+      "id": 5
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Rubio pide una “colaboración discreta con la CIA” mientras el régimen invita al papa a Cuba",
-      "resumen": "La agencia de inteligencia difunde una guía para que los cubanos contacten con ella de forma anónima y el canciller cubano lanza amenazas a EE UU",
+      "titulo": "Rubio pide a los cubanos que colaboren con la CIA; el régimen invita al Papa en respuesta a las presiones de EE UU",
+      "resumen": "La agencia de inteligencia difunde una guía para que puedan contactar con ella de forma anónima desde Cuba y Bruno Rodríguez lanza amenazas a EE UU",
       "imagen_url": "https://static.14ymedio.com/clip/a4e0fae1-8cb9-4e4d-9b75-080d3a2ffe9b_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/rubio-pide-colaboracion-discreta-cia_1_1132351.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "rubio",
       "fecha": "Sat, 24 Oct 2026 12:42:14 +0000",
-      "id": 4
+      "id": 6
     },
     {
       "categoria": "economia",
@@ -63,10 +89,10 @@
       "resumen": "La inflación y el encarecimiento de la vida empujan a cada vez más ancianos cubanos a trabajar o desprenderse de sus pertenencias",
       "imagen_url": "https://static.14ymedio.com/clip/ee45d047-c192-4037-9ea9-a2b8a1c23160_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/ultima-muda-ropa-venta-habana_1_1132329.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "última",
       "fecha": "Fri, 23 Oct 2026 18:44:56 +0000",
-      "id": 5
+      "id": 7
     },
     {
       "categoria": "transporte",
@@ -79,7 +105,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Fri, 23 Oct 2026 20:56:27 +0000",
-      "id": 6
+      "id": 8
     },
     {
       "categoria": "economia",
@@ -92,7 +118,85 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 23 Oct 2026 17:01:50 +0000",
-      "id": 7
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Bla bla bla»: Cubanos responden con hartazgo e ironía a las nuevas promesas de Trump sobre Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e207888-s27061-nid343677-bla-bla-bla-cubanos-responden-hartazgo-ironia-nuevas",
+      "destacada": false,
+      "tema": "cubanos",
+      "fecha": "Sat, 24 Oct 2026 15:36:57 +0200",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El poder económico de las FAR y GAESA, principal desafío para una transición democrática en Cuba, según estudio",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e207888-s27061-nid343673-poder-economico-far-gaesa-principal-desafio",
+      "destacada": false,
+      "tema": "poder",
+      "fecha": "Sat, 24 Oct 2026 15:08:37 +0200",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Qué hacer si ICE llega a tu casa o a tu trabajo: guía paso a paso para cubanos en EE.UU.",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e43231-s27061-nid343668-hacer-ice-llega-casa-trabajo-guia-paso-paso-cubanos",
+      "destacada": false,
+      "tema": "llega",
+      "fecha": "Sat, 24 Oct 2026 15:04:21 +0200",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cómo empezar de cero en EE.UU. sin dinero: los consejos del cubano que llegó con 37 años y hoy dirige una escuela con más de 50.000 alumnos | $how me the mon€y EP3",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e129488-s27061-nid343498-empezar-cero-eeuu-dinero-consejos-cubano-llego-37",
+      "destacada": false,
+      "tema": "empezar",
+      "fecha": "Sat, 24 Oct 2026 15:02:02 +0200",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubana republicana que apoyaba a Trump anuncia que cambió su voto y explica por qué",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e43231-s27061-nid343671-cubana-republicana-apoyaba-trump-anuncia-cambio-voto",
+      "destacada": false,
+      "tema": "cubana",
+      "fecha": "Sat, 24 Oct 2026 14:17:03 +0200",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "CIA publica guía detallada de colaboración con la agencia para «aquellos que buscan crear un cambio positivo en Cuba»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e207888-s27061-nid343670-cia-publica-guia-detallada-colaboracion-agencia",
+      "destacada": false,
+      "tema": "publica",
+      "fecha": "Sat, 24 Oct 2026 13:43:52 +0200",
+      "id": 15
     },
     {
       "categoria": "politica",
@@ -105,7 +209,7 @@
       "destacada": false,
       "tema": "viceministro",
       "fecha": "Sat, 24 Oct 2026 13:05:02 +0200",
-      "id": 8
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -118,46 +222,20 @@
       "destacada": false,
       "tema": "lanza",
       "fecha": "Sat, 24 Oct 2026 12:25:40 +0200",
-      "id": 9
+      "id": 17
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Presentarán en Buenos Aires cortos restaurados de Nicolás Guillén Landrián, cineasta cubano víctima del régimen",
-      "resumen": "",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Un día como hoy en la vida y obra de Fidel. 24 de octubre",
+      "resumen": "&#8211; 24 de octubre de 1981. Fidel clausura el Segundo Congreso de los Comités de Defensa de la Revolución, CDR, en el teatro «Karl Marx» de La Habana. Comenta acerca de una pequeña fractura en un dedo de su pie derecho que le impidió estar en la inauguración de este nuevo encuentro de los CDR. Su",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e209395-s27061-nid343629-presentaran-buenos-aires-cortos-restaurados-nicolas",
+      "enlace_original": "https://www.radiocubana.cu/un-dia-como-hoy-en-la-vida-y-obra-de-fidel/un-dia-como-hoy-en-la-vida-y-obra-de-fidel-24-de-octubre/",
       "destacada": false,
-      "tema": "presentarán",
-      "fecha": "Sat, 24 Oct 2026 07:21:16 +0200",
-      "id": 10
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubanos condenados a entre 4 y 5 años de prisión por comercializar antenas Starlink en Santa Clara",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e209395-s27061-nid343658-cubanos-condenados-4-5-anos-prision-comercializar",
-      "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Sat, 24 Oct 2026 06:43:50 +0200",
-      "id": 11
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«No nos podemos cansar», dice Díaz-Canel en Los Sitios y cubanos responden en redes: «Basta de represores»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e209395-s27061-nid343660-nos-podemos-cansar-dice-diaz-canel-sitios-cubanos",
-      "destacada": false,
-      "tema": "podemos",
-      "fecha": "Sat, 24 Oct 2026 06:01:09 +0200",
-      "id": 12
+      "tema": "fidel",
+      "fecha": "Sat, 24 Oct 2026 04:56:23 +0000",
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -170,7 +248,7 @@
       "destacada": false,
       "tema": "podcast",
       "fecha": "Fri, 23 Oct 2026 23:42:58 +0000",
-      "id": 13
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -183,59 +261,20 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Fri, 23 Oct 2026 19:54:39 +0000",
-      "id": 14
+      "id": 20
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "¿Cómo empezó el bloqueo económico contra Cuba?",
-      "resumen": "Las medidas de carácter económico, como política frente a la Revolución Cubana, se empezaron a considerar desde muy temprano. Ya en 1959 hubo criterios de utilizar ese mecanismo como elemento de presión ante las leyes revolucionarias que se aprobaban",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Moscú reconoce que, pese a sus promesas, tiene 'dificultades logísticas' para apoyar a La Habana",
+      "resumen": "#Rusia ha enfrentado \"dificultades logísticas\" para entregar #AyudaHumanitaria a #Cuba en el último cuatrimestre, pese a haber reiterado que apoyaría a La Habana ante las presiones de #EEUU.",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261023/como-empezo-el-bloqueo-economico-contra-cuba-2/",
+      "enlace_original": "https://diariodecuba.com/cuba/1792854267_69526.html",
       "destacada": false,
-      "tema": "empezó",
-      "fecha": "Fri, 23 Oct 2026 20:00:56 +0000",
-      "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Debates en Santiago de Cuba sobre garantías juridiccionales de los derechos",
-      "resumen": "Ciencia e innovación marcaron la jornada de este viernes para operadores del Derecho en el ámbito de los tribunales en Santiago de Cuba",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261023/debates-en-santiago-de-cuba-sobre-garantias-juridiccionales-de-los-derechos/",
-      "destacada": false,
-      "tema": "debates",
-      "fecha": "Fri, 23 Oct 2026 19:30:45 +0000",
-      "id": 16
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "El pueblo no debe ser castigado por querer defender su libertad",
-      "resumen": "Disponible para descargar el Informe de Cuba a la ONU entre marzo de 2025 y febrero de 2026",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261023/cuba-no-es-una-amenaza-el-bloqueo-si/",
-      "destacada": false,
-      "tema": "pueblo",
-      "fecha": "Fri, 23 Oct 2026 19:07:23 +0000",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Inventiva joven con aportes a refinería santiaguera",
-      "resumen": "Jóvenes trabajadores de la refinería de petróleo Hermanos Díaz, con sede en Santiago de Cuba, ponen talento y corazón a favor de las investigaciones y la innovación como contribución personal al desarrollo de la industria",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261023/inventiva-joven-con-aportes-a-refineria-santiaguera/",
-      "destacada": false,
-      "tema": "inventiva",
-      "fecha": "Fri, 23 Oct 2026 15:07:23 +0000",
-      "id": 18
+      "tema": "moscú",
+      "fecha": "Sat, 24 Oct 2026 17:04:27 +0200",
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -248,7 +287,7 @@
       "destacada": false,
       "tema": "nadie",
       "fecha": "Sat, 24 Oct 2026 14:57:00 +0200",
-      "id": 19
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -261,7 +300,7 @@
       "destacada": false,
       "tema": "encadena",
       "fecha": "Sat, 24 Oct 2026 13:26:11 +0200",
-      "id": 20
+      "id": 23
     },
     {
       "categoria": "salud",
@@ -274,7 +313,7 @@
       "destacada": false,
       "tema": "colgar",
       "fecha": "Sat, 24 Oct 2026 13:00:48 +0200",
-      "id": 21
+      "id": 24
     },
     {
       "categoria": "economia",
@@ -287,7 +326,7 @@
       "destacada": false,
       "tema": "profundiza",
       "fecha": "Sat, 24 Oct 2026 11:36:26 +0200",
-      "id": 22
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -300,7 +339,7 @@
       "destacada": false,
       "tema": "rubio",
       "fecha": "Sat, 24 Oct 2026 01:08:47 +0200",
-      "id": 23
+      "id": 26
     },
     {
       "categoria": "energia",
@@ -313,7 +352,7 @@
       "destacada": false,
       "tema": "escasez",
       "fecha": "Fri, 23 Oct 2026 22:55:27 +0200",
-      "id": 24
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -326,7 +365,7 @@
       "destacada": false,
       "tema": "cinco",
       "fecha": "Fri, 23 Oct 2026 20:47:18 +0200",
-      "id": 25
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -339,20 +378,20 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Fri, 23 Oct 2026 19:25:26 +0200",
-      "id": 26
+      "id": 29
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "salud",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "'Ha perdido su juventud por un encarcelamiento injusto': los padres de un preso político cubano",
-      "resumen": "",
+      "titulo": "Sheinbaum responde sobre médicos cubanos; Salazar exige una acción de EEUU para \"desmantelar\" el programa",
+      "resumen": "La presidenta de México, Claudia Sheinbaum, negó que exista una diferencia salarial entre médicos cubanos y mexicanos, luego de que la congresista republicana María Elvira Salazar exigiera a Washington presionar a México para poner fin a la contratación de más de 3.000 médicos cubanos.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1792771544_69518.html",
+      "enlace_original": "https://www.martinoticias.com/a/sheinbaum-responde-sobre-m%c3%a9dicos-cubanos-salazar-exige-una-acci%c3%b3n-de-eeuu-para-desmantelar-el-programa/482729.html",
       "destacada": false,
-      "tema": "perdido",
-      "fecha": "Fri, 23 Oct 2026 18:05:44 +0200",
-      "id": 27
+      "tema": "sheinbaum",
+      "fecha": "Sat, 24 Oct 2026 10:58:38 -0400",
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -365,7 +404,20 @@
       "destacada": false,
       "tema": "abriendo",
       "fecha": "Sat, 24 Oct 2026 09:00:00 -0400",
-      "id": 28
+      "id": 31
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Reafirma Díaz-Canel papel estratégico de la agricultura en la implementación de las transformaciones económicas",
+      "resumen": "El primer secretario del Comité Central del Partido Comunista de Cuba y presidente de la República, Miguel Díaz-Canel Bermúdez, calificó de acto de defensa de la Revolución y, en las condiciones actuales, también de resistencia, cada hectárea sembrada, cada tonelada cosechada y cada litro de leche a",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/24/reafirma-diaz-canel-papel-estrategico-de-la-agricultura-en-la-implementacion-de-las-transformaciones-economicas/",
+      "destacada": false,
+      "tema": "reafirma",
+      "fecha": "Sat, 24 Oct 2026 15:14:01 +0000",
+      "id": 32
     },
     {
       "categoria": "economia",
@@ -378,7 +430,7 @@
       "destacada": false,
       "tema": "actual",
       "fecha": "Sat, 24 Oct 2026 08:28:55 +0000",
-      "id": 29
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -391,7 +443,7 @@
       "destacada": false,
       "tema": "última",
       "fecha": "Sat, 24 Oct 2026 08:20:25 +0000",
-      "id": 30
+      "id": 34
     },
     {
       "categoria": "politica",
@@ -404,7 +456,7 @@
       "destacada": false,
       "tema": "escritores",
       "fecha": "Sat, 24 Oct 2026 04:30:41 +0000",
-      "id": 31
+      "id": 35
     },
     {
       "categoria": "politica",
@@ -417,7 +469,7 @@
       "destacada": false,
       "tema": "reclutamientos",
       "fecha": "Sat, 24 Oct 2026 03:45:28 +0000",
-      "id": 32
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -430,33 +482,7 @@
       "destacada": false,
       "tema": "instituto",
       "fecha": "Sat, 24 Oct 2026 02:56:52 +0000",
-      "id": 33
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba vence a México en extrainnings y mantiene vivas sus opciones en el Panamericano Sub-18 de béisbol",
-      "resumen": "La selección cubana derrotó hoy 5-4 a su similar de México en extrainnings, y mantuvo posibilidades de avanzar, por el grupo B, a la fase de Súper Ronda del Campeonato Panamericano de Beisbol Sub-18, que se disputa en República Dominicana. Cuba enfrentará este sábado a Nicaragua. The post Cuba vence",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/23/cuba-vence-a-mexico-en-extrainnings-y-mantiene-vivas-sus-opciones-en-el-panamericano-sub-18-de-beisbol/",
-      "destacada": false,
-      "tema": "vence",
-      "fecha": "Sat, 24 Oct 2026 02:54:00 +0000",
-      "id": 34
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Díaz-Canel: EEUU no renuncia a sus ambiciones de dominación sobre Cuba",
-      "resumen": "El presidente cubano, Miguel Díaz-Canel, alertó este viernes que el gobierno de Estados Unidos deja claro que no renuncia a sus ambiciones de dominación sobre la Isla, a través de un mensaje publicado en su cuenta oficial en X. Por su parte, el canciller Bruno Rodríguez rechazó categóricamente toda ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/23/la-respuesta-de-cuba-a-la-mas-reciente-amenaza-de-trump/",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Sat, 24 Oct 2026 01:11:10 +0000",
-      "id": 35
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -469,7 +495,7 @@
       "destacada": false,
       "tema": "evocación",
       "fecha": "Sat, 24 Oct 26 14:12:00 +0200",
-      "id": 36
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -482,7 +508,7 @@
       "destacada": false,
       "tema": "pesar",
       "fecha": "Sat, 24 Oct 26 08:19:00 +0200",
-      "id": 37
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -495,7 +521,7 @@
       "destacada": false,
       "tema": "brutal",
       "fecha": "Sat, 24 Oct 26 08:16:00 +0200",
-      "id": 38
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -508,7 +534,7 @@
       "destacada": false,
       "tema": "fallar",
       "fecha": "Sat, 24 Oct 26 08:13:00 +0200",
-      "id": 39
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -521,7 +547,7 @@
       "destacada": false,
       "tema": "cuánto",
       "fecha": "Sat, 24 Oct 26 08:11:00 +0200",
-      "id": 40
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -534,7 +560,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Sat, 24 Oct 26 08:10:00 +0200",
-      "id": 41
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -547,7 +573,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Sat, 24 Oct 26 08:09:00 +0200",
-      "id": 42
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -560,7 +586,7 @@
       "destacada": false,
       "tema": "resistencia",
       "fecha": "Sat, 24 Oct 26 07:57:00 +0200",
-      "id": 43
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -573,85 +599,20 @@
       "destacada": false,
       "tema": "recibe",
       "fecha": "Sat, 24 Oct 26 07:52:00 +0200",
-      "id": 44
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "¡Harry Potter vuelve a La Habana Vieja!",
-      "resumen": "El venidero domingo se realizará en el Centro Histórico de La Habana Vieja la 4ta edición de la Convención anual Harry Potter, que vinculará el universo del personaje literario con el mundo mágico cubano, a través de juegos, concursos y actividades interactivas La entrada ¡Harry Potter vuelve a La H",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/harry-potter-vuelve-a-la-habana-vieja/",
-      "destacada": false,
-      "tema": "harry",
-      "fecha": "Fri, 23 Oct 2026 19:11:08 +0000",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Hacer que el mercado de barrio cumpla su fin",
-      "resumen": "Los establecimientos pueden ser administrados por diferentes actores económicos autorizados, mediante procedimientos de licitación que mantienen la propiedad estatal de los inmuebles La entrada Hacer que el mercado de barrio cumpla su fin se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/hacer-que-el-mercado-de-barrio-cumpla-su-fin/",
-      "destacada": false,
-      "tema": "mercado",
-      "fecha": "Fri, 23 Oct 2026 18:38:11 +0000",
       "id": 46
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
+      "fuente": "https://www.prensa-latina.cu/",
       "fuente_tipo": "oficial",
-      "titulo": "Evaluó PCC transformaciones en la Agricultura",
-      "resumen": "Miguel Díaz-Canel Bermúdez, Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, encabezó la clausura de la visita del Comité Central al Ministerio de la Agricultura y su sistema empresarial, como parte del seguimiento a la implementación de las 176 transf",
+      "titulo": "Cubanos en Nicaragua exigen fin de bloqueo de EEUU",
+      "resumen": "Managua, 24 oct (Prensa Latina) La comunidad de cubanos residentes en Nicaragua condenó hoy el bloqueo económico, comercial y financiero impuesto por Estados Unidos contra Cuba y reclamó el cese de esa política unilateral. The post Cubanos en Nicaragua exigen fin de bloqueo de EEUU first appeared on",
       "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/evaluo-pcc-transformaciones-en-la-agricultura/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/24/cubanos-en-nicaragua-exigen-fin-de-bloqueo-de-eeuu/",
       "destacada": false,
-      "tema": "evaluó",
-      "fecha": "Fri, 23 Oct 2026 17:39:58 +0000",
+      "tema": "cubanos",
+      "fecha": "Sat, 24 Oct 2026 15:15:36 +0000",
       "id": 47
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Inauguran en La Habana edición 27 del Festival de Cine Francés (+ Fotos)",
-      "resumen": "La nueva edición se inauguró con la exhibición del filme \"Los niños de la resistencia\" (2026), de Christophe Barrartier, director que ha mantenido sostenida presencia en varias ediciones del evento La entrada Inauguran en La Habana edición 27 del Festival de Cine Francés (+ Fotos) se publicó primero",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/inauguran-en-la-habana-edicion-27-del-festival-de-cine-frances-fotos/",
-      "destacada": false,
-      "tema": "inauguran",
-      "fecha": "Fri, 23 Oct 2026 17:00:28 +0000",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Estampas de mi ciudad: El Caballero de París",
-      "resumen": "Como parte de la campaña “Habana mía”, dedicada al aniversario de la capital, Tribuna de La Habana retoma la sección “Estampas de mi ciudad”, publicada por primera vez en 1985. En esta primera publicación, nos acercamos a la historia del Caballero de París La entrada Estampas de mi ciudad: El Caball",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/estampas-de-mi-ciudad-el-caballero-de-paris/",
-      "destacada": false,
-      "tema": "estampas",
-      "fecha": "Fri, 23 Oct 2026 15:29:38 +0000",
-      "id": 49
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "oficial",
-      "titulo": "Industriales: un aspirante a la corona en busca de equilibrio",
-      "resumen": "Los Leones de Industriales tienen linaje para mirar hacia la cima, pero todavía caminan a media ladera en la 65.ª Serie Nacional de Béisbol La entrada Industriales: un aspirante a la corona en busca de equilibrio se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/industriales-un-aspirante-a-la-corona-en-busca-de-equilibrio/",
-      "destacada": false,
-      "tema": "industriales",
-      "fecha": "Fri, 23 Oct 2026 14:56:28 +0000",
-      "id": 50
     },
     {
       "categoria": "salud",
@@ -664,7 +625,7 @@
       "destacada": false,
       "tema": "accidente",
       "fecha": "Sat, 24 Oct 2026 13:10:13 +0000",
-      "id": 51
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -677,7 +638,7 @@
       "destacada": false,
       "tema": "constata",
       "fecha": "Sat, 24 Oct 2026 12:52:18 +0000",
-      "id": 52
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -690,7 +651,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Sat, 24 Oct 2026 12:00:00 GMT",
-      "id": 53
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -703,7 +664,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Fri, 23 Oct 2026 22:19:39 GMT",
-      "id": 54
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -716,7 +677,7 @@
       "destacada": false,
       "tema": "reorganiza",
       "fecha": "Fri, 23 Oct 2026 18:00:00 GMT",
-      "id": 55
+      "id": 52
     }
   ]
 }
