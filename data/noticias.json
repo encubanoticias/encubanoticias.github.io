@@ -1,8 +1,21 @@
 {
   "fecha": "2026-10-24",
-  "hora": "15:14",
-  "total": 52,
+  "hora": "16:15",
+  "total": 53,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Ballet Nacional de Cuba dedica función de gala a la ONU",
+      "resumen": "La compañía, Patrimonio Cultural de la Nación, presentará «Giselle» este sábado 24 y domingo 25 de octubre en la Sala Avellaneda del Teatro Nacional",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-24/ballet-nacional-de-cuba-dedica-funcion-de-gala-a-la-onu-24-10-2026-11-10-32",
+      "destacada": true,
+      "tema": "ballet",
+      "fecha": "Sat, 24 Oct 2026 11:10:32 -0400",
+      "id": 1
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
@@ -14,33 +27,33 @@
       "destacada": true,
       "tema": "caravana",
       "fecha": "Sat, 24 Oct 2026 10:10:38 -0400",
-      "id": 1
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Médico cubano denuncia impacto del bloqueo en pacientes críticos",
-      "resumen": "La Habana, 24 oct (Prensa Latina) Para el doctor cubano Fran Daniel Martos ver a niños, que representan el renacer de la vida, y no contar con los medios necesarios para ofrecer una solución quirúrgica oportuna, resulta particularmente doloroso. The post Médico cubano denuncia impacto del bloqueo en",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/24/medico-cubano-denuncia-impacto-del-bloqueo-en-pacientes-criticos/",
-      "destacada": true,
-      "tema": "médico",
-      "fecha": "Sat, 24 Oct 2026 14:32:30 +0000",
       "id": 2
     },
     {
-      "categoria": "sociedad",
+      "categoria": "politica",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "alternativa",
-      "titulo": "Embajador de Cuba en Dominicana denuncia presiones de EEUU ante ONU",
-      "resumen": "Santo Domingo, 24 oct (Prensa Latina) El embajador de Cuba en República Dominicana, Ángel Arzuaga, denunció hoy las presiones de Estados Unidos contra numerosos países para que cambien su posición de apoyo a la resolución que reclama el fin del bloqueo contra la isla. The post Embajador de Cuba en D",
+      "titulo": "FAD y campesinos panameños demandan fin de bloqueo EEUU a Cuba",
+      "resumen": "Ciudad de Panamá, 24 oct (Prensa Latina) El partido Frente Amplio por la Democracia (FAD) y organizaciones campesinas panameñas demandaron hoy el fin del bloqueo económico, comercial y financiero impuesto por Estados Unidos a Cuba. The post FAD y campesinos panameños demandan fin de bloqueo EEUU a C",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/24/embajador-de-cuba-en-dominicana-denuncia-presiones-de-eeuu-ante-onu/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/24/fad-y-campesinos-panamenos-demandan-fin-de-bloqueo-eeuu-a-cuba/",
       "destacada": true,
-      "tema": "embajador",
-      "fecha": "Sat, 24 Oct 2026 14:13:57 +0000",
+      "tema": "campesinos",
+      "fecha": "Sat, 24 Oct 2026 15:27:39 +0000",
       "id": 3
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EE UU reconoce que el régimen cubano desvía combustible destinado al sector privado",
+      "resumen": "Un portavoz del Departamento de Estado sostiene que el Gobierno de La Habana “ahora debe recurrir al subterfugio y la ilegalidad” para conseguir carburante",
+      "imagen_url": "https://static.14ymedio.com/clip/686b8549-821e-4d2e-9686-65a2bbb80e94_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/ee-uu-reconoce-regimen-cubano_1_1132362.html",
+      "destacada": true,
+      "tema": "reconoce",
+      "fecha": "Sat, 24 Oct 2026 15:46:31 +0000",
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -53,19 +66,6 @@
       "destacada": true,
       "tema": "redada",
       "fecha": "Sat, 24 Oct 2026 11:43:13 +0000",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Recogiendo basura con las manos en La Habana, la otra cara del proyecto piloto El Rampeño",
-      "resumen": "Pese a ampliar su flota de triciclos, las condiciones de trabajo son deplorables, aunque la situación en los otros barrios de la capital es mucho peor",
-      "imagen_url": "https://static.14ymedio.com/clip/34adc991-2409-4532-9b8e-f32e7a94cd1e_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/recogiendo-basura-manos-habana-cara_1_1132336.html",
-      "destacada": true,
-      "tema": "recogiendo",
-      "fecha": "Fri, 23 Oct 2026 19:50:19 +0000",
       "id": 5
     },
     {
@@ -82,6 +82,19 @@
       "id": 6
     },
     {
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Los apagones y las averías afectan el servicio de agua a más de 2,7 millones de cubanos",
+      "resumen": "Una nueva avería en Cuenca Sur perjudicó a más de 200.000 habitantes de La Habana, donde las pipas pueden cobrar hasta 15.000 pesos",
+      "imagen_url": "https://static.14ymedio.com/clip/d51362d8-a2e5-432d-b038-3c70328ed7e3_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/apagones-averias-afectan-servicio-agua_1_1132353.html",
+      "destacada": false,
+      "tema": "apagones",
+      "fecha": "Sat, 24 Oct 2026 13:15:12 +0000",
+      "id": 7
+    },
+    {
       "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -92,7 +105,20 @@
       "destacada": false,
       "tema": "última",
       "fecha": "Fri, 23 Oct 2026 18:44:56 +0000",
-      "id": 7
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Recogiendo basura con las manos en La Habana, la otra cara del proyecto piloto El Rampeño",
+      "resumen": "Pese a ampliar su flota de triciclos, las condiciones de trabajo son deplorables, aunque la situación en los otros barrios de la capital es mucho peor",
+      "imagen_url": "https://static.14ymedio.com/clip/34adc991-2409-4532-9b8e-f32e7a94cd1e_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/recogiendo-basura-manos-habana-cara_1_1132336.html",
+      "destacada": false,
+      "tema": "recogiendo",
+      "fecha": "Fri, 23 Oct 2026 19:50:19 +0000",
+      "id": 9
     },
     {
       "categoria": "transporte",
@@ -105,124 +131,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Fri, 23 Oct 2026 20:56:27 +0000",
-      "id": 8
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El Gobierno cubano intenta atraer a los jóvenes desocupados con cursos pagados a cuatro dólares al mes",
-      "resumen": "La formación durará entre uno y seis meses, exigirá una asistencia mínima del 85% y quienes incumplan las condiciones tendrían que devolver el dinero",
-      "imagen_url": "https://static.14ymedio.com/clip/818fff28-69df-4db3-9653-eba7bd861a21_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/gobierno-cubano-atraer-jovenes-desocupados_1_1132327.html",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Fri, 23 Oct 2026 17:01:50 +0000",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Bla bla bla»: Cubanos responden con hartazgo e ironía a las nuevas promesas de Trump sobre Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e207888-s27061-nid343677-bla-bla-bla-cubanos-responden-hartazgo-ironia-nuevas",
-      "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Sat, 24 Oct 2026 15:36:57 +0200",
       "id": 10
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El poder económico de las FAR y GAESA, principal desafío para una transición democrática en Cuba, según estudio",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e207888-s27061-nid343673-poder-economico-far-gaesa-principal-desafio",
-      "destacada": false,
-      "tema": "poder",
-      "fecha": "Sat, 24 Oct 2026 15:08:37 +0200",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Qué hacer si ICE llega a tu casa o a tu trabajo: guía paso a paso para cubanos en EE.UU.",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e43231-s27061-nid343668-hacer-ice-llega-casa-trabajo-guia-paso-paso-cubanos",
-      "destacada": false,
-      "tema": "llega",
-      "fecha": "Sat, 24 Oct 2026 15:04:21 +0200",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cómo empezar de cero en EE.UU. sin dinero: los consejos del cubano que llegó con 37 años y hoy dirige una escuela con más de 50.000 alumnos | $how me the mon€y EP3",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e129488-s27061-nid343498-empezar-cero-eeuu-dinero-consejos-cubano-llego-37",
-      "destacada": false,
-      "tema": "empezar",
-      "fecha": "Sat, 24 Oct 2026 15:02:02 +0200",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubana republicana que apoyaba a Trump anuncia que cambió su voto y explica por qué",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e43231-s27061-nid343671-cubana-republicana-apoyaba-trump-anuncia-cambio-voto",
-      "destacada": false,
-      "tema": "cubana",
-      "fecha": "Sat, 24 Oct 2026 14:17:03 +0200",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "CIA publica guía detallada de colaboración con la agencia para «aquellos que buscan crear un cambio positivo en Cuba»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e207888-s27061-nid343670-cia-publica-guia-detallada-colaboracion-agencia",
-      "destacada": false,
-      "tema": "publica",
-      "fecha": "Sat, 24 Oct 2026 13:43:52 +0200",
-      "id": 15
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Viceministro cubano se burla del llamado de la CIA: «Tienen que vender sus ofrecimientos como pasta de dientes»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e207888-s27061-nid343669-viceministro-cubano-burla-llamado-cia-tienen-vender",
-      "destacada": false,
-      "tema": "viceministro",
-      "fecha": "Sat, 24 Oct 2026 13:05:02 +0200",
-      "id": 16
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "CIA lanza llamado directo a cubanos para colaborar en secreto con la agencia y «crear un cambio positivo» en la isla",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e207888-s27061-nid343667-cia-lanza-llamado-directo-cubanos-colaborar-secreto",
-      "destacada": false,
-      "tema": "lanza",
-      "fecha": "Sat, 24 Oct 2026 12:25:40 +0200",
-      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -235,7 +144,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Sat, 24 Oct 2026 04:56:23 +0000",
-      "id": 18
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -248,7 +157,7 @@
       "destacada": false,
       "tema": "podcast",
       "fecha": "Fri, 23 Oct 2026 23:42:58 +0000",
-      "id": 19
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -261,7 +170,59 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Fri, 23 Oct 2026 19:54:39 +0000",
-      "id": 20
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "¿Cómo empezó el bloqueo económico contra Cuba?",
+      "resumen": "Las medidas de carácter económico, como política frente a la Revolución cubana, se empezaron a considerar desde muy temprano. Ya en 1959 hubo criterios de utilizar ese mecanismo como elemento de presión ante las leyes revolucionarias que se aprobaban",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261023/como-empezo-el-bloqueo-economico-contra-cuba-2/",
+      "destacada": false,
+      "tema": "empezó",
+      "fecha": "Fri, 23 Oct 2026 20:00:56 +0000",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Debates en Santiago de Cuba sobre garantías juridiccionales de los derechos",
+      "resumen": "Ciencia e innovación marcaron la jornada de este viernes para operadores del Derecho en el ámbito de los tribunales en Santiago de Cuba",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261023/debates-en-santiago-de-cuba-sobre-garantias-juridiccionales-de-los-derechos/",
+      "destacada": false,
+      "tema": "debates",
+      "fecha": "Fri, 23 Oct 2026 19:30:45 +0000",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El pueblo no debe ser castigado por querer defender su libertad",
+      "resumen": "Disponible para descargar el Informe de Cuba a la ONU entre marzo de 2025 y febrero de 2026",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261023/cuba-no-es-una-amenaza-el-bloqueo-si/",
+      "destacada": false,
+      "tema": "pueblo",
+      "fecha": "Fri, 23 Oct 2026 19:07:23 +0000",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Megabasureros, la burla de internet en Cuba y transformadores que lidian con los 'alumbrones'",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792857656_68126.html",
+      "destacada": false,
+      "tema": "megabasureros",
+      "fecha": "Sat, 24 Oct 2026 18:00:56 +0200",
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -274,7 +235,7 @@
       "destacada": false,
       "tema": "moscú",
       "fecha": "Sat, 24 Oct 2026 17:04:27 +0200",
-      "id": 21
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -287,7 +248,7 @@
       "destacada": false,
       "tema": "nadie",
       "fecha": "Sat, 24 Oct 2026 14:57:00 +0200",
-      "id": 22
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -300,7 +261,7 @@
       "destacada": false,
       "tema": "encadena",
       "fecha": "Sat, 24 Oct 2026 13:26:11 +0200",
-      "id": 23
+      "id": 20
     },
     {
       "categoria": "salud",
@@ -313,7 +274,7 @@
       "destacada": false,
       "tema": "colgar",
       "fecha": "Sat, 24 Oct 2026 13:00:48 +0200",
-      "id": 24
+      "id": 21
     },
     {
       "categoria": "economia",
@@ -326,7 +287,7 @@
       "destacada": false,
       "tema": "profundiza",
       "fecha": "Sat, 24 Oct 2026 11:36:26 +0200",
-      "id": 25
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -339,7 +300,7 @@
       "destacada": false,
       "tema": "rubio",
       "fecha": "Sat, 24 Oct 2026 01:08:47 +0200",
-      "id": 26
+      "id": 23
     },
     {
       "categoria": "energia",
@@ -352,7 +313,7 @@
       "destacada": false,
       "tema": "escasez",
       "fecha": "Fri, 23 Oct 2026 22:55:27 +0200",
-      "id": 27
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -365,7 +326,7 @@
       "destacada": false,
       "tema": "cinco",
       "fecha": "Fri, 23 Oct 2026 20:47:18 +0200",
-      "id": 28
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -378,7 +339,20 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Fri, 23 Oct 2026 19:25:26 +0200",
-      "id": 29
+      "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 12:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481705.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Sat, 24 Oct 2026 12:00:00 -0400",
+      "id": 27
     },
     {
       "categoria": "salud",
@@ -391,7 +365,7 @@
       "destacada": false,
       "tema": "sheinbaum",
       "fecha": "Sat, 24 Oct 2026 10:58:38 -0400",
-      "id": 30
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -404,7 +378,20 @@
       "destacada": false,
       "tema": "abriendo",
       "fecha": "Sat, 24 Oct 2026 09:00:00 -0400",
-      "id": 31
+      "id": 29
+    },
+    {
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Denuncia Cuba ataque permanente a pilares de la ONU en su aniversario 81",
+      "resumen": "El ministro de Relaciones Exteriores, Bruno Rodríguez Parrilla, denunció este sábado que los pilares esenciales de la Organización de las Naciones Unidas se encuentran sometidos a un ataque permanente, al conmemorarse el aniversario 81 de la fundación del organismo multilateral, y llamó a preservarl",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/24/denuncia-cuba-ataque-permanente-a-pilares-de-la-onu-en-su-aniversario-81/",
+      "destacada": false,
+      "tema": "denuncia",
+      "fecha": "Sat, 24 Oct 2026 15:53:01 +0000",
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -417,7 +404,7 @@
       "destacada": false,
       "tema": "reafirma",
       "fecha": "Sat, 24 Oct 2026 15:14:01 +0000",
-      "id": 32
+      "id": 31
     },
     {
       "categoria": "economia",
@@ -430,7 +417,7 @@
       "destacada": false,
       "tema": "actual",
       "fecha": "Sat, 24 Oct 2026 08:28:55 +0000",
-      "id": 33
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -443,7 +430,7 @@
       "destacada": false,
       "tema": "última",
       "fecha": "Sat, 24 Oct 2026 08:20:25 +0000",
-      "id": 34
+      "id": 33
     },
     {
       "categoria": "politica",
@@ -456,7 +443,7 @@
       "destacada": false,
       "tema": "escritores",
       "fecha": "Sat, 24 Oct 2026 04:30:41 +0000",
-      "id": 35
+      "id": 34
     },
     {
       "categoria": "politica",
@@ -469,20 +456,7 @@
       "destacada": false,
       "tema": "reclutamientos",
       "fecha": "Sat, 24 Oct 2026 03:45:28 +0000",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Instituto de Meteorología desmiente falsa información sobre una Fase Informativa para las provincias orientales",
-      "resumen": "El Instituto de Meteorología de Cuba desmintió hoy una información que circula en las redes sociales sobre el supuesto decreto de una Fase Informativa de la Defensa Civil para las provincias orientales del país. La institución aclaró que no hay ninguna fase decretada por el Estado Mayor Nacional de ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/23/instituto-de-meteorologia-desmiente-falsa-informacion-sobre-una-fase-informativa-para-las-provincias-orientales/",
-      "destacada": false,
-      "tema": "instituto",
-      "fecha": "Sat, 24 Oct 2026 02:56:52 +0000",
-      "id": 37
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -495,7 +469,7 @@
       "destacada": false,
       "tema": "evocación",
       "fecha": "Sat, 24 Oct 26 14:12:00 +0200",
-      "id": 38
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -508,7 +482,7 @@
       "destacada": false,
       "tema": "pesar",
       "fecha": "Sat, 24 Oct 26 08:19:00 +0200",
-      "id": 39
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -521,7 +495,7 @@
       "destacada": false,
       "tema": "brutal",
       "fecha": "Sat, 24 Oct 26 08:16:00 +0200",
-      "id": 40
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -534,7 +508,7 @@
       "destacada": false,
       "tema": "fallar",
       "fecha": "Sat, 24 Oct 26 08:13:00 +0200",
-      "id": 41
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -547,7 +521,7 @@
       "destacada": false,
       "tema": "cuánto",
       "fecha": "Sat, 24 Oct 26 08:11:00 +0200",
-      "id": 42
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -560,7 +534,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Sat, 24 Oct 26 08:10:00 +0200",
-      "id": 43
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -573,7 +547,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Sat, 24 Oct 26 08:09:00 +0200",
-      "id": 44
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -586,7 +560,7 @@
       "destacada": false,
       "tema": "resistencia",
       "fecha": "Sat, 24 Oct 26 07:57:00 +0200",
-      "id": 45
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -599,20 +573,59 @@
       "destacada": false,
       "tema": "recibe",
       "fecha": "Sat, 24 Oct 26 07:52:00 +0200",
+      "id": 44
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "¡Harry Potter vuelve a La Habana Vieja!",
+      "resumen": "El venidero domingo se realizará en el Centro Histórico de La Habana Vieja la 4ta edición de la Convención anual Harry Potter, que vinculará el universo del personaje literario con el mundo mágico cubano, a través de juegos, concursos y actividades interactivas La entrada ¡Harry Potter vuelve a La H",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/harry-potter-vuelve-a-la-habana-vieja/",
+      "destacada": false,
+      "tema": "harry",
+      "fecha": "Fri, 23 Oct 2026 19:11:08 +0000",
+      "id": 45
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Hacer que el mercado de barrio cumpla su fin",
+      "resumen": "Los establecimientos pueden ser administrados por diferentes actores económicos autorizados, mediante procedimientos de licitación que mantienen la propiedad estatal de los inmuebles La entrada Hacer que el mercado de barrio cumpla su fin se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/hacer-que-el-mercado-de-barrio-cumpla-su-fin/",
+      "destacada": false,
+      "tema": "mercado",
+      "fecha": "Fri, 23 Oct 2026 18:38:11 +0000",
       "id": 46
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu/",
+      "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "oficial",
-      "titulo": "Cubanos en Nicaragua exigen fin de bloqueo de EEUU",
-      "resumen": "Managua, 24 oct (Prensa Latina) La comunidad de cubanos residentes en Nicaragua condenó hoy el bloqueo económico, comercial y financiero impuesto por Estados Unidos contra Cuba y reclamó el cese de esa política unilateral. The post Cubanos en Nicaragua exigen fin de bloqueo de EEUU first appeared on",
+      "titulo": "Evaluó PCC transformaciones en la Agricultura",
+      "resumen": "Miguel Díaz-Canel Bermúdez, Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, encabezó la clausura de la visita del Comité Central al Ministerio de la Agricultura y su sistema empresarial, como parte del seguimiento a la implementación de las 176 transf",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/24/cubanos-en-nicaragua-exigen-fin-de-bloqueo-de-eeuu/",
+      "enlace_original": "https://www.tribuna.cu/evaluo-pcc-transformaciones-en-la-agricultura/",
       "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Sat, 24 Oct 2026 15:15:36 +0000",
+      "tema": "evaluó",
+      "fecha": "Fri, 23 Oct 2026 17:39:58 +0000",
       "id": 47
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "oficial",
+      "titulo": "Inauguran en La Habana edición 27 del Festival de Cine Francés (+ Fotos)",
+      "resumen": "La nueva edición se inauguró con la exhibición del filme \"Los niños de la resistencia\" (2026), de Christophe Barrartier, director que ha mantenido sostenida presencia en varias ediciones del evento La entrada Inauguran en La Habana edición 27 del Festival de Cine Francés (+ Fotos) se publicó primero",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/inauguran-en-la-habana-edicion-27-del-festival-de-cine-frances-fotos/",
+      "destacada": false,
+      "tema": "inauguran",
+      "fecha": "Fri, 23 Oct 2026 17:00:28 +0000",
+      "id": 48
     },
     {
       "categoria": "salud",
@@ -625,7 +638,7 @@
       "destacada": false,
       "tema": "accidente",
       "fecha": "Sat, 24 Oct 2026 13:10:13 +0000",
-      "id": 48
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -638,7 +651,7 @@
       "destacada": false,
       "tema": "constata",
       "fecha": "Sat, 24 Oct 2026 12:52:18 +0000",
-      "id": 49
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -651,7 +664,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Sat, 24 Oct 2026 12:00:00 GMT",
-      "id": 50
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -664,7 +677,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Fri, 23 Oct 2026 22:19:39 GMT",
-      "id": 51
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -677,7 +690,7 @@
       "destacada": false,
       "tema": "reorganiza",
       "fecha": "Fri, 23 Oct 2026 18:00:00 GMT",
-      "id": 52
+      "id": 53
     }
   ]
 }
