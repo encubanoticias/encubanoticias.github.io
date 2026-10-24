@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-10-23",
-  "hora": "23:15",
-  "total": 63,
+  "fecha": "2026-10-24",
+  "hora": "00:17",
+  "total": 66,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -17,19 +17,6 @@
       "id": 1
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba rechaza toda amenaza relacionada con ambiciones de EE. UU. hacia la Isla",
-      "resumen": "El jefe de la diplomacia cubana aseguró que, quien llegue con sed de dominación a Mayor de las Antillas, encontrará un «entorno inhóspito»",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-23/cuba-rechaza-toda-amenaza-relacionada-con-ambiciones-de-ee-uu-hacia-la-isla-23-10-2026-18-10-21",
-      "destacada": true,
-      "tema": "rechaza",
-      "fecha": "Fri, 23 Oct 2026 18:10:21 -0400",
-      "id": 2
-    },
-    {
       "categoria": "politica",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
@@ -40,7 +27,59 @@
       "destacada": true,
       "tema": "vietnam",
       "fecha": "Fri, 23 Oct 2026 14:10:52 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Organizaciones panameñas demandan fin del bloqueo de EEUU a Cuba",
+      "resumen": "Ciudad de Panamá, 23 oct (Prensa Latina) Diversas organizaciones sociales de Panamá demandaron hoy a Estados Unidos poner fin al bloqueo impuesto a Cuba, en vísperas de que la Asamblea General de Naciones Unidas examine una nueva resolución sobre esa hostil política. The post Organizaciones panameña",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/23/organizaciones-panamenas-demandan-fin-del-bloqueo-de-eeuu-a-cuba/",
+      "destacada": true,
+      "tema": "organizaciones",
+      "fecha": "Sat, 24 Oct 2026 00:17:49 +0000",
       "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubanos en Dominicana condenan presiones de EEUU en la ONU",
+      "resumen": "Santo Domingo, 23 oct (Prensa Latina) La Asociación Máximo Gómez de Cubanos Residentes en Dominicana rechazó hoy las presiones de Estados Unidos a numerosos países para modificar su tradicional voto en la Asamblea General de las Naciones Unidas contra el bloqueo a Cuba. The post Cubanos en Dominican",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/23/cubanos-en-dominicana-condenan-presiones-de-eeuu-en-la-onu/",
+      "destacada": true,
+      "tema": "cubanos",
+      "fecha": "Sat, 24 Oct 2026 00:16:49 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Impulsa Cuba reestruturación del transporte para elevar eficiencia",
+      "resumen": "Holguín, Cuba, 23 oct (Prensa Latina) El viceministro cubano de Transporte, Marcos Bermúdez, evaluó hoy en esta provincia oriental la implementación de transformaciones estratégicas para potenciar la movilidad y el desarrollo social. The post Impulsa Cuba reestruturación del transporte para elevar e",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/23/impulsa-cuba-reestruturacion-del-transporte-para-elevar-eficiencia/",
+      "destacada": true,
+      "tema": "transporte",
+      "fecha": "Sat, 24 Oct 2026 00:01:47 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "alternativa",
+      "titulo": "Inauguran en Francia XVIII Encuentro de Cubanos Residentes en Europa",
+      "resumen": "París, 23 oct (Prensa Latina) Francia acogió hoy la inauguración del XVIII Encuentro de Cubanos Residentes en Europa (ECRE), acompañado del comienzo del IV Festival Cultural “Cuba conmigo” y una simbólica ceremonia de siembra de rosas en la embajada de Cuba. The post Inauguran en Francia XVIII Encue",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/23/inauguran-en-francia-xviii-encuentro-de-cubanos-residentes-en-europa/",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Fri, 23 Oct 2026 23:35:11 +0000",
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -50,10 +89,10 @@
       "resumen": "Pese a ampliar su flota de triciclos, las condiciones de trabajo son deplorables, aunque la situación en los otros barrios de la capital es mucho peor",
       "imagen_url": "https://static.14ymedio.com/clip/34adc991-2409-4532-9b8e-f32e7a94cd1e_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/recogiendo-basura-manos-habana-cara_1_1132336.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "recogiendo",
       "fecha": "Fri, 23 Oct 2026 19:50:19 +0000",
-      "id": 4
+      "id": 7
     },
     {
       "categoria": "economia",
@@ -63,10 +102,10 @@
       "resumen": "La inflación y el encarecimiento de la vida empujan a cada vez más ancianos cubanos a trabajar o desprenderse de sus pertenencias",
       "imagen_url": "https://static.14ymedio.com/clip/ee45d047-c192-4037-9ea9-a2b8a1c23160_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/ultima-muda-ropa-venta-habana_1_1132329.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "última",
       "fecha": "Fri, 23 Oct 2026 18:44:56 +0000",
-      "id": 5
+      "id": 8
     },
     {
       "categoria": "transporte",
@@ -79,7 +118,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Fri, 23 Oct 2026 20:56:27 +0000",
-      "id": 6
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -92,7 +131,7 @@
       "destacada": false,
       "tema": "despoja",
       "fecha": "Fri, 23 Oct 2026 20:34:27 +0000",
-      "id": 7
+      "id": 10
     },
     {
       "categoria": "economia",
@@ -105,7 +144,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 23 Oct 2026 17:01:50 +0000",
-      "id": 8
+      "id": 11
     },
     {
       "categoria": "politica",
@@ -118,123 +157,84 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Fri, 23 Oct 2026 10:12:29 +0000",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Marco Rubio llama públicamente a cubanos a colaborar «de forma discreta con la CIA» para crear el cambio en la isla",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e199894-s27061-nid343640-marco-rubio-llama-publicamente-cubanos-colaborar",
-      "destacada": false,
-      "tema": "marco",
-      "fecha": "Fri, 23 Oct 2026 23:20:52 +0200",
-      "id": 10
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Trump bromea con enviar portaviones a las costas de Cuba: «Levantarán las manos»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e135253-s27061-nid343638-trump-bromea-enviar-portaviones-costas-cuba",
-      "destacada": false,
-      "tema": "trump",
-      "fecha": "Fri, 23 Oct 2026 23:16:04 +0200",
-      "id": 11
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Trump sobre las negociaciones con Cuba: «Enviaremos a Marco Rubio para cerrar el trato»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e208574-s27061-nid343637-trump-negociaciones-cuba-enviaremos-marco-rubio",
-      "destacada": false,
-      "tema": "trump",
-      "fecha": "Fri, 23 Oct 2026 23:13:37 +0200",
       "id": 12
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "En una Habana destruida y llena de basura inauguran edición 27 del Festival de Cine Francés",
+      "titulo": "Cubana denuncia que encontró palos dentro de una mortadella en Moa",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e209395-s27061-nid343616-habana-destruida-llena-basura-inauguran-edicion-27",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e209363-s27061-nid343634-cubana-denuncia-encontro-palos-dentro-mortadella-moa",
       "destacada": false,
-      "tema": "habana",
-      "fecha": "Fri, 23 Oct 2026 23:08:43 +0200",
+      "tema": "cubana",
+      "fecha": "Sat, 24 Oct 2026 00:30:20 +0200",
       "id": 13
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "«Era lo que nos faltaba para pagar la casa»: Ayudan a una cubana que vende comida en Nicaragua",
+      "titulo": "Prensa de Emiratos descubre la Cuba árabe: el museo de La Habana que guarda la huella de los inmigrantes del Levante",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e74-s27061-nid343631-era-nos-faltaba-pagar-casa-ayudan-cubana-vende-comida",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e199894-s27061-nid343646-prensa-emiratos-descubre-cuba-arabe-museo-habana",
       "destacada": false,
-      "tema": "faltaba",
-      "fecha": "Fri, 23 Oct 2026 23:07:55 +0200",
+      "tema": "prensa",
+      "fecha": "Sat, 24 Oct 2026 00:28:48 +0200",
       "id": 14
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba retrocede en libertad de internet: Freedom House le da 19 puntos de 100",
+      "titulo": "ICE ratifica multas por no salir de EE.UU.: cubanos sancionados tienen un plazo de 21 días para reclamar",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e199894-s27061-nid343617-cuba-retrocede-libertad-internet-freedom-house-le-da",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e135253-s27061-nid343647-ice-ratifica-multas-salir-eeuu-cubanos-sancionados",
       "destacada": false,
-      "tema": "retrocede",
-      "fecha": "Fri, 23 Oct 2026 23:04:32 +0200",
+      "tema": "ratifica",
+      "fecha": "Sat, 24 Oct 2026 00:28:41 +0200",
       "id": 15
     },
     {
-      "categoria": "sociedad",
+      "categoria": "transporte",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Marco Rubio lanza contundente mensaje sobre Cuba: «Este es el momento»",
+      "titulo": "Lluvias intensas amenazan al oriente de Cuba con riesgo de inundaciones y deslizamientos",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e208574-s27061-nid343635-marco-rubio-lanza-contundente-mensaje-cuba-este",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e209363-s27061-nid343642-lluvias-intensas-amenazan-al-oriente-cuba-riesgo",
       "destacada": false,
-      "tema": "marco",
-      "fecha": "Fri, 23 Oct 2026 23:00:52 +0200",
+      "tema": "lluvias",
+      "fecha": "Sat, 24 Oct 2026 00:11:24 +0200",
       "id": 16
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "«Vamos a regresar de Irán, esos hermosos barcos pasarán por Cuba»: Trump vuelve a hablar de la Isla",
+      "titulo": "El Décimo Circuito limita nuevas detenciones de ICE tras orden final: Claves para cubanos bajo supervisión",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e135253-s27061-nid343630-vamos-regresar-iran-esos-hermosos-barcos-pasaran",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e208574-s27061-nid343645-decimo-circuito-limita-nuevas-detenciones-ice-tras",
       "destacada": false,
-      "tema": "vamos",
-      "fecha": "Fri, 23 Oct 2026 22:35:13 +0200",
+      "tema": "décimo",
+      "fecha": "Sat, 24 Oct 2026 00:10:31 +0200",
       "id": 17
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Santiago de Cuba anuncia multas de hasta 100 mil pesos a negocios que no acepten transferencias",
-      "resumen": "",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "#Podcast «A contracorriente». Capítulo 54. «La formación de realizadores audiovisuales en Cuba»",
+      "resumen": "¿Existen academias para la formación de realizadores audiovisuales en nuestro país?. ¿Cómo contribuir, desde la formación, a la transformación estética del audiovisual producido en la Isla?. Estas y otras preguntas encuentran respuesta en el diálogo entre el realizador audiovisual Waldo Ramírez de l",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-23-u1-e135253-s27061-nid343628-santiago-cuba-anuncia-multas-100-mil-pesos-negocios",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/podcast-a-contracorriente-capitulo-54-la-formacion-de-realizadores-audiovisuales-en-cuba/",
       "destacada": false,
-      "tema": "santiago",
-      "fecha": "Fri, 23 Oct 2026 22:22:47 +0200",
+      "tema": "podcast",
+      "fecha": "Fri, 23 Oct 2026 23:42:58 +0000",
       "id": 18
     },
     {
@@ -410,6 +410,19 @@
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 8:00 PM",
+      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481616.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Fri, 23 Oct 2026 20:00:00 -0400",
+      "id": 32
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
       "titulo": "¿Arrendamiento o reorganización de GAESA? Las dudas que genera la licitación de Cimex",
       "resumen": "El MINCIN abrió en Cuba una licitación para arrendar al sector privado más de 170 locales estatales y de Cimex, bajo la Resolución 40 de 2022.",
       "imagen_url": "",
@@ -417,7 +430,7 @@
       "destacada": false,
       "tema": "arrendamiento",
       "fecha": "Fri, 23 Oct 2026 19:15:43 -0400",
-      "id": 32
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -430,7 +443,7 @@
       "destacada": false,
       "tema": "legisladores",
       "fecha": "Fri, 23 Oct 2026 18:35:11 -0400",
-      "id": 33
+      "id": 34
     },
     {
       "categoria": "energia",
@@ -443,7 +456,7 @@
       "destacada": false,
       "tema": "crisis",
       "fecha": "Fri, 23 Oct 2026 18:29:51 -0400",
-      "id": 34
+      "id": 35
     },
     {
       "categoria": "politica",
@@ -456,7 +469,7 @@
       "destacada": false,
       "tema": "legisladores",
       "fecha": "Fri, 23 Oct 2026 17:40:43 -0400",
-      "id": 35
+      "id": 36
     },
     {
       "categoria": "transporte",
@@ -469,7 +482,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Fri, 23 Oct 2026 17:15:19 -0400",
-      "id": 36
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -482,7 +495,7 @@
       "destacada": false,
       "tema": "rubio",
       "fecha": "Fri, 23 Oct 2026 17:11:59 -0400",
-      "id": 37
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -495,7 +508,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Fri, 23 Oct 2026 17:00:30 -0400",
-      "id": 38
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -508,7 +521,7 @@
       "destacada": false,
       "tema": "furioso",
       "fecha": "Fri, 23 Oct 2026 21:49:55 +0000",
-      "id": 39
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -521,7 +534,7 @@
       "destacada": false,
       "tema": "raíces",
       "fecha": "Fri, 23 Oct 2026 21:05:32 +0000",
-      "id": 40
+      "id": 41
     },
     {
       "categoria": "transporte",
@@ -534,7 +547,7 @@
       "destacada": false,
       "tema": "autoridades",
       "fecha": "Fri, 23 Oct 2026 20:05:32 +0000",
-      "id": 41
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -547,7 +560,7 @@
       "destacada": false,
       "tema": "redonda",
       "fecha": "Fri, 23 Oct 2026 18:48:57 +0000",
-      "id": 42
+      "id": 43
     },
     {
       "categoria": "salud",
@@ -560,7 +573,7 @@
       "destacada": false,
       "tema": "accidente",
       "fecha": "Fri, 23 Oct 2026 16:35:28 +0000",
-      "id": 43
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -573,7 +586,7 @@
       "destacada": false,
       "tema": "presidente",
       "fecha": "Fri, 23 Oct 2026 15:32:44 +0000",
-      "id": 44
+      "id": 45
     },
     {
       "categoria": "salud",
@@ -586,7 +599,7 @@
       "destacada": false,
       "tema": "cajas",
       "fecha": "Fri, 23 Oct 26 20:50:00 +0200",
-      "id": 45
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -599,7 +612,7 @@
       "destacada": false,
       "tema": "largometraje",
       "fecha": "Fri, 23 Oct 26 20:29:00 +0200",
-      "id": 46
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -612,7 +625,7 @@
       "destacada": false,
       "tema": "necesidad",
       "fecha": "Fri, 23 Oct 26 20:22:00 +0200",
-      "id": 47
+      "id": 48
     },
     {
       "categoria": "energia",
@@ -625,7 +638,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 23 Oct 26 20:17:00 +0200",
-      "id": 48
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -638,7 +651,7 @@
       "destacada": false,
       "tema": "casal",
       "fecha": "Fri, 23 Oct 26 15:44:00 +0200",
-      "id": 49
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -651,7 +664,7 @@
       "destacada": false,
       "tema": "rusia",
       "fecha": "Fri, 23 Oct 26 08:18:00 +0200",
-      "id": 50
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -664,7 +677,7 @@
       "destacada": false,
       "tema": "batalla",
       "fecha": "Fri, 23 Oct 26 07:52:00 +0200",
-      "id": 51
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -677,7 +690,7 @@
       "destacada": false,
       "tema": "exposición",
       "fecha": "Fri, 23 Oct 26 07:50:00 +0200",
-      "id": 52
+      "id": 53
     },
     {
       "categoria": "transporte",
@@ -690,7 +703,7 @@
       "destacada": false,
       "tema": "todavía",
       "fecha": "Fri, 23 Oct 26 07:39:00 +0200",
-      "id": 53
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -703,7 +716,33 @@
       "destacada": false,
       "tema": "podemos",
       "fecha": "Fri, 23 Oct 26 07:06:00 +0200",
-      "id": 54
+      "id": 55
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://actualidad.rt.com",
+      "fuente_tipo": "internacional",
+      "titulo": "Díaz-Canel se pronuncia sobre las nuevas intimidaciones de Trump a Cuba",
+      "resumen": "\"El gobierno de EE.UU deja claro que no renuncia a sus ambiciones de dominación sobre Cuba\", señaló el mandatario.",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adbf605e9ff71338c113368.jpg",
+      "enlace_original": "https://actualidad-rt.com/actualidad/633982-diaz-canel-pronuncia-nuevas-intimidaciones?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "destacada": false,
+      "tema": "canel",
+      "fecha": "Fri, 23 Oct 2026 23:55:52 +0000",
+      "id": 56
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://actualidad.rt.com",
+      "fuente_tipo": "internacional",
+      "titulo": "Díaz-Canel evalúa acciones en zona de defensa cercana a La Habana, entre amenazas de Trump",
+      "resumen": "El presidente estadounidense, Donald Trump, amenazó esta jornada con enviar un barco de guerra a las costas cubanas para forzar \"un acuerdo\".",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adbf03fe9ff7135a569d5a1.jpg",
+      "enlace_original": "https://actualidad-rt.com/actualidad/633970-diaz-canel-evaluar-acciones-zona-defensa?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "destacada": false,
+      "tema": "canel",
+      "fecha": "Fri, 23 Oct 2026 23:44:34 +0000",
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -716,7 +755,7 @@
       "destacada": false,
       "tema": "harry",
       "fecha": "Fri, 23 Oct 2026 19:11:08 +0000",
-      "id": 55
+      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -729,7 +768,7 @@
       "destacada": false,
       "tema": "mercado",
       "fecha": "Fri, 23 Oct 2026 18:38:11 +0000",
-      "id": 56
+      "id": 59
     },
     {
       "categoria": "sociedad",
@@ -742,7 +781,7 @@
       "destacada": false,
       "tema": "evaluó",
       "fecha": "Fri, 23 Oct 2026 17:39:58 +0000",
-      "id": 57
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -755,7 +794,7 @@
       "destacada": false,
       "tema": "inauguran",
       "fecha": "Fri, 23 Oct 2026 17:00:28 +0000",
-      "id": 58
+      "id": 61
     },
     {
       "categoria": "sociedad",
@@ -768,7 +807,7 @@
       "destacada": false,
       "tema": "estampas",
       "fecha": "Fri, 23 Oct 2026 15:29:38 +0000",
-      "id": 59
+      "id": 62
     },
     {
       "categoria": "transporte",
@@ -781,7 +820,7 @@
       "destacada": false,
       "tema": "industriales",
       "fecha": "Fri, 23 Oct 2026 14:56:28 +0000",
-      "id": 60
+      "id": 63
     },
     {
       "categoria": "sociedad",
@@ -794,7 +833,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Fri, 23 Oct 2026 22:19:39 GMT",
-      "id": 61
+      "id": 64
     },
     {
       "categoria": "sociedad",
@@ -807,7 +846,7 @@
       "destacada": false,
       "tema": "reorganiza",
       "fecha": "Fri, 23 Oct 2026 18:00:00 GMT",
-      "id": 62
+      "id": 65
     },
     {
       "categoria": "sociedad",
@@ -820,7 +859,7 @@
       "destacada": false,
       "tema": "destierro",
       "fecha": "Fri, 23 Oct 2026 11:00:00 GMT",
-      "id": 63
+      "id": 66
     }
   ]
 }
