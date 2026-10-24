@@ -1,21 +1,8 @@
 {
   "fecha": "2026-10-24",
-  "hora": "07:27",
-  "total": 49,
+  "hora": "09:16",
+  "total": 51,
   "noticias": [
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Es también un crimen no impugnar al bloqueo que abruma y mata",
-      "resumen": "No es solo que exista el bloqueo, sino que este constituye un peso tan grande sobre un pueblo, que se convierte en carga que solo puede afrontarse por titanes de la resistencia",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba-no-es-una-amenaza/2026-10-23/es-tambien-un-crimen-no-impugnar-al-bloqueo-que-abruma-y-mata-23-10-2026-09-10-07",
-      "destacada": true,
-      "tema": "también",
-      "fecha": "Fri, 23 Oct 2026 09:10:07 -0400",
-      "id": 1
-    },
     {
       "categoria": "politica",
       "fuente": "https://www.granma.cu",
@@ -27,7 +14,7 @@
       "destacada": true,
       "tema": "vietnam",
       "fecha": "Fri, 23 Oct 2026 14:10:52 -0400",
-      "id": 2
+      "id": 1
     },
     {
       "categoria": "sociedad",
@@ -40,7 +27,7 @@
       "destacada": true,
       "tema": "recogiendo",
       "fecha": "Fri, 23 Oct 2026 19:50:19 +0000",
-      "id": 3
+      "id": 2
     },
     {
       "categoria": "economia",
@@ -53,7 +40,7 @@
       "destacada": true,
       "tema": "última",
       "fecha": "Fri, 23 Oct 2026 18:44:56 +0000",
-      "id": 4
+      "id": 3
     },
     {
       "categoria": "transporte",
@@ -66,7 +53,7 @@
       "destacada": true,
       "tema": "trump",
       "fecha": "Fri, 23 Oct 2026 20:56:27 +0000",
-      "id": 5
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -76,10 +63,10 @@
       "resumen": "Milagros Marileisis Acosta aceptó su culpa y ha sido condenada a seis meses de prisión y 36 meses de libertad supervisada",
       "imagen_url": "https://static.14ymedio.com/clip/d952e643-050a-40ce-94ed-eddd01580865_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/migracion/ee-uu-despoja-nacionalidad-mujer_1_1132333.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "despoja",
       "fecha": "Fri, 23 Oct 2026 20:34:27 +0000",
-      "id": 6
+      "id": 5
     },
     {
       "categoria": "economia",
@@ -92,7 +79,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 23 Oct 2026 17:01:50 +0000",
-      "id": 7
+      "id": 6
     },
     {
       "categoria": "politica",
@@ -105,7 +92,72 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Fri, 23 Oct 2026 10:12:29 +0000",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Presentarán en Buenos Aires cortos restaurados de Nicolás Guillén Landrián, cineasta cubano víctima del régimen",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e209395-s27061-nid343629-presentaran-buenos-aires-cortos-restaurados-nicolas",
+      "destacada": false,
+      "tema": "presentarán",
+      "fecha": "Sat, 24 Oct 2026 07:21:16 +0200",
       "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubanos condenados a entre 4 y 5 años de prisión por comercializar antenas Starlink en Santa Clara",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e209395-s27061-nid343658-cubanos-condenados-4-5-anos-prision-comercializar",
+      "destacada": false,
+      "tema": "cubanos",
+      "fecha": "Sat, 24 Oct 2026 06:43:50 +0200",
+      "id": 9
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«No nos podemos cansar», dice Díaz-Canel en Los Sitios y cubanos responden en redes: «Basta de represores»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e209395-s27061-nid343660-nos-podemos-cansar-dice-diaz-canel-sitios-cubanos",
+      "destacada": false,
+      "tema": "podemos",
+      "fecha": "Sat, 24 Oct 2026 06:01:09 +0200",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Diseñador cubano relata avatares de supervivencia: «Fuimos a parar, de golpe, al Paleolítico»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e209395-s27061-nid343662-disenador-cubano-relata-avatares-supervivencia",
+      "destacada": false,
+      "tema": "diseñador",
+      "fecha": "Sat, 24 Oct 2026 04:59:59 +0200",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Padre de cubano deportado a África publica un libro que relata la odisea de su hijo desde Cuba hasta Bangui",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e199894-s27061-nid343661-padre-cubano-deportado-africa-publica-libro-relata",
+      "destacada": false,
+      "tema": "padre",
+      "fecha": "Sat, 24 Oct 2026 04:54:31 +0200",
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -118,7 +170,7 @@
       "destacada": false,
       "tema": "podcast",
       "fecha": "Fri, 23 Oct 2026 23:42:58 +0000",
-      "id": 9
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -131,7 +183,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Fri, 23 Oct 2026 19:54:39 +0000",
-      "id": 10
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -144,7 +196,7 @@
       "destacada": false,
       "tema": "empezó",
       "fecha": "Fri, 23 Oct 2026 20:00:56 +0000",
-      "id": 11
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -157,7 +209,7 @@
       "destacada": false,
       "tema": "debates",
       "fecha": "Fri, 23 Oct 2026 19:30:45 +0000",
-      "id": 12
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -170,7 +222,7 @@
       "destacada": false,
       "tema": "pueblo",
       "fecha": "Fri, 23 Oct 2026 19:07:23 +0000",
-      "id": 13
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -183,7 +235,7 @@
       "destacada": false,
       "tema": "inventiva",
       "fecha": "Fri, 23 Oct 2026 15:07:23 +0000",
-      "id": 14
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -196,7 +248,7 @@
       "destacada": false,
       "tema": "rubio",
       "fecha": "Sat, 24 Oct 2026 01:08:47 +0200",
-      "id": 15
+      "id": 19
     },
     {
       "categoria": "energia",
@@ -209,7 +261,7 @@
       "destacada": false,
       "tema": "escasez",
       "fecha": "Fri, 23 Oct 2026 22:55:27 +0200",
-      "id": 16
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -222,7 +274,7 @@
       "destacada": false,
       "tema": "cinco",
       "fecha": "Fri, 23 Oct 2026 20:47:18 +0200",
-      "id": 17
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -235,7 +287,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Fri, 23 Oct 2026 19:25:26 +0200",
-      "id": 18
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -248,7 +300,7 @@
       "destacada": false,
       "tema": "perdido",
       "fecha": "Fri, 23 Oct 2026 18:05:44 +0200",
-      "id": 19
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -261,7 +313,7 @@
       "destacada": false,
       "tema": "ayuda",
       "fecha": "Fri, 23 Oct 2026 17:43:27 +0200",
-      "id": 20
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -274,7 +326,7 @@
       "destacada": false,
       "tema": "editorial",
       "fecha": "Fri, 23 Oct 2026 17:23:41 +0200",
-      "id": 21
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -287,59 +339,33 @@
       "destacada": false,
       "tema": "avería",
       "fecha": "Fri, 23 Oct 2026 14:25:22 +0200",
-      "id": 22
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481672.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Sat, 24 Oct 2026 00:00:30 -0400",
-      "id": 23
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La CIA publica una guía para contactarla de forma segura tras el llamado de Rubio a los cubanos",
-      "resumen": "La publicación se produjo después de que el secretario de Estado, Marco Rubio, alentara este viernes a quienes buscan un cambio en Cuba a colaborar discretamente con la agencia.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/la-cia-publica-una-gu%c3%ada-para-contactarla-de-forma-segura-tras-el-llamado-de-rubio-a-los-cubanos/482727.html",
-      "destacada": false,
-      "tema": "publica",
-      "fecha": "Fri, 23 Oct 2026 22:18:46 -0400",
-      "id": 24
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El encausamiento de Raúl Castro",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482569.html",
-      "destacada": false,
-      "tema": "encausamiento",
-      "fecha": "Fri, 23 Oct 2026 21:00:00 -0400",
-      "id": 25
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Barbacoa de Pepe",
-      "resumen": "La Barbacoa de Pepe es un muestrario de la nostalgia cubana con datos y curiosidades de los temas más variados, para la audiencia cubana. También trataremos temas internacionales y locales, siempre con el fin de educar al Cubano de la Isla. Con la elocuencia de Pepe Forte.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481617.html",
-      "destacada": false,
-      "tema": "barbacoa",
-      "fecha": "Fri, 23 Oct 2026 21:00:00 -0400",
       "id": 26
+    },
+    {
+      "categoria": "economia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Sobre el actual proceso inflacionario y las regulaciones estatales de precios",
+      "resumen": "El acelerado alza de varios precios claves para la vida y la reintroducción de regulaciones estatales de precios en determinadas regiones del país, ha vuelto a poner el tema de la inflación y los topes de precio en el centro del debate económico cubano. The post Sobre el actual proceso inflacionario",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/24/sobre-el-actual-proceso-inflacionario-y-las-regulaciones-estatales-de-precios/",
+      "destacada": false,
+      "tema": "actual",
+      "fecha": "Sat, 24 Oct 2026 08:28:55 +0000",
+      "id": 27
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La última orden del Agente General Luis",
+      "resumen": "El 11 de marzo de 1899, la Asamblea de Representantes de Cuba tomó una decisión que estremeció el país: destituir a Máximo Gómez como General en Jefe del Ejército Libertador. La medida, fruto de un conflicto sobre un empréstito que la Asamblea gestionaba con EE.UU. para licenciar a las tropas, fue i",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/24/la-ultima-orden-del-agente-general-luis/",
+      "destacada": false,
+      "tema": "última",
+      "fecha": "Sat, 24 Oct 2026 08:20:25 +0000",
+      "id": 28
     },
     {
       "categoria": "politica",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "escritores",
       "fecha": "Sat, 24 Oct 2026 04:30:41 +0000",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "politica",
@@ -365,7 +391,7 @@
       "destacada": false,
       "tema": "reclutamientos",
       "fecha": "Sat, 24 Oct 2026 03:45:28 +0000",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -378,7 +404,7 @@
       "destacada": false,
       "tema": "instituto",
       "fecha": "Sat, 24 Oct 2026 02:56:52 +0000",
-      "id": 29
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -391,7 +417,7 @@
       "destacada": false,
       "tema": "vence",
       "fecha": "Sat, 24 Oct 2026 02:54:00 +0000",
-      "id": 30
+      "id": 32
     },
     {
       "categoria": "politica",
@@ -404,20 +430,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sat, 24 Oct 2026 01:11:10 +0000",
-      "id": 31
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "¿A quién afectan las medidas de Estados Unidos contra los emprendedores cubanos?",
-      "resumen": "Si las medidas de EE.UU. contra Cuba pretenden presionar a las autoridades, ¿qué ocurre cuando sus consecuencias recaen también sobre quienes emprenden y trabajan en el sector privado? Compartimos una publicación de Revolución Latina que pone sobre la mesa el debate sobre el alcance de las medidas c",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/23/a-quien-afectan-las-medidas-de-estados-unidos-contra-los-emprendedores-cubanos/",
-      "destacada": false,
-      "tema": "quién",
-      "fecha": "Sat, 24 Oct 2026 00:53:07 +0000",
-      "id": 32
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -430,7 +443,7 @@
       "destacada": false,
       "tema": "pesar",
       "fecha": "Sat, 24 Oct 26 08:19:00 +0200",
-      "id": 33
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -443,7 +456,7 @@
       "destacada": false,
       "tema": "brutal",
       "fecha": "Sat, 24 Oct 26 08:16:00 +0200",
-      "id": 34
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -456,7 +469,7 @@
       "destacada": false,
       "tema": "fallar",
       "fecha": "Sat, 24 Oct 26 08:13:00 +0200",
-      "id": 35
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -469,7 +482,7 @@
       "destacada": false,
       "tema": "cuánto",
       "fecha": "Sat, 24 Oct 26 08:11:00 +0200",
-      "id": 36
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -482,7 +495,20 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Sat, 24 Oct 26 08:10:00 +0200",
-      "id": 37
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "¿A quién afectan las medidas de Estados Unidos contra las y los emprendedores de Cuba?",
+      "resumen": "Cubadebate Una publicación de la cuenta de Instagram Revolución Latina (@revolucionlat) cuestiona ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125692-a-quien-afectan-las-medidas-de-estados-unidos-contra-las-y-los-emprendedores-de-cuba.jpg?t=1792822213",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261024/125692/125692-a-quien-afectan-las-medidas-de-estados-unidos-contra-las-y-los-emprendedores-de-cuba",
+      "destacada": false,
+      "tema": "quién",
+      "fecha": "Sat, 24 Oct 26 08:09:00 +0200",
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -495,7 +521,7 @@
       "destacada": false,
       "tema": "resistencia",
       "fecha": "Sat, 24 Oct 26 07:57:00 +0200",
-      "id": 38
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -508,7 +534,7 @@
       "destacada": false,
       "tema": "recibe",
       "fecha": "Sat, 24 Oct 26 07:52:00 +0200",
-      "id": 39
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -521,7 +547,7 @@
       "destacada": false,
       "tema": "transformaciones",
       "fecha": "Sat, 24 Oct 26 07:50:00 +0200",
-      "id": 40
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -534,7 +560,7 @@
       "destacada": false,
       "tema": "harry",
       "fecha": "Fri, 23 Oct 2026 19:11:08 +0000",
-      "id": 41
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -547,7 +573,7 @@
       "destacada": false,
       "tema": "mercado",
       "fecha": "Fri, 23 Oct 2026 18:38:11 +0000",
-      "id": 42
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -560,7 +586,7 @@
       "destacada": false,
       "tema": "evaluó",
       "fecha": "Fri, 23 Oct 2026 17:39:58 +0000",
-      "id": 43
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -573,7 +599,7 @@
       "destacada": false,
       "tema": "inauguran",
       "fecha": "Fri, 23 Oct 2026 17:00:28 +0000",
-      "id": 44
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -586,7 +612,7 @@
       "destacada": false,
       "tema": "estampas",
       "fecha": "Fri, 23 Oct 2026 15:29:38 +0000",
-      "id": 45
+      "id": 47
     },
     {
       "categoria": "transporte",
@@ -599,7 +625,7 @@
       "destacada": false,
       "tema": "industriales",
       "fecha": "Fri, 23 Oct 2026 14:56:28 +0000",
-      "id": 46
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -612,7 +638,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Fri, 23 Oct 2026 22:19:39 GMT",
-      "id": 47
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -625,7 +651,7 @@
       "destacada": false,
       "tema": "reorganiza",
       "fecha": "Fri, 23 Oct 2026 18:00:00 GMT",
-      "id": 48
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -638,7 +664,7 @@
       "destacada": false,
       "tema": "destierro",
       "fecha": "Fri, 23 Oct 2026 11:00:00 GMT",
-      "id": 49
+      "id": 51
     }
   ]
 }
