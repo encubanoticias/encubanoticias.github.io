@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-24",
-  "hora": "00:17",
-  "total": 66,
+  "hora": "01:31",
+  "total": 58,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -70,19 +70,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "alternativa",
-      "titulo": "Inauguran en Francia XVIII Encuentro de Cubanos Residentes en Europa",
-      "resumen": "París, 23 oct (Prensa Latina) Francia acogió hoy la inauguración del XVIII Encuentro de Cubanos Residentes en Europa (ECRE), acompañado del comienzo del IV Festival Cultural “Cuba conmigo” y una simbólica ceremonia de siembra de rosas en la embajada de Cuba. The post Inauguran en Francia XVIII Encue",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/23/inauguran-en-francia-xviii-encuentro-de-cubanos-residentes-en-europa/",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Fri, 23 Oct 2026 23:35:11 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
       "titulo": "Recogiendo basura con las manos en La Habana, la otra cara del proyecto piloto El Rampeño",
@@ -92,7 +79,7 @@
       "destacada": false,
       "tema": "recogiendo",
       "fecha": "Fri, 23 Oct 2026 19:50:19 +0000",
-      "id": 7
+      "id": 6
     },
     {
       "categoria": "economia",
@@ -105,7 +92,7 @@
       "destacada": false,
       "tema": "última",
       "fecha": "Fri, 23 Oct 2026 18:44:56 +0000",
-      "id": 8
+      "id": 7
     },
     {
       "categoria": "transporte",
@@ -118,7 +105,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Fri, 23 Oct 2026 20:56:27 +0000",
-      "id": 9
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -131,7 +118,7 @@
       "destacada": false,
       "tema": "despoja",
       "fecha": "Fri, 23 Oct 2026 20:34:27 +0000",
-      "id": 10
+      "id": 9
     },
     {
       "categoria": "economia",
@@ -144,7 +131,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 23 Oct 2026 17:01:50 +0000",
-      "id": 11
+      "id": 10
     },
     {
       "categoria": "politica",
@@ -157,7 +144,33 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Fri, 23 Oct 2026 10:12:29 +0000",
+      "id": 11
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Cuando me paguen en dólares la jubilación compraré»: cubanos reaccionan a promoción de tienda en USD",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e209395-s27061-nid343639-cuando-me-paguen-dolares-jubilacion-comprare-cubanos",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Sat, 24 Oct 2026 02:25:10 +0200",
       "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubano dispara contra su expareja en Kendall y luego se quita la vida: Ella había solicitado orden de protección pero se la negaron",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e208574-s27061-nid343650-cubano-dispara-contra-expareja-kendall-luego-quita",
+      "destacada": false,
+      "tema": "cubano",
+      "fecha": "Sat, 24 Oct 2026 01:40:46 +0200",
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -170,7 +183,7 @@
       "destacada": false,
       "tema": "cubana",
       "fecha": "Sat, 24 Oct 2026 00:30:20 +0200",
-      "id": 13
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -183,7 +196,7 @@
       "destacada": false,
       "tema": "prensa",
       "fecha": "Sat, 24 Oct 2026 00:28:48 +0200",
-      "id": 14
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -196,33 +209,7 @@
       "destacada": false,
       "tema": "ratifica",
       "fecha": "Sat, 24 Oct 2026 00:28:41 +0200",
-      "id": 15
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Lluvias intensas amenazan al oriente de Cuba con riesgo de inundaciones y deslizamientos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e209363-s27061-nid343642-lluvias-intensas-amenazan-al-oriente-cuba-riesgo",
-      "destacada": false,
-      "tema": "lluvias",
-      "fecha": "Sat, 24 Oct 2026 00:11:24 +0200",
       "id": 16
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El Décimo Circuito limita nuevas detenciones de ICE tras orden final: Claves para cubanos bajo supervisión",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-24-u1-e208574-s27061-nid343645-decimo-circuito-limita-nuevas-detenciones-ice-tras",
-      "destacada": false,
-      "tema": "décimo",
-      "fecha": "Sat, 24 Oct 2026 00:10:31 +0200",
-      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -235,7 +222,7 @@
       "destacada": false,
       "tema": "podcast",
       "fecha": "Fri, 23 Oct 2026 23:42:58 +0000",
-      "id": 18
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -248,7 +235,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Fri, 23 Oct 2026 19:54:39 +0000",
-      "id": 19
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -261,7 +248,7 @@
       "destacada": false,
       "tema": "empezó",
       "fecha": "Fri, 23 Oct 2026 20:00:56 +0000",
-      "id": 20
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -274,7 +261,7 @@
       "destacada": false,
       "tema": "debates",
       "fecha": "Fri, 23 Oct 2026 19:30:45 +0000",
-      "id": 21
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -287,7 +274,7 @@
       "destacada": false,
       "tema": "pueblo",
       "fecha": "Fri, 23 Oct 2026 19:07:23 +0000",
-      "id": 22
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -300,7 +287,7 @@
       "destacada": false,
       "tema": "inventiva",
       "fecha": "Fri, 23 Oct 2026 15:07:23 +0000",
-      "id": 23
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -313,7 +300,7 @@
       "destacada": false,
       "tema": "rubio",
       "fecha": "Sat, 24 Oct 2026 01:08:47 +0200",
-      "id": 24
+      "id": 23
     },
     {
       "categoria": "energia",
@@ -326,7 +313,7 @@
       "destacada": false,
       "tema": "escasez",
       "fecha": "Fri, 23 Oct 2026 22:55:27 +0200",
-      "id": 25
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -339,7 +326,7 @@
       "destacada": false,
       "tema": "cinco",
       "fecha": "Fri, 23 Oct 2026 20:47:18 +0200",
-      "id": 26
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -352,7 +339,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Fri, 23 Oct 2026 19:25:26 +0200",
-      "id": 27
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -365,7 +352,7 @@
       "destacada": false,
       "tema": "perdido",
       "fecha": "Fri, 23 Oct 2026 18:05:44 +0200",
-      "id": 28
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -378,7 +365,7 @@
       "destacada": false,
       "tema": "ayuda",
       "fecha": "Fri, 23 Oct 2026 17:43:27 +0200",
-      "id": 29
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -391,7 +378,7 @@
       "destacada": false,
       "tema": "editorial",
       "fecha": "Fri, 23 Oct 2026 17:23:41 +0200",
-      "id": 30
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -404,111 +391,46 @@
       "destacada": false,
       "tema": "avería",
       "fecha": "Fri, 23 Oct 2026 14:25:22 +0200",
-      "id": 31
+      "id": 30
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 8:00 PM",
-      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
+      "titulo": "La Barbacoa de Pepe",
+      "resumen": "La Barbacoa de Pepe es un muestrario de la nostalgia cubana con datos y curiosidades de los temas más variados, para la audiencia cubana. También trataremos temas internacionales y locales, siempre con el fin de educar al Cubano de la Isla. Con la elocuencia de Pepe Forte.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481616.html",
+      "enlace_original": "https://www.martinoticias.com/a/481617.html",
       "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Fri, 23 Oct 2026 20:00:00 -0400",
+      "tema": "barbacoa",
+      "fecha": "Fri, 23 Oct 2026 21:00:00 -0400",
+      "id": 31
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La respuesta de Cuba a la más reciente amenaza de Trump",
+      "resumen": "El ministro de Relaciones Exteriores, Bruno Rodríguez Parrrilla, rechazó categóricamente “toda amenaza de EE.UU.” hacia Cuba, luego de que el presidente estadounidense, Donald Trump, afirmara este 23 de octubre que enviará un buque de guerra a las proximidades de la isla –una vez concluyan sus opera",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/23/la-respuesta-de-cuba-a-la-mas-reciente-amenaza-de-trump/",
+      "destacada": false,
+      "tema": "respuesta",
+      "fecha": "Sat, 24 Oct 2026 01:11:10 +0000",
       "id": 32
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Arrendamiento o reorganización de GAESA? Las dudas que genera la licitación de Cimex",
-      "resumen": "El MINCIN abrió en Cuba una licitación para arrendar al sector privado más de 170 locales estatales y de Cimex, bajo la Resolución 40 de 2022.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "¿A quién afectan las medidas de Estados Unidos contra los emprendedores cubanos?",
+      "resumen": "Si las medidas de EE.UU. contra Cuba pretenden presionar a las autoridades, ¿qué ocurre cuando sus consecuencias recaen también sobre quienes emprenden y trabajan en el sector privado? Compartimos una publicación de Revolución Latina que pone sobre la mesa el debate sobre el alcance de las medidas c",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/arrendamiento-o-reorganizaci%c3%b3n-de-gaesa-las-dudas-que-genera-la-licitaci%c3%b3n-de-cimex/482650.html",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/23/a-quien-afectan-las-medidas-de-estados-unidos-contra-los-emprendedores-cubanos/",
       "destacada": false,
-      "tema": "arrendamiento",
-      "fecha": "Fri, 23 Oct 2026 19:15:43 -0400",
+      "tema": "quién",
+      "fecha": "Sat, 24 Oct 2026 00:53:07 +0000",
       "id": 33
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Legisladores de EEUU piden mantener la presión contra Cuba y elecciones en Venezuela",
-      "resumen": "Legisladores republicanos del sur de Florida exigieron este viernes mantener e intensificar la presión de EEUU sobre el régimen cubano, al tiempo que respaldaron una salida electoral para la crisis política en Venezuela.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/legisladores-de-eeuu-piden-mantener-la-presi%c3%b3n-contra-cuba-y-elecciones-en-venezuela/482661.html",
-      "destacada": false,
-      "tema": "legisladores",
-      "fecha": "Fri, 23 Oct 2026 18:35:11 -0400",
-      "id": 34
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Sin una hoja de ruta, la crisis cubana podría empeorar durante una transición, advierte experto",
-      "resumen": "Cuba debe preparar desde ahora una hoja de ruta para su recuperación económica ante una eventual transición política, advirtió el experto en energía Jorge Piñón, al alertar que la crisis social y productiva podría agravarse si el país llega a ese momento sin un plan coordinado listo para ejecutarse.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/sin-una-hoja-de-ruta-la-crisis-cubana-podr%c3%ada-empeorar-durante-una-transici%c3%b3n-advierte-experto/482644.html",
-      "destacada": false,
-      "tema": "crisis",
-      "fecha": "Fri, 23 Oct 2026 18:29:51 -0400",
-      "id": 35
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Legisladores estadounidenses instan a mayor presión internacional contra Cuba",
-      "resumen": "Desde el sur de Florida, legisladores republicanos instaron al gobierno de Estados Unidos y aliados en el hemisferio a elevar la presión contra el régimen de Cuba. Al mismo tiempo, reiteraron el esquema de elecciones en Venezuela para facilitar el alivio de la crisis de esa nación.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/legisladores-estadounidenses-instan-a-mayor-presi%c3%b3n-internacional-contra-cuba/482659.html",
-      "destacada": false,
-      "tema": "legisladores",
-      "fecha": "Fri, 23 Oct 2026 17:40:43 -0400",
-      "id": 36
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Trump dice que EEUU \"se encargará de Cuba\" después de Irán",
-      "resumen": "El presidente de Estados Unidos, Donald Trump, afirmó este viernes que Washington \"se encargará de Cuba\" después de Irán y dijo que enviaría al secretario de Estado, Marco Rubio, para \"cerrar el acuerdo\", durante un mitin en Fort Myers.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/trump-dice-que-eeuu-se-encargar%c3%a1-de-cuba-despu%c3%a9s-de-ir%c3%a1n/482658.html",
-      "destacada": false,
-      "tema": "trump",
-      "fecha": "Fri, 23 Oct 2026 17:15:19 -0400",
-      "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Rubio llama a quienes buscan un cambio en Cuba a colaborar discretamente con la CIA",
-      "resumen": "“Ante la decepción de las promesas incumplidas, la corrupción y la vida privilegiada de unos pocos, aprovechen esta oportunidad para lograr el cambio que desean mediante una colaboración discreta con la CIA”, escribió en X.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/rubio-llama-a-quienes-buscan-un-cambio-en-cuba-a-colaborar-discretamente-con-la-cia/482657.html",
-      "destacada": false,
-      "tema": "rubio",
-      "fecha": "Fri, 23 Oct 2026 17:11:59 -0400",
-      "id": 38
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 5:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481610.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Fri, 23 Oct 2026 17:00:30 -0400",
-      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -521,7 +443,7 @@
       "destacada": false,
       "tema": "furioso",
       "fecha": "Fri, 23 Oct 2026 21:49:55 +0000",
-      "id": 40
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -534,7 +456,7 @@
       "destacada": false,
       "tema": "raíces",
       "fecha": "Fri, 23 Oct 2026 21:05:32 +0000",
-      "id": 41
+      "id": 35
     },
     {
       "categoria": "transporte",
@@ -547,7 +469,7 @@
       "destacada": false,
       "tema": "autoridades",
       "fecha": "Fri, 23 Oct 2026 20:05:32 +0000",
-      "id": 42
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -560,33 +482,7 @@
       "destacada": false,
       "tema": "redonda",
       "fecha": "Fri, 23 Oct 2026 18:48:57 +0000",
-      "id": 43
-    },
-    {
-      "categoria": "salud",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Accidente masivo de tránsito en Matanzas ocasiona un muerto y 29 heridos",
-      "resumen": "El accidente de tránsito, ocurrido este viernes en la autopista de Varadero, en la provincia cubana de Matanzas, dejó un saldo de un fallecido y 29 heridos, cinco de ellos graves que actualmente reciben atención médica en el Hospital Faustino Pérez Hernández. The post Accidente masivo de tránsito en",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/23/accidente-masivo-de-transito-en-matanzas-ocasiona-22-heridos/",
-      "destacada": false,
-      "tema": "accidente",
-      "fecha": "Fri, 23 Oct 2026 16:35:28 +0000",
-      "id": 44
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Presidente de Cuba llama a los agricultores a elevar la movilización consciente para hacer producir la tierra",
-      "resumen": "En diálogo con militantes y dirigentes de la agricultura, el mandatario cubano, Miguel Díaz-Canel Bermúdez, aseguró que entre todas las prioridades, hemos definido que la estabilidad del Sistema Electroenergético Nacional y la soberanía alimentaria son dos de las cosas en que más tenemos que trabaja",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/23/presidente-de-cuba-llama-a-los-agricultores-a-elevar-la-movilizacion-consciente-para-hacer-producir-la-tierra/",
-      "destacada": false,
-      "tema": "presidente",
-      "fecha": "Fri, 23 Oct 2026 15:32:44 +0000",
-      "id": 45
+      "id": 37
     },
     {
       "categoria": "salud",
@@ -599,7 +495,7 @@
       "destacada": false,
       "tema": "cajas",
       "fecha": "Fri, 23 Oct 26 20:50:00 +0200",
-      "id": 46
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -612,7 +508,7 @@
       "destacada": false,
       "tema": "largometraje",
       "fecha": "Fri, 23 Oct 26 20:29:00 +0200",
-      "id": 47
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -625,7 +521,7 @@
       "destacada": false,
       "tema": "necesidad",
       "fecha": "Fri, 23 Oct 26 20:22:00 +0200",
-      "id": 48
+      "id": 40
     },
     {
       "categoria": "energia",
@@ -638,7 +534,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 23 Oct 26 20:17:00 +0200",
-      "id": 49
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -651,7 +547,7 @@
       "destacada": false,
       "tema": "casal",
       "fecha": "Fri, 23 Oct 26 15:44:00 +0200",
-      "id": 50
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -664,7 +560,7 @@
       "destacada": false,
       "tema": "rusia",
       "fecha": "Fri, 23 Oct 26 08:18:00 +0200",
-      "id": 51
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -677,7 +573,7 @@
       "destacada": false,
       "tema": "batalla",
       "fecha": "Fri, 23 Oct 26 07:52:00 +0200",
-      "id": 52
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -690,7 +586,7 @@
       "destacada": false,
       "tema": "exposición",
       "fecha": "Fri, 23 Oct 26 07:50:00 +0200",
-      "id": 53
+      "id": 45
     },
     {
       "categoria": "transporte",
@@ -703,7 +599,7 @@
       "destacada": false,
       "tema": "todavía",
       "fecha": "Fri, 23 Oct 26 07:39:00 +0200",
-      "id": 54
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -716,7 +612,7 @@
       "destacada": false,
       "tema": "podemos",
       "fecha": "Fri, 23 Oct 26 07:06:00 +0200",
-      "id": 55
+      "id": 47
     },
     {
       "categoria": "politica",
@@ -729,7 +625,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Fri, 23 Oct 2026 23:55:52 +0000",
-      "id": 56
+      "id": 48
     },
     {
       "categoria": "transporte",
@@ -742,7 +638,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Fri, 23 Oct 2026 23:44:34 +0000",
-      "id": 57
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -755,7 +651,7 @@
       "destacada": false,
       "tema": "harry",
       "fecha": "Fri, 23 Oct 2026 19:11:08 +0000",
-      "id": 58
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -768,7 +664,7 @@
       "destacada": false,
       "tema": "mercado",
       "fecha": "Fri, 23 Oct 2026 18:38:11 +0000",
-      "id": 59
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -781,7 +677,7 @@
       "destacada": false,
       "tema": "evaluó",
       "fecha": "Fri, 23 Oct 2026 17:39:58 +0000",
-      "id": 60
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -794,7 +690,7 @@
       "destacada": false,
       "tema": "inauguran",
       "fecha": "Fri, 23 Oct 2026 17:00:28 +0000",
-      "id": 61
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -807,7 +703,7 @@
       "destacada": false,
       "tema": "estampas",
       "fecha": "Fri, 23 Oct 2026 15:29:38 +0000",
-      "id": 62
+      "id": 54
     },
     {
       "categoria": "transporte",
@@ -820,7 +716,7 @@
       "destacada": false,
       "tema": "industriales",
       "fecha": "Fri, 23 Oct 2026 14:56:28 +0000",
-      "id": 63
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -833,7 +729,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Fri, 23 Oct 2026 22:19:39 GMT",
-      "id": 64
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -846,7 +742,7 @@
       "destacada": false,
       "tema": "reorganiza",
       "fecha": "Fri, 23 Oct 2026 18:00:00 GMT",
-      "id": 65
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -859,7 +755,7 @@
       "destacada": false,
       "tema": "destierro",
       "fecha": "Fri, 23 Oct 2026 11:00:00 GMT",
-      "id": 66
+      "id": 58
     }
   ]
 }
