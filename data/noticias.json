@@ -1,8 +1,21 @@
 {
   "fecha": "2026-10-25",
-  "hora": "16:15",
-  "total": 45,
+  "hora": "17:16",
+  "total": 46,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Saidel Horta subió a lo más alto del podio en el continental de boxeo",
+      "resumen": "Los cubanos terminaron con cinco cupos a los próximos Juegos Panamericanos",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-25/saidel-horta-subio-a-lo-mas-alto-del-podio-en-el-continental-de-boxeo-25-10-2026-12-10-16",
+      "destacada": true,
+      "tema": "saidel",
+      "fecha": "Sun, 25 Oct 2026 12:10:16 -0400",
+      "id": 1
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
@@ -14,33 +27,46 @@
       "destacada": true,
       "tema": "tipo_cambio",
       "fecha": "Sun, 25 Oct 2026 10:10:40 -0400",
-      "id": 1
+      "id": 2
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Inicia hoy en Cuba el XXI Congreso Iberoamericano de Pensamiento",
-      "resumen": "Holguín, Cuba, 25 oct (Prensa Latina) Inició hoy en esta oriental ciudad cubana, el XXI Congreso Iberoamericano de Pensamiento con enfoques hacia la preservación de las culturas ancestrales, el patrimonio y la espiritualidad regional. The post Inicia hoy en Cuba el XXI Congreso Iberoamericano de Pen",
+      "titulo": "Movimiento dominicano MIU rechaza orden de EEUU contra Raúl Castro",
+      "resumen": "Santo Domingo, 25 oct (Prensa Latina) El Movimiento Izquierda Unida (MIU) de República Dominicana rechazó hoy la nueva orden de arresto contra el líder de la Revolución cubana, Raúl Castro, emitida por un tribunal del estado estadounidense de Florida. The post Movimiento dominicano MIU rechaza orden",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/inicia-hoy-en-cuba-el-xxi-congreso-iberoamericano-de-pensamiento/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/movimiento-dominicano-miu-rechaza-orden-de-eeuu-contra-raul-castro/",
       "destacada": true,
-      "tema": "inicia",
-      "fecha": "Sun, 25 Oct 2026 16:02:28 +0000",
-      "id": 2
+      "tema": "movimiento",
+      "fecha": "Sun, 25 Oct 2026 17:01:43 +0000",
+      "id": 3
     },
     {
-      "categoria": "politica",
+      "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba felicita a Kazajstán por  Fiesta Nacional",
-      "resumen": "La Habana, 25 oct (Prensa Latina) Cuba felicitó hoy al pueblo y gobierno de la República de Kazajstán en ocasión de su Fiesta Nacional este 25 de octubre. The post Cuba felicita a Kazajstán por Fiesta Nacional first appeared on Noticias Prensa Latina.",
+      "titulo": "Jornadas de solidaridad y cooperación entre Uruguay y Cuba",
+      "resumen": "Montevideo, 25 oct (Prensa Latina) Jornadas de solidaridad, cooperación y de rechazo al bloqueo de Estados Unidos contra Cuba tuvieron lugar este fin de semana en diversas localidades uruguayas. The post Jornadas de solidaridad y cooperación entre Uruguay y Cuba first appeared on Noticias Prensa Lat",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/cuba-felicita-a-kazajstan-por-fiesta-nacional/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/jornadas-de-solidaridad-y-cooperacion-entre-uruguay-y-cuba/",
       "destacada": true,
-      "tema": "felicita",
-      "fecha": "Sun, 25 Oct 2026 15:48:54 +0000",
-      "id": 3
+      "tema": "jornadas",
+      "fecha": "Sun, 25 Oct 2026 16:59:11 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba llama, Terni responde, caravana antibloqueo EEUU en Italia",
+      "resumen": "Roma, 25 oct (Prensa Latina) Una caravana de autos en solidaridad con Cuba y en contra del bloqueo económico, comercial y financiero de Estados Unidos recorrió hoy las calles de la ciudad de Terni, en la región italiana de Umbria. The post Cuba llama, Terni responde, caravana antibloqueo EEUU en Ita",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/cuba-llama-terni-responde-caravana-antibloqueo-eeuu-en-italia/",
+      "destacada": true,
+      "tema": "llama",
+      "fecha": "Sun, 25 Oct 2026 16:45:38 +0000",
+      "id": 5
     },
     {
       "categoria": "energia",
@@ -50,10 +76,10 @@
       "resumen": "Las autoridades retrasarán 30 minutos la entrada a las escuelas y los centros de trabajo entre el 1 de noviembre de 2026 y el 14 de marzo de 2027",
       "imagen_url": "https://static.14ymedio.com/clip/e770879c-6b44-496a-8925-41e13fb51074_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/cuba-mantendra-horario-verano-ano_1_1132373.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "mantendrá",
       "fecha": "Sun, 25 Oct 2026 12:22:01 +0000",
-      "id": 4
+      "id": 6
     },
     {
       "categoria": "politica",
@@ -63,10 +89,10 @@
       "resumen": "Después de perseguir durante décadas a los creyentes, el Gobierno cubano recurre al Vaticano en busca de un milagro político",
       "imagen_url": "https://static.14ymedio.com/clip/a4bb53fd-2e29-4304-afb3-3e62b8059360_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/opinion/regimen-marxista-necesita-dios-salve_1_1132375.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "régimen",
       "fecha": "Sun, 25 Oct 2026 12:39:51 +0000",
-      "id": 5
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -79,85 +105,85 @@
       "destacada": false,
       "tema": "biografía",
       "fecha": "Sun, 25 Oct 2026 13:31:35 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Mipymes en Cuba no consiguen empleados: pagan poco más de un dólar al día",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e135253-s27061-nid343766-mipymes-cuba-consiguen-empleados-pagan-poco-dolar-al",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Sun, 25 Oct 2026 15:49:15 +0100",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Amigo de cubana embarazada baleada en Kendall: «Nunca imaginé que su ex fuera capaz de hacer esto»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e43231-s27061-nid343758-amigo-cubana-embarazada-baleada-kendall-nunca-imagine",
-      "destacada": false,
-      "tema": "amigo",
-      "fecha": "Sun, 25 Oct 2026 15:47:53 +0100",
       "id": 8
     },
     {
-      "categoria": "economia",
+      "categoria": "energia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El dólar se acerca a los 850 pesos en Cuba y el euro apunta a los 1,000",
+      "titulo": "La realidad de los niños ciegos en La Habana: Estudian junto a la ventana por los apagones y sin papel Braille",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e135253-s27061-nid343764-dolar-acerca-850-pesos-cuba-euro-apunta-1000",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e208512-s27061-nid343770-realidad-ninos-ciegos-habana-estudian-junto-ventana",
       "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Sun, 25 Oct 2026 15:22:42 +0100",
+      "tema": "apagones",
+      "fecha": "Sun, 25 Oct 2026 17:49:16 +0100",
       "id": 9
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "«¿Qué me compraré?»: enfermera cubana ironiza con su salario de 4,000 pesos tras un mes de trabajo",
+      "titulo": "Nuevo incidente eléctrico: Santiago de Cuba y Guantánamo se desconectan del SEN",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e43231-s27061-nid343636-me-comprare-enfermera-cubana-ironiza-salario-4000",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e135253-s27061-nid343778-nuevo-incidente-electrico-santiago-cuba-guantanamo",
       "destacada": false,
-      "tema": "compraré",
-      "fecha": "Sun, 25 Oct 2026 14:56:41 +0100",
+      "tema": "nuevo",
+      "fecha": "Sun, 25 Oct 2026 17:48:16 +0100",
       "id": 10
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El jefe de la CIA que ayudó a capturar a Maduro pone ahora su mira en Cuba",
+      "titulo": "Sin petición fiscal ni fecha de juicio: El Spiderman cubano cumple seis meses en prisión",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e207888-s27061-nid343757-jefe-cia-ayudo-capturar-maduro-pone-ahora-mira-cuba",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e208512-s27061-nid343769-peticion-fiscal-ni-fecha-juicio-spiderman-cubano",
       "destacada": false,
-      "tema": "ayudó",
-      "fecha": "Sun, 25 Oct 2026 13:31:36 +0100",
+      "tema": "petición",
+      "fecha": "Sun, 25 Oct 2026 17:10:23 +0100",
       "id": 11
     },
     {
-      "categoria": "transporte",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubanos con orden de deportación: qué pasa si ICE quiere enviarte a un tercer país y cómo protegerte",
+      "titulo": "McFaul advierte a Rubio que apoyar autócratas en Venezuela socava la esperanza de democratización en Cuba",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e43231-s27061-nid343755-cubanos-orden-deportacion-pasa-ice-quiere-enviarte",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e207888-s27061-nid343765-mcfaul-advierte-rubio-apoyar-autocratas-venezuela",
       "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Sun, 25 Oct 2026 12:34:25 +0100",
+      "tema": "mcfaul",
+      "fecha": "Sun, 25 Oct 2026 17:08:03 +0100",
       "id": 12
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Enfermera cubana con más de 20 años de trabajo cuenta por qué cambió el hospital por un restaurante",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e43231-s27061-nid343767-enfermera-cubana-20-anos-trabajo-cuenta-cambio",
+      "destacada": false,
+      "tema": "enfermera",
+      "fecha": "Sun, 25 Oct 2026 16:32:11 +0100",
+      "id": 13
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Sheinbaum niega que médicos cubanos en México ganen más que los mexicanos y asegura que su contratación es «directa»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e135253-s27061-nid343768-sheinbaum-niega-medicos-cubanos-mexico-ganen",
+      "destacada": false,
+      "tema": "sheinbaum",
+      "fecha": "Sun, 25 Oct 2026 16:21:45 +0100",
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -170,7 +196,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Sun, 25 Oct 2026 04:58:01 +0000",
-      "id": 13
+      "id": 15
     },
     {
       "categoria": "politica",
@@ -183,7 +209,7 @@
       "destacada": false,
       "tema": "materna",
       "fecha": "Sun, 25 Oct 2026 15:11:34 +0000",
-      "id": 14
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -196,7 +222,7 @@
       "destacada": false,
       "tema": "impacto",
       "fecha": "Sun, 25 Oct 2026 10:05:07 +0000",
-      "id": 15
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -209,7 +235,7 @@
       "destacada": false,
       "tema": "fiesta",
       "fecha": "Sat, 24 Oct 2026 18:17:26 +0000",
-      "id": 16
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -222,7 +248,20 @@
       "destacada": false,
       "tema": "representada",
       "fecha": "Sat, 24 Oct 2026 18:02:00 +0000",
-      "id": 17
+      "id": 19
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Quedan 221 médicos cubanos en la misión de Calabria: más de 70 la han abandonado",
+      "resumen": "Misiones médicas de #Cuba en #Italia y denuncias de trabajo forzoso en #Europa: un evento del #OCDH pone bajo el foco los abusos del #RégimenCubano.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792948621_69537.html",
+      "destacada": false,
+      "tema": "quedan",
+      "fecha": "Sun, 25 Oct 2026 18:17:01 +0100",
+      "id": 20
     },
     {
       "categoria": "transporte",
@@ -235,7 +274,7 @@
       "destacada": false,
       "tema": "remolque",
       "fecha": "Sun, 25 Oct 2026 15:00:52 +0100",
-      "id": 18
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -248,7 +287,7 @@
       "destacada": false,
       "tema": "dejará",
       "fecha": "Sun, 25 Oct 2026 13:45:58 +0100",
-      "id": 19
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -261,7 +300,7 @@
       "destacada": false,
       "tema": "iglesia",
       "fecha": "Sun, 25 Oct 2026 13:01:50 +0100",
-      "id": 20
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -274,7 +313,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Sun, 25 Oct 2026 11:55:24 +0100",
-      "id": 21
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -287,33 +326,20 @@
       "destacada": false,
       "tema": "habrá",
       "fecha": "Sun, 25 Oct 2026 00:02:47 +0200",
-      "id": 22
+      "id": 25
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Megabasureros, la burla de internet en Cuba y transformadores que lidian con los 'alumbrones'",
-      "resumen": "",
+      "titulo": "El nerviosismo en La Habana puede cortarse con un cuchillo",
+      "resumen": "La inminente votación de la resolución sobre el embargo de #EEUU contra el régimen de #Cuba en la #ONU moviliza al #MINREX, así como a sus cajas de resonancia del extranjero.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792857656_68126.html",
+      "enlace_original": "https://diariodecuba.com/cuba/1792874074_69528.html",
       "destacada": false,
-      "tema": "megabasureros",
-      "fecha": "Sat, 24 Oct 2026 18:00:56 +0200",
-      "id": 23
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Moscú reconoce que, pese a sus promesas, tiene 'dificultades logísticas' para apoyar a La Habana",
-      "resumen": "#Rusia ha enfrentado \"dificultades logísticas\" para entregar #AyudaHumanitaria a #Cuba en el último cuatrimestre, pese a haber reiterado que apoyaría a La Habana ante las presiones de #EEUU.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792854267_69526.html",
-      "destacada": false,
-      "tema": "moscú",
-      "fecha": "Sat, 24 Oct 2026 17:04:27 +0200",
-      "id": 24
+      "tema": "nerviosismo",
+      "fecha": "Sat, 24 Oct 2026 22:34:34 +0200",
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -326,7 +352,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Sun, 25 Oct 2026 12:00:00 -0400",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -339,7 +365,7 @@
       "destacada": false,
       "tema": "exigió",
       "fecha": "Sun, 25 Oct 2026 10:09:32 -0400",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "luchador",
       "fecha": "Sun, 25 Oct 2026 08:09:28 -0400",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -365,7 +391,7 @@
       "destacada": false,
       "tema": "spiderman",
       "fecha": "Sun, 25 Oct 2026 08:04:00 -0400",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -378,7 +404,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Sun, 25 Oct 2026 08:00:00 -0400",
-      "id": 29
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -391,7 +417,7 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Sun, 25 Oct 2026 07:00:30 -0400",
-      "id": 30
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -404,7 +430,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Sun, 25 Oct 2026 07:00:00 -0400",
-      "id": 31
+      "id": 33
     },
     {
       "categoria": "salud",
@@ -417,7 +443,7 @@
       "destacada": false,
       "tema": "bienestar",
       "fecha": "Sun, 25 Oct 2026 15:51:15 +0000",
-      "id": 32
+      "id": 34
     },
     {
       "categoria": "politica",
@@ -430,7 +456,7 @@
       "destacada": false,
       "tema": "diálogo",
       "fecha": "Sun, 25 Oct 2026 15:29:22 +0000",
-      "id": 33
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -443,7 +469,7 @@
       "destacada": false,
       "tema": "estudiantes",
       "fecha": "Sun, 25 Oct 2026 12:37:47 +0000",
-      "id": 34
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -456,7 +482,7 @@
       "destacada": false,
       "tema": "embajador",
       "fecha": "Sat, 24 Oct 2026 23:21:10 +0000",
-      "id": 35
+      "id": 37
     },
     {
       "categoria": "salud",
@@ -469,7 +495,7 @@
       "destacada": false,
       "tema": "sheinbaum",
       "fecha": "Sat, 24 Oct 2026 21:43:47 +0000",
-      "id": 36
+      "id": 38
     },
     {
       "categoria": "salud",
@@ -482,20 +508,7 @@
       "destacada": false,
       "tema": "prohíbe",
       "fecha": "Sat, 24 Oct 2026 21:24:37 +0000",
-      "id": 37
-    },
-    {
-      "categoria": "energia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba extiende el horario de verano hasta noviembre de 2027",
-      "resumen": "El Ministerio de Energía y Minas y el Ministerio de Trabajo y Seguridad Social emitieron una nota informativa conjunta en la que anuncian la decisión de mantener el horario de verano en el país hasta el 7 de noviembre de 2027, fecha en la que correspondería efectuar el cambio el próximo año. La medi",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/24/cuba-extiende-el-horario-de-verano-hasta-noviembre-de-2027/",
-      "destacada": false,
-      "tema": "extiende",
-      "fecha": "Sat, 24 Oct 2026 19:56:58 +0000",
-      "id": 38
+      "id": 39
     },
     {
       "categoria": "politica",
@@ -508,7 +521,7 @@
       "destacada": false,
       "tema": "inclinaciones",
       "fecha": "Sun, 25 Oct 26 11:16:00 +0100",
-      "id": 39
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -521,7 +534,7 @@
       "destacada": false,
       "tema": "cerco",
       "fecha": "Sun, 25 Oct 26 10:14:00 +0100",
-      "id": 40
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -534,7 +547,7 @@
       "destacada": false,
       "tema": "defender",
       "fecha": "Sun, 25 Oct 26 10:11:00 +0100",
-      "id": 41
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -547,20 +560,20 @@
       "destacada": false,
       "tema": "retornará",
       "fecha": "Sun, 25 Oct 26 10:09:00 +0100",
-      "id": 42
+      "id": 43
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://actualidad.rt.com",
-      "fuente_tipo": "internacional",
-      "titulo": "\"¿Hago un trato con ellos o los acabo de una vez?\": la \"única pregunta\" de Trump sobre Irán",
-      "resumen": "Según el mandatario, Washington tiene el control total del estrecho de Ormuz gracias al bloqueo naval y a las Fuerzas Armadas estadounidenses.",
-      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ade167359bf5b54a4398bb4.jpg",
-      "enlace_original": "https://actualidad-rt.com/actualidad/634212-hago-trato-o-acabo-vez?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "categoria": "energia",
+      "fuente": "https://www.guerrillero.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba extiende el horario de verano hasta noviembre de 2027",
+      "resumen": "El Ministerio de Energía y Minas (Minem) y el Ministerio de Trabajo y Seguridad Social (MTSS) emitieron una nota informativa conjunta en la que anuncian la decisión de mantener el horario de verano en el país hasta el 7 de noviembre de 2027, fecha en la que correspondería efectuar el cambio el próxi",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/cuba-extiende-el-horario-de-verano-hasta-noviembre-de-2027/",
       "destacada": false,
-      "tema": "trato",
-      "fecha": "Sun, 25 Oct 2026 14:35:38 +0000",
-      "id": 43
+      "tema": "extiende",
+      "fecha": "Sun, 25 Oct 2026 11:36:00 +0000",
+      "id": 44
     },
     {
       "categoria": "energia",
@@ -573,7 +586,7 @@
       "destacada": false,
       "tema": "mantendrá",
       "fecha": "Sat, 24 Oct 2026 23:49:42 +0000",
-      "id": 44
+      "id": 45
     },
     {
       "categoria": "politica",
@@ -586,7 +599,7 @@
       "destacada": false,
       "tema": "conquistamos",
       "fecha": "Sun, 25 Oct 2026 15:22:49 +0000",
-      "id": 45
+      "id": 46
     }
   ]
 }
