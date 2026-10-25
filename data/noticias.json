@@ -1,20 +1,59 @@
 {
   "fecha": "2026-10-25",
-  "hora": "12:15",
-  "total": 40,
+  "hora": "13:22",
+  "total": 37,
   "noticias": [
+    {
+      "categoria": "economia",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Comunidad cubana en el exterior: otro empuje a economía cubana",
+      "resumen": "Por Antonio Rondón The post Comunidad cubana en el exterior: otro empuje a economía cubana first appeared on Noticias Prensa Latina.",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/comunidad-cubana-en-el-exterior-otro-empuje-a-economia-cubana/",
+      "destacada": true,
+      "tema": "comunidad",
+      "fecha": "Sun, 25 Oct 2026 13:14:59 +0000",
+      "id": 1
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Béisbol cubano: Avispas exponen la cima y Leñadores afilan el hacha",
-      "resumen": "La Habana, 25 oct (Prensa Latina) Santiago de Cuba expondrá hoy el liderato oriental de la 65.ª Serie Nacional de Béisbol en una doble cartelera ante Granma, mientras Las Tunas acecha a medio juego de distancia. The post Béisbol cubano: Avispas exponen la cima y Leñadores afilan el hacha first appea",
+      "titulo": "Moinelo marca el paso y SoftBank dobla la ventaja en Japón",
+      "resumen": "Tokio, 25 oct (Prensa Latina) Los Halcones de SoftBank vencieron hoy 4-3 a DeNA en 10 entradas y adelantaron 2-0 la Serie de Japón en el béisbol profesional, tras una brillante apertura del cubano Liván Moinelo, quien quedó sin decisión. The post Moinelo marca el paso y SoftBank dobla la ventaja en ",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/beisbol-cubano-avispas-exponen-la-cima-y-lenadores-afilan-el-hacha/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/moinelo-marca-el-paso-y-softbank-dobla-la-ventaja-en-japon/",
       "destacada": true,
-      "tema": "béisbol",
-      "fecha": "Sun, 25 Oct 2026 11:21:10 +0000",
-      "id": 1
+      "tema": "moinelo",
+      "fecha": "Sun, 25 Oct 2026 12:59:24 +0000",
+      "id": 2
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba mantendrá el horario de verano todo el año para ahorrar energía",
+      "resumen": "Las autoridades retrasarán 30 minutos la entrada a las escuelas y los centros de trabajo entre el 1 de noviembre de 2026 y el 14 de marzo de 2027",
+      "imagen_url": "https://static.14ymedio.com/clip/e770879c-6b44-496a-8925-41e13fb51074_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/cuba-mantendra-horario-verano-ano_1_1132373.html",
+      "destacada": true,
+      "tema": "mantendrá",
+      "fecha": "Sun, 25 Oct 2026 12:22:01 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuando un régimen marxista necesita que Dios lo salve",
+      "resumen": "Después de perseguir durante décadas a los creyentes, el Gobierno cubano recurre al Vaticano en busca de un milagro político",
+      "imagen_url": "https://static.14ymedio.com/clip/a4bb53fd-2e29-4304-afb3-3e62b8059360_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/opinion/regimen-marxista-necesita-dios-salve_1_1132375.html",
+      "destacada": true,
+      "tema": "régimen",
+      "fecha": "Sun, 25 Oct 2026 12:39:51 +0000",
+      "id": 4
     },
     {
       "categoria": "transporte",
@@ -27,33 +66,33 @@
       "destacada": true,
       "tema": "reconoce",
       "fecha": "Sat, 24 Oct 2026 15:46:31 +0000",
-      "id": 2
+      "id": 5
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Rubio pide a los cubanos que colaboren con la CIA; el régimen invita al Papa en respuesta a las presiones de EE UU",
-      "resumen": "La agencia de inteligencia difunde una guía para que puedan contactar con ella de forma anónima desde Cuba y Bruno Rodríguez lanza amenazas a EE UU",
-      "imagen_url": "https://static.14ymedio.com/clip/a4e0fae1-8cb9-4e4d-9b75-080d3a2ffe9b_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/rubio-pide-colaboracion-discreta-cia_1_1132351.html",
-      "destacada": true,
-      "tema": "rubio",
-      "fecha": "Sat, 24 Oct 2026 12:42:14 +0000",
-      "id": 3
+      "titulo": "El jefe de la CIA que ayudó a capturar a Maduro pone ahora su mira en Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e207888-s27061-nid343757-jefe-cia-ayudo-capturar-maduro-pone-ahora-mira-cuba",
+      "destacada": false,
+      "tema": "ayudó",
+      "fecha": "Sun, 25 Oct 2026 13:31:36 +0100",
+      "id": 6
     },
     {
-      "categoria": "energia",
-      "fuente": "https://www.14ymedio.com",
+      "categoria": "transporte",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Los apagones y las averías afectan el servicio de agua a más de 2,7 millones de cubanos",
-      "resumen": "Una nueva avería en Cuenca Sur perjudicó a más de 200.000 habitantes de La Habana, donde las pipas pueden cobrar hasta 15.000 pesos",
-      "imagen_url": "https://static.14ymedio.com/clip/d51362d8-a2e5-432d-b038-3c70328ed7e3_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/apagones-averias-afectan-servicio-agua_1_1132353.html",
-      "destacada": true,
-      "tema": "apagones",
-      "fecha": "Sat, 24 Oct 2026 13:15:12 +0000",
-      "id": 4
+      "titulo": "Cubanos con orden de deportación: qué pasa si ICE quiere enviarte a un tercer país y cómo protegerte",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e43231-s27061-nid343755-cubanos-orden-deportacion-pasa-ice-quiere-enviarte",
+      "destacada": false,
+      "tema": "cubanos",
+      "fecha": "Sun, 25 Oct 2026 12:34:25 +0100",
+      "id": 7
     },
     {
       "categoria": "salud",
@@ -63,10 +102,10 @@
       "resumen": "",
       "imagen_url": "",
       "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e43231-s27061-nid343672-prensa-italiana-informe-revela-regimen-queda-mayor",
-      "destacada": true,
+      "destacada": false,
       "tema": "prensa",
       "fecha": "Sun, 25 Oct 2026 11:32:02 +0100",
-      "id": 5
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -79,7 +118,7 @@
       "destacada": false,
       "tema": "madre",
       "fecha": "Sun, 25 Oct 2026 04:20:21 +0100",
-      "id": 6
+      "id": 9
     },
     {
       "categoria": "economia",
@@ -92,58 +131,19 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sun, 25 Oct 2026 02:33:16 +0100",
-      "id": 7
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubana denuncia criadero de mosquitos en hospital de Baracoa mientras su nieto espera traslado por falta de combustible",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e208512-s27061-nid343746-madre-denuncia-criadero-mosquitos-ratas-hospital",
-      "destacada": false,
-      "tema": "cubana",
-      "fecha": "Sun, 25 Oct 2026 01:57:18 +0200",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Impacto de la agudización del bloqueo en la enseñanza artística en Cuba",
-      "resumen": "La lucha por un acceso equitativo a la educación artística y por la difusión de la cultura cubana no solo beneficia a la nación, sino que enriquece al mundo entero, recordándonos la importancia del arte como un vehículo de entendimiento, comunicación y transformación social",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261025/impacto-de-la-agudizacion-del-bloqueo-en-la-ensenanza-artistica-en-cuba-2/",
-      "destacada": false,
-      "tema": "impacto",
-      "fecha": "Sun, 25 Oct 2026 10:05:07 +0000",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Fiesta comunitaria en el barrio",
-      "resumen": "Los pobladores de la localidad habanera de Pueblo Nuevo realizaron varias actividades recreativas, gastronómicas y deportivas como parte de las acciones de Mi barrio por la Patria, que impulsa la Central de Trabajadores de Cuba (CTC)",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261024/fiesta-comunitaria-en-el-barrio/",
-      "destacada": false,
-      "tema": "fiesta",
-      "fecha": "Sat, 24 Oct 2026 18:17:26 +0000",
       "id": 10
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba representada en conferencia sobre angioedema hereditario",
-      "resumen": "La delegación está integrada por las doctoras Odalys Orraca y Yaxunaris Pérez Fumero",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Dejará los estudios y se irá a México",
+      "resumen": "'Me pregunto cómo se las arreglan en #Cuba los ancianos sin familiares': el periodista #JorgeEnriqueRodríguez escribe su bitácora desde #LaHabana.",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261024/cuba-representada-en-conferencia-sobre-angioedema-hereditario/",
+      "enlace_original": "https://diariodecuba.com/cuba/1792932358_69534.html",
       "destacada": false,
-      "tema": "representada",
-      "fecha": "Sat, 24 Oct 2026 18:02:00 +0000",
+      "tema": "dejará",
+      "fecha": "Sun, 25 Oct 2026 13:45:58 +0100",
       "id": 11
     },
     {
@@ -226,19 +226,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba encadena nueve años con la emigración como factor determinante en la reducción de la población",
-      "resumen": "#Cuba registró al cierre de 2025 un saldo migratorio negativo de -25,6 personas por cada 1.000 habitantes.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792841171_69524.html",
-      "destacada": false,
-      "tema": "encadena",
-      "fecha": "Sat, 24 Oct 2026 13:26:11 +0200",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
       "titulo": "Luchador cubano Javier Ernesto Martín cumple seis meses preso sin petición fiscal ni fecha de juicio",
@@ -248,7 +235,7 @@
       "destacada": false,
       "tema": "luchador",
       "fecha": "Sun, 25 Oct 2026 08:09:28 -0400",
-      "id": 19
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -261,7 +248,7 @@
       "destacada": false,
       "tema": "spiderman",
       "fecha": "Sun, 25 Oct 2026 08:04:00 -0400",
-      "id": 20
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -274,7 +261,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Sun, 25 Oct 2026 08:00:00 -0400",
-      "id": 21
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -287,7 +274,7 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Sun, 25 Oct 2026 07:00:30 -0400",
-      "id": 22
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -300,7 +287,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Sun, 25 Oct 2026 07:00:00 -0400",
-      "id": 23
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -313,6 +300,19 @@
       "destacada": false,
       "tema": "postmoderno",
       "fecha": "Sat, 24 Oct 2026 20:00:00 -0400",
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Club de Estudiantes Vietnamitas expresa oposición a bloqueo de EEUU: Cuba no es una amenaza, sino un referente de solidaridad mundial",
+      "resumen": "El Cub de Vietnamitas Graduados en Cuba exigió hoy el levantamiento del bloqueo de Estados Unidos contra la Isla, tal como reclama año tras año la inmensa mayoría de la comunidad internacional. \"Cuba ha sido y es un referente de solidaridad que concita el respeto y la admiración de los pueblos del m",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/25/vietnamitas-graduados-en-cuba-expresan-oposicion-a-bloqueo-de-eeuu-cuba-no-es-una-amenaza-sino-un-referente-de-solidaridad-mundial/",
+      "destacada": false,
+      "tema": "estudiantes",
+      "fecha": "Sun, 25 Oct 2026 12:37:47 +0000",
       "id": 24
     },
     {
@@ -394,19 +394,6 @@
       "id": 30
     },
     {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Reafirma Díaz-Canel papel estratégico de la agricultura en la implementación de las transformaciones económicas",
-      "resumen": "El primer secretario del Comité Central del Partido Comunista de Cuba y presidente de la República, Miguel Díaz-Canel Bermúdez, calificó de acto de defensa de la Revolución y, en las condiciones actuales, también de resistencia, cada hectárea sembrada, cada tonelada cosechada y cada litro de leche a",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/24/reafirma-diaz-canel-papel-estrategico-de-la-agricultura-en-la-implementacion-de-las-transformaciones-economicas/",
-      "destacada": false,
-      "tema": "reafirma",
-      "fecha": "Sat, 24 Oct 2026 15:14:01 +0000",
-      "id": 31
-    },
-    {
       "categoria": "politica",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
@@ -417,7 +404,7 @@
       "destacada": false,
       "tema": "inclinaciones",
       "fecha": "Sun, 25 Oct 26 11:16:00 +0100",
-      "id": 32
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -430,7 +417,7 @@
       "destacada": false,
       "tema": "cerco",
       "fecha": "Sun, 25 Oct 26 10:14:00 +0100",
-      "id": 33
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -443,7 +430,7 @@
       "destacada": false,
       "tema": "defender",
       "fecha": "Sun, 25 Oct 26 10:11:00 +0100",
-      "id": 34
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -456,7 +443,7 @@
       "destacada": false,
       "tema": "retornará",
       "fecha": "Sun, 25 Oct 26 10:09:00 +0100",
-      "id": 35
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -469,7 +456,7 @@
       "destacada": false,
       "tema": "evocación",
       "fecha": "Sat, 24 Oct 26 14:12:00 +0200",
-      "id": 36
+      "id": 35
     },
     {
       "categoria": "energia",
@@ -482,7 +469,7 @@
       "destacada": false,
       "tema": "mantendrá",
       "fecha": "Sat, 24 Oct 2026 23:49:42 +0000",
-      "id": 37
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -495,33 +482,7 @@
       "destacada": false,
       "tema": "escritor",
       "fecha": "Sun, 25 Oct 2026 01:03:55 +0000",
-      "id": 38
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Accidente masivo de tránsito en Matanzas ocasiona un muerto y 29 heridos",
-      "resumen": "Un accidente masivo de tránsito, ocurrido este viernes en la autopista de Varadero, en la provincia cubana de Matanzas, ocasionó un muerto y 29 heridos, de ellos cinco graves, que fueron trasladados al Hospital Faustino Pérez Hernández, donde en estos momentos son atendidos.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/24/accidente-masivo-de-transito-en-matanzas/",
-      "destacada": false,
-      "tema": "accidente",
-      "fecha": "Sat, 24 Oct 2026 13:10:13 +0000",
-      "id": 39
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Constata viceministra de comercio interior implementación de nuevas medidas en Matanzas",
-      "resumen": "La viceministra de Comercio Interior de Cuba, Inalvis Smith Luben, acompañada de una delegación, chequeó este viernes en Matanzas la implementación de las nuevas medidas.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/24/viceministra-comercio-interior-matanzas/",
-      "destacada": false,
-      "tema": "constata",
-      "fecha": "Sat, 24 Oct 2026 12:52:18 +0000",
-      "id": 40
+      "id": 37
     }
   ]
 }
