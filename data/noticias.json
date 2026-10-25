@@ -1,8 +1,47 @@
 {
   "fecha": "2026-10-25",
-  "hora": "19:17",
+  "hora": "21:13",
   "total": 49,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La injusticia más allá del esfuerzo",
+      "resumen": "El bloqueo de Estados Unidos contra Cuba afecta gravemente las aspiraciones del movimiento deportivo",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-25/la-injusticia-mas-alla-del-esfuerzo-25-10-2026-16-10-15",
+      "destacada": true,
+      "tema": "injusticia",
+      "fecha": "Sun, 25 Oct 2026 16:10:15 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La pantalla gala, un contrapeso al poder de Hollywood",
+      "resumen": "A propósito del 27 Festival de Cine Francés en Cuba, del 22 de octubre al 4 de noviembre, nos acercamos a una de las industrias fílmicas más completas del mundo",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/apuntes-de-cine/2026-10-25/la-pantalla-gala-un-contrapeso-al-poder-de-hollywood-25-10-2026-16-10-19",
+      "destacada": true,
+      "tema": "pantalla",
+      "fecha": "Sun, 25 Oct 2026 16:10:19 -0400",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba se despide del Panamericano Sub-18 sin boleto mundialista",
+      "resumen": "El relevo no logró respaldar la gran apertura de Chrystofer Sarría",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-25/cuba-se-despide-del-panamericano-sub-18-sin-boleto-mundialista-25-10-2026-13-10-44",
+      "destacada": true,
+      "tema": "despide",
+      "fecha": "Sun, 25 Oct 2026 13:10:44 -0400",
+      "id": 3
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
@@ -14,84 +53,45 @@
       "destacada": true,
       "tema": "bloqueo",
       "fecha": "Sun, 25 Oct 2026 13:10:37 -0400",
-      "id": 1
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Saidel Horta subió a lo más alto del podio en el continental de boxeo",
-      "resumen": "Los cubanos terminaron con cinco cupos a los próximos Juegos Panamericanos",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-10-25/saidel-horta-subio-a-lo-mas-alto-del-podio-en-el-continental-de-boxeo-25-10-2026-12-10-16",
-      "destacada": true,
-      "tema": "saidel",
-      "fecha": "Sun, 25 Oct 2026 12:10:16 -0400",
-      "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Declaración del XVIII Encuentro de Cubanos Residentes en Europa",
-      "resumen": "Con la aprobación de una Declaración Final y la definición de una hoja de ruta para el trabajo conjunto hasta el próximo año, culminó el XVIII Encuentro Regional de Cubanos Residentes en Europa (ECRE)",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-25/declaracion-del-xviii-encuentro-de-cubanos-residentes-en-europa-25-10-2026-10-10-40",
-      "destacada": true,
-      "tema": "tipo_cambio",
-      "fecha": "Sun, 25 Oct 2026 10:10:40 -0400",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Debaten en Cuba sobre identidad y saberes ancestrales",
-      "resumen": "Holguín, Cuba, 24 oct (Prensa Latina) La conferencia sobre genética y rastreo de descendientes aborígenes abrió hoy el Congreso Iberoamericano en esta oriental provincia cubana, foro que reúne a delegados de diez naciones enfocados en las culturas ancestrales. The post Debaten en Cuba sobre identida",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/debaten-en-cuba-sobre-identidad-y-saberes-ancestrales/",
-      "destacada": true,
-      "tema": "debaten",
-      "fecha": "Sun, 25 Oct 2026 19:08:36 +0000",
       "id": 4
     },
     {
-      "categoria": "sociedad",
+      "categoria": "transporte",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Activistas solidarios reclamaron en Colombia cese del bloqueo a Cuba",
-      "resumen": "Bogotá, 25 oct (Prensa Latina) Integrantes del Movimiento Colombiano de Solidaridad con Cuba (MCSC) realizaron hoy un plantón en la céntrica Plaza de Bolívar de esta capital para manifestar su rechazo al recrudecimiento del bloqueo que Estados Unidos aplica contra la isla. The post Activistas solida",
+      "titulo": "Estrena en Cuba documental sobre el maestro Catalá",
+      "resumen": "Holguín, Cuba, 25 oct (Prensa Latina) El documental Viajero de extraviada ruta, de Alejandra Rodríguez Segura, sobre el maestro Catalá, se estrenó hoy en la 32 edición de la Fiesta de la Cultura Iberoamericana de esta ciudad. The post Estrena en Cuba documental sobre el maestro Catalá first appeared",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/activistas-solidarios-reclamaron-en-colombia-cese-del-bloqueo-a-cuba/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/estrena-en-cuba-documental-sobre-el-maestro-catala-2/",
       "destacada": true,
-      "tema": "activistas",
-      "fecha": "Sun, 25 Oct 2026 18:44:32 +0000",
+      "tema": "transporte",
+      "fecha": "Sun, 25 Oct 2026 20:57:20 +0000",
       "id": 5
     },
     {
-      "categoria": "politica",
+      "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Comunidad internacional votará contra bloqueo, afirma primer ministro",
-      "resumen": "La Habana, 25 oct (Prensa Latina) El primer ministro, Manuel Marrero, expresó hoy su confianza en el voto favorable esta semana en la Organización de Naciones Unidas (ONU), a la resolución contra el bloqueo impuesto por los Estados Unidos a Cuba. The post Comunidad internacional votará contra bloque",
+      "titulo": "ECRE en Francia, otra trinchera contra genocida bloqueo de EEUU",
+      "resumen": "Por Antonio Rondón The post ECRE en Francia, otra trinchera contra genocida bloqueo de EEUU first appeared on Noticias Prensa Latina.",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/comunidad-internacional-votara-contra-bloqueo-afirma-primer-ministro/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/ecre-en-francia-otra-trinchera-contra-genocida-bloqueo-de-eeuu/",
       "destacada": false,
-      "tema": "comunidad",
-      "fecha": "Sun, 25 Oct 2026 18:36:28 +0000",
+      "tema": "francia",
+      "fecha": "Sun, 25 Oct 2026 20:51:51 +0000",
       "id": 6
     },
     {
-      "categoria": "energia",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba, informan desconexión eléctrica en dos provincias orientales",
-      "resumen": "La Habana, 25 oct (Prensa Latina) La Unión Eléctrica de Cuba (UNE), informó hoy sobre una desconexión del Sistema Electroenergético Nacional (SEN) de las provincias de Guantánamo y Santiago de Cuba en el extremo más oriental de la isla. The post Cuba, informan desconexión eléctrica en dos provincias",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/cuba-informan-desconexion-electrica-en-dos-provincias-orientales/",
+      "categoria": "economia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La magia de Harry Potter llega a La Habana con precios de hechicería",
+      "resumen": "En la cuarta convención dedicada al famoso mago, las varitas cuestan 3.000 pesos y los libros alcanzan los 12.000",
+      "imagen_url": "https://static.14ymedio.com/clip/ca30b8ae-4457-40b9-a156-bfe510af2f98_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/magia-harry-potter-llega-habana_1_1132408.html",
       "destacada": false,
-      "tema": "informan",
-      "fecha": "Sun, 25 Oct 2026 18:15:26 +0000",
+      "tema": "magia",
+      "fecha": "Sun, 25 Oct 2026 19:14:43 +0000",
       "id": 7
     },
     {
@@ -147,56 +147,69 @@
       "id": 11
     },
     {
-      "categoria": "transporte",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "«La firma no era mía»: cubana del Mariel dice que ICE trató de enviarla a México de madrugada como «autodeportada»",
+      "titulo": "Ferrer llama a seguir el ejemplo de María Corina y aprender de los venezolanos: «Yo me voy a Cuba»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e43231-s27061-nid343696-firma-era-mia-cubana-mariel-dice-ice-trato-enviarla",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e74-s27061-nid343804-ferrer-llama-seguir-ejemplo-maria-corina-aprender",
       "destacada": false,
-      "tema": "firma",
-      "fecha": "Sun, 25 Oct 2026 19:44:33 +0100",
+      "tema": "ferrer",
+      "fecha": "Sun, 25 Oct 2026 21:20:44 +0100",
       "id": 12
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Más de 15 peloteros cubanos jugarán en la Liga Profesional de Béisbol de Nicaragua",
+      "titulo": "Cubana Leah Reyes Amores conquista la corona de Miss Teen Universe en Camboya",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e197721-s27066-nid343793-15-peloteros-cubanos-jugaran-liga-profesional",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u194224-e135253-s27065-nid343802-cubana-leah-reyes-amores-conquista-corona-miss",
       "destacada": false,
-      "tema": "peloteros",
-      "fecha": "Sun, 25 Oct 2026 19:34:51 +0100",
+      "tema": "cubana",
+      "fecha": "Sun, 25 Oct 2026 20:59:20 +0100",
       "id": 13
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubana a sus coterráneos que están estresados en Brasil: «Ven, que te refresco la memoria»",
+      "titulo": "Rubio llama a cubanos a colaborar con la CIA y usuarios recuerdan las promesas que Trump hizo a los iraníes",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e43231-s27061-nid343782-cubana-sus-coterraneos-estan-estresados-brasil-ven-te",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e207888-s27061-nid343788-rubio-llama-cubanos-colaborar-cia-usuarios-recuerdan",
       "destacada": false,
-      "tema": "cubana",
-      "fecha": "Sun, 25 Oct 2026 19:16:24 +0100",
+      "tema": "rubio",
+      "fecha": "Sun, 25 Oct 2026 20:50:12 +0100",
       "id": 14
     },
     {
-      "categoria": "economia",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "¿Estuvo roto el servidor en algún momento? Un banco de La Habana recupera el servicio tras la llegada de un periodista, según denuncia",
+      "titulo": "Desde el 1 de noviembre Cuba irá una hora por delante de Miami: lo que cambia para llamadas, vuelos y trámites",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e209363-s27061-nid343777-estuvo-roto-servidor-algun-momento-banco-habana",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e208512-s27061-nid343801-1-noviembre-cuba-ira-hora-delante-miami-cambia",
       "destacada": false,
-      "tema": "estuvo",
-      "fecha": "Sun, 25 Oct 2026 18:45:32 +0100",
+      "tema": "noviembre",
+      "fecha": "Sun, 25 Oct 2026 20:41:06 +0100",
       "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La CIA penetró el entorno de Maduro: ¿Puede repetir su estrategia en Cuba?",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u207888-e207888-s27061-nid343791-cia-penetro-entorno-maduro-puede-repetir",
+      "destacada": false,
+      "tema": "penetró",
+      "fecha": "Sun, 25 Oct 2026 20:27:10 +0100",
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -209,7 +222,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Sun, 25 Oct 2026 04:58:01 +0000",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "economia",
@@ -222,7 +235,7 @@
       "destacada": false,
       "tema": "pizarra",
       "fecha": "Sun, 25 Oct 2026 18:25:34 +0000",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "politica",
@@ -235,7 +248,7 @@
       "destacada": false,
       "tema": "materna",
       "fecha": "Sun, 25 Oct 2026 15:11:34 +0000",
-      "id": 18
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -248,7 +261,20 @@
       "destacada": false,
       "tema": "impacto",
       "fecha": "Sun, 25 Oct 2026 10:05:07 +0000",
-      "id": 19
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Así son los muros de la cárcel Valle Grande, en La Habana",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1792956559_68298.html",
+      "destacada": false,
+      "tema": "muros",
+      "fecha": "Sun, 25 Oct 2026 20:29:19 +0100",
+      "id": 21
     },
     {
       "categoria": "salud",
@@ -261,7 +287,7 @@
       "destacada": false,
       "tema": "quedan",
       "fecha": "Sun, 25 Oct 2026 18:17:01 +0100",
-      "id": 20
+      "id": 22
     },
     {
       "categoria": "transporte",
@@ -274,7 +300,7 @@
       "destacada": false,
       "tema": "remolque",
       "fecha": "Sun, 25 Oct 2026 15:00:52 +0100",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -287,7 +313,7 @@
       "destacada": false,
       "tema": "dejará",
       "fecha": "Sun, 25 Oct 2026 13:45:58 +0100",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "iglesia",
       "fecha": "Sun, 25 Oct 2026 13:01:50 +0100",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Sun, 25 Oct 2026 11:55:24 +0100",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -326,20 +352,7 @@
       "destacada": false,
       "tema": "habrá",
       "fecha": "Sun, 25 Oct 2026 00:02:47 +0200",
-      "id": 25
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El nerviosismo en La Habana puede cortarse con un cuchillo",
-      "resumen": "La inminente votación de la resolución sobre el embargo de #EEUU contra el régimen de #Cuba en la #ONU moviliza al #MINREX, así como a sus cajas de resonancia del extranjero.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792874074_69528.html",
-      "destacada": false,
-      "tema": "nerviosismo",
-      "fecha": "Sat, 24 Oct 2026 22:34:34 +0200",
-      "id": 26
+      "id": 27
     },
     {
       "categoria": "transporte",
@@ -352,7 +365,7 @@
       "destacada": false,
       "tema": "exmilitares",
       "fecha": "Sun, 25 Oct 2026 15:16:41 -0400",
-      "id": 27
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -365,7 +378,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Sun, 25 Oct 2026 13:25:00 -0400",
-      "id": 28
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -378,7 +391,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Sun, 25 Oct 2026 12:00:00 -0400",
-      "id": 29
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -391,7 +404,7 @@
       "destacada": false,
       "tema": "exigió",
       "fecha": "Sun, 25 Oct 2026 10:09:32 -0400",
-      "id": 30
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -404,7 +417,7 @@
       "destacada": false,
       "tema": "luchador",
       "fecha": "Sun, 25 Oct 2026 08:09:28 -0400",
-      "id": 31
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -417,33 +430,7 @@
       "destacada": false,
       "tema": "spiderman",
       "fecha": "Sun, 25 Oct 2026 08:04:00 -0400",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El Cubano y su Fe",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481751.html",
-      "destacada": false,
-      "tema": "cubano",
-      "fecha": "Sun, 25 Oct 2026 08:00:00 -0400",
       "id": 33
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Santa Misa",
-      "resumen": "La misa dominical transmitida para Cuba desde el Santuario Nacional de Nuestra Señor de la Caridad, un templo católico de la Arquidiócesis de Miami dedicado a la Patrona de Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481750.html",
-      "destacada": false,
-      "tema": "santa",
-      "fecha": "Sun, 25 Oct 2026 07:00:30 -0400",
-      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -456,7 +443,7 @@
       "destacada": false,
       "tema": "cierra",
       "fecha": "Sun, 25 Oct 2026 17:44:26 +0000",
-      "id": 35
+      "id": 34
     },
     {
       "categoria": "salud",
@@ -469,7 +456,7 @@
       "destacada": false,
       "tema": "bienestar",
       "fecha": "Sun, 25 Oct 2026 15:51:15 +0000",
-      "id": 36
+      "id": 35
     },
     {
       "categoria": "politica",
@@ -482,7 +469,7 @@
       "destacada": false,
       "tema": "diálogo",
       "fecha": "Sun, 25 Oct 2026 15:29:22 +0000",
-      "id": 37
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -495,7 +482,7 @@
       "destacada": false,
       "tema": "estudiantes",
       "fecha": "Sun, 25 Oct 2026 12:37:47 +0000",
-      "id": 38
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -508,7 +495,7 @@
       "destacada": false,
       "tema": "embajador",
       "fecha": "Sat, 24 Oct 2026 23:21:10 +0000",
-      "id": 39
+      "id": 38
     },
     {
       "categoria": "salud",
@@ -521,7 +508,7 @@
       "destacada": false,
       "tema": "sheinbaum",
       "fecha": "Sat, 24 Oct 2026 21:43:47 +0000",
-      "id": 40
+      "id": 39
     },
     {
       "categoria": "politica",
@@ -534,7 +521,7 @@
       "destacada": false,
       "tema": "inclinaciones",
       "fecha": "Sun, 25 Oct 26 11:16:00 +0100",
-      "id": 41
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -547,7 +534,7 @@
       "destacada": false,
       "tema": "cerco",
       "fecha": "Sun, 25 Oct 26 10:14:00 +0100",
-      "id": 42
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -560,7 +547,7 @@
       "destacada": false,
       "tema": "defender",
       "fecha": "Sun, 25 Oct 26 10:11:00 +0100",
-      "id": 43
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -573,7 +560,7 @@
       "destacada": false,
       "tema": "retornará",
       "fecha": "Sun, 25 Oct 26 10:09:00 +0100",
-      "id": 44
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -586,7 +573,7 @@
       "destacada": false,
       "tema": "prohíbe",
       "fecha": "Sun, 25 Oct 26 10:08:00 +0100",
-      "id": 45
+      "id": 44
     },
     {
       "categoria": "energia",
@@ -599,7 +586,7 @@
       "destacada": false,
       "tema": "extiende",
       "fecha": "Sun, 25 Oct 2026 11:36:00 +0000",
-      "id": 46
+      "id": 45
     },
     {
       "categoria": "economia",
@@ -612,7 +599,7 @@
       "destacada": false,
       "tema": "apuesta",
       "fecha": "Sun, 25 Oct 2026 18:41:39 +0000",
-      "id": 47
+      "id": 46
     },
     {
       "categoria": "energia",
@@ -625,7 +612,7 @@
       "destacada": false,
       "tema": "mantendrá",
       "fecha": "Sat, 24 Oct 2026 23:49:42 +0000",
-      "id": 48
+      "id": 47
     },
     {
       "categoria": "salud",
@@ -638,6 +625,19 @@
       "destacada": false,
       "tema": "historia",
       "fecha": "Sun, 25 Oct 2026 18:55:00 GMT",
+      "id": 48
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticias de la negociación de Donald Trump con Cuba",
+      "resumen": "La relación entre Estados Unidos y Cuba atraviesa uno de sus momentos más tensos en años, marcada por una combinación de presión económica, sanciones, crisis energética y contactos discretos, de los cuales, en muchos casos, solo se conoce lo que se filtra a la prensa. Desde elTOQUE monitoreamos la e",
+      "imagen_url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/AP_131403754861_f6c2a900de.jpg/width=1920,quality=75,fit=scale-down,dpr=1,slow-connection-quality=40",
+      "enlace_original": "https://eltoque.com/noticias-de-la-negociacion-de-donald-trump-con-cuba",
+      "destacada": false,
+      "tema": "noticias",
+      "fecha": "Sat, 24 Oct 2026 22:19:00 GMT",
       "id": 49
     }
   ]
