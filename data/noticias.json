@@ -1,8 +1,21 @@
 {
   "fecha": "2026-10-25",
-  "hora": "17:16",
-  "total": 46,
+  "hora": "19:17",
+  "total": 49,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Bloqueo… y desvergüenza",
+      "resumen": "Cuba ha sido, por todos estos años, un asiento para el diálogo y la paz",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-25/bloqueo-y-desverguenza-25-10-2026-13-10-37",
+      "destacada": true,
+      "tema": "bloqueo",
+      "fecha": "Sun, 25 Oct 2026 13:10:37 -0400",
+      "id": 1
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
@@ -14,7 +27,7 @@
       "destacada": true,
       "tema": "saidel",
       "fecha": "Sun, 25 Oct 2026 12:10:16 -0400",
-      "id": 1
+      "id": 2
     },
     {
       "categoria": "sociedad",
@@ -27,59 +40,85 @@
       "destacada": true,
       "tema": "tipo_cambio",
       "fecha": "Sun, 25 Oct 2026 10:10:40 -0400",
-      "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Movimiento dominicano MIU rechaza orden de EEUU contra Raúl Castro",
-      "resumen": "Santo Domingo, 25 oct (Prensa Latina) El Movimiento Izquierda Unida (MIU) de República Dominicana rechazó hoy la nueva orden de arresto contra el líder de la Revolución cubana, Raúl Castro, emitida por un tribunal del estado estadounidense de Florida. The post Movimiento dominicano MIU rechaza orden",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/movimiento-dominicano-miu-rechaza-orden-de-eeuu-contra-raul-castro/",
-      "destacada": true,
-      "tema": "movimiento",
-      "fecha": "Sun, 25 Oct 2026 17:01:43 +0000",
       "id": 3
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Jornadas de solidaridad y cooperación entre Uruguay y Cuba",
-      "resumen": "Montevideo, 25 oct (Prensa Latina) Jornadas de solidaridad, cooperación y de rechazo al bloqueo de Estados Unidos contra Cuba tuvieron lugar este fin de semana en diversas localidades uruguayas. The post Jornadas de solidaridad y cooperación entre Uruguay y Cuba first appeared on Noticias Prensa Lat",
+      "titulo": "Debaten en Cuba sobre identidad y saberes ancestrales",
+      "resumen": "Holguín, Cuba, 24 oct (Prensa Latina) La conferencia sobre genética y rastreo de descendientes aborígenes abrió hoy el Congreso Iberoamericano en esta oriental provincia cubana, foro que reúne a delegados de diez naciones enfocados en las culturas ancestrales. The post Debaten en Cuba sobre identida",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/jornadas-de-solidaridad-y-cooperacion-entre-uruguay-y-cuba/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/debaten-en-cuba-sobre-identidad-y-saberes-ancestrales/",
       "destacada": true,
-      "tema": "jornadas",
-      "fecha": "Sun, 25 Oct 2026 16:59:11 +0000",
+      "tema": "debaten",
+      "fecha": "Sun, 25 Oct 2026 19:08:36 +0000",
       "id": 4
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba llama, Terni responde, caravana antibloqueo EEUU en Italia",
-      "resumen": "Roma, 25 oct (Prensa Latina) Una caravana de autos en solidaridad con Cuba y en contra del bloqueo económico, comercial y financiero de Estados Unidos recorrió hoy las calles de la ciudad de Terni, en la región italiana de Umbria. The post Cuba llama, Terni responde, caravana antibloqueo EEUU en Ita",
+      "titulo": "Activistas solidarios reclamaron en Colombia cese del bloqueo a Cuba",
+      "resumen": "Bogotá, 25 oct (Prensa Latina) Integrantes del Movimiento Colombiano de Solidaridad con Cuba (MCSC) realizaron hoy un plantón en la céntrica Plaza de Bolívar de esta capital para manifestar su rechazo al recrudecimiento del bloqueo que Estados Unidos aplica contra la isla. The post Activistas solida",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/cuba-llama-terni-responde-caravana-antibloqueo-eeuu-en-italia/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/activistas-solidarios-reclamaron-en-colombia-cese-del-bloqueo-a-cuba/",
       "destacada": true,
-      "tema": "llama",
-      "fecha": "Sun, 25 Oct 2026 16:45:38 +0000",
+      "tema": "activistas",
+      "fecha": "Sun, 25 Oct 2026 18:44:32 +0000",
       "id": 5
     },
     {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Comunidad internacional votará contra bloqueo, afirma primer ministro",
+      "resumen": "La Habana, 25 oct (Prensa Latina) El primer ministro, Manuel Marrero, expresó hoy su confianza en el voto favorable esta semana en la Organización de Naciones Unidas (ONU), a la resolución contra el bloqueo impuesto por los Estados Unidos a Cuba. The post Comunidad internacional votará contra bloque",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/comunidad-internacional-votara-contra-bloqueo-afirma-primer-ministro/",
+      "destacada": false,
+      "tema": "comunidad",
+      "fecha": "Sun, 25 Oct 2026 18:36:28 +0000",
+      "id": 6
+    },
+    {
       "categoria": "energia",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba, informan desconexión eléctrica en dos provincias orientales",
+      "resumen": "La Habana, 25 oct (Prensa Latina) La Unión Eléctrica de Cuba (UNE), informó hoy sobre una desconexión del Sistema Electroenergético Nacional (SEN) de las provincias de Guantánamo y Santiago de Cuba en el extremo más oriental de la isla. The post Cuba, informan desconexión eléctrica en dos provincias",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/cuba-informan-desconexion-electrica-en-dos-provincias-orientales/",
+      "destacada": false,
+      "tema": "informan",
+      "fecha": "Sun, 25 Oct 2026 18:15:26 +0000",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba mantendrá el horario de verano todo el año para ahorrar energía",
-      "resumen": "Las autoridades retrasarán 30 minutos la entrada a las escuelas y los centros de trabajo entre el 1 de noviembre de 2026 y el 14 de marzo de 2027",
-      "imagen_url": "https://static.14ymedio.com/clip/e770879c-6b44-496a-8925-41e13fb51074_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/cuba-mantendra-horario-verano-ano_1_1132373.html",
+      "titulo": "Santiago de Cuba y Guantánamo se desconectan del SEN por el disparo de una línea de alta tensión",
+      "resumen": "La nueva caída llega tras ocho colapsos totales y al menos cinco desconexiones parciales en lo que va de año",
+      "imagen_url": "https://static.14ymedio.com/clip/bbea15c7-cc87-4639-99b6-93a80cf14ab6_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/santiago-cuba-guantanamo-desconectan-sen_1_1132404.html",
       "destacada": false,
-      "tema": "mantendrá",
-      "fecha": "Sun, 25 Oct 2026 12:22:01 +0000",
-      "id": 6
+      "tema": "santiago",
+      "fecha": "Sun, 25 Oct 2026 18:03:38 +0000",
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Rescatan a 10 balseros cubanos a 12 millas de Isla Mujeres",
+      "resumen": "Uno de los migrante presentaba signos de deshidratación severa y algunos dijeron ser de Isla de la Juventud y Pinar del Río",
+      "imagen_url": "https://static.14ymedio.com/clip/a8093cea-816c-4f1e-b5d7-c9c4cfdd370b_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/migracion/rescatan-10-balseros-cubanos-12_1_1132399.html",
+      "destacada": false,
+      "tema": "rescatan",
+      "fecha": "Sun, 25 Oct 2026 17:41:34 +0000",
+      "id": 9
     },
     {
       "categoria": "politica",
@@ -92,98 +131,72 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Sun, 25 Oct 2026 12:39:51 +0000",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "En la biografía de Lezama Lima el escritor cubano Hernández Busto reconstruye \"un país que ya no existe”",
-      "resumen": "El autor presentó en Madrid el segundo volumen de su monumental trilogía, “un milagro cultural”",
-      "imagen_url": "https://static.14ymedio.com/clip/9dbecf47-ee61-430e-90ab-610972324d6f_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cultura/biografia-lezama-lima-escritor-cubano_1_1132380.html",
-      "destacada": false,
-      "tema": "biografía",
-      "fecha": "Sun, 25 Oct 2026 13:31:35 +0000",
-      "id": 8
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La realidad de los niños ciegos en La Habana: Estudian junto a la ventana por los apagones y sin papel Braille",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e208512-s27061-nid343770-realidad-ninos-ciegos-habana-estudian-junto-ventana",
-      "destacada": false,
-      "tema": "apagones",
-      "fecha": "Sun, 25 Oct 2026 17:49:16 +0100",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Nuevo incidente eléctrico: Santiago de Cuba y Guantánamo se desconectan del SEN",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e135253-s27061-nid343778-nuevo-incidente-electrico-santiago-cuba-guantanamo",
-      "destacada": false,
-      "tema": "nuevo",
-      "fecha": "Sun, 25 Oct 2026 17:48:16 +0100",
       "id": 10
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Sin petición fiscal ni fecha de juicio: El Spiderman cubano cumple seis meses en prisión",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e208512-s27061-nid343769-peticion-fiscal-ni-fecha-juicio-spiderman-cubano",
+      "titulo": "Cuba mantendrá el horario de verano todo el año para ahorrar energía",
+      "resumen": "Las autoridades retrasarán 30 minutos la entrada a las escuelas y los centros de trabajo entre el 1 de noviembre de 2026 y el 14 de marzo de 2027",
+      "imagen_url": "https://static.14ymedio.com/clip/e770879c-6b44-496a-8925-41e13fb51074_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/cuba-mantendra-horario-verano-ano_1_1132373.html",
       "destacada": false,
-      "tema": "petición",
-      "fecha": "Sun, 25 Oct 2026 17:10:23 +0100",
+      "tema": "mantendrá",
+      "fecha": "Sun, 25 Oct 2026 12:22:01 +0000",
       "id": 11
     },
     {
-      "categoria": "sociedad",
+      "categoria": "transporte",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "McFaul advierte a Rubio que apoyar autócratas en Venezuela socava la esperanza de democratización en Cuba",
+      "titulo": "«La firma no era mía»: cubana del Mariel dice que ICE trató de enviarla a México de madrugada como «autodeportada»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e207888-s27061-nid343765-mcfaul-advierte-rubio-apoyar-autocratas-venezuela",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e43231-s27061-nid343696-firma-era-mia-cubana-mariel-dice-ice-trato-enviarla",
       "destacada": false,
-      "tema": "mcfaul",
-      "fecha": "Sun, 25 Oct 2026 17:08:03 +0100",
+      "tema": "firma",
+      "fecha": "Sun, 25 Oct 2026 19:44:33 +0100",
       "id": 12
     },
     {
-      "categoria": "salud",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Enfermera cubana con más de 20 años de trabajo cuenta por qué cambió el hospital por un restaurante",
+      "titulo": "Más de 15 peloteros cubanos jugarán en la Liga Profesional de Béisbol de Nicaragua",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e43231-s27061-nid343767-enfermera-cubana-20-anos-trabajo-cuenta-cambio",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e197721-s27066-nid343793-15-peloteros-cubanos-jugaran-liga-profesional",
       "destacada": false,
-      "tema": "enfermera",
-      "fecha": "Sun, 25 Oct 2026 16:32:11 +0100",
+      "tema": "peloteros",
+      "fecha": "Sun, 25 Oct 2026 19:34:51 +0100",
       "id": 13
     },
     {
-      "categoria": "salud",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Sheinbaum niega que médicos cubanos en México ganen más que los mexicanos y asegura que su contratación es «directa»",
+      "titulo": "Cubana a sus coterráneos que están estresados en Brasil: «Ven, que te refresco la memoria»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e135253-s27061-nid343768-sheinbaum-niega-medicos-cubanos-mexico-ganen",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e43231-s27061-nid343782-cubana-sus-coterraneos-estan-estresados-brasil-ven-te",
       "destacada": false,
-      "tema": "sheinbaum",
-      "fecha": "Sun, 25 Oct 2026 16:21:45 +0100",
+      "tema": "cubana",
+      "fecha": "Sun, 25 Oct 2026 19:16:24 +0100",
       "id": 14
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Estuvo roto el servidor en algún momento? Un banco de La Habana recupera el servicio tras la llegada de un periodista, según denuncia",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e209363-s27061-nid343777-estuvo-roto-servidor-algun-momento-banco-habana",
+      "destacada": false,
+      "tema": "estuvo",
+      "fecha": "Sun, 25 Oct 2026 18:45:32 +0100",
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -196,7 +209,20 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Sun, 25 Oct 2026 04:58:01 +0000",
-      "id": 15
+      "id": 16
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La pizarra por los cielos",
+      "resumen": "Los ciudadanos exigen un control de precios debido a que sus salarios no se ajustan a los incrementos de costos. Algunos expertos, sin embargo, advierten que fijar precios por decreto ha resultado ineficaz. La solución propuesta implica aumentar la producción y mejorar la oferta, en lugar de centrar",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261025/la-pizarra-por-los-cielos/",
+      "destacada": false,
+      "tema": "pizarra",
+      "fecha": "Sun, 25 Oct 2026 18:25:34 +0000",
+      "id": 17
     },
     {
       "categoria": "politica",
@@ -209,7 +235,7 @@
       "destacada": false,
       "tema": "materna",
       "fecha": "Sun, 25 Oct 2026 15:11:34 +0000",
-      "id": 16
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -222,32 +248,6 @@
       "destacada": false,
       "tema": "impacto",
       "fecha": "Sun, 25 Oct 2026 10:05:07 +0000",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Fiesta comunitaria en el barrio",
-      "resumen": "Los pobladores de la localidad habanera de Pueblo Nuevo realizaron varias actividades recreativas, gastronómicas y deportivas como parte de las acciones de Mi barrio por la Patria, que impulsa la Central de Trabajadores de Cuba (CTC)",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261024/fiesta-comunitaria-en-el-barrio/",
-      "destacada": false,
-      "tema": "fiesta",
-      "fecha": "Sat, 24 Oct 2026 18:17:26 +0000",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba representada en conferencia sobre angioedema hereditario",
-      "resumen": "La delegación está integrada por las doctoras Odalys Orraca y Yaxunaris Pérez Fumero",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261024/cuba-representada-en-conferencia-sobre-angioedema-hereditario/",
-      "destacada": false,
-      "tema": "representada",
-      "fecha": "Sat, 24 Oct 2026 18:02:00 +0000",
       "id": 19
     },
     {
@@ -342,6 +342,32 @@
       "id": 26
     },
     {
+      "categoria": "transporte",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Exmilitares cubanos ven viable que haya filtraciones a la CIA desde las Fuerzas Armadas",
+      "resumen": "En sintonía con el llamado de Estados Unidos a los cubanos para que colaboren con la Agencia Central de Inteligencia, la grieta interna pudiera abrirse desde los cuarteles. Exmilitares advierten que las bases castrenses ya no son fieles a la dictadura.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/exmilitares-cubanos-ven-viable-que-haya-filtraciones-a-la-cia-desde-las-fuerzas-armadas/482749.html",
+      "destacada": false,
+      "tema": "exmilitares",
+      "fecha": "Sun, 25 Oct 2026 15:16:41 -0400",
+      "id": 27
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La SIP denuncia aumento de la represión contra la prensa independiente en Cuba",
+      "resumen": "La Sociedad Interamericana de Prensa denunció que en Cuba persisten y se agravan las restricciones a la libertad de expresión y al ejercicio del periodismo, en medio de un aumento de detenciones, procesos judiciales y otras formas de presión contra periodistas, influencers y activistas.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/la-sip-denuncia-aumento-de-la-represi%c3%b3n-contra-la-prensa-independiente-en-cuba/482744.html",
+      "destacada": false,
+      "tema": "denuncia",
+      "fecha": "Sun, 25 Oct 2026 13:25:00 -0400",
+      "id": 28
+    },
+    {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Sun, 25 Oct 2026 12:00:00 -0400",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -365,7 +391,7 @@
       "destacada": false,
       "tema": "exigió",
       "fecha": "Sun, 25 Oct 2026 10:09:32 -0400",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -378,7 +404,7 @@
       "destacada": false,
       "tema": "luchador",
       "fecha": "Sun, 25 Oct 2026 08:09:28 -0400",
-      "id": 29
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -391,7 +417,7 @@
       "destacada": false,
       "tema": "spiderman",
       "fecha": "Sun, 25 Oct 2026 08:04:00 -0400",
-      "id": 30
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -404,7 +430,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Sun, 25 Oct 2026 08:00:00 -0400",
-      "id": 31
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -417,20 +443,20 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Sun, 25 Oct 2026 07:00:30 -0400",
-      "id": 32
+      "id": 34
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba Habla: \"Todo está caro”",
-      "resumen": "Desde la capital cubana, joven madre asegura ver su futuro y el de su bebé “muy mal”.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba cierra el Continental de Boxeo de Puebla con oro de Saidel Horta y cinco plazas para Lima 2027",
+      "resumen": "El subcampeón mundial de 2023 Saidel Horta (60 kg) ganó el oro 5-0 ante el dominicano Ezequiel Medina, en una pelea detenida en el primer asalto por heridas de ambos. Cuba sumó las platas de Yusnier Sorsano (70 kg) y Nelson Williams (90 kg), y los bronces de Luis Enrique Vinent (65 kg) y Dayira Mesa",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-todo-est%c3%a1-caro/481945.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/25/cuba-cierra-el-continental-de-boxeo-de-puebla-con-oro-de-saidel-horta-y-cinco-plazas-para-lima-2027/",
       "destacada": false,
-      "tema": "habla",
-      "fecha": "Sun, 25 Oct 2026 07:00:00 -0400",
-      "id": 33
+      "tema": "cierra",
+      "fecha": "Sun, 25 Oct 2026 17:44:26 +0000",
+      "id": 35
     },
     {
       "categoria": "salud",
@@ -443,7 +469,7 @@
       "destacada": false,
       "tema": "bienestar",
       "fecha": "Sun, 25 Oct 2026 15:51:15 +0000",
-      "id": 34
+      "id": 36
     },
     {
       "categoria": "politica",
@@ -456,7 +482,7 @@
       "destacada": false,
       "tema": "diálogo",
       "fecha": "Sun, 25 Oct 2026 15:29:22 +0000",
-      "id": 35
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -469,7 +495,7 @@
       "destacada": false,
       "tema": "estudiantes",
       "fecha": "Sun, 25 Oct 2026 12:37:47 +0000",
-      "id": 36
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -482,7 +508,7 @@
       "destacada": false,
       "tema": "embajador",
       "fecha": "Sat, 24 Oct 2026 23:21:10 +0000",
-      "id": 37
+      "id": 39
     },
     {
       "categoria": "salud",
@@ -495,20 +521,7 @@
       "destacada": false,
       "tema": "sheinbaum",
       "fecha": "Sat, 24 Oct 2026 21:43:47 +0000",
-      "id": 38
-    },
-    {
-      "categoria": "salud",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba prohíbe importar y comercializar bebidas energizantes con alcohol",
-      "resumen": "Cuba no permitirá importar y comercializar bebidas energizantes con alcohol y extinguirá los registros sanitarios que autorizaban su entrada al país, anunció el Ministerio de Salud Pública y explicó que es una medida de prevención ante los casos de intoxicación asociados al consumo excesivo de esos ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/24/cuba-prohibe-importar-y-comercializar-bebidas-energizantes-con-alcohol/",
-      "destacada": false,
-      "tema": "prohíbe",
-      "fecha": "Sat, 24 Oct 2026 21:24:37 +0000",
-      "id": 39
+      "id": 40
     },
     {
       "categoria": "politica",
@@ -521,7 +534,7 @@
       "destacada": false,
       "tema": "inclinaciones",
       "fecha": "Sun, 25 Oct 26 11:16:00 +0100",
-      "id": 40
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -534,7 +547,7 @@
       "destacada": false,
       "tema": "cerco",
       "fecha": "Sun, 25 Oct 26 10:14:00 +0100",
-      "id": 41
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -547,7 +560,7 @@
       "destacada": false,
       "tema": "defender",
       "fecha": "Sun, 25 Oct 26 10:11:00 +0100",
-      "id": 42
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -560,7 +573,20 @@
       "destacada": false,
       "tema": "retornará",
       "fecha": "Sun, 25 Oct 26 10:09:00 +0100",
-      "id": 43
+      "id": 44
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba prohíbe importar y comercializar bebidas energizantes con alcohol",
+      "resumen": "Cuba no permitirá importar y comercializar bebidas energizantes con alcohol, anunció hoy el Minister...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125705-cuba-prohibe-importar-y-comercializar-bebidas-energizantes-con-alcohol.jpg?t=1792919380",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261025/125705/125705-cuba-prohibe-importar-y-comercializar-bebidas-energizantes-con-alcohol",
+      "destacada": false,
+      "tema": "prohíbe",
+      "fecha": "Sun, 25 Oct 26 10:08:00 +0100",
+      "id": 45
     },
     {
       "categoria": "energia",
@@ -573,7 +599,20 @@
       "destacada": false,
       "tema": "extiende",
       "fecha": "Sun, 25 Oct 2026 11:36:00 +0000",
-      "id": 44
+      "id": 46
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Apuesta Comercio Interior por mercados de barrio para estabilizar precios",
+      "resumen": "El Ministerio de Comercio Interior auspició el Primer Encuentro de Socialización de Experiencias con los gestores de los Mercados de Barrio. Reunió a trabajadores por cuenta propia, representantes de formas de gestión no estatal y funcionarios del comercio interior de La Habana Vieja, Cotorro, Plaza",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/apuesta-comercio-interior-por-mercados-de-barrio-para-estabilizar-precios/",
+      "destacada": false,
+      "tema": "apuesta",
+      "fecha": "Sun, 25 Oct 2026 18:41:39 +0000",
+      "id": 47
     },
     {
       "categoria": "energia",
@@ -586,20 +625,20 @@
       "destacada": false,
       "tema": "mantendrá",
       "fecha": "Sat, 24 Oct 2026 23:49:42 +0000",
-      "id": 45
+      "id": 48
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.tribuna.cu/",
+      "categoria": "salud",
+      "fuente": "https://eltoque.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Conquistamos nuestra independencia y estamos decididos a defenderla",
-      "resumen": "Díaz-Canel ratificó la decisión del pueblo cubano de defender su independencia ante las amenazas estadounidenses La entrada Conquistamos nuestra independencia y estamos decididos a defenderla se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/conquistamos-nuestra-independencia-y-estamos-decididos-a-defenderla/",
+      "titulo": "La historia de Yuli: cáncer de mama, maternidad y emigración",
+      "resumen": "Sin seguro médico, una madre cubana en México enfrenta los costos y las limitaciones del tratamiento contra el cáncer de mama mientras se apoya en redes familiares y una colecta.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/Portada_cancer_de_mama_afe687a6f5.jpeg",
+      "enlace_original": "https://eltoque.com/cancer-de-mama-maternidad-y-emigracion",
       "destacada": false,
-      "tema": "conquistamos",
-      "fecha": "Sun, 25 Oct 2026 15:22:49 +0000",
-      "id": 46
+      "tema": "historia",
+      "fecha": "Sun, 25 Oct 2026 18:55:00 GMT",
+      "id": 49
     }
   ]
 }
