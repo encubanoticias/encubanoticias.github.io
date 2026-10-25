@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-25",
-  "hora": "01:24",
-  "total": 50,
+  "hora": "03:18",
+  "total": 45,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -56,71 +56,6 @@
       "id": 4
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Celebran dos décadas del Cengro Cultural Ibérico en oriente cubano",
-      "resumen": "Holguín, Cuba, 24 de octubre (Prensa Latina) El arte coral y la oralidad convergieron hoy en esta oriental provincia cubana para celebrar las dos décadas del Centro Cultural Ibérico, en el marco de la XXXII Fiesta de la Cultura Iberoamericana. The post Celebran dos décadas del Cengro Cultural Ibéric",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/24/celebran-dos-decadas-del-cengro-cultural-iberico-en-oriente-cubano/",
-      "destacada": true,
-      "tema": "celebran",
-      "fecha": "Sun, 25 Oct 2026 00:32:58 +0000",
-      "id": 5
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Equipo Cuba de Futsal se alista en Nicaragua para Copa de Naciones",
-      "resumen": "Managua, 24 oct (Prensa Latina) La selección nacional de futsal de Cuba entrena hoy en esta capital como parte de su preparación para la primera edición de la Copa de Naciones Nicaragua 2026, prevista del 28 al 31 de octubre. The post Equipo Cuba de Futsal se alista en Nicaragua para Copa de Nacione",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/24/equipo-cuba-de-futsal-se-alista-en-nicaragua-para-copa-de-naciones/",
-      "destacada": false,
-      "tema": "equipo",
-      "fecha": "Sun, 25 Oct 2026 00:23:58 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "‎Prohíbe Cuba comercializar bebidas energizantes con alcohol",
-      "resumen": "La Habana, 24 oct (Prensa Latina) El Ministerio de Salud Pública de Cuba (Minsap) anunció hoy la prohibición de importar y comercializar bebidas energizantes con alcohol y extinguirá los registros sanitarios que autorizaban su entrada al país. The post ‎Prohíbe Cuba comercializar bebidas energizante",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/24/prohibe-cuba-comercializar-bebidas-energizantes-con-alcohol/",
-      "destacada": false,
-      "tema": "prohíbe",
-      "fecha": "Sun, 25 Oct 2026 00:18:55 +0000",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Homenaje a Barnet y a cultura cubana en congreso de estado mexicano",
-      "resumen": "Ciudad de México, 24 oct (Prensa Latina) Un homenaje a la cultura cubana y al destacado escritor Miguel Barnet, presidente de la Fundación Fernando Ortiz, tuvo lugar en el Congreso del estado de Veracruz, divulgó hoy la Embajada de la isla en México. The post Homenaje a Barnet y a cultura cubana en ",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/24/homenaje-a-barnet-y-a-cultura-cubana-en-congreso-de-estado-mexicano/",
-      "destacada": false,
-      "tema": "homenaje",
-      "fecha": "Sat, 24 Oct 2026 23:43:53 +0000",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Salvadoreños solidarios con Cuba en caravana contra el bloqueo",
-      "resumen": "San Salvador, 24 oct (Prensa Latina) Organizaciones salvadoreñas solidarias con Cuba protagonizaron hoy una caravana en respaldo a la Isla y en contra del bloqueo económico impuesto por Estados Unidos, cerco rechazado por la comunidad internacional ante las Naciones Unidas. The post Salvadoreños sol",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/24/salvadorenos-solidarios-con-cuba-en-caravana-contra-el-bloqueo/",
-      "destacada": false,
-      "tema": "salvadoreños",
-      "fecha": "Sat, 24 Oct 2026 23:40:22 +0000",
-      "id": 9
-    },
-    {
       "categoria": "transporte",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -128,10 +63,10 @@
       "resumen": "Un portavoz del Departamento de Estado sostiene que el Gobierno de La Habana “ahora debe recurrir al subterfugio y la ilegalidad” para conseguir carburante",
       "imagen_url": "https://static.14ymedio.com/clip/686b8549-821e-4d2e-9686-65a2bbb80e94_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/ee-uu-reconoce-regimen-cubano_1_1132362.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "reconoce",
       "fecha": "Sat, 24 Oct 2026 15:46:31 +0000",
-      "id": 10
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -144,7 +79,7 @@
       "destacada": false,
       "tema": "redada",
       "fecha": "Sat, 24 Oct 2026 11:43:13 +0000",
-      "id": 11
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -157,7 +92,7 @@
       "destacada": false,
       "tema": "rubio",
       "fecha": "Sat, 24 Oct 2026 12:42:14 +0000",
-      "id": 12
+      "id": 7
     },
     {
       "categoria": "energia",
@@ -170,7 +105,7 @@
       "destacada": false,
       "tema": "apagones",
       "fecha": "Sat, 24 Oct 2026 13:15:12 +0000",
-      "id": 13
+      "id": 8
     },
     {
       "categoria": "economia",
@@ -183,7 +118,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sun, 25 Oct 2026 02:33:16 +0100",
-      "id": 14
+      "id": 9
     },
     {
       "categoria": "salud",
@@ -196,7 +131,7 @@
       "destacada": false,
       "tema": "cubana",
       "fecha": "Sun, 25 Oct 2026 01:57:18 +0200",
-      "id": 15
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -209,7 +144,7 @@
       "destacada": false,
       "tema": "votos",
       "fecha": "Sun, 25 Oct 2026 01:44:47 +0200",
-      "id": 16
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -222,7 +157,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Sat, 24 Oct 2026 04:56:23 +0000",
-      "id": 17
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -235,7 +170,7 @@
       "destacada": false,
       "tema": "fiesta",
       "fecha": "Sat, 24 Oct 2026 18:17:26 +0000",
-      "id": 18
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -248,7 +183,7 @@
       "destacada": false,
       "tema": "representada",
       "fecha": "Sat, 24 Oct 2026 18:02:00 +0000",
-      "id": 19
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -261,7 +196,7 @@
       "destacada": false,
       "tema": "habrá",
       "fecha": "Sun, 25 Oct 2026 00:02:47 +0200",
-      "id": 20
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -274,7 +209,7 @@
       "destacada": false,
       "tema": "megabasureros",
       "fecha": "Sat, 24 Oct 2026 18:00:56 +0200",
-      "id": 21
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -287,7 +222,7 @@
       "destacada": false,
       "tema": "moscú",
       "fecha": "Sat, 24 Oct 2026 17:04:27 +0200",
-      "id": 22
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -300,7 +235,7 @@
       "destacada": false,
       "tema": "nadie",
       "fecha": "Sat, 24 Oct 2026 14:57:00 +0200",
-      "id": 23
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -313,7 +248,7 @@
       "destacada": false,
       "tema": "encadena",
       "fecha": "Sat, 24 Oct 2026 13:26:11 +0200",
-      "id": 24
+      "id": 19
     },
     {
       "categoria": "salud",
@@ -326,7 +261,7 @@
       "destacada": false,
       "tema": "colgar",
       "fecha": "Sat, 24 Oct 2026 13:00:48 +0200",
-      "id": 25
+      "id": 20
     },
     {
       "categoria": "economia",
@@ -339,7 +274,7 @@
       "destacada": false,
       "tema": "profundiza",
       "fecha": "Sat, 24 Oct 2026 11:36:26 +0200",
-      "id": 26
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -352,7 +287,7 @@
       "destacada": false,
       "tema": "postmoderno",
       "fecha": "Sat, 24 Oct 2026 20:00:00 -0400",
-      "id": 27
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -365,7 +300,7 @@
       "destacada": false,
       "tema": "oposición",
       "fecha": "Sat, 24 Oct 2026 17:00:00 -0400",
-      "id": 28
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -378,7 +313,7 @@
       "destacada": false,
       "tema": "embajador",
       "fecha": "Sat, 24 Oct 2026 23:21:10 +0000",
-      "id": 29
+      "id": 24
     },
     {
       "categoria": "salud",
@@ -391,7 +326,7 @@
       "destacada": false,
       "tema": "sheinbaum",
       "fecha": "Sat, 24 Oct 2026 21:43:47 +0000",
-      "id": 30
+      "id": 25
     },
     {
       "categoria": "salud",
@@ -404,7 +339,7 @@
       "destacada": false,
       "tema": "prohíbe",
       "fecha": "Sat, 24 Oct 2026 21:24:37 +0000",
-      "id": 31
+      "id": 26
     },
     {
       "categoria": "energia",
@@ -417,7 +352,7 @@
       "destacada": false,
       "tema": "extiende",
       "fecha": "Sat, 24 Oct 2026 19:56:58 +0000",
-      "id": 32
+      "id": 27
     },
     {
       "categoria": "energia",
@@ -430,7 +365,7 @@
       "destacada": false,
       "tema": "cronista",
       "fecha": "Sat, 24 Oct 2026 18:31:40 +0000",
-      "id": 33
+      "id": 28
     },
     {
       "categoria": "politica",
@@ -443,7 +378,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Sat, 24 Oct 2026 15:53:01 +0000",
-      "id": 34
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -456,7 +391,7 @@
       "destacada": false,
       "tema": "reafirma",
       "fecha": "Sat, 24 Oct 2026 15:14:01 +0000",
-      "id": 35
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -469,7 +404,7 @@
       "destacada": false,
       "tema": "evocación",
       "fecha": "Sat, 24 Oct 26 14:12:00 +0200",
-      "id": 36
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -482,7 +417,7 @@
       "destacada": false,
       "tema": "pesar",
       "fecha": "Sat, 24 Oct 26 08:19:00 +0200",
-      "id": 37
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -495,7 +430,7 @@
       "destacada": false,
       "tema": "brutal",
       "fecha": "Sat, 24 Oct 26 08:16:00 +0200",
-      "id": 38
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -508,7 +443,7 @@
       "destacada": false,
       "tema": "fallar",
       "fecha": "Sat, 24 Oct 26 08:13:00 +0200",
-      "id": 39
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -521,7 +456,7 @@
       "destacada": false,
       "tema": "cuánto",
       "fecha": "Sat, 24 Oct 26 08:11:00 +0200",
-      "id": 40
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -534,7 +469,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Sat, 24 Oct 26 08:10:00 +0200",
-      "id": 41
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -547,7 +482,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Sat, 24 Oct 26 08:09:00 +0200",
-      "id": 42
+      "id": 37
     },
     {
       "categoria": "politica",
@@ -560,7 +495,7 @@
       "destacada": false,
       "tema": "reclutamientos",
       "fecha": "Sat, 24 Oct 26 08:08:00 +0200",
-      "id": 43
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -573,7 +508,7 @@
       "destacada": false,
       "tema": "resistencia",
       "fecha": "Sat, 24 Oct 26 07:57:00 +0200",
-      "id": 44
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -586,20 +521,7 @@
       "destacada": false,
       "tema": "recibe",
       "fecha": "Sat, 24 Oct 26 07:52:00 +0200",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Escritor chileno reafirma su solidaridad con Cuba",
-      "resumen": "El escritor chileno Luis Aguilera González, encargado de Relaciones Nacionales e Internacionales de la Sociedad de Escritores de Chile (SECH) reafirmó su solidaridad con la isla a través de una declaración pública. Tribuna de la Habana comparte sus palabras La entrada Escritor chileno reafirma su so",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/escritor-chileno-reafirma-su-solidaridad-con-cuba/",
-      "destacada": false,
-      "tema": "escritor",
-      "fecha": "Sun, 25 Oct 2026 01:03:55 +0000",
-      "id": 46
+      "id": 40
     },
     {
       "categoria": "energia",
@@ -612,7 +534,20 @@
       "destacada": false,
       "tema": "mantendrá",
       "fecha": "Sat, 24 Oct 2026 23:49:42 +0000",
-      "id": 47
+      "id": 41
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Escritor chileno reafirma su solidaridad con Cuba",
+      "resumen": "El escritor chileno Luis Aguilera González, encargado de Relaciones Nacionales e Internacionales de la Sociedad de Escritores de Chile (SECH) reafirmó su solidaridad con la isla a través de una declaración pública. Tribuna de la Habana comparte sus palabras La entrada Escritor chileno reafirma su so",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/escritor-chileno-reafirma-su-solidaridad-con-cuba/",
+      "destacada": false,
+      "tema": "escritor",
+      "fecha": "Sun, 25 Oct 2026 01:03:55 +0000",
+      "id": 42
     },
     {
       "categoria": "salud",
@@ -625,7 +560,7 @@
       "destacada": false,
       "tema": "accidente",
       "fecha": "Sat, 24 Oct 2026 13:10:13 +0000",
-      "id": 48
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -638,7 +573,7 @@
       "destacada": false,
       "tema": "constata",
       "fecha": "Sat, 24 Oct 2026 12:52:18 +0000",
-      "id": 49
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -651,7 +586,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Sat, 24 Oct 2026 12:00:00 GMT",
-      "id": 50
+      "id": 45
     }
   ]
 }
