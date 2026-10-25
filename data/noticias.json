@@ -1,46 +1,20 @@
 {
   "fecha": "2026-10-25",
-  "hora": "06:18",
-  "total": 45,
+  "hora": "07:27",
+  "total": 43,
   "noticias": [
     {
       "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
+      "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Caravana contra bloqueo a Cuba recorrerá avenida de Luanda",
-      "resumen": "Una caravana recorrerá hoy parte de la avenida Fidel Castro, en la capital de Angola, en solidaridad con Cuba y contra el bloqueo económico, comercial y financiero de Estados Unidos a la nación caribeña&nbsp;",
+      "titulo": "Harán plantón en Bogotá en apoyo a resolución contra bloqueo a Cuba",
+      "resumen": "Bogotá, 25 oct (Prensa Latina) El Movimiento Colombiano de Solidaridad con Cuba (MCSC) realizará hoy un plantón en la céntrica Plaza de Bolívar de esta capital en rechazo al recrudecimiento del bloqueo impuesto por Estados Unidos contra la isla. The post Harán plantón en Bogotá en apoyo a resolución",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba-no-es-una-amenaza/2026-10-24/caravana-contra-bloqueo-a-cuba-recorrera-avenida-de-luanda-24-10-2026-10-10-38",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/haran-planton-en-bogota-en-apoyo-a-resolucion-contra-bloqueo-a-cuba/",
       "destacada": true,
-      "tema": "caravana",
-      "fecha": "Sat, 24 Oct 2026 10:10:38 -0400",
+      "tema": "harán",
+      "fecha": "Sun, 25 Oct 2026 06:21:08 +0000",
       "id": 1
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba nos une, más allá de las fronteras",
-      "resumen": "Francia acoge el XVIII Encuentro Regional de Cubanos Residentes en Europa, una iniciativa nacida en 2006 que celebra este año su vigésimo aniversario y reafirma los lazos entre Cuba y sus nacionales en el exterior, informó la Cancillería de Cuba en sus redes sociales",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba-no-es-una-amenaza/2026-10-24/cuba-nos-une-mas-alla-de-las-fronteras-24-10-2026-12-10-00",
-      "destacada": true,
-      "tema": "apagones",
-      "fecha": "Sat, 24 Oct 2026 12:10:00 -0400",
-      "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Ballet Nacional de Cuba dedica función de gala a la ONU",
-      "resumen": "La compañía, Patrimonio Cultural de la Nación, presentará «Giselle» este sábado 24 y domingo 25 de octubre en la Sala Avellaneda del Teatro Nacional",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-24/ballet-nacional-de-cuba-dedica-funcion-de-gala-a-la-onu-24-10-2026-11-10-32",
-      "destacada": true,
-      "tema": "ballet",
-      "fecha": "Sat, 24 Oct 2026 11:10:32 -0400",
-      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -53,20 +27,7 @@
       "destacada": true,
       "tema": "celebraron",
       "fecha": "Sun, 25 Oct 2026 06:17:37 +0000",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Vietnamitas graduados en Cuba expresan oposición a bloqueo de EEUU",
-      "resumen": "Hanoi, 25 oct (Prensa Latina) El Cub de Vietnamitas Graduados en Cuba exigió hoy el levantamiento del bloqueo de Estados Unidos a la Isla tal como reclama año tras año la inmensa mayoría de la comunidad internacional. The post Vietnamitas graduados en Cuba expresan oposición a bloqueo de EEUU first ",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/vietnamitas-graduados-en-cuba-expresan-oposicion-a-bloqueo-de-eeuu/",
-      "destacada": true,
-      "tema": "vietnamitas",
-      "fecha": "Sun, 25 Oct 2026 04:10:54 +0000",
-      "id": 5
+      "id": 2
     },
     {
       "categoria": "transporte",
@@ -76,10 +37,10 @@
       "resumen": "Un portavoz del Departamento de Estado sostiene que el Gobierno de La Habana “ahora debe recurrir al subterfugio y la ilegalidad” para conseguir carburante",
       "imagen_url": "https://static.14ymedio.com/clip/686b8549-821e-4d2e-9686-65a2bbb80e94_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/ee-uu-reconoce-regimen-cubano_1_1132362.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "reconoce",
       "fecha": "Sat, 24 Oct 2026 15:46:31 +0000",
-      "id": 6
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -89,10 +50,10 @@
       "resumen": "“¿Y los ladrones y asaltadores para cuándo?”, cuestionan los cubanos en las redes a las autoridades que presumen de su operación",
       "imagen_url": "https://static.14ymedio.com/clip/0c7945ac-bf2d-45b6-a29b-61afef956089_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/redada-mercado-17-k-policia_1_1132344.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "redada",
       "fecha": "Sat, 24 Oct 2026 11:43:13 +0000",
-      "id": 7
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -102,10 +63,10 @@
       "resumen": "La agencia de inteligencia difunde una guía para que puedan contactar con ella de forma anónima desde Cuba y Bruno Rodríguez lanza amenazas a EE UU",
       "imagen_url": "https://static.14ymedio.com/clip/a4e0fae1-8cb9-4e4d-9b75-080d3a2ffe9b_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/rubio-pide-colaboracion-discreta-cia_1_1132351.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "rubio",
       "fecha": "Sat, 24 Oct 2026 12:42:14 +0000",
-      "id": 8
+      "id": 5
     },
     {
       "categoria": "energia",
@@ -118,7 +79,7 @@
       "destacada": false,
       "tema": "apagones",
       "fecha": "Sat, 24 Oct 2026 13:15:12 +0000",
-      "id": 9
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -131,7 +92,7 @@
       "destacada": false,
       "tema": "madre",
       "fecha": "Sun, 25 Oct 2026 04:20:21 +0100",
-      "id": 10
+      "id": 7
     },
     {
       "categoria": "economia",
@@ -144,7 +105,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sun, 25 Oct 2026 02:33:16 +0100",
-      "id": 11
+      "id": 8
     },
     {
       "categoria": "salud",
@@ -157,7 +118,7 @@
       "destacada": false,
       "tema": "cubana",
       "fecha": "Sun, 25 Oct 2026 01:57:18 +0200",
-      "id": 12
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -170,7 +131,7 @@
       "destacada": false,
       "tema": "votos",
       "fecha": "Sun, 25 Oct 2026 01:44:47 +0200",
-      "id": 13
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -183,7 +144,7 @@
       "destacada": false,
       "tema": "fiesta",
       "fecha": "Sat, 24 Oct 2026 18:17:26 +0000",
-      "id": 14
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -196,7 +157,7 @@
       "destacada": false,
       "tema": "representada",
       "fecha": "Sat, 24 Oct 2026 18:02:00 +0000",
-      "id": 15
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -209,7 +170,7 @@
       "destacada": false,
       "tema": "habrá",
       "fecha": "Sun, 25 Oct 2026 00:02:47 +0200",
-      "id": 16
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -222,7 +183,7 @@
       "destacada": false,
       "tema": "megabasureros",
       "fecha": "Sat, 24 Oct 2026 18:00:56 +0200",
-      "id": 17
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -235,7 +196,7 @@
       "destacada": false,
       "tema": "moscú",
       "fecha": "Sat, 24 Oct 2026 17:04:27 +0200",
-      "id": 18
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -248,7 +209,7 @@
       "destacada": false,
       "tema": "nadie",
       "fecha": "Sat, 24 Oct 2026 14:57:00 +0200",
-      "id": 19
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -261,7 +222,7 @@
       "destacada": false,
       "tema": "encadena",
       "fecha": "Sat, 24 Oct 2026 13:26:11 +0200",
-      "id": 20
+      "id": 17
     },
     {
       "categoria": "salud",
@@ -274,7 +235,7 @@
       "destacada": false,
       "tema": "colgar",
       "fecha": "Sat, 24 Oct 2026 13:00:48 +0200",
-      "id": 21
+      "id": 18
     },
     {
       "categoria": "economia",
@@ -287,7 +248,7 @@
       "destacada": false,
       "tema": "profundiza",
       "fecha": "Sat, 24 Oct 2026 11:36:26 +0200",
-      "id": 22
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -300,7 +261,7 @@
       "destacada": false,
       "tema": "postmoderno",
       "fecha": "Sat, 24 Oct 2026 20:00:00 -0400",
-      "id": 23
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -313,7 +274,7 @@
       "destacada": false,
       "tema": "oposición",
       "fecha": "Sat, 24 Oct 2026 17:00:00 -0400",
-      "id": 24
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -326,7 +287,7 @@
       "destacada": false,
       "tema": "embajador",
       "fecha": "Sat, 24 Oct 2026 23:21:10 +0000",
-      "id": 25
+      "id": 22
     },
     {
       "categoria": "salud",
@@ -339,7 +300,7 @@
       "destacada": false,
       "tema": "sheinbaum",
       "fecha": "Sat, 24 Oct 2026 21:43:47 +0000",
-      "id": 26
+      "id": 23
     },
     {
       "categoria": "salud",
@@ -352,7 +313,7 @@
       "destacada": false,
       "tema": "prohíbe",
       "fecha": "Sat, 24 Oct 2026 21:24:37 +0000",
-      "id": 27
+      "id": 24
     },
     {
       "categoria": "energia",
@@ -365,7 +326,7 @@
       "destacada": false,
       "tema": "extiende",
       "fecha": "Sat, 24 Oct 2026 19:56:58 +0000",
-      "id": 28
+      "id": 25
     },
     {
       "categoria": "energia",
@@ -378,7 +339,7 @@
       "destacada": false,
       "tema": "cronista",
       "fecha": "Sat, 24 Oct 2026 18:31:40 +0000",
-      "id": 29
+      "id": 26
     },
     {
       "categoria": "politica",
@@ -391,7 +352,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Sat, 24 Oct 2026 15:53:01 +0000",
-      "id": 30
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -404,7 +365,7 @@
       "destacada": false,
       "tema": "reafirma",
       "fecha": "Sat, 24 Oct 2026 15:14:01 +0000",
-      "id": 31
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -417,7 +378,7 @@
       "destacada": false,
       "tema": "evocación",
       "fecha": "Sat, 24 Oct 26 14:12:00 +0200",
-      "id": 32
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -430,7 +391,7 @@
       "destacada": false,
       "tema": "pesar",
       "fecha": "Sat, 24 Oct 26 08:19:00 +0200",
-      "id": 33
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -443,7 +404,7 @@
       "destacada": false,
       "tema": "brutal",
       "fecha": "Sat, 24 Oct 26 08:16:00 +0200",
-      "id": 34
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -456,7 +417,7 @@
       "destacada": false,
       "tema": "fallar",
       "fecha": "Sat, 24 Oct 26 08:13:00 +0200",
-      "id": 35
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -469,7 +430,7 @@
       "destacada": false,
       "tema": "cuánto",
       "fecha": "Sat, 24 Oct 26 08:11:00 +0200",
-      "id": 36
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -482,7 +443,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Sat, 24 Oct 26 08:10:00 +0200",
-      "id": 37
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -495,7 +456,7 @@
       "destacada": false,
       "tema": "quién",
       "fecha": "Sat, 24 Oct 26 08:09:00 +0200",
-      "id": 38
+      "id": 35
     },
     {
       "categoria": "politica",
@@ -508,7 +469,7 @@
       "destacada": false,
       "tema": "reclutamientos",
       "fecha": "Sat, 24 Oct 26 08:08:00 +0200",
-      "id": 39
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -521,7 +482,20 @@
       "destacada": false,
       "tema": "resistencia",
       "fecha": "Sat, 24 Oct 26 07:57:00 +0200",
-      "id": 40
+      "id": 37
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.telesurtv.net",
+      "fuente_tipo": "internacional",
+      "titulo": "Médico cubano denuncia severo impacto del bloqueo en atención a pacientes críticos",
+      "resumen": "La intensificación del bloqueo por la Administración Trump obstaculizó los canales de suministro que, incluso durante la etapa posterior a la pandemia de COVID-19, permitían mantener la operatividad asistencial en Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://www.telesurtv.net/cuba-bloqueo-impacto-pacientes-criticos/",
+      "destacada": false,
+      "tema": "médico",
+      "fecha": "Sat, 24 Oct 2026 23:26:33 +0000",
+      "id": 38
     },
     {
       "categoria": "energia",
@@ -534,7 +508,7 @@
       "destacada": false,
       "tema": "mantendrá",
       "fecha": "Sat, 24 Oct 2026 23:49:42 +0000",
-      "id": 41
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -547,7 +521,7 @@
       "destacada": false,
       "tema": "escritor",
       "fecha": "Sun, 25 Oct 2026 01:03:55 +0000",
-      "id": 42
+      "id": 40
     },
     {
       "categoria": "salud",
@@ -560,7 +534,7 @@
       "destacada": false,
       "tema": "accidente",
       "fecha": "Sat, 24 Oct 2026 13:10:13 +0000",
-      "id": 43
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -573,7 +547,7 @@
       "destacada": false,
       "tema": "constata",
       "fecha": "Sat, 24 Oct 2026 12:52:18 +0000",
-      "id": 44
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -586,7 +560,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Sat, 24 Oct 2026 12:00:00 GMT",
-      "id": 45
+      "id": 43
     }
   ]
 }
