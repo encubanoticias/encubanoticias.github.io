@@ -1,8 +1,21 @@
 {
   "fecha": "2026-10-26",
-  "hora": "00:16",
-  "total": 40,
+  "hora": "01:34",
+  "total": 41,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La injusticia más allá del esfuerzo",
+      "resumen": "El bloqueo de Estados Unidos contra Cuba afecta gravemente las aspiraciones del movimiento deportivo",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-25/la-injusticia-mas-alla-del-esfuerzo-25-10-2026-16-10-15",
+      "destacada": true,
+      "tema": "injusticia",
+      "fecha": "Sun, 25 Oct 2026 16:10:15 -0400",
+      "id": 1
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
@@ -14,7 +27,7 @@
       "destacada": true,
       "tema": "pantalla",
       "fecha": "Sun, 25 Oct 2026 16:10:19 -0400",
-      "id": 1
+      "id": 2
     },
     {
       "categoria": "sociedad",
@@ -27,20 +40,20 @@
       "destacada": true,
       "tema": "despide",
       "fecha": "Sun, 25 Oct 2026 13:10:44 -0400",
-      "id": 2
+      "id": 3
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Saidel Horta subió a lo más alto del podio en el continental de boxeo",
-      "resumen": "Los cubanos terminaron con cinco cupos a los próximos Juegos Panamericanos",
+      "titulo": "Cuba felicita a Lula por victoria en balotaje brasileño ‎",
+      "resumen": "‎La Habana, 25 oct (Prensa Latina) El presidente de Cuba, Miguel Díaz-Canel, felicitó hoy a su par de Brasil, Luiz Inácio Lula da Silva, por su reelección en el balotaje del país sudamericano. The post Cuba felicita a Lula por victoria en balotaje brasileño ‎ first appeared on Noticias Prensa Latina",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-10-25/saidel-horta-subio-a-lo-mas-alto-del-podio-en-el-continental-de-boxeo-25-10-2026-12-10-16",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/25/cuba-felicita-a-lula-por-victoria-en-balotaje-brasileno/",
       "destacada": true,
-      "tema": "saidel",
-      "fecha": "Sun, 25 Oct 2026 12:10:16 -0400",
-      "id": 3
+      "tema": "felicita",
+      "fecha": "Mon, 26 Oct 2026 01:20:52 +0000",
+      "id": 4
     },
     {
       "categoria": "economia",
@@ -53,7 +66,7 @@
       "destacada": true,
       "tema": "magia",
       "fecha": "Sun, 25 Oct 2026 19:14:43 +0000",
-      "id": 4
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -63,10 +76,10 @@
       "resumen": "La nueva caída llega tras ocho colapsos totales y al menos cinco desconexiones parciales en lo que va de año",
       "imagen_url": "https://static.14ymedio.com/clip/bbea15c7-cc87-4639-99b6-93a80cf14ab6_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/santiago-cuba-guantanamo-desconectan-sen_1_1132404.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "santiago",
       "fecha": "Sun, 25 Oct 2026 18:03:38 +0000",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -79,7 +92,7 @@
       "destacada": false,
       "tema": "rescatan",
       "fecha": "Sun, 25 Oct 2026 17:41:34 +0000",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "politica",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Sun, 25 Oct 2026 12:39:51 +0000",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "energia",
@@ -105,7 +118,33 @@
       "destacada": false,
       "tema": "mantendrá",
       "fecha": "Sun, 25 Oct 2026 12:22:01 +0000",
-      "id": 8
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Varitas a 3.000 pesos y libros de hasta 12.000 en la convención de Harry Potter en La Habana",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-26-u1-e208512-s27061-nid343819-varitas-3000-pesos-libros-12000-convencion-harry",
+      "destacada": false,
+      "tema": "varitas",
+      "fecha": "Mon, 26 Oct 2026 00:33:47 +0100",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Sociedad Interamericana de Prensa exige liberación del periodista cubano Henry Constantín",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-26-u1-e209395-s27061-nid343814-sociedad-interamericana-prensa-exige-liberacion",
+      "destacada": false,
+      "tema": "sociedad",
+      "fecha": "Mon, 26 Oct 2026 00:08:07 +0100",
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -118,7 +157,7 @@
       "destacada": false,
       "tema": "fórmula",
       "fecha": "Sun, 25 Oct 2026 22:56:54 +0100",
-      "id": 9
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -131,45 +170,6 @@
       "destacada": false,
       "tema": "también",
       "fecha": "Sun, 25 Oct 2026 22:34:45 +0100",
-      "id": 10
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Jurista René Fidel González: «Ya no tenemos más tiempo que perder»; «necesitamos un nuevo pensamiento político en Cuba»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e209395-s27061-nid343806-jurista-rene-fidel-gonzalez-tenemos-tiempo-perder",
-      "destacada": false,
-      "tema": "jurista",
-      "fecha": "Sun, 25 Oct 2026 22:23:10 +0100",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La SIP denuncia «nuevas modalidades» de represión contra la prensa en Cuba y señala el encarcelamiento de Henry Constantín",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e208512-s27061-nid343811-sip-denuncia-nuevas-modalidades-represion-contra",
-      "destacada": false,
-      "tema": "denuncia",
-      "fecha": "Sun, 25 Oct 2026 22:08:52 +0100",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Ferrer llama a seguir el ejemplo de María Corina y aprender de los venezolanos: «Yo me voy a Cuba»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-25-u1-e74-s27061-nid343804-ferrer-llama-seguir-ejemplo-maria-corina-aprender",
-      "destacada": false,
-      "tema": "ferrer",
-      "fecha": "Sun, 25 Oct 2026 21:20:44 +0100",
       "id": 13
     },
     {
@@ -186,6 +186,19 @@
       "id": 14
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Convicción",
+      "resumen": "La próxima votación en la ONU, los días 27 y 28 de octubre, volverá a evidenciar el amplio respaldo internacional a Cuba y el rechazo al bloqueo estadounidense, señalado como causa de graves dificultades para el pueblo cubano",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261025/conviccion/",
+      "destacada": false,
+      "tema": "convicción",
+      "fecha": "Mon, 26 Oct 2026 00:20:14 +0000",
+      "id": 15
+    },
+    {
       "categoria": "salud",
       "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "oficial",
@@ -196,7 +209,7 @@
       "destacada": false,
       "tema": "medidas",
       "fecha": "Sun, 25 Oct 2026 23:16:43 +0000",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "politica",
@@ -209,7 +222,7 @@
       "destacada": false,
       "tema": "futuro",
       "fecha": "Sun, 25 Oct 2026 23:14:39 +0000",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "transporte",
@@ -222,7 +235,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Sun, 25 Oct 2026 23:01:36 +0100",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -235,7 +248,7 @@
       "destacada": false,
       "tema": "muros",
       "fecha": "Sun, 25 Oct 2026 20:29:19 +0100",
-      "id": 18
+      "id": 19
     },
     {
       "categoria": "salud",
@@ -248,7 +261,7 @@
       "destacada": false,
       "tema": "quedan",
       "fecha": "Sun, 25 Oct 2026 18:17:01 +0100",
-      "id": 19
+      "id": 20
     },
     {
       "categoria": "transporte",
@@ -261,7 +274,7 @@
       "destacada": false,
       "tema": "remolque",
       "fecha": "Sun, 25 Oct 2026 15:00:52 +0100",
-      "id": 20
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -274,7 +287,7 @@
       "destacada": false,
       "tema": "dejará",
       "fecha": "Sun, 25 Oct 2026 13:45:58 +0100",
-      "id": 21
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -287,19 +300,6 @@
       "destacada": false,
       "tema": "iglesia",
       "fecha": "Sun, 25 Oct 2026 13:01:50 +0100",
-      "id": 22
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Habana veta la importación y venta de unas 15 bebidas energizantes con alcohol",
-      "resumen": "Las autoridades sanitarias de #Cuba prohíben la importación y venta de unas 15 bebidas energizantes debido a su \"consumo excesivo entre jóvenes y otros grupos vulnerables\".",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1792925724_69533.html",
-      "destacada": false,
-      "tema": "habana",
-      "fecha": "Sun, 25 Oct 2026 11:55:24 +0100",
       "id": 23
     },
     {
@@ -511,6 +511,19 @@
       "id": 39
     },
     {
+      "categoria": "economia",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Apuesta Comercio Interior por mercados de barrio para estabilizar precios",
+      "resumen": "El Ministerio de Comercio Interior auspició el Primer Encuentro de Socialización de Experiencias con los gestores de los Mercados de Barrio. Reunió a trabajadores por cuenta propia, representantes de formas de gestión no estatal y funcionarios del comercio interior de La Habana Vieja, Cotorro, Plaza",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/apuesta-comercio-interior-por-mercados-de-barrio-para-estabilizar-precios/",
+      "destacada": false,
+      "tema": "apuesta",
+      "fecha": "Sun, 25 Oct 2026 18:41:39 +0000",
+      "id": 40
+    },
+    {
       "categoria": "salud",
       "fuente": "https://eltoque.com",
       "fuente_tipo": "alternativa",
@@ -521,7 +534,7 @@
       "destacada": false,
       "tema": "historia",
       "fecha": "Sun, 25 Oct 2026 18:55:00 GMT",
-      "id": 40
+      "id": 41
     }
   ]
 }
