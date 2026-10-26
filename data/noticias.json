@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-26",
-  "hora": "17:28",
-  "total": 50,
+  "hora": "19:31",
+  "total": 48,
   "noticias": [
     {
       "categoria": "transporte",
@@ -44,16 +44,42 @@
     },
     {
       "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Para Susana Molina, orden de las Artes y las Letras de Francia",
+      "resumen": "Molina dirige la Escuela Internacional de Cine y TV de San Antonio de los Baños y ha coordinado acciones a favor del diálogo cultural y la presencia de artistas, obras y proyectos franceses en Cuba y viceversa",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-26/para-susana-molina-orden-de-las-artes-y-las-letras-de-francia-26-10-2026-14-10-28",
+      "destacada": true,
+      "tema": "susana",
+      "fecha": "Mon, 26 Oct 2026 14:10:28 -0400",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Luis Orta mantiene la esperanza de otra medalla mundial",
+      "resumen": "En la madrugada cubana de este martes disputará los repechajes",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-26/luis-orta-mantiene-la-esperanza-de-otra-medalla-mundial-26-10-2026-11-10-42",
+      "destacada": true,
+      "tema": "mantiene",
+      "fecha": "Mon, 26 Oct 2026 11:10:42 -0400",
+      "id": 5
+    },
+    {
+      "categoria": "politica",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Síntesis de Cuba",
-      "resumen": "SÍNTESIS DE CUBA PARA EMISORAS DE RADIO Y TV, PERIÓDICOS Y REVISTAS The post Síntesis de Cuba first appeared on Noticias Prensa Latina.",
+      "titulo": "Embajador de Cuba en Dominicana denuncia chantajes y presión de EEUU",
+      "resumen": "Santo Domingo, 26 oct (Prensa Latina) El embajador de Cuba en República Dominicana, Ángel Arzuaga, denunció hoy las presiones y chantajes de Estados Unidos para que los gobiernos cambien su posición y no respalden la resolución que pide el fin del bloqueo a la isla. The post Embajador de Cuba en Dom",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/26/sintesis-de-cuba-601/",
-      "destacada": true,
-      "tema": "síntesis",
-      "fecha": "Mon, 26 Oct 2026 17:19:18 +0000",
-      "id": 4
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/26/embajador-de-cuba-en-dominicana-denuncia-chantajes-y-presion-de-eeuu/",
+      "destacada": false,
+      "tema": "embajador",
+      "fecha": "Mon, 26 Oct 2026 18:35:38 +0000",
+      "id": 6
     },
     {
       "categoria": "transporte",
@@ -63,10 +89,23 @@
       "resumen": "El regreso de María Corina Machado devuelve el entusiasmo a quienes todavía esperan que los cambios en Venezuela abran también las puertas de Cuba",
       "imagen_url": "https://static.14ymedio.com/clip/358ce152-798c-4f03-b987-a26030042098_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/opinion/multitud-caracas-silencio-habana_1_1132425.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "multitud",
       "fecha": "Mon, 26 Oct 2026 11:49:42 +0000",
-      "id": 5
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Un asesinato “con extrema violencia” en La Habana, el más reciente feminicidio en Cuba",
+      "resumen": "Alas Tensas registra además 23 posibles casos entre 2025 y 2026 y 38 intentos de asesinato de violencia machista",
+      "imagen_url": "https://static.14ymedio.com/clip/103d5157-86f6-45c7-8ed0-488664095d3d_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/asesinato-extrema-violencia-habana-reciente_1_1132455.html",
+      "destacada": false,
+      "tema": "asesinato",
+      "fecha": "Mon, 26 Oct 2026 18:08:45 +0000",
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -79,98 +118,33 @@
       "destacada": false,
       "tema": "exige",
       "fecha": "Mon, 26 Oct 2026 12:23:26 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Santiago de Cuba y Guantánamo se desconectan del SEN por el disparo de una línea de alta tensión",
-      "resumen": "La nueva caída llega tras ocho colapsos totales y al menos cinco desconexiones parciales en lo que va de año",
-      "imagen_url": "https://static.14ymedio.com/clip/bbea15c7-cc87-4639-99b6-93a80cf14ab6_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/santiago-cuba-guantanamo-desconectan-sen_1_1132404.html",
-      "destacada": false,
-      "tema": "santiago",
-      "fecha": "Sun, 25 Oct 2026 18:03:38 +0000",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Llegan mil kits solares al oriente de Cuba: los cafetaleros tendrán que pagarlos con parte de su cosecha",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-26-u1-e135253-s27061-nid343853-llegan-mil-kits-solares-al-oriente-cuba-cafetaleros",
-      "destacada": false,
-      "tema": "llegan",
-      "fecha": "Mon, 26 Oct 2026 16:56:54 +0100",
-      "id": 8
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La electricidad disponible no cubrirá ni el 36% de la demanda máxima en Cuba este lunes",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-26-u1-e74-s27061-nid343855-electricidad-disponible-cubrira-ni-36-demanda-maxima",
-      "destacada": false,
-      "tema": "apagones",
-      "fecha": "Mon, 26 Oct 2026 16:44:25 +0100",
       "id": 9
     },
     {
-      "categoria": "economia",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "¿Mucho o poco? Cubana enseña todo lo que compró con 100 dólares en Cuba",
+      "titulo": "«Hubiera querido que Dios me hubiera llevado a mí y no a ellos»: Camionero cubano Rogel Aguilera habla desde prisión",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-26-u65722-e65722-s27065-nid343856-mucho-poco-cubana-ensena-todo-compro-100-dolares",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-26-u1-e74-s27061-nid343874-hubiera-querido-dios-me-hubiera-llevado-mi-ellos",
       "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Mon, 26 Oct 2026 16:42:04 +0100",
+      "tema": "hubiera",
+      "fecha": "Mon, 26 Oct 2026 19:11:09 +0100",
       "id": 10
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "EE.UU. prepara nuevas restricciones a inversiones en tecnología y biotecnología en Cuba",
+      "titulo": "Vicecanciller cubano acusa a EE.UU.: «Intimida a su propio pueblo con la supuesta amenaza cubana»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-26-u1-e199370-s27061-nid343835-eeuu-prepara-nuevas-restricciones-inversiones",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-26-u1-e135253-s27061-nid343871-vicecanciller-cubano-acusa-eeuu-intimida-propio",
       "destacada": false,
-      "tema": "prepara",
-      "fecha": "Mon, 26 Oct 2026 16:25:46 +0100",
+      "tema": "vicecanciller",
+      "fecha": "Mon, 26 Oct 2026 18:54:26 +0100",
       "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Pimiento a 600 pesos la libra en Cuba: «No hay nada normal en que una persona trabaje y no pueda alimentarse dignamente»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-26-u1-e135253-s27061-nid343850-pimiento-600-pesos-libra-cuba-hay-nada-normal",
-      "destacada": false,
-      "tema": "pimiento",
-      "fecha": "Mon, 26 Oct 2026 15:58:54 +0100",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Mucho de qué hablar sobre Cuba»: Mike Hammer se reúne con el jefe del Comando Sur",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-26-u1-e74-s27061-nid343849-mucho-hablar-cuba-mike-hammer-reune-jefe-comando-sur",
-      "destacada": false,
-      "tema": "mucho",
-      "fecha": "Mon, 26 Oct 2026 15:50:24 +0100",
-      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -183,7 +157,20 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Mon, 26 Oct 2026 04:24:55 +0000",
-      "id": 14
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La hora de Cuba en Naciones Unidas",
+      "resumen": "Con Cuba y contra el Imperio, el mundo hablará una vez más",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261026/la-hora-de-cuba-en-naciones-unidas/",
+      "destacada": false,
+      "tema": "naciones",
+      "fecha": "Mon, 26 Oct 2026 18:59:15 +0000",
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -196,7 +183,7 @@
       "destacada": false,
       "tema": "convicción",
       "fecha": "Mon, 26 Oct 2026 00:20:14 +0000",
-      "id": 15
+      "id": 14
     },
     {
       "categoria": "salud",
@@ -209,20 +196,46 @@
       "destacada": false,
       "tema": "medidas",
       "fecha": "Sun, 25 Oct 2026 23:16:43 +0000",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Chanchullos en el Consejo de Derechos Humanos: regímenes como el cubano controlan el relato",
+      "resumen": "Los señalamientos al #castrismo en el #ConsejoDeDerechosHumanos de la #ONU suelen ser fugaces y aislados. El aparato diplomático del #RégimenCubano domina el relato, como tratan de hacer también sus aliados. Alfredo Herrera siguió dos días de reuniones.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1793042427_69557.html",
+      "destacada": false,
+      "tema": "chanchullos",
+      "fecha": "Mon, 26 Oct 2026 20:20:27 +0100",
       "id": 16
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Por un futuro sin bloqueo",
-      "resumen": "Los días 27 y 28 de octubre Cuba expondrá los daños sufridos entre marzo del 2025 y el 28 de febrero del 2026, a causa del cerco económico, comercial, financiero y energético del Gobierno de EE. UU. Trabajadores ofrece una síntesis gráfica de cuánto implica esta situación para nuestro pueblo",
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Tras denuncias, las autoridades de Matanzas piden 'evitar el consumo de sal de procedencia desconocida'",
+      "resumen": "Otra vez la escasez de sal y el consumo de ese producto sin la calidad requerida enciende las alarmas en #Cuba.",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261025/por-un-futuro-sin-bloqueo/",
+      "enlace_original": "https://diariodecuba.com/cuba/1793041388_69555.html",
       "destacada": false,
-      "tema": "futuro",
-      "fecha": "Sun, 25 Oct 2026 23:14:39 +0000",
+      "tema": "denuncias",
+      "fecha": "Mon, 26 Oct 2026 20:03:08 +0100",
       "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Llegan a 60 los feminicidios en Cuba en 2026 y activistas denuncian 'la extrema violencia contra las mujeres'",
+      "resumen": "La violencia machista se cobra otra víctima fatal en #Cuba, que eleva a 60 los casos registrados en 2026. Se trata de una madre ultimada en #LaHabana \"con signos de extrema violencia y agresión sexual\".",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793037091_69553.html",
+      "destacada": false,
+      "tema": "llegan",
+      "fecha": "Mon, 26 Oct 2026 18:51:31 +0100",
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -235,7 +248,7 @@
       "destacada": false,
       "tema": "mucho",
       "fecha": "Mon, 26 Oct 2026 17:23:32 +0100",
-      "id": 18
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -248,7 +261,7 @@
       "destacada": false,
       "tema": "medea",
       "fecha": "Mon, 26 Oct 2026 15:16:18 +0100",
-      "id": 19
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -261,7 +274,7 @@
       "destacada": false,
       "tema": "alina",
       "fecha": "Mon, 26 Oct 2026 13:31:11 +0100",
-      "id": 20
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -274,7 +287,7 @@
       "destacada": false,
       "tema": "magia",
       "fecha": "Mon, 26 Oct 2026 13:00:12 +0100",
-      "id": 21
+      "id": 22
     },
     {
       "categoria": "transporte",
@@ -287,33 +300,59 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 26 Oct 2026 12:12:02 +0100",
-      "id": 22
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Apagones, falta de agua y cambios escolares: la crisis energética trastorna la vida en Cuba",
-      "resumen": "#Cuba en #Apagones: otra desconexión en el oriente, 265.000 afectados en el abasto de agua en Matanzas y cambios escolares por la #CrisisEnergética.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793010618_69545.html",
-      "destacada": false,
-      "tema": "apagones",
-      "fecha": "Mon, 26 Oct 2026 11:30:18 +0100",
       "id": 23
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La SIP exige la liberación a Henry Constantin y poner fin a la persecución de la prensa en Cuba",
-      "resumen": "La #SociedadInteramericanaDePrensa reclama al #RégimenCubano la liberación del periodista Henry Constantin y el cese del hostigamiento de la prensa en la Isla.",
+      "titulo": "Noticiero de Martí Noticias",
+      "resumen": "-Santiago y Guantánamo vuelven al SEN tras avería en línea de transmisión; aunque persisten afectaciones eléctricas en varias provincias. -Cuba mantendrá horario de verano hasta 2027 en medio de la crisis energética.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1792997544_69543.html",
+      "enlace_original": "https://www.martinoticias.com/a/noticiero-de-mart%c3%ad-noticias/482801.html",
       "destacada": false,
-      "tema": "exige",
-      "fecha": "Mon, 26 Oct 2026 07:52:24 +0100",
+      "tema": "noticiero",
+      "fecha": "Mon, 26 Oct 2026 15:33:27 -0400",
       "id": 24
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"Un colchón para el régimen cubano\", dice economista sobre triunfo de Lula en Brasil",
+      "resumen": "La victoria electoral de Lula en Brasil podría garantizar la continuidad de las actuales relaciones comerciales con Cuba, en un contexto en el que el gigante sudamericano se ha convertido en un socio cada vez más importante para el régimen de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/un-colch%c3%b3n-para-el-r%c3%a9gimen-cubano-dice-economista-sobre-triunfo-de-lula-en-brasil/482802.html",
+      "destacada": false,
+      "tema": "colchón",
+      "fecha": "Mon, 26 Oct 2026 14:12:09 -0400",
+      "id": 25
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al Día",
+      "resumen": "\\",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481771.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Mon, 26 Oct 2026 14:00:00 -0400",
+      "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EEUU propone ampliar a Cuba los controles sobre inversiones en tecnologías sensibles",
+      "resumen": "El Departamento del Tesoro de EEUU propuso ampliar los controles sobre inversiones en tecnologías sensibles para incluir a Cuba como “país de preocupación”.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/eeuu-propone-ampliar-a-cuba-los-controles-sobre-inversiones-en-tecnolog%c3%adas-sensibles/482803.html",
+      "destacada": false,
+      "tema": "propone",
+      "fecha": "Mon, 26 Oct 2026 13:49:33 -0400",
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -326,7 +365,7 @@
       "destacada": false,
       "tema": "contactar",
       "fecha": "Mon, 26 Oct 2026 12:27:43 -0400",
-      "id": 25
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -339,7 +378,7 @@
       "destacada": false,
       "tema": "autoridades",
       "fecha": "Mon, 26 Oct 2026 12:26:00 -0400",
-      "id": 26
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -352,58 +391,19 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Mon, 26 Oct 2026 12:00:00 -0400",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barrio adentro",
-      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481766.html",
-      "destacada": false,
-      "tema": "barrio",
-      "fecha": "Mon, 26 Oct 2026 11:30:00 -0400",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "60 feminicidios en Cuba: crece el reclamo de protección para las mujeres",
-      "resumen": "Alas Tensas elevó a 60 los feminicidios verificados en Cuba en lo que va de 2026, tras confirmar el asesinato de Marili Reina Fajardo, de 45 años, hallada muerta el 21 de octubre en Habana del Este, con signos de extrema violencia y agresión sexual.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/sesenta-feminicidios-en-cuba-crece-el-reclamo-de-protecci%c3%b3n-para-las-mujeres/482796.html",
-      "destacada": false,
-      "tema": "feminicidios",
-      "fecha": "Mon, 26 Oct 2026 11:22:57 -0400",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El futuro es ya",
-      "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481763.html",
-      "destacada": false,
-      "tema": "futuro",
-      "fecha": "Mon, 26 Oct 2026 10:00:00 -0400",
       "id": 30
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Hammer se reúne con jefe del Comando Sur de EEUU: \"Mucho de qué hablar sobre Cuba\"",
-      "resumen": "El encargado de Negocios de EEUU en Cuba, Mike Hammer, se reunió con el jefe del Comando Sur, general Frank Donovan. La Embajada estadounidense en La Habana dijo que hubo “mucho de qué hablar sobre Cuba” durante el encuentro.",
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Rusia señala que las acusaciones de EEUU contra Raúl Castro carecen de \"validez jurídica\"",
+      "resumen": "Las acusaciones formuladas en EEUU contra el expresidente de los Consejos de Estado y de Ministros de Cuba, Raúl Castro, carecen por completo de fundamento desde el punto de vista legal, según declaró la portavoz del Ministerio de Asuntos Exteriores de Rusia, María Zajárova. The post Rusia señala qu",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/hammer-se-re%c3%bane-con-jefe-del-comando-sur-mucho-de-qu%c3%a9-hablar-sobre-cuba/482792.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/26/rusia-senala-que-las-acusaciones-de-eeuu-contra-raul-castro-carecen-de-validez-juridica/",
       "destacada": false,
-      "tema": "hammer",
-      "fecha": "Mon, 26 Oct 2026 09:15:01 -0400",
+      "tema": "rusia",
+      "fecha": "Mon, 26 Oct 2026 17:25:09 +0000",
       "id": 31
     },
     {
@@ -446,19 +446,6 @@
       "id": 34
     },
     {
-      "categoria": "energia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "65 SNB: Leñadores y Avispas se abrazan en la cúspide oriental",
-      "resumen": "Con sus victorias de ayer, Leñadores de Las Tunas y Avispas de Santiago de Cuba igualaron en la cima de la candente liga oriental, ambos con saldo de 11-7, en la 65 Serie Nacional de Beisbol. En su feudo del Estadio Julio Antonio Mella, los tuneros del mánager Abeyci Pantoja noquearon 12-2 a Camagüe",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/26/65-snb-lenadores-y-avispas-se-abrazan-en-la-cuspide-oriental/",
-      "destacada": false,
-      "tema": "leñadores",
-      "fecha": "Mon, 26 Oct 2026 13:59:37 +0000",
-      "id": 35
-    },
-    {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
@@ -469,7 +456,7 @@
       "destacada": false,
       "tema": "brasil",
       "fecha": "Mon, 26 Oct 26 10:42:00 +0100",
-      "id": 36
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -482,7 +469,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 26 Oct 26 08:52:00 +0100",
-      "id": 37
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -495,7 +482,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Mon, 26 Oct 26 08:43:00 +0100",
-      "id": 38
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -508,7 +495,7 @@
       "destacada": false,
       "tema": "contro",
       "fecha": "Mon, 26 Oct 26 08:43:00 +0100",
-      "id": 39
+      "id": 38
     },
     {
       "categoria": "politica",
@@ -521,7 +508,7 @@
       "destacada": false,
       "tema": "venció",
       "fecha": "Mon, 26 Oct 26 08:43:00 +0100",
-      "id": 40
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -534,7 +521,7 @@
       "destacada": false,
       "tema": "celebrando",
       "fecha": "Mon, 26 Oct 26 08:41:00 +0100",
-      "id": 41
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -547,7 +534,7 @@
       "destacada": false,
       "tema": "rubio",
       "fecha": "Mon, 26 Oct 26 08:32:00 +0100",
-      "id": 42
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -560,7 +547,7 @@
       "destacada": false,
       "tema": "innova",
       "fecha": "Mon, 26 Oct 26 08:18:00 +0100",
-      "id": 43
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -573,7 +560,7 @@
       "destacada": false,
       "tema": "venezuela",
       "fecha": "Mon, 26 Oct 26 08:07:00 +0100",
-      "id": 44
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -586,6 +573,19 @@
       "destacada": false,
       "tema": "semana",
       "fecha": "Mon, 26 Oct 26 07:46:00 +0100",
+      "id": 44
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Recomiendan a pacientes hematológicos cubanos incrementar cuidados",
+      "resumen": "La Habana, 26 oct (Prensa Latina) El Instituto de Hematología e Inmunología de Cuba recomendó que los pacientes hematológicos e inmunológicos deben extremar las medidas de precaución ante el aumento simultáneo que experimentan hoy las arbovirosis como el dengue y el chikungunya. The post Recomiendan",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/26/recomiendan-a-pacientes-hematologicos-cubanos-incrementar-cuidados/",
+      "destacada": false,
+      "tema": "recomiendan",
+      "fecha": "Mon, 26 Oct 2026 18:11:02 +0000",
       "id": 45
     },
     {
@@ -603,19 +603,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Yosney García: relevista que sueña con las cuatro letras",
-      "resumen": "Yosney García quiere crecer y lo dice sin rodeos. Su meta es defender la camiseta del equipo Cuba. Por ahora trabaja desde el bullpen de los Cocodrilos de Matanzas.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/26/yosney-garcia-relevista-beisbol-matanzas/",
-      "destacada": false,
-      "tema": "yosney",
-      "fecha": "Mon, 26 Oct 2026 12:00:00 +0000",
-      "id": 47
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://eltoque.com",
       "fuente_tipo": "alternativa",
       "titulo": "Destierros sin decreto: un legionario polaco y dos periodistas cubanos",
@@ -625,7 +612,7 @@
       "destacada": false,
       "tema": "destierros",
       "fecha": "Mon, 26 Oct 2026 11:40:57 GMT",
-      "id": 48
+      "id": 47
     },
     {
       "categoria": "economia",
@@ -638,20 +625,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 26 Oct 2026 11:00:00 GMT",
-      "id": 49
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La historia de Yuli: cáncer de mama, maternidad y emigración",
-      "resumen": "Sin seguro médico, una madre cubana en México enfrenta los costos y las limitaciones del tratamiento contra el cáncer de mama mientras se apoya en redes familiares y una colecta.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/Portada_cancer_de_mama_afe687a6f5.jpeg",
-      "enlace_original": "https://eltoque.com/cancer-de-mama-maternidad-y-emigracion",
-      "destacada": false,
-      "tema": "historia",
-      "fecha": "Sun, 25 Oct 2026 18:55:00 GMT",
-      "id": 50
+      "id": 48
     }
   ]
 }
