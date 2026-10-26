@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-26",
-  "hora": "06:25",
-  "total": 48,
+  "hora": "07:41",
+  "total": 47,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -43,17 +43,30 @@
       "id": 3
     },
     {
-      "categoria": "sociedad",
+      "categoria": "politica",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Pese a chantajes, Cuba espera nuevo triunfo contra el bloqueo en ONU",
-      "resumen": "Nueva York, 26 oct (Prensa Latina) Cuba no es una amenaza, el bloqueo impuesto por Estados Unidos sí; y frente al chantaje y la prepotencia, la comunidad internacional volverá a elegir la verdad, dignidad y solidaridad internacional, afirmó el embajador Ernesto Soberón. The post Pese a chantajes, Cu",
+      "titulo": "Solidarios con Cuba en Nicaragua demandan fin del bloqueo de EEUU",
+      "resumen": "Managua, 26 oct (Prensa Latina) Amigos solidarios con Cuba alzaron sus voces desde Nicaragua para demandar el fin de la política de bloqueo que aplica hoy el Gobierno de Estados Unidos contra la isla. The post Solidarios con Cuba en Nicaragua demandan fin del bloqueo de EEUU first appeared on Notici",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/26/pese-a-chantajes-cuba-espera-nuevo-triunfo-contra-el-bloqueo-en-onu/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/26/solidarios-con-cuba-en-nicaragua-demandan-fin-del-bloqueo-de-eeuu/",
       "destacada": true,
-      "tema": "chantajes",
-      "fecha": "Mon, 26 Oct 2026 04:45:25 +0000",
+      "tema": "solidarios",
+      "fecha": "Mon, 26 Oct 2026 06:39:37 +0000",
       "id": 4
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Uruguay: voces contra bloqueo a Cuba en previa a otra votación en ONU",
+      "resumen": "Montevideo, 26 oct (Prensa Latina) Expresiones de repudio al bloqueo de Estados Unidos contra Cuba se multiplican hoy aquí, en vísperas de nueva votación en ONU, cuando Washington presiona contra el reclamo del cese de esta política de hostilidad contra la isla antillana. The post Uruguay: voces con",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/26/uruguay-voces-contra-bloqueo-a-cuba-en-previa-a-otra-votacion-en-onu/",
+      "destacada": true,
+      "tema": "uruguay",
+      "fecha": "Mon, 26 Oct 2026 06:37:06 +0000",
+      "id": 5
     },
     {
       "categoria": "economia",
@@ -63,10 +76,10 @@
       "resumen": "En la cuarta convención dedicada al famoso mago, las varitas cuestan 3.000 pesos y los libros alcanzan los 12.000",
       "imagen_url": "https://static.14ymedio.com/clip/ca30b8ae-4457-40b9-a156-bfe510af2f98_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/magia-harry-potter-llega-habana_1_1132408.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "magia",
       "fecha": "Sun, 25 Oct 2026 19:14:43 +0000",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -79,7 +92,7 @@
       "destacada": false,
       "tema": "santiago",
       "fecha": "Sun, 25 Oct 2026 18:03:38 +0000",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "rescatan",
       "fecha": "Sun, 25 Oct 2026 17:41:34 +0000",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "politica",
@@ -105,7 +118,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Sun, 25 Oct 2026 12:39:51 +0000",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "energia",
@@ -118,7 +131,7 @@
       "destacada": false,
       "tema": "mantendrá",
       "fecha": "Sun, 25 Oct 2026 12:22:01 +0000",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "diseñadora",
       "fecha": "Mon, 26 Oct 2026 06:04:29 +0100",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -144,7 +157,7 @@
       "destacada": false,
       "tema": "dupla",
       "fecha": "Mon, 26 Oct 2026 04:00:16 +0100",
-      "id": 11
+      "id": 12
     },
     {
       "categoria": "politica",
@@ -157,7 +170,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Mon, 26 Oct 2026 03:00:43 +0100",
-      "id": 12
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -170,7 +183,7 @@
       "destacada": false,
       "tema": "varitas",
       "fecha": "Mon, 26 Oct 2026 00:33:47 +0100",
-      "id": 13
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -183,7 +196,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Mon, 26 Oct 2026 04:24:55 +0000",
-      "id": 14
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -196,7 +209,7 @@
       "destacada": false,
       "tema": "convicción",
       "fecha": "Mon, 26 Oct 2026 00:20:14 +0000",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "salud",
@@ -209,7 +222,7 @@
       "destacada": false,
       "tema": "medidas",
       "fecha": "Sun, 25 Oct 2026 23:16:43 +0000",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "politica",
@@ -222,7 +235,20 @@
       "destacada": false,
       "tema": "futuro",
       "fecha": "Sun, 25 Oct 2026 23:14:39 +0000",
-      "id": 17
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La SIP exige la liberación a Henry Constantin y poner fin a la persecución de la prensa en Cuba",
+      "resumen": "La #SociedadInteramericanaDePrensa reclama al #RégimenCubano la liberación del periodista Henry Constantin y el cese del hostigamiento de la prensa en la Isla.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1792997544_69543.html",
+      "destacada": false,
+      "tema": "exige",
+      "fecha": "Mon, 26 Oct 2026 07:52:24 +0100",
+      "id": 19
     },
     {
       "categoria": "transporte",
@@ -235,7 +261,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Sun, 25 Oct 2026 23:01:36 +0100",
-      "id": 18
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -248,7 +274,7 @@
       "destacada": false,
       "tema": "muros",
       "fecha": "Sun, 25 Oct 2026 20:29:19 +0100",
-      "id": 19
+      "id": 21
     },
     {
       "categoria": "salud",
@@ -261,7 +287,7 @@
       "destacada": false,
       "tema": "quedan",
       "fecha": "Sun, 25 Oct 2026 18:17:01 +0100",
-      "id": 20
+      "id": 22
     },
     {
       "categoria": "transporte",
@@ -274,7 +300,7 @@
       "destacada": false,
       "tema": "remolque",
       "fecha": "Sun, 25 Oct 2026 15:00:52 +0100",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -287,20 +313,7 @@
       "destacada": false,
       "tema": "dejará",
       "fecha": "Sun, 25 Oct 2026 13:45:58 +0100",
-      "id": 22
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Iglesia de San Francisco de Asís: restauración como lectura de la historia (I)",
-      "resumen": "#Arquitectura de #LaHabana: Aunque hoy sus valores resulten evidentes, no siempre fue así. En 1956, el Plan Piloto de La Habana de la firma Town Planning Associates incluía su demolición.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cultura/1792929710_69530.html",
-      "destacada": false,
-      "tema": "iglesia",
-      "fecha": "Sun, 25 Oct 2026 13:01:50 +0100",
-      "id": 23
+      "id": 24
     },
     {
       "categoria": "transporte",
@@ -313,7 +326,7 @@
       "destacada": false,
       "tema": "exmilitares",
       "fecha": "Sun, 25 Oct 2026 15:16:41 -0400",
-      "id": 24
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -326,7 +339,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Sun, 25 Oct 2026 13:25:00 -0400",
-      "id": 25
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -339,7 +352,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Sun, 25 Oct 2026 12:00:00 -0400",
-      "id": 26
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -352,7 +365,7 @@
       "destacada": false,
       "tema": "exigió",
       "fecha": "Sun, 25 Oct 2026 10:09:32 -0400",
-      "id": 27
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -365,7 +378,7 @@
       "destacada": false,
       "tema": "luchador",
       "fecha": "Sun, 25 Oct 2026 08:09:28 -0400",
-      "id": 28
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -378,7 +391,7 @@
       "destacada": false,
       "tema": "spiderman",
       "fecha": "Sun, 25 Oct 2026 08:04:00 -0400",
-      "id": 29
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -391,7 +404,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Mon, 26 Oct 2026 01:59:52 +0000",
-      "id": 30
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -404,7 +417,7 @@
       "destacada": false,
       "tema": "cierra",
       "fecha": "Sun, 25 Oct 2026 17:44:26 +0000",
-      "id": 31
+      "id": 32
     },
     {
       "categoria": "salud",
@@ -417,7 +430,7 @@
       "destacada": false,
       "tema": "bienestar",
       "fecha": "Sun, 25 Oct 2026 15:51:15 +0000",
-      "id": 32
+      "id": 33
     },
     {
       "categoria": "politica",
@@ -430,7 +443,7 @@
       "destacada": false,
       "tema": "diálogo",
       "fecha": "Sun, 25 Oct 2026 15:29:22 +0000",
-      "id": 33
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -443,7 +456,85 @@
       "destacada": false,
       "tema": "estudiantes",
       "fecha": "Sun, 25 Oct 2026 12:37:47 +0000",
-      "id": 34
+      "id": 35
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Contro il blocco USA, la solidarietà passa all'azione!",
+      "resumen": "Italia X Cuba",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125725-contro-il-blocco-usa-la-solidarieta-passa-all-azione.jpg?t=1793000580",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261026/125725/125725-contro-il-blocco-usa-la-solidarieta-passa-all-azione",
+      "destacada": false,
+      "tema": "contro",
+      "fecha": "Mon, 26 Oct 26 08:43:00 +0100",
+      "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Celebrando la victoria de Lula desde La Habana",
+      "resumen": "Pedro Jorge Velázquez / El Necio",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125723-celebrando-la-victoria-de-lula-desde-la-habana.jpg?t=1793000476",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261026/125723/125723-celebrando-la-victoria-de-lula-desde-la-habana",
+      "destacada": false,
+      "tema": "celebrando",
+      "fecha": "Mon, 26 Oct 26 08:41:00 +0100",
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Rubio convoca a cubanos a reclutarse en la CIA",
+      "resumen": "No es un cable filtrado ni un documento desclasificado cincuenta años después. Es el jefe de la dipl...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125722-rubio-convoca-a-cubanos-a-reclutarse-en-la-cia.jpg?t=1793000048",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261026/125722/125722-rubio-convoca-a-cubanos-a-reclutarse-en-la-cia",
+      "destacada": false,
+      "tema": "rubio",
+      "fecha": "Mon, 26 Oct 26 08:32:00 +0100",
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba innova en biotecnología frente al bloqueo de EE.UU.",
+      "resumen": "Señal en vivo Sur.- Pese al impacto de las medidas coercitivas unilaterales impuestas por Estados Un...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125721-cuba-innova-en-biotecnologia-frente-al-bloqueo-de-ee-uu.jpg?t=1792999273",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261026/125721/125721-cuba-innova-en-biotecnologia-frente-al-bloqueo-de-ee-uu",
+      "destacada": false,
+      "tema": "innova",
+      "fecha": "Mon, 26 Oct 26 08:18:00 +0100",
+      "id": 39
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "En Venezuela relanzan campaña de solidaridad con Cuba &quot;Amor con amor se paga&quot;",
+      "resumen": "Canal Caribe.- El Movimiento de amistad y solidaridad mutua Venezuela-Cuba, junto a organizaciones s...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125720-en-venezuela-relanzan-campana-de-solidaridad-con-cuba-amor-con-amor-se-paga.jpg?t=1792999054",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261026/125720/125720-en-venezuela-relanzan-campana-de-solidaridad-con-cuba-amor-con-amor-se-paga",
+      "destacada": false,
+      "tema": "venezuela",
+      "fecha": "Mon, 26 Oct 26 08:07:00 +0100",
+      "id": 40
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Una semana muy peligrosa para EE.UU. y el mundo",
+      "resumen": "Patricio Montesinos - Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125718-una-semana-muy-peligrosa-para-ee-uu-y-el-mundo.jpg?t=1792997180",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261026/125718/125718-una-semana-muy-peligrosa-para-ee-uu-y-el-mundo",
+      "destacada": false,
+      "tema": "semana",
+      "fecha": "Mon, 26 Oct 26 07:46:00 +0100",
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -456,7 +547,7 @@
       "destacada": false,
       "tema": "rumbo",
       "fecha": "Mon, 26 Oct 26 06:36:00 +0100",
-      "id": 35
+      "id": 42
     },
     {
       "categoria": "energia",
@@ -469,7 +560,7 @@
       "destacada": false,
       "tema": "apagones",
       "fecha": "Mon, 26 Oct 26 06:36:00 +0100",
-      "id": 36
+      "id": 43
     },
     {
       "categoria": "politica",
@@ -482,97 +573,6 @@
       "destacada": false,
       "tema": "italia",
       "fecha": "Mon, 26 Oct 26 06:22:00 +0100",
-      "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Diversas voces desde Panamá demandan fin del bloqueo de EEUU a Cuba",
-      "resumen": "Ciudad de Panamá, 25 oct (Prensa Latina) Organizaciones y representantes de la solidaridad ...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125714-diversas-voces-desde-panama-demandan-fin-del-bloqueo-de-eeuu-a-cuba.jpg?t=1792992097",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261026/125714/125714-diversas-voces-desde-panama-demandan-fin-del-bloqueo-de-eeuu-a-cuba",
-      "destacada": false,
-      "tema": "diversas",
-      "fecha": "Mon, 26 Oct 26 06:20:00 +0100",
-      "id": 38
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Activistas solidarios reclamaron en Colombia cese del bloqueo a Cuba",
-      "resumen": "Bogotá, 25 oct (Prensa Latina) Integrantes del Movimiento Colombiano de Solidaridad con Cuba (...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125713-activistas-solidarios-reclamaron-en-colombia-cese-del-bloqueo-a-cuba.jpg?t=1792992026",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261026/125713/125713-activistas-solidarios-reclamaron-en-colombia-cese-del-bloqueo-a-cuba",
-      "destacada": false,
-      "tema": "activistas",
-      "fecha": "Mon, 26 Oct 26 06:19:00 +0100",
-      "id": 39
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Lula venció tras remontada histórica: gobierno de Cuba felicita la victoria popular",
-      "resumen": "Cuba felicita a Lula por victoria en balotaje brasileño ‎ ‎ La Habana, 25 oct (P...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125711-lula-vencio-tras-remontada-historica-gobierno-de-cuba-felicita-la-victoria-popular.jpg?t=1792991431",
-      "enlace_original": "https://www.cubainformacion.tv/america-latina/20261026/125711/125711-lula-vencio-tras-remontada-historica-gobierno-de-cuba-felicita-la-victoria-popular",
-      "destacada": false,
-      "tema": "venció",
-      "fecha": "Mon, 26 Oct 26 06:03:00 +0100",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "&quot;Si Cuba fuera un estado fallido, la Revolución habría colapsado&quot;: entrevista a Hassan Pérez Casabona",
-      "resumen": "Cubainformación - Foto: FB de Eleazar Rubio Aldarán.- Hassan Pérez Casabona es profesor del Centro d...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125661-si-cuba-fuera-un-estado-fallido-la-revolucion-habria-colapsado-entrevista-a-hassan-perez-casabona.jpg?t=1792680773",
-      "enlace_original": "https://www.cubainformacion.tv/especiales/20261026/125661/125661-si-cuba-fuera-un-estado-fallido-la-revolucion-habria-colapsado-entrevista-a-hassan-perez-casabona",
-      "destacada": false,
-      "tema": "fuera",
-      "fecha": "Mon, 26 Oct 26 01:00:00 +0100",
-      "id": 41
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Las inclinaciones del gobierno italiano en la ONU a favor del bloqueo contra Cuba y el caso Boronat",
-      "resumen": "Argentino Tellini - Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125709-las-inclinaciones-del-gobierno-italiano-en-la-onu-a-favor-del-bloqueo-contra-cuba-y-el-caso-boronat.jpg?t=1792923519",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261025/125709/125709-las-inclinaciones-del-gobierno-italiano-en-la-onu-a-favor-del-bloqueo-contra-cuba-y-el-caso-boronat",
-      "destacada": false,
-      "tema": "inclinaciones",
-      "fecha": "Sun, 25 Oct 26 11:16:00 +0100",
-      "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "El cerco energético contra Cuba y la respuesta ante las limitaciones de recursos",
-      "resumen": "Cubavisión Internacional.- Frente a las limitaciones de combustible y el acceso restringido a repues...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125708-el-cerco-energetico-contra-cuba-y-la-respuesta-ante-las-limitaciones-de-recursos.jpg?t=1792919756",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261025/125708/125708-el-cerco-energetico-contra-cuba-y-la-respuesta-ante-las-limitaciones-de-recursos",
-      "destacada": false,
-      "tema": "cerco",
-      "fecha": "Sun, 25 Oct 26 10:14:00 +0100",
-      "id": 43
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Defender a Cuba es defender a la Humanidad: caravana salvadoreña de solidaridad",
-      "resumen": "San Salvador, 24 oct (Prensa Latina) Colectivos solidarios salvadoreños se concentraron frent...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125707-defender-a-cuba-es-defender-a-la-humanidad-caravana-salvadorena-de-solidaridad.jpg?t=1792919574",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261025/125707/125707-defender-a-cuba-es-defender-a-la-humanidad-caravana-salvadorena-de-solidaridad",
-      "destacada": false,
-      "tema": "defender",
-      "fecha": "Sun, 25 Oct 26 10:11:00 +0100",
       "id": 44
     },
     {
@@ -603,19 +603,6 @@
     },
     {
       "categoria": "salud",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba prohíbe importar y comercializar bebidas energizantes con alcohol",
-      "resumen": "no permitirá importar y comercializar bebidas energizantes con alcohol y extinguirá los registros sanitarios que autorizaban su entrada al país, anunció hoy el Ministerio de Salud Pública (Minsap)",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/25/cuba-prohibe-importar-y-comercializar-bebidas-energizantes-con-alcohol/",
-      "destacada": false,
-      "tema": "prohíbe",
-      "fecha": "Sun, 25 Oct 2026 12:58:00 +0000",
-      "id": 47
-    },
-    {
-      "categoria": "salud",
       "fuente": "https://eltoque.com",
       "fuente_tipo": "alternativa",
       "titulo": "La historia de Yuli: cáncer de mama, maternidad y emigración",
@@ -625,7 +612,7 @@
       "destacada": false,
       "tema": "historia",
       "fecha": "Sun, 25 Oct 2026 18:55:00 GMT",
-      "id": 48
+      "id": 47
     }
   ]
 }
