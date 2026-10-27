@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-27",
-  "hora": "03:21",
-  "total": 47,
+  "hora": "04:23",
+  "total": 52,
   "noticias": [
     {
       "categoria": "transporte",
@@ -30,6 +30,32 @@
       "id": 2
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Una historia de «poder», a pesar de todo",
+      "resumen": "De cómo una madre vence cada día los innumerables obstáculos que la potencia más poderosa del mundo impone al pueblo de Cuba",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba-no-es-una-amenaza/2026-10-26/una-historia-de-poder-a-pesar-de-todo-26-10-2026-19-10-24",
+      "destacada": true,
+      "tema": "historia",
+      "fecha": "Mon, 26 Oct 2026 19:10:24 -0400",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El impacto de un castigo colectivo",
+      "resumen": "El monto total de los perjuicios a Cuba derivados del bloqueo, en el periodo desde el 1ro. de marzo de 2025 al 28 de febrero de 2026, muestra una cifra récord de 8 083 300 000 USD",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba-no-es-una-amenaza/2026-10-26/el-impacto-de-un-castigo-colectivo-26-10-2026-20-10-23",
+      "destacada": true,
+      "tema": "impacto",
+      "fecha": "Mon, 26 Oct 2026 20:10:23 -0400",
+      "id": 4
+    },
+    {
       "categoria": "politica",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
@@ -40,7 +66,7 @@
       "destacada": true,
       "tema": "solidarios",
       "fecha": "Mon, 26 Oct 2026 11:10:57 -0400",
-      "id": 3
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -50,49 +76,49 @@
       "resumen": "Con su partida, la cultura cubana pierde a una de sus voces más singulares",
       "imagen_url": "",
       "enlace_original": "http://www.granma.cu/cultura/2026-10-26/fallecio-olga-navarro-thauller-la-vedette-del-verso-26-10-2026-20-10-10",
-      "destacada": true,
+      "destacada": false,
       "tema": "falleció",
       "fecha": "Mon, 26 Oct 2026 20:10:10 -0400",
-      "id": 4
+      "id": 6
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Organizaciones rechazan bloqueos de transportistas en zonas de México",
-      "resumen": "Ciudad de México, 26 oct (Prensa Latina) Organizaciones pertenecientes a la Confederación de Cámaras Industriales rechazaron hoy los bloqueos carreteros de transportistas en varias regiones de México y expresaron su disposición al diálogo para atender las demandas del sector. The post Organizaciones",
+      "titulo": "Bloqueo contra Cuba semeja un asedio medieval, dijo teólogo chileno",
+      "resumen": "Santiago de Chile, 27 oct (Prensa Latina) El bloqueo de Estados Unidos contra Cuba, arreciado hoy con el cerco energético, es una medida cruel que tiene mucha similitud con un asedio medieval, denunció el teólogo y académico chileno Álvaro Ramis. The post Bloqueo contra Cuba semeja un asedio medieva",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/26/organizaciones-rechazan-bloqueos-de-transportistas-en-zonas-de-mexico/",
-      "destacada": true,
-      "tema": "organizaciones",
-      "fecha": "Tue, 27 Oct 2026 02:53:53 +0000",
-      "id": 5
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Confianza pública en Gobierno de Milei, la más baja en su mandato",
-      "resumen": "Buenos Aires, 26 oct (Prensa Latina) El Índice de Confianza del Gobierno (ICG), que elabora mensualmente la Universidad Torcuato Di Tella, registró en octubre un leve aumento respecto a septiembre, sin embargo, es el más bajo de todo su mandato, informó hoy esa institución privada. The post Confianz",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/26/confianza-publica-en-gobierno-de-milei-la-mas-baja-en-su-mandato/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/27/bloqueo-contra-cuba-semeja-un-asedio-medieval-dijo-teologo-chileno/",
       "destacada": false,
-      "tema": "confianza",
-      "fecha": "Tue, 27 Oct 2026 01:42:15 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Lula agradece mensaje de Díaz-Canel por triunfo electoral",
-      "resumen": "Brasilia, 26 oct (Prensa Latina) El presidente brasileño, Luiz Inácio Lula da Silva, agradeció hoy a su homólogo de Cuba, Miguel Díaz-Canel, el mensaje de felicitación por la victoria electoral y reafirmó la solidaridad hacia la isla caribeña. The post Lula agradece mensaje de Díaz-Canel por triunfo",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/26/lula-agradece-mensaje-de-diaz-canel-por-triunfo-electoral-2/",
-      "destacada": false,
-      "tema": "agradece",
-      "fecha": "Tue, 27 Oct 2026 01:37:12 +0000",
+      "tema": "bloqueo",
+      "fecha": "Tue, 27 Oct 2026 04:14:04 +0000",
       "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba confía en ratificar en la ONU el amplio rechazo al bloqueo",
+      "resumen": "La Habana, 27 oct (Prensa Latina) Cuba acudirá hoy a la Asamblea General de la ONU con la convicción de que la comunidad internacional volverá a respaldar su resolución contra el bloqueo, pese a las denuncias de presiones ejercidas por Washington. The post Cuba confía en ratificar en la ONU el ampli",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/27/cuba-confia-en-ratificar-en-la-onu-el-amplio-rechazo-al-bloqueo/",
+      "destacada": false,
+      "tema": "confía",
+      "fecha": "Tue, 27 Oct 2026 04:08:02 +0000",
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Solidarios con Cuba en Ecuador convocan a jornada contra el bloqueo",
+      "resumen": "Quito, 27 oct (Prensa Latina) Organizaciones de solidaridad con Cuba en Ecuador convocaron hoy a una jornada de acompañamiento a la presentación en Naciones Unidas de una resolución que reclama el fin del bloqueo impuesto por Estados Unidos a la isla. The post Solidarios con Cuba en Ecuador convocan",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/27/solidarios-con-cuba-en-ecuador-convocan-a-jornada-contra-el-bloqueo/",
+      "destacada": false,
+      "tema": "solidarios",
+      "fecha": "Tue, 27 Oct 2026 04:06:31 +0000",
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -105,7 +131,7 @@
       "destacada": false,
       "tema": "oscuridad",
       "fecha": "Mon, 26 Oct 2026 20:47:00 +0000",
-      "id": 8
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -118,7 +144,7 @@
       "destacada": false,
       "tema": "fábrica",
       "fecha": "Mon, 26 Oct 2026 20:22:36 +0000",
-      "id": 9
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -131,7 +157,7 @@
       "destacada": false,
       "tema": "diferencia",
       "fecha": "Mon, 26 Oct 2026 21:02:23 +0000",
-      "id": 10
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -144,7 +170,7 @@
       "destacada": false,
       "tema": "asesinato",
       "fecha": "Mon, 26 Oct 2026 18:08:45 +0000",
-      "id": 11
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -157,7 +183,20 @@
       "destacada": false,
       "tema": "exige",
       "fecha": "Mon, 26 Oct 2026 12:23:26 +0000",
-      "id": 12
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba enfrentará a Polonia, Alemania y Eslovenia en el Mundial femenino de voleibol de 2027",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e197721-s27066-nid343917-cuba-enfrentara-polonia-alemania-eslovenia-mundial",
+      "destacada": false,
+      "tema": "enfrentará",
+      "fecha": "Tue, 27 Oct 2026 03:36:34 +0100",
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -170,7 +209,7 @@
       "destacada": false,
       "tema": "otros",
       "fecha": "Tue, 27 Oct 2026 03:09:21 +0100",
-      "id": 13
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -183,7 +222,7 @@
       "destacada": false,
       "tema": "cubalex",
       "fecha": "Tue, 27 Oct 2026 02:40:45 +0100",
-      "id": 14
+      "id": 17
     },
     {
       "categoria": "energia",
@@ -196,7 +235,7 @@
       "destacada": false,
       "tema": "chambas",
       "fecha": "Tue, 27 Oct 2026 02:13:35 +0100",
-      "id": 15
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -209,7 +248,7 @@
       "destacada": false,
       "tema": "cubana",
       "fecha": "Tue, 27 Oct 2026 01:29:01 +0100",
-      "id": 16
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -222,7 +261,7 @@
       "destacada": false,
       "tema": "rubio",
       "fecha": "Tue, 27 Oct 2026 01:20:23 +0100",
-      "id": 17
+      "id": 20
     },
     {
       "categoria": "economia",
@@ -235,20 +274,33 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 27 Oct 2026 01:11:01 +0100",
-      "id": 18
+      "id": 21
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.radiocubana.cu",
+      "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Un día como hoy en la vida y obra de Fidel. 26 de octubre",
-      "resumen": "&#8211; 26 de octubre de 1959. Fidel hace el resumen del acto masivo de condena del pueblo cubano a la agresión perpetrada el 21 de ese mes a La Habana por tripulantes de avionetas procedentes del territorio norteamericano. Expresa su satisfacción por el respaldo del pueblo y su extraordinario entus",
+      "titulo": "Transformations with the Workers",
+      "resumen": "José Antonio Pérez Pérez, a member of the CTC National Secretariat, is part of the group in charge of training union cadres and leaders throughout the country in the current economic, political and social circumstances that Cuba is experiencing",
       "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/un-dia-como-hoy-en-la-vida-y-obra-de-fidel/un-dia-como-hoy-en-la-vida-y-obra-de-fidel-26-de-octubre/",
+      "enlace_original": "https://www.trabajadores.cu/20261026/transformations-with-the-workers/",
       "destacada": false,
-      "tema": "fidel",
-      "fecha": "Mon, 26 Oct 2026 04:24:55 +0000",
-      "id": 19
+      "tema": "transformations",
+      "fecha": "Mon, 26 Oct 2026 21:14:09 +0000",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La hora de Cuba en Naciones Unidas",
+      "resumen": "Con Cuba y contra el Imperio, el mundo hablará una vez más",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261026/la-hora-de-cuba-en-naciones-unidas/",
+      "destacada": false,
+      "tema": "naciones",
+      "fecha": "Mon, 26 Oct 2026 18:59:15 +0000",
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -261,7 +313,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Tue, 27 Oct 2026 01:24:14 +0100",
-      "id": 20
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -274,7 +326,7 @@
       "destacada": false,
       "tema": "necesita",
       "fecha": "Mon, 26 Oct 2026 23:33:10 +0100",
-      "id": 21
+      "id": 25
     },
     {
       "categoria": "salud",
@@ -287,7 +339,7 @@
       "destacada": false,
       "tema": "preso",
       "fecha": "Mon, 26 Oct 2026 23:12:35 +0100",
-      "id": 22
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -300,7 +352,7 @@
       "destacada": false,
       "tema": "incluye",
       "fecha": "Mon, 26 Oct 2026 20:52:06 +0100",
-      "id": 23
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -313,7 +365,7 @@
       "destacada": false,
       "tema": "chanchullos",
       "fecha": "Mon, 26 Oct 2026 20:20:27 +0100",
-      "id": 24
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -326,7 +378,7 @@
       "destacada": false,
       "tema": "denuncias",
       "fecha": "Mon, 26 Oct 2026 20:03:08 +0100",
-      "id": 25
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -339,7 +391,7 @@
       "destacada": false,
       "tema": "llegan",
       "fecha": "Mon, 26 Oct 2026 18:51:31 +0100",
-      "id": 26
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -352,7 +404,7 @@
       "destacada": false,
       "tema": "mucho",
       "fecha": "Mon, 26 Oct 2026 17:23:32 +0100",
-      "id": 27
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -365,7 +417,20 @@
       "destacada": false,
       "tema": "medea",
       "fecha": "Mon, 26 Oct 2026 15:16:18 +0100",
-      "id": 28
+      "id": 32
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al Día",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481823.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Tue, 27 Oct 2026 00:05:30 -0400",
+      "id": 33
     },
     {
       "categoria": "transporte",
@@ -378,7 +443,7 @@
       "destacada": false,
       "tema": "libertad",
       "fecha": "Mon, 26 Oct 2026 23:00:00 -0400",
-      "id": 29
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -391,7 +456,20 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Mon, 26 Oct 2026 21:00:00 -0400",
-      "id": 30
+      "id": 35
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Asamblea General de la ONU debate por 34 ocasión proyecto de resolución sobre el fin del bloqueo de EE.UU. a Cuba",
+      "resumen": "Ante la Asamblea General de la ONU estará nuevamente la verdad sobre el bloqueo contra Cuba, cuando este martes y miércoles se examine el proyecto de resolución presentado por la Isla. Será la trigésima cuarta ocasión en que el máximo órgano deliberativo de la ONU someta a consideración el proyecto ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/27/asamblea-general-de-la-onu-debate-por-34-ocasion-proyecto-de-resolucion-sobre-el-fin-del-bloqueo-de-ee-uu-a-cuba/",
+      "destacada": false,
+      "tema": "asamblea",
+      "fecha": "Tue, 27 Oct 2026 04:05:34 +0000",
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -404,7 +482,7 @@
       "destacada": false,
       "tema": "india",
       "fecha": "Mon, 26 Oct 2026 19:34:12 +0000",
-      "id": 31
+      "id": 37
     },
     {
       "categoria": "politica",
@@ -417,20 +495,7 @@
       "destacada": false,
       "tema": "rusia",
       "fecha": "Mon, 26 Oct 2026 17:25:09 +0000",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Guantes que el bloqueo impide producir",
-      "resumen": "La fábrica de artículos de látex de la provincia de Las Tunas, única de su tipo en Cuba, no produce guantes quirúrgicos esterilizados desde el año 2017 y la crudeza de esa afirmación va más allá de las palabras. Su impacto duele en los salones de las instituciones sanitarias, en los niños y adultos ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/26/guantes-que-el-bloqueo-impide-producir/",
-      "destacada": false,
-      "tema": "guantes",
-      "fecha": "Mon, 26 Oct 2026 17:13:42 +0000",
-      "id": 33
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -443,7 +508,7 @@
       "destacada": false,
       "tema": "brasil",
       "fecha": "Mon, 26 Oct 26 10:42:00 +0100",
-      "id": 34
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -456,7 +521,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 26 Oct 26 08:52:00 +0100",
-      "id": 35
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -469,7 +534,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Mon, 26 Oct 26 08:43:00 +0100",
-      "id": 36
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -482,7 +547,7 @@
       "destacada": false,
       "tema": "contro",
       "fecha": "Mon, 26 Oct 26 08:43:00 +0100",
-      "id": 37
+      "id": 42
     },
     {
       "categoria": "politica",
@@ -495,7 +560,7 @@
       "destacada": false,
       "tema": "venció",
       "fecha": "Mon, 26 Oct 26 08:43:00 +0100",
-      "id": 38
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -508,7 +573,7 @@
       "destacada": false,
       "tema": "celebrando",
       "fecha": "Mon, 26 Oct 26 08:41:00 +0100",
-      "id": 39
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -521,7 +586,7 @@
       "destacada": false,
       "tema": "rubio",
       "fecha": "Mon, 26 Oct 26 08:32:00 +0100",
-      "id": 40
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -534,7 +599,7 @@
       "destacada": false,
       "tema": "innova",
       "fecha": "Mon, 26 Oct 26 08:18:00 +0100",
-      "id": 41
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -547,7 +612,7 @@
       "destacada": false,
       "tema": "venezuela",
       "fecha": "Mon, 26 Oct 26 08:07:00 +0100",
-      "id": 42
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -560,7 +625,7 @@
       "destacada": false,
       "tema": "semana",
       "fecha": "Mon, 26 Oct 26 07:46:00 +0100",
-      "id": 43
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -573,7 +638,7 @@
       "destacada": false,
       "tema": "escuela",
       "fecha": "Mon, 26 Oct 2026 12:14:00 +0000",
-      "id": 44
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -586,7 +651,7 @@
       "destacada": false,
       "tema": "yosney",
       "fecha": "Mon, 26 Oct 2026 12:00:00 +0000",
-      "id": 45
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -599,7 +664,7 @@
       "destacada": false,
       "tema": "destierros",
       "fecha": "Mon, 26 Oct 2026 11:40:57 GMT",
-      "id": 46
+      "id": 51
     },
     {
       "categoria": "economia",
@@ -612,7 +677,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 26 Oct 2026 11:00:00 GMT",
-      "id": 47
+      "id": 52
     }
   ]
 }
