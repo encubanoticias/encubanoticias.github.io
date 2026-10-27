@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-27",
-  "hora": "15:35",
-  "total": 46,
+  "hora": "20:19",
+  "total": 49,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -17,6 +17,19 @@
       "id": 1
     },
     {
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El irrealizable anhelo imperialista de apoderarse de Cuba",
+      "resumen": "Desde el seno del imperio continúan las amenazas contra Cuba, como una demostración de que, como expresara el presidente Miguel Díaz-Canel Bermúdez, el Gobierno de EE. UU. deja claro que no renuncia a sus ambiciones de dominación&nbsp;sobre la isla",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-27/el-irrealizable-anhelo-imperialista-de-apoderarse-de-cuba-27-10-2026-01-10-42",
+      "destacada": true,
+      "tema": "irrealizable",
+      "fecha": "Tue, 27 Oct 2026 01:10:42 -0400",
+      "id": 2
+    },
+    {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
@@ -27,7 +40,7 @@
       "destacada": true,
       "tema": "contra",
       "fecha": "Tue, 27 Oct 2026 11:10:55 -0400",
-      "id": 2
+      "id": 3
     },
     {
       "categoria": "transporte",
@@ -40,7 +53,7 @@
       "destacada": true,
       "tema": "agradece",
       "fecha": "Tue, 27 Oct 2026 10:10:39 -0400",
-      "id": 3
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -53,59 +66,33 @@
       "destacada": true,
       "tema": "espectáculo",
       "fecha": "Tue, 27 Oct 2026 10:10:54 -0400",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Daño a Cuba es enorme, denuncia G77+China y pide fin del bloqueo",
-      "resumen": "Naciones Unidas, 27 oct (Prensa Latina) Los daños a Cuba por el bloqueo de Estados Unidos son enormes, denunció hoy aquí el Grupo de los 77 más China, que demandó el fin inmediato de esa política. The post Daño a Cuba es enorme, denuncia G77+China y pide fin del bloqueo first appeared on Noticias Pr",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/27/dano-a-cuba-es-enorme-denuncia-g77china-y-pide-fin-del-bloqueo/",
-      "destacada": true,
-      "tema": "enorme",
-      "fecha": "Tue, 27 Oct 2026 15:23:56 +0000",
       "id": 5
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Grupo africano llama a levantar inmediatamente bloqueo a Cuba",
-      "resumen": "Naciones Unidas, 27 oct (Prensa Latina) El Grupo Africano llamó hoy en la Asamblea General de Naciones Unidas (AGNU) a levantar de manera inmediata el bloqueo económico, comercial y financiero de Estados Unidos a Cuba, que actualmente genera mayores dificultades a su población. The post Grupo africa",
+      "titulo": "Cubanos en Argentina respaldan al canciller Bruno Rodríguez",
+      "resumen": "Buenos Aires, 27 oct (Prensa Latina) La Unión de Residentes Cubanos en Argentina (URCA), manifestó hoy su “firme y absoluto respaldo” al canciller Bruno Rodríguez por su “valiente y veraz intervención” en la ONU para desmentir al representante de Estados Unidos. The post Cubanos en Argentina respald",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/27/grupo-africano-llama-a-levantar-inmediatamente-bloqueo-a-cuba/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/27/cubanos-en-argentina-respaldan-al-canciller-bruno-rodriguez/",
       "destacada": false,
-      "tema": "grupo",
-      "fecha": "Tue, 27 Oct 2026 15:22:52 +0000",
+      "tema": "cubanos",
+      "fecha": "Tue, 27 Oct 2026 19:46:18 +0000",
       "id": 6
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Municipio italiano de Almese condena bloqueo EEUU contra Cuba",
-      "resumen": "Roma, 27 oct (Prensa Latina) La Junta Municipal de Almese, en la región italiana de Piamonte, aprobó una moción de solidaridad con Cuba que condena el bloqueo estadounidense y solicita al Gobierno italiano y a la Unión Europea (UE) que promuevan su levantamiento. The post Municipio italiano de Almes",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/27/municipio-italiano-de-almese-condena-bloqueo-eeuu-contra-cuba/",
-      "destacada": false,
-      "tema": "municipio",
-      "fecha": "Tue, 27 Oct 2026 15:02:51 +0000",
-      "id": 7
-    },
-    {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Asean adelanta voto en ONU contra el bloqueo a Cuba",
-      "resumen": "Naciones Unidas, 27 oct (Prensa Latina) La Asociación de Naciones del Sudeste Asiático (Asean) adelantó hoy aquí que apoyará en la Asamblea General de la ONU una nueva resolución que reclama el fin del bloqueo estadounidense contra Cuba. The post Asean adelanta voto en ONU contra el bloqueo a Cuba f",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/27/asean-adelanta-voto-en-onu-contra-el-bloqueo-a-cuba/",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba cierra la mayor mina de zinc y plomo del país por \"causas externas\"",
+      "resumen": "El proyecto Castellanos, en Pinar del Río, era explotado por una empresa mixta de Geominera, sancionada por EE UU",
+      "imagen_url": "https://static.14ymedio.com/clip/79f70fdd-fe7f-4b68-9886-ee172fbb50b5_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/cuba-cierra-mayor-mina-zinc_1_1132489.html",
       "destacada": false,
-      "tema": "asean",
-      "fecha": "Tue, 27 Oct 2026 14:47:19 +0000",
-      "id": 8
+      "tema": "cierra",
+      "fecha": "Tue, 27 Oct 2026 15:57:36 +0000",
+      "id": 7
     },
     {
       "categoria": "energia",
@@ -118,6 +105,19 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 27 Oct 2026 13:22:08 +0000",
+      "id": 8
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Félix Navarro lleva 66 días en aislamiento con una \"grave situación\" de salud",
+      "resumen": "Su estancia en esa celda “no responde a tratamiento médico alguno y se utiliza como medida punitiva encubierta”, denuncia Cubalex",
+      "imagen_url": "https://static.14ymedio.com/clip/491055dd-4ffe-4f51-9b56-2f8b5d645d21_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/felix-navarro-lleva-66-dias_1_1132493.html",
+      "destacada": false,
+      "tema": "félix",
+      "fecha": "Tue, 27 Oct 2026 18:44:45 +0000",
       "id": 9
     },
     {
@@ -148,94 +148,29 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La fábrica de guantes quirúrgicos de Las Tunas, paradigma del fracaso industrial de Cuba",
-      "resumen": "La prensa oficial atribuye al embargo el desplome de la producción de artículos de látex que iba muy bien hasta 2017",
-      "imagen_url": "https://static.14ymedio.com/clip/368fa60e-604b-4541-b63f-aeebd3b894a2_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/fabrica-guantes-quirurgicos-las-tunas-fracaso-industrial-cuba_1_1132452.html",
+      "titulo": "Cuba, ante la transición: una ruta para no perder la libertad",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u209407-e192519-s27068-nid343978-cuba-transicion-ruta-perder-libertad",
       "destacada": false,
-      "tema": "fábrica",
-      "fecha": "Mon, 26 Oct 2026 20:22:36 +0000",
+      "tema": "transición",
+      "fecha": "Tue, 27 Oct 2026 20:29:48 +0100",
       "id": 12
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Un asesinato “con extrema violencia” en La Habana, el más reciente feminicidio en Cuba",
-      "resumen": "Alas Tensas registra además 23 posibles casos entre 2025 y 2026 y 38 intentos de asesinato de violencia machista",
-      "imagen_url": "https://static.14ymedio.com/clip/103d5157-86f6-45c7-8ed0-488664095d3d_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/asesinato-extrema-violencia-habana-reciente_1_1132455.html",
+      "titulo": "El triunfo de Lula: ¿Un salvavidas geopolítico para el régimen cubano?",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u209427-e192519-s27068-nid343971-triunfo-lula-salvavidas-geopolitico-regimen",
       "destacada": false,
-      "tema": "asesinato",
-      "fecha": "Mon, 26 Oct 2026 18:08:45 +0000",
+      "tema": "triunfo",
+      "fecha": "Tue, 27 Oct 2026 19:35:46 +0100",
       "id": 13
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Enfermeras cubanas deben mantener con vida a recién nacidos con sus propias manos durante los apagones en Holguín",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e135253-s27061-nid343934-enfermeras-cubanas-deben-mantener-vida-recien",
-      "destacada": false,
-      "tema": "apagones",
-      "fecha": "Tue, 27 Oct 2026 15:03:57 +0100",
-      "id": 14
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel celebra a Machado Ventura «activo en la vanguardia» en el ocaso de la generación histórica",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u207888-e207888-s27061-nid343931-diaz-canel-celebra-machado-ventura-activo",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Tue, 27 Oct 2026 15:00:27 +0100",
-      "id": 15
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«¡Estamos bajo dictadura!»: El Chacal estalla contra el régimen cubano y arremete contra Díaz-Canel en pleno concierto",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u65722-e65722-s27065-nid343927-estamos-bajo-dictadura-chacal-estalla-contra",
-      "destacada": false,
-      "tema": "estamos",
-      "fecha": "Tue, 27 Oct 2026 14:30:36 +0100",
-      "id": 16
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubana describe la miseria en la isla: «Normalizar el hambre es aceptar que la dignidad es un lujo»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e135253-s27061-nid343932-cubana-describe-miseria-isla-normalizar-hambre",
-      "destacada": false,
-      "tema": "cubana",
-      "fecha": "Tue, 27 Oct 2026 14:23:51 +0100",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Trump y Rubio visitarán un petrolero con crudo venezolano en Texas mientras Cuba sufre la falta de combustible",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e199370-s27061-nid343922-trump-rubio-visitaran-petrolero-crudo-venezolano",
-      "destacada": false,
-      "tema": "trump",
-      "fecha": "Tue, 27 Oct 2026 14:04:12 +0100",
-      "id": 18
     },
     {
       "categoria": "politica",
@@ -248,7 +183,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Tue, 27 Oct 2026 14:25:11 +0000",
-      "id": 19
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -261,7 +196,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Tue, 27 Oct 2026 14:01:26 +0000",
-      "id": 20
+      "id": 15
     },
     {
       "categoria": "salud",
@@ -274,7 +209,150 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Tue, 27 Oct 2026 04:26:08 +0000",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El litoral habanero embravecido",
+      "resumen": "Imágenes tomadas en El Malecón de La Habana",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261027/el-litoral-habanero-embravecido/",
+      "destacada": false,
+      "tema": "litoral",
+      "fecha": "Tue, 27 Oct 2026 20:17:59 +0000",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Mejoras en capacidad de diagnóstico en la Ciénaga de Zapata",
+      "resumen": "Ello es posible gracias a un equipo de ultrasonido donado por la Agencia Medicuba Suiza, con la colaboración del grupo Nueva Esperanza Suiza",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261027/mejoras-en-capacidad-de-diagnostico-en-la-cienaga-de-zapata/",
+      "destacada": false,
+      "tema": "mejoras",
+      "fecha": "Tue, 27 Oct 2026 20:11:32 +0000",
+      "id": 18
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El mundo vuelve a alzar la voz por Cuba en la ONU",
+      "resumen": "El impacto del bloqueo económico, comercial y financiero, ahora agravado por el cerco energético impuesto por el Gobierno estadounidense, tiene consecuencias que afectan la vida de las familias cubanas. Entre ellas: limita el acceso a medicamentos, frena la producción de alimentos, encarece el trans",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261027/el-mundo-vuelve-a-alzar-la-voz-por-cuba-en-la-onu/",
+      "destacada": false,
+      "tema": "mundo",
+      "fecha": "Tue, 27 Oct 2026 19:53:59 +0000",
+      "id": 19
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba rechaza acusaciones de EE. UU. en Naciones Unidas",
+      "resumen": "El ministro de Relaciones Exteriores de Cuba, Bruno Rodríguez Parrilla, respondió este martes a las acusaciones del embajador estadounidense ante Naciones Unidas, Mike Waltz, durante el debate de la Asamblea General sobre el proyecto de Resolución que exige el fin del bloqueo económico, comercial y ",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261027/cuba-rechaza-acusaciones-de-ee-uu-en-naciones-unidas/",
+      "destacada": false,
+      "tema": "rechaza",
+      "fecha": "Tue, 27 Oct 2026 18:13:33 +0000",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Solidaridad de México en los campos de Las Tunas",
+      "resumen": "México tiene la voluntad de continuar construyendo cooperación con Cuba, ratificó en Las Tunas Alejandra del Moral Vela, directora ejecutiva de la Agencia Mexicana de Cooperación Internacional para el Desarrollo (Amexcid).",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261027/solidaridad-de-mexico-en-los-campos-de-las-tunas/",
+      "destacada": false,
+      "tema": "solidaridad",
+      "fecha": "Tue, 27 Oct 2026 15:28:18 +0000",
       "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Azuzar el oído si de bloqueo hablamos",
+      "resumen": "Llegó octubre y los cubanos tenemos marcado ese mes, al ser el escenario donde en la Asamblea General de la ONU se vota, año tras año, por un proyecto de resolución que reclama el cese del bloqueo estadounidense contra Cuba",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261027/azuzar-el-oido-si-de-bloqueo-hablamos/",
+      "destacada": false,
+      "tema": "azuzar",
+      "fecha": "Tue, 27 Oct 2026 15:16:54 +0000",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Un año en silencio",
+      "resumen": "Carmen Berta Ibáñez Benítez residente en el Cerro, La Habana se queja que su teléfono, al igual que varios de la zona, están sin servicio desde mediados de diciembre del 2025",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261027/un-ano-en-silencio/",
+      "destacada": false,
+      "tema": "silencio",
+      "fecha": "Tue, 27 Oct 2026 13:11:59 +0000",
+      "id": 23
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El régimen cubano cierra el puesto médico de una cárcel para personas con VIH",
+      "resumen": "El régimen #cubano cierra el puesto médico de la prisión Cuba-Panamá, destinada a reclusos con #VIH, quienes alertan de un \"genocidio premeditado\". #Cubalex denuncia que la medida \"agrava la vulnerabilidad\" de la población penal.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1793129889_69575.html",
+      "destacada": false,
+      "tema": "régimen",
+      "fecha": "Tue, 27 Oct 2026 20:38:09 +0100",
+      "id": 24
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "'No me vas a intimidar': el embajador de EEUU frena a Bruno Rodríguez, que ensaya un acto de repudio en la Asamblea General de la ONU",
+      "resumen": "Al desnudo en la #ONU el matonismo del régimen de #Cuba, al que el embajador de #EEUU pone en su lugar.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793126176_69573.html",
+      "destacada": false,
+      "tema": "intimidar",
+      "fecha": "Tue, 27 Oct 2026 19:36:16 +0100",
+      "id": 25
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Entre pobreza y apagones, Cuba vivirá un invierno con condiciones 'anómalas e inestables'",
+      "resumen": "#Cuba afrontará meses de condiciones meteorológicas \"anómalas e inestables\", con más frentes fríos, lluvias significativas y temperaturas muy bajas, en medio de la pobreza, los apagones y la precariedad habitacional.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793123287_69572.html",
+      "destacada": false,
+      "tema": "apagones",
+      "fecha": "Tue, 27 Oct 2026 18:48:07 +0100",
+      "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La coartada del embargo y las resoluciones de la ONU que lo condenan",
+      "resumen": "Hasta 1989 el #embargo de #EEUU fue objeto de burlas por parte de las autoridades de #Cuba, pero en esa fecha pasó a considerarse la causa de todos los males.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793120402_69570.html",
+      "destacada": false,
+      "tema": "coartada",
+      "fecha": "Tue, 27 Oct 2026 18:00:02 +0100",
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -287,7 +365,7 @@
       "destacada": false,
       "tema": "cubanas",
       "fecha": "Tue, 27 Oct 2026 16:06:22 +0100",
-      "id": 22
+      "id": 28
     },
     {
       "categoria": "energia",
@@ -300,7 +378,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 27 Oct 2026 13:45:22 +0100",
-      "id": 23
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -313,7 +391,7 @@
       "destacada": false,
       "tema": "cualquier",
       "fecha": "Tue, 27 Oct 2026 13:17:06 +0100",
-      "id": 24
+      "id": 30
     },
     {
       "categoria": "salud",
@@ -326,136 +404,58 @@
       "destacada": false,
       "tema": "morir",
       "fecha": "Tue, 27 Oct 2026 12:59:44 +0100",
-      "id": 25
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Miami-Dade advierte que revocará permisos fiscales por negocios ilegales con el régimen de Cuba",
-      "resumen": "El recaudador de impuestos de #MiamiDade investiga el combustible que llega a #CIMEX y advierte de medidas contra las empresas en la ciudad que violen las leyes federales.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793099721_69566.html",
-      "destacada": false,
-      "tema": "miami",
-      "fecha": "Tue, 27 Oct 2026 12:15:21 +0100",
-      "id": 26
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "'Cuba es un país de paz', se jacta Fernández de Cossío pese a la intervención del régimen en guerras ajenas",
-      "resumen": "El viceministro del #MINREX, #CarlosFernándezDeCossío, acusa a #EEUU de intimidar a su propio pueblo y afirma que #Cuba es \"un país de paz\", omitiendo que el #RégimenCubano ha participado en guerras ajenas.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793097733_69565.html",
-      "destacada": false,
-      "tema": "jacta",
-      "fecha": "Tue, 27 Oct 2026 11:42:13 +0100",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Muere la poeta cubana Olga Navarro, autora de canciones de Elena Burke y Vicentico Valdés",
-      "resumen": "#OlgaNavarro, compositora musical, poeta, actriz y declamadora #cubana, falleció a los 97 años.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cultura/1793060654_69562.html",
-      "destacada": false,
-      "tema": "muere",
-      "fecha": "Tue, 27 Oct 2026 01:24:14 +0100",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba necesita 'un cambio muy drástico', insiste Marco Rubio",
-      "resumen": "El tono de #MarcoRubio hacia el régimen de #Cuba ha cambiado y sus nuevas declaraciones lo confirman.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793053990_69560.html",
-      "destacada": false,
-      "tema": "necesita",
-      "fecha": "Mon, 26 Oct 2026 23:33:10 +0100",
-      "id": 29
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El preso político Félix Navarro vive una 'grave situación' de salud tras más de dos meses en aislamiento",
-      "resumen": "El #PresoPolítico cubano Félix Navarro lleva más de dos meses en aislamiento en la prisión de Agüica, sin recibir la atención médica y sufriendo vejaciones que violan \"de manera flagrante\" los #DerechosHumanos.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1793052755_69561.html",
-      "destacada": false,
-      "tema": "preso",
-      "fecha": "Mon, 26 Oct 2026 23:12:35 +0100",
-      "id": 30
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barrio adentro",
-      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481833.html",
-      "destacada": false,
-      "tema": "barrio",
-      "fecha": "Tue, 27 Oct 2026 11:30:00 -0400",
       "id": 31
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Lawton Libre",
-      "resumen": "El reconocido opositor cubano Dr. Oscar Elías Biscet aborda la situación de los derechos humanos en Cuba y la conquista de las libertades básicas de los cubanos, bajo el precepto de que “si aprendes a ser libre, todos los seremos”. Correo Electrónico: lawtonlibremarti@gmail.com",
+      "titulo": "Las noticias como son",
+      "resumen": "Amado Gil y José Luis Ramos, en tertulia con Yoani Sánchez y José Luis Tan Estrada: Se enfrentan canciller de Cuba y el embajador de EE.UU. ante la ONU. Arremetida del régimen cubano contra los que tienen comunicación satelital de “Starlink”. La inseguridad ciudadana como nunca antes visto.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481830.html",
+      "enlace_original": "https://www.martinoticias.com/a/las-noticias-como-son/482885.html",
       "destacada": false,
-      "tema": "lawton",
-      "fecha": "Tue, 27 Oct 2026 11:00:00 -0400",
+      "tema": "noticias",
+      "fecha": "Tue, 27 Oct 2026 16:07:44 -0400",
       "id": 32
     },
     {
       "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Hoy en la Mesa Redonda: Debate del bloqueo a Cuba en Asamblea General de ONU",
-      "resumen": "La Mesa Redonda transmitirá hoy, a partir de las 7 pm, un resumen de los debates iniciados este martes 27 de octubre en la Asamblea General de Naciones Unidas sobre la Necesidad de poner fin al Bloqueo económico, comercial y financiero de Estados Unidos contra nuestro país. The post Hoy en la Mesa R",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Rubio muestra la \"isla privada\" de la familia Castro un día antes de la votación en la ONU",
+      "resumen": "EEUU volvió a cargar contra el régimen cubano al difundir imágenes de la \"isla privada\" de la familia Castro, en el marco de la votación anual en la ONU sobre la resolución que condena el embargo a Cuba.",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/27/hoy-en-la-mesa-redonda-debate-del-bloqueo-a-cuba-en-asamblea-general-de-onu/",
+      "enlace_original": "https://www.martinoticias.com/a/rubio-publica-la-isla-privada-de-la-familia-castro-un-d%c3%ada-antes-de-la-votaci%c3%b3n-en-la-onu/482879.html",
       "destacada": false,
-      "tema": "redonda",
-      "fecha": "Tue, 27 Oct 2026 15:28:41 +0000",
+      "tema": "rubio",
+      "fecha": "Tue, 27 Oct 2026 15:36:51 -0400",
       "id": 33
     },
     {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "Lula agradece mensaje de felicitación de Díaz-Canel",
-      "resumen": "Luiz Inácio Lula da Silva agradeció el mensaje del presidente cubano Miguel Díaz-Canel y reafirmó su solidaridad con Cuba. En su publicación en X, expresó: “Muchísimas gracias por el mensaje, presidente Miguel Díaz-Canel, @DiazCanelB. Celebramos en Brasil una victoria de la democracia y de la integr",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/27/lula-agradece-mensaje-de-felicitacion-de-diaz-canel/",
+      "titulo": "Canciller cubano encara en la ONU al embajador del régimen de EE. UU., desmonta sus mentiras y denuncia sus crímenes",
+      "resumen": "Canciller cubano obliga a breve suspensión de sesión en ONU y encara a embajador de EU El can...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125752-canciller-cubano-encara-en-la-onu-al-embajador-del-regimen-de-ee-uu-desmonta-sus-mentiras-y-denuncia-sus-crimenes.jpg?t=1793123547",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261027/125752/125752-canciller-cubano-encara-en-la-onu-al-embajador-del-regimen-de-ee-uu-desmonta-sus-mentiras-y-denuncia-sus-crimenes",
       "destacada": false,
-      "tema": "agradece",
-      "fecha": "Tue, 27 Oct 2026 12:37:27 +0000",
+      "tema": "canciller",
+      "fecha": "Tue, 27 Oct 26 18:43:00 +0100",
       "id": 34
     },
     {
       "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
+      "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "Asamblea General de la ONU debate por 34 ocasión proyecto de resolución sobre el fin del bloqueo de EE.UU. a Cuba",
-      "resumen": "Ante la Asamblea General de la ONU estará nuevamente la verdad sobre el bloqueo contra Cuba, cuando este martes y miércoles se examine el proyecto de resolución presentado por la Isla. Será la trigésima cuarta ocasión en que el máximo órgano deliberativo de la ONU someta a consideración el proyecto ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/27/asamblea-general-de-la-onu-debate-por-34-ocasion-proyecto-de-resolucion-sobre-el-fin-del-bloqueo-de-ee-uu-a-cuba/",
+      "titulo": "Organizaciones sindicales y educativas internacionales exigen el fin del bloqueo de EEUU contra Cuba",
+      "resumen": "Foto: Abel Padrón Padilla/ Cubadebate.",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125751-organizaciones-sindicales-y-educativas-internacionales-exigen-el-fin-del-bloqueo-de-eeuu-contra-cuba.jpg?t=1793121405",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261027/125751/125751-organizaciones-sindicales-y-educativas-internacionales-exigen-el-fin-del-bloqueo-de-eeuu-contra-cuba",
       "destacada": false,
-      "tema": "asamblea",
-      "fecha": "Tue, 27 Oct 2026 04:05:34 +0000",
+      "tema": "organizaciones",
+      "fecha": "Tue, 27 Oct 26 18:12:00 +0100",
       "id": 35
     },
     {
@@ -488,19 +488,6 @@
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "El irrealizable anhelo imperialista de apoderarse de Cuba",
-      "resumen": "Por Raúl Capote* - Original en Granma.",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125747-el-irrealizable-anhelo-imperialista-de-apoderarse-de-cuba.jpg?t=1793087208",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261027/125747/125747-el-irrealizable-anhelo-imperialista-de-apoderarse-de-cuba",
-      "destacada": false,
-      "tema": "irrealizable",
-      "fecha": "Tue, 27 Oct 26 08:46:00 +0100",
-      "id": 38
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
       "titulo": "Cuba contra el bloqueo",
       "resumen": "El Titan de #Cuba",
       "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125746-cuba-contra-el-bloqueo.jpg?t=1793087177",
@@ -508,7 +495,7 @@
       "destacada": false,
       "tema": "contra",
       "fecha": "Tue, 27 Oct 26 08:46:00 +0100",
-      "id": 39
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -521,7 +508,7 @@
       "destacada": false,
       "tema": "quedaron",
       "fecha": "Tue, 27 Oct 26 08:22:00 +0100",
-      "id": 40
+      "id": 39
     },
     {
       "categoria": "economia",
@@ -534,7 +521,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Tue, 27 Oct 26 08:07:00 +0100",
-      "id": 41
+      "id": 40
     },
     {
       "categoria": "energia",
@@ -547,7 +534,7 @@
       "destacada": false,
       "tema": "millones",
       "fecha": "Tue, 27 Oct 26 08:02:00 +0100",
-      "id": 42
+      "id": 41
     },
     {
       "categoria": "economia",
@@ -560,20 +547,72 @@
       "destacada": false,
       "tema": "transforma",
       "fecha": "Tue, 27 Oct 26 07:58:00 +0100",
+      "id": 42
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Historia de la ciudad: La Habana contada por Ciro Bianchi",
+      "resumen": "Como parte de la campaña “Habana mía”, dedicada al aniversario de la ciudad, nos acercamos a las tertulias habituales del Premio Nacional de Periodismo sobre la historia de la capital y sus habitantes La entrada Historia de la ciudad: La Habana contada por Ciro Bianchi se publicó primero en Tribuna ",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/historia-de-la-ciudad-la-habana-contada-por-ciro-bianchi/",
+      "destacada": false,
+      "tema": "historia",
+      "fecha": "Tue, 27 Oct 2026 16:27:44 +0000",
       "id": 43
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Bloqueo de EE.UU. hunde la sobrevida de niñas y niños cubanos con leucemia",
-      "resumen": "Históricamente, la medicina cubana garantizaba índices de supervivencia cercanos al 90% en pacient...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125737-bloqueo-de-ee-uu-hunde-la-sobrevida-de-ninas-y-ninos-cubanos-con-leucemia.jpg?t=1793084142",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261027/125737/125737-bloqueo-de-ee-uu-hunde-la-sobrevida-de-ninas-y-ninos-cubanos-con-leucemia",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Debate Asamblea General de la ONU bloqueo contra Cuba",
+      "resumen": "La Asamblea General de las Naciones Unidas inició este martes el examen anual de la resolución que reclama el fin del bloqueo económico, comercial y financiero impuesto por Estados Unidos contra Cuba, en un contexto de recrudecimiento de esa política La entrada Debate Asamblea General de la ONU bloq",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/debate-asamblea-general-de-la-onu-bloqueo-contra-cuba/",
       "destacada": false,
-      "tema": "bloqueo",
-      "fecha": "Tue, 27 Oct 26 07:53:00 +0100",
+      "tema": "debate",
+      "fecha": "Tue, 27 Oct 2026 13:52:50 +0000",
       "id": 44
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cocodrilos con sello cubano en Nicaragua",
+      "resumen": "Hanyelo Videt, Yosney García y Silvio Bruno Iturralde defenderán a Cuba en el Mundial Sub-23 de béisbol, en Nicaragua.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/27/cocodrilos-con-sello-cubano-en-nicaragua/",
+      "destacada": false,
+      "tema": "cocodrilos",
+      "fecha": "Tue, 27 Oct 2026 18:05:36 +0000",
+      "id": 45
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Un Mundial menos y mil preguntas",
+      "resumen": "La selección cubana sub-18 quedó fuera del Mundial de 2027. Nicaragua la eliminó este sábado con blanqueada de 5-0 en el Premundial de República Dominicana",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/27/un-mundial-menos-y-mil-preguntas/",
+      "destacada": false,
+      "tema": "mundial",
+      "fecha": "Tue, 27 Oct 2026 17:23:31 +0000",
+      "id": 46
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Este es el funcionario cubano que intentó silenciar al embajador de EE. UU. en la ONU",
+      "resumen": "Tur de la Concepción, primer secretario de la misión cubana en Nueva York, fue acusado de presionar para cortar los micrófonos de la delegación de EE. UU. durante una sesión de la ONU.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/cuba_onu_eeuu_embargo_0b85384005.jpg",
+      "enlace_original": "https://eltoque.com/este-es-el-funcionario-cubano-que-intento-silenciar-al-embajador-de-ee-uu-en-la-onu",
+      "destacada": false,
+      "tema": "funcionario",
+      "fecha": "Tue, 27 Oct 2026 19:16:21 GMT",
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -586,7 +625,7 @@
       "destacada": false,
       "tema": "cuántas",
       "fecha": "Tue, 27 Oct 2026 11:24:35 GMT",
-      "id": 45
+      "id": 48
     },
     {
       "categoria": "economia",
@@ -599,7 +638,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 27 Oct 2026 11:00:00 GMT",
-      "id": 46
+      "id": 49
     }
   ]
 }
