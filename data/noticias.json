@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-27",
-  "hora": "01:32",
-  "total": 48,
+  "hora": "03:21",
+  "total": 47,
   "noticias": [
     {
       "categoria": "transporte",
@@ -17,6 +17,19 @@
       "id": 1
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "En la ONU, la verdad de Cuba",
+      "resumen": "Este miércoles, cuando cada país dé su voto, no solo estará tomando una postura sobre la resolución de Cuba, sino también sobre el destino de todas las naciones",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba-no-es-una-amenaza/2026-10-26/en-la-onu-la-verdad-de-cuba-26-10-2026-21-10-44",
+      "destacada": true,
+      "tema": "verdad",
+      "fecha": "Mon, 26 Oct 2026 21:10:44 -0400",
+      "id": 2
+    },
+    {
       "categoria": "politica",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
@@ -27,7 +40,7 @@
       "destacada": true,
       "tema": "solidarios",
       "fecha": "Mon, 26 Oct 2026 11:10:57 -0400",
-      "id": 2
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -40,46 +53,46 @@
       "destacada": true,
       "tema": "falleció",
       "fecha": "Mon, 26 Oct 2026 20:10:10 -0400",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba reitera su rechazo a medidas coercitivas en foro parlamentario Brics",
-      "resumen": "Cuba ratificó hoy en la primera sesión plenaria del XII Foro Parlamentario de los Brics, celebrado en Nueva Delhi, India, su rechazo a la aplicación de medidas económicas coercitivas unilaterales, incompatibles con el derecho internacional y la Carta de las Naciones Unidas",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-26/cuba-reitera-su-rechazo-a-medidas-coercitivas-en-foro-parlamentario-brics-26-10-2026-10-10-45",
-      "destacada": true,
-      "tema": "reitera",
-      "fecha": "Mon, 26 Oct 2026 10:10:45 -0400",
       "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Presentarán libro de Jesús Lara Sotelo por la Jornada de la Cultura Japonesa en Cuba",
-      "resumen": "Será en la Casa de Asia de la capital, mañana a las 3:00 p.m.",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-26/presentaran-libro-de-jesus-lara-sotelo-por-la-jornada-de-la-cultura-japonesa-en-cuba-26-10-2026-15-10-50",
-      "destacada": true,
-      "tema": "presentarán",
-      "fecha": "Mon, 26 Oct 2026 15:10:50 -0400",
-      "id": 5
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba refuerza lazos parlamentarios en Foro Brics en India",
-      "resumen": "Nueva Delhi, 26 oct (Prensa Latina) La delegación de Cuba, encabezada por la vicepresidenta de la Asamblea Nacional del Poder Popular (ANPP), Ana María Mari Machado, protagonizó hoy aquí una ajetreada agenda, enfocada en acciones concretas para vigorizar sus lazos parlamentarios. The post Cuba refue",
+      "titulo": "Organizaciones rechazan bloqueos de transportistas en zonas de México",
+      "resumen": "Ciudad de México, 26 oct (Prensa Latina) Organizaciones pertenecientes a la Confederación de Cámaras Industriales rechazaron hoy los bloqueos carreteros de transportistas en varias regiones de México y expresaron su disposición al diálogo para atender las demandas del sector. The post Organizaciones",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/26/cuba-refuerza-lazos-parlamentarios-en-foro-brics-en-india/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/26/organizaciones-rechazan-bloqueos-de-transportistas-en-zonas-de-mexico/",
+      "destacada": true,
+      "tema": "organizaciones",
+      "fecha": "Tue, 27 Oct 2026 02:53:53 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Confianza pública en Gobierno de Milei, la más baja en su mandato",
+      "resumen": "Buenos Aires, 26 oct (Prensa Latina) El Índice de Confianza del Gobierno (ICG), que elabora mensualmente la Universidad Torcuato Di Tella, registró en octubre un leve aumento respecto a septiembre, sin embargo, es el más bajo de todo su mandato, informó hoy esa institución privada. The post Confianz",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/26/confianza-publica-en-gobierno-de-milei-la-mas-baja-en-su-mandato/",
       "destacada": false,
-      "tema": "refuerza",
-      "fecha": "Tue, 27 Oct 2026 00:57:37 +0000",
+      "tema": "confianza",
+      "fecha": "Tue, 27 Oct 2026 01:42:15 +0000",
       "id": 6
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Lula agradece mensaje de Díaz-Canel por triunfo electoral",
+      "resumen": "Brasilia, 26 oct (Prensa Latina) El presidente brasileño, Luiz Inácio Lula da Silva, agradeció hoy a su homólogo de Cuba, Miguel Díaz-Canel, el mensaje de felicitación por la victoria electoral y reafirmó la solidaridad hacia la isla caribeña. The post Lula agradece mensaje de Díaz-Canel por triunfo",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/26/lula-agradece-mensaje-de-diaz-canel-por-triunfo-electoral-2/",
+      "destacada": false,
+      "tema": "agradece",
+      "fecha": "Tue, 27 Oct 2026 01:37:12 +0000",
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "oscuridad",
       "fecha": "Mon, 26 Oct 2026 20:47:00 +0000",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -105,7 +118,7 @@
       "destacada": false,
       "tema": "fábrica",
       "fecha": "Mon, 26 Oct 2026 20:22:36 +0000",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -118,7 +131,7 @@
       "destacada": false,
       "tema": "diferencia",
       "fecha": "Mon, 26 Oct 2026 21:02:23 +0000",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "asesinato",
       "fecha": "Mon, 26 Oct 2026 18:08:45 +0000",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -144,7 +157,59 @@
       "destacada": false,
       "tema": "exige",
       "fecha": "Mon, 26 Oct 2026 12:23:26 +0000",
-      "id": 11
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Otros tres cubanos entre \"lo peor de lo peor\" de EE.UU.",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e199291-s27061-nid343916-otros-tres-cubanos-peor-peor-eeuu",
+      "destacada": false,
+      "tema": "otros",
+      "fecha": "Tue, 27 Oct 2026 03:09:21 +0100",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubalex registra 18 incidentes de aislamiento o celdas de castigo en prisiones cubanas en octubre",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e197721-s27061-nid343913-cubalex-registra-18-incidentes-aislamiento-celdas",
+      "destacada": false,
+      "tema": "cubalex",
+      "fecha": "Tue, 27 Oct 2026 02:40:45 +0100",
+      "id": 14
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Chambas, el drama de un pueblo cubano: sin televisión por meses, con electricidad de hora y media al día y 30 huevos a 3.500 pesos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e199291-s27061-nid343912-chambas-drama-pueblo-cubano-television-meses",
+      "destacada": false,
+      "tema": "chambas",
+      "fecha": "Tue, 27 Oct 2026 02:13:35 +0100",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Se cae otro mito: cubana no recomienda famoso restaurante en La Habana",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e199291-s27061-nid343911-cae-otro-mito-cubana-recomienda-famoso-restaurante",
+      "destacada": false,
+      "tema": "cubana",
+      "fecha": "Tue, 27 Oct 2026 01:29:01 +0100",
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -157,7 +222,7 @@
       "destacada": false,
       "tema": "rubio",
       "fecha": "Tue, 27 Oct 2026 01:20:23 +0100",
-      "id": 12
+      "id": 17
     },
     {
       "categoria": "economia",
@@ -170,46 +235,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 27 Oct 2026 01:11:01 +0100",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El cubano Lemay Gutiérrez gana oro y plata máster en torneo de apnea en Colombia",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e208512-s27066-nid343878-cubano-lemay-gutierrez-gana-oro-plata-master-torneo",
-      "destacada": false,
-      "tema": "cubano",
-      "fecha": "Tue, 27 Oct 2026 01:09:44 +0100",
-      "id": 14
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Dios, apiádate de nosotros»: cubana denuncia acumulación de basura detrás del Hospital Infantil William Soler",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e199291-s27061-nid343905-dios-apiadate-nosotros-cubana-denuncia-acumulacion",
-      "destacada": false,
-      "tema": "apiádate",
-      "fecha": "Tue, 27 Oct 2026 00:25:20 +0100",
-      "id": 15
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Prevén invierno anómalo en Cuba con más frentes fríos y lluvias significativas",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e135253-s27061-nid343903-preven-invierno-anomalo-cuba-frentes-frios-lluvias",
-      "destacada": false,
-      "tema": "prevén",
-      "fecha": "Tue, 27 Oct 2026 00:18:37 +0100",
-      "id": 16
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -222,32 +248,6 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Mon, 26 Oct 2026 04:24:55 +0000",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Transformations with the Workers",
-      "resumen": "José Antonio Pérez Pérez, a member of the CTC National Secretariat, is part of the group in charge of training union cadres and leaders throughout the country in the current economic, political and social circumstances that Cuba is experiencing",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261026/transformations-with-the-workers/",
-      "destacada": false,
-      "tema": "transformations",
-      "fecha": "Mon, 26 Oct 2026 21:14:09 +0000",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "La hora de Cuba en Naciones Unidas",
-      "resumen": "Con Cuba y contra el Imperio, el mundo hablará una vez más",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261026/la-hora-de-cuba-en-naciones-unidas/",
-      "destacada": false,
-      "tema": "naciones",
-      "fecha": "Mon, 26 Oct 2026 18:59:15 +0000",
       "id": 19
     },
     {
@@ -368,6 +368,19 @@
       "id": 28
     },
     {
+      "categoria": "transporte",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La libertad es una librería",
+      "resumen": "El verso de Joan Margarit, “La libertad es una librería”, da título a este podcast cuyo sentido es el de animar a la lectura y a crearnos una librería itinerante que viaje en nosotros. Esta quinta temporada tratará de libros sobre la gran literatura, cubana y universal.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481794.html",
+      "destacada": false,
+      "tema": "libertad",
+      "fecha": "Mon, 26 Oct 2026 23:00:00 -0400",
+      "id": 29
+    },
+    {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
@@ -378,33 +391,7 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Mon, 26 Oct 2026 21:00:00 -0400",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 8:00 PM",
-      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481786.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Mon, 26 Oct 2026 20:00:00 -0400",
       "id": 30
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuatro cubanos entre grupo de 48 extranjeros de delitos electorales en EEUU",
-      "resumen": "Los casos incluyen “declaraciones falsas de ciudadanía estadounidense para registrarse o votar”, así como la participación de extranjeros en elecciones federales.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuatro-cubanos-entre-grupo-de-48-extranjeros-de-delitos-electorales-en-eeuu/482818.html",
-      "destacada": false,
-      "tema": "cuatro",
-      "fecha": "Mon, 26 Oct 2026 19:53:42 -0400",
-      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -417,7 +404,7 @@
       "destacada": false,
       "tema": "india",
       "fecha": "Mon, 26 Oct 2026 19:34:12 +0000",
-      "id": 32
+      "id": 31
     },
     {
       "categoria": "politica",
@@ -430,7 +417,7 @@
       "destacada": false,
       "tema": "rusia",
       "fecha": "Mon, 26 Oct 2026 17:25:09 +0000",
-      "id": 33
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -443,7 +430,7 @@
       "destacada": false,
       "tema": "guantes",
       "fecha": "Mon, 26 Oct 2026 17:13:42 +0000",
-      "id": 34
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -456,7 +443,7 @@
       "destacada": false,
       "tema": "brasil",
       "fecha": "Mon, 26 Oct 26 10:42:00 +0100",
-      "id": 35
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -469,7 +456,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 26 Oct 26 08:52:00 +0100",
-      "id": 36
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -482,7 +469,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Mon, 26 Oct 26 08:43:00 +0100",
-      "id": 37
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -495,7 +482,7 @@
       "destacada": false,
       "tema": "contro",
       "fecha": "Mon, 26 Oct 26 08:43:00 +0100",
-      "id": 38
+      "id": 37
     },
     {
       "categoria": "politica",
@@ -508,7 +495,7 @@
       "destacada": false,
       "tema": "venció",
       "fecha": "Mon, 26 Oct 26 08:43:00 +0100",
-      "id": 39
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -521,7 +508,7 @@
       "destacada": false,
       "tema": "celebrando",
       "fecha": "Mon, 26 Oct 26 08:41:00 +0100",
-      "id": 40
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -534,7 +521,7 @@
       "destacada": false,
       "tema": "rubio",
       "fecha": "Mon, 26 Oct 26 08:32:00 +0100",
-      "id": 41
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -547,7 +534,7 @@
       "destacada": false,
       "tema": "innova",
       "fecha": "Mon, 26 Oct 26 08:18:00 +0100",
-      "id": 42
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -560,7 +547,7 @@
       "destacada": false,
       "tema": "venezuela",
       "fecha": "Mon, 26 Oct 26 08:07:00 +0100",
-      "id": 43
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -573,7 +560,7 @@
       "destacada": false,
       "tema": "semana",
       "fecha": "Mon, 26 Oct 26 07:46:00 +0100",
-      "id": 44
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -586,7 +573,7 @@
       "destacada": false,
       "tema": "escuela",
       "fecha": "Mon, 26 Oct 2026 12:14:00 +0000",
-      "id": 45
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -599,7 +586,7 @@
       "destacada": false,
       "tema": "yosney",
       "fecha": "Mon, 26 Oct 2026 12:00:00 +0000",
-      "id": 46
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -612,7 +599,7 @@
       "destacada": false,
       "tema": "destierros",
       "fecha": "Mon, 26 Oct 2026 11:40:57 GMT",
-      "id": 47
+      "id": 46
     },
     {
       "categoria": "economia",
@@ -625,7 +612,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 26 Oct 2026 11:00:00 GMT",
-      "id": 48
+      "id": 47
     }
   ]
 }
