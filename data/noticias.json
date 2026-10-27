@@ -1,6 +1,6 @@
 {
   "fecha": "2026-10-27",
-  "hora": "00:18",
+  "hora": "01:32",
   "total": 48,
   "noticias": [
     {
@@ -72,13 +72,13 @@
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "La hora de Cuba en Naciones Unidas",
-      "resumen": "Lima, 26 oct (Prensa Latina) En un clima de tensión mundial signado entre otros factores por las elecciones que tendrán lugar en la tierra de Abraham Lincoln el próximo martes 3 de noviembre; el miércoles 28 de octubre la Asamblea General de Naciones Unidas hablará al mundo. The post La hora de Cuba",
+      "titulo": "Cuba refuerza lazos parlamentarios en Foro Brics en India",
+      "resumen": "Nueva Delhi, 26 oct (Prensa Latina) La delegación de Cuba, encabezada por la vicepresidenta de la Asamblea Nacional del Poder Popular (ANPP), Ana María Mari Machado, protagonizó hoy aquí una ajetreada agenda, enfocada en acciones concretas para vigorizar sus lazos parlamentarios. The post Cuba refue",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/26/la-hora-de-cuba-en-naciones-unidas/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/26/cuba-refuerza-lazos-parlamentarios-en-foro-brics-en-india/",
       "destacada": false,
-      "tema": "naciones",
-      "fecha": "Mon, 26 Oct 2026 22:40:50 +0000",
+      "tema": "refuerza",
+      "fecha": "Tue, 27 Oct 2026 00:57:37 +0000",
       "id": 6
     },
     {
@@ -147,6 +147,58 @@
       "id": 11
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Rubio afirma que Cuba necesita un \"cambio muy drástico\" y la diferencia de Venezuela",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e197721-s27061-nid343909-rubio-afirma-cuba-necesita-cambio-muy-drastico",
+      "destacada": false,
+      "tema": "rubio",
+      "fecha": "Tue, 27 Oct 2026 01:20:23 +0100",
+      "id": 12
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Así cierra el mercado informal en Cuba: el dólar sube y el euro cede terreno",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e197721-s27061-nid343908-asi-cierra-mercado-informal-cuba-dolar-sube-euro",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Tue, 27 Oct 2026 01:11:01 +0100",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El cubano Lemay Gutiérrez gana oro y plata máster en torneo de apnea en Colombia",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e208512-s27066-nid343878-cubano-lemay-gutierrez-gana-oro-plata-master-torneo",
+      "destacada": false,
+      "tema": "cubano",
+      "fecha": "Tue, 27 Oct 2026 01:09:44 +0100",
+      "id": 14
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Dios, apiádate de nosotros»: cubana denuncia acumulación de basura detrás del Hospital Infantil William Soler",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e199291-s27061-nid343905-dios-apiadate-nosotros-cubana-denuncia-acumulacion",
+      "destacada": false,
+      "tema": "apiádate",
+      "fecha": "Tue, 27 Oct 2026 00:25:20 +0100",
+      "id": 15
+    },
+    {
       "categoria": "transporte",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
@@ -157,46 +209,7 @@
       "destacada": false,
       "tema": "prevén",
       "fecha": "Tue, 27 Oct 2026 00:18:37 +0100",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Los 69 cubanos deportados a África pueden regresar a EE.UU.? Abogado explica qué posibilidad hay",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e192519-s27061-nid343895-69-cubanos-deportados-africa-pueden-regresar-eeuu",
-      "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Tue, 27 Oct 2026 00:07:51 +0100",
-      "id": 13
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Ex jefe de campaña de María Corina Machado denuncia que en Venezuela hay apagones de 72 horas igual que en Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-26-u1-e192519-s27061-nid343891-ex-jefe-campana-maria-corina-machado-denuncia",
-      "destacada": false,
-      "tema": "apagones",
-      "fecha": "Mon, 26 Oct 2026 23:55:54 +0100",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Willy Allen: «Veo una luz al final del túnel» para los cubanos con I-220A",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-26-u1-e192519-s27061-nid343892-willy-allen-veo-luz-al-final-tunel-cubanos-220a",
-      "destacada": false,
-      "tema": "willy",
-      "fecha": "Mon, 26 Oct 2026 23:43:58 +0100",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -209,7 +222,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Mon, 26 Oct 2026 04:24:55 +0000",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -222,7 +235,33 @@
       "destacada": false,
       "tema": "transformations",
       "fecha": "Mon, 26 Oct 2026 21:14:09 +0000",
-      "id": 17
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La hora de Cuba en Naciones Unidas",
+      "resumen": "Con Cuba y contra el Imperio, el mundo hablará una vez más",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261026/la-hora-de-cuba-en-naciones-unidas/",
+      "destacada": false,
+      "tema": "naciones",
+      "fecha": "Mon, 26 Oct 2026 18:59:15 +0000",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Muere la poeta cubana Olga Navarro, autora de canciones de Elena Burke y Vicentico Valdés",
+      "resumen": "#OlgaNavarro, compositora musical, poeta, actriz y declamadora #cubana, falleció a los 97 años.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cultura/1793060654_69562.html",
+      "destacada": false,
+      "tema": "muere",
+      "fecha": "Tue, 27 Oct 2026 01:24:14 +0100",
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -235,7 +274,7 @@
       "destacada": false,
       "tema": "necesita",
       "fecha": "Mon, 26 Oct 2026 23:33:10 +0100",
-      "id": 18
+      "id": 21
     },
     {
       "categoria": "salud",
@@ -248,7 +287,7 @@
       "destacada": false,
       "tema": "preso",
       "fecha": "Mon, 26 Oct 2026 23:12:35 +0100",
-      "id": 19
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -261,7 +300,7 @@
       "destacada": false,
       "tema": "incluye",
       "fecha": "Mon, 26 Oct 2026 20:52:06 +0100",
-      "id": 20
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -274,7 +313,7 @@
       "destacada": false,
       "tema": "chanchullos",
       "fecha": "Mon, 26 Oct 2026 20:20:27 +0100",
-      "id": 21
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -287,7 +326,7 @@
       "destacada": false,
       "tema": "denuncias",
       "fecha": "Mon, 26 Oct 2026 20:03:08 +0100",
-      "id": 22
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -300,7 +339,7 @@
       "destacada": false,
       "tema": "llegan",
       "fecha": "Mon, 26 Oct 2026 18:51:31 +0100",
-      "id": 23
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -313,7 +352,7 @@
       "destacada": false,
       "tema": "mucho",
       "fecha": "Mon, 26 Oct 2026 17:23:32 +0100",
-      "id": 24
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -326,20 +365,20 @@
       "destacada": false,
       "tema": "medea",
       "fecha": "Mon, 26 Oct 2026 15:16:18 +0100",
-      "id": 25
+      "id": 28
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Alina Bárbara López y René Fidel González instan a los cubanos a involucrarse en la política",
-      "resumen": "#AlinaBárbaraLópezHernández y #RenéFidelGonzález explican por qué los #cubanos deben involucrarse en la vida política del país. Ella defiende la desobediencia civil y la protesta pacífica. Él llama a ser ciudadanos y no \"consumidores de contenidos\".",
+      "titulo": "Barbacoa de Pepe",
+      "resumen": "La Barbacoa de Pepe es un muestrario de la nostalgia cubana con datos y curiosidades de los temas más variados, para la audiencia cubana. También trataremos temas internacionales y locales, siempre con el fin de educar al Cubano de la Isla. Con la elocuencia de Pepe Forte.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1793017871_69548.html",
+      "enlace_original": "https://www.martinoticias.com/a/481787.html",
       "destacada": false,
-      "tema": "alina",
-      "fecha": "Mon, 26 Oct 2026 13:31:11 +0100",
-      "id": 26
+      "tema": "barbacoa",
+      "fecha": "Mon, 26 Oct 2026 21:00:00 -0400",
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -352,7 +391,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Mon, 26 Oct 2026 20:00:00 -0400",
-      "id": 27
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -365,45 +404,6 @@
       "destacada": false,
       "tema": "cuatro",
       "fecha": "Mon, 26 Oct 2026 19:53:42 -0400",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 5:00 PM",
-      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481780.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Mon, 26 Oct 2026 17:00:30 -0400",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al día",
-      "resumen": "María Corina Machado cumple su promesa y regresa a Venezuela. Una multitud sale a recibir a la líder opositora, en una demostración de apoyo a su regreso al país.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/482815.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Mon, 26 Oct 2026 17:00:13 -0400",
-      "id": 30
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Rubio dice que Cuba es un caso muy distinto a Venezuela",
-      "resumen": "Marco Rubio afirmó este lunes que Cuba necesita un \"cambio muy radical\" y que el caso de la isla es muy diferente al de Venezuela.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/rubio-dice-que-cuba-es-un-caso-muy-distinto-a-venezuela/482811.html",
-      "destacada": false,
-      "tema": "rubio",
-      "fecha": "Mon, 26 Oct 2026 16:48:04 -0400",
       "id": 31
     },
     {
