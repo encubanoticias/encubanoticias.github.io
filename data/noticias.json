@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-10-26",
-  "hora": "22:21",
-  "total": 49,
+  "fecha": "2026-10-27",
+  "hora": "00:18",
+  "total": 48,
   "noticias": [
     {
       "categoria": "transporte",
@@ -33,6 +33,19 @@
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
+      "titulo": "Falleció Olga Navarro Thauller, la Vedette del Verso",
+      "resumen": "Con su partida, la cultura cubana pierde a una de sus voces más singulares",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-26/fallecio-olga-navarro-thauller-la-vedette-del-verso-26-10-2026-20-10-10",
+      "destacada": true,
+      "tema": "falleció",
+      "fecha": "Mon, 26 Oct 2026 20:10:10 -0400",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
       "titulo": "Cuba reitera su rechazo a medidas coercitivas en foro parlamentario Brics",
       "resumen": "Cuba ratificó hoy en la primera sesión plenaria del XII Foro Parlamentario de los Brics, celebrado en Nueva Delhi, India, su rechazo a la aplicación de medidas económicas coercitivas unilaterales, incompatibles con el derecho internacional y la Carta de las Naciones Unidas",
       "imagen_url": "",
@@ -40,7 +53,7 @@
       "destacada": true,
       "tema": "reitera",
       "fecha": "Mon, 26 Oct 2026 10:10:45 -0400",
-      "id": 3
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -53,46 +66,20 @@
       "destacada": true,
       "tema": "presentarán",
       "fecha": "Mon, 26 Oct 2026 15:10:50 -0400",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Solidaridad dominicana llama a honrar deuda moral con Cuba en la ONU",
-      "resumen": "Santo Domingo, 26 oct (Prensa Latina) La Campaña Dominicana de Solidaridad con Cuba demandó hoy el fin del bloqueo económico y energético de Estados Unidos contra la isla, al denunciar los daños que causa a las familias y a las relaciones comerciales con otros países. The post Solidaridad dominicana",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/26/solidaridad-dominicana-llama-a-honrar-deuda-moral-con-cuba-en-la-onu/",
-      "destacada": true,
-      "tema": "solidaridad",
-      "fecha": "Mon, 26 Oct 2026 22:04:16 +0000",
       "id": 5
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Béisbol cubano: Santiago sin compañía en la cima oriental",
-      "resumen": "La Habana, 26 oct (Prensa Latina) Santiago de Cuba noqueó hoy 10-0 a Granma y aprovechó la derrota de Las Tunas para recuperar el liderato en solitario de la Zona Oriental de la Serie Nacional de Béisbol. The post Béisbol cubano: Santiago sin compañía en la cima oriental first appeared on Noticias P",
+      "titulo": "La hora de Cuba en Naciones Unidas",
+      "resumen": "Lima, 26 oct (Prensa Latina) En un clima de tensión mundial signado entre otros factores por las elecciones que tendrán lugar en la tierra de Abraham Lincoln el próximo martes 3 de noviembre; el miércoles 28 de octubre la Asamblea General de Naciones Unidas hablará al mundo. The post La hora de Cuba",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/26/beisbol-cubano-santiago-sin-compania-en-la-cima-oriental/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/26/la-hora-de-cuba-en-naciones-unidas/",
       "destacada": false,
-      "tema": "béisbol",
-      "fecha": "Mon, 26 Oct 2026 21:55:44 +0000",
+      "tema": "naciones",
+      "fecha": "Mon, 26 Oct 2026 22:40:50 +0000",
       "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Presentan elbloqueo.it, web de denuncia de amigos de Cuba en Italia",
-      "resumen": "Roma, 26 oct (Prensa Latina) Elbloqueo.it, nuevo sitio en Internet en contra de la política de cerco económico, comercial y financiero de Estados Unidos hacia Cuba, fue presentado hoy en la sede de la Embajada de Cuba en esta capital. The post Presentan elbloqueo.it, web de denuncia de amigos de Cub",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/26/presentan-elbloqueo-it-web-de-denuncia-de-amigos-de-cuba-en-italia/",
-      "destacada": false,
-      "tema": "presentan",
-      "fecha": "Mon, 26 Oct 2026 21:14:08 +0000",
-      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -105,7 +92,7 @@
       "destacada": false,
       "tema": "oscuridad",
       "fecha": "Mon, 26 Oct 2026 20:47:00 +0000",
-      "id": 8
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -118,7 +105,7 @@
       "destacada": false,
       "tema": "fábrica",
       "fecha": "Mon, 26 Oct 2026 20:22:36 +0000",
-      "id": 9
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -131,7 +118,7 @@
       "destacada": false,
       "tema": "diferencia",
       "fecha": "Mon, 26 Oct 2026 21:02:23 +0000",
-      "id": 10
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -144,7 +131,7 @@
       "destacada": false,
       "tema": "asesinato",
       "fecha": "Mon, 26 Oct 2026 18:08:45 +0000",
-      "id": 11
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -157,59 +144,59 @@
       "destacada": false,
       "tema": "exige",
       "fecha": "Mon, 26 Oct 2026 12:23:26 +0000",
+      "id": 11
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Prevén invierno anómalo en Cuba con más frentes fríos y lluvias significativas",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e135253-s27061-nid343903-preven-invierno-anomalo-cuba-frentes-frios-lluvias",
+      "destacada": false,
+      "tema": "prevén",
+      "fecha": "Tue, 27 Oct 2026 00:18:37 +0100",
       "id": 12
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "El régimen cubano siente un gran alivio con el triunfo de Lula",
+      "titulo": "¿Los 69 cubanos deportados a África pueden regresar a EE.UU.? Abogado explica qué posibilidad hay",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-26-u208253-e192519-s27068-nid343888-regimen-cubano-siente-gran-alivio-triunfo-lula",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e192519-s27061-nid343895-69-cubanos-deportados-africa-pueden-regresar-eeuu",
       "destacada": false,
-      "tema": "régimen",
-      "fecha": "Mon, 26 Oct 2026 22:08:37 +0100",
+      "tema": "cubanos",
+      "fecha": "Tue, 27 Oct 2026 00:07:51 +0100",
       "id": 13
     },
     {
-      "categoria": "sociedad",
+      "categoria": "energia",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Tiene 22 años, raíces cubanas y casi dos años en el US Army: «Mi hermana me embulló a enlistarme»",
+      "titulo": "Ex jefe de campaña de María Corina Machado denuncia que en Venezuela hay apagones de 72 horas igual que en Cuba",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-26-u1-e74-s27061-nid343886-tiene-22-anos-raices-cubanas-casi-dos-anos-us-army-mi",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-26-u1-e192519-s27061-nid343891-ex-jefe-campana-maria-corina-machado-denuncia",
       "destacada": false,
-      "tema": "raíces",
-      "fecha": "Mon, 26 Oct 2026 21:40:17 +0100",
+      "tema": "apagones",
+      "fecha": "Mon, 26 Oct 2026 23:55:54 +0100",
       "id": 14
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubanos con casos en corte, atentos: una cita devuelta por correo puede terminar en deportación",
+      "titulo": "Willy Allen: «Veo una luz al final del túnel» para los cubanos con I-220A",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-26-u1-e135253-s27061-nid343885-cubanos-casos-corte-atentos-cita-devuelta-correo",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-26-u1-e192519-s27061-nid343892-willy-allen-veo-luz-al-final-tunel-cubanos-220a",
       "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Mon, 26 Oct 2026 21:24:59 +0100",
+      "tema": "willy",
+      "fecha": "Mon, 26 Oct 2026 23:43:58 +0100",
       "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«¡Qué churre!»: Cubana regresa a La Habana tras siete años y descubre por qué su familia no puede mantener limpia la casa",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-26-u1-e199370-s27061-nid343877-churre-cubana-regresa-habana-tras-siete-anos",
-      "destacada": false,
-      "tema": "churre",
-      "fecha": "Mon, 26 Oct 2026 20:03:27 +0100",
-      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -222,7 +209,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Mon, 26 Oct 2026 04:24:55 +0000",
-      "id": 17
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -235,33 +222,20 @@
       "destacada": false,
       "tema": "transformations",
       "fecha": "Mon, 26 Oct 2026 21:14:09 +0000",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba necesita 'un cambio muy drástico', insiste Marco Rubio",
+      "resumen": "El tono de #MarcoRubio hacia el régimen de #Cuba ha cambiado y sus nuevas declaraciones lo confirman.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793053990_69560.html",
+      "destacada": false,
+      "tema": "necesita",
+      "fecha": "Mon, 26 Oct 2026 23:33:10 +0100",
       "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "La hora de Cuba en Naciones Unidas",
-      "resumen": "Con Cuba y contra el Imperio, el mundo hablará una vez más",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261026/la-hora-de-cuba-en-naciones-unidas/",
-      "destacada": false,
-      "tema": "naciones",
-      "fecha": "Mon, 26 Oct 2026 18:59:15 +0000",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Convicción",
-      "resumen": "La próxima votación en la ONU, los días 27 y 28 de octubre, volverá a evidenciar el amplio respaldo internacional a Cuba y el rechazo al bloqueo estadounidense, señalado como causa de graves dificultades para el pueblo cubano",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261025/conviccion/",
-      "destacada": false,
-      "tema": "convicción",
-      "fecha": "Mon, 26 Oct 2026 00:20:14 +0000",
-      "id": 20
     },
     {
       "categoria": "salud",
@@ -274,7 +248,7 @@
       "destacada": false,
       "tema": "preso",
       "fecha": "Mon, 26 Oct 2026 23:12:35 +0100",
-      "id": 21
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -287,7 +261,7 @@
       "destacada": false,
       "tema": "incluye",
       "fecha": "Mon, 26 Oct 2026 20:52:06 +0100",
-      "id": 22
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -300,7 +274,7 @@
       "destacada": false,
       "tema": "chanchullos",
       "fecha": "Mon, 26 Oct 2026 20:20:27 +0100",
-      "id": 23
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -313,7 +287,7 @@
       "destacada": false,
       "tema": "denuncias",
       "fecha": "Mon, 26 Oct 2026 20:03:08 +0100",
-      "id": 24
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -326,7 +300,7 @@
       "destacada": false,
       "tema": "llegan",
       "fecha": "Mon, 26 Oct 2026 18:51:31 +0100",
-      "id": 25
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -339,7 +313,7 @@
       "destacada": false,
       "tema": "mucho",
       "fecha": "Mon, 26 Oct 2026 17:23:32 +0100",
-      "id": 26
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -352,7 +326,7 @@
       "destacada": false,
       "tema": "medea",
       "fecha": "Mon, 26 Oct 2026 15:16:18 +0100",
-      "id": 27
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -365,6 +339,32 @@
       "destacada": false,
       "tema": "alina",
       "fecha": "Mon, 26 Oct 2026 13:31:11 +0100",
+      "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 8:00 PM",
+      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/481786.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Mon, 26 Oct 2026 20:00:00 -0400",
+      "id": 27
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuatro cubanos entre grupo de 48 extranjeros de delitos electorales en EEUU",
+      "resumen": "Los casos incluyen “declaraciones falsas de ciudadanía estadounidense para registrarse o votar”, así como la participación de extranjeros en elecciones federales.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/cuatro-cubanos-entre-grupo-de-48-extranjeros-de-delitos-electorales-en-eeuu/482818.html",
+      "destacada": false,
+      "tema": "cuatro",
+      "fecha": "Mon, 26 Oct 2026 19:53:42 -0400",
       "id": 28
     },
     {
@@ -408,19 +408,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Qué representa económicamente para Cuba triunfo electoral de Lula en Brasil?",
-      "resumen": "El sostén económico que pudiera representar para Cuba triunfo electoral de Lula en Brasil",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/qu%c3%a9-representa-econ%c3%b3micamente-para-cuba-triunfo-electoral-de-lula-en-brasil/482810.html",
-      "destacada": false,
-      "tema": "representa",
-      "fecha": "Mon, 26 Oct 2026 16:24:35 -0400",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
       "titulo": "India acoge XII Foro Parlamentario del Brics",
@@ -430,7 +417,7 @@
       "destacada": false,
       "tema": "india",
       "fecha": "Mon, 26 Oct 2026 19:34:12 +0000",
-      "id": 33
+      "id": 32
     },
     {
       "categoria": "politica",
@@ -443,7 +430,7 @@
       "destacada": false,
       "tema": "rusia",
       "fecha": "Mon, 26 Oct 2026 17:25:09 +0000",
-      "id": 34
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -456,7 +443,7 @@
       "destacada": false,
       "tema": "guantes",
       "fecha": "Mon, 26 Oct 2026 17:13:42 +0000",
-      "id": 35
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -469,7 +456,7 @@
       "destacada": false,
       "tema": "brasil",
       "fecha": "Mon, 26 Oct 26 10:42:00 +0100",
-      "id": 36
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -482,7 +469,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 26 Oct 26 08:52:00 +0100",
-      "id": 37
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -495,7 +482,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Mon, 26 Oct 26 08:43:00 +0100",
-      "id": 38
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -508,7 +495,7 @@
       "destacada": false,
       "tema": "contro",
       "fecha": "Mon, 26 Oct 26 08:43:00 +0100",
-      "id": 39
+      "id": 38
     },
     {
       "categoria": "politica",
@@ -521,7 +508,7 @@
       "destacada": false,
       "tema": "venció",
       "fecha": "Mon, 26 Oct 26 08:43:00 +0100",
-      "id": 40
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -534,7 +521,7 @@
       "destacada": false,
       "tema": "celebrando",
       "fecha": "Mon, 26 Oct 26 08:41:00 +0100",
-      "id": 41
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -547,7 +534,7 @@
       "destacada": false,
       "tema": "rubio",
       "fecha": "Mon, 26 Oct 26 08:32:00 +0100",
-      "id": 42
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -560,7 +547,7 @@
       "destacada": false,
       "tema": "innova",
       "fecha": "Mon, 26 Oct 26 08:18:00 +0100",
-      "id": 43
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -573,7 +560,7 @@
       "destacada": false,
       "tema": "venezuela",
       "fecha": "Mon, 26 Oct 26 08:07:00 +0100",
-      "id": 44
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -586,7 +573,7 @@
       "destacada": false,
       "tema": "semana",
       "fecha": "Mon, 26 Oct 26 07:46:00 +0100",
-      "id": 45
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -599,7 +586,7 @@
       "destacada": false,
       "tema": "escuela",
       "fecha": "Mon, 26 Oct 2026 12:14:00 +0000",
-      "id": 46
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -612,7 +599,7 @@
       "destacada": false,
       "tema": "yosney",
       "fecha": "Mon, 26 Oct 2026 12:00:00 +0000",
-      "id": 47
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -625,7 +612,7 @@
       "destacada": false,
       "tema": "destierros",
       "fecha": "Mon, 26 Oct 2026 11:40:57 GMT",
-      "id": 48
+      "id": 47
     },
     {
       "categoria": "economia",
@@ -638,7 +625,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 26 Oct 2026 11:00:00 GMT",
-      "id": 49
+      "id": 48
     }
   ]
 }
