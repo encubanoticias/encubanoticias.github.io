@@ -1,8 +1,21 @@
 {
   "fecha": "2026-10-27",
-  "hora": "04:23",
-  "total": 52,
+  "hora": "06:24",
+  "total": 46,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Falleció Olga Navarro Thauller, la Vedette del Verso",
+      "resumen": "Con su partida, la cultura cubana pierde a una de sus voces más singulares",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-26/fallecio-olga-navarro-thauller-la-vedette-del-verso-26-10-2026-20-10-10",
+      "destacada": true,
+      "tema": "falleció",
+      "fecha": "Mon, 26 Oct 2026 20:10:10 -0400",
+      "id": 1
+    },
     {
       "categoria": "transporte",
       "fuente": "https://www.granma.cu",
@@ -14,46 +27,7 @@
       "destacada": true,
       "tema": "uruguay",
       "fecha": "Mon, 26 Oct 2026 10:10:55 -0400",
-      "id": 1
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "En la ONU, la verdad de Cuba",
-      "resumen": "Este miércoles, cuando cada país dé su voto, no solo estará tomando una postura sobre la resolución de Cuba, sino también sobre el destino de todas las naciones",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba-no-es-una-amenaza/2026-10-26/en-la-onu-la-verdad-de-cuba-26-10-2026-21-10-44",
-      "destacada": true,
-      "tema": "verdad",
-      "fecha": "Mon, 26 Oct 2026 21:10:44 -0400",
       "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Una historia de «poder», a pesar de todo",
-      "resumen": "De cómo una madre vence cada día los innumerables obstáculos que la potencia más poderosa del mundo impone al pueblo de Cuba",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba-no-es-una-amenaza/2026-10-26/una-historia-de-poder-a-pesar-de-todo-26-10-2026-19-10-24",
-      "destacada": true,
-      "tema": "historia",
-      "fecha": "Mon, 26 Oct 2026 19:10:24 -0400",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "El impacto de un castigo colectivo",
-      "resumen": "El monto total de los perjuicios a Cuba derivados del bloqueo, en el periodo desde el 1ro. de marzo de 2025 al 28 de febrero de 2026, muestra una cifra récord de 8 083 300 000 USD",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba-no-es-una-amenaza/2026-10-26/el-impacto-de-un-castigo-colectivo-26-10-2026-20-10-23",
-      "destacada": true,
-      "tema": "impacto",
-      "fecha": "Mon, 26 Oct 2026 20:10:23 -0400",
-      "id": 4
     },
     {
       "categoria": "politica",
@@ -66,59 +40,20 @@
       "destacada": true,
       "tema": "solidarios",
       "fecha": "Mon, 26 Oct 2026 11:10:57 -0400",
-      "id": 5
+      "id": 3
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Falleció Olga Navarro Thauller, la Vedette del Verso",
-      "resumen": "Con su partida, la cultura cubana pierde a una de sus voces más singulares",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-10-26/fallecio-olga-navarro-thauller-la-vedette-del-verso-26-10-2026-20-10-10",
-      "destacada": false,
-      "tema": "falleció",
-      "fecha": "Mon, 26 Oct 2026 20:10:10 -0400",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
+      "categoria": "politica",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Bloqueo contra Cuba semeja un asedio medieval, dijo teólogo chileno",
-      "resumen": "Santiago de Chile, 27 oct (Prensa Latina) El bloqueo de Estados Unidos contra Cuba, arreciado hoy con el cerco energético, es una medida cruel que tiene mucha similitud con un asedio medieval, denunció el teólogo y académico chileno Álvaro Ramis. The post Bloqueo contra Cuba semeja un asedio medieva",
+      "titulo": "Confederación sindical regional expresa apoyo a Cuba",
+      "resumen": "Buenos Aires, 27 oct (Prensa Latina) Cuando el mundo una vez más debate en la ONU la recrudecida guerra del gobierno de Estados Unidos contra Cuba, la Confederación Latinoamericana y Caribeña de Trabajadores Estatales (Clate) reitera hoy su firme apoyo al pueblo cubano. The post Confederación sindic",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/27/bloqueo-contra-cuba-semeja-un-asedio-medieval-dijo-teologo-chileno/",
-      "destacada": false,
-      "tema": "bloqueo",
-      "fecha": "Tue, 27 Oct 2026 04:14:04 +0000",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba confía en ratificar en la ONU el amplio rechazo al bloqueo",
-      "resumen": "La Habana, 27 oct (Prensa Latina) Cuba acudirá hoy a la Asamblea General de la ONU con la convicción de que la comunidad internacional volverá a respaldar su resolución contra el bloqueo, pese a las denuncias de presiones ejercidas por Washington. The post Cuba confía en ratificar en la ONU el ampli",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/27/cuba-confia-en-ratificar-en-la-onu-el-amplio-rechazo-al-bloqueo/",
-      "destacada": false,
-      "tema": "confía",
-      "fecha": "Tue, 27 Oct 2026 04:08:02 +0000",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Solidarios con Cuba en Ecuador convocan a jornada contra el bloqueo",
-      "resumen": "Quito, 27 oct (Prensa Latina) Organizaciones de solidaridad con Cuba en Ecuador convocaron hoy a una jornada de acompañamiento a la presentación en Naciones Unidas de una resolución que reclama el fin del bloqueo impuesto por Estados Unidos a la isla. The post Solidarios con Cuba en Ecuador convocan",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/27/solidarios-con-cuba-en-ecuador-convocan-a-jornada-contra-el-bloqueo/",
-      "destacada": false,
-      "tema": "solidarios",
-      "fecha": "Tue, 27 Oct 2026 04:06:31 +0000",
-      "id": 9
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/27/confederacion-sindical-regional-expresa-apoyo-a-cuba/",
+      "destacada": true,
+      "tema": "confederación",
+      "fecha": "Tue, 27 Oct 2026 04:58:48 +0000",
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -128,10 +63,10 @@
       "resumen": "Al Premio Nacional de Cine Luciano Castillo le robaron el móvil a pleno día, y la estatua del Beatle ya no tiene custodio ni tampoco espejuelos",
       "imagen_url": "https://static.14ymedio.com/clip/29b5c0fd-921c-43d8-b354-095f08470b56_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/oscuridad-robos-espantan-visitantes-parque_1_1132458.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "oscuridad",
       "fecha": "Mon, 26 Oct 2026 20:47:00 +0000",
-      "id": 10
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -144,7 +79,7 @@
       "destacada": false,
       "tema": "fábrica",
       "fecha": "Mon, 26 Oct 2026 20:22:36 +0000",
-      "id": 11
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -157,7 +92,7 @@
       "destacada": false,
       "tema": "diferencia",
       "fecha": "Mon, 26 Oct 2026 21:02:23 +0000",
-      "id": 12
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -170,7 +105,7 @@
       "destacada": false,
       "tema": "asesinato",
       "fecha": "Mon, 26 Oct 2026 18:08:45 +0000",
-      "id": 13
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -183,7 +118,7 @@
       "destacada": false,
       "tema": "exige",
       "fecha": "Mon, 26 Oct 2026 12:23:26 +0000",
-      "id": 14
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -196,7 +131,7 @@
       "destacada": false,
       "tema": "enfrentará",
       "fecha": "Tue, 27 Oct 2026 03:36:34 +0100",
-      "id": 15
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -209,7 +144,7 @@
       "destacada": false,
       "tema": "otros",
       "fecha": "Tue, 27 Oct 2026 03:09:21 +0100",
-      "id": 16
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -222,7 +157,7 @@
       "destacada": false,
       "tema": "cubalex",
       "fecha": "Tue, 27 Oct 2026 02:40:45 +0100",
-      "id": 17
+      "id": 12
     },
     {
       "categoria": "energia",
@@ -235,7 +170,7 @@
       "destacada": false,
       "tema": "chambas",
       "fecha": "Tue, 27 Oct 2026 02:13:35 +0100",
-      "id": 18
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -248,7 +183,7 @@
       "destacada": false,
       "tema": "cubana",
       "fecha": "Tue, 27 Oct 2026 01:29:01 +0100",
-      "id": 19
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -261,7 +196,7 @@
       "destacada": false,
       "tema": "rubio",
       "fecha": "Tue, 27 Oct 2026 01:20:23 +0100",
-      "id": 20
+      "id": 15
     },
     {
       "categoria": "economia",
@@ -274,7 +209,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 27 Oct 2026 01:11:01 +0100",
-      "id": 21
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -287,7 +222,7 @@
       "destacada": false,
       "tema": "transformations",
       "fecha": "Mon, 26 Oct 2026 21:14:09 +0000",
-      "id": 22
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -300,7 +235,7 @@
       "destacada": false,
       "tema": "naciones",
       "fecha": "Mon, 26 Oct 2026 18:59:15 +0000",
-      "id": 23
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -313,7 +248,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Tue, 27 Oct 2026 01:24:14 +0100",
-      "id": 24
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -326,7 +261,7 @@
       "destacada": false,
       "tema": "necesita",
       "fecha": "Mon, 26 Oct 2026 23:33:10 +0100",
-      "id": 25
+      "id": 20
     },
     {
       "categoria": "salud",
@@ -339,7 +274,7 @@
       "destacada": false,
       "tema": "preso",
       "fecha": "Mon, 26 Oct 2026 23:12:35 +0100",
-      "id": 26
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -352,7 +287,7 @@
       "destacada": false,
       "tema": "incluye",
       "fecha": "Mon, 26 Oct 2026 20:52:06 +0100",
-      "id": 27
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -365,7 +300,7 @@
       "destacada": false,
       "tema": "chanchullos",
       "fecha": "Mon, 26 Oct 2026 20:20:27 +0100",
-      "id": 28
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -378,7 +313,7 @@
       "destacada": false,
       "tema": "denuncias",
       "fecha": "Mon, 26 Oct 2026 20:03:08 +0100",
-      "id": 29
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -391,7 +326,7 @@
       "destacada": false,
       "tema": "llegan",
       "fecha": "Mon, 26 Oct 2026 18:51:31 +0100",
-      "id": 30
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -404,7 +339,7 @@
       "destacada": false,
       "tema": "mucho",
       "fecha": "Mon, 26 Oct 2026 17:23:32 +0100",
-      "id": 31
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -417,7 +352,7 @@
       "destacada": false,
       "tema": "medea",
       "fecha": "Mon, 26 Oct 2026 15:16:18 +0100",
-      "id": 32
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -430,7 +365,7 @@
       "destacada": false,
       "tema": "",
       "fecha": "Tue, 27 Oct 2026 00:05:30 -0400",
-      "id": 33
+      "id": 28
     },
     {
       "categoria": "transporte",
@@ -443,7 +378,7 @@
       "destacada": false,
       "tema": "libertad",
       "fecha": "Mon, 26 Oct 2026 23:00:00 -0400",
-      "id": 34
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -456,7 +391,7 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Mon, 26 Oct 2026 21:00:00 -0400",
-      "id": 35
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -469,7 +404,7 @@
       "destacada": false,
       "tema": "asamblea",
       "fecha": "Tue, 27 Oct 2026 04:05:34 +0000",
-      "id": 36
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -482,7 +417,7 @@
       "destacada": false,
       "tema": "india",
       "fecha": "Mon, 26 Oct 2026 19:34:12 +0000",
-      "id": 37
+      "id": 32
     },
     {
       "categoria": "politica",
@@ -495,7 +430,98 @@
       "destacada": false,
       "tema": "rusia",
       "fecha": "Mon, 26 Oct 2026 17:25:09 +0000",
+      "id": 33
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "&quot;Si no hubiera médicos de Cuba, muchos hospitales de México no podrían atender a la población”:  presidenta Sheinbaum defiende cooperación con la Isla",
+      "resumen": "Ciudad de México, 26 oct (Prensa Latina) La presidenta Claudia Sheinbaum defendió hoy la labor de l...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125736-si-no-hubiera-medicos-de-cuba-muchos-hospitales-de-mexico-no-podrian-atender-a-la-poblacion-presidenta-sheinbaum-defiende-cooperacion-con-la-isla.jpg?t=1793080790",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261027/125736/125736-si-no-hubiera-medicos-de-cuba-muchos-hospitales-de-mexico-no-podrian-atender-a-la-poblacion-presidenta-sheinbaum-defiende-cooperacion-con-la-isla",
+      "destacada": false,
+      "tema": "hubiera",
+      "fecha": "Tue, 27 Oct 26 06:55:00 +0100",
+      "id": 34
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "45 miembros del Parlamento Europeo piden en una carta a la UE repetir el voto contra el bloqueo que aplica EEUU contra Cuba",
+      "resumen": "Eurodiputada gallega Ana Miranda. Foto: Candela Balboa / El Salto. ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125735-45-miembros-del-parlamento-europeo-piden-en-una-carta-a-la-ue-repetir-el-voto-contra-el-bloqueo-que-aplica-eeuu-contra-cuba.jpg?t=1793080411",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261027/125735/125735-45-miembros-del-parlamento-europeo-piden-en-una-carta-a-la-ue-repetir-el-voto-contra-el-bloqueo-que-aplica-eeuu-contra-cuba",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Tue, 27 Oct 26 06:50:00 +0100",
+      "id": 35
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Piden ante Cancillería chilena votar en ONU contra el bloqueo a Cuba",
+      "resumen": "Santiago de Chile, 26 oct (Prensa Latina) Representantes de organizaciones sindicales, sociales y ac...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125734-piden-ante-cancilleria-chilena-votar-en-onu-contra-el-bloqueo-a-cuba.jpg?t=1793080202",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261027/125734/125734-piden-ante-cancilleria-chilena-votar-en-onu-contra-el-bloqueo-a-cuba",
+      "destacada": false,
+      "tema": "piden",
+      "fecha": "Tue, 27 Oct 26 06:49:00 +0100",
+      "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Presentan elbloqueo.it, web de denuncia de amigos de Cuba en Italia",
+      "resumen": "Roma, 26 oct (Prensa Latina) Elbloqueo.it, nuevo sitio en Internet en contra de la política de cerco...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125733-presentan-elbloqueo-it-web-de-denuncia-de-amigos-de-cuba-en-italia.jpg?t=1793080150",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261027/125733/125733-presentan-elbloqueo-it-web-de-denuncia-de-amigos-de-cuba-en-italia",
+      "destacada": false,
+      "tema": "presentan",
+      "fecha": "Tue, 27 Oct 26 06:48:00 +0100",
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Bloqueo contra Cuba semeja un asedio medieval, dijo teólogo chileno Álvaro Ramis",
+      "resumen": "Santiago de Chile, 27 oct (Prensa Latina) El bloqueo de Estados Unidos contra Cuba, arreciado hoy co...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125732-bloqueo-contra-cuba-semeja-un-asedio-medieval-dijo-teologo-chileno-alvaro-ramis.jpg?t=1793080106",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261027/125732/125732-bloqueo-contra-cuba-semeja-un-asedio-medieval-dijo-teologo-chileno-alvaro-ramis",
+      "destacada": false,
+      "tema": "bloqueo",
+      "fecha": "Tue, 27 Oct 26 06:48:00 +0100",
       "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Confederación Latinoamericana y Caribeña de Trabajadores Estatales expresa apoyo a Cuba",
+      "resumen": "Buenos Aires, 27 oct (Prensa Latina) Cuando el mundo una vez más debate en la ONU la recrudecida gue...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125731-confederacion-latinoamericana-y-caribena-de-trabajadores-estatales-expresa-apoyo-a-cuba.jpg?t=1793080064",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261027/125731/125731-confederacion-latinoamericana-y-caribena-de-trabajadores-estatales-expresa-apoyo-a-cuba",
+      "destacada": false,
+      "tema": "confederación",
+      "fecha": "Tue, 27 Oct 26 06:47:00 +0100",
+      "id": 39
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Francia y Cuba: ¿dónde es la represión?",
+      "resumen": "Durante las protestas estudiantiles en Francia, han sido detenidas cerca de 7.000 personas, el 85% m...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125728-francia-y-cuba-donde-es-la-represion.jpg?t=1793009047",
+      "enlace_original": "https://www.cubainformacion.tv/especiales/20261027/125728/125728-francia-y-cuba-donde-es-la-represion",
+      "destacada": false,
+      "tema": "francia",
+      "fecha": "Tue, 27 Oct 26 00:00:00 +0100",
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -508,7 +534,7 @@
       "destacada": false,
       "tema": "brasil",
       "fecha": "Mon, 26 Oct 26 10:42:00 +0100",
-      "id": 39
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -521,111 +547,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 26 Oct 26 08:52:00 +0100",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Trump y Rubio amenazan a Cuba y se meten solitos en una peligrosa trampa",
-      "resumen": "Guerrero Cubano con su verdad al desnudo",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125726-trump-y-rubio-amenazan-a-cuba-y-se-meten-solitos-en-una-peligrosa-trampa.jpg?t=1793000618",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261026/125726/125726-trump-y-rubio-amenazan-a-cuba-y-se-meten-solitos-en-una-peligrosa-trampa",
-      "destacada": false,
-      "tema": "trump",
-      "fecha": "Mon, 26 Oct 26 08:43:00 +0100",
-      "id": 41
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Contro il blocco USA, la solidarietà passa all'azione!",
-      "resumen": "Italia X Cuba",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125725-contro-il-blocco-usa-la-solidarieta-passa-all-azione.jpg?t=1793000580",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261026/125725/125725-contro-il-blocco-usa-la-solidarieta-passa-all-azione",
-      "destacada": false,
-      "tema": "contro",
-      "fecha": "Mon, 26 Oct 26 08:43:00 +0100",
       "id": 42
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Lula venció tras remontada histórica: gobierno de Cuba felicita la victoria popular",
-      "resumen": "Cuba felicita a Lula por victoria en balotaje brasileño ‎ ‎ La Habana, 25 oct (...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125711-lula-vencio-tras-remontada-historica-gobierno-de-cuba-felicita-la-victoria-popular.jpg?t=1792999558",
-      "enlace_original": "https://www.cubainformacion.tv/america-latina/20261026/125711/125711-lula-vencio-tras-remontada-historica-gobierno-de-cuba-felicita-la-victoria-popular",
-      "destacada": false,
-      "tema": "venció",
-      "fecha": "Mon, 26 Oct 26 08:43:00 +0100",
-      "id": 43
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Celebrando la victoria de Lula desde La Habana",
-      "resumen": "Pedro Jorge Velázquez / El Necio",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125723-celebrando-la-victoria-de-lula-desde-la-habana.jpg?t=1793000476",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261026/125723/125723-celebrando-la-victoria-de-lula-desde-la-habana",
-      "destacada": false,
-      "tema": "celebrando",
-      "fecha": "Mon, 26 Oct 26 08:41:00 +0100",
-      "id": 44
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Rubio convoca a cubanos a reclutarse en la CIA",
-      "resumen": "No es un cable filtrado ni un documento desclasificado cincuenta años después. Es el jefe de la dipl...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125722-rubio-convoca-a-cubanos-a-reclutarse-en-la-cia.jpg?t=1793000048",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261026/125722/125722-rubio-convoca-a-cubanos-a-reclutarse-en-la-cia",
-      "destacada": false,
-      "tema": "rubio",
-      "fecha": "Mon, 26 Oct 26 08:32:00 +0100",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba innova en biotecnología frente al bloqueo de EE.UU.",
-      "resumen": "Señal en vivo Sur.- Pese al impacto de las medidas coercitivas unilaterales impuestas por Estados Un...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125721-cuba-innova-en-biotecnologia-frente-al-bloqueo-de-ee-uu.jpg?t=1792999273",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261026/125721/125721-cuba-innova-en-biotecnologia-frente-al-bloqueo-de-ee-uu",
-      "destacada": false,
-      "tema": "innova",
-      "fecha": "Mon, 26 Oct 26 08:18:00 +0100",
-      "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "En Venezuela relanzan campaña de solidaridad con Cuba &quot;Amor con amor se paga&quot;",
-      "resumen": "Canal Caribe.- El Movimiento de amistad y solidaridad mutua Venezuela-Cuba, junto a organizaciones s...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125720-en-venezuela-relanzan-campana-de-solidaridad-con-cuba-amor-con-amor-se-paga.jpg?t=1792999054",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261026/125720/125720-en-venezuela-relanzan-campana-de-solidaridad-con-cuba-amor-con-amor-se-paga",
-      "destacada": false,
-      "tema": "venezuela",
-      "fecha": "Mon, 26 Oct 26 08:07:00 +0100",
-      "id": 47
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Una semana muy peligrosa para EE.UU. y el mundo",
-      "resumen": "Patricio Montesinos - Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125718-una-semana-muy-peligrosa-para-ee-uu-y-el-mundo.jpg?t=1792997180",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261026/125718/125718-una-semana-muy-peligrosa-para-ee-uu-y-el-mundo",
-      "destacada": false,
-      "tema": "semana",
-      "fecha": "Mon, 26 Oct 26 07:46:00 +0100",
-      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -638,7 +560,7 @@
       "destacada": false,
       "tema": "escuela",
       "fecha": "Mon, 26 Oct 2026 12:14:00 +0000",
-      "id": 49
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -651,7 +573,7 @@
       "destacada": false,
       "tema": "yosney",
       "fecha": "Mon, 26 Oct 2026 12:00:00 +0000",
-      "id": 50
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -664,7 +586,7 @@
       "destacada": false,
       "tema": "destierros",
       "fecha": "Mon, 26 Oct 2026 11:40:57 GMT",
-      "id": 51
+      "id": 45
     },
     {
       "categoria": "economia",
@@ -677,7 +599,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 26 Oct 2026 11:00:00 GMT",
-      "id": 52
+      "id": 46
     }
   ]
 }
