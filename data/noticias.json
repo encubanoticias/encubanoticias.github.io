@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-28",
-  "hora": "00:09",
-  "total": 54,
+  "hora": "06:28",
+  "total": 50,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -17,19 +17,6 @@
       "id": 1
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "El irrealizable anhelo imperialista de apoderarse de Cuba",
-      "resumen": "Desde el seno del imperio continúan las amenazas contra Cuba, como una demostración de que, como expresara el presidente Miguel Díaz-Canel Bermúdez, el Gobierno de EE. UU. deja claro que no renuncia a sus ambiciones de dominación&nbsp;sobre la isla",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-10-27/el-irrealizable-anhelo-imperialista-de-apoderarse-de-cuba-27-10-2026-01-10-42",
-      "destacada": true,
-      "tema": "irrealizable",
-      "fecha": "Tue, 27 Oct 2026 01:10:42 -0400",
-      "id": 2
-    },
-    {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
@@ -40,7 +27,7 @@
       "destacada": true,
       "tema": "parlamentario",
       "fecha": "Tue, 27 Oct 2026 11:10:31 -0400",
-      "id": 3
+      "id": 2
     },
     {
       "categoria": "sociedad",
@@ -53,7 +40,33 @@
       "destacada": true,
       "tema": "define",
       "fecha": "Tue, 27 Oct 2026 18:10:09 -0400",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Grupo nicaragüense exige fin del bloqueo estadounidense contra Cuba",
+      "resumen": "Managua, 28 oct (Prensa Latina) El Grupo Nicaragüense de Solidaridad Amor por Cuba exigió el fin del bloqueo impuesto por Estados Unidos a la isla y llamó a la comunidad internacional a respaldar la resolución que hoy se votará en la ONU en contra de esa política. The post Grupo nicaragüense exige f",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/28/grupo-nicaraguense-exige-fin-del-bloqueo-estadounidense-contra-cuba/",
+      "destacada": true,
+      "tema": "grupo",
+      "fecha": "Wed, 28 Oct 2026 05:30:41 +0000",
       "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Más argentinos alzan su voz para exigir voto en ONU contra el bloqueo",
+      "resumen": "Buenos Aires, 28 oct (Prensa Latina) Un abanico de referentes de varios sectores de la sociedad y la política argentina exigen que el gobierno vote en la ONU a favor de Cuba y en contra del bloqueo de Estados Unidos. The post Más argentinos alzan su voz para exigir voto en ONU contra el bloqueo firs",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/28/mas-argentinos-alzan-su-voz-para-exigir-voto-en-onu-contra-el-bloqueo/",
+      "destacada": true,
+      "tema": "argentinos",
+      "fecha": "Wed, 28 Oct 2026 04:52:06 +0000",
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -63,10 +76,10 @@
       "resumen": "Secundado por seis funcionarios, el canciller cubano trató de ‘encuadrillar’ a Mike Waltz en vísperas de la votación sobre el embargo",
       "imagen_url": "https://static.14ymedio.com/clip/27984545-f55c-4b4c-ae90-3680d2e33db7_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/bruno-rodriguez-lidera-acto-repudio_1_1132504.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "bruno",
       "fecha": "Tue, 27 Oct 2026 22:08:39 +0000",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "salud",
@@ -79,7 +92,7 @@
       "destacada": false,
       "tema": "balsero",
       "fecha": "Tue, 27 Oct 2026 20:37:18 +0000",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "salud",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "félix",
       "fecha": "Tue, 27 Oct 2026 18:44:45 +0000",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -105,7 +118,7 @@
       "destacada": false,
       "tema": "cierra",
       "fecha": "Tue, 27 Oct 2026 15:57:36 +0000",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "energia",
@@ -118,72 +131,20 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 27 Oct 2026 13:22:08 +0000",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Es humillante»: Madre cubana con tres niños autistas denuncia que no llega ayuda alimentaria",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e199291-s27061-nid343991-humillante-madre-cubana-tres-ninos-autistas-denuncia",
-      "destacada": false,
-      "tema": "humillante",
-      "fecha": "Tue, 27 Oct 2026 23:33:32 +0100",
       "id": 10
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Embajador cubano en México anuncia gestiones para reanudar los envíos de combustible a la isla",
-      "resumen": "",
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Un día como hoy en la vida y obra de Fidel. 28 de octubre",
+      "resumen": "&#8211; 28 de octubre de 1962. Fidel emite un comunicado ante la amenaza de agresión del gobierno norteamericano contra Cuba, en el contexto de la Crisis de Octubre. Durante las negociaciones entre Estados Unidos y la Unión Soviética, la administración norteamericana exigía la retirada inmediata de ",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e135253-s27061-nid343990-embajador-cubano-mexico-afirma-reanudaran-envios",
+      "enlace_original": "https://www.radiocubana.cu/un-dia-como-hoy-en-la-vida-y-obra-de-fidel/un-dia-como-hoy-en-la-vida-y-obra-de-fidel-28-de-octubre/",
       "destacada": false,
-      "tema": "embajador",
-      "fecha": "Tue, 27 Oct 2026 23:29:09 +0100",
+      "tema": "fidel",
+      "fecha": "Wed, 28 Oct 2026 04:28:08 +0000",
       "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Primera ministra de Trinidad y Tobago arremete contra exlíderes del Caribe que piden votar contra el embargo a Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e129488-s27061-nid343919-primera-ministra-trinidad-tobago-arremete-contra",
-      "destacada": false,
-      "tema": "primera",
-      "fecha": "Tue, 27 Oct 2026 23:17:02 +0100",
-      "id": 12
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Trump llama a Rubio al escenario en Texas y bromea con enviarlo a Cuba en paracaídas",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e199894-s27061-nid343988-trump-llama-rubio-al-escenario-texas-bromea-enviarlo",
-      "destacada": false,
-      "tema": "trump",
-      "fecha": "Tue, 27 Oct 2026 23:02:01 +0100",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«No en Estados Unidos»: La Casa Blanca responde al régimen cubano tras el intento de intimidar a Waltz en la ONU",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-27-u1-e74-s27061-nid343987-estados-unidos-casa-blanca-responde-al-regimen-cubano",
-      "destacada": false,
-      "tema": "estados",
-      "fecha": "Tue, 27 Oct 2026 22:57:53 +0100",
-      "id": 14
     },
     {
       "categoria": "politica",
@@ -196,7 +157,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Tue, 27 Oct 2026 14:25:11 +0000",
-      "id": 15
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -209,20 +170,20 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Tue, 27 Oct 2026 14:01:26 +0000",
-      "id": 16
+      "id": 13
     },
     {
-      "categoria": "salud",
-      "fuente": "https://www.radiocubana.cu",
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Un día como hoy en la vida y obra de Fidel. 27 de octubre",
-      "resumen": "&#8211; 27 de octubre de 1961 Fidel hace el resumen de la Primera Reunión Nacional de Médicos celebrada en el teatro Chaplin, en La Habana. Destaca el papel de justicia que deben tener las revoluciones y subraya que ante un enemigo tan poderoso solo la fuerza del pueblo en defensa de sus ideales pue",
+      "titulo": "Cumplió 49 años el Sindicato Nacional del Comercio, la Gastronomía y los Servicios",
+      "resumen": "La felicitación de la Central de Trabajadores de Cuba (CTC) y del ministerio correspondiente, recibió el Sindicato Nacional del Comerrcio, la Gastronomía y los Servicios (SNTCGS) en ocasión del aniversario 49 de su creación",
       "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/un-dia-como-hoy-en-la-vida-y-obra-de-fidel/un-dia-como-hoy-en-la-vida-y-obra-de-fidel-27-de-octubre/",
+      "enlace_original": "https://www.trabajadores.cu/20261027/cumplio-49-anos-el-sindicato-nacional-del-comercio-la-gastronomia-y-los-servicios/",
       "destacada": false,
-      "tema": "fidel",
-      "fecha": "Tue, 27 Oct 2026 04:26:08 +0000",
-      "id": 17
+      "tema": "cumplió",
+      "fecha": "Wed, 28 Oct 2026 01:11:48 +0000",
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -235,7 +196,7 @@
       "destacada": false,
       "tema": "exigen",
       "fecha": "Tue, 27 Oct 2026 20:37:17 +0000",
-      "id": 18
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -248,7 +209,7 @@
       "destacada": false,
       "tema": "mejoras",
       "fecha": "Tue, 27 Oct 2026 20:11:32 +0000",
-      "id": 19
+      "id": 16
     },
     {
       "categoria": "salud",
@@ -261,7 +222,7 @@
       "destacada": false,
       "tema": "mundo",
       "fecha": "Tue, 27 Oct 2026 19:53:59 +0000",
-      "id": 20
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -274,7 +235,7 @@
       "destacada": false,
       "tema": "litoral",
       "fecha": "Tue, 27 Oct 2026 19:17:59 +0000",
-      "id": 21
+      "id": 18
     },
     {
       "categoria": "politica",
@@ -287,7 +248,7 @@
       "destacada": false,
       "tema": "rechaza",
       "fecha": "Tue, 27 Oct 2026 18:13:33 +0000",
-      "id": 22
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -300,20 +261,7 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Tue, 27 Oct 2026 15:28:18 +0000",
-      "id": 23
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Azuzar el oído si de bloqueo hablamos",
-      "resumen": "Llegó octubre y los cubanos tenemos marcado ese mes, al ser el escenario donde en la Asamblea General de la ONU se vota, año tras año, por un proyecto de resolución que reclama el cese del bloqueo estadounidense contra Cuba",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261027/azuzar-el-oido-si-de-bloqueo-hablamos/",
-      "destacada": false,
-      "tema": "azuzar",
-      "fecha": "Tue, 27 Oct 2026 15:16:54 +0000",
-      "id": 24
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -326,7 +274,7 @@
       "destacada": false,
       "tema": "petrolera",
       "fecha": "Tue, 27 Oct 2026 23:38:10 +0100",
-      "id": 25
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -339,7 +287,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 27 Oct 2026 23:09:25 +0100",
-      "id": 26
+      "id": 22
     },
     {
       "categoria": "salud",
@@ -352,7 +300,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 27 Oct 2026 20:38:09 +0100",
-      "id": 27
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -365,7 +313,7 @@
       "destacada": false,
       "tema": "intimidar",
       "fecha": "Tue, 27 Oct 2026 19:36:16 +0100",
-      "id": 28
+      "id": 24
     },
     {
       "categoria": "energia",
@@ -378,7 +326,7 @@
       "destacada": false,
       "tema": "apagones",
       "fecha": "Tue, 27 Oct 2026 18:48:07 +0100",
-      "id": 29
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -391,20 +339,33 @@
       "destacada": false,
       "tema": "coartada",
       "fecha": "Tue, 27 Oct 2026 18:00:02 +0100",
-      "id": 30
+      "id": 26
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubanas deportadas por EEUU a África denuncian engaño, golpes y 'secuestro'",
-      "resumen": "#Cubanas deportadas por #EEUU a la #RepúblicaCentroafricana aseguran haber sido engañadas y haber recibido golpes. El #cubano Yasmany Moreno, quien fue expulsado a ese país hace meses, advierte de los riesgos que corren las mujeres.",
+      "titulo": "Cuba al Día",
+      "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793113582_69568.html",
+      "enlace_original": "https://www.martinoticias.com/a/481891.html",
       "destacada": false,
-      "tema": "cubanas",
-      "fecha": "Tue, 27 Oct 2026 16:06:22 +0100",
-      "id": 31
+      "tema": "",
+      "fecha": "Wed, 28 Oct 2026 00:00:30 -0400",
+      "id": 27
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Dónde hay que ir a pedir justicia?: madre denuncia a primer teniente de la unidad como responsable de la muerte de su hijo",
+      "resumen": "Mercedes Roque Rodríguez denuncia ante el sistema judicial y públicamente la muerte por suicidio de su hijo, Antonio Alejandro Rassi Roque, mientras cumplía el Servicio Militar Obligatorio en Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/d%c3%b3nde-hay-que-ir-a-pedir-justicia-madre-denuncia-a-primer-teniente-de-la-unidad-como-responsable-de-la-muerte-de-su-hijo/482894.html",
+      "destacada": false,
+      "tema": "dónde",
+      "fecha": "Tue, 27 Oct 2026 20:31:53 -0400",
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -417,7 +378,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Tue, 27 Oct 2026 20:00:00 -0400",
-      "id": 32
+      "id": 29
     },
     {
       "categoria": "transporte",
@@ -430,7 +391,7 @@
       "destacada": false,
       "tema": "resuelve",
       "fecha": "Tue, 27 Oct 2026 19:24:27 -0400",
-      "id": 33
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -443,46 +404,33 @@
       "destacada": false,
       "tema": "exdiplomático",
       "fecha": "Tue, 27 Oct 2026 17:44:32 -0400",
-      "id": 34
+      "id": 31
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al día",
-      "resumen": "Si así reaccionan los diplomáticos cubanos ante las cámaras del mundo, ¿qué les espera a quienes desafían al régimen dentro de Cuba?",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Camilo, de Yaguajay y de Cuba",
+      "resumen": "Aquel triste 28 de octubre, acaso ultimado por las pésimas condiciones de un tiempo que, como el entonces bravío mar, debe haberse arrodillado 67 veces ante la historia para pedirle perdón, Camilo desaparecía víctima de un accidente aéreo. Lo épicamente curioso es que desde ese instante nunca estuvo",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/482891.html",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/28/camilo-de-yaguajay-y-de-cuba/",
       "destacada": false,
-      "tema": "",
-      "fecha": "Tue, 27 Oct 2026 17:12:34 -0400",
-      "id": 35
+      "tema": "camilo",
+      "fecha": "Wed, 28 Oct 2026 04:28:28 +0000",
+      "id": 32
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Exdiplomático cubano denuncia presuntos vínculos de inteligencia dentro de la misión de La Habana ante la ONU",
-      "resumen": "Un exfuncionario de la misión cubana ante la ONU denunció desde el exilio un sistema diplomático “totalmente centralizado”, con control político e influencia de la inteligencia cubana.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba anuncia equipo para el Mundial Sub-23 de béisbol de Nicaragua",
+      "resumen": "Cuba anunció los 24 peloteros que disputarán la Copa Mundial Sub-23 de béisbol, del 6 al 15 de noviembre en Nicaragua. Bajo el mando de Guillermo Carmona, la selección reúne a dos receptores, seis jugadores de cuadro, cinco jardineros y 11 lanzadores. Cuba llegará con la ambición de ganarse un sitio",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/exdiplom%c3%a1tico-cubano-denuncia-presuntos-v%c3%adnculos-de-inteligencia-dentro-de-la-misi%c3%b3n-de-la-habana-ante-la-onu/482889.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/28/cuba-anuncia-equipo-para-el-mundial-sub-23-de-beisbol-de-nicaragua/",
       "destacada": false,
-      "tema": "exdiplomático",
-      "fecha": "Tue, 27 Oct 2026 17:05:48 -0400",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 5:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481855.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Tue, 27 Oct 2026 17:00:30 -0400",
-      "id": 37
+      "tema": "anuncia",
+      "fecha": "Wed, 28 Oct 2026 04:10:53 +0000",
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -495,7 +443,7 @@
       "destacada": false,
       "tema": "mbappé",
       "fecha": "Tue, 27 Oct 2026 17:26:02 +0000",
-      "id": 38
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -508,20 +456,98 @@
       "destacada": false,
       "tema": "conquista",
       "fecha": "Tue, 27 Oct 2026 15:43:10 +0000",
+      "id": 35
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Desafíos del envejecimiento femenino en la Cuba actual (I)",
+      "resumen": "Texto y fotos: Yamylé Fernández Rodríguez - Revista Mujeres.- En un contexto en el que Cuba exhibe u...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125635-desafios-del-envejecimiento-femenino-en-la-cuba-actual-i.jpg?t=1792599520",
+      "enlace_original": "https://www.cubainformacion.tv/genero/20261028/125635/125635-desafios-del-envejecimiento-femenino-en-la-cuba-actual-i",
+      "destacada": false,
+      "tema": "desafíos",
+      "fecha": "Wed, 28 Oct 26 07:00:00 +0100",
+      "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Barcelona se moviliza en solidaridad con Cuba y contra el bloqueo de Estados Unidos (+Fotos)",
+      "resumen": "Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125758-barcelona-se-moviliza-en-solidaridad-con-cuba-y-contra-el-bloqueo-de-estados-unidos-fotos.jpg?t=1793167097",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261028/125758/125758-barcelona-se-moviliza-en-solidaridad-con-cuba-y-contra-el-bloqueo-de-estados-unidos-fotos",
+      "destacada": false,
+      "tema": "barcelona",
+      "fecha": "Wed, 28 Oct 26 06:48:00 +0100",
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Red Canadiense sobre Cuba exige a Otawa tomar acciones para contrarrestar impacto del bloqueo",
+      "resumen": "Canal Caribe.- La Red canadiense sobre #Cuba, una coalición de 26 organizaciones de solidaridad, rea...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125757-red-canadiense-sobre-cuba-exige-a-otawa-tomar-acciones-para-contrarrestar-impacto-del-bloqueo.jpg?t=1793166319",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261028/125757/125757-red-canadiense-sobre-cuba-exige-a-otawa-tomar-acciones-para-contrarrestar-impacto-del-bloqueo",
+      "destacada": false,
+      "tema": "canadiense",
+      "fecha": "Wed, 28 Oct 26 06:44:00 +0100",
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Entregó BioCubaCafé primeros kits fotovoltaicos en oriente cubano",
+      "resumen": "Fotos: Naturaleza Secreta La Habana, 27 oct (ACN) Los primeros mil kits fotovoltaicos de la empr...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125756-entrego-biocubacafe-primeros-kits-fotovoltaicos-en-oriente-cubano.jpg?t=1793165822",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261028/125756/125756-entrego-biocubacafe-primeros-kits-fotovoltaicos-en-oriente-cubano",
+      "destacada": false,
+      "tema": "entregó",
+      "fecha": "Wed, 28 Oct 26 06:36:00 +0100",
       "id": 39
     },
     {
       "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
+      "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "Hoy en la Mesa Redonda: Debate del bloqueo a Cuba en Asamblea General de ONU",
-      "resumen": "La Mesa Redonda transmitirá hoy, a partir de las 7 pm, un resumen de los debates iniciados este martes 27 de octubre en la Asamblea General de Naciones Unidas sobre la Necesidad de poner fin al Bloqueo económico, comercial y financiero de Estados Unidos contra nuestro país. The post Hoy en la Mesa R",
-      "imagen_url": "",
-      "enlace_original": "http://mesaredonda.cubadebate.cu/noticias/2026/10/27/hoy-en-la-mesa-redonda-debate-del-bloqueo-a-cuba-en-asamblea-general-de-onu/",
+      "titulo": "Denuncian en ONU campaña de EE. UU. para desacreditar la cooperación médica cubana en el mundo",
+      "resumen": "Canal Caribe.- En esta jornada, las delegaciones de Belarús, Irán y Eritrea también cuestionaron la ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125755-denuncian-en-onu-campana-de-ee-uu-para-desacreditar-la-cooperacion-medica-cubana-en-el-mundo.jpg?t=1793165687",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261028/125755/125755-denuncian-en-onu-campana-de-ee-uu-para-desacreditar-la-cooperacion-medica-cubana-en-el-mundo",
       "destacada": false,
-      "tema": "redonda",
-      "fecha": "Tue, 27 Oct 2026 15:28:41 +0000",
+      "tema": "denuncian",
+      "fecha": "Wed, 28 Oct 26 06:33:00 +0100",
       "id": 40
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Sindicatos y jóvenes marchan en Italia en rechazo al bloqueo a Cuba",
+      "resumen": "Señal en vivo Sur.- Organizaciones sociales italianas se movilizan para presionar a su gobierno a vo...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125754-sindicatos-y-jovenes-marchan-en-italia-en-rechazo-al-bloqueo-a-cuba.jpg?t=1793165533",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261028/125754/125754-sindicatos-y-jovenes-marchan-en-italia-en-rechazo-al-bloqueo-a-cuba",
+      "destacada": false,
+      "tema": "sindicatos",
+      "fecha": "Wed, 28 Oct 26 06:26:00 +0100",
+      "id": 41
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "&quot;La solidaridad y el internacionalismo de Cuba no tienen pausa, incluso en tiempos de crisis y asfixia&quot;",
+      "resumen": "Cubainformación.- Visitan el estudio de Cubainformación TV Eloísa Auat y Daniela Abregu, activistas ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125677-la-solidaridad-y-el-internacionalismo-de-cuba-no-tienen-pausa-incluso-en-tiempos-de-crisis-y-asfixia.jpg?t=1793015087",
+      "enlace_original": "https://www.cubainformacion.tv/especiales/20261028/125677/125677-la-solidaridad-y-el-internacionalismo-de-cuba-no-tienen-pausa-incluso-en-tiempos-de-crisis-y-asfixia",
+      "destacada": false,
+      "tema": "solidaridad",
+      "fecha": "Wed, 28 Oct 26 05:00:00 +0100",
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -534,7 +560,7 @@
       "destacada": false,
       "tema": "encara",
       "fecha": "Tue, 27 Oct 26 18:43:00 +0100",
-      "id": 41
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -547,7 +573,7 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Tue, 27 Oct 26 18:12:00 +0100",
-      "id": 42
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -560,111 +586,33 @@
       "destacada": false,
       "tema": "sindicalistas",
       "fecha": "Tue, 27 Oct 26 09:44:00 +0100",
-      "id": 43
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Este miércoles 28 de octubre: tuitazo mundial contra el bloqueo de EEUU a Cuba",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125748-este-miercoles-28-de-octubre-tuitazo-mundial-contra-el-bloqueo-de-eeuu-a-cuba.jpg?t=1793090453",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261027/125748/125748-este-miercoles-28-de-octubre-tuitazo-mundial-contra-el-bloqueo-de-eeuu-a-cuba",
-      "destacada": false,
-      "tema": "miércoles",
-      "fecha": "Tue, 27 Oct 26 09:38:00 +0100",
-      "id": 44
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba contra el bloqueo",
-      "resumen": "El Titan de #Cuba",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125746-cuba-contra-el-bloqueo.jpg?t=1793087177",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261027/125746/125746-cuba-contra-el-bloqueo",
-      "destacada": false,
-      "tema": "contra",
-      "fecha": "Tue, 27 Oct 26 08:46:00 +0100",
       "id": 45
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "¿Se quedaron rezagadas las cooperativas en Cuba?",
-      "resumen": "Cuadrando La Caja.- ¿Se han quedado rezagadas nuestras cooperativas con respecto a otros actores eco...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125745-se-quedaron-rezagadas-las-cooperativas-en-cuba.jpg?t=1793085787",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261027/125745/125745-se-quedaron-rezagadas-las-cooperativas-en-cuba",
+      "fuente": "https://actualidad.rt.com",
+      "fuente_tipo": "internacional",
+      "titulo": "Irán califica de \"terrorismo económico\" el bloqueo de EE.UU. contra Cuba",
+      "resumen": "Teherán demandó el levantamiento inmediato de todo el marco sancionatorio y exigió reparaciones económicas para la isla.",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae14d1859bf5b66a5341568.jpg",
+      "enlace_original": "https://actualidad-rt.com/actualidad/634705-iran-calificar-terrorismo-economico-bloqueo-cuba?utm_source=rss&utm_medium=rss&utm_campaign=all",
       "destacada": false,
-      "tema": "quedaron",
-      "fecha": "Tue, 27 Oct 26 08:22:00 +0100",
+      "tema": "califica",
+      "fecha": "Wed, 28 Oct 2026 03:38:19 +0000",
       "id": 46
     },
     {
-      "categoria": "economia",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Cómo el Bloqueo Económico Comercial y Financiero impacta directamente en el sector turístico cubano",
-      "resumen": "Cubavisión Internacional.- El sector turístico cubano, continúa pagando un alto precio debido al rec...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125743-como-el-bloqueo-economico-comercial-y-financiero-impacta-directamente-en-el-sector-turistico-cubano.jpg?t=1793084869",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261027/125743/125743-como-el-bloqueo-economico-comercial-y-financiero-impacta-directamente-en-el-sector-turistico-cubano",
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Historia de la ciudad: La Habana contada por Ciro Bianchi",
+      "resumen": "Como parte de la campaña “Habana mía”, dedicada al aniversario de la ciudad, nos acercamos a las tertulias habituales del Premio Nacional de Periodismo sobre la historia de la capital y sus habitantes La entrada Historia de la ciudad: La Habana contada por Ciro Bianchi se publicó primero en Tribuna ",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/historia-de-la-ciudad-la-habana-contada-por-ciro-bianchi/",
       "destacada": false,
-      "tema": "bloqueo",
-      "fecha": "Tue, 27 Oct 26 08:07:00 +0100",
+      "tema": "historia",
+      "fecha": "Tue, 27 Oct 2026 16:27:44 +0000",
       "id": 47
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Más de dos millones de personas afectadas por el suministro de agua en Cuba, a causa del bloqueo petrolero de EE. UU.",
-      "resumen": "Canal Caribe.- La situación eléctrica nacional y roturas de equipos de bombeo continúan incidiendo e...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125741-mas-de-dos-millones-de-personas-afectadas-por-el-suministro-de-agua-en-cuba-a-causa-del-bloqueo-petrolero-de-ee-uu.jpg?t=1793084618",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261027/125741/125741-mas-de-dos-millones-de-personas-afectadas-por-el-suministro-de-agua-en-cuba-a-causa-del-bloqueo-petrolero-de-ee-uu",
-      "destacada": false,
-      "tema": "millones",
-      "fecha": "Tue, 27 Oct 26 08:02:00 +0100",
-      "id": 48
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba transforma su economía y elimina subsidios al sector estatal",
-      "resumen": "Señal en vivo Sur.- La economía cubana emprende una transformación de raíz mediante la ejecución del...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125738-cuba-transforma-su-economia-y-elimina-subsidios-al-sector-estatal.jpg?t=1793084344",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261027/125738/125738-cuba-transforma-su-economia-y-elimina-subsidios-al-sector-estatal",
-      "destacada": false,
-      "tema": "transforma",
-      "fecha": "Tue, 27 Oct 26 07:58:00 +0100",
-      "id": 49
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cocodrilos con sello cubano en Nicaragua",
-      "resumen": "Hanyelo Videt, Yosney García y Silvio Bruno Iturralde defenderán a Cuba en el Mundial Sub-23 de béisbol, en Nicaragua.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/27/cocodrilos-con-sello-cubano-en-nicaragua/",
-      "destacada": false,
-      "tema": "cocodrilos",
-      "fecha": "Tue, 27 Oct 2026 18:05:36 +0000",
-      "id": 50
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Un Mundial menos y mil preguntas",
-      "resumen": "La selección cubana sub-18 quedó fuera del Mundial de 2027. Nicaragua la eliminó este sábado con blanqueada de 5-0 en el Premundial de República Dominicana",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/27/un-mundial-menos-y-mil-preguntas/",
-      "destacada": false,
-      "tema": "mundial",
-      "fecha": "Tue, 27 Oct 2026 17:23:31 +0000",
-      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -677,7 +625,7 @@
       "destacada": false,
       "tema": "funcionario",
       "fecha": "Tue, 27 Oct 2026 19:16:21 GMT",
-      "id": 52
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -690,7 +638,7 @@
       "destacada": false,
       "tema": "cuántas",
       "fecha": "Tue, 27 Oct 2026 11:24:35 GMT",
-      "id": 53
+      "id": 49
     },
     {
       "categoria": "economia",
@@ -703,7 +651,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 27 Oct 2026 11:00:00 GMT",
-      "id": 54
+      "id": 50
     }
   ]
 }
