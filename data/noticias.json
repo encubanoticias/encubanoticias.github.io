@@ -1,33 +1,59 @@
 {
   "fecha": "2026-10-29",
-  "hora": "17:12",
-  "total": 47,
+  "hora": "22:13",
+  "total": 45,
   "noticias": [
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Nuevas muestras solidaridad con Cuba en Mali frente a bloqueo de EEUU",
+      "titulo": "Aula Magna: un tesoro universitario",
+      "resumen": "El emblemático recinto de la Universidad de La Habana, escenario de la vida académica y política de la nación, cumplió 120 años este 28 de octubre",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-10-29/aula-magna-un-tesoro-universitario-29-10-2026-14-10-04",
+      "destacada": true,
+      "tema": "magna",
+      "fecha": "Thu, 29 Oct 2026 14:10:04 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Nuevas muestras de solidaridad con Cuba en Mali frente a bloqueo de EE.UU.",
       "resumen": "Organizaciones de Mali reafirman hoy su solidaridad con Cuba frente al bloqueo económico, comercial y financiero de Estados Unidos, en momentos en que la Asamblea General de las Naciones Unidas volvió a pronunciarse a favor de su eliminación",
       "imagen_url": "",
       "enlace_original": "http://www.granma.cu/mundo/2026-10-29/nuevas-muestras-solidaridad-con-cuba-en-mali-frente-a-bloqueo-de-eeuu-29-10-2026-11-10-45",
       "destacada": true,
       "tema": "nuevas",
       "fecha": "Thu, 29 Oct 2026 11:10:45 -0400",
-      "id": 1
+      "id": 2
     },
     {
-      "categoria": "politica",
+      "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Más críticas a abstención peruana en votación ONU sobre bloqueo",
-      "resumen": "Lima, 29 oct (Prensa Latina) Dos senadores se sumaron hoy a las críticas al cambio de posición del Gobierno peruano respecto al bloqueo de Estados Unidos contra Cuba, con su abstención en la votación en la cual una amplia mayoría pidió el fin de esa política. The post Más críticas a abstención perua",
+      "titulo": "Avispas blindan la cima oriental en el béisbol cubano",
+      "resumen": "La Habana, 29 oct (Prensa Latina) Las Avispas de Santiago de Cuba defendieron hoy la cima oriental del béisbol cubano con un triunfo de 10-9 sobre los Cachorros de Holguín. The post Avispas blindan la cima oriental en el béisbol cubano first appeared on Noticias Prensa Latina.",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/29/mas-criticas-a-abstension-peruana-en-votacion-onu-sobre-bloqueo/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/29/avispas-blindan-la-cima-oriental-en-el-beisbol-cubano/",
       "destacada": true,
-      "tema": "críticas",
-      "fecha": "Thu, 29 Oct 2026 16:48:10 +0000",
-      "id": 2
+      "tema": "avispas",
+      "fecha": "Thu, 29 Oct 2026 21:37:41 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"Si no tienes dinero te mueres de hambre\": la Cuba que encontró el ‘Wall Street Journal’",
+      "resumen": "El periódico estadounidense vuelve a la Isla y recoge el testimonio de jubilados, emprendedores y comerciantes",
+      "imagen_url": "https://static.14ymedio.com/clip/b32a74d9-bafb-4746-acca-032badd1bc9d_source-aspect-ratio_default_0.png",
+      "enlace_original": "https://www.14ymedio.com/cuba/si-no-tienes-dinero-mueres_1_1132584.html",
+      "destacada": true,
+      "tema": "tienes",
+      "fecha": "Thu, 29 Oct 2026 20:37:52 +0000",
+      "id": 4
     },
     {
       "categoria": "politica",
@@ -40,20 +66,20 @@
       "destacada": true,
       "tema": "petroleros",
       "fecha": "Thu, 29 Oct 2026 15:53:50 +0000",
-      "id": 3
+      "id": 5
     },
     {
-      "categoria": "energia",
+      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La novela de un país contada a través de WhatsApp",
-      "resumen": "Entre avisos de que no habrá pan, roturas del gas, apagones y fallecimientos, el grupo de vecinos de un edificio escribe la crónica de una Cuba en ruinas",
-      "imagen_url": "https://static.14ymedio.com/clip/ff165e52-481c-4e5f-bbb2-98b0aab44076_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/blogs/generacion-y/novela-cuba-contada-traves-whatsapp_132_1132580.html",
-      "destacada": true,
-      "tema": "novela",
-      "fecha": "Thu, 29 Oct 2026 16:00:51 +0000",
-      "id": 4
+      "titulo": "La justicia de EE UU libera a un migrante cubano y cierra el caso de un matrimonio ya deportado",
+      "resumen": "Dos fallos judiciales dictados con apenas 24 horas de diferencia ponen de relieve las diferencias procesales en estos casos",
+      "imagen_url": "https://static.14ymedio.com/clip/c811f126-83b6-4350-8d58-af0256f4d406_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/migracion/justicia-ee-uu-libera-migrante_1_1132599.html",
+      "destacada": false,
+      "tema": "justicia",
+      "fecha": "Thu, 29 Oct 2026 20:02:17 +0000",
+      "id": 6
     },
     {
       "categoria": "economia",
@@ -63,10 +89,10 @@
       "resumen": "Un préstamo saudí de 26,6 millones de dólares debía contribuir a rehabilitar 368 viviendas del casco histórico en un programa cuya conclusión estaba prevista para 2020",
       "imagen_url": "https://static.14ymedio.com/clip/2396d81e-7388-474d-9b8a-316c4deb245d_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/habana-apuntalada-ruinas-millones-destinados_1_1132564.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "habana",
       "fecha": "Thu, 29 Oct 2026 13:36:30 +0000",
-      "id": 5
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -79,111 +105,150 @@
       "destacada": false,
       "tema": "apenas",
       "fecha": "Thu, 29 Oct 2026 10:30:48 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "\"Freedom\", la palabra \"libertad\" brota en la fachada de la Embajada de EE UU en La Habana",
-      "resumen": "El régimen convoca una marcha en la Tribuna Antiimperialista, disfrazándola de homenaje a Camilo Cienfuegos",
-      "imagen_url": "https://static.14ymedio.com/clip/1a784d32-f799-4e13-9db8-7a89d542219c_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/freedom-palabra-libertad-brota-fachada_1_1132543.html",
-      "destacada": false,
-      "tema": "freedom",
-      "fecha": "Wed, 28 Oct 2026 21:18:21 +0000",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "salud",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "¡Lo que le pasó a esta cubana en EE.UU. que acabó en el hospital! Su forma de contarlo no tiene desperdicio",
+      "titulo": "Cruz Roja instala 14 sistemas solares en centros de salud del oriente de Cuba tras el huracán Melissa",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-29-u65722-e65722-s27065-nid344178-le-paso-esta-cubana-eeuu-acabo-hospital-forma",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-29-u1-e199894-s27061-nid344212-cruz-roja-instala-14-sistemas-solares-centros-salud",
       "destacada": false,
-      "tema": "cubana",
-      "fecha": "Thu, 29 Oct 2026 16:07:54 +0100",
-      "id": 8
+      "tema": "instala",
+      "fecha": "Thu, 29 Oct 2026 21:59:06 +0100",
+      "id": 9
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Italia explica por qué se abstuvo por primera vez en 34 años en la votación de la ONU sobre el embargo a Cuba",
+      "titulo": "La Embajada de EE.UU. despliega un cartel «Freedom 250» en La Habana",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-29-u1-e129488-s27061-nid344173-italia-explica-abstuvo-primera-vez-34-anos-votacion",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-29-u1-e199894-s27061-nid344210-embajada-eeuu-despliega-cartel-freedom-250-habana",
       "destacada": false,
-      "tema": "italia",
-      "fecha": "Thu, 29 Oct 2026 16:06:20 +0100",
-      "id": 9
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El dólar y el euro baten nuevos récords en Cuba: así amanece el mercado informal este jueves",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-29-u1-e129488-s27061-nid344175-dolar-euro-baten-nuevos-records-cuba-asi-amanece",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Thu, 29 Oct 2026 15:22:14 +0100",
+      "tema": "embajada",
+      "fecha": "Thu, 29 Oct 2026 21:53:33 +0100",
       "id": 10
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubano revela con ironía lo que más le gusta de vivir en Miami: «¡Da risa, pero no!»",
+      "titulo": "Angie Nixon, candidata demócrata de Florida: «Cuba es una dictadura, absolutamente»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-29-u65722-e65722-s27065-nid344172-cubano-revela-ironia-le-gusta-vivir-miami-da-risa",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-29-u1-e74-s27061-nid344216-angie-nixon-candidata-democrata-florida-cuba-dictadura",
       "destacada": false,
-      "tema": "cubano",
-      "fecha": "Thu, 29 Oct 2026 15:19:35 +0100",
+      "tema": "angie",
+      "fecha": "Thu, 29 Oct 2026 21:43:15 +0100",
       "id": 11
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "¿Los franceses no se bañan? Cubana que vive en Francia revela la verdad sobre este y otros mitos",
+      "titulo": "Las derrotas del régimen cubano en la ONU",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-29-u65722-e65722-s27065-nid344169-franceses-banan-cubana-vive-francia-revela-verdad",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-29-u208253-e192519-s27068-nid344214-derrotas-regimen-cubano-onu",
       "destacada": false,
-      "tema": "franceses",
-      "fecha": "Thu, 29 Oct 2026 15:05:00 +0100",
+      "tema": "derrotas",
+      "fecha": "Thu, 29 Oct 2026 21:26:46 +0100",
       "id": 12
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Camilo vuelve a la vanguardia",
-      "resumen": "La Habana acogió el acto por el 67 aniversario de la desaparición física del Comandante Camilo Cienfuegos, una jornada que sirvió para reafirmar la unidad revolucionaria tras la contundente victoria de Cuba en la Asamblea General de las Naciones Unidas contra el bloqueo.",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Más ayuda humanitaria de EEUU a Cuba: 1.400 kits para personas vulnerables de Sancti Spíritus",
+      "resumen": "#Cáritas recibe 700 kits de alimentos y 700 de higiene destinados a personas vulnerables del sur de #SanctiSpíritus. Es el segundo envío de ayuda humanitaria realizado por #EEUU esta semana.",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261028/camilo-vuelve-a-la-vanguardia/",
+      "enlace_original": "https://diariodecuba.com/cuba/1793307533_69617.html",
       "destacada": false,
-      "tema": "camilo",
-      "fecha": "Wed, 28 Oct 2026 22:02:23 +0000",
+      "tema": "ayuda",
+      "fecha": "Thu, 29 Oct 2026 21:58:53 +0100",
       "id": 13
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba no es una amenaza",
-      "resumen": "Lo que estuvo en discusión en Naciones Unidas no fue solo la situación de Cuba, sino la vigencia del respeto al derecho internacional y a la libre determinación de los pueblos",
+      "categoria": "politica",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Una base en Puerto Rico se alista para apoyar una potencial intervención militar en Cuba",
+      "resumen": "Los planes de #EEUU contra el régimen de #Cuba vuelven a colocar a #PuertoRico entre sus puntos estratégicos. Lo dice el vicepresidente del Senado de la isla caribeña.",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261028/cuba-no-es-una-amenaza/",
+      "enlace_original": "https://diariodecuba.com/cuba/1793305586_69614.html",
       "destacada": false,
-      "tema": "amenaza",
-      "fecha": "Wed, 28 Oct 2026 19:59:56 +0000",
+      "tema": "puerto",
+      "fecha": "Thu, 29 Oct 2026 21:26:26 +0100",
       "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Solo 5.000 viviendas en un año: los números oficiales evidencian las prioridades del régimen cubano",
+      "resumen": "El régimen de #Cuba terminó solo 5.493 viviendas en un año, mientras los servicios empresariales, inmobiliarios y de alquiler concentran casi el 18% de las #inversiones estatales.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793304012_69615.html",
+      "destacada": false,
+      "tema": "viviendas",
+      "fecha": "Thu, 29 Oct 2026 21:00:12 +0100",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubanos por la Democracia podrá representar a afectados por la revisión de la Ley de Nietos en España",
+      "resumen": "Están en juego el derecho al voto y una eventual declaración de ilegalidad de nacionalizaciones: el Tribunal Supremo de #España admite a dos asociaciones de #cubanos representar a perjudicados por revisión de la #LeyDeNietos.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793303096_69616.html",
+      "destacada": false,
+      "tema": "cubanos",
+      "fecha": "Thu, 29 Oct 2026 20:44:56 +0100",
+      "id": 16
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba pierde otros 3.729 médicos y acumula cuatro años de caída del personal sanitario",
+      "resumen": "Casi uno de cada tres #médicos ha abandonado el Sistema Nacional de #Salud de #Cuba desde 2021.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793300412_69610.html",
+      "destacada": false,
+      "tema": "pierde",
+      "fecha": "Thu, 29 Oct 2026 20:00:12 +0100",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuatro cubanos fugados de una prisión de máxima seguridad en Rusia acaban en los tribunales",
+      "resumen": "Migrantes de #Cuba en #Rusia protagonizan una fuga de prisión y terminan sufriendo las duras condiciones del sistema penitenciario de la nación euroasiática.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793299321_69613.html",
+      "destacada": false,
+      "tema": "cuatro",
+      "fecha": "Thu, 29 Oct 2026 19:42:01 +0100",
+      "id": 18
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "'Falta de libertades políticas': Italia considera 'necesario acelerar el cambio' en Cuba",
+      "resumen": "#Italia critica la falta de libertades políticas en #Cuba y considera necesario acelerar el cambio en el Gobierno. #Roma también exige la liberación de los #PresosPolíticos y reclama reformas sustanciales.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793294415_69609.html",
+      "destacada": false,
+      "tema": "falta",
+      "fecha": "Thu, 29 Oct 2026 18:20:15 +0100",
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -196,7 +261,7 @@
       "destacada": false,
       "tema": "primera",
       "fecha": "Thu, 29 Oct 2026 17:12:01 +0100",
-      "id": 15
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -209,137 +274,46 @@
       "destacada": false,
       "tema": "cubanoamericanos",
       "fecha": "Thu, 29 Oct 2026 14:48:57 +0100",
-      "id": 16
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba apagada: hasta 89 horas sin luz en Cienfuegos y una denuncia de 109 días a oscuras en Cantel",
-      "resumen": "Mientras el #RégimenCubano apuesta a resistir a Trump, a los cubanos de a pie se les agota el tiempo y las fuerzas en una vida en apagón perpetuo.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793278959_69603.html",
-      "destacada": false,
-      "tema": "apagada",
-      "fecha": "Thu, 29 Oct 2026 14:02:39 +0100",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "En medio del auge de delitos con armas de fuego en Cuba, la Policía ocupa 'tremendo arsenal' en Matanzas",
-      "resumen": "Detenido en #Matanzas un #cubano tras ocuparse armas y municiones en su vivienda. Está acusado de presunta tenencia ilegal de armas. Varios usuarios de Facebook aseguran que se dedicaba a repararlas.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793277962_69604.html",
-      "destacada": false,
-      "tema": "medio",
-      "fecha": "Thu, 29 Oct 2026 13:46:02 +0100",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Salir y volver: la movilidad como escape y estrategia de supervivencia en Cuba",
-      "resumen": "Que #emigrar no sea una condición para prosperar: #ManuelCuestaMorúa reclama poner al ciudadano en el centro del cambio, viva dentro o fuera de #Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793275455_69549.html",
-      "destacada": false,
-      "tema": "salir",
-      "fecha": "Thu, 29 Oct 2026 13:04:15 +0100",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Mike Waltz tiene 'muy claro qué tiene que hacer el régimen cubano' para que acabe el embargo",
-      "resumen": "#KamlaPersadBissessar, explica porqué Trinidad y Tobago votó contra la resolución del #RégimenCubano sobre el embargo de #EEUU. #MikeWaltz pregunta quién podría estar en contra de las condiciones de Washington para levantar las sanciones.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793272573_69602.html",
-      "destacada": false,
-      "tema": "waltz",
-      "fecha": "Thu, 29 Oct 2026 12:16:13 +0100",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Activistas denuncian ante la CIDH el uso del contacto familiar para controlar a las presas cubanas",
-      "resumen": "El #CDPC registró 306 eventos de violaciones de #DerechosHumanos relacionados con mujeres recluidas en #Cuba entre 2022 y 2026: restricción de visitas y llamadas como castigo.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1793269145_69601.html",
-      "destacada": false,
-      "tema": "activistas",
-      "fecha": "Thu, 29 Oct 2026 11:19:05 +0100",
       "id": 21
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Richard Tur entra en la lista de Represores Cubanos tras el incidente violento en la ONU",
-      "resumen": "De la #ONU al registro de represores: la Fundación para los #DerechosHumanos en #Cuba señala a #RichardTur por su conducta contra un portavoz estadounidense.",
+      "titulo": "Noticiero de Radio Martí 5:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1793257088_69600.html",
+      "enlace_original": "https://www.martinoticias.com/a/482019.html",
       "destacada": false,
-      "tema": "richard",
-      "fecha": "Thu, 29 Oct 2026 07:58:08 +0100",
+      "tema": "noticiero",
+      "fecha": "Thu, 29 Oct 2026 17:00:30 -0400",
       "id": 22
     },
     {
-      "categoria": "politica",
+      "categoria": "energia",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Trinidad y Tobago: \"Apoyamos al pueblo de Cuba, no a una dictadura militar\"",
-      "resumen": "La primera ministra de Trinidad y Tobago, Kamla Persad-Bissessar, defendió el inédito voto de su país contra la resolución de la ONU que pide el fin del embargo de EEUU a Cuba, al afirmar que su gobierno apoya al pueblo cubano, pero no a la dictadura.",
+      "titulo": "Las Noticias Como Son",
+      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/trinidad-y-tobago-apoyamos-al-pueblo-de-cuba-no-a-una-dictadura-militar/483042.html",
+      "enlace_original": "https://www.martinoticias.com/a/482011.html",
       "destacada": false,
-      "tema": "trinidad",
-      "fecha": "Thu, 29 Oct 2026 12:32:36 -0400",
+      "tema": "noticias",
+      "fecha": "Thu, 29 Oct 2026 16:05:30 -0400",
       "id": 23
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 12:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Hoy en la Mesa Redonda: Cubadebate en Mesa Redonda",
+      "resumen": "La Mesa Redonda transmitirá hoy, a partir de las 7 pm, otro capítulo del podcast histórico de Cubadebate, que en esta oportunidad aborda la verdadera realidad económica de Cuba a partir de la República Neocolonial de 1902 hasta el triunfo de la Revolución en 1959. The post Hoy en la Mesa Redonda: Cu",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481995.html",
+      "enlace_original": "http://mesaredonda.cubadebate.cu/noticias/2026/10/29/hoy-en-la-mesa-redonda-cubadebate-en-mesa-redonda/",
       "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Thu, 29 Oct 2026 12:00:00 -0400",
+      "tema": "redonda",
+      "fecha": "Thu, 29 Oct 2026 21:31:39 +0000",
       "id": 24
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Amnistía Internacional exige liberar a matrimonio de líderes yorubas encarcelado en Cuba",
-      "resumen": "Amnistía Internacional exigió la liberación inmediata e incondicional de los líderes yorubas cubanos Loreto Hernández García y Donaida Pérez Paseiro, presos por su participación pacífica en las protestas del 11 de julio de 2021.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/amnist%c3%ada-internacional-exige-liberar-a-matrimonio-de-l%c3%adderes-yorubas-encarcelado-en-cuba/483039.html",
-      "destacada": false,
-      "tema": "amnistía",
-      "fecha": "Thu, 29 Oct 2026 11:34:52 -0400",
-      "id": 25
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barrio adentro",
-      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/481992.html",
-      "destacada": false,
-      "tema": "barrio",
-      "fecha": "Thu, 29 Oct 2026 11:30:00 -0400",
-      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -352,7 +326,7 @@
       "destacada": false,
       "tema": "geopolítica",
       "fecha": "Thu, 29 Oct 2026 15:31:07 +0000",
-      "id": 27
+      "id": 25
     },
     {
       "categoria": "politica",
@@ -365,7 +339,20 @@
       "destacada": false,
       "tema": "pasará",
       "fecha": "Thu, 29 Oct 2026 14:33:28 +0000",
-      "id": 28
+      "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "¿Soberanía o sumisión al imperio?: sobre el voto acerca del bloqueo a Cuba",
+      "resumen": "Aníbal Garzón* - Especial para Cubainformación...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125791-soberania-o-sumision-al-imperio-sobre-el-voto-acerca-del-bloqueo-a-cuba.jpg?t=1793297606",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261029/125791/125791-soberania-o-sumision-al-imperio-sobre-el-voto-acerca-del-bloqueo-a-cuba",
+      "destacada": false,
+      "tema": "soberanía",
+      "fecha": "Thu, 29 Oct 26 19:07:00 +0100",
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -378,7 +365,7 @@
       "destacada": false,
       "tema": "facre",
       "fecha": "Thu, 29 Oct 26 12:34:00 +0100",
-      "id": 29
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -391,7 +378,7 @@
       "destacada": false,
       "tema": "salim",
       "fecha": "Thu, 29 Oct 26 10:10:00 +0100",
-      "id": 30
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -404,7 +391,7 @@
       "destacada": false,
       "tema": "berna",
       "fecha": "Thu, 29 Oct 26 10:02:00 +0100",
-      "id": 31
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -417,7 +404,7 @@
       "destacada": false,
       "tema": "italia",
       "fecha": "Thu, 29 Oct 26 09:57:00 +0100",
-      "id": 32
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -430,7 +417,7 @@
       "destacada": false,
       "tema": "calle",
       "fecha": "Thu, 29 Oct 26 08:01:00 +0100",
-      "id": 33
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -443,7 +430,7 @@
       "destacada": false,
       "tema": "victoria",
       "fecha": "Thu, 29 Oct 26 08:01:00 +0100",
-      "id": 34
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -456,7 +443,7 @@
       "destacada": false,
       "tema": "quieren",
       "fecha": "Thu, 29 Oct 26 08:00:00 +0100",
-      "id": 35
+      "id": 34
     },
     {
       "categoria": "politica",
@@ -469,7 +456,7 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Thu, 29 Oct 26 07:38:00 +0100",
-      "id": 36
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -482,20 +469,7 @@
       "destacada": false,
       "tema": "miami",
       "fecha": "Thu, 29 Oct 26 07:25:00 +0100",
-      "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "88% de la ONU pide el fin del bloqueo a Cuba pero sigue sin hacer nada",
-      "resumen": "Cubainformación.- 130 votos a favor, 17 en contra: Cuba vuelve a recabar el 88% de los votos en la O...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125750-88-de-la-onu-pide-el-fin-del-bloqueo-a-cuba-pero-sigue-sin-hacer-nada.jpg?t=1793266140",
-      "enlace_original": "https://www.cubainformacion.tv/especiales/20261029/125750/125750-88-de-la-onu-pide-el-fin-del-bloqueo-a-cuba-pero-sigue-sin-hacer-nada",
-      "destacada": false,
-      "tema": "bloqueo",
-      "fecha": "Thu, 29 Oct 26 07:00:00 +0100",
-      "id": 38
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -508,7 +482,7 @@
       "destacada": false,
       "tema": "diplomacia",
       "fecha": "Thu, 29 Oct 2026 14:56:23 +0000",
-      "id": 39
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -521,7 +495,20 @@
       "destacada": false,
       "tema": "contra",
       "fecha": "Thu, 29 Oct 2026 14:43:25 +0000",
-      "id": 40
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Industriales firma quinto triunfo consecutivo en la Serie Nacional",
+      "resumen": "Los Leones de Industriales noquearon 10-0 a los Cazadores de Artemisa en el estadio 26 de Julio y sumaron su quinto triunfo consecutivo en la 65.ª Serie Nacional de Béisbol La entrada Industriales firma quinto triunfo consecutivo en la Serie Nacional se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/industriales-firma-quinto-triunfo-consecutivo-en-la-serie-nacional/",
+      "destacada": false,
+      "tema": "industriales",
+      "fecha": "Thu, 29 Oct 2026 19:58:23 +0000",
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -534,7 +521,7 @@
       "destacada": false,
       "tema": "tarde",
       "fecha": "Thu, 29 Oct 2026 16:51:18 +0000",
-      "id": 41
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -547,20 +534,7 @@
       "destacada": false,
       "tema": "jaboneras",
       "fecha": "Thu, 29 Oct 2026 15:45:33 +0000",
-      "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel encabeza homenaje a Camilo Cienfuegos en La Habana",
-      "resumen": "El acto político-cultural por el aniversario 67 de la desaparición física del Señor de la Vanguardia reunió a dirigentes del país, jóvenes y representantes del pueblo habanero La entrada Díaz-Canel encabeza homenaje a Camilo Cienfuegos en La Habana se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/diaz-canel-encabeza-homenaje-a-camilo-cienfuegos-en-la-habana/",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Thu, 29 Oct 2026 02:55:24 +0000",
-      "id": 43
+      "id": 41
     },
     {
       "categoria": "transporte",
@@ -573,7 +547,7 @@
       "destacada": false,
       "tema": "estudiantado",
       "fecha": "Thu, 29 Oct 2026 12:10:00 +0000",
-      "id": 44
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -586,7 +560,20 @@
       "destacada": false,
       "tema": "victoria",
       "fecha": "Thu, 29 Oct 2026 12:00:00 +0000",
-      "id": 45
+      "id": 43
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Documentar para que haya justicia: qué le enseña Venezuela a Cuba sobre la memoria de las víctimas",
+      "resumen": "La ONU prorrogó por dos años la misión que investiga violaciones en Venezuela, mientras Cuba votó contra la medida. elTOQUE republica una serie sobre sus lecciones para documentar abusos.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/12_10_dgcim_venezuela_represion_militares_edc30fee80.jpg",
+      "enlace_original": "https://eltoque.com/que-le-ensena-venezuela-a-cuba-sobre-la-memoria-de-las-victimas",
+      "destacada": false,
+      "tema": "documentar",
+      "fecha": "Thu, 29 Oct 2026 17:00:00 GMT",
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -599,20 +586,7 @@
       "destacada": false,
       "tema": "cronología",
       "fecha": "Thu, 29 Oct 2026 12:23:16 GMT",
-      "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Lo que Waltz mostró en la ONU, visto desde el satélite: así luce hoy Cayo Piedra, la isla de los Castro",
-      "resumen": "Las imágenes satelitales recientes de Cayo Piedra revelan áreas exteriores despejadas, caminos pavimentados y estructuras aparentemente conservadas, en medio de denuncias sobre privilegios de la cúpula cubana.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/cayo_piedra_cuba_onu_467658220a.jpg",
-      "enlace_original": "https://eltoque.com/lo-que-waltz-mostro-en-la-onu-visto-desde-el-satelite-asi-luce-hoy-cayo-piedra-la-isla-de-los-castro",
-      "destacada": false,
-      "tema": "waltz",
-      "fecha": "Wed, 28 Oct 2026 18:15:38 GMT",
-      "id": 47
+      "id": 45
     }
   ]
 }
