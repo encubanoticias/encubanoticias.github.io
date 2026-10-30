@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-30",
-  "hora": "02:17",
-  "total": 55,
+  "hora": "09:20",
+  "total": 41,
   "noticias": [
     {
       "categoria": "transporte",
@@ -44,55 +44,16 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Organizaciones mexicanas festejan otro triunfo de Cuba en ONU",
-      "resumen": "Ciudad de México, 29 oct (Prensa Latina) Organizaciones mexicanas festejaron hoy que 130 países en Naciones Unidas rechazaran el bloqueo económico, comercial y financiero impuesto por Estados Unidos a Cuba desde hace más de seis décadas y recrudecido en los meses recientes. The post Organizaciones m",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/29/organizaciones-mexicanas-festejan-otro-triunfo-de-cuba-en-onu/",
-      "destacada": true,
-      "tema": "organizaciones",
-      "fecha": "Fri, 30 Oct 2026 01:55:27 +0000",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Fotografo brasileño destaca investigación en evento cubano",
-      "resumen": "Matanzas, Cuba, 29 oct (Prensa Latina) El fotorreportero brasileño Anderson Da Costa destacó hoy el valor del periodismo de investigación para narrar la Amazonia durante el inicio del Festival y Coloquio Internacional de Fotografía Fotocanímar 2026. The post Fotografo brasileño destaca investigación",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/29/fotografo-brasileno-destaca-investigacion-en-evento-cubano/",
-      "destacada": true,
-      "tema": "fotografo",
-      "fecha": "Fri, 30 Oct 2026 01:03:48 +0000",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Excanciller de Perú cuestiona abstención en votación sobre bloqueo",
-      "resumen": "Lima, 29 oct (Prensa Latina) El excanciller peruano Manuel Rodríguez Cuadros cuestionó hoy la abstención de su país en la votación en las Naciones Unidas sobre el bloqueo económico, comercial, financiero y energético de Estados Unidos contra Cuba. The post Excanciller de Perú cuestiona abstención en",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/29/excanciller-de-peru-cuestiona-abstencion-en-votacion-sobre-bloqueo/",
-      "destacada": false,
-      "tema": "excanciller",
-      "fecha": "Fri, 30 Oct 2026 00:41:10 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
       "titulo": "\"Si no tienes dinero te mueres de hambre\": la Cuba que encontró el ‘Wall Street Journal’",
       "resumen": "El periódico estadounidense vuelve a la Isla y recoge el testimonio de jubilados, emprendedores y comerciantes",
       "imagen_url": "https://static.14ymedio.com/clip/b32a74d9-bafb-4746-acca-032badd1bc9d_source-aspect-ratio_default_0.png",
       "enlace_original": "https://www.14ymedio.com/cuba/si-no-tienes-dinero-mueres_1_1132584.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "tienes",
       "fecha": "Thu, 29 Oct 2026 20:37:52 +0000",
-      "id": 7
+      "id": 4
     },
     {
       "categoria": "politica",
@@ -102,10 +63,10 @@
       "resumen": "Legisladores de ambos partidos señalan que una resolución del Congreso adoptada en 2022 prohíbe la importación de hidrocarburos procedentes de Rusia",
       "imagen_url": "https://static.14ymedio.com/clip/d5e0c1a6-b753-4f40-aac2-2dda2f8df9cc_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/petroleros-cargados-diesel-ruso-cuba_1_1132575.html",
-      "destacada": false,
+      "destacada": true,
       "tema": "petroleros",
       "fecha": "Thu, 29 Oct 2026 15:53:50 +0000",
-      "id": 8
+      "id": 5
     },
     {
       "categoria": "sociedad",
@@ -118,7 +79,7 @@
       "destacada": false,
       "tema": "justicia",
       "fecha": "Thu, 29 Oct 2026 20:02:17 +0000",
-      "id": 9
+      "id": 6
     },
     {
       "categoria": "economia",
@@ -131,7 +92,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Thu, 29 Oct 2026 13:36:30 +0000",
-      "id": 10
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -144,124 +105,33 @@
       "destacada": false,
       "tema": "apenas",
       "fecha": "Thu, 29 Oct 2026 10:30:48 +0000",
-      "id": 11
+      "id": 8
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Un día como hoy en la vida y obra de Fidel. 30 de octubre",
+      "resumen": "&#8211; 30 de octubre de 1962.- Fidel recibe a U. Thant, Secretario General de la Organización de Naciones Unidas, ONU, quién arriba a Cuba con el objetivo de establecer un diálogo con el Gobierno revolucionario sobre la Crisis de Octubre. En las conversaciones Fidel expresó que la posición de Cuba ",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/un-dia-como-hoy-en-la-vida-y-obra-de-fidel/un-dia-como-hoy-en-la-vida-y-obra-de-fidel-30-de-octubre/",
+      "destacada": false,
+      "tema": "fidel",
+      "fecha": "Fri, 30 Oct 2026 04:31:38 +0000",
+      "id": 9
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubano condenado por robo y otros delitos en Miami, entre «lo peor de lo peor» de ICE",
-      "resumen": "",
+      "titulo": "La Habana recibe al diplomático expulsado de EEUU: de 'digna y firme' califica su actuación en la ONU",
+      "resumen": "Gerardo Peñalver recibe con elogios de \"dignidad y firmeza\" a Richard Tur y acusa a #EEUU de intentar obstaculizar su candidatura a un órgano de #NacionesUnidas.",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-30-u1-e199291-s27061-nid344256-cubano-condenado-robo-otros-delitos-miami-peor-peor",
+      "enlace_original": "https://diariodecuba.com/cuba/1793342968_69620.html",
       "destacada": false,
-      "tema": "cubano",
-      "fecha": "Fri, 30 Oct 2026 02:37:54 +0100",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Diplomático cubano expulsado de EE.UU. agradece apoyo del MINREX tras su recibimiento en La Habana",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-30-u1-e208933-s27061-nid344254-diplomatico-cubano-expulsado-eeuu-agradece-apoyo",
-      "destacada": false,
-      "tema": "diplomático",
-      "fecha": "Fri, 30 Oct 2026 02:15:51 +0100",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«¿De verdad estamos venciendo?» Cubano cuestiona a los dirigentes ante la crisis",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-30-u1-e199291-s27061-nid344253-verdad-estamos-venciendo-cubano-cuestiona-dirigentes",
-      "destacada": false,
-      "tema": "verdad",
-      "fecha": "Fri, 30 Oct 2026 01:54:22 +0100",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Detienen a cubano en Italia por presuntos robos a dos mujeres con el «truco de las monedas»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-30-u1-e208933-s27061-nid344252-detienen-cubano-italia-presuntos-robos-dos-mujeres",
-      "destacada": false,
-      "tema": "detienen",
-      "fecha": "Fri, 30 Oct 2026 01:48:58 +0100",
-      "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Hijo de pastor cubano perseguido en la isla enfrenta deportación tras cuatro meses detenido por ICE",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-30-u1-e208933-s27061-nid344248-hijo-pastor-cubano-perseguido-isla-enfrenta",
-      "destacada": false,
-      "tema": "pastor",
-      "fecha": "Fri, 30 Oct 2026 01:23:54 +0100",
-      "id": 16
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Desmienten Fiesta del Terror en La Habana: la convocatoria era falsa",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-30-u1-e199291-s27061-nid344251-desmienten-fiesta-terror-habana-convocatoria-era",
-      "destacada": false,
-      "tema": "desmienten",
-      "fecha": "Fri, 30 Oct 2026 01:20:58 +0100",
-      "id": 17
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Así cierra el mercado informal en Cuba: el dólar y el euro suben al cierre del día",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-30-u1-e197721-s27061-nid344250-asi-cierra-mercado-informal-cuba-dolar-euro-suben-al",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Fri, 30 Oct 2026 01:10:05 +0100",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Avería deja sin agua por hasta 48 horas a barrios de Santiago de Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-30-u1-e197721-s27061-nid344249-averia-deja-agua-48-horas-barrios-santiago-cuba",
-      "destacada": false,
-      "tema": "avería",
-      "fecha": "Fri, 30 Oct 2026 01:06:01 +0100",
-      "id": 19
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel celebra «victoria» en la ONU durante visita a hospital infantil pese a perder 35 apoyos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-30-u1-e208933-s27061-nid344245-diaz-canel-celebra-victoria-onu-durante-visita",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Fri, 30 Oct 2026 00:56:53 +0100",
-      "id": 20
+      "tema": "habana",
+      "fecha": "Fri, 30 Oct 2026 07:49:28 +0100",
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -274,7 +144,7 @@
       "destacada": false,
       "tema": "favor",
       "fecha": "Thu, 29 Oct 2026 23:40:07 +0100",
-      "id": 21
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -287,7 +157,7 @@
       "destacada": false,
       "tema": "considera",
       "fecha": "Thu, 29 Oct 2026 23:17:52 +0100",
-      "id": 22
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -300,7 +170,7 @@
       "destacada": false,
       "tema": "ayuda",
       "fecha": "Thu, 29 Oct 2026 21:58:53 +0100",
-      "id": 23
+      "id": 13
     },
     {
       "categoria": "politica",
@@ -313,7 +183,7 @@
       "destacada": false,
       "tema": "puerto",
       "fecha": "Thu, 29 Oct 2026 21:26:26 +0100",
-      "id": 24
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -326,7 +196,7 @@
       "destacada": false,
       "tema": "viviendas",
       "fecha": "Thu, 29 Oct 2026 21:00:12 +0100",
-      "id": 25
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -339,7 +209,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Thu, 29 Oct 2026 20:44:56 +0100",
-      "id": 26
+      "id": 16
     },
     {
       "categoria": "salud",
@@ -352,7 +222,7 @@
       "destacada": false,
       "tema": "pierde",
       "fecha": "Thu, 29 Oct 2026 20:00:12 +0100",
-      "id": 27
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -365,20 +235,20 @@
       "destacada": false,
       "tema": "cuatro",
       "fecha": "Thu, 29 Oct 2026 19:42:01 +0100",
-      "id": 28
+      "id": 18
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "'Falta de libertades políticas': Italia considera 'necesario acelerar el cambio' en Cuba",
-      "resumen": "#Italia critica la falta de libertades políticas en #Cuba y considera necesario acelerar el cambio en el Gobierno. #Roma también exige la liberación de los #PresosPolíticos y reclama reformas sustanciales.",
+      "titulo": "Cuba al Día",
+      "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793294415_69609.html",
+      "enlace_original": "https://www.martinoticias.com/a/482075.html",
       "destacada": false,
-      "tema": "falta",
-      "fecha": "Thu, 29 Oct 2026 18:20:15 +0100",
-      "id": 29
+      "tema": "",
+      "fecha": "Fri, 30 Oct 2026 00:00:30 -0400",
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -391,7 +261,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Thu, 29 Oct 2026 20:00:00 -0400",
-      "id": 30
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -404,7 +274,7 @@
       "destacada": false,
       "tema": "diplomacia",
       "fecha": "Thu, 29 Oct 2026 19:20:07 -0400",
-      "id": 31
+      "id": 21
     },
     {
       "categoria": "energia",
@@ -417,20 +287,20 @@
       "destacada": false,
       "tema": "podemos",
       "fecha": "Thu, 29 Oct 2026 18:06:49 -0400",
-      "id": 32
+      "id": 22
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 5:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Mercados de Barrio: Mincin responde a los lectores de Cubadebate",
+      "resumen": "La directora general de Ventas de Mercancías del Ministerio de Comercio Interior, Marpessa Portal de Villiers, responde a un cuestionario de Cubadebate que resume los principales temas expresados por lectores de este medio en sus comentarios, a partir de una encuesta y los trabajos publicados sobre ",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482019.html",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/10/30/mercados-de-barrio-mincin-responde-a-los-lectores-de-cubadebate/",
       "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Thu, 29 Oct 2026 17:00:30 -0400",
-      "id": 33
+      "tema": "mercados",
+      "fecha": "Fri, 30 Oct 2026 09:09:14 +0000",
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -443,7 +313,7 @@
       "destacada": false,
       "tema": "redonda",
       "fecha": "Thu, 29 Oct 2026 21:31:39 +0000",
-      "id": 34
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -456,20 +326,85 @@
       "destacada": false,
       "tema": "geopolítica",
       "fecha": "Thu, 29 Oct 2026 15:31:07 +0000",
-      "id": 35
+      "id": 25
     },
     {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "¿Qué pasará con los teléfonos móviles que automáticamente retrasarán sus relojes este 1 de noviembre ?",
-      "resumen": "Aunque el Gobierno cubano decidió mantener el horario de verano hasta noviembre de 2027, la mayoría de los teléfonos inteligentes conservan en su base de datos interna de zonas horarias (tzdata) la instrucción de atrasar una hora el 1 de noviembre de 2026, por lo que es muy probable que en la madrug",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/29/que-pasara-con-los-telefonos-moviles-que-automaticamente-retrasaran-sus-relojes-este-1-de-noviembre/",
+      "titulo": "Así fue el XVIII Encuentro de Cubanas y Cubanas Residentes en Europa: un fotorreportaje de Dignorah Laza Herrera",
+      "resumen": "A continuación, les ofrecemos este fotorreportaje en blanco y negro, de la fotógrafa Dignorah Laza H...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125790-asi-fue-el-xviii-encuentro-de-cubanas-y-cubanas-residentes-en-europa-un-fotorreportaje-de-dignorah-laza-herrera.jpg?t=1793337914",
+      "enlace_original": "https://www.cubainformacion.tv/emigracion/20261030/125790/125790-asi-fue-el-xviii-encuentro-de-cubanas-y-cubanas-residentes-en-europa-un-fotorreportaje-de-dignorah-laza-herrera",
       "destacada": false,
-      "tema": "pasará",
-      "fecha": "Thu, 29 Oct 2026 14:33:28 +0000",
-      "id": 36
+      "tema": "tipo_cambio",
+      "fecha": "Fri, 30 Oct 26 06:23:00 +0100",
+      "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "&quot;Vergüenza e indignación ante la postura del partido Nueva Democracia y primer ministro griego sobre Cuba en la ONU&quot;: comunicado de la Asociación Cultural José Martí",
+      "resumen": "La Asociación Cultural José Martí de Grecia nos hace llegar este comunicado de denuncia....",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125800-vergueenza-e-indignacion-ante-la-postura-del-partido-nueva-democracia-y-primer-ministro-griego-sobre-cuba-en-la-onu-comunicado-de-la-asociacion-cultural-jose-marti.jpg?t=1793337345",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261030/125800/125800-vergueenza-e-indignacion-ante-la-postura-del-partido-nueva-democracia-y-primer-ministro-griego-sobre-cuba-en-la-onu-comunicado-de-la-asociacion-cultural-jose-marti",
+      "destacada": false,
+      "tema": "indignación",
+      "fecha": "Fri, 30 Oct 26 06:13:00 +0100",
+      "id": 27
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Salud cubana en Venezuela: más 100 mil personas beneficiadas en la Sala de Rehabilitación &quot;José Alberto Castillo&quot; de Barquisimeto",
+      "resumen": "Canal Caribe.- Más de 100 000 personas se benefician de los servicios que brindan los profesionales ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125799-salud-cubana-en-venezuela-mas-100-mil-personas-beneficiadas-en-la-sala-de-rehabilitacion-jose-alberto-castillo-de-barquisimeto.jpg?t=1793337125",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261030/125799/125799-salud-cubana-en-venezuela-mas-100-mil-personas-beneficiadas-en-la-sala-de-rehabilitacion-jose-alberto-castillo-de-barquisimeto",
+      "destacada": false,
+      "tema": "salud",
+      "fecha": "Fri, 30 Oct 26 06:10:00 +0100",
+      "id": 28
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba diversifica gestión económica para desafiar bloqueo estadounidense",
+      "resumen": "Vidriera de una tienda gestionada por una Mipyme, en La Habana. Foto: Kaloian Santos Cabrera / Archi...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125796-cuba-diversifica-gestion-economica-para-desafiar-bloqueo-estadounidense.jpg?t=1793336690",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261030/125796/125796-cuba-diversifica-gestion-economica-para-desafiar-bloqueo-estadounidense",
+      "destacada": false,
+      "tema": "diversifica",
+      "fecha": "Fri, 30 Oct 26 06:01:00 +0100",
+      "id": 29
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Holguín recupera servicio eléctrico con esfuerzo comunitario",
+      "resumen": "Señal en vivo Sur.- Trabajadores eléctricos en Holguín, Cuba, recuperan transformadores averiados pa...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125795-holguin-recupera-servicio-electrico-con-esfuerzo-comunitario.jpg?t=1793336455",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261030/125795/125795-holguin-recupera-servicio-electrico-con-esfuerzo-comunitario",
+      "destacada": false,
+      "tema": "holguín",
+      "fecha": "Fri, 30 Oct 26 05:56:00 +0100",
+      "id": 30
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Supervisan servicios de salud y programa de abasto de agua en La Habana",
+      "resumen": "Canal Caribe.- El primer secretario del Comité Central del Partido y presidente de la República Migu...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125794-supervisan-servicios-de-salud-y-programa-de-abasto-de-agua-en-la-habana.jpg?t=1793336185",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261030/125794/125794-supervisan-servicios-de-salud-y-programa-de-abasto-de-agua-en-la-habana",
+      "destacada": false,
+      "tema": "supervisan",
+      "fecha": "Fri, 30 Oct 26 05:53:00 +0100",
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -482,7 +417,7 @@
       "destacada": false,
       "tema": "soberanía",
       "fecha": "Thu, 29 Oct 26 19:07:00 +0100",
-      "id": 37
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -495,7 +430,7 @@
       "destacada": false,
       "tema": "facre",
       "fecha": "Thu, 29 Oct 26 12:34:00 +0100",
-      "id": 38
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -508,98 +443,7 @@
       "destacada": false,
       "tema": "salim",
       "fecha": "Thu, 29 Oct 26 10:10:00 +0100",
-      "id": 39
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Berna alza la voz contra el bloqueo de EEUU a Cuba: solidaridad suiza frente a la desinformación (+Fotos)",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125787-berna-alza-la-voz-contra-el-bloqueo-de-eeuu-a-cuba-solidaridad-suiza-frente-a-la-desinformacion-fotos.jpg?t=1793264933",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261029/125787/125787-berna-alza-la-voz-contra-el-bloqueo-de-eeuu-a-cuba-solidaridad-suiza-frente-a-la-desinformacion-fotos",
-      "destacada": false,
-      "tema": "berna",
-      "fecha": "Thu, 29 Oct 26 10:02:00 +0100",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Italia traiciona a Cuba: se abstiene en el embargo estadounidense",
-      "resumen": "Argentino Tellini - Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125786-italia-traiciona-a-cuba-se-abstiene-en-el-embargo-estadounidense.jpg?t=1793264315",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261029/125786/125786-italia-traiciona-a-cuba-se-abstiene-en-el-embargo-estadounidense",
-      "destacada": false,
-      "tema": "italia",
-      "fecha": "Thu, 29 Oct 26 09:57:00 +0100",
-      "id": 41
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Desde la calle. Rompen el silencio en Cuba",
-      "resumen": "CUBA No Es Miami",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125784-desde-la-calle-rompen-el-silencio-en-cuba.jpg?t=1793257310",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261029/125784/125784-desde-la-calle-rompen-el-silencio-en-cuba",
-      "destacada": false,
-      "tema": "calle",
-      "fecha": "Thu, 29 Oct 26 08:01:00 +0100",
-      "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "VICTORIA DE CUBA EN LA ONU, Golpe al bloqueo yanqui",
-      "resumen": "Pensar la Historia con Eliades Acosta",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125783-victoria-de-cuba-en-la-onu-golpe-al-bloqueo-yanqui.jpg?t=1793257277",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261029/125783/125783-victoria-de-cuba-en-la-onu-golpe-al-bloqueo-yanqui",
-      "destacada": false,
-      "tema": "victoria",
-      "fecha": "Thu, 29 Oct 26 08:01:00 +0100",
-      "id": 43
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Lo que no quieren Trump, Waltz y Rubio conozcas sobre lo que en verdad pasó hoy en la ONU",
-      "resumen": "Guerrero Cubano con su verdad al desnudo",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125782-lo-que-no-quieren-trump-waltz-y-rubio-conozcas-sobre-lo-que-en-verdad-paso-hoy-en-la-onu.jpg?t=1793257243",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261029/125782/125782-lo-que-no-quieren-trump-waltz-y-rubio-conozcas-sobre-lo-que-en-verdad-paso-hoy-en-la-onu",
-      "destacada": false,
-      "tema": "quieren",
-      "fecha": "Thu, 29 Oct 26 08:00:00 +0100",
-      "id": 44
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Organizaciones solidarias de Italia, Colombia, Chile, Perú, Ecuador, Argentina y República Dominicana rechazan &quot;voto vergonzoso&quot; de sus gobiernos sobre el bloqueo a Cuba",
-      "resumen": "Colombia Movimiento Colombiano de Solidaridad celebró victoria de Cuba en ONU Bogotá, 29 oct (Prens...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125780-organizaciones-solidarias-de-italia-colombia-chile-peru-ecuador-argentina-y-republica-dominicana-rechazan-voto-vergonzoso-de-sus-gobiernos-sobre-el-bloqueo-a-cuba.jpg?t=1793256287",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261029/125780/125780-organizaciones-solidarias-de-italia-colombia-chile-peru-ecuador-argentina-y-republica-dominicana-rechazan-voto-vergonzoso-de-sus-gobiernos-sobre-el-bloqueo-a-cuba",
-      "destacada": false,
-      "tema": "organizaciones",
-      "fecha": "Thu, 29 Oct 26 07:38:00 +0100",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Miami levanta su voz por la familia cubana y condena el bloqueo de EEUU",
-      "resumen": "Carlos Rafael Diéguez - Radio Miami Today",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125779-miami-levanta-su-voz-por-la-familia-cubana-y-condena-el-bloqueo-de-eeuu.jpg?t=1793257230",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261029/125779/125779-miami-levanta-su-voz-por-la-familia-cubana-y-condena-el-bloqueo-de-eeuu",
-      "destacada": false,
-      "tema": "miami",
-      "fecha": "Thu, 29 Oct 26 07:25:00 +0100",
-      "id": 46
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -612,7 +456,7 @@
       "destacada": false,
       "tema": "diplomacia",
       "fecha": "Thu, 29 Oct 2026 14:56:23 +0000",
-      "id": 47
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -625,7 +469,7 @@
       "destacada": false,
       "tema": "contra",
       "fecha": "Thu, 29 Oct 2026 14:43:25 +0000",
-      "id": 48
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -638,7 +482,7 @@
       "destacada": false,
       "tema": "industriales",
       "fecha": "Thu, 29 Oct 2026 19:58:23 +0000",
-      "id": 49
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -651,7 +495,7 @@
       "destacada": false,
       "tema": "tarde",
       "fecha": "Thu, 29 Oct 2026 16:51:18 +0000",
-      "id": 50
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -664,33 +508,7 @@
       "destacada": false,
       "tema": "jaboneras",
       "fecha": "Thu, 29 Oct 2026 15:45:33 +0000",
-      "id": 51
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Lo que el estudiantado merece: una Cuba sin bloqueo",
-      "resumen": "Resolver nuestros problemas sin presiones añadidas es lo que deseamos, la juventud de Cuba lo merece, enfatizó hoy Flavia Contreras Vega, vicepresidenta de la Federación...",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/29/1-cuba-sin-bloqueo/",
-      "destacada": false,
-      "tema": "estudiantado",
-      "fecha": "Thu, 29 Oct 2026 12:10:00 +0000",
-      "id": 52
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Victoria de Cuba: La amplia mayoría de la comunidad internacional volvió a condenar el bloqueo",
-      "resumen": "La resolución contra el bloqueo de EE.UU. a Cuba recibe 130 votos a favor, 17 en contra y 25 abstenciones.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/10/29/victoria-de-cuba-mayoria/",
-      "destacada": false,
-      "tema": "victoria",
-      "fecha": "Thu, 29 Oct 2026 12:00:00 +0000",
-      "id": 53
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -703,7 +521,7 @@
       "destacada": false,
       "tema": "documentar",
       "fecha": "Thu, 29 Oct 2026 17:00:00 GMT",
-      "id": 54
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -716,7 +534,7 @@
       "destacada": false,
       "tema": "cronología",
       "fecha": "Thu, 29 Oct 2026 12:23:16 GMT",
-      "id": 55
+      "id": 41
     }
   ]
 }
