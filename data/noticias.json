@@ -1,33 +1,20 @@
 {
-  "fecha": "2026-10-30",
-  "hora": "21:15",
-  "total": 47,
+  "fecha": "2026-10-31",
+  "hora": "01:16",
+  "total": 48,
   "noticias": [
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Recuerdan 60 años de la primera visita de Raúl Castro a Vietnam",
-      "resumen": "La presentación de dos libros y una exposición fotográfica sirvieron hoy para rememorar la primera visita a Vietnam del líder al frente de la Revolución cubana, Raúl Castro, hace 60 años",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/vietnam-y-cuba/2026-10-30/recuerdan-60-anos-de-la-primera-visita-de-raul-castro-a-vietnam-30-10-2026-09-10-41",
-      "destacada": true,
-      "tema": "recuerdan",
-      "fecha": "Fri, 30 Oct 2026 09:10:41 -0400",
-      "id": 1
-    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "BioCubaFarma: el bloqueo  de EEUU a Cuba existe y es real",
-      "resumen": "La Habana, 30 oct (Prensa Latina) El Grupo Empresarial de las Industrias Biotecnológica y Farmacéutica de Cuba (BioCubaFarma) ratificó que el bloqueo económico, comercial y financiero de Estados Unidos que hoy sigue asfixiando a Cuba existe y es real. The post BioCubaFarma: el bloqueo de EEUU a Cuba",
+      "titulo": "Cuba y Granada destacan excelentes vínculos bilaterales",
+      "resumen": "Saint George's, 30 oct (Prensa Latina) Cuba y Granada destacaron el excelente estado de las relaciones bilaterales, cimentadas en históricos lazos de amistad, cooperación y respeto mutuo, aspectos esenciales en el complejo contexto que vive el mundo hoy. The post Cuba y Granada destacan excelentes v",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/30/biocubafarma-el-bloqueo-de-eeuu-a-cuba-existe-y-es-real/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/30/cuba-y-granada-destacan-excelentes-vinculos-bilaterales/",
       "destacada": true,
-      "tema": "biocubafarma",
-      "fecha": "Fri, 30 Oct 2026 19:49:18 +0000",
-      "id": 2
+      "tema": "granada",
+      "fecha": "Fri, 30 Oct 2026 23:15:13 +0000",
+      "id": 1
     },
     {
       "categoria": "sociedad",
@@ -40,7 +27,7 @@
       "destacada": true,
       "tema": "abortos",
       "fecha": "Fri, 30 Oct 2026 20:52:24 +0000",
-      "id": 3
+      "id": 2
     },
     {
       "categoria": "energia",
@@ -53,7 +40,7 @@
       "destacada": true,
       "tema": "veintena",
       "fecha": "Fri, 30 Oct 2026 19:05:44 +0000",
-      "id": 4
+      "id": 3
     },
     {
       "categoria": "salud",
@@ -66,6 +53,19 @@
       "destacada": true,
       "tema": "enfermedades",
       "fecha": "Fri, 30 Oct 2026 18:56:36 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"Ni clientes ni luz\": los apagones de más de 40 horas asfixian a La Habana",
+      "resumen": "La falta de electricidad se suma a la escasez de agua y al desplome del turismo, mientras la principal termoeléctrica de Cuba permanece averiada",
+      "imagen_url": "https://static.14ymedio.com/clip/86bd3c46-ebf7-41fa-8321-0ae0d81f26d7_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/clientes-luz-apagones-40-horas_1_1132630.html",
+      "destacada": true,
+      "tema": "apagones",
+      "fecha": "Fri, 30 Oct 2026 17:22:00 +0000",
       "id": 5
     },
     {
@@ -82,19 +82,6 @@
       "id": 6
     },
     {
-      "categoria": "energia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "\"Ni clientes ni luz\": los apagones de más de 40 horas asfixian a La Habana",
-      "resumen": "La falta de electricidad se suma a la escasez de agua y al desplome del turismo, mientras la principal termoeléctrica de Cuba permanece averiada",
-      "imagen_url": "https://static.14ymedio.com/clip/86bd3c46-ebf7-41fa-8321-0ae0d81f26d7_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/clientes-luz-apagones-40-horas_1_1132630.html",
-      "destacada": false,
-      "tema": "apagones",
-      "fecha": "Fri, 30 Oct 2026 17:22:00 +0000",
-      "id": 7
-    },
-    {
       "categoria": "politica",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -105,7 +92,7 @@
       "destacada": false,
       "tema": "teléfonos",
       "fecha": "Fri, 30 Oct 2026 12:08:43 +0000",
-      "id": 8
+      "id": 7
     },
     {
       "categoria": "sociedad",
@@ -118,59 +105,98 @@
       "destacada": false,
       "tema": "bruno",
       "fecha": "Fri, 30 Oct 2026 12:16:01 +0000",
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Iglesia Bautista brinda almuerzo a ancianos cubanos en La Habana",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-31-u1-e199291-s27061-nid344376-iglesia-bautista-brinda-almuerzo-ancianos-cubanos",
+      "destacada": false,
+      "tema": "iglesia",
+      "fecha": "Sat, 31 Oct 2026 01:15:34 +0100",
       "id": 9
     },
     {
-      "categoria": "transporte",
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Balsero cubano golpeado en Alligator Alcatraz rompe el silencio: «Todavía tengo pesadillas»",
+      "titulo": "«No se puede caminar»: cubanos denuncian estado crítico de calle en barrio de Granma",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-30-u1-e199894-s27061-nid344334-balsero-cubano-golpeado-alligator-alcatraz-rompe",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-31-u1-e199291-s27061-nid344374-puede-caminar-cubanos-denuncian-estado-critico-calle",
       "destacada": false,
-      "tema": "balsero",
-      "fecha": "Fri, 30 Oct 2026 20:55:55 +0100",
+      "tema": "caminar",
+      "fecha": "Sat, 31 Oct 2026 01:01:46 +0100",
       "id": 10
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Petrolero con diésel ruso que iba a Nueva York se queda sin destino y podría acabar en Cuba",
+      "titulo": "Muere cubano de Hialeah con cáncer avanzado tras meses detenido por ICE: Lo liberaron 48 horas antes de fallecer",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-30-u1-e208574-s27061-nid344341-petrolero-diesel-ruso-iba-nueva-york-queda-destino",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-31-u1-e208574-s27061-nid344373-muere-cubano-hialeah-cancer-avanzado-tras-meses",
       "destacada": false,
-      "tema": "petrolero",
-      "fecha": "Fri, 30 Oct 2026 20:51:57 +0100",
+      "tema": "muere",
+      "fecha": "Sat, 31 Oct 2026 00:56:05 +0100",
       "id": 11
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "¡Que nadie te baje del pedestal! La reflexión de una cubana sobre el amor propio que desató debate en Instagram",
+      "titulo": "China dona productos básicos a ancianos y embarazadas del municipio de Playa y su embajador arremete contra el embargo de EE.UU.",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-30-u194224-e208487-s27065-nid344339-nadie-te-baje-pedestal-reflexion-cubana-amor",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-31-u1-e209363-s27061-nid344369-china-dona-productos-basicos-ancianos-embarazadas",
       "destacada": false,
-      "tema": "nadie",
-      "fecha": "Fri, 30 Oct 2026 20:44:11 +0100",
+      "tema": "china",
+      "fecha": "Sat, 31 Oct 2026 00:33:54 +0100",
       "id": 12
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "¡500 pesos por cada plancha! Creador de contenido pone a prueba a un cubano y queda sorprendido con su resistencia",
+      "titulo": "Atleta de 16 años deja una EIDE de La Habana por las condiciones del internado: «No había ni una pastilla para bajarme la fiebre»",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-30-u208487-e208487-s27065-nid344338-500-pesos-cada-plancha-creador-contenido-pone",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-31-u1-e208574-s27061-nid344363-atleta-16-anos-deja-eide-habana-condiciones",
       "destacada": false,
-      "tema": "pesos",
-      "fecha": "Fri, 30 Oct 2026 20:15:21 +0100",
+      "tema": "atleta",
+      "fecha": "Sat, 31 Oct 2026 00:23:27 +0100",
       "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Historiador Maikel Arista-Salado: \"La primera bandera independentista cubana no es la que conoces\"",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-30-u1-e192519-s27061-nid344361-historiador-maikel-arista-salado-primera-bandera",
+      "destacada": false,
+      "tema": "historiador",
+      "fecha": "Fri, 30 Oct 2026 23:47:46 +0100",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "#Podcast «A contracorriente». Capítulo 55. «El audiovisual, territorio en disputa»",
+      "resumen": "¿Cómo se construyen consensos desde el audiovisual?. ¿Mediante qué mecanismos se articula la participación de las audiencias en un sistema de televisión de servicio público como el cubano?. Estas y otras preguntas encuentran respuesta en el diálogo entre el realizador audiovisual Waldo Ramírez de la",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/podcast-a-contracorriente-capitulo-55-el-audiovisual-territorio-en-disputa/",
+      "destacada": false,
+      "tema": "podcast",
+      "fecha": "Sat, 31 Oct 2026 01:03:29 +0000",
+      "id": 15
     },
     {
       "categoria": "politica",
@@ -183,7 +209,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Fri, 30 Oct 2026 04:31:38 +0000",
-      "id": 14
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -196,7 +222,7 @@
       "destacada": false,
       "tema": "abuelos",
       "fecha": "Fri, 30 Oct 2026 20:38:12 +0000",
-      "id": 15
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -209,7 +235,7 @@
       "destacada": false,
       "tema": "proyectan",
       "fecha": "Fri, 30 Oct 2026 20:27:02 +0000",
-      "id": 16
+      "id": 18
     },
     {
       "categoria": "energia",
@@ -222,7 +248,7 @@
       "destacada": false,
       "tema": "empeños",
       "fecha": "Fri, 30 Oct 2026 20:19:13 +0000",
-      "id": 17
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -235,7 +261,7 @@
       "destacada": false,
       "tema": "bailar",
       "fecha": "Fri, 30 Oct 2026 17:56:57 +0000",
-      "id": 18
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -248,7 +274,7 @@
       "destacada": false,
       "tema": "protección",
       "fecha": "Fri, 30 Oct 2026 16:42:36 +0000",
-      "id": 19
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -261,7 +287,33 @@
       "destacada": false,
       "tema": "juventud",
       "fecha": "Fri, 30 Oct 2026 16:00:34 +0000",
-      "id": 20
+      "id": 22
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Pemex frena sus pérdidas en 2026. ¿Tiene que ver la suspensión de los envíos de petróleo a Cuba?",
+      "resumen": "La firma estatal Petróleos Mexicanos muestra resultados alentadores en lo que va de 2026, justo después de dejar de enviar #petróleo a #Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1793406450_69645.html",
+      "destacada": false,
+      "tema": "pemex",
+      "fecha": "Sat, 31 Oct 2026 01:27:30 +0100",
+      "id": 23
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Los 'ecoflow' que usan los cubanos para alumbrarse entran en la lista de culpables del régimen",
+      "resumen": "El régimen de #Cuba tiene un nuevo chivo expiatorio para la crisis eléctrica y la debacle de los transformadores que dejan a comunidades enteras sin electricidad durante meses.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793398978_69641.html",
+      "destacada": false,
+      "tema": "ecoflow",
+      "fecha": "Fri, 30 Oct 2026 23:22:58 +0100",
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -274,7 +326,7 @@
       "destacada": false,
       "tema": "daniel",
       "fecha": "Fri, 30 Oct 2026 21:32:50 +0100",
-      "id": 21
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -287,7 +339,7 @@
       "destacada": false,
       "tema": "bruno",
       "fecha": "Fri, 30 Oct 2026 20:34:23 +0100",
-      "id": 22
+      "id": 26
     },
     {
       "categoria": "economia",
@@ -300,7 +352,7 @@
       "destacada": false,
       "tema": "crecen",
       "fecha": "Fri, 30 Oct 2026 19:15:40 +0100",
-      "id": 23
+      "id": 27
     },
     {
       "categoria": "energia",
@@ -313,84 +365,32 @@
       "destacada": false,
       "tema": "desayuno",
       "fecha": "Fri, 30 Oct 2026 18:22:38 +0100",
-      "id": 24
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Amnistía Internacional exige a Díaz-Canel liberar a los presos del 11J Donaida Pérez y Loreto Hernández",
-      "resumen": "#AmnitíaInternacional invita a los interesados en en reclamar la libertad de los presos del #11J Donaida Pérez y Loreto Hernández a redactar su propio llamado o usar su carta a #DíazCanel como modelo.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1793365240_69625.html",
-      "destacada": false,
-      "tema": "amnistía",
-      "fecha": "Fri, 30 Oct 2026 14:00:40 +0100",
-      "id": 25
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Monreal: Las 176 medidas del Gobierno cubano forman un paquete 'desvertebrado'",
-      "resumen": "\"Grandes declaraciones, diseños defectuosos, expectativas fallidas\": Pedro Monreal cuestiona las 176 medidas del régimen y sitúa las raíces del empobrecimiento en #Cuba en decisiones internas.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1793364346_69622.html",
-      "destacada": false,
-      "tema": "monreal",
-      "fecha": "Fri, 30 Oct 2026 13:45:46 +0100",
-      "id": 26
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al día",
-      "resumen": "Ernesto Soberón bajo la lupa: familia, poder y diplomacia en la ONU.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/483151.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Fri, 30 Oct 2026 17:12:10 -0400",
-      "id": 27
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "67 años de comunismo han sido \"un error garrafal\": diplomático de EEUU responde a provocación de Cuba",
-      "resumen": "El diplomático estadounidense, Jeff Bartos, respondió con dureza a las críticas del embajador cubano Ernesto Soberón, al calificar de “error colosal” los 67 años de comunismo en Cuba y citar apagones, escasez, presos políticos y el éxodo masivo como evidencia del fracaso del sistema.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/483153.html",
-      "destacada": false,
-      "tema": "comunismo",
-      "fecha": "Fri, 30 Oct 2026 17:02:03 -0400",
       "id": 28
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 5:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "titulo": "La Barbacoa de Pepe",
+      "resumen": "La Barbacoa de Pepe es un muestrario de la nostalgia cubana con datos y curiosidades de los temas más variados, para la audiencia cubana. También trataremos temas internacionales y locales, siempre con el fin de educar al Cubano de la Isla. Con la elocuencia de Pepe Forte.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482107.html",
+      "enlace_original": "https://www.martinoticias.com/a/482114.html",
       "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Fri, 30 Oct 2026 17:00:30 -0400",
+      "tema": "barbacoa",
+      "fecha": "Fri, 30 Oct 2026 21:00:00 -0400",
       "id": 29
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las noticias como son",
-      "resumen": "Hoy, Amado Gil y José Luis Ramos en Tertulia con Luz Escobar, en Madrid y Dimas Castellanos, en La Habana, abordan el nuevo ofrecimiento de Panamá para un dialogo EEUU-Cuba. Cruz roja alerta sobre dificultades para recuperación de afectados de huracán.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba debuta con victoria 2-0 sobre Turquía en el béisbol5 de los Juegos Olímpicos de la Juventud",
+      "resumen": "La selección cubana de Beisbol5 comenzó con triunfo su participación en los Juegos Olímpicos de la Juventud al imponerse a Turquía en dos sets, con parciales de 6-0 y 3-2. La escuadra de la Mayor de las Antillas combinó oportunidad ofensiva, velocidad en las bases y una defensa sólida para quedarse ",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/las-noticias-como-son/483156.html",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/30/cuba-debuta-con-victoria-2-0-sobre-turquia-en-el-beisbol5-de-los-juegos-olimpicos-de-la-juventud/",
       "destacada": false,
-      "tema": "noticias",
-      "fecha": "Fri, 30 Oct 2026 16:16:11 -0400",
+      "tema": "debuta",
+      "fecha": "Fri, 30 Oct 2026 23:15:42 +0000",
       "id": 30
     },
     {
@@ -460,19 +460,6 @@
     },
     {
       "categoria": "salud",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Díaz-Canel a personal de la Salud: \"Ustedes son parte de nuestra victoria en la ONU\"",
-      "resumen": "El Presidente cubano reconoció la entrega de los trabajadores del sistema de salud durante una visita al Hospital William Soler. Este jueves Díaz-Canel también chequeó el Programa Integral de Abasto de Agua en La Habana. The post Díaz-Canel a personal de la Salud: \"Ustedes son parte de nuestra victo",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/30/diaz-canel-a-personal-de-la-salud-ustedes-son-parte-de-nuestra-victoria-en-la-onu/",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Fri, 30 Oct 2026 15:05:31 +0000",
-      "id": 36
-    },
-    {
-      "categoria": "salud",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
       "titulo": "Mollet amb Cuba recauda en varias actividades 4.000 euros que destinará a comprar placas fotovoltaicas para el servicio de salud de Songo-La Maya",
@@ -482,7 +469,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 30 Oct 26 15:59:00 +0100",
-      "id": 37
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -495,7 +482,7 @@
       "destacada": false,
       "tema": "revolución",
       "fecha": "Fri, 30 Oct 26 15:54:00 +0100",
-      "id": 38
+      "id": 37
     },
     {
       "categoria": "politica",
@@ -508,7 +495,7 @@
       "destacada": false,
       "tema": "secretario",
       "fecha": "Fri, 30 Oct 26 15:52:00 +0100",
-      "id": 39
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -521,7 +508,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 30 Oct 26 06:23:00 +0100",
-      "id": 40
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -534,7 +521,7 @@
       "destacada": false,
       "tema": "indignación",
       "fecha": "Fri, 30 Oct 26 06:13:00 +0100",
-      "id": 41
+      "id": 40
     },
     {
       "categoria": "salud",
@@ -547,7 +534,7 @@
       "destacada": false,
       "tema": "salud",
       "fecha": "Fri, 30 Oct 26 06:10:00 +0100",
-      "id": 42
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -560,7 +547,7 @@
       "destacada": false,
       "tema": "geopolítica",
       "fecha": "Fri, 30 Oct 26 06:09:00 +0100",
-      "id": 43
+      "id": 42
     },
     {
       "categoria": "economia",
@@ -573,7 +560,7 @@
       "destacada": false,
       "tema": "diversifica",
       "fecha": "Fri, 30 Oct 26 06:01:00 +0100",
-      "id": 44
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -586,7 +573,7 @@
       "destacada": false,
       "tema": "holguín",
       "fecha": "Fri, 30 Oct 26 05:56:00 +0100",
-      "id": 45
+      "id": 44
     },
     {
       "categoria": "salud",
@@ -599,7 +586,33 @@
       "destacada": false,
       "tema": "supervisan",
       "fecha": "Fri, 30 Oct 26 05:53:00 +0100",
+      "id": 45
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Anuncia Aguas de La Habana ajustes en los ciclos de abasto en la capital",
+      "resumen": "Teniendo en cuenta el nivel de afectación que se ha generado a causa de la situación eléctrica, se realizarán ajustes operacionales en los horarios de servicios en los diferentes sistemas siempre que la disponibilidad eléctrica lo permita La entrada Anuncia Aguas de La Habana ajustes en los ciclos d",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/anuncia-aguas-de-la-habana-ajustes-en-los-ciclos-de-abasto-en-la-capital/",
+      "destacada": false,
+      "tema": "anuncia",
+      "fecha": "Fri, 30 Oct 2026 22:59:47 +0000",
       "id": 46
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Telecomunicadores habaneros dedican coloquio a Fidel",
+      "resumen": "La División La Habana de la Empresa de Telecomunicaciones de Cuba (ETECSA) celebró el encuentro en homenaje al centenario del natalicio del líder histórico de la Revolución Cubana, con la presentación de 12 trabajos sobre su pensamiento, legado y valores La entrada Telecomunicadores habaneros dedica",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/telecomunicadores-habaneros-dedican-coloquio-a-fidel/",
+      "destacada": false,
+      "tema": "telecomunicadores",
+      "fecha": "Fri, 30 Oct 2026 22:42:53 +0000",
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -612,7 +625,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Fri, 30 Oct 2026 14:03:59 GMT",
-      "id": 47
+      "id": 48
     }
   ]
 }
