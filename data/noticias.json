@@ -1,8 +1,34 @@
 {
   "fecha": "2026-10-31",
-  "hora": "18:56",
-  "total": 43,
+  "hora": "22:09",
+  "total": 37,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Buen paso del Beisbol5 en Dakar-2026",
+      "resumen": "Los cubanos comandan el grupo A en los Juegos Olímpicos de la Juventud con par de barridas",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-31/buen-paso-del-beisbol5-en-dakar-2026-31-10-2026-16-10-02",
+      "destacada": true,
+      "tema": "dakar",
+      "fecha": "Sat, 31 Oct 2026 16:10:02 -0400",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Abrazo a Cuba y protestas contra el bloqueo recorrieron EE. UU.",
+      "resumen": "Por trigésimo cuarta ocasión la condena al bloqueo de Estados Unidos contra Cuba se escuchó alto y claro la Asamblea General de la ONU, esta vez en un escenario de recrudecimiento sin precedentes de ese impuesto cerco unilateral",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-10-31/abrazo-a-cuba-y-protestas-contra-el-bloqueo-recorrieron-ee-uu-31-10-2026-15-10-48",
+      "destacada": true,
+      "tema": "abrazo",
+      "fecha": "Sat, 31 Oct 2026 15:10:48 -0400",
+      "id": 2
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
@@ -14,7 +40,20 @@
       "destacada": true,
       "tema": "finalizó",
       "fecha": "Sat, 31 Oct 2026 09:10:30 -0400",
-      "id": 1
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba invicta en los cuartos de final de la AmeriCup 3x3",
+      "resumen": "Este sábado enfrentan a las locales salvadoreñas&nbsp;",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-10-31/cuba-invicta-en-los-cuartos-de-final-de-la-americup-3x3-31-10-2026-15-10-12",
+      "destacada": true,
+      "tema": "invicta",
+      "fecha": "Sat, 31 Oct 2026 15:10:12 -0400",
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -27,72 +66,46 @@
       "destacada": true,
       "tema": "picasso",
       "fecha": "Sat, 31 Oct 2026 11:10:10 -0400",
-      "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Proyecto Quisicuaba mantiene apoyo a personas vulnerables en Cuba",
-      "resumen": "El proyecto sociocultural comunitario Quisicuaba mantiene hoy servicios de alimentación, atención médica y acompañamiento social para personas en situación de vulnerabilidad en el municipio de Centro Habana, en esta capital",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-10-31/proyecto-quisicuaba-mantiene-apoyo-a-personas-vulnerables-en-cuba-31-10-2026-08-10-33",
-      "destacada": true,
-      "tema": "proyecto",
-      "fecha": "Sat, 31 Oct 2026 08:10:33 -0400",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Remontada agónica para una revancha en la final",
-      "resumen": "Cuba derrotó a Nicaragua y enfrentará a Panamá en el cierre del Torneo Centroamericano de fútbol sala",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-10-31/remontada-agonica-para-una-revancha-en-la-final-31-10-2026-08-10-15",
-      "destacada": true,
-      "tema": "remontada",
-      "fecha": "Sat, 31 Oct 2026 08:10:15 -0400",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Laguna La Redonda, sitio natural cubano para el disfrute",
-      "resumen": "Ciego de Ávila, Cuba, 31 oct (Prensa Latina) La laguna La Redonda, considerada entre los sitios naturales más acogedores de la región central de Cuba, está rodeado de una exuberante flora y fauna, espacio perfecto para la práctica del ecoturismo. The post Laguna La Redonda, sitio natural cubano para",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/31/laguna-la-redonda-sitio-natural-cubano-para-el-disfrute/",
-      "destacada": true,
-      "tema": "laguna",
-      "fecha": "Sat, 31 Oct 2026 17:36:13 +0000",
       "id": 5
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Múltiples actividades en Moscú por el centenario de Fidel Castro",
-      "resumen": "Moscú, 31 oct (Prensa Latina) El Torneo clásico “Conservamos Tradiciones-Jugamos \"Gorodki\" celebrado en la región moscovita de Novo Peredelkino, se dedicó al centenario del revolucionario cubano, Fidel Castro, constató hoy Prensa Latina. The post Múltiples actividades en Moscú por el centenario de F",
+      "titulo": "Cienfuegos con racha victoriosa ante Villa Clara en béisbol cubano",
+      "resumen": "Santa Clara, Cuba, 31 oct (Prensa Latina) El equipo Cienfuegos derrotó hoy aquí a Villa Clara ocho carreras a tres y sumó su séptima victoria al hilo ante los locales en la 65 Serie Nacional de Béisbol. The post Cienfuegos con racha victoriosa ante Villa Clara en béisbol cubano first appeared on Not",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/31/multiples-actividades-en-moscu-por-el-centenario-de-fidel-castro/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/10/31/cienfuegos-con-racha-victoriosa-ante-villa-clara-en-beisbol-cubano/",
       "destacada": false,
-      "tema": "múltiples",
-      "fecha": "Sat, 31 Oct 2026 17:05:26 +0000",
+      "tema": "cienfuegos",
+      "fecha": "Sat, 31 Oct 2026 21:55:01 +0000",
       "id": 6
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"Evite disgustos\", la guerra contra los billetes pequeños en Cuba",
+      "resumen": "Los comerciantes se resisten a aceptar pesos de baja denominación y los clientes protestan cuando los reciben como vuelto, en una economía donde el dólar ya cuesta 880 pesos",
+      "imagen_url": "https://static.14ymedio.com/clip/64dca4b0-73d9-4496-b9bd-091433d0713e_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/evite-disgustos-guerra-billetes-pequenos_1_1132675.html",
+      "destacada": false,
+      "tema": "evite",
+      "fecha": "Sat, 31 Oct 2026 14:40:09 +0000",
+      "id": 7
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Ferapth, un rapero francés por la libertad de Cuba",
-      "resumen": "Dedica una canción a Anna Bensi y su madre: \"Me conmueven su valentía y su voluntad de dar testimonio de una realidad que contradice el discurso oficial\"",
-      "imagen_url": "https://static.14ymedio.com/clip/80d295b1-1530-4d28-b449-bdf8b40abd0b_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/entrevista/ferapth-rapero-frances-libertad-cuba_1_1132657.html",
+      "titulo": "La entrega por Hapag-Lloyd de kits solares a cafetaleros desmiente las denuncias del régimen sobre el bloqueo",
+      "resumen": "Los productores del oriente del país reciben 1.000 de las 2.000 unidades previstas, financiadas en un 50% por la FAO, para apoyar a un sector en dificultades",
+      "imagen_url": "https://static.14ymedio.com/clip/a2591d11-d840-407c-98cc-b7716fba99e7_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/entrega-hapag-lloyd-kits-solares_1_1132682.html",
       "destacada": false,
-      "tema": "ferapth",
-      "fecha": "Sat, 31 Oct 2026 12:12:23 +0000",
-      "id": 7
+      "tema": "entrega",
+      "fecha": "Sat, 31 Oct 2026 18:14:16 +0000",
+      "id": 8
     },
     {
       "categoria": "energia",
@@ -105,98 +118,33 @@
       "destacada": false,
       "tema": "apagones",
       "fecha": "Sat, 31 Oct 2026 13:13:16 +0000",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "En Cuba los abortos casi igualan a los partos y siguen faltando anticonceptivos",
-      "resumen": "Las estadísticas oficiales revelan un desplome del 77% en la detección preventiva del cáncer de cuello uterino",
-      "imagen_url": "https://static.14ymedio.com/clip/acc8b928-d53e-4e2b-9425-843f1e346600_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/cuba-abortos-igualan-partos-siguen_1_1132648.html",
-      "destacada": false,
-      "tema": "abortos",
-      "fecha": "Fri, 30 Oct 2026 20:52:24 +0000",
       "id": 9
     },
     {
-      "categoria": "sociedad",
+      "categoria": "politica",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Arrestan en Florida a 281 sospechosos por presunto abuso sexual de menores y trata de personas",
-      "resumen": "Entre los detenidos se encuentran 32 ciudadanos de países como Cuba, Venezuela, México y Haití",
-      "imagen_url": "https://static.14ymedio.com/clip/6e889ccf-d816-4f90-8aa4-a447dd822010_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/internacional/arrestan-florida-281-sospechosos-presunto_1_1132668.html",
+      "titulo": "Trump ya no tiene tanta prisa para acabar con el régimen cubano: \"dos años y medio o menos\"",
+      "resumen": "El presidente de EE UU insiste que los cambios permitirán que los migrantes \"regresen muy pronto\" a la Isla",
+      "imagen_url": "https://static.14ymedio.com/clip/3143ce98-e519-4638-a8cd-8801bd40a452_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/trump-no-prisa-acabar-regimen_1_1132680.html",
       "destacada": false,
-      "tema": "arrestan",
-      "fecha": "Sat, 31 Oct 2026 13:06:15 +0000",
+      "tema": "trump",
+      "fecha": "Sat, 31 Oct 2026 17:18:03 +0000",
       "id": 10
     },
     {
-      "categoria": "energia",
-      "fuente": "https://www.14ymedio.com",
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Una veintena de mujeres y niños bloquean la calle 100 en La Habana para exigir agua y electricidad",
-      "resumen": "Tras más de 30 horas de apagón, los manifestantes cerraron una de las principales vías de acceso a la capital cubana",
-      "imagen_url": "https://static.14ymedio.com/clip/33ac4554-e618-469f-8c59-42a5bbb37edf_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/veintena-mujeres-ninos-bloquean-calle_1_1132642.html",
+      "titulo": "Puerto Rico: Posible base de apoyo para una intervención militar de EE.UU. en Cuba, revela senador boricua",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-31-u1-e208574-s27061-nid344438-puerto-rico-posible-base-apoyo-intervencion-militar",
       "destacada": false,
-      "tema": "veintena",
-      "fecha": "Fri, 30 Oct 2026 19:05:44 +0000",
+      "tema": "puerto",
+      "fecha": "Sat, 31 Oct 2026 22:33:47 +0100",
       "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¡De miedo y de película! Artistas e influencers cubanos se lucen con sus disfraces de Halloween",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-31-u194224-e208487-s27065-nid344423-miedo-pelicula-artistas-influencers-cubanos",
-      "destacada": false,
-      "tema": "miedo",
-      "fecha": "Sat, 31 Oct 2026 18:55:05 +0100",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cadena perpetua para hombre que asesinó a un auxiliar de la Policía en Santiago de Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-31-u1-e208574-s27061-nid344419-cadena-perpetua-hombre-asesino-auxiliar-policia",
-      "destacada": false,
-      "tema": "cadena",
-      "fecha": "Sat, 31 Oct 2026 18:53:25 +0100",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "ICE arresta en Orlando a un cubano con condenas por robo y usurpación de identidad",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-31-u1-e208574-s27061-nid344414-ice-arresta-orlando-cubano-condenas-robo-usurpacion",
-      "destacada": false,
-      "tema": "arresta",
-      "fecha": "Sat, 31 Oct 2026 18:08:30 +0100",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Air China limita el equipaje en sus vuelos a Cuba desde España",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-31-u1-e74-s27061-nid344415-air-china-limita-equipaje-sus-vuelos-cuba-espana",
-      "destacada": false,
-      "tema": "china",
-      "fecha": "Sat, 31 Oct 2026 17:43:33 +0100",
-      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -209,59 +157,33 @@
       "destacada": false,
       "tema": "podcast",
       "fecha": "Sat, 31 Oct 2026 01:03:29 +0000",
-      "id": 16
+      "id": 12
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Air China impone restricciones al equipaje y complica los viajes de los cubanos",
+      "resumen": "Tras semanas de problemas en la ruta, #AirChina impone restricciones al equipaje permitido en sus vuelos entre #LaHabana y #Madrid.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793484096_69654.html",
+      "destacada": false,
+      "tema": "china",
+      "fecha": "Sat, 31 Oct 2026 23:01:36 +0100",
+      "id": 13
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Medio siglo construyendo desde el pueblo",
-      "resumen": "La constitución de las Asambleas Municipales del Poder Popular, el 31 de octubre de 1976, hace hoy 50 años, marcó un hito en la historia de la institucionalidad cubana",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Asere, cocotaxi y otras palabras cubanas en la nueva edición del diccionario de la RAE",
+      "resumen": "Asere, cocotaxi, yuma y temba son algunos de los cubanismos que, desde este viernes, figuran en la nueva edición del Diccionario de la lengua española de la #RAE.",
       "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261031/medio-siglo-construyendo-desde-el-pueblo/",
+      "enlace_original": "https://diariodecuba.com/cuba/1793475250_69653.html",
       "destacada": false,
-      "tema": "medio",
-      "fecha": "Sat, 31 Oct 2026 18:22:41 +0000",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Noche de homenaje",
-      "resumen": "En el Municipio Especial Isla de la Juventud se celebró una gala por el aniversario 50 de los órganos del Poder Popular, donde la cubanía encontró en el arte su mejor manera de expresarse",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261031/noche-de-homenaje/",
-      "destacada": false,
-      "tema": "noche",
-      "fecha": "Sat, 31 Oct 2026 12:40:13 +0000",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Entre abuelos, décimas y Cuba",
-      "resumen": "Sentados en sus sillones nos reciben y sus rostros cambian. Llegamos con el corazón abierto a compartir versos, palabras, nuestros periódicos",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261030/entre-abuelos-decimas-y-cuba/",
-      "destacada": false,
-      "tema": "abuelos",
-      "fecha": "Fri, 30 Oct 2026 20:38:12 +0000",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Proyectan ¡Quba! en San Diego",
-      "resumen": "En el contexto de las protestas nacionales contra el bloqueo estadounidense fue presentado en San Diego, Estados Unidos, el largometraje documental ¡Quba!, que narra el extraordinario recorrido vivido por mayor de las Antillas hacia la igualdad LGBTQ",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261030/proyectan-quba-en-san-diego/",
-      "destacada": false,
-      "tema": "proyectan",
-      "fecha": "Fri, 30 Oct 2026 20:27:02 +0000",
-      "id": 20
+      "tema": "asere",
+      "fecha": "Sat, 31 Oct 2026 20:34:10 +0100",
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -274,7 +196,7 @@
       "destacada": false,
       "tema": "agresiones",
       "fecha": "Sat, 31 Oct 2026 19:05:13 +0100",
-      "id": 21
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -287,7 +209,7 @@
       "destacada": false,
       "tema": "sueñan",
       "fecha": "Sat, 31 Oct 2026 18:02:03 +0100",
-      "id": 22
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -300,7 +222,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Sat, 31 Oct 2026 17:00:22 +0100",
-      "id": 23
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -313,7 +235,7 @@
       "destacada": false,
       "tema": "circulación",
       "fecha": "Sat, 31 Oct 2026 16:01:01 +0100",
-      "id": 24
+      "id": 18
     },
     {
       "categoria": "transporte",
@@ -326,7 +248,7 @@
       "destacada": false,
       "tema": "markus",
       "fecha": "Sat, 31 Oct 2026 15:30:42 +0100",
-      "id": 25
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -339,7 +261,7 @@
       "destacada": false,
       "tema": "washington",
       "fecha": "Sat, 31 Oct 2026 13:18:50 +0100",
-      "id": 26
+      "id": 20
     },
     {
       "categoria": "energia",
@@ -352,59 +274,85 @@
       "destacada": false,
       "tema": "sobrevivir",
       "fecha": "Sat, 31 Oct 2026 13:01:11 +0100",
-      "id": 27
+      "id": 21
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "'Malecón': los rostros de otra Cuba",
-      "resumen": "Entre las precandidatas a la nominación al #Óscar como Mejor Filme Extranjero, la película es una carta de amor a #LaHabana.",
+      "titulo": "La Voz de la oposición",
+      "resumen": "La Voz de la oposición, es un programa con entrevistas e informaciones con las voces de los protagonistas desde Cuba. Servirá de enlace para el cubano conozca lo que sucede en el país sin censura.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cultura/1793442939_69636.html",
+      "enlace_original": "https://www.martinoticias.com/a/482217.html",
       "destacada": false,
-      "tema": "malecón",
-      "fecha": "Sat, 31 Oct 2026 11:35:39 +0100",
-      "id": 28
+      "tema": "oposición",
+      "fecha": "Sat, 31 Oct 2026 17:00:00 -0400",
+      "id": 22
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "salud",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "'Aquí no hay problemas sociales': el régimen cubano niega la mayor",
-      "resumen": "El ministro de Trabajo y Seguridad Social de #Cuba niega que existan \"problemas sociales\", pero reconoce que 883.426 personas viven en situación de vulnerabilidad. Díaz-Canel habla de \"uno de sus momentos más críticos\" del país.",
+      "titulo": "Periodista Jorge Bello vuelve a prisión sin atención médica: lleva más de un año esperando cirugía",
+      "resumen": "El preso político y periodista independiente cubano Jorge Bello Domínguez sigue sin recibir la atención médica que necesita en la prisión de máxima seguridad de Guanajay, pese a que tiene pendiente una cirugía desde hace más de un año y a que su familia denuncia un deterioro constante de su salud.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793441818_69646.html",
+      "enlace_original": "https://www.martinoticias.com/a/periodista-jorge-bello-vuelve-a-prisi%c3%b3n-sin-atenci%c3%b3n-m%c3%a9dica-lleva-m%c3%a1s-de-un-a%c3%b1o-esperando-cirug%c3%ada/483238.html",
       "destacada": false,
-      "tema": "problemas",
-      "fecha": "Sat, 31 Oct 2026 11:16:58 +0100",
-      "id": 29
+      "tema": "periodista",
+      "fecha": "Sat, 31 Oct 2026 16:03:25 -0400",
+      "id": 23
     },
     {
       "categoria": "energia",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Residentes de La Habana se manifiestan tras extensos apagones",
-      "resumen": "Vecinos en La Habana se manifiestan en las calles tras más de 60 horas continuas de apagón y la falta de suministro de agua potable.",
+      "titulo": "Cacerolazos y bloqueo de avenidas en La Habana por apagones de hasta 72 horas y meses sin agua",
+      "resumen": "Residentes de varias zonas de La Habana protestaron este viernes tras sufrir apagones de más de 60 horas y una severa escasez de agua potable, en medio de la creciente afectación de servicios básicos en distintos municipios de la capital cubana.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/residentes-de-la-habana-se-manifiestan-tras-extensos-apagones/483233.html",
+      "enlace_original": "https://www.martinoticias.com/a/cacerolazos-y-bloqueo-de-avenidas-en-la-habana-por-apagones-de-hasta-72-horas-y-meses-sin-agua/483236.html",
       "destacada": false,
       "tema": "apagones",
-      "fecha": "Sat, 31 Oct 2026 12:45:49 -0400",
-      "id": 30
+      "fecha": "Sat, 31 Oct 2026 15:43:21 -0400",
+      "id": 24
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "De cara al sol",
-      "resumen": "“De cara al sol” es una tribuna martiana que da voz a quienes bajo el régimen dictatorial cubano. Para Cuba que sufre, nuestra primera palabra; para quienes dentro de Cuba son llevados a oscuras prisiones, el primer pensamiento.",
+      "titulo": "Cuba en la Memoria con el expreso político Evaristo Sotolongo(II)",
+      "resumen": "Una conversación sobre la realidad cubana. La lucha, el presidio político, la denuncia internacional, el activismo pacífico en las voces de sus protagonistas.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482203.html",
+      "enlace_original": "https://www.martinoticias.com/a/cubmem53_evaristo2-081126-wav/483240.html",
       "destacada": false,
-      "tema": "",
-      "fecha": "Sat, 31 Oct 2026 12:30:00 -0400",
-      "id": 31
+      "tema": "memoria",
+      "fecha": "Sat, 31 Oct 2026 15:23:28 -0400",
+      "id": 25
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "\"Asere\" entra oficialmente al Diccionario de la lengua española",
+      "resumen": "La Real Academia Española (RAE) y la Asociación de Academias de la Lengua Española (ASALE) presentaron este 30 de octubre en Madrid la 24.ª edición del Diccionario de la lengua española (DLE) , que incorpora oficialmente el cubanismo \"asere\" , junto a su variante \"acere\" y otras voces representativa",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/31/asere-entra-oficialmente-al-diccionario-de-la-lengua-espanola/",
+      "destacada": false,
+      "tema": "asere",
+      "fecha": "Sat, 31 Oct 2026 20:43:29 +0000",
+      "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "UASD otorga Doctor Honoris Causa a Silvio Rodríguez",
+      "resumen": "La Universidad Autónoma de Santo Domingo (UASD), en República Dominicana, aprobó otorgar el título de Doctor Honoris Causa al cantautor cubano Silvio Rodríguez, en reconocimiento a una vida dedicada a la música, la poesía y el compromiso social. El título de la UASD se suma a otros reconocimientos i",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/31/uasd-otorga-doctor-honoris-causa-a-silvio-rodriguez/",
+      "destacada": false,
+      "tema": "otorga",
+      "fecha": "Sat, 31 Oct 2026 18:35:52 +0000",
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -417,7 +365,7 @@
       "destacada": false,
       "tema": "votación",
       "fecha": "Sat, 31 Oct 26 09:17:00 +0100",
-      "id": 32
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -430,7 +378,7 @@
       "destacada": false,
       "tema": "economista",
       "fecha": "Sat, 31 Oct 26 09:14:00 +0100",
-      "id": 33
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -443,7 +391,7 @@
       "destacada": false,
       "tema": "vietnam",
       "fecha": "Sat, 31 Oct 26 09:12:00 +0100",
-      "id": 34
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -456,7 +404,7 @@
       "destacada": false,
       "tema": "embajador",
       "fecha": "Sat, 31 Oct 26 09:08:00 +0100",
-      "id": 35
+      "id": 31
     },
     {
       "categoria": "salud",
@@ -469,46 +417,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sat, 31 Oct 26 09:02:00 +0100",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://actualidad.rt.com",
-      "fuente_tipo": "internacional",
-      "titulo": "Corrupción como rutina: investigan otro fraude millonario en el sector de defensa de Ucrania",
-      "resumen": "En 2015 el director una empresa estatal firmó un contrato con una compañía extranjera para servicios de intermediación en una venta de armamento. Sin embargo, la firma extranjera no participó realmente en las negociaciones.",
-      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae62764e9ff716195602eff.png",
-      "enlace_original": "https://actualidad-rt.com/actualidad/635358-exdirector-empresa-estatal-defensa-ucraniana-fraude-milionario?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "destacada": false,
-      "tema": "corrupción",
-      "fecha": "Sat, 31 Oct 2026 17:58:07 +0000",
-      "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Preparación constante",
-      "resumen": "El Consejo Popular Magdalena Torriente fue epicentro, este 30 de octubre, de las acciones de preparación para la defensa en el habanero municipio de Cotorro La entrada Preparación constante se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/preparacion-constante/",
-      "destacada": false,
-      "tema": "preparación",
-      "fecha": "Sat, 31 Oct 2026 18:52:33 +0000",
-      "id": 38
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Medio siglo haciendo Patria",
-      "resumen": "Este 30 de octubre el teatro de la Casa de Cultura del Cotorro, tuvo lugar una gala solemne en saludo a los cincuenta años de constituido el Poder Popular La entrada Medio siglo haciendo Patria se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/medio-siglo-haciendo-patria/",
-      "destacada": false,
-      "tema": "medio",
-      "fecha": "Sat, 31 Oct 2026 18:54:13 +0000",
-      "id": 39
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -521,7 +430,7 @@
       "destacada": false,
       "tema": "medio",
       "fecha": "Sat, 31 Oct 2026 13:23:31 +0000",
-      "id": 40
+      "id": 33
     },
     {
       "categoria": "politica",
@@ -534,7 +443,7 @@
       "destacada": false,
       "tema": "huellas",
       "fecha": "Sat, 31 Oct 2026 12:50:00 +0000",
-      "id": 41
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -547,7 +456,20 @@
       "destacada": false,
       "tema": "ciudad",
       "fecha": "Sat, 31 Oct 2026 12:25:51 +0000",
-      "id": 42
+      "id": 35
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba cae por partida doble en ronda de colocación en Panamericano de béisbol",
+      "resumen": "La selección nacional de béisbol sub-18 volvió a la grama para dirimir la ronda de colocación del torneo panamericano.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/10/31/cuba-cae-en-ronda-colocacion-en-panamericano/",
+      "destacada": false,
+      "tema": "partida",
+      "fecha": "Sat, 31 Oct 2026 08:40:00 +0000",
+      "id": 36
     },
     {
       "categoria": "salud",
@@ -560,7 +482,7 @@
       "destacada": false,
       "tema": "columna",
       "fecha": "Sat, 31 Oct 2026 18:08:55 GMT",
-      "id": 43
+      "id": 37
     }
   ]
 }
