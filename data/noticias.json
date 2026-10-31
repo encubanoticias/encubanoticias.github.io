@@ -1,46 +1,33 @@
 {
   "fecha": "2026-10-31",
-  "hora": "07:47",
-  "total": 43,
+  "hora": "14:05",
+  "total": 44,
   "noticias": [
     {
-      "categoria": "economia",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Argentinos celebran cumpleaños de Maradona y expresan apoyo a Cuba",
-      "resumen": "Buenos Aires, 31 oct (Prensa Latina) A ritmo de son, cumbia, percusión y murga, argentinos celebraron hoy el cumpleaños de Diego Armando Maradona y expresaron su apoyo solidario a Cuba en el club de empleados del Banco Nación en el municipio bonaerense de Vicente López. The post Argentinos celebran ",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/31/argentinos-celebran-cumpleanos-de-maradona-y-expresan-apoyo-a-cuba/",
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Ferapth, un rapero francés por la libertad de Cuba",
+      "resumen": "Dedica una canción a Anna Bensi y su madre: \"Me conmueven su valentía y su voluntad de dar testimonio de una realidad que contradice el discurso oficial\"",
+      "imagen_url": "https://static.14ymedio.com/clip/80d295b1-1530-4d28-b449-bdf8b40abd0b_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/entrevista/ferapth-rapero-frances-libertad-cuba_1_1132657.html",
       "destacada": true,
-      "tema": "argentinos",
-      "fecha": "Sat, 31 Oct 2026 06:04:24 +0000",
+      "tema": "ferapth",
+      "fecha": "Sat, 31 Oct 2026 12:12:23 +0000",
       "id": 1
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Casa de las Américas, puente cultural entre Cuba y la región",
-      "resumen": "Santiago de Chile, 31 oct (Prensa Latina) De visita hoy en Chile, el director del Fondo Editorial Casa de las Américas, Fernando Luis Rojas, destacó el papel jugado durante décadas por esa institución cubana en el desarrollo de las relaciones culturales en la región. The post Casa de las Américas, p",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/31/casa-de-las-americas-puente-cultural-entre-cuba-y-la-region/",
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Calabazas, esqueletos y apagones: Halloween a la cubana",
+      "resumen": "La fiesta gana seguidores entre los jóvenes, que celebran entre disfraces y telarañas mientras la oscuridad de los barrios no necesita efectos especiales",
+      "imagen_url": "https://static.14ymedio.com/clip/898ab206-8db9-44f5-a839-26dbf5c822a8_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cultura/calabazas-esqueletos-apagones-halloween-cubana_1_1132670.html",
       "destacada": true,
-      "tema": "américas",
-      "fecha": "Sat, 31 Oct 2026 04:17:14 +0000",
+      "tema": "apagones",
+      "fecha": "Sat, 31 Oct 2026 13:13:16 +0000",
       "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Jornada de la Cultura Japonesa en La Habana llega a su fin",
-      "resumen": "La Habana, 31 oct (Prensa Latina) Con presentaciones de artes marciales, música y cultura popular, culminará hoy aquí la Jornada de Cultura Japonesa en Cuba, para despedir un evento que ha acercado al público cubano a las tradiciones del país asiático. The post Jornada de la Cultura Japonesa en La H",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/31/jornada-de-la-cultura-japonesa-en-la-habana-llega-a-su-fin/",
-      "destacada": true,
-      "tema": "jornada",
-      "fecha": "Sat, 31 Oct 2026 04:11:13 +0000",
-      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -53,7 +40,33 @@
       "destacada": true,
       "tema": "abortos",
       "fecha": "Fri, 30 Oct 2026 20:52:24 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Arrestan en Florida a 281 sospechosos por presunto abuso sexual de menores y trata de personas",
+      "resumen": "Entre los detenidos se encuentran 32 ciudadanos de países como Cuba, Venezuela, México y Haití",
+      "imagen_url": "https://static.14ymedio.com/clip/6e889ccf-d816-4f90-8aa4-a447dd822010_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/internacional/arrestan-florida-281-sospechosos-presunto_1_1132668.html",
+      "destacada": true,
+      "tema": "arrestan",
+      "fecha": "Sat, 31 Oct 2026 13:06:15 +0000",
       "id": 4
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"Ni clientes ni luz\": los apagones de más de 40 horas asfixian a La Habana",
+      "resumen": "La falta de electricidad se suma a la escasez de agua y al desplome del turismo, mientras la principal termoeléctrica de Cuba permanece averiada",
+      "imagen_url": "https://static.14ymedio.com/clip/86bd3c46-ebf7-41fa-8321-0ae0d81f26d7_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/clientes-luz-apagones-40-horas_1_1132630.html",
+      "destacada": true,
+      "tema": "apagones",
+      "fecha": "Fri, 30 Oct 2026 17:22:00 +0000",
+      "id": 5
     },
     {
       "categoria": "energia",
@@ -63,10 +76,10 @@
       "resumen": "Tras más de 30 horas de apagón, los manifestantes cerraron una de las principales vías de acceso a la capital cubana",
       "imagen_url": "https://static.14ymedio.com/clip/33ac4554-e618-469f-8c59-42a5bbb37edf_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/veintena-mujeres-ninos-bloquean-calle_1_1132642.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "veintena",
       "fecha": "Fri, 30 Oct 2026 19:05:44 +0000",
-      "id": 5
+      "id": 6
     },
     {
       "categoria": "salud",
@@ -79,59 +92,20 @@
       "destacada": false,
       "tema": "enfermedades",
       "fecha": "Fri, 30 Oct 2026 18:56:36 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "\"Ni clientes ni luz\": los apagones de más de 40 horas asfixian a La Habana",
-      "resumen": "La falta de electricidad se suma a la escasez de agua y al desplome del turismo, mientras la principal termoeléctrica de Cuba permanece averiada",
-      "imagen_url": "https://static.14ymedio.com/clip/86bd3c46-ebf7-41fa-8321-0ae0d81f26d7_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/clientes-luz-apagones-40-horas_1_1132630.html",
-      "destacada": false,
-      "tema": "apagones",
-      "fecha": "Fri, 30 Oct 2026 17:22:00 +0000",
       "id": 7
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Un albergue en Tabasco ya no puede proteger a 40 ancianos cubanos, varios deportados de EE UU",
-      "resumen": "El refugio Amparito trasladará a los migrantes a la Ciudad de México por falta de recursos",
-      "imagen_url": "https://static.14ymedio.com/clip/acdbf0a1-4c80-4540-b679-dfbe476fe720_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/migracion/albergue-tabasco-no-proteger-40_1_1132646.html",
+      "titulo": "¿De qué gloria habla Ana Hurtado mientras Cuba se hunde en la crisis?",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-31-u1-e207888-s27061-nid344398-gloria-habla-ana-hurtado-mientras-cuba-hunde-crisis",
       "destacada": false,
-      "tema": "albergue",
-      "fecha": "Fri, 30 Oct 2026 20:13:45 +0000",
+      "tema": "gloria",
+      "fecha": "Sat, 31 Oct 2026 13:27:38 +0100",
       "id": 8
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Los teléfonos móviles no seguirán las instrucciones del Gobierno cubano de mantener la hora de verano",
-      "resumen": "Los usuarios deberán cambiar manualmente el reloj de sus celulares inteligentes",
-      "imagen_url": "https://static.14ymedio.com/clip/03f19074-588a-41df-919b-0a1e92f97af3_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/telefonos-moviles-no-seguiran-instrucciones_1_1132615.html",
-      "destacada": false,
-      "tema": "teléfonos",
-      "fecha": "Fri, 30 Oct 2026 12:08:43 +0000",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Bruno Rodríguez: \"la política de resistencia de Cuba ante la agresión de EE UU ha sido exitosa”",
-      "resumen": "Ric Herrero, del Cuba Study Group, reacciona a la entrevista del canciller cubano a 'The New York Times': “La cruda realidad es que Cuba está sola. Pueden resistir, pero se dirigen hacia el abismo”",
-      "imagen_url": "https://static.14ymedio.com/clip/38fa9ae1-8fe2-45a6-b5d7-beb1da3ce7e4_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/bruno-rodriguez-politica-resistencia-cuba_1_1132617.html",
-      "destacada": false,
-      "tema": "bruno",
-      "fecha": "Fri, 30 Oct 2026 12:16:01 +0000",
-      "id": 10
     },
     {
       "categoria": "economia",
@@ -144,7 +118,7 @@
       "destacada": false,
       "tema": "empleado",
       "fecha": "Sat, 31 Oct 2026 06:02:14 +0100",
-      "id": 11
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -157,7 +131,7 @@
       "destacada": false,
       "tema": "rompen",
       "fecha": "Sat, 31 Oct 2026 05:18:26 +0100",
-      "id": 12
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -170,7 +144,7 @@
       "destacada": false,
       "tema": "nunca",
       "fecha": "Sat, 31 Oct 2026 04:12:26 +0100",
-      "id": 13
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -183,7 +157,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Sat, 31 Oct 2026 03:18:24 +0100",
-      "id": 14
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -196,33 +170,20 @@
       "destacada": false,
       "tema": "guantánamo",
       "fecha": "Sat, 31 Oct 2026 03:16:32 +0100",
-      "id": 15
+      "id": 13
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubana denuncia venta de jugos vencidos en Ciego de Ávila",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-31-u1-e199291-s27061-nid344382-cubana-denuncia-venta-jugos-vencidos-ciego-avila",
-      "destacada": false,
-      "tema": "cubana",
-      "fecha": "Sat, 31 Oct 2026 02:43:27 +0100",
-      "id": 16
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.radiocubana.cu",
+      "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "oficial",
-      "titulo": "#Podcast «A contracorriente». Capítulo 55. «El audiovisual, territorio en disputa»",
-      "resumen": "¿Cómo se construyen consensos desde el audiovisual?. ¿Mediante qué mecanismos se articula la participación de las audiencias en un sistema de televisión de servicio público como el cubano?. Estas y otras preguntas encuentran respuesta en el diálogo entre el realizador audiovisual Waldo Ramírez de la",
+      "titulo": "Noche de homenaje",
+      "resumen": "En el Municipio Especial Isla de la Juventud se celebró una gala por el aniversario 50 de los órganos del Poder Popular, donde la cubanía encontró en el arte su mejor manera de expresarse",
       "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/podcast-a-contracorriente-capitulo-55-el-audiovisual-territorio-en-disputa/",
+      "enlace_original": "https://www.trabajadores.cu/20261031/noche-de-homenaje/",
       "destacada": false,
-      "tema": "podcast",
-      "fecha": "Sat, 31 Oct 2026 01:03:29 +0000",
-      "id": 17
+      "tema": "noche",
+      "fecha": "Sat, 31 Oct 2026 12:40:13 +0000",
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -235,7 +196,7 @@
       "destacada": false,
       "tema": "abuelos",
       "fecha": "Fri, 30 Oct 2026 20:38:12 +0000",
-      "id": 18
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -248,7 +209,7 @@
       "destacada": false,
       "tema": "proyectan",
       "fecha": "Fri, 30 Oct 2026 20:27:02 +0000",
-      "id": 19
+      "id": 16
     },
     {
       "categoria": "energia",
@@ -261,7 +222,7 @@
       "destacada": false,
       "tema": "empeños",
       "fecha": "Fri, 30 Oct 2026 20:19:13 +0000",
-      "id": 20
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -274,7 +235,7 @@
       "destacada": false,
       "tema": "bailar",
       "fecha": "Fri, 30 Oct 2026 17:56:57 +0000",
-      "id": 21
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -287,7 +248,7 @@
       "destacada": false,
       "tema": "protección",
       "fecha": "Fri, 30 Oct 2026 16:42:36 +0000",
-      "id": 22
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -300,7 +261,59 @@
       "destacada": false,
       "tema": "juventud",
       "fecha": "Fri, 30 Oct 2026 16:00:34 +0000",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Washington y La Habana continúan en redes su enfrentamiento en la ONU: IA y acusaciones cruzadas",
+      "resumen": "#LaHabana y #Washington prolongan en las redes el enfrentamiento de la #ONU. Un vídeo generado con IA y duras acusaciones cruzadas marcan el nuevo choque diplomático.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793449130_69648.html",
+      "destacada": false,
+      "tema": "washington",
+      "fecha": "Sat, 31 Oct 2026 13:18:50 +0100",
+      "id": 21
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Sobrevivir en Cuba: tres hogares, 24 horas y una jornada que no termina",
+      "resumen": "En #Cuba, trabajar no basta y cuidar obliga a renunciar al empleo. Miembros de tres hogares cuentan cómo conseguir lo básico consume sus días entre #apagones, colas y escasez.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793448071_69606.html",
+      "destacada": false,
+      "tema": "sobrevivir",
+      "fecha": "Sat, 31 Oct 2026 13:01:11 +0100",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "'Malecón': los rostros de otra Cuba",
+      "resumen": "Entre las precandidatas a la nominación al #Óscar como Mejor Filme Extranjero, la película es una carta de amor a #LaHabana.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cultura/1793442939_69636.html",
+      "destacada": false,
+      "tema": "malecón",
+      "fecha": "Sat, 31 Oct 2026 11:35:39 +0100",
       "id": 23
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "'Aquí no hay problemas sociales': el régimen cubano niega la mayor",
+      "resumen": "El ministro de Trabajo y Seguridad Social de #Cuba niega que existan \"problemas sociales\", pero reconoce que 883.426 personas viven en situación de vulnerabilidad. Díaz-Canel habla de \"uno de sus momentos más críticos\" del país.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793441818_69646.html",
+      "destacada": false,
+      "tema": "problemas",
+      "fecha": "Sat, 31 Oct 2026 11:16:58 +0100",
+      "id": 24
     },
     {
       "categoria": "transporte",
@@ -313,7 +326,7 @@
       "destacada": false,
       "tema": "pemex",
       "fecha": "Sat, 31 Oct 2026 01:27:30 +0100",
-      "id": 24
+      "id": 25
     },
     {
       "categoria": "energia",
@@ -326,7 +339,7 @@
       "destacada": false,
       "tema": "ecoflow",
       "fecha": "Fri, 30 Oct 2026 23:22:58 +0100",
-      "id": 25
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -339,7 +352,7 @@
       "destacada": false,
       "tema": "daniel",
       "fecha": "Fri, 30 Oct 2026 21:32:50 +0100",
-      "id": 26
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -352,7 +365,7 @@
       "destacada": false,
       "tema": "bruno",
       "fecha": "Fri, 30 Oct 2026 20:34:23 +0100",
-      "id": 27
+      "id": 28
     },
     {
       "categoria": "economia",
@@ -365,45 +378,32 @@
       "destacada": false,
       "tema": "crecen",
       "fecha": "Fri, 30 Oct 2026 19:15:40 +0100",
-      "id": 28
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Sin desayuno, sin luz, cargando agua y cocinando en los albergues: así se estudia hoy en la Lenin",
-      "resumen": "Familias de alumnos de #LaLenin denuncian las precarias condiciones en las que estudian sus hijos, mientras las autoridades elogian el centro y omiten la falta de electricidad, agua y comida. #Cuba #EstudiantesCubanos #CrisisEnCuba",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793380958_69630.html",
-      "destacada": false,
-      "tema": "desayuno",
-      "fecha": "Fri, 30 Oct 2026 18:22:38 +0100",
       "id": 29
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
+      "titulo": "Cubalex denuncia agresiones contra un joven de 18 años acusado de sabotaje en Cuba",
+      "resumen": "“Su reciente traslado a otra prisión, sin información clara sobre su situación actual ni las condiciones en que se encuentra, aumenta la preocupación por su seguridad e integridad física”, señaló Cubalex.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482169.html",
+      "enlace_original": "https://www.martinoticias.com/a/cubalex-denuncia-agresiones-contra-un-joven-de-18-a%c3%b1os-acusado-de-sabotaje-en-cuba/483227.html",
       "destacada": false,
-      "tema": "",
-      "fecha": "Sat, 31 Oct 2026 00:00:30 -0400",
+      "tema": "cubalex",
+      "fecha": "Sat, 31 Oct 2026 09:09:49 -0400",
       "id": 30
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La Barbacoa de Pepe",
-      "resumen": "La Barbacoa de Pepe es un muestrario de la nostalgia cubana con datos y curiosidades de los temas más variados, para la audiencia cubana. También trataremos temas internacionales y locales, siempre con el fin de educar al Cubano de la Isla. Con la elocuencia de Pepe Forte.",
+      "titulo": "Abriendo Espacios",
+      "resumen": "Un programa dedicado a conocer la realidad de la violencia de género en Cuba. Una espacio para dar voz a la mujer cubana.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482114.html",
+      "enlace_original": "https://www.martinoticias.com/a/482193.html",
       "destacada": false,
-      "tema": "barbacoa",
-      "fecha": "Fri, 30 Oct 2026 21:00:00 -0400",
+      "tema": "abriendo",
+      "fecha": "Sat, 31 Oct 2026 09:00:00 -0400",
       "id": 31
     },
     {
@@ -459,17 +459,56 @@
       "id": 35
     },
     {
-      "categoria": "economia",
-      "fuente": "http://www.cubadebate.cu",
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Votación en ONU contra bloqueo a Cuba resulta mensaje abrumador",
+      "resumen": "Prensa Latina - Vídeo: Canal Caribe - La votación en Naciones Unidas de rechazo al bloqueo a Cuba re...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125809-votacion-en-onu-contra-bloqueo-a-cuba-resulta-mensaje-abrumador.jpg?t=1793434739",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261031/125809/125809-votacion-en-onu-contra-bloqueo-a-cuba-resulta-mensaje-abrumador",
+      "destacada": false,
+      "tema": "votación",
+      "fecha": "Sat, 31 Oct 26 09:17:00 +0100",
+      "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
       "titulo": "Economista cubano desmiente a Waltz",
-      "resumen": "Analizan coyuntura actual y posibilidades de recuperación productiva en Fórum organizado por la Asociación Nacional de Economistas y Contadores de Cuba (ANEC), el Ministerio de Economía y Planificación y la embajada británica en La Habana. The post Economista cubano desmiente a Waltz first appeared ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/10/30/economista-cubano-desmiente-a-waltz/",
+      "resumen": "Por: Arleen Rodríguez Derivet, Marxlenin Pérez Valdés - Imagen: Marxlenin Pérez Valdés - Mientras en...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125808-economista-cubano-desmiente-a-waltz.jpg?t=1793434610",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261031/125808/125808-economista-cubano-desmiente-a-waltz",
       "destacada": false,
       "tema": "economista",
-      "fecha": "Fri, 30 Oct 2026 15:53:26 +0000",
-      "id": 36
+      "fecha": "Sat, 31 Oct 26 09:14:00 +0100",
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Vietnam y Cuba conmemoran 60 años de la primera visita de Raúl Castro",
+      "resumen": "Cubadebate - Imagen: Prensa Latina - La presentación de dos libros y una exposición fotográfica sirv...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125807-vietnam-y-cuba-conmemoran-60-anos-de-la-primera-visita-de-raul-castro.jpg?t=1793434448",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261031/125807/125807-vietnam-y-cuba-conmemoran-60-anos-de-la-primera-visita-de-raul-castro",
+      "destacada": false,
+      "tema": "vietnam",
+      "fecha": "Sat, 31 Oct 26 09:12:00 +0100",
+      "id": 38
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Díaz-Canel a personal de la Salud: &quot;Ustedes son parte de nuestra victoria en la ONU&quot;",
+      "resumen": "Por Angélica Paredes - Imagen: Estudios Revolución - Vídeo: Canal Caribe - En medio de las dificulta...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125804-diaz-canel-a-personal-de-la-salud-ustedes-son-parte-de-nuestra-victoria-en-la-onu.jpg?t=1793433861",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261031/125804/125804-diaz-canel-a-personal-de-la-salud-ustedes-son-parte-de-nuestra-victoria-en-la-onu",
+      "destacada": false,
+      "tema": "canel",
+      "fecha": "Sat, 31 Oct 26 09:02:00 +0100",
+      "id": 39
     },
     {
       "categoria": "salud",
@@ -482,7 +521,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 30 Oct 26 15:59:00 +0100",
-      "id": 37
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -495,7 +534,7 @@
       "destacada": false,
       "tema": "revolución",
       "fecha": "Fri, 30 Oct 26 15:54:00 +0100",
-      "id": 38
+      "id": 41
     },
     {
       "categoria": "politica",
@@ -508,20 +547,7 @@
       "destacada": false,
       "tema": "secretario",
       "fecha": "Fri, 30 Oct 26 15:52:00 +0100",
-      "id": 39
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba a la final contra Panamá en copa de Futsal en Nicaragua",
-      "resumen": "Managua, 31 oct (Prensa Latina) La selección de futsal de Cuba disputará hoy con Panamá el título de la primera Copa de Naciones Nicaragua 2026, tras vencer 4-3 a los anfitriones en una remontada durante las semifinales del torneo. The post Cuba a la final contra Panamá en copa de Futsal en Nicaragu",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/31/cuba-a-la-final-contra-panama-en-copa-de-futsal-en-nicaragua/",
-      "destacada": false,
-      "tema": "final",
-      "fecha": "Sat, 31 Oct 2026 07:49:03 +0000",
-      "id": 40
+      "id": 42
     },
     {
       "categoria": "energia",
@@ -534,7 +560,7 @@
       "destacada": false,
       "tema": "anuncia",
       "fecha": "Fri, 30 Oct 2026 22:59:47 +0000",
-      "id": 41
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -547,20 +573,7 @@
       "destacada": false,
       "tema": "telecomunicadores",
       "fecha": "Fri, 30 Oct 2026 22:42:53 +0000",
-      "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticias de la negociación de Donald Trump con Cuba",
-      "resumen": "La relación entre Estados Unidos y Cuba atraviesa uno de sus momentos más tensos en años, marcada por una combinación de presión económica, sanciones, crisis energética y contactos discretos, de los cuales, en muchos casos, solo se conoce lo que se filtra a la prensa. Desde elTOQUE monitoreamos la e",
-      "imagen_url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/AP_131403754861_f6c2a900de.jpg/width=1920,quality=75,fit=scale-down,dpr=1,slow-connection-quality=40",
-      "enlace_original": "https://eltoque.com/noticias-de-la-negociacion-de-donald-trump-con-cuba",
-      "destacada": false,
-      "tema": "noticias",
-      "fecha": "Fri, 30 Oct 2026 14:03:59 GMT",
-      "id": 43
+      "id": 44
     }
   ]
 }
