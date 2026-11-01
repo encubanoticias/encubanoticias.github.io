@@ -524,14 +524,20 @@ function guardarVotos(v) {
   localStorage.setItem('votos', JSON.stringify(v));
 }
 
+
+
 async function votar(id, tipo) {
+  // Generar una huella basada en el título de la noticia (primeras 40 letras)
+  const noticia = noticias.find(n => n.enlace_original === id || encodeURIComponent(n.enlace_original) === id);
+  const huella = noticia ? noticia.titulo.toLowerCase().slice(0, 40) : id;
+
   const todos = cargarVotos();
-  if (!todos[id]) todos[id] = {};
-  const anterior = todos[id]['yo'];
+  if (!todos[huella]) todos[huella] = {};
+  const anterior = todos[huella]['yo'];
 
   if (anterior === tipo) return;
 
-  todos[id]['yo'] = tipo;
+  todos[huella]['yo'] = tipo;
   guardarVotos(todos);
   actualizarVotacion(id);
 
@@ -552,6 +558,7 @@ async function votar(id, tipo) {
   cargarVotosGlobales();
 }
 
+
 async function cargarVotosGlobales() {
   if (!supabaseClient) return;
   const { data, error } = await supabaseClient.from('votes').select('news_id, vote_type');
@@ -569,11 +576,17 @@ async function cargarVotosGlobales() {
   });
 }
 
+
+
 function actualizarVotacion(id) {
   const cont = document.querySelector(`.votacion[data-id="${id}"]`);
   if (!cont) return;
-  const v = cargarVotos()[id] || {};
-  const mi = v[String(id)] || null;
+  
+  const noticia = noticias.find(n => n.enlace_original === id || encodeURIComponent(n.enlace_original) === id);
+  const huella = noticia ? noticia.titulo.toLowerCase().slice(0, 40) : id;
+
+  const v = cargarVotos()[huella] || {};
+  const mi = v['yo'] || null;
 
   const global = votosGlobales[String(id)] || { verificado: 0, nopuedo: 0, contradiccion: 0 };
   const total = global.verificado + global.nopuedo + global.contradiccion;
@@ -598,6 +611,8 @@ function actualizarVotacion(id) {
     span.textContent = `${total} total`;
   }
 }
+
+
 
 function inicializarVotaciones() {
   document.querySelectorAll('.votacion').forEach(cont => {
