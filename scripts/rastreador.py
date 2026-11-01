@@ -177,34 +177,33 @@ def main():
     for n in unicas:
         n["tema"] = extraer_tema(n["titulo"])
 
-    # Filtrar por antigüedad
     # Filtrar por antigüedad y ordenar de más nueva a más vieja
-horas_max = config.get("horas_vida_noticias", 48)
-ahora_utc = datetime.utcnow()
-filtradas = []
-for n in unicas:
-    try:
-        fecha_pub = parsedate_to_datetime(n.get("fecha", ""))
-        n["_fecha_dt"] = fecha_pub.replace(tzinfo=None)
-        edad_horas = (ahora_utc - fecha_pub.replace(tzinfo=None)).total_seconds() / 3600
-        if edad_horas <= horas_max:
+    horas_max = config.get("horas_vida_noticias", 48)
+    ahora_utc = datetime.utcnow()
+    filtradas = []
+    for n in unicas:
+        try:
+            fecha_pub = parsedate_to_datetime(n.get("fecha", ""))
+            n["_fecha_dt"] = fecha_pub.replace(tzinfo=None)
+            edad_horas = (ahora_utc - fecha_pub.replace(tzinfo=None)).total_seconds() / 3600
+            if edad_horas <= horas_max:
+                filtradas.append(n)
+        except Exception:
+            n["_fecha_dt"] = datetime.min
             filtradas.append(n)
-    except Exception:
-        n["_fecha_dt"] = datetime.min
-        filtradas.append(n)
         
-# Ordenar: las más nuevas primero
-filtradas.sort(key=lambda x: x.get("_fecha_dt", datetime.min), reverse=True)
+    # Ordenar: las más nuevas primero
+    filtradas.sort(key=lambda x: x.get("_fecha_dt", datetime.min), reverse=True)
 
-# Limpiar el campo temporal para no ensuciar el JSON
-for n in filtradas:
-    if "_fecha_dt" in n:
-        del n["_fecha_dt"]
+    # Limpiar el campo temporal para no ensuciar el JSON
+    for n in filtradas:
+        if "_fecha_dt" in n:
+            del n["_fecha_dt"]
         
-unicas = filtradas
+    unicas = filtradas
 
     for i, n in enumerate(unicas):
-        n["id"] = i + 1
+    n["id"] = i + 1
     for n in unicas[:5]:
         n["destacada"] = True
 
