@@ -1,20 +1,46 @@
 {
   "fecha": "2026-11-01",
-  "hora": "17:57",
-  "total": 44,
+  "hora": "19:59",
+  "total": 35,
   "noticias": [
     {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba felicita a Argelia por aniversario de estallido revolucionario",
-      "resumen": "La Habana, 1 nov (Prensa Latina) El Gobierno de Cuba felicitó hoy a Argelia por el 72 aniversario del estallido de la Revolución del 1 de noviembre de 1954 en ese país africano. The post Cuba felicita a Argelia por aniversario de estallido revolucionario first appeared on Noticias Prensa Latina.",
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Entran en vigor las nuevas leyes migratorias de Cuba: derechos en el papel y más control político",
+      "resumen": "Las nuevas leyes migratorias de #Cuba entran en vigor este domingo, con la eliminación del límite de 24 meses fuera del país para conservar derechos, pero mantienen las restricciones políticas.",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/01/cuba-felicita-a-argelia-por-aniversario-de-estallido-revolucionario/",
+      "enlace_original": "https://diariodecuba.com/cuba/1793562200_69661.html",
       "destacada": true,
-      "tema": "felicita",
-      "fecha": "Sun, 01 Nov 2026 18:42:06 +0000",
+      "tema": "entran",
+      "fecha": "Sun, 01 Nov 2026 20:43:20 +0100",
       "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Ser delegado es un curso inolvidable para la vida",
+      "resumen": "Mario Herrera, fundador de la provincia de Matanzas, acaba de ser honrado con el Premio del Barrio a propósito los 50 años de constituidas las asambleas municipales del Poder Popular, en acto efectuado en La Habana",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261101/ser-delegado-es-un-curso-inolvidable-para-la-vida/",
+      "destacada": true,
+      "tema": "delegado",
+      "fecha": "Sun, 01 Nov 2026 19:44:04 +0000",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Condenan a cadena perpetua a un hombre por asesinar a un policía en Palma Soriano",
+      "resumen": "Según el tribunal de Santiago de Cuba, Guillermo Sánchez Gutiérrez apuñaló al agente hasta asegurarse de que lo había matado y actuó por venganza",
+      "imagen_url": "https://static.14ymedio.com/clip/2579545d-7a57-4026-ac16-9f7251332ca8_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/condenan-cadena-perpetua-hombre-asesinar_1_1132709.html",
+      "destacada": true,
+      "tema": "condenan",
+      "fecha": "Sun, 01 Nov 2026 18:57:08 +0000",
+      "id": 3
     },
     {
       "categoria": "sociedad",
@@ -27,7 +53,7 @@
       "destacada": true,
       "tema": "tomar",
       "fecha": "Sun, 01 Nov 2026 18:41:16 +0100",
-      "id": 2
+      "id": 4
     },
     {
       "categoria": "sociedad",
@@ -40,32 +66,6 @@
       "destacada": true,
       "tema": "dictadura",
       "fecha": "Sun, 01 Nov 2026 18:18:57 +0100",
-      "id": 3
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba felicita a Antigua y Barbuda por aniversario de independencia",
-      "resumen": "La Habana, 1 nov (Prensa Latina) El gobierno de Cuba felicitó hoy a Antigua y Barbuda por el 45 aniversario de su independencia, a través de un mensaje divulgado por la cancillería. The post Cuba felicita a Antigua y Barbuda por aniversario de independencia first appeared on Noticias Prensa Latina.",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/01/cuba-felicita-a-antigua-y-barbuda-por-aniversario-de-independencia/",
-      "destacada": true,
-      "tema": "felicita",
-      "fecha": "Sun, 01 Nov 2026 18:16:00 +0000",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Intelectual cubana: ¿Qué tal si proponemos una resolución popular contra el bloqueo del régimen?",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-01-u1-e209395-s27061-nid344483-intelectual-cubana-tal-proponemos-resolucion-popular",
-      "destacada": true,
-      "tema": "intelectual",
-      "fecha": "Sun, 01 Nov 2026 17:59:48 +0100",
       "id": 5
     },
     {
@@ -83,71 +83,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Denuncian plaga de roedores que amenaza viviendas y un centro de elaboración de alimentos en La Habana",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-01-u1-e209363-s27061-nid344488-denuncian-plaga-roedores-amenaza-viviendas-centro",
-      "destacada": false,
-      "tema": "denuncian",
-      "fecha": "Sun, 01 Nov 2026 17:59:40 +0100",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Laritza Camacho expone tres escenas que muestran la desesperación de los cubanos: «Esto es un caos»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-01-u1-e43231-s27061-nid344466-laritza-camacho-expone-tres-escenas-muestran",
-      "destacada": false,
-      "tema": "laritza",
-      "fecha": "Sun, 01 Nov 2026 17:52:29 +0100",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Hijo de pastor cubano detenido por ICE tendrá nueva audiencia: ONG asegura que un juez desestimó tres cargos por drogas",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-01-u1-e208933-s27061-nid344487-hijo-pastor-cubano-detenido-ice-tendra-nueva",
-      "destacada": false,
-      "tema": "pastor",
-      "fecha": "Sun, 01 Nov 2026 17:48:34 +0100",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba disfruta segundo lugar tras torneo de futsal en Nicaragua",
-      "resumen": "Managua, 1 nov (Prensa Latina) La selección de futsal de Cuba disfruta hoy el segundo lugar tras caer ante Panamá 5-1 en la discusión del título de la primera Copa de Naciones Nicaragua 2026. The post Cuba disfruta segundo lugar tras torneo de futsal en Nicaragua first appeared on Noticias Prensa La",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/01/cuba-disfruta-segundo-lugar-tras-torneo-de-futsal-en-nicaragua/",
-      "destacada": false,
-      "tema": "disfruta",
-      "fecha": "Sun, 01 Nov 2026 17:25:52 +0000",
-      "id": 10
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Estamos orgullosos»: EE.UU. celebra el giro de Trinidad y Tobago a favor de cambios democráticos en Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-01-u1-e208933-s27061-nid344481-estamos-orgullosos-eeuu-celebra-giro-trinidad-tobago",
-      "destacada": false,
-      "tema": "estamos",
-      "fecha": "Sun, 01 Nov 2026 17:24:19 +0100",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "alternativa",
       "titulo": "Presentan nominados al Premio de Cultura Comunitaria",
@@ -157,7 +92,7 @@
       "destacada": false,
       "tema": "presentan",
       "fecha": "Sun, 01 Nov 2026 16:53:40 +0000",
-      "id": 12
+      "id": 7
     },
     {
       "categoria": "energia",
@@ -170,7 +105,7 @@
       "destacada": false,
       "tema": "teléfonos",
       "fecha": "Sun, 01 Nov 2026 16:20:17 +0000",
-      "id": 13
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -183,7 +118,7 @@
       "destacada": false,
       "tema": "reprime",
       "fecha": "Sun, 01 Nov 2026 16:04:20 +0100",
-      "id": 14
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -196,7 +131,7 @@
       "destacada": false,
       "tema": "unicef",
       "fecha": "Sun, 01 Nov 2026 16:00:50 +0000",
-      "id": 15
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -209,7 +144,33 @@
       "destacada": false,
       "tema": "esconde",
       "fecha": "Sun, 01 Nov 2026 14:51:45 +0000",
-      "id": 16
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Panamá volvió a quedar grande",
+      "resumen": "Cuba terminó segunda en el Torneo Centroamericano de fútbol sala celebrado en Nicaragua",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-11-01/panama-volvio-a-quedar-grande-01-11-2026-14-11-48",
+      "destacada": false,
+      "tema": "panamá",
+      "fecha": "Sun, 01 Nov 2026 14:11:48 -0500",
+      "id": 12
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"Estamos muriendo y a nadie le importa\": cubanos llegan a un punto crítico con la escasez de agua",
+      "resumen": "La crisis del agua en Cuba se agrava y empuja a miles de familias a sacar a sus hijos de la escuela, perforar pozos por cuenta propia y salir a protestar, mientras las autoridades admiten que más de 2,7 millones de personas siguen sin acceso al suministro por redes.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/estamos-muriendo-y-a-nadie-le-importa-cubanos-llegan-a-un-punto-cr%c3%adtico-con-la-escasez-de-agua/483253.html",
+      "destacada": false,
+      "tema": "estamos",
+      "fecha": "Sun, 01 Nov 2026 14:05:21 -0500",
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -222,7 +183,7 @@
       "destacada": false,
       "tema": "castro",
       "fecha": "Sun, 01 Nov 2026 13:41:41 +0100",
-      "id": 17
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -235,7 +196,7 @@
       "destacada": false,
       "tema": "equipos",
       "fecha": "Sun, 01 Nov 26 13:32:00 +0100",
-      "id": 18
+      "id": 15
     },
     {
       "categoria": "energia",
@@ -248,7 +209,7 @@
       "destacada": false,
       "tema": "recuperación",
       "fecha": "Sun, 01 Nov 26 13:29:00 +0100",
-      "id": 19
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -261,7 +222,7 @@
       "destacada": false,
       "tema": "celebra",
       "fecha": "Sun, 01 Nov 26 13:23:00 +0100",
-      "id": 20
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -274,7 +235,7 @@
       "destacada": false,
       "tema": "celebran",
       "fecha": "Sun, 01 Nov 26 13:20:00 +0100",
-      "id": 21
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -287,7 +248,7 @@
       "destacada": false,
       "tema": "iglesia",
       "fecha": "Sun, 01 Nov 2026 13:00:05 +0100",
-      "id": 22
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -300,7 +261,7 @@
       "destacada": false,
       "tema": "francés",
       "fecha": "Sun, 01 Nov 2026 12:59:36 +0000",
-      "id": 23
+      "id": 20
     },
     {
       "categoria": "transporte",
@@ -313,7 +274,7 @@
       "destacada": false,
       "tema": "menos",
       "fecha": "Sun, 01 Nov 2026 12:45:57 -0500",
-      "id": 24
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -326,7 +287,7 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Sun, 01 Nov 26 12:06:00 +0100",
-      "id": 25
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -339,7 +300,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Sun, 01 Nov 2026 12:00:00 -0500",
-      "id": 26
+      "id": 23
     },
     {
       "categoria": "transporte",
@@ -352,7 +313,7 @@
       "destacada": false,
       "tema": "resistir",
       "fecha": "Sun, 01 Nov 26 11:58:00 +0100",
-      "id": 27
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -365,7 +326,7 @@
       "destacada": false,
       "tema": "gladys",
       "fecha": "Sun, 01 Nov 26 11:47:00 +0100",
-      "id": 28
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -378,7 +339,7 @@
       "destacada": false,
       "tema": "parís",
       "fecha": "Sun, 01 Nov 26 11:38:00 +0100",
-      "id": 29
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -391,7 +352,7 @@
       "destacada": false,
       "tema": "seguridad",
       "fecha": "Sun, 01 Nov 2026 11:16:20 -0500",
-      "id": 30
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -404,7 +365,7 @@
       "destacada": false,
       "tema": "entran",
       "fecha": "Sun, 01 Nov 2026 11:07:03 -0500",
-      "id": 31
+      "id": 28
     },
     {
       "categoria": "transporte",
@@ -417,7 +378,7 @@
       "destacada": false,
       "tema": "medalla",
       "fecha": "Sun, 01 Nov 2026 10:56:00 +0100",
-      "id": 32
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -430,7 +391,7 @@
       "destacada": false,
       "tema": "piden",
       "fecha": "Sun, 01 Nov 2026 09:52:49 -0500",
-      "id": 33
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -443,7 +404,20 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Sun, 01 Nov 2026 08:00:00 -0500",
-      "id": 34
+      "id": 31
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Resistencia y solidaridad contra el bloqueo",
+      "resumen": "Para familiarizarse con los efectos del bloqueo y su cerco arreciado basta con visitar un hospital. Y no es nada raro. La criminal política abre fuego, sobre todo, contra las cosas más sensibles para los cubanos",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/11/01/resistencia-y-solidaridad-contra-el-bloqueo/",
+      "destacada": false,
+      "tema": "resistencia",
+      "fecha": "Sun, 01 Nov 2026 07:17:00 +0000",
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -456,20 +430,7 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Sun, 01 Nov 2026 07:00:30 -0500",
-      "id": 35
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba Habla: \"No me alcanza para nada”",
-      "resumen": "Habanero asegura que su salario en moneda nacional le dura sólo un día y añade: \"a veces me he quedado sin comer\".",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-no-me-alcanza-para-nada/483047.html",
-      "destacada": false,
-      "tema": "habla",
-      "fecha": "Sun, 01 Nov 2026 06:00:00 -0500",
-      "id": 36
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -482,33 +443,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Sun, 01 Nov 2026 04:16:13 +0000",
-      "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba en la Memoria con el expreso político Diosmedes Cano",
-      "resumen": "Una conversación sobre la realidad cubana. La lucha, el presidio político, la denuncia internacional, el activismo pacífico en las voces de sus protagonistas.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cubmemo54diosmedes-wav/483241.html",
-      "destacada": false,
-      "tema": "memoria",
-      "fecha": "Sun, 01 Nov 2026 00:34:42 -0400",
-      "id": 38
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba en la Memoria con Eduardo Zayas-Bazán, director del Museo de la Brigada 2506(II)",
-      "resumen": "Una conversación sobre la realidad cubana. La lucha, el presidio político, la denuncia internacional, el activismo pacífico en las voces de sus protagonistas.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-en-la-memoria-zayas-2-092926-wav/483243.html",
-      "destacada": false,
-      "tema": "memoria",
-      "fecha": "Sun, 01 Nov 2026 00:00:00 -0400",
-      "id": 39
+      "id": 34
     },
     {
       "categoria": "transporte",
@@ -521,59 +456,7 @@
       "destacada": false,
       "tema": "china",
       "fecha": "Sat, 31 Oct 2026 23:01:36 +0100",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Asere, cocotaxi y otras palabras cubanas en la nueva edición del diccionario de la RAE",
-      "resumen": "Asere, cocotaxi, yuma y temba son algunos de los cubanismos que, desde este viernes, figuran en la nueva edición del Diccionario de la lengua española de la #RAE.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793475250_69653.html",
-      "destacada": false,
-      "tema": "asere",
-      "fecha": "Sat, 31 Oct 2026 20:34:10 +0100",
-      "id": 41
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Medio siglo construyendo desde el pueblo",
-      "resumen": "La constitución de las Asambleas Municipales del Poder Popular, el 31 de octubre de 1976, hace hoy 50 años, marcó un hito en la historia de la institucionalidad cubana",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261031/medio-siglo-construyendo-desde-el-pueblo/",
-      "destacada": false,
-      "tema": "medio",
-      "fecha": "Sat, 31 Oct 2026 18:22:41 +0000",
-      "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La entrega por Hapag-Lloyd de kits solares a cafetaleros desmiente las denuncias del régimen sobre el bloqueo",
-      "resumen": "Los productores del oriente del país reciben 1.000 de las 2.000 unidades previstas, financiadas en un 50% por la FAO, para apoyar a un sector en dificultades",
-      "imagen_url": "https://static.14ymedio.com/clip/a2591d11-d840-407c-98cc-b7716fba99e7_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/entrega-hapag-lloyd-kits-solares_1_1132682.html",
-      "destacada": false,
-      "tema": "entrega",
-      "fecha": "Sat, 31 Oct 2026 18:14:16 +0000",
-      "id": 43
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La columna de Fernández Era: La hora",
-      "resumen": "¿Puede el cuerpo humano adaptarse a cualquier horario por decreto? Jorge Fernández Era ironiza sobre la decisión de mantener el horario de verano en Cuba y sus efectos sobre el sueño, la salud y el rendimiento escolar.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/Sin_titulo_18_de_junio_de_2025_20_56_59_12_49362ef77d.jpeg",
-      "enlace_original": "https://eltoque.com/la-columna-de-fernandez-era-la-hora",
-      "destacada": false,
-      "tema": "columna",
-      "fecha": "Sat, 31 Oct 2026 18:08:55 GMT",
-      "id": 44
+      "id": 35
     }
   ]
 }
