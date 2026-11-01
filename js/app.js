@@ -573,7 +573,7 @@ function actualizarVotacion(id) {
   const cont = document.querySelector(`.votacion[data-id="${id}"]`);
   if (!cont) return;
   const v = cargarVotos()[id] || {};
-  const mi = v['yo'] || null;
+  const mi = v[String(id)] || null;
 
   const global = votosGlobales[String(id)] || { verificado: 0, nopuedo: 0, contradiccion: 0 };
   const total = global.verificado + global.nopuedo + global.contradiccion;
