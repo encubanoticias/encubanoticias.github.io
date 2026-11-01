@@ -527,7 +527,6 @@ function guardarVotos(v) {
 
 
 async function votar(id, tipo) {
-  // Generar una huella basada en el título de la noticia (primeras 40 letras)
   const noticia = noticias.find(n => n.enlace_original === id || encodeURIComponent(n.enlace_original) === id);
   const huella = noticia ? noticia.titulo.toLowerCase().slice(0, 40) : id;
 
@@ -577,7 +576,6 @@ async function cargarVotosGlobales() {
 }
 
 
-
 function actualizarVotacion(id) {
   const cont = document.querySelector(`.votacion[data-id="${id}"]`);
   if (!cont) return;
@@ -611,6 +609,7 @@ function actualizarVotacion(id) {
     span.textContent = `${total} total`;
   }
 }
+
 
 
 
