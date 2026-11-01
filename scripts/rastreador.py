@@ -203,7 +203,7 @@ def main():
     unicas = filtradas
 
     for i, n in enumerate(unicas):
-    n["id"] = i + 1
+        n["id"] = i + 1
     for n in unicas[:5]:
         n["destacada"] = True
 
