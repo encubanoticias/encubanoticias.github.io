@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-10-31",
-  "hora": "22:09",
-  "total": 37,
+  "fecha": "2026-11-01",
+  "hora": "01:42",
+  "total": 38,
   "noticias": [
     {
       "categoria": "sociedad",
@@ -69,19 +69,6 @@
       "id": 5
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cienfuegos con racha victoriosa ante Villa Clara en béisbol cubano",
-      "resumen": "Santa Clara, Cuba, 31 oct (Prensa Latina) El equipo Cienfuegos derrotó hoy aquí a Villa Clara ocho carreras a tres y sumó su séptima victoria al hilo ante los locales en la 65 Serie Nacional de Béisbol. The post Cienfuegos con racha victoriosa ante Villa Clara en béisbol cubano first appeared on Not",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/10/31/cienfuegos-con-racha-victoriosa-ante-villa-clara-en-beisbol-cubano/",
-      "destacada": false,
-      "tema": "cienfuegos",
-      "fecha": "Sat, 31 Oct 2026 21:55:01 +0000",
-      "id": 6
-    },
-    {
       "categoria": "economia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
@@ -92,7 +79,7 @@
       "destacada": false,
       "tema": "evite",
       "fecha": "Sat, 31 Oct 2026 14:40:09 +0000",
-      "id": 7
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -105,7 +92,7 @@
       "destacada": false,
       "tema": "entrega",
       "fecha": "Sat, 31 Oct 2026 18:14:16 +0000",
-      "id": 8
+      "id": 7
     },
     {
       "categoria": "energia",
@@ -118,7 +105,7 @@
       "destacada": false,
       "tema": "apagones",
       "fecha": "Sat, 31 Oct 2026 13:13:16 +0000",
-      "id": 9
+      "id": 8
     },
     {
       "categoria": "politica",
@@ -131,33 +118,72 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Sat, 31 Oct 2026 17:18:03 +0000",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Video de arresto de un chofer cubano por ICE desata indignación en redes",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-01-u1-e208574-s27061-nid344446-video-arresto-chofer-cubano-ice-desata-indignacion",
+      "destacada": false,
+      "tema": "video",
+      "fecha": "Sun, 01 Nov 2026 00:56:39 +0100",
       "id": 10
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Puerto Rico: Posible base de apoyo para una intervención militar de EE.UU. en Cuba, revela senador boricua",
+      "titulo": "Roban puertas, ventanas y sillas en la Facultad de Ciencias Médicas de La Habana: La Policía devuelve lo recuperado",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-10-31-u1-e208574-s27061-nid344438-puerto-rico-posible-base-apoyo-intervencion-militar",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-01-u1-e209399-s27061-nid344453-roban-puertas-ventanas-sillas-facultad-ciencias",
       "destacada": false,
-      "tema": "puerto",
-      "fecha": "Sat, 31 Oct 2026 22:33:47 +0100",
+      "tema": "roban",
+      "fecha": "Sun, 01 Nov 2026 00:22:41 +0100",
       "id": 11
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.radiocubana.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "#Podcast «A contracorriente». Capítulo 55. «El audiovisual, territorio en disputa»",
-      "resumen": "¿Cómo se construyen consensos desde el audiovisual?. ¿Mediante qué mecanismos se articula la participación de las audiencias en un sistema de televisión de servicio público como el cubano?. Estas y otras preguntas encuentran respuesta en el diálogo entre el realizador audiovisual Waldo Ramírez de la",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Luis Manuel Otero Alcántara recuerda a Maykel Osorbo en el Lincoln Memorial por el Día de los Presos Políticos cubanos",
+      "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/podcast-a-contracorriente-capitulo-55-el-audiovisual-territorio-en-disputa/",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-01-u1-e199894-s27061-nid344451-luis-manuel-otero-alcantara-recuerda-maykel-osorbo",
       "destacada": false,
-      "tema": "podcast",
-      "fecha": "Sat, 31 Oct 2026 01:03:29 +0000",
+      "tema": "manuel",
+      "fecha": "Sun, 01 Nov 2026 00:04:14 +0100",
       "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Medio siglo construyendo desde el pueblo",
+      "resumen": "La constitución de las Asambleas Municipales del Poder Popular, el 31 de octubre de 1976, hace hoy 50 años, marcó un hito en la historia de la institucionalidad cubana",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261031/medio-siglo-construyendo-desde-el-pueblo/",
+      "destacada": false,
+      "tema": "medio",
+      "fecha": "Sat, 31 Oct 2026 18:22:41 +0000",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Noche de homenaje",
+      "resumen": "En el Municipio Especial Isla de la Juventud se celebró una gala por el aniversario 50 de los órganos del Poder Popular, donde la cubanía encontró en el arte su mejor manera de expresarse",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261031/noche-de-homenaje/",
+      "destacada": false,
+      "tema": "noche",
+      "fecha": "Sat, 31 Oct 2026 12:40:13 +0000",
+      "id": 14
     },
     {
       "categoria": "transporte",
@@ -170,7 +196,7 @@
       "destacada": false,
       "tema": "china",
       "fecha": "Sat, 31 Oct 2026 23:01:36 +0100",
-      "id": 13
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -183,7 +209,7 @@
       "destacada": false,
       "tema": "asere",
       "fecha": "Sat, 31 Oct 2026 20:34:10 +0100",
-      "id": 14
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -196,7 +222,7 @@
       "destacada": false,
       "tema": "agresiones",
       "fecha": "Sat, 31 Oct 2026 19:05:13 +0100",
-      "id": 15
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -209,7 +235,7 @@
       "destacada": false,
       "tema": "sueñan",
       "fecha": "Sat, 31 Oct 2026 18:02:03 +0100",
-      "id": 16
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -222,7 +248,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Sat, 31 Oct 2026 17:00:22 +0100",
-      "id": 17
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -235,7 +261,7 @@
       "destacada": false,
       "tema": "circulación",
       "fecha": "Sat, 31 Oct 2026 16:01:01 +0100",
-      "id": 18
+      "id": 20
     },
     {
       "categoria": "transporte",
@@ -248,7 +274,7 @@
       "destacada": false,
       "tema": "markus",
       "fecha": "Sat, 31 Oct 2026 15:30:42 +0100",
-      "id": 19
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -261,7 +287,7 @@
       "destacada": false,
       "tema": "washington",
       "fecha": "Sat, 31 Oct 2026 13:18:50 +0100",
-      "id": 20
+      "id": 22
     },
     {
       "categoria": "energia",
@@ -274,7 +300,20 @@
       "destacada": false,
       "tema": "sobrevivir",
       "fecha": "Sat, 31 Oct 2026 13:01:11 +0100",
-      "id": 21
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Postmoderno",
+      "resumen": "El cineasta cubanoamericano Joe Cardona y sus invitados rompen los muros culturales que han aislado a Cuba por mucho tiempo y tienden un puente musical para conocer la música que una vez fue censurada, prohibida y descartada.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/482227.html",
+      "destacada": false,
+      "tema": "postmoderno",
+      "fecha": "Sat, 31 Oct 2026 20:00:00 -0400",
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -287,45 +326,6 @@
       "destacada": false,
       "tema": "oposición",
       "fecha": "Sat, 31 Oct 2026 17:00:00 -0400",
-      "id": 22
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Periodista Jorge Bello vuelve a prisión sin atención médica: lleva más de un año esperando cirugía",
-      "resumen": "El preso político y periodista independiente cubano Jorge Bello Domínguez sigue sin recibir la atención médica que necesita en la prisión de máxima seguridad de Guanajay, pese a que tiene pendiente una cirugía desde hace más de un año y a que su familia denuncia un deterioro constante de su salud.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/periodista-jorge-bello-vuelve-a-prisi%c3%b3n-sin-atenci%c3%b3n-m%c3%a9dica-lleva-m%c3%a1s-de-un-a%c3%b1o-esperando-cirug%c3%ada/483238.html",
-      "destacada": false,
-      "tema": "periodista",
-      "fecha": "Sat, 31 Oct 2026 16:03:25 -0400",
-      "id": 23
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cacerolazos y bloqueo de avenidas en La Habana por apagones de hasta 72 horas y meses sin agua",
-      "resumen": "Residentes de varias zonas de La Habana protestaron este viernes tras sufrir apagones de más de 60 horas y una severa escasez de agua potable, en medio de la creciente afectación de servicios básicos en distintos municipios de la capital cubana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cacerolazos-y-bloqueo-de-avenidas-en-la-habana-por-apagones-de-hasta-72-horas-y-meses-sin-agua/483236.html",
-      "destacada": false,
-      "tema": "apagones",
-      "fecha": "Sat, 31 Oct 2026 15:43:21 -0400",
-      "id": 24
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba en la Memoria con el expreso político Evaristo Sotolongo(II)",
-      "resumen": "Una conversación sobre la realidad cubana. La lucha, el presidio político, la denuncia internacional, el activismo pacífico en las voces de sus protagonistas.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cubmem53_evaristo2-081126-wav/483240.html",
-      "destacada": false,
-      "tema": "memoria",
-      "fecha": "Sat, 31 Oct 2026 15:23:28 -0400",
       "id": 25
     },
     {
@@ -421,6 +421,19 @@
     },
     {
       "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Correos de Cuba evalúa funcionamiento en unidades del sector en La Habana",
+      "resumen": "Estas acciones de control integral reafirman la voluntad de Correos de Cuba de perfeccionar su gestión, aprovechar las potencialidades de cada unidad y promover soluciones que contribuyan a la sostenibilidad económica de la organización y al bienestar de sus trabajadores La entrada Correos de Cuba e",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/correos-de-cuba-evalua-funcionamiento-en-unidades-del-sector-en-la-habana/",
+      "destacada": false,
+      "tema": "correos",
+      "fecha": "Sat, 31 Oct 2026 19:23:15 +0000",
+      "id": 33
+    },
+    {
+      "categoria": "sociedad",
       "fuente": "https://giron.cu/",
       "fuente_tipo": "alternativa",
       "titulo": "Cuba: Medio siglo de Poder Popular",
@@ -430,7 +443,7 @@
       "destacada": false,
       "tema": "medio",
       "fecha": "Sat, 31 Oct 2026 13:23:31 +0000",
-      "id": 33
+      "id": 34
     },
     {
       "categoria": "politica",
@@ -443,7 +456,7 @@
       "destacada": false,
       "tema": "huellas",
       "fecha": "Sat, 31 Oct 2026 12:50:00 +0000",
-      "id": 34
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -456,7 +469,7 @@
       "destacada": false,
       "tema": "ciudad",
       "fecha": "Sat, 31 Oct 2026 12:25:51 +0000",
-      "id": 35
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -469,7 +482,7 @@
       "destacada": false,
       "tema": "partida",
       "fecha": "Sat, 31 Oct 2026 08:40:00 +0000",
-      "id": 36
+      "id": 37
     },
     {
       "categoria": "salud",
@@ -482,7 +495,7 @@
       "destacada": false,
       "tema": "columna",
       "fecha": "Sat, 31 Oct 2026 18:08:55 GMT",
-      "id": 37
+      "id": 38
     }
   ]
 }
