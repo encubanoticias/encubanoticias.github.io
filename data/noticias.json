@@ -1,33 +1,267 @@
 {
   "fecha": "2026-11-02",
-  "hora": "03:37",
-  "total": 45,
+  "hora": "11:52",
+  "total": 42,
   "noticias": [
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cubanos residentes en Argentina celebran su cultura",
-      "resumen": "Buenos Aires, 1 nov (Prensa Latina) La Casa de la Amistad Argentino-Cubana se llenó hoy de alegre ambiente de pura cubanía cuando cubanos residentes en este país celebraron sus raíces culturales en un encuentro confraternización y profundo sentido patrio. The post Cubanos residentes en Argentina cel",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Hasta cinco años de cárcel por protestar por comida, corriente y agua en Bayamo",
+      "resumen": "La Fiscalía pide para nueve manifestantes cubanos de una protesta en mayo de 2025 en Bayamo hasta cinco años de privación de libertad. Familiares rechazan los cargos imputados por reclamar servicios básicos.",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/01/cubanos-residentes-en-argentina-celebran-su-cultura/",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1793618599_69667.html",
       "destacada": true,
-      "tema": "cubanos",
-      "fecha": "Mon, 02 Nov 2026 04:00:41 +0000",
+      "tema": "cinco",
+      "fecha": "Mon, 02 Nov 2026 12:23:19 +0100",
       "id": 1
     },
     {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El euro roza los mil pesos en Cuba y el dólar alcanza los 895 pesos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-02-u1-e135253-s27061-nid344546-euro-roza-mil-pesos-cuba-dolar-alcanza-895",
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Así fue el XVIII Encuentro de Cubanas y Cubanas Residentes en Europa: un fotorreportaje de Dignorah Laza Herrera (Álbum actualizado, 138 fotografías)",
+      "resumen": "A continuación, les ofrecemos este fotorreportaje en blanco y negro, de la fotógrafa Dignorah Laza H...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125790-asi-fue-el-xviii-encuentro-de-cubanas-y-cubanas-residentes-en-europa-un-fotorreportaje-de-dignorah-laza-herrera-album-actualizado-138-fotografias.jpg?t=1793337914",
+      "enlace_original": "https://www.cubainformacion.tv/emigracion/20261102/125790/125790-asi-fue-el-xviii-encuentro-de-cubanas-y-cubanas-residentes-en-europa-un-fotorreportaje-de-dignorah-laza-herrera-album-actualizado-138-fotografias",
       "destacada": true,
       "tema": "tipo_cambio",
-      "fecha": "Mon, 02 Nov 2026 02:33:16 +0100",
+      "fecha": "Mon, 02 Nov 26 12:00:00 +0100",
       "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Arroz jazmín, de grano largo o parbolizado: cuál comprar en EE. UU. para preparar congrí cubano",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-02-u1-e13-s32479-nid344557-arroz-jazmin-grano-largo-parbolizado-cual-comprar-ee-uu",
+      "destacada": true,
+      "tema": "arroz",
+      "fecha": "Mon, 02 Nov 2026 11:51:53 +0100",
+      "id": 3
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Francia amanece con 41 liceos bloqueados por estudiantes",
+      "resumen": "París, 2 nov (Prensa Latina) Pese al llamado del presidente Emmanuel Macron de volver a las aulas, Francia amaneció con el bloqueo por estudiantes de 41 establecimientos, pero sin afectaciones al curso docente en dos tercios de sus departamentos. The post Francia amanece con 41 liceos bloqueados por",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/02/francia-amanece-con-41-liceos-bloqueados-por-estudiantes/",
+      "destacada": true,
+      "tema": "francia",
+      "fecha": "Mon, 02 Nov 2026 11:20:29 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Fernández de Cossío admite que el régimen tiene 'mucha responsabilidad' en la crisis cubana",
+      "resumen": "El viceministro de Exteriores de #Cuba dice que pudieron tomar mejores decisiones, pero vuelve a responsabilizar a Washington de la crisis y esquiva una pregunta sobre reformas políticas.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793614220_69666.html",
+      "destacada": true,
+      "tema": "fernández",
+      "fecha": "Mon, 02 Nov 2026 11:10:20 +0100",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Una cubana en el incendio de Ávila: “Si el fuego avanza, no tendremos a dónde ir”",
+      "resumen": "El 22 de julio de 2026, una chispa de maquinaria pesada en Burgohondo (Ávila) inició uno de los mayores incendios forestales registrados en España: cerca de 38 000 hectáreas afectadas, miles de evacuados y la primera declaración de emergencia de interés nacional por un fuego en el país. El incendio ",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/Portada_4_720469a46d.jpeg",
+      "enlace_original": "https://eltoque.com/una-cubana-en-el-incendio-de-avila-si-el-fuego-avanza-no-tendremos-adonde-irnbsp",
+      "destacada": false,
+      "tema": "cubana",
+      "fecha": "Mon, 02 Nov 2026 11:04:27 GMT",
+      "id": 6
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Sodepaz abre campaña urgente para recaudar 6.000 euros y enviar 20 toneladas de alimentos a comedores sociales de La Habana",
+      "resumen": "Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125841-sodepaz-abre-campana-urgente-para-recaudar-6-000-euros-y-enviar-20-toneladas-de-alimentos-a-comedores-sociales-de-la-habana.jpg?t=1793605518",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261102/125841/125841-sodepaz-abre-campana-urgente-para-recaudar-6-000-euros-y-enviar-20-toneladas-de-alimentos-a-comedores-sociales-de-la-habana",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Mon, 02 Nov 26 08:40:00 +0100",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba la bota de jonrón. Marco Rubio se ponchó",
+      "resumen": "El Titan de #Cuba",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125837-cuba-la-bota-de-jonron-marco-rubio-se-poncho.jpg?t=1793604798",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261102/125837/125837-cuba-la-bota-de-jonron-marco-rubio-se-poncho",
+      "destacada": false,
+      "tema": "jonrón",
+      "fecha": "Mon, 02 Nov 26 08:33:00 +0100",
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Casi en elecciones, explotan republicanos contra mediocridad de Marco Rubio y socios en tema Cuba",
+      "resumen": "Guerrero Cubano con su verdad al desnudo",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125835-casi-en-elecciones-explotan-republicanos-contra-mediocridad-de-marco-rubio-y-socios-en-tema-cuba.jpg?t=1793604713",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261102/125835/125835-casi-en-elecciones-explotan-republicanos-contra-mediocridad-de-marco-rubio-y-socios-en-tema-cuba",
+      "destacada": false,
+      "tema": "elecciones",
+      "fecha": "Mon, 02 Nov 26 08:31:00 +0100",
+      "id": 9
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El Gobierno cubano admite el desastre sanitario, pero se aferra a que no ha cerrado hospitales",
+      "resumen": "Faltan medicamentos, reactivos y equipos; fallan ascensores, calderas y el suministro de agua en el sistema de Salud de #Cuba, y el ministro habla de \"justas insatisfacciones\".",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793604373_69665.html",
+      "destacada": false,
+      "tema": "gobierno",
+      "fecha": "Mon, 02 Nov 2026 08:26:13 +0100",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "EE. UU. presionó a Exteriores para que España dejara de condenar el bloqueo a Cuba en la ONU",
+      "resumen": "Una delegación estadounidense llevó al Ministerio de Asuntos Exteriores un argumentario contra la re...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125834-ee-uu-presiono-a-exteriores-para-que-espana-dejara-de-condenar-el-bloqueo-a-cuba-en-la-onu.jpg?t=1793602768",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261102/125834/125834-ee-uu-presiono-a-exteriores-para-que-espana-dejara-de-condenar-el-bloqueo-a-cuba-en-la-onu",
+      "destacada": false,
+      "tema": "presionó",
+      "fecha": "Mon, 02 Nov 26 07:57:00 +0100",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba 130, el chantaje 17",
+      "resumen": "María Teresa Felipe Sosa Diario Red María Teresa Felipe Sosa (La Habana) es licenciada en Historia d...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125832-cuba-130-el-chantaje-17.jpg?t=1793602556",
+      "enlace_original": "https://www.cubainformacion.tv/opinion/20261102/125832/125832-cuba-130-el-chantaje-17",
+      "destacada": false,
+      "tema": "chantaje",
+      "fecha": "Mon, 02 Nov 26 07:54:00 +0100",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "¿Pierde Trump la Cámara y el Senado? ¿El voto cubano qué decide?",
+      "resumen": "Almaplustv.- ¿Pierde Trump el Congreso el 3 de noviembre? Entrevista exclusiva sobre elecciones Esta...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125831-pierde-trump-la-camara-y-el-senado-el-voto-cubano-que-decide.jpg?t=1793602320",
+      "enlace_original": "https://www.cubainformacion.tv/opinion/20261102/125831/125831-pierde-trump-la-camara-y-el-senado-el-voto-cubano-que-decide",
+      "destacada": false,
+      "tema": "pierde",
+      "fecha": "Mon, 02 Nov 26 07:49:00 +0100",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba Habla: \"Veo a la gente comiendo hasta en la basura”",
+      "resumen": "Desde La Habana, ciudadano afirma que a veces puede comer una vez al día y agrega: \"y malo\".",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-veo-a-la-gente-comiendo-hasta-en-la-basura/483048.html",
+      "destacada": false,
+      "tema": "habla",
+      "fecha": "Mon, 02 Nov 2026 06:00:00 -0500",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Dani Hernández: “Si no hubiese sido por ese primero de enero del 59, tal vez hoy no estuvieras hablando conmigo”",
+      "resumen": "Fernando Alonso formó a Dani desde la Escuela; Alicia lo hizo desde el Ballet Nacional. Ahora es el Primer Bailarín de Remedios, y de Cuba, quien tiene a su vez el gran desafío de preparar a las nuevas generaciones para que puedan preservar y continuar esa identidad de nuestra cultura nacional forja",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/02/dani-hernandez-si-no-hubiese-sido-por-ese-primero-de-enero-del-59-tal-vez-hoy-no-estuvieras-hablando-conmigo/",
+      "destacada": false,
+      "tema": "hernández",
+      "fecha": "Mon, 02 Nov 2026 05:35:31 +0000",
+      "id": 15
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Vicecanciller cubano admite ante CBS que el Gobierno tiene «mucha responsabilidad» en la crisis",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-02-u1-e135253-s27061-nid344551-vicecanciller-cubano-admite-cbs-gobierno-tiene-mucha",
+      "destacada": false,
+      "tema": "vicecanciller",
+      "fecha": "Mon, 02 Nov 2026 05:26:12 +0100",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "¿Se quedaron rezagadas las cooperativas en Cuba?",
+      "resumen": "Hoy vamos a conversar a propósito de esas transformaciones económicas y sociales que están enfocadas a recuperar y transformar el cooperativismo. Y la pregunta se impone, ¿se habrán quedado rezagadas nuestras cooperativas en Cuba? Si a usted le cuadra el tema, acompáñanos. The post ¿Se quedaron reza",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/02/se-quedaron-rezagadas-las-cooperativas-en-cuba/",
+      "destacada": false,
+      "tema": "quedaron",
+      "fecha": "Mon, 02 Nov 2026 05:05:33 +0000",
+      "id": 17
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Un médico cubano gana más vendiendo comida que dirigiendo una UCI, revela CBS",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-02-u1-e135253-s27061-nid344550-medico-cubano-gana-vendiendo-comida-dirigiendo-uci",
+      "destacada": false,
+      "tema": "médico",
+      "fecha": "Mon, 02 Nov 2026 05:01:17 +0100",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Profesor cubano sobre pipas de agua particulares: «Cuando el Estado falla en la garantía de un derecho...»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-02-u1-e209395-s27061-nid344524-profesor-cubano-pipas-agua-particulares-cuando",
+      "destacada": false,
+      "tema": "profesor",
+      "fecha": "Mon, 02 Nov 2026 05:01:02 +0100",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Un día como hoy en la vida y obra de Fidel. 2 de noviembre",
+      "resumen": "&#8211; 2 de noviembre del 2001. Fidel comparece en la Televisión Cubana y trata sobre la situación internacional, la crisis económica y mundial y la forma en que puede afectar a Cuba. Detalla: &#160; “… a mediados de la década del 90, cuando la globalización neoliberal se extendía por todo el plane",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/un-dia-como-hoy-en-la-vida-y-obra-de-fidel/un-dia-como-hoy-en-la-vida-y-obra-de-fidel-2-de-noviembre-2/",
+      "destacada": false,
+      "tema": "fidel",
+      "fecha": "Mon, 02 Nov 2026 04:47:34 +0000",
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -37,23 +271,10 @@
       "resumen": "Tras la victoria de Cuba en Naciones Unidas por trigésima cuarta ocasión, muchas ideas y argumentos sobre la necesidad de poner fin al bloqueo económico, comercial, financiero y energético salieron de nuevo al debate",
       "imagen_url": "",
       "enlace_original": "https://www.trabajadores.cu/20261101/esta-es-la-verdad/",
-      "destacada": true,
+      "destacada": false,
       "tema": "verdad",
       "fecha": "Mon, 02 Nov 2026 02:07:19 +0000",
-      "id": 3
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Portal Miranda admite fallos graves en hospitales cubanos, pero asegura que no ha cerrado ninguna institución",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-02-u1-e135253-s27061-nid344544-portal-miranda-admite-fallos-graves-hospitales",
-      "destacada": true,
-      "tema": "portal",
-      "fecha": "Mon, 02 Nov 2026 02:06:18 +0100",
-      "id": 4
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -63,23 +284,10 @@
       "resumen": "Cinco décadas después de su constitución, las Asambleas Municipales del Poder Popular continúan siendo un pilar de la democracia cubana, fortalecida en la actualidad por proyectos comunitarios como Mi Barrio por la Patria",
       "imagen_url": "",
       "enlace_original": "https://www.trabajadores.cu/20261101/democracia/",
-      "destacada": true,
+      "destacada": false,
       "tema": "democracia",
       "fecha": "Mon, 02 Nov 2026 01:47:33 +0000",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Orlando Cruzata denuncia desinterés de la televisión cubana hacia Gala de Nominados Premios Lucas 2026",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-02-u1-e209395-s27061-nid344526-orlando-cruzata-denuncia-desinteres-television",
-      "destacada": false,
-      "tema": "orlando",
-      "fecha": "Mon, 02 Nov 2026 01:21:35 +0100",
-      "id": 6
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -92,20 +300,7 @@
       "destacada": false,
       "tema": "principios",
       "fecha": "Mon, 02 Nov 2026 01:16:09 +0000",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«No votamos en contra, nos abstuvimos»: Jamaica rechaza acusación de «traición» por Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-02-u1-e208933-s27061-nid344541-votamos-contra-nos-abstuvimos-jamaica-rechaza",
-      "destacada": false,
-      "tema": "votamos",
-      "fecha": "Mon, 02 Nov 2026 00:54:56 +0100",
-      "id": 8
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -118,7 +313,7 @@
       "destacada": false,
       "tema": "reclamo",
       "fecha": "Sun, 01 Nov 2026 23:11:53 +0100",
-      "id": 9
+      "id": 24
     },
     {
       "categoria": "energia",
@@ -131,7 +326,7 @@
       "destacada": false,
       "tema": "banco",
       "fecha": "Sun, 01 Nov 2026 22:57:20 +0000",
-      "id": 10
+      "id": 25
     },
     {
       "categoria": "transporte",
@@ -144,7 +339,7 @@
       "destacada": false,
       "tema": "triciclos",
       "fecha": "Sun, 01 Nov 2026 22:03:11 +0000",
-      "id": 11
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -157,20 +352,7 @@
       "destacada": false,
       "tema": "entran",
       "fecha": "Sun, 01 Nov 2026 20:43:20 +0100",
-      "id": 12
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Resistencia y solidaridad contra el bloqueo",
-      "resumen": "Para familiarizarse con los efectos del bloqueo y su cerco arreciado basta con visitar un hospital. Y no es nada raro. La criminal política abre fuego, sobre todo, contra las cosas más sensibles para los cubanos",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/11/01/resistencia-y-solidaridad-contra-el-bloqueo/",
-      "destacada": false,
-      "tema": "resistencia",
-      "fecha": "Sun, 01 Nov 2026 20:06:50 +0000",
-      "id": 13
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -183,7 +365,7 @@
       "destacada": false,
       "tema": "manera",
       "fecha": "Sun, 01 Nov 2026 20:05:43 +0000",
-      "id": 14
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -196,7 +378,7 @@
       "destacada": false,
       "tema": "delegado",
       "fecha": "Sun, 01 Nov 2026 19:44:04 +0000",
-      "id": 15
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -209,7 +391,7 @@
       "destacada": false,
       "tema": "condenan",
       "fecha": "Sun, 01 Nov 2026 18:57:08 +0000",
-      "id": 16
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -222,7 +404,7 @@
       "destacada": false,
       "tema": "tomar",
       "fecha": "Sun, 01 Nov 2026 18:41:16 +0100",
-      "id": 17
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -235,7 +417,7 @@
       "destacada": false,
       "tema": "dictadura",
       "fecha": "Sun, 01 Nov 2026 18:18:57 +0100",
-      "id": 18
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -248,7 +430,7 @@
       "destacada": false,
       "tema": "estilo",
       "fecha": "Sun, 01 Nov 2026 17:59:47 +0100",
-      "id": 19
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -261,7 +443,7 @@
       "destacada": false,
       "tema": "presentan",
       "fecha": "Sun, 01 Nov 2026 16:53:40 +0000",
-      "id": 20
+      "id": 34
     },
     {
       "categoria": "energia",
@@ -274,7 +456,7 @@
       "destacada": false,
       "tema": "teléfonos",
       "fecha": "Sun, 01 Nov 2026 16:20:17 +0000",
-      "id": 21
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -287,7 +469,7 @@
       "destacada": false,
       "tema": "reprime",
       "fecha": "Sun, 01 Nov 2026 16:04:20 +0100",
-      "id": 22
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -300,20 +482,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Sun, 01 Nov 2026 15:24:12 -0500",
-      "id": 23
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Lo que esconde el cartel de la embajada estadounidense",
-      "resumen": "La embajada de Estados Unidos en La Habana ha colgado un cartel en la fachada de su sede. El letrero dice “Freedom 250”, queriendo decir libertad y aparentemente haciendo referencia al aniversario de la Declaración de Independencia de ese país, aprobada en 1776, hace 250 años. The post Lo que escond",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/01/lo-que-esconde-el-cartel-de-la-embajada-estadounidense/",
-      "destacada": false,
-      "tema": "esconde",
-      "fecha": "Sun, 01 Nov 2026 14:51:45 +0000",
-      "id": 24
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -326,7 +495,7 @@
       "destacada": false,
       "tema": "panamá",
       "fecha": "Sun, 01 Nov 2026 14:11:48 -0500",
-      "id": 25
+      "id": 38
     },
     {
       "categoria": "politica",
@@ -339,85 +508,7 @@
       "destacada": false,
       "tema": "estamos",
       "fecha": "Sun, 01 Nov 2026 14:05:21 -0500",
-      "id": 26
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Con Raúl Castro imputado, el régimen traduce sus discursos al vietnamita y los presenta en Hanoi",
-      "resumen": "Mientras #RaúlCastro se enfrenta a una orden de arresto dictada en #Florida, el régimen despliega una campaña propagandística y presenta en #Hanoi un libro con sus discursos traducidos al vietnamita.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793536901_69657.html",
-      "destacada": false,
-      "tema": "castro",
-      "fecha": "Sun, 01 Nov 2026 13:41:41 +0100",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Equipos eléctricos apoyarán servicios sanitarios y asistenciales en Cuba",
-      "resumen": "Vídeo: Canal Caribe - Transmed, empresa estatal encargada de la movilidad de profesionales de la Sal...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125821-equipos-electricos-apoyaran-servicios-sanitarios-y-asistenciales-en-cuba.jpg?t=1793536557",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261101/125821/125821-equipos-electricos-apoyaran-servicios-sanitarios-y-asistenciales-en-cuba",
-      "destacada": false,
-      "tema": "equipos",
-      "fecha": "Sun, 01 Nov 26 13:32:00 +0100",
-      "id": 28
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Recuperación de transformadores eléctricos en Holguín",
-      "resumen": "Canañ Carible - A los prolongados apagones en Cuba se suman las averías de transformadores eléctric...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125820-recuperacion-de-transformadores-electricos-en-holguin.jpg?t=1793536304",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261101/125820/125820-recuperacion-de-transformadores-electricos-en-holguin",
-      "destacada": false,
-      "tema": "recuperación",
-      "fecha": "Sun, 01 Nov 26 13:29:00 +0100",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba celebra aniversario de órganos locales del Poder Popular",
-      "resumen": "Prensa Latina - Vídeos: Canal Caribe - En el encuentro los líderes comunitarios compartieron sus exp...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125819-cuba-celebra-aniversario-de-organos-locales-del-poder-popular.jpg?t=1793535890",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261101/125819/125819-cuba-celebra-aniversario-de-organos-locales-del-poder-popular",
-      "destacada": false,
-      "tema": "celebra",
-      "fecha": "Sun, 01 Nov 26 13:23:00 +0100",
-      "id": 30
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Celebran en Brasil victoria de Cuba en ONU y rechazan bloqueo",
-      "resumen": "Prensa Latina - Imagen: Diony Sanabia - Cubanos residentes, diplomáticos y amigos de la solidaridad ...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125818-celebran-en-brasil-victoria-de-cuba-en-onu-y-rechazan-bloqueo.jpg?t=1793535757",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261101/125818/125818-celebran-en-brasil-victoria-de-cuba-en-onu-y-rechazan-bloqueo",
-      "destacada": false,
-      "tema": "celebran",
-      "fecha": "Sun, 01 Nov 26 13:20:00 +0100",
-      "id": 31
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Iglesia de San Francisco de Asís: restauración como lectura de la historia (II)",
-      "resumen": "Como institución cultural y espacio patrimonial, San Francisco de Así ha ganado una nueva arista como referente del #barroco cubano y de la relevancia de la orden franciscana en #Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cultura/1793534405_69633.html",
-      "destacada": false,
-      "tema": "iglesia",
-      "fecha": "Sun, 01 Nov 2026 13:00:05 +0100",
-      "id": 32
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -430,7 +521,7 @@
       "destacada": false,
       "tema": "francés",
       "fecha": "Sun, 01 Nov 2026 12:59:36 +0000",
-      "id": 33
+      "id": 40
     },
     {
       "categoria": "transporte",
@@ -443,20 +534,7 @@
       "destacada": false,
       "tema": "menos",
       "fecha": "Sun, 01 Nov 2026 12:45:57 -0500",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "La solidaridad vasca abraza a Cuba en Lezama frente al criminal bloqueo de EE. UU. (+Fotos)",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125816-la-solidaridad-vasca-abraza-a-cuba-en-lezama-frente-al-criminal-bloqueo-de-ee-uu-fotos.jpg?t=1793531527",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261101/125816/125816-la-solidaridad-vasca-abraza-a-cuba-en-lezama-frente-al-criminal-bloqueo-de-ee-uu-fotos",
-      "destacada": false,
-      "tema": "solidaridad",
-      "fecha": "Sun, 01 Nov 26 12:06:00 +0100",
-      "id": 35
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -469,124 +547,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Sun, 01 Nov 2026 12:00:00 -0500",
-      "id": 36
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "&quot;Resistir es vivir y vencer… y seguir soñando&quot;: carta de Rodrigo Silva Vial, pintor chileno radicado en Cuba",
-      "resumen": "Rodrigo Silva Vial, pintor chileno radicado en Cuba....",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125815-resistir-es-vivir-y-vencer-y-seguir-sonando-carta-de-rodrigo-silva-vial-pintor-chileno-radicado-en-cuba.jpg?t=1793530817",
-      "enlace_original": "https://www.cubainformacion.tv/opinion/20261101/125815/125815-resistir-es-vivir-y-vencer-y-seguir-sonando-carta-de-rodrigo-silva-vial-pintor-chileno-radicado-en-cuba",
-      "destacada": false,
-      "tema": "resistir",
-      "fecha": "Sun, 01 Nov 26 11:58:00 +0100",
-      "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Gladys Bejerano, excontralora de Cuba, responde a Mike Waltz: &quot;Es un tergiversador, un mentiroso consumado, un cobarde&quot;",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125814-gladys-bejerano-excontralora-de-cuba-responde-a-mike-waltz-es-un-tergiversador-un-mentiroso-consumado-un-cobarde.jpg?t=1793530453",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261101/125814/125814-gladys-bejerano-excontralora-de-cuba-responde-a-mike-waltz-es-un-tergiversador-un-mentiroso-consumado-un-cobarde",
-      "destacada": false,
-      "tema": "gladys",
-      "fecha": "Sun, 01 Nov 26 11:47:00 +0100",
-      "id": 38
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Desde París: Dimensión Cultural, Identidad y cubanía en el corazón del ECRE",
-      "resumen": "Tomado del FB de Ileana Jiménez",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125813-desde-paris-dimension-cultural-identidad-y-cubania-en-el-corazon-del-ecre.jpg?t=1793529650",
-      "enlace_original": "https://www.cubainformacion.tv/emigracion/20261101/125813/125813-desde-paris-dimension-cultural-identidad-y-cubania-en-el-corazon-del-ecre",
-      "destacada": false,
-      "tema": "parís",
-      "fecha": "Sun, 01 Nov 26 11:38:00 +0100",
-      "id": 39
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Seguridad del Estado amenaza con cárcel a nueve personas relacionadas con el medio comunitario Páginas Villareñas",
-      "resumen": "Entre los meses de abril y octubre de este año, al menos nueve personas interesadas con el proyecto informativo Páginas Villareñas, patrocinado por el Instituto Cubano por la Libertad de Expresión y la Prensa (ICLEP), han sido intimidadas por agentes de la policía política.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/seguridad-del-estado-amenaza-con-c%c3%a1rcel-a-nueve-personas-relacionadas-con-el-medio-comunitario-p%c3%a1ginas-villare%c3%b1as/483252.html",
-      "destacada": false,
-      "tema": "seguridad",
-      "fecha": "Sun, 01 Nov 2026 11:16:20 -0500",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Entran en vigor en Cuba las nuevas leyes de Migración, Ciudadanía y Extranjería: ¿qué cambia y qué no?",
-      "resumen": "Organizaciones defensoras de los derechos humanos y activistas de la sociedad civil independiente señalan que aunque las nuevas normas flexibilizan algunos aspectos administrativos, institucionalizan el control político, restringen derechos fundamentales y aumentan la desprotección de los ciudadanos",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/entran-en-vigor-en-cuba-las-nuevas-leyes-de-migraci%c3%b3n-ciudadan%c3%ada-y-extranjer%c3%ada-qu%c3%a9-cambia-y-qu%c3%a9-no/483250.html",
-      "destacada": false,
-      "tema": "entran",
-      "fecha": "Sun, 01 Nov 2026 11:07:03 -0500",
-      "id": 41
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Una medalla de bronce: la pobre actuación de Cuba en el Campeonato Mundial de Lucha",
-      "resumen": "#Cuba cierra su actuación el Campeonato Mundial de #Lucha con apenas una medalla de bronce, conseguida por Luis Orta. De los nueve atletas enviados, ningún otro pudo avanzar a las rondas finales.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/deportes/1793526960_69655.html",
-      "destacada": false,
-      "tema": "medalla",
-      "fecha": "Sun, 01 Nov 2026 10:56:00 +0100",
       "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Piden hasta cinco años de prisión para manifestantes que exigieron \"corriente y comida\" en Bayamo",
-      "resumen": "El descontento popular por el colapso de los servicios básicos en Cuba vuelve a chocar de frente con el peso de la ley penal. Las peticiónes fiscales contra los manifestantes del 23 de mayo de 2025 en Bayamo, ponen sobre la mesa una vez más la criminalización de la protesta social en la isla.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/piden-hasta-cinco-a%c3%b1os-de-prisi%c3%b3n-para-manifestantes-de-bayamo/483248.html",
-      "destacada": false,
-      "tema": "piden",
-      "fecha": "Sun, 01 Nov 2026 09:52:49 -0500",
-      "id": 43
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El Cubano y su Fe",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482242.html",
-      "destacada": false,
-      "tema": "cubano",
-      "fecha": "Sun, 01 Nov 2026 08:00:00 -0500",
-      "id": 44
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.radiocubana.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Un día como hoy en la vida y obra de Fidel. 1 de noviembre",
-      "resumen": "&#8211; 1 de noviembre de 1962. Fidel comparece ante la televisión para informar al pueblo sobre su entrevista en con el Secretario General de la Organización de Naciones Unidas, U Thant, de visita en La Habana con el objetivo de tratar sobre la Crisis de Octubre. Fidel señala que Cuba está dispuest",
-      "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/un-dia-como-hoy-en-la-vida-y-obra-de-fidel/un-dia-como-hoy-en-la-vida-y-obra-de-fidel-1-de-noviembre/",
-      "destacada": false,
-      "tema": "fidel",
-      "fecha": "Sun, 01 Nov 2026 04:16:13 +0000",
-      "id": 45
     }
   ]
 }
