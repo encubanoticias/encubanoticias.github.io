@@ -1,8 +1,125 @@
 {
   "fecha": "2026-11-03",
-  "hora": "17:18",
-  "total": 63,
+  "hora": "18:52",
+  "total": 59,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Meliá mantiene sus 34 hoteles de Cuba como 'operación interrumpida', con pérdidas millonarias",
+      "resumen": "34 hoteles y 14.053 habitaciones perdidas en #Cuba: la hotelera #Meliá sigue arrastrando pérdidas por el cierre de sus negocios en la Isla.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1793731426_69685.html",
+      "destacada": true,
+      "tema": "meliá",
+      "fecha": "Tue, 03 Nov 2026 19:43:46 +0100",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Festival de Cine Europeo en Cuba llegará también a las provincias",
+      "resumen": "La Habana, 3 nov (Prensa Latina) Con 18 filmes y 16 naciones participantes llegará la novena edición del Festival de Cine Europeo a esta capital y, por primera vez, a otras seis provincias de Cuba, del 5 al 15 de noviembre. The post Festival de Cine Europeo en Cuba llegará también a las provincias f",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/03/festival-de-cine-europeo-en-cuba-llegara-tambien-a-las-provincias/",
+      "destacada": true,
+      "tema": "tipo_cambio",
+      "fecha": "Tue, 03 Nov 2026 19:33:39 +0000",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Encuesta de FIU revela la diversidad de opiniones de los cubanoamericanos de Miami sobre la política hacia Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e207888-s27061-nid344672-encuesta-fiu-revela-diversidad-opiniones",
+      "destacada": true,
+      "tema": "encuesta",
+      "fecha": "Tue, 03 Nov 2026 19:13:46 +0100",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El castrismo, sin evaluaciones de impacto de sus medidas económicas",
+      "resumen": "#Cuba: Las autoridades aplican un paquete de medidas sin calibrar las repercusiones sobre los sectores más vulnerables de la sociedad.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1793728128_69684.html",
+      "destacada": true,
+      "tema": "castrismo",
+      "fecha": "Tue, 03 Nov 2026 18:48:48 +0100",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Tres cubanos condenados a 15, 14 y 8 años de cárcel por robos de aceite de transformadores en Matanzas",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e135253-s27061-nid344697-tres-cubanos-condenados-15-14-8-anos-carcel-robos",
+      "destacada": true,
+      "tema": "cubanos",
+      "fecha": "Tue, 03 Nov 2026 18:47:55 +0100",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¡La Cintumbare se reinventa! Anuncia que deja las drogas y sorprende con su nuevo negocio en Cuba: «Quiero un mejor camino»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u65722-e65722-s27065-nid344691-cintumbare-reinventa-anuncia-deja-sorprende-nuevo",
+      "destacada": false,
+      "tema": "cintumbare",
+      "fecha": "Tue, 03 Nov 2026 18:29:59 +0100",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EN DIRECTO: Presentación en Madrid de 'Cuba en el Umbral', un plan de transición para la Isla",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793726798_69683.html",
+      "destacada": false,
+      "tema": "directo",
+      "fecha": "Tue, 03 Nov 2026 18:26:38 +0100",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Operativo antidrogas en La Habana termina con la incautación de cinco millones de pesos y un arma de fuego",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e74-s27061-nid344693-operativo-antidrogas-habana-termina-incautacion-cinco",
+      "destacada": false,
+      "tema": "operativo",
+      "fecha": "Tue, 03 Nov 2026 18:18:09 +0100",
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Carlos Fernández de Cossío acusa a EE.UU. de atraer a los cubanos y después deportarlos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e129488-s27061-nid344687-fernandez-cossio-acusa-eeuu-atraer-cubanos-despues",
+      "destacada": false,
+      "tema": "carlos",
+      "fecha": "Tue, 03 Nov 2026 18:05:26 +0100",
+      "id": 9
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
@@ -11,10 +128,36 @@
       "resumen": "#AnálisisCuba: Reunimos aquí un conjunto de resoluciones, acuerdos y decretos leyes que muestran cómo el #EstadoCubano deja gradualmente los servicios del sector privado como la única opción para la población.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1793725242_69632.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "estado",
       "fecha": "Tue, 03 Nov 2026 18:00:42 +0100",
-      "id": 1
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cubanos Residentes en España condenan el bloqueo ante la Cumbre Iberoamericana",
+      "resumen": "La Federación de Asociaciones de Cubanos Residentes en España (Facre), José Martí, difundió hoy un comunicado ante la XXX Cumbre Iberoamericana de Madrid, en el que subrayó el bloqueo de Estados Unidos y exigió respeto a la soberanía de la Isla. The post Cubanos Residentes en España condenan el bloq",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/03/cubanos-residentes-en-espana-condenan-el-bloqueo-ante-la-cumbre-iberoamericana/",
+      "destacada": false,
+      "tema": "cubanos",
+      "fecha": "Tue, 03 Nov 2026 17:59:49 +0000",
+      "id": 11
+    },
+    {
+      "categoria": "energia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Díaz-Canel firma libro de condolencias por el fallecimiento de Cuauhtémoc Cárdenas",
+      "resumen": "El Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, llegó este lunes a la Embajada de México en Cuba, para estampar sobre un anchuroso libro de condolencias el sentir por la reciente partida física de ese admirable luchador ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/03/diaz-canel-firma-libro-de-condolencias-por-el-fallecimiento-de-cuauhtemoc-cardenas/",
+      "destacada": false,
+      "tema": "canel",
+      "fecha": "Tue, 03 Nov 2026 17:42:28 +0000",
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -24,36 +167,36 @@
       "resumen": "La película cubana \"Baracoa\", de Luis Ernesto Doñas, obtiene el Premio del Público y el de Mejor Guion en el Festival de Cine Íbero-Latinoamericano de Trieste, #Italia.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cultura/1793723703_69682.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "película",
       "fecha": "Tue, 03 Nov 2026 17:35:03 +0100",
-      "id": 2
+      "id": 13
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Mike Hammer se reúne con el nuevo coordinador de las Naciones Unidas en Cuba",
-      "resumen": "",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Radio Taíno “la FM de Cuba” celebra hoy su aniversario 41",
+      "resumen": "¡Hay fiesta en la FM! Este 3 de noviembre, Radio Taíno, “la FM de Cuba”, celebra su aniversario 41 y lo hace como mejor sabe: con música, cubanía y sus oyentes siempre cerca. Desde aquel 3 de noviembre de 1985, cuando salió por primera vez al aire desde La Habana, la emisora no ha parado de estar en",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e199370-s27061-nid344680-mike-hammer-reune-nuevo-coordinador-naciones-unidas",
-      "destacada": true,
-      "tema": "hammer",
-      "fecha": "Tue, 03 Nov 2026 17:11:47 +0100",
-      "id": 3
+      "enlace_original": "https://www.radiocubana.cu/noticias-de-la-radio-cubana/radio-taino-la-fm-de-cuba-celebra-hoy-su-aniversario-41/",
+      "destacada": false,
+      "tema": "radio",
+      "fecha": "Tue, 03 Nov 2026 17:33:03 +0000",
+      "id": 14
     },
     {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Qué hace Judith González en Guyana? La actriz cubana revela el motivo de su viaje",
-      "resumen": "",
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "“Criterio Compartido”: El abasto de agua a la población",
+      "resumen": "La cuarta emisión del espacio radial ­“Criterio Compartido”, saldrá al aire este miércoles 4, a las 7 y 15 de la mañana, por Radio Rebelde, con la presencia del Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, en diálogo con",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u65722-e65722-s27065-nid344682-hace-judith-gonzalez-guyana-actriz-cubana-revela",
-      "destacada": true,
-      "tema": "judith",
-      "fecha": "Tue, 03 Nov 2026 17:09:50 +0100",
-      "id": 4
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/03/criterio-compartido-el-abasto-de-agua-a-la-poblacion/",
+      "destacada": false,
+      "tema": "criterio",
+      "fecha": "Tue, 03 Nov 2026 17:22:30 +0000",
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -63,62 +206,10 @@
       "resumen": "Al caer el sol las calles se quedan a oscuras y se iluminan con lámparas a batería. Jorge Gil Gimeno...",
       "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125872-trump-obsesionado-con-capturar-a-raul-castro.jpg?t=1793722082",
       "enlace_original": "https://www.cubainformacion.tv/opinion/20261103/125872/125872-trump-obsesionado-con-capturar-a-raul-castro",
-      "destacada": true,
+      "destacada": false,
       "tema": "trump",
       "fecha": "Tue, 03 Nov 26 17:07:00 +0100",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubano firma su deportación voluntaria pero sigue bajo custodia de ICE en Texas: su madre teme por su vida",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e129488-s27061-nid344662-cubano-firma-deportacion-voluntaria-sigue-bajo",
-      "destacada": false,
-      "tema": "cubano",
-      "fecha": "Tue, 03 Nov 2026 17:06:06 +0100",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«No nos hicieron caso»: jefe del Servicio Sismológico Nacional de Cuba cuestiona la eliminación del CITMA",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e74-s27061-nid344681-nos-hicieron-caso-jefe-servicio-sismologico-nacional",
-      "destacada": false,
-      "tema": "hicieron",
-      "fecha": "Tue, 03 Nov 2026 17:03:57 +0100",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«¡En la piscina no!»: Cubana recibe un paquete de Amazon y lo que pasó la dejó gritando",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u65722-e65722-s27065-nid344659-piscina-cubana-recibe-paquete-amazon-paso-dejo",
-      "destacada": false,
-      "tema": "piscina",
-      "fecha": "Tue, 03 Nov 2026 17:02:39 +0100",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Rosa María Payá: «Cuba está más cerca de la libertad de lo que muchos imaginan»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e199370-s27061-nid344679-rosa-maria-paya-cuba-esta-cerca-libertad-muchos",
-      "destacada": false,
-      "tema": "maría",
-      "fecha": "Tue, 03 Nov 2026 17:00:53 +0100",
-      "id": 9
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -131,7 +222,7 @@
       "destacada": false,
       "tema": "anette",
       "fecha": "Tue, 03 Nov 2026 16:51:21 +0000",
-      "id": 10
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -144,7 +235,7 @@
       "destacada": false,
       "tema": "ballet",
       "fecha": "Tue, 03 Nov 2026 16:51:10 +0000",
-      "id": 11
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -157,33 +248,7 @@
       "destacada": false,
       "tema": "restan",
       "fecha": "Tue, 03 Nov 2026 16:49:06 +0000",
-      "id": 12
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel anuncia 215 normas para sus reformas, pero un estudio cuestiona las garantías jurídicas en Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u207888-e207888-s27061-nid344666-diaz-canel-anuncia-215-normas-sus-reformas",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Tue, 03 Nov 2026 16:43:29 +0100",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubano celebra su primer voto en Estados Unidos: «Este país me ha dado tantas oportunidades»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e135253-s27061-nid344677-cubano-celebra-primer-voto-estados-unidos-este-pais",
-      "destacada": false,
-      "tema": "cubano",
-      "fecha": "Tue, 03 Nov 2026 16:31:55 +0100",
-      "id": 14
+      "id": 19
     },
     {
       "categoria": "transporte",
@@ -196,7 +261,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Tue, 03 Nov 2026 16:30:00 GMT",
-      "id": 15
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -209,33 +274,7 @@
       "destacada": false,
       "tema": "recuperan",
       "fecha": "Tue, 03 Nov 2026 16:26:13 +0000",
-      "id": 16
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba ya contempla multas de hasta 100.000 pesos por entrar o salir acreditando otra ciudadanía",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e74-s27061-nid344676-cuba-contempla-multas-100000-pesos-entrar-salir",
-      "destacada": false,
-      "tema": "contempla",
-      "fecha": "Tue, 03 Nov 2026 16:20:39 +0100",
-      "id": 17
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "De récord en récord: el dólar y el euro siguen disparados en Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e129488-s27061-nid344675-nuevo-record-dolar-rompe-barrera-900-pesos-cuba-euro",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Tue, 03 Nov 2026 16:12:36 +0100",
-      "id": 18
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -248,7 +287,7 @@
       "destacada": false,
       "tema": "documental",
       "fecha": "Tue, 03 Nov 2026 16:11:23 +0000",
-      "id": 19
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -261,7 +300,7 @@
       "destacada": false,
       "tema": "festival",
       "fecha": "Tue, 03 Nov 2026 16:10:55 +0000",
-      "id": 20
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -274,7 +313,7 @@
       "destacada": false,
       "tema": "redada",
       "fecha": "Tue, 03 Nov 2026 15:29:42 +0100",
-      "id": 21
+      "id": 24
     },
     {
       "categoria": "economia",
@@ -287,7 +326,7 @@
       "destacada": false,
       "tema": "rediseña",
       "fecha": "Tue, 03 Nov 2026 15:24:28 +0000",
-      "id": 22
+      "id": 25
     },
     {
       "categoria": "politica",
@@ -300,20 +339,20 @@
       "destacada": false,
       "tema": "esperar",
       "fecha": "Tue, 03 Nov 2026 15:05:32 +0000",
-      "id": 23
+      "id": 26
     },
     {
       "categoria": "salud",
       "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "oficial",
       "titulo": "Más seguros en el trabajo",
-      "resumen": "La Jornada Nacional de Seguridad y Salud del Trabajo en Cuba comenzó este primero de noviembre, y con el propósito declarado de promover la prevención de accidentes laborales y enfermedades profesionales",
+      "resumen": "La Jornada Nacional de Seguridad y Salud del Trabajo en Cuba comenzó este primero de noviembre con el propósito declarado de promover la prevención de accidentes laborales y enfermedades profesionales",
       "imagen_url": "",
       "enlace_original": "https://www.trabajadores.cu/20261103/mas-seguros-en-el-trabajo/",
       "destacada": false,
       "tema": "seguros",
       "fecha": "Tue, 03 Nov 2026 14:54:27 +0000",
-      "id": 24
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -326,20 +365,7 @@
       "destacada": false,
       "tema": "presentan",
       "fecha": "Tue, 03 Nov 2026 14:52:45 +0000",
-      "id": 25
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "La ofensiva de Trump contra Cuba: de la ONU al caso de Raúl Castro",
-      "resumen": "A las puertas de las elecciones legislativas, Donald Trump intenta amortiguar la derrota electoral de Bolsonaro con una victoria contra la Revolución cubana. Es una espina clavada en el orgullo imperial de EEUU que sobrevive hace 67 años a 90 millas de sus costas. El magnate sueña con capturar a Raú",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/03/la-ofensiva-de-trump-contra-cuba-de-la-onu-al-caso-de-raul-castro/",
-      "destacada": false,
-      "tema": "ofensiva",
-      "fecha": "Tue, 03 Nov 2026 14:29:32 +0000",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "energia",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Tue, 03 Nov 2026 13:55:46 +0000",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "energia",
@@ -365,7 +391,7 @@
       "destacada": false,
       "tema": "publica",
       "fecha": "Tue, 03 Nov 2026 13:37:00 +0000",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "energia",
@@ -378,7 +404,20 @@
       "destacada": false,
       "tema": "apagones",
       "fecha": "Tue, 03 Nov 2026 13:16:02 +0100",
-      "id": 29
+      "id": 31
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba denuncia el cerco genocida de Washington en el contexto de la XXX Cumbre Iberoamericana",
+      "resumen": "El Canciller reafirmó la disposición de Cuba a participar activamente en proyectos de cooperación y espacios de intercambio dirigidos al beneficio de los pueblos",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-11-03/cuba-denuncia-el-cerco-genocida-de-washington-en-el-contexto-de-la-xxx-cumbre-iberoamericana-03-11-2026-13-11-15",
+      "destacada": false,
+      "tema": "denuncia",
+      "fecha": "Tue, 03 Nov 2026 13:11:15 -0500",
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -391,7 +430,7 @@
       "destacada": false,
       "tema": "entran",
       "fecha": "Tue, 03 Nov 2026 13:08:00 +0000",
-      "id": 30
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -404,7 +443,20 @@
       "destacada": false,
       "tema": "tendré",
       "fecha": "Tue, 03 Nov 2026 13:00:54 +0100",
-      "id": 31
+      "id": 34
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Hammer se reúne con nuevo coordinador de la ONU en Cuba para hablar de la situación de la isla",
+      "resumen": "El encargado de Negocios de EEUU en Cuba, Mike Hammer, se reunió con el nuevo coordinador residente del Sistema de Naciones Unidas en la isla, Pablo Ruiz Hiebra, para abordar la situación del país y los esfuerzos de ayuda humanitaria dirigidos a las familias más vulnerables.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/hammer-se-re%c3%bane-con-nuevo-coordinador-de-la-onu-en-cuba-para-hablar-de-la-situaci%c3%b3n-de-la-isla/483389.html",
+      "destacada": false,
+      "tema": "hammer",
+      "fecha": "Tue, 03 Nov 2026 12:38:05 -0500",
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -417,7 +469,7 @@
       "destacada": false,
       "tema": "realidad",
       "fecha": "Tue, 03 Nov 2026 12:27:00 +0100",
-      "id": 32
+      "id": 36
     },
     {
       "categoria": "economia",
@@ -430,7 +482,7 @@
       "destacada": false,
       "tema": "mipymes",
       "fecha": "Tue, 03 Nov 2026 12:25:32 +0000",
-      "id": 33
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -443,7 +495,7 @@
       "destacada": false,
       "tema": "yordán",
       "fecha": "Tue, 03 Nov 2026 12:08:49 -0500",
-      "id": 34
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -456,7 +508,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Tue, 03 Nov 2026 12:00:00 -0500",
-      "id": 35
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -469,7 +521,7 @@
       "destacada": false,
       "tema": "detienen",
       "fecha": "Tue, 03 Nov 2026 11:51:20 -0500",
-      "id": 36
+      "id": 40
     },
     {
       "categoria": "politica",
@@ -482,7 +534,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Tue, 03 Nov 2026 11:48:29 +0000",
-      "id": 37
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -495,20 +547,20 @@
       "destacada": false,
       "tema": "facre",
       "fecha": "Tue, 03 Nov 26 11:44:00 +0100",
-      "id": 38
+      "id": 42
     },
     {
       "categoria": "sociedad",
       "fuente": "https://eltoque.com",
       "fuente_tipo": "alternativa",
       "titulo": "Riesgo migratorio cubano alcanzó nivel extremo en octubre",
-      "resumen": "El Índice de Riesgo Migratorio Cubano pasó de 0,69 en septiembre a 0,77 en octubre, con 16 eventos y 112 personas involucradas.",
+      "resumen": "El Índice de Riesgo Migratorio Cubano pasó de 0.69 en septiembre a 0.77 en octubre, con 16 eventos y 112 personas involucradas.",
       "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/Portada_balseros_a4e679f34f.jpeg",
       "enlace_original": "https://eltoque.com/el-riesgo-migratorio-cubano-sube-a-077-en-octubre-de-2026-nivel-extremo",
       "destacada": false,
       "tema": "riesgo",
       "fecha": "Tue, 03 Nov 2026 11:42:50 GMT",
-      "id": 39
+      "id": 43
     },
     {
       "categoria": "energia",
@@ -521,20 +573,7 @@
       "destacada": false,
       "tema": "patana",
       "fecha": "Tue, 03 Nov 2026 11:38:14 -0500",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "&quot;Donde habita el corazón&quot;: Miryam Quiñones canta a Vicente Feliú, Madrid 11 noviembre",
-      "resumen": "AguadeLuna Producciones / Cubainformación...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125869-donde-habita-el-corazon-miryam-quinones-canta-a-vicente-feliu-madrid-11-noviembre.jpg?t=1793702531",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261103/125869/125869-donde-habita-el-corazon-miryam-quinones-canta-a-vicente-feliu-madrid-11-noviembre",
-      "destacada": false,
-      "tema": "habita",
-      "fecha": "Tue, 03 Nov 26 11:35:00 +0100",
-      "id": 41
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -547,7 +586,7 @@
       "destacada": false,
       "tema": "barrio",
       "fecha": "Tue, 03 Nov 2026 11:30:00 -0500",
-      "id": 42
+      "id": 45
     },
     {
       "categoria": "economia",
@@ -560,20 +599,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 03 Nov 2026 11:20:00 GMT",
-      "id": 43
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Lawton Libre",
-      "resumen": "El reconocido opositor cubano Dr. Oscar Elías Biscet aborda la situación de los derechos humanos en Cuba y la conquista de las libertades básicas de los cubanos, bajo el precepto de que “si aprendes a ser libre, todos los seremos”. Correo Electrónico: lawtonlibremarti@gmail.com",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482331.html",
-      "destacada": false,
-      "tema": "lawton",
-      "fecha": "Tue, 03 Nov 2026 11:00:00 -0500",
-      "id": 44
+      "id": 46
     },
     {
       "categoria": "economia",
@@ -586,20 +612,7 @@
       "destacada": false,
       "tema": "siglo",
       "fecha": "Tue, 03 Nov 2026 10:47:11 +0100",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Embajada de EEUU en Cuba: ¿qué trámites de visa se mantienen y cuáles siguen suspendidos?",
-      "resumen": "La Embajada de EEUU en La Habana mantiene activos los trámites de visas de inmigrante y ofrece servicios limitados de visas de no inmigrante, pero siguen vigentes restricciones que limitan la emisión de varios visados para cubanos.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/embajada-de-eeuu-en-cuba-qu%c3%a9-tr%c3%a1mites-de-visa-se-mantienen-y-cu%c3%a1les-siguen-suspendidos/483382.html",
-      "destacada": false,
-      "tema": "embajada",
-      "fecha": "Tue, 03 Nov 2026 10:43:30 -0500",
-      "id": 46
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -612,33 +625,7 @@
       "destacada": false,
       "tema": "china",
       "fecha": "Tue, 03 Nov 2026 10:11:13 -0500",
-      "id": 47
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Recuperan red escolar de Holguín a un año del huracán Melissa",
-      "resumen": "Alrededor de 400 instituciones educativas de la provincia de Holguín se recuperan de los daños ocasionados por el huracán Melissa, a un año del paso del fenómeno meteorológico por el oriente cubano",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-11-03/recuperan-red-escolar-de-holguin-a-un-ano-del-huracan-melissa-03-11-2026-09-11-59",
-      "destacada": false,
-      "tema": "recuperan",
-      "fecha": "Tue, 03 Nov 2026 09:11:59 -0500",
       "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Arlenis Sierra impuso su calidad en La Habana",
-      "resumen": "Ciclistas de varias generaciones se dieron cita en un Festival en la capital",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-11-03/arlenis-sierra-impuso-su-calidad-en-la-habana-03-11-2026-09-11-07",
-      "destacada": false,
-      "tema": "arlenis",
-      "fecha": "Tue, 03 Nov 2026 09:11:07 -0500",
-      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -651,7 +638,7 @@
       "destacada": false,
       "tema": "congress",
       "fecha": "Tue, 03 Nov 26 08:37:00 +0100",
-      "id": 50
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -664,7 +651,7 @@
       "destacada": false,
       "tema": "piazze",
       "fecha": "Tue, 03 Nov 26 08:36:00 +0100",
-      "id": 51
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -677,7 +664,7 @@
       "destacada": false,
       "tema": "vitória",
       "fecha": "Tue, 03 Nov 26 08:36:00 +0100",
-      "id": 52
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -690,7 +677,7 @@
       "destacada": false,
       "tema": "inesperado",
       "fecha": "Tue, 03 Nov 26 08:35:00 +0100",
-      "id": 53
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -703,7 +690,7 @@
       "destacada": false,
       "tema": "comida",
       "fecha": "Tue, 03 Nov 26 08:21:00 +0100",
-      "id": 54
+      "id": 53
     },
     {
       "categoria": "salud",
@@ -716,7 +703,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 03 Nov 26 08:10:00 +0100",
-      "id": 55
+      "id": 54
     },
     {
       "categoria": "energia",
@@ -729,20 +716,20 @@
       "destacada": false,
       "tema": "depende",
       "fecha": "Tue, 03 Nov 26 08:04:00 +0100",
-      "id": 56
+      "id": 55
     },
     {
-      "categoria": "economia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel exige eficiencia a la empresa estatal cubana y Monreal advierte que la autonomía no basta",
-      "resumen": "#Díaz-Canel exige a los directivos más producción y divisas, pero también \"firmeza ideológica\". Monreal advierte que los ajustes internos no sustituyen el mecanismo de precios ni la estabilidad macroeconómica.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793687393_69678.html",
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "El asedio cognitivo y la fractura diplomática: Anatomía de una ofensiva sincronizada",
+      "resumen": "Razones de Cuba El corpus analizado —12.388 registros únicos tras depuración— no busca una explosión...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125860-el-asedio-cognitivo-y-la-fractura-diplomatica-anatomia-de-una-ofensiva-sincronizada.jpg?t=1793689291",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261103/125860/125860-el-asedio-cognitivo-y-la-fractura-diplomatica-anatomia-de-una-ofensiva-sincronizada",
       "destacada": false,
-      "tema": "canel",
-      "fecha": "Tue, 03 Nov 2026 07:29:53 +0100",
-      "id": 57
+      "tema": "asedio",
+      "fecha": "Tue, 03 Nov 26 07:59:00 +0100",
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -755,20 +742,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Tue, 03 Nov 2026 04:51:23 +0000",
-      "id": 58
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "'Injerencia, la sombra del comunismo es alargada', un documental sobre el pecado inconfesable del castrismo",
-      "resumen": "Una película que alerta sobre la naturaleza del régimen de #Cuba y sus actuaciones en el exterior, que socavan los principios democráticos, ve la luz en Madrid previo a la XXX #CumbreIberoamericana.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cultura/1793659267_69676.html",
-      "destacada": false,
-      "tema": "injerencia",
-      "fecha": "Mon, 02 Nov 2026 23:41:07 +0100",
-      "id": 59
+      "id": 57
     },
     {
       "categoria": "energia",
@@ -781,7 +755,7 @@
       "destacada": false,
       "tema": "patana",
       "fecha": "Mon, 02 Nov 2026 23:21:13 +0000",
-      "id": 60
+      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -794,33 +768,7 @@
       "destacada": false,
       "tema": "alista",
       "fecha": "Mon, 02 Nov 2026 20:00:11 +0000",
-      "id": 61
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Muere una enfermera en Cienfuegos tras ser agredida por reclamar la vacunación de un niño",
-      "resumen": "El caso reabre el debate sobre las presiones y sanciones que sufren los trabajadores sanitarios cubanos",
-      "imagen_url": "https://static.14ymedio.com/clip/0c1cd10b-6c69-40b9-8f0e-81601d2f0c01_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/muere-enfermera-cienfuegos-agredida-reclamar_1_1132742.html",
-      "destacada": false,
-      "tema": "muere",
-      "fecha": "Mon, 02 Nov 2026 18:37:59 +0000",
-      "id": 62
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Una feria deslucida para el 13 aniversario de la Zona Especial de Desarrollo de Mariel",
-      "resumen": "Acechado por el marabú y las aguas pantanosas, el megaproyecto de Raúl Castro pierde inversionistas",
-      "imagen_url": "https://static.14ymedio.com/clip/8c466a81-6b62-41ca-99a0-5487a55fd66c_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/feria-deslucida-13-aniversario-zona_1_1132732.html",
-      "destacada": false,
-      "tema": "feria",
-      "fecha": "Mon, 02 Nov 2026 18:02:13 +0000",
-      "id": 63
+      "id": 59
     }
   ]
 }
