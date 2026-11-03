@@ -407,7 +407,7 @@ function iniciarMetricas() {
 
 // --- PERSPECTIVAS ---
 
-
+// --- PERSPECTIVAS ---
 function renderPerspectivas() {
   const cont = document.getElementById('perspectivas');
   if (!cont) return;
@@ -431,7 +431,6 @@ function renderPerspectivas() {
     let temaAsignado = null;
 
     for (const [tema, palabras] of Object.entries(temasClave)) {
-      // Verificar si ALGUNA palabra clave está en el TÍTULO (prioridad) o en el RESUMEN
       const enTitulo = palabras.some(p => new RegExp('\\b' + p + '\\b').test(titulo));
       const enResumen = palabras.some(p => new RegExp('\\b' + p + '\\b').test(resumen));
       
@@ -491,7 +490,6 @@ function renderPerspectivas() {
     cont.appendChild(div);
   });
 }
-
 
       
 function mostrarInfo() {
