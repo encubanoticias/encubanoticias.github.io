@@ -1,111 +1,280 @@
 {
   "fecha": "2026-11-03",
-  "hora": "03:12",
-  "total": 43,
+  "hora": "11:30",
+  "total": 45,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "'Hace dos días que no como': la realidad de una anciana cubana enferma y sola",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793705220_69643.html",
+      "destacada": true,
+      "tema": "realidad",
+      "fecha": "Tue, 03 Nov 2026 12:27:00 +0100",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "FACRE ante la XXX Cumbre Iberoamericana: una emigración cubana que defienda la soberanía de la Patria frente a la asfixia económica y la injerencia de EE. UU.",
+      "resumen": "Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125870-facre-ante-la-xxx-cumbre-iberoamericana-una-emigracion-cubana-que-defienda-la-soberania-de-la-patria-frente-a-la-asfixia-economica-y-la-injerencia-de-ee-uu.jpg?t=1793703065",
+      "enlace_original": "https://www.cubainformacion.tv/emigracion/20261103/125870/125870-facre-ante-la-xxx-cumbre-iberoamericana-una-emigracion-cubana-que-defienda-la-soberania-de-la-patria-frente-a-la-asfixia-economica-y-la-injerencia-de-ee-uu",
+      "destacada": true,
+      "tema": "facre",
+      "fecha": "Tue, 03 Nov 26 11:44:00 +0100",
+      "id": 2
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Operativo policial en Bayamo tras presunto secuestro de una cubana de 18 años",
+      "titulo": "Elecciones en Estados Unidos 2026: hoy se vota y CiberCuba sigue los resultados en vivo",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e199291-s27061-nid344641-operativo-policial-bayamo-tras-presunto-secuestro",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e13-s27061-nid344656-elecciones-estados-unidos-2026-hoy-vota-cibercuba-sigue",
       "destacada": true,
-      "tema": "operativo",
-      "fecha": "Tue, 03 Nov 2026 02:32:05 +0100",
-      "id": 1
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«¡Wao Pedro... casi me da algo!»: Cubana se sorprende con el precio de una cebolla",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e199291-s27061-nid344637-wao-pedro-casi-me-da-algo-cubana-sorprende-precio",
-      "destacada": true,
-      "tema": "pedro",
-      "fecha": "Tue, 03 Nov 2026 02:17:21 +0100",
-      "id": 2
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Así cierra el mercado informal en Cuba: el dólar rompe la barrera de los 900 pesos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e197721-s27061-nid344640-asi-cierra-mercado-informal-cuba-dolar-rompe-barrera",
-      "destacada": true,
-      "tema": "tipo_cambio",
-      "fecha": "Tue, 03 Nov 2026 02:07:42 +0100",
+      "tema": "elecciones",
+      "fecha": "Tue, 03 Nov 2026 11:40:12 +0100",
       "id": 3
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "DHS cuestiona la liberación de un cubano condenado por homicidio en segundo grado en California",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e208933-s27061-nid344634-dhs-cuestiona-liberacion-cubano-condenado-homicidio",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "&quot;Donde habita el corazón&quot;: Miryam Quiñones canta a Vicente Feliú, Madrid 11 noviembre",
+      "resumen": "AguadeLuna Producciones / Cubainformación...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125869-donde-habita-el-corazon-miryam-quinones-canta-a-vicente-feliu-madrid-11-noviembre.jpg?t=1793702531",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261103/125869/125869-donde-habita-el-corazon-miryam-quinones-canta-a-vicente-feliu-madrid-11-noviembre",
       "destacada": true,
-      "tema": "cuestiona",
-      "fecha": "Tue, 03 Nov 2026 02:06:25 +0100",
+      "tema": "habita",
+      "fecha": "Tue, 03 Nov 26 11:35:00 +0100",
       "id": 4
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Vecinos del reparto Mulgoba en La Habana llevan 45 días sin agua y el gobierno municipal no da la cara",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e197721-s27061-nid344639-vecinos-barrio-mulgoba-llevan-45-dias-agua-gobierno",
-      "destacada": true,
-      "tema": "vecinos",
-      "fecha": "Tue, 03 Nov 2026 01:52:54 +0100",
-      "id": 5
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel advierte a empresas estatales sobre el combustible en Cuba: «No va a venir por la canalita»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e208933-s27061-nid344635-diaz-canel-advierte-empresas-estatales-combustible",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Tue, 03 Nov 2026 01:50:00 +0100",
-      "id": 6
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Tribunal cubano fija fecha de juicio contra cuatro masones acusados de tráfico de divisas por cambiar 300 dólares a tasa informal",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e197721-s27061-nid344638-tribunal-cubano-fija-fecha-juicio-contra-cuatro",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Tue, 03 Nov 2026 01:46:51 +0100",
-      "id": 7
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Acusan a 13 personas, entre ellas cubanos, por millonario fraude migratorio en Florida",
+      "titulo": "Embajada de EE.UU. en La Habana: ¿qué trámites siguen activos para cubanos y cuáles están suspendidos?",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e135253-s27061-nid344632-acusan-13-personas-ellas-cubanos-millonario-fraude",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e129488-s27061-nid344654-embajada-eeuu-habana-tramites-siguen-activos-cubanos",
+      "destacada": true,
+      "tema": "embajada",
+      "fecha": "Tue, 03 Nov 2026 11:27:43 +0100",
+      "id": 5
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba Siglo 21: El control del combustible da a Washington una nueva vía de presión sobre GAESA",
+      "resumen": "Un nuevo informe de Emilio Morales en Cuba Siglo 21 señala que los militares conservan el control de las gasolineras y los dólares en #Cuba, mientras #Washington gana capacidad para rastrear sus intermediarios.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1793699231_69679.html",
       "destacada": false,
-      "tema": "acusan",
-      "fecha": "Tue, 03 Nov 2026 01:20:15 +0100",
+      "tema": "siglo",
+      "fecha": "Tue, 03 Nov 2026 10:47:11 +0100",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Can Congress Stop Trump's War on Cuba?",
+      "resumen": "Belly of The Beast Cuba",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125867-can-congress-stop-trump-s-war-on-cuba.jpg?t=1793691447",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261103/125867/125867-can-congress-stop-trump-s-war-on-cuba",
+      "destacada": false,
+      "tema": "congress",
+      "fecha": "Tue, 03 Nov 26 08:37:00 +0100",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Le piazze italiane per la condanna ONU del bloqueo",
+      "resumen": "Italia X Cuba",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125866-le-piazze-italiane-per-la-condanna-onu-del-bloqueo.jpg?t=1793691416",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261103/125866/125866-le-piazze-italiane-per-la-condanna-onu-del-bloqueo",
+      "destacada": false,
+      "tema": "piazze",
+      "fecha": "Tue, 03 Nov 26 08:36:00 +0100",
       "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Vitória de Cuba na ONU - Cubanias n° 301",
+      "resumen": "Lina Noronha - Kotter TV",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125865-vitoria-de-cuba-na-onu-cubanias-n0-301.jpg?t=1793691379",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261103/125865/125865-vitoria-de-cuba-na-onu-cubanias-n0-301",
+      "destacada": false,
+      "tema": "vitória",
+      "fecha": "Tue, 03 Nov 26 08:36:00 +0100",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "¿Inesperado? Votantes trumpistas en la Florida acometen acciones de apoyo a la revolución cubana",
+      "resumen": "Guerrero Cubano con su verdad al desnudo",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125864-inesperado-votantes-trumpistas-en-la-florida-acometen-acciones-de-apoyo-a-la-revolucion-cubana.jpg?t=1793691338",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261103/125864/125864-inesperado-votantes-trumpistas-en-la-florida-acometen-acciones-de-apoyo-a-la-revolucion-cubana",
+      "destacada": false,
+      "tema": "inesperado",
+      "fecha": "Tue, 03 Nov 26 08:35:00 +0100",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Comida popular de solidaridad con Cuba: Madrid, 21 de noviembre",
+      "resumen": "Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125863-comida-popular-de-solidaridad-con-cuba-madrid-21-de-noviembre.jpg?t=1793690581",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261103/125863/125863-comida-popular-de-solidaridad-con-cuba-madrid-21-de-noviembre",
+      "destacada": false,
+      "tema": "comida",
+      "fecha": "Tue, 03 Nov 26 08:21:00 +0100",
+      "id": 11
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Unión Económica Euroasiática registra medicamentos cubanos Hebermin y Heberprot-P",
+      "resumen": "Cuba X Siempre",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125862-union-economica-euroasiatica-registra-medicamentos-cubanos-hebermin-y-heberprot-p.jpg?t=1793689877",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261103/125862/125862-union-economica-euroasiatica-registra-medicamentos-cubanos-hebermin-y-heberprot-p",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Tue, 03 Nov 26 08:10:00 +0100",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Cómo la presión de Estados Unidos agrava la crisis en Cuba, según programa “60 Minutes” de CBS",
+      "resumen": "Cubadebate",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125861-como-la-presion-de-estados-unidos-agrava-la-crisis-en-cuba-segun-programa-60-minutes-de-cbs.jpg?t=1793689784",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261103/125861/125861-como-la-presion-de-estados-unidos-agrava-la-crisis-en-cuba-segun-programa-60-minutes-de-cbs",
+      "destacada": false,
+      "tema": "presión",
+      "fecha": "Tue, 03 Nov 26 08:04:00 +0100",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "El asedio cognitivo y la fractura diplomática: Anatomía de una ofensiva sincronizada",
+      "resumen": "Razones de Cuba El corpus analizado —12.388 registros únicos tras depuración— no busca una explosión...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125860-el-asedio-cognitivo-y-la-fractura-diplomatica-anatomia-de-una-ofensiva-sincronizada.jpg?t=1793689291",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261103/125860/125860-el-asedio-cognitivo-y-la-fractura-diplomatica-anatomia-de-una-ofensiva-sincronizada",
+      "destacada": false,
+      "tema": "asedio",
+      "fecha": "Tue, 03 Nov 26 07:59:00 +0100",
+      "id": 14
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Díaz-Canel exige eficiencia a la empresa estatal cubana y Monreal advierte que la autonomía no basta",
+      "resumen": "#Díaz-Canel exige a los directivos más producción y divisas, pero también \"firmeza ideológica\". Monreal advierte que los ajustes internos no sustituyen el mecanismo de precios ni la estabilidad macroeconómica.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793687393_69678.html",
+      "destacada": false,
+      "tema": "canel",
+      "fecha": "Tue, 03 Nov 2026 07:29:53 +0100",
+      "id": 15
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba Habla: \"Despertarse un día y decir: soy libre”",
+      "resumen": "Joven habanero asegura que es \"el gobierno y el Estado\" son responsable de la situación que se está viviendo en Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-despertarse-un-d%c3%ada-y-decir-soy-libre/483049.html",
+      "destacada": false,
+      "tema": "habla",
+      "fecha": "Tue, 03 Nov 2026 06:00:00 -0500",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Anciano cubano «vulnerable» denuncia que no aparece en ninguna lista para recibir alimentos: «Cada día todo es peor»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e199291-s27061-nid344648-anciano-cubano-vulnerable-denuncia-aparece-ninguna",
+      "destacada": false,
+      "tema": "anciano",
+      "fecha": "Tue, 03 Nov 2026 05:01:56 +0100",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Un día como hoy en la vida y obra de Fidel. 3 de noviembre",
+      "resumen": "&#8211; 3 de noviembre de 1958. El Ejército Rebelde intensifica aún más su ofensiva en diversos poblados y zonas del Oriente cubano ante el intento de la dictadura batistiana de realizar una farsa electoral. Desde octubre el régimen dictatorial de Fulgencio Batista, por temor a que las tropas rebeld",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/un-dia-como-hoy-en-la-vida-y-obra-de-fidel/un-dia-como-hoy-en-la-vida-y-obra-de-fidel-3-de-noviembre/",
+      "destacada": false,
+      "tema": "fidel",
+      "fecha": "Tue, 03 Nov 2026 04:51:23 +0000",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubana de visita en la isla pagó más de 16,000 pesos por cebolla y cilantro",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e199291-s27061-nid344646-cubana-visita-isla-pago-16000-pesos-cebolla-cilantro",
+      "destacada": false,
+      "tema": "cubana",
+      "fecha": "Tue, 03 Nov 2026 04:14:29 +0100",
+      "id": 19
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Se va otra patana turca: la Erol Bey abandona La Habana y deja a Cuba con una sola central flotante en plena crisis de apagones",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e197721-s27061-nid344645-otra-patana-turca-erol-bey-abandona-habana-deja-cuba",
+      "destacada": false,
+      "tema": "apagones",
+      "fecha": "Tue, 03 Nov 2026 04:09:32 +0100",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al Día",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/482324.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Tue, 03 Nov 2026 00:05:30 -0500",
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -118,7 +287,7 @@
       "destacada": false,
       "tema": "injerencia",
       "fecha": "Mon, 02 Nov 2026 23:41:07 +0100",
-      "id": 9
+      "id": 22
     },
     {
       "categoria": "energia",
@@ -131,7 +300,7 @@
       "destacada": false,
       "tema": "patana",
       "fecha": "Mon, 02 Nov 2026 23:21:13 +0000",
-      "id": 10
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -144,20 +313,20 @@
       "destacada": false,
       "tema": "detención",
       "fecha": "Mon, 02 Nov 2026 23:06:42 +0100",
-      "id": 11
+      "id": 24
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Rosa María Paya, proyecto de la NED",
-      "resumen": "¿Por qué quiere Rosa María Paya que Cuba pierda su independencia? ¿Por qué quiere Rosa María que Cub...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125843-rosa-maria-paya-proyecto-de-la-ned.jpg?t=1793656755",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261102/125843/125843-rosa-maria-paya-proyecto-de-la-ned",
+      "categoria": "transporte",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La libertad es una librería",
+      "resumen": "El verso de Joan Margarit, “La libertad es una librería”, da título a este podcast cuyo sentido es el de animar a la lectura y a crearnos una librería itinerante que viaje en nosotros. Esta quinta temporada tratará de libros sobre la gran literatura, cubana y universal.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/482287.html",
       "destacada": false,
-      "tema": "maría",
-      "fecha": "Mon, 02 Nov 26 22:59:00 +0100",
-      "id": 12
+      "tema": "libertad",
+      "fecha": "Mon, 02 Nov 2026 23:00:00 -0500",
+      "id": 25
     },
     {
       "categoria": "energia",
@@ -170,7 +339,7 @@
       "destacada": false,
       "tema": "arrolla",
       "fecha": "Mon, 02 Nov 2026 22:31:42 +0000",
-      "id": 13
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -183,7 +352,7 @@
       "destacada": false,
       "tema": "asesinar",
       "fecha": "Mon, 02 Nov 2026 21:31:29 +0100",
-      "id": 14
+      "id": 27
     },
     {
       "categoria": "transporte",
@@ -196,7 +365,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Mon, 02 Nov 2026 21:08:34 +0000",
-      "id": 15
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -209,7 +378,7 @@
       "destacada": false,
       "tema": "barbacoa",
       "fecha": "Mon, 02 Nov 2026 21:00:00 -0500",
-      "id": 16
+      "id": 29
     },
     {
       "categoria": "energia",
@@ -222,7 +391,7 @@
       "destacada": false,
       "tema": "castigo",
       "fecha": "Mon, 02 Nov 2026 20:54:02 +0100",
-      "id": 17
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -235,7 +404,7 @@
       "destacada": false,
       "tema": "entran",
       "fecha": "Mon, 02 Nov 2026 20:49:58 +0000",
-      "id": 18
+      "id": 31
     },
     {
       "categoria": "transporte",
@@ -248,7 +417,7 @@
       "destacada": false,
       "tema": "luchadora",
       "fecha": "Mon, 02 Nov 2026 20:19:09 +0000",
-      "id": 19
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -261,20 +430,7 @@
       "destacada": false,
       "tema": "alista",
       "fecha": "Mon, 02 Nov 2026 20:00:11 +0000",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 8:00 PM",
-      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482279.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Mon, 02 Nov 2026 20:00:00 -0500",
-      "id": 21
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -287,20 +443,7 @@
       "destacada": false,
       "tema": "peticiones",
       "fecha": "Mon, 02 Nov 2026 19:34:42 +0100",
-      "id": 22
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al día",
-      "resumen": "Inmigración, economía y Cuba: por qué importan las elecciones de medio término.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/483378.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Mon, 02 Nov 2026 19:09:02 -0500",
-      "id": 23
+      "id": 34
     },
     {
       "categoria": "energia",
@@ -313,7 +456,7 @@
       "destacada": false,
       "tema": "vandalismo",
       "fecha": "Mon, 02 Nov 2026 18:44:32 +0100",
-      "id": 24
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -326,7 +469,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Mon, 02 Nov 2026 18:37:59 +0000",
-      "id": 25
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -339,7 +482,7 @@
       "destacada": false,
       "tema": "histórico",
       "fecha": "Mon, 02 Nov 2026 18:11:16 -0500",
-      "id": 26
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -352,33 +495,7 @@
       "destacada": false,
       "tema": "feria",
       "fecha": "Mon, 02 Nov 2026 18:02:13 +0000",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La otra cara del voto sobre el 'bloqueo' en la ONU",
-      "resumen": "Las democracias occidentales se niegan a sí misma al votar a favor de la dictadura de #Cuba en la #ONU y dar la espalda a los cubanos.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793638820_69669.html",
-      "destacada": false,
-      "tema": "bloqueo",
-      "fecha": "Mon, 02 Nov 2026 18:00:20 +0100",
-      "id": 28
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Nuevo récord del dólar en Cuba: alcanza los 900 pesos en el mercado informal",
-      "resumen": "El #dólar alcanza un nuevo récord de 900 pesos en el mercado informal #cubano, mientras el #euro se acerca a los 1.000 y la moneda nacional su hunde entre la inflación y una política económica fracasada.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1793636971_69670.html",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Mon, 02 Nov 2026 17:29:31 +0100",
-      "id": 29
+      "id": 38
     },
     {
       "categoria": "transporte",
@@ -391,20 +508,7 @@
       "destacada": false,
       "tema": "patrocinio",
       "fecha": "Mon, 02 Nov 2026 17:11:56 -0500",
-      "id": 30
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Exageradamente cara y malísima: internet en Cuba es una burla",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793634182_69644.html",
-      "destacada": false,
-      "tema": "exageradamente",
-      "fecha": "Mon, 02 Nov 2026 16:43:02 +0100",
-      "id": 31
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -417,7 +521,7 @@
       "destacada": false,
       "tema": "torrefactora",
       "fecha": "Mon, 02 Nov 2026 16:42:08 +0000",
-      "id": 32
+      "id": 40
     },
     {
       "categoria": "politica",
@@ -430,7 +534,7 @@
       "destacada": false,
       "tema": "reorganiza",
       "fecha": "Mon, 02 Nov 2026 16:15:23 GMT",
-      "id": 33
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -443,20 +547,7 @@
       "destacada": false,
       "tema": "estampas",
       "fecha": "Mon, 02 Nov 2026 15:08:00 +0000",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "&quot;Cuba: Solidaridad frente a un Genocidio Silencioso&quot;: en Iruñea-Pamplona, este martes 3 de noviembre",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125842-cuba-solidaridad-frente-a-un-genocidio-silencioso-en-irunea-pamplona-este-martes-3-de-noviembre.jpg?t=1793628239",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261102/125842/125842-cuba-solidaridad-frente-a-un-genocidio-silencioso-en-irunea-pamplona-este-martes-3-de-noviembre",
-      "destacada": false,
-      "tema": "solidaridad",
-      "fecha": "Mon, 02 Nov 26 14:56:00 +0100",
-      "id": 35
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -469,7 +560,7 @@
       "destacada": false,
       "tema": "leones",
       "fecha": "Mon, 02 Nov 2026 14:52:44 +0000",
-      "id": 36
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -482,7 +573,7 @@
       "destacada": false,
       "tema": "cubana",
       "fecha": "Mon, 02 Nov 2026 13:30:00 GMT",
-      "id": 37
+      "id": 44
     },
     {
       "categoria": "economia",
@@ -495,72 +586,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 02 Nov 2026 13:11:10 GMT",
-      "id": 38
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Así fue el XVIII Encuentro de Cubanas y Cubanas Residentes en Europa: un fotorreportaje de Dignorah Laza Herrera (Álbum actualizado, 138 fotografías)",
-      "resumen": "A continuación, les ofrecemos este fotorreportaje en blanco y negro, de la fotógrafa Dignorah Laza H...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/10/125790-asi-fue-el-xviii-encuentro-de-cubanas-y-cubanas-residentes-en-europa-un-fotorreportaje-de-dignorah-laza-herrera-album-actualizado-138-fotografias.jpg?t=1793337914",
-      "enlace_original": "https://www.cubainformacion.tv/emigracion/20261102/125790/125790-asi-fue-el-xviii-encuentro-de-cubanas-y-cubanas-residentes-en-europa-un-fotorreportaje-de-dignorah-laza-herrera-album-actualizado-138-fotografias",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Mon, 02 Nov 26 12:00:00 +0100",
-      "id": 39
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Sodepaz abre campaña urgente para recaudar 6.000 euros y enviar 20 toneladas de alimentos a comedores sociales de La Habana",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125841-sodepaz-abre-campana-urgente-para-recaudar-6-000-euros-y-enviar-20-toneladas-de-alimentos-a-comedores-sociales-de-la-habana.jpg?t=1793605518",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261102/125841/125841-sodepaz-abre-campana-urgente-para-recaudar-6-000-euros-y-enviar-20-toneladas-de-alimentos-a-comedores-sociales-de-la-habana",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Mon, 02 Nov 26 08:40:00 +0100",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba la bota de jonrón. Marco Rubio se ponchó",
-      "resumen": "El Titan de #Cuba",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125837-cuba-la-bota-de-jonron-marco-rubio-se-poncho.jpg?t=1793604798",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261102/125837/125837-cuba-la-bota-de-jonron-marco-rubio-se-poncho",
-      "destacada": false,
-      "tema": "jonrón",
-      "fecha": "Mon, 02 Nov 26 08:33:00 +0100",
-      "id": 41
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Casi en elecciones, explotan republicanos contra mediocridad de Marco Rubio y socios en tema Cuba",
-      "resumen": "Guerrero Cubano con su verdad al desnudo",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125835-casi-en-elecciones-explotan-republicanos-contra-mediocridad-de-marco-rubio-y-socios-en-tema-cuba.jpg?t=1793604713",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261102/125835/125835-casi-en-elecciones-explotan-republicanos-contra-mediocridad-de-marco-rubio-y-socios-en-tema-cuba",
-      "destacada": false,
-      "tema": "elecciones",
-      "fecha": "Mon, 02 Nov 26 08:31:00 +0100",
-      "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "EE. UU. presionó a Exteriores para que España dejara de condenar el bloqueo a Cuba en la ONU",
-      "resumen": "Una delegación estadounidense llevó al Ministerio de Asuntos Exteriores un argumentario contra la re...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125834-ee-uu-presiono-a-exteriores-para-que-espana-dejara-de-condenar-el-bloqueo-a-cuba-en-la-onu.jpg?t=1793602768",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261102/125834/125834-ee-uu-presiono-a-exteriores-para-que-espana-dejara-de-condenar-el-bloqueo-a-cuba-en-la-onu",
-      "destacada": false,
-      "tema": "presionó",
-      "fecha": "Mon, 02 Nov 26 07:57:00 +0100",
-      "id": 43
+      "id": 45
     }
   ]
 }
