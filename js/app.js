@@ -430,7 +430,36 @@ function renderPerspectivas() {
 
     // Buscar a qué tema corresponde
     for (const [tema, palabras] of Object.entries(temasClave)) {
-      if (palabras.some(p => texto.includes(p))) {
+
+
+function renderPerspectivas() {
+  const cont = document.getElementById('perspectivas');
+  if (!cont) return;
+
+  const temasClave = {
+    "apagones": ["apagón", "apagon", "apagones", "déficit", "eléctrica", "electricidad", "generación", "sen", "une"],
+    "tipo_cambio": ["dólar", "dolar", "euro", "divisa", "tasa", "cambio", "el toque", "bcc", "mlc"],
+    "economia": ["economía", "economia", "precio", "inflación", "salario", "pensiones", "mipyme", "pyme", "comercio"],
+    "salud": ["salud", "medicamento", "hospital", "médico", "medico", "farmacia", "dengue", "virus"],
+    "transporte": ["transporte", "ómnibus", "omnibus", "ferrocarril", "tren", "vuelo", "aerolínea", "gasolina", "combustible"],
+    "politica": ["gobierno", "díaz-canel", "diaz-canel", "partido", "ministro", "presidente", "raul castro", "bloqueo", "embargo"],
+    "sociedad": ["protesta", "derechos", "libertad", "censura", "periodista", "presos", "iglesia", "religión"]
+  };
+
+  const grupos = {};
+
+  noticias.forEach(n => {
+    const titulo = n.titulo.toLowerCase();
+    const resumen = n.resumen.toLowerCase();
+    
+    let temaAsignado = null;
+
+    for (const [tema, palabras] of Object.entries(temasClave)) {
+      // Verificar si ALGUNA palabra clave está en el TÍTULO (prioridad) o en el RESUMEN
+      const enTitulo = palabras.some(p => new RegExp('\\b' + p + '\\b').test(titulo));
+      const enResumen = palabras.some(p => new RegExp('\\b' + p + '\\b').test(resumen));
+      
+      if (enTitulo || enResumen) {
         temaAsignado = tema;
         break;
       }
@@ -442,7 +471,6 @@ function renderPerspectivas() {
     }
   });
 
-  // 2. Filtrar grupos: deben tener al menos 2 tipos distintos
   const bloquesValidos = [];
   for (const [tema, arr] of Object.entries(grupos)) {
     const tipos = new Set(arr.map(n => n.fuente_tipo));
@@ -451,7 +479,6 @@ function renderPerspectivas() {
     }
   }
 
-  // 3. Ordenar por cantidad de noticias (los más comentados primero) y tomar 3
   const bloquesFinales = bloquesValidos
     .sort((a, b) => b.noticias.length - a.noticias.length)
     .slice(0, 3);
@@ -462,9 +489,7 @@ function renderPerspectivas() {
     return;
   }
 
-  // 4. Renderizar
   bloquesFinales.forEach(bloque => {
-    // De cada tipo, tomar solo la primera noticia para no repetir medio
     const porTipo = {};
     bloque.noticias.forEach(n => {
       if (!porTipo[n.fuente_tipo]) porTipo[n.fuente_tipo] = n;
@@ -491,6 +516,8 @@ function renderPerspectivas() {
   });
 }
 
+
+      
 function mostrarInfo() {
   document.getElementById('modal-info').classList.remove('oculto');
 }
