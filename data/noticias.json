@@ -1,8 +1,203 @@
 {
   "fecha": "2026-11-03",
-  "hora": "18:52",
-  "total": 59,
+  "hora": "23:49",
+  "total": 55,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Nueva Ley de la Vivienda: MICONS responde las dudas de los lectores de Cubadebate",
+      "resumen": "A propósito de la entrada en vigor del nuevo cuerpo legislativo, los lectores de Cubadebate expresaron dudas sobre distintos aspectos de la Ley de la Vivienda. Para explicar los detalles, Marvelis Velázquez Reyes, directora de Asuntos Legales de la Vivienda en el Ministerio de la Construcción, preci",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/03/nueva-ley-de-la-vivienda-micons-responde-las-dudas-de-los-lectores-de-cubadebate/",
+      "destacada": true,
+      "tema": "nueva",
+      "fecha": "Tue, 03 Nov 2026 23:48:48 +0000",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Diez meses después de la caída de Maduro, ¿por qué sigue en pie la dictadura cubana? Expertos de Miami lo explican",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e129488-s27061-nid344678-diez-meses-despues-caida-maduro-sigue-pie-dictadura",
+      "destacada": true,
+      "tema": "meses",
+      "fecha": "Tue, 03 Nov 2026 23:22:02 +0100",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Hemos perdido a muchas personas buenas»: cubanoamericana relata cómo las redadas de ICE afectan su trabajo en Miami",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e208933-s27061-nid344730-hemos-perdido-muchas-personas-buenas-cubanoamericana",
+      "destacada": true,
+      "tema": "hemos",
+      "fecha": "Tue, 03 Nov 2026 23:11:00 +0100",
+      "id": 3
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EEUU envía más ayuda humanitaria a Cuba: 1.400 kits destinados a Cienfuegos",
+      "resumen": "#EEUU envía a #Cuba otros 1.400 kits de alimentos e higiene, que serán distribuidos entre personas vulnerables de #Cienfuegos. Es el primer cargamento de noviembre, tras siete vuelos en octubre.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793743854_69690.html",
+      "destacada": true,
+      "tema": "envía",
+      "fecha": "Tue, 03 Nov 2026 23:10:54 +0100",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba conquista la corona en Olímpicos de la Juventud Dakar 2026",
+      "resumen": "Dakar, 3 nov (Prensa Latina) La selección cubana de beisbol5 conquistó hoy la corona en los Juegos Olímpicos de la Juventud Dakar 2026, al doblegar en la final a Taipéi de China por 2-0, y marcadores de 2-1 y 7-1. The post Cuba conquista la corona en Olímpicos de la Juventud Dakar 2026 first appeare",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/03/cuba-conquista-la-corona-en-olimpicos-de-la-juventud-dakar-2026/",
+      "destacada": true,
+      "tema": "conquista",
+      "fecha": "Tue, 03 Nov 2026 23:03:57 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubana residente en Francia intenta boicotear presentación del programa de transición a la libertad de Rosa María Payá",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e207888-s27061-nid344725-cubana-residente-francia-intenta-boicotear",
+      "destacada": false,
+      "tema": "cubana",
+      "fecha": "Tue, 03 Nov 2026 22:43:14 +0100",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Acusan a cubano con Green Card de mentir sobre su ciudadanía para votar en Estados Unidos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e208933-s27061-nid344726-acusan-cubano-green-card-mentir-ciudadania-votar",
+      "destacada": false,
+      "tema": "acusan",
+      "fecha": "Tue, 03 Nov 2026 22:37:11 +0100",
+      "id": 7
+    },
+    {
+      "categoria": "energia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Recomiendan la incorporación de Viñales a la Red Mundial de Geoparques",
+      "resumen": "El Consejo de Geoparques Mundiales de la Unesco recomendó por unanimidad la incorporación de Viñales a su Red Mundial de Geoparques, tras examinar el informe de evaluación de la candidatura cubana, resultado de la misión de evaluación realizada del 5 al 10 de octubre pasados, en ese territorio de la",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/03/recomiendan-la-incorporacion-de-vinales-a-la-red-mundial-de-geoparques/",
+      "destacada": false,
+      "tema": "recomiendan",
+      "fecha": "Tue, 03 Nov 2026 21:32:59 +0000",
+      "id": 8
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La patana turca que abandonó Cuba dará electricidad a un país vecino y La Habana guarda silencio",
+      "resumen": "El régimen de #Cuba confirma el quiebre de la promesa de que las patanas turcas serían clave en el alivio de los #apagones en el país. Otro país se beneficia.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793737417_69687.html",
+      "destacada": false,
+      "tema": "patana",
+      "fecha": "Tue, 03 Nov 2026 21:23:37 +0100",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Medicina natural y tradicional: rompezaragüey (falso y verdadero)",
+      "resumen": "Por el nombre de rompezaragüey se identifican en Cuba dos especies diferentes. Estas son Chromolaea odorarta (o Eupatorium odoratum) y Vernonia menthaefolia, ambas incluidas por Roig en su obra Plantas medicinales, aromáticas o venenosas de Cuba. The post Medicina natural y tradicional: rompezaragüe",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/03/medicina-natural-y-tradicional-rompezaraguey-falso-y-verdadero/",
+      "destacada": false,
+      "tema": "medicina",
+      "fecha": "Tue, 03 Nov 2026 21:08:51 +0000",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La familia de un cubano asesinado en Cancún busca repatriar su cadáver a la Isla",
+      "resumen": "Ángel Corona, deportado por EE UU a México, permanece en una morgue mientras sus allegados reúnen el dinero para trasladar sus restos",
+      "imagen_url": "https://static.14ymedio.com/clip/92f8d302-cd7d-41ad-9180-21d1935e8deb_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/migracion/familia-cubano-asesinado-cancun-busca_1_1132789.html",
+      "destacada": false,
+      "tema": "familia",
+      "fecha": "Tue, 03 Nov 2026 20:34:56 +0000",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Detienen a la periodista independiente Camila Acosta en La Habana y se desconoce su paradero",
+      "resumen": "La reportera fue esposada e introducida violentamente en una patrulla cuando llevaba a su gata al veterinario, según denunció su esposo, Ángel Santiesteban",
+      "imagen_url": "https://static.14ymedio.com/clip/bd90158e-341d-4fce-8301-f462be94e753_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/detienen-periodista-independiente-camila-acosta_1_1132787.html",
+      "destacada": false,
+      "tema": "detienen",
+      "fecha": "Tue, 03 Nov 2026 20:21:11 +0000",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Rosa María Payá presenta en Madrid su plan para la transición democrática de Cuba",
+      "resumen": "Rosa María Payá presenta en #Madrid \"Cuba en el umbral\", un plan de transición democrática que propone elecciones libres, reformas institucionales, asistencia humanitaria y el desmantelamiento de los órganos represivos del régimen.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793733166_69686.html",
+      "destacada": false,
+      "tema": "maría",
+      "fecha": "Tue, 03 Nov 2026 20:12:46 +0100",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Gaceta Oficial publica Decreto 162 que amplía la contratación de servicios en unidades presupuestadas",
+      "resumen": "Cuba extendió a las unidades presupuestadas la posibilidad de contratar a trabajadores de la propia entidad para realizar actividades de mantenimiento y otros servicios, mediante el Decreto 162, publicado hoy en la Gaceta Oficial. The post Gaceta Oficial publica Decreto 162 que amplía la contratació",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/03/gaceta-oficial-publica-decreto-162-que-amplia-la-contratacion-de-servicios-en-unidades-presupuestadas/",
+      "destacada": false,
+      "tema": "gaceta",
+      "fecha": "Tue, 03 Nov 2026 20:04:49 +0000",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"Asistenciado\", el nombre burocrático de la pobreza en Cuba",
+      "resumen": "En una bodega de Luyanó comienza el reparto de arroz, azúcar y granos a personas vulnerables",
+      "imagen_url": "https://static.14ymedio.com/clip/3bb514c9-08e3-4434-a9f6-a5d426a5ed02_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/asistenciado-nombre-burocratico-pobreza-cuba_1_1132784.html",
+      "destacada": false,
+      "tema": "asistenciado",
+      "fecha": "Tue, 03 Nov 2026 19:56:10 +0000",
+      "id": 15
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
@@ -11,36 +206,49 @@
       "resumen": "34 hoteles y 14.053 habitaciones perdidas en #Cuba: la hotelera #Meliá sigue arrastrando pérdidas por el cierre de sus negocios en la Isla.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/economia/1793731426_69685.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "meliá",
       "fecha": "Tue, 03 Nov 2026 19:43:46 +0100",
-      "id": 1
+      "id": 16
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
+      "categoria": "transporte",
+      "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Festival de Cine Europeo en Cuba llegará también a las provincias",
-      "resumen": "La Habana, 3 nov (Prensa Latina) Con 18 filmes y 16 naciones participantes llegará la novena edición del Festival de Cine Europeo a esta capital y, por primera vez, a otras seis provincias de Cuba, del 5 al 15 de noviembre. The post Festival de Cine Europeo en Cuba llegará también a las provincias f",
+      "titulo": "Rosa Miriam Elizalde: “Servir al país desde la comunicación”",
+      "resumen": "Rosa Miriam Elizalde, reconocida periodista distinguida con el Premio Nacional de Comunicación Social 2026, explica su deseo de pensarlo \"no como un punto de llegada, sino como parte de la construcción colectiva de una disciplina que todavía tiene muchísimo que aportar a Cuba\". The post Rosa Miriam ",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/03/festival-de-cine-europeo-en-cuba-llegara-tambien-a-las-provincias/",
-      "destacada": true,
-      "tema": "tipo_cambio",
-      "fecha": "Tue, 03 Nov 2026 19:33:39 +0000",
-      "id": 2
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/03/servir-al-pais-desde-la-comunicacion-rosa-miriam-elizalde-recibe-premio-nacional-de-comunicacion-social/",
+      "destacada": false,
+      "tema": "miriam",
+      "fecha": "Tue, 03 Nov 2026 19:31:33 +0000",
+      "id": 17
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Encuesta de FIU revela la diversidad de opiniones de los cubanoamericanos de Miami sobre la política hacia Cuba",
-      "resumen": "",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Festival de Cine Europeo llega a La Habana y a otras seis provincias de Cuba con 18 filmes",
+      "resumen": "Con 18 filmes y 16 naciones participantes llegará la novena edición del Festival de Cine Europeo a La Habana y, por primera vez, a otras seis provincias de Cuba, del 5 al 15 de noviembre. La cita cultural se enmarca en el Mes de Europa, que este año abarca del 22 de octubre al 22 de noviembre, expli",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e207888-s27061-nid344672-encuesta-fiu-revela-diversidad-opiniones",
-      "destacada": true,
-      "tema": "encuesta",
-      "fecha": "Tue, 03 Nov 2026 19:13:46 +0100",
-      "id": 3
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/03/festival-de-cine-europeo-llega-a-la-habana-y-a-otras-seis-provincias-de-cuba-con-18-filmes/",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Tue, 03 Nov 2026 19:18:31 +0000",
+      "id": 18
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El euro alcanza los 1.000 pesos cubanos en el mercado informal",
+      "resumen": "La moneda europea rompe una nueva barrera psicológica apenas un día después de que el dólar llegara a los 900 pesos",
+      "imagen_url": "https://static.14ymedio.com/clip/3139cde8-b6f5-46f2-8e7a-eef10c24116f_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/euro-alcanza-1-000-pesos_1_1132780.html",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Tue, 03 Nov 2026 18:52:52 +0000",
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -50,75 +258,36 @@
       "resumen": "#Cuba: Las autoridades aplican un paquete de medidas sin calibrar las repercusiones sobre los sectores más vulnerables de la sociedad.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/economia/1793728128_69684.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "castrismo",
       "fecha": "Tue, 03 Nov 2026 18:48:48 +0100",
-      "id": 4
+      "id": 20
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Tres cubanos condenados a 15, 14 y 8 años de cárcel por robos de aceite de transformadores en Matanzas",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e135253-s27061-nid344697-tres-cubanos-condenados-15-14-8-anos-carcel-robos",
-      "destacada": true,
-      "tema": "cubanos",
-      "fecha": "Tue, 03 Nov 2026 18:47:55 +0100",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¡La Cintumbare se reinventa! Anuncia que deja las drogas y sorprende con su nuevo negocio en Cuba: «Quiero un mejor camino»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u65722-e65722-s27065-nid344691-cintumbare-reinventa-anuncia-deja-sorprende-nuevo",
+      "titulo": "Una palabra de cuatro sílabas recorre La Habana: hepatitis",
+      "resumen": "El miedo al contagio cambia los hábitos cotidianos en una ciudad donde conseguir agua segura se ha convertido en un lujo",
+      "imagen_url": "https://static.14ymedio.com/clip/723776b2-3eef-4b45-9310-cbc0f36478b6_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/palabra-cuatro-silabas-recorre-habana_1_1132777.html",
       "destacada": false,
-      "tema": "cintumbare",
-      "fecha": "Tue, 03 Nov 2026 18:29:59 +0100",
-      "id": 6
+      "tema": "palabra",
+      "fecha": "Tue, 03 Nov 2026 18:27:58 +0000",
+      "id": 21
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "EN DIRECTO: Presentación en Madrid de 'Cuba en el Umbral', un plan de transición para la Isla",
+      "titulo": "Presentación en Madrid de 'Cuba en el Umbral', un plan de transición para la Isla",
       "resumen": "",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1793726798_69683.html",
       "destacada": false,
-      "tema": "directo",
+      "tema": "presentación",
       "fecha": "Tue, 03 Nov 2026 18:26:38 +0100",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Operativo antidrogas en La Habana termina con la incautación de cinco millones de pesos y un arma de fuego",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e74-s27061-nid344693-operativo-antidrogas-habana-termina-incautacion-cinco",
-      "destacada": false,
-      "tema": "operativo",
-      "fecha": "Tue, 03 Nov 2026 18:18:09 +0100",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Carlos Fernández de Cossío acusa a EE.UU. de atraer a los cubanos y después deportarlos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e129488-s27061-nid344687-fernandez-cossio-acusa-eeuu-atraer-cubanos-despues",
-      "destacada": false,
-      "tema": "carlos",
-      "fecha": "Tue, 03 Nov 2026 18:05:26 +0100",
-      "id": 9
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -131,7 +300,7 @@
       "destacada": false,
       "tema": "estado",
       "fecha": "Tue, 03 Nov 2026 18:00:42 +0100",
-      "id": 10
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -144,20 +313,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Tue, 03 Nov 2026 17:59:49 +0000",
-      "id": 11
-    },
-    {
-      "categoria": "energia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Díaz-Canel firma libro de condolencias por el fallecimiento de Cuauhtémoc Cárdenas",
-      "resumen": "El Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, llegó este lunes a la Embajada de México en Cuba, para estampar sobre un anchuroso libro de condolencias el sentir por la reciente partida física de ese admirable luchador ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/03/diaz-canel-firma-libro-de-condolencias-por-el-fallecimiento-de-cuauhtemoc-cardenas/",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Tue, 03 Nov 2026 17:42:28 +0000",
-      "id": 12
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -170,7 +326,7 @@
       "destacada": false,
       "tema": "película",
       "fecha": "Tue, 03 Nov 2026 17:35:03 +0100",
-      "id": 13
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -183,20 +339,20 @@
       "destacada": false,
       "tema": "radio",
       "fecha": "Tue, 03 Nov 2026 17:33:03 +0000",
-      "id": 14
+      "id": 26
     },
     {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "“Criterio Compartido”: El abasto de agua a la población",
-      "resumen": "La cuarta emisión del espacio radial ­“Criterio Compartido”, saldrá al aire este miércoles 4, a las 7 y 15 de la mañana, por Radio Rebelde, con la presencia del Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, en diálogo con",
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba: Elecciones intermedias en EEUU",
+      "resumen": "¿Cómo ven los cubanos desde la isla las elecciones de medio término en EEUU? ¿Pudieran tener efecto en la postura hacía La Habana de Washington mientras el régimen castrista se aferra al inmovilismo político como herramienta para permanecer en el poder?",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/03/criterio-compartido-el-abasto-de-agua-a-la-poblacion/",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-elecciones-intermedias-en-eeuu/483405.html",
       "destacada": false,
-      "tema": "criterio",
-      "fecha": "Tue, 03 Nov 2026 17:22:30 +0000",
-      "id": 15
+      "tema": "elecciones",
+      "fecha": "Tue, 03 Nov 2026 17:13:38 -0500",
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -209,7 +365,20 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Tue, 03 Nov 26 17:07:00 +0100",
-      "id": 16
+      "id": 28
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 5:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/482356.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Tue, 03 Nov 2026 17:00:30 -0500",
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -222,7 +391,7 @@
       "destacada": false,
       "tema": "anette",
       "fecha": "Tue, 03 Nov 2026 16:51:21 +0000",
-      "id": 17
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -235,7 +404,7 @@
       "destacada": false,
       "tema": "ballet",
       "fecha": "Tue, 03 Nov 2026 16:51:10 +0000",
-      "id": 18
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -248,7 +417,7 @@
       "destacada": false,
       "tema": "restan",
       "fecha": "Tue, 03 Nov 2026 16:49:06 +0000",
-      "id": 19
+      "id": 32
     },
     {
       "categoria": "transporte",
@@ -261,46 +430,20 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Tue, 03 Nov 2026 16:30:00 GMT",
-      "id": 20
+      "id": 33
     },
     {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Recuperan 400 instituciones educativas en Holguín tras el paso del huracán Melissa",
-      "resumen": "Alrededor de 400 instituciones educativas de la provincia de Holguín se recuperan de los daños ocasionados por el huracán Melissa, a un año del paso del fenómeno meteorológico por el oriente cubano. La restauración incluye infraestructuras dañadas por filtraciones, desprendimientos de cubiertas y de",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/03/recuperan-400-instituciones-educativas-en-holguin-tras-el-paso-del-huracan-melissa/",
-      "destacada": false,
-      "tema": "recuperan",
-      "fecha": "Tue, 03 Nov 2026 16:26:13 +0000",
-      "id": 21
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Un documental sobre las injerencias del régimen cubano desde 1959",
-      "resumen": "Presentado en Madrid, el filme busca demostrar cómo La Habana “socava los principios democráticos\"",
-      "imagen_url": "https://static.14ymedio.com/clip/9fdd200c-eb76-496a-870f-eba647ad6d12_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/documental-injerencias-regimen-cubano-1959_1_1132768.html",
-      "destacada": false,
-      "tema": "documental",
-      "fecha": "Tue, 03 Nov 2026 16:11:23 +0000",
-      "id": 22
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Festival Mozart en La Habana con invitados de primer nivel",
-      "resumen": "El Festival Mozart Habana 2026 se celebrará del 7 al 12 de noviembre en el Oratorio San Felipe Neri, sede de una nueva edición que reunirá la obra del prodigioso compositor austriaco Wolfgang Amadeus Mozart (1756-1791) y el talento de artistas cubanos e invitados. The post Festival Mozart en La Haba",
+      "titulo": "Las Noticias Como Son",
+      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/03/festival-mozart-en-la-habana-con-invitados-de-primer-nivel/",
+      "enlace_original": "https://www.martinoticias.com/a/482346.html",
       "destacada": false,
-      "tema": "festival",
-      "fecha": "Tue, 03 Nov 2026 16:10:55 +0000",
-      "id": 23
+      "tema": "noticias",
+      "fecha": "Tue, 03 Nov 2026 16:05:30 -0500",
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -313,7 +456,7 @@
       "destacada": false,
       "tema": "redada",
       "fecha": "Tue, 03 Nov 2026 15:29:42 +0100",
-      "id": 24
+      "id": 35
     },
     {
       "categoria": "economia",
@@ -326,20 +469,7 @@
       "destacada": false,
       "tema": "rediseña",
       "fecha": "Tue, 03 Nov 2026 15:24:28 +0000",
-      "id": 25
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "¿Qué esperar de EEUU si así trata a los cubanos que invitó a emigrar?",
-      "resumen": "El gobierno de EEUU, en su campaña de deportaciones, ha expulsado de ese país hacia terceros países a decenas de cubanos. Son personas que, en su mayoría, ingresaron a EEUU empujados por los efectos de la guerra económica estadounidense contra Cuba, su país de origen, y atraídos por políticas migrat",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/opinion/2026/11/03/que-esperar-de-eeuu-si-asi-trata-a-los-cubanos-que-invito-a-emigrar/",
-      "destacada": false,
-      "tema": "esperar",
-      "fecha": "Tue, 03 Nov 2026 15:05:32 +0000",
-      "id": 26
+      "id": 36
     },
     {
       "categoria": "salud",
@@ -352,20 +482,7 @@
       "destacada": false,
       "tema": "seguros",
       "fecha": "Tue, 03 Nov 2026 14:54:27 +0000",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Presentan en La Habana obra académica sobre la diplomacia china y la transformación del escenario internacional",
-      "resumen": "Presentan en el Hotel Nacional de Cuba una obra académica de cuatro tomos que analiza la evolución de la diplomacia china entre 2017 y 2024 y su impacto en la transformación del escenario internacional. The post Presentan en La Habana obra académica sobre la diplomacia china y la transformación del ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/03/presentan-en-la-habana-obra-academica-sobre-la-diplomacia-china-y-la-transformacion-del-escenario-internacional/",
-      "destacada": false,
-      "tema": "presentan",
-      "fecha": "Tue, 03 Nov 2026 14:52:45 +0000",
-      "id": 28
+      "id": 37
     },
     {
       "categoria": "energia",
@@ -378,7 +495,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Tue, 03 Nov 2026 13:55:46 +0000",
-      "id": 29
+      "id": 38
     },
     {
       "categoria": "energia",
@@ -391,7 +508,7 @@
       "destacada": false,
       "tema": "publica",
       "fecha": "Tue, 03 Nov 2026 13:37:00 +0000",
-      "id": 30
+      "id": 39
     },
     {
       "categoria": "energia",
@@ -404,20 +521,7 @@
       "destacada": false,
       "tema": "apagones",
       "fecha": "Tue, 03 Nov 2026 13:16:02 +0100",
-      "id": 31
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba denuncia el cerco genocida de Washington en el contexto de la XXX Cumbre Iberoamericana",
-      "resumen": "El Canciller reafirmó la disposición de Cuba a participar activamente en proyectos de cooperación y espacios de intercambio dirigidos al beneficio de los pueblos",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-11-03/cuba-denuncia-el-cerco-genocida-de-washington-en-el-contexto-de-la-xxx-cumbre-iberoamericana-03-11-2026-13-11-15",
-      "destacada": false,
-      "tema": "denuncia",
-      "fecha": "Tue, 03 Nov 2026 13:11:15 -0500",
-      "id": 32
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -430,46 +534,7 @@
       "destacada": false,
       "tema": "entran",
       "fecha": "Tue, 03 Nov 2026 13:08:00 +0000",
-      "id": 33
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "'Si Cuba no paga, tendré que hacerlo yo': la agonía de madres de niños enfermos en la 'potencia médica'",
-      "resumen": "Las madres de dos niños #cubanos cuentan a #DiarioDeCuba sus luchas por obtener un diagnóstico y resúmenes de historia clínica con el objetivo de que sus hijos reciban tratamiento en otro país.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793707254_69592.html",
-      "destacada": false,
-      "tema": "tendré",
-      "fecha": "Tue, 03 Nov 2026 13:00:54 +0100",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Hammer se reúne con nuevo coordinador de la ONU en Cuba para hablar de la situación de la isla",
-      "resumen": "El encargado de Negocios de EEUU en Cuba, Mike Hammer, se reunió con el nuevo coordinador residente del Sistema de Naciones Unidas en la isla, Pablo Ruiz Hiebra, para abordar la situación del país y los esfuerzos de ayuda humanitaria dirigidos a las familias más vulnerables.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/hammer-se-re%c3%bane-con-nuevo-coordinador-de-la-onu-en-cuba-para-hablar-de-la-situaci%c3%b3n-de-la-isla/483389.html",
-      "destacada": false,
-      "tema": "hammer",
-      "fecha": "Tue, 03 Nov 2026 12:38:05 -0500",
-      "id": 35
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "'Hace dos días que no como': la realidad de una anciana cubana enferma y sola",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793705220_69643.html",
-      "destacada": false,
-      "tema": "realidad",
-      "fecha": "Tue, 03 Nov 2026 12:27:00 +0100",
-      "id": 36
+      "id": 41
     },
     {
       "categoria": "economia",
@@ -482,59 +547,7 @@
       "destacada": false,
       "tema": "mipymes",
       "fecha": "Tue, 03 Nov 2026 12:25:32 +0000",
-      "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Yordán Alvarez y Sal Stewart,  finalistas a los premios de la BBWAA",
-      "resumen": "Dos cubanos aparecen entre los finalistas a los diferentes premios que concede la Asociación de Escritores de Béisbol de América (BBWAA).",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/yordan-alvarez-y-sal-stewart-finalistas-a-los-premios-de-la-bbwaa/483387.html",
-      "destacada": false,
-      "tema": "yordán",
-      "fecha": "Tue, 03 Nov 2026 12:08:49 -0500",
-      "id": 38
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 12:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482337.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Tue, 03 Nov 2026 12:00:00 -0500",
-      "id": 39
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Detienen en La Habana a la periodista independiente Camila Acosta",
-      "resumen": "La periodista independiente Camila Acosta fue detenida este martes en La Habana cuando se dirigía a una consulta veterinaria con su mascota, en un nuevo episodio de denuncias contra el acoso a periodistas independientes en Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/detienen-en-la-habana-a-la-periodista-independiente-camila-acosta/483386.html",
-      "destacada": false,
-      "tema": "detienen",
-      "fecha": "Tue, 03 Nov 2026 11:51:20 -0500",
-      "id": 40
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel insiste en que las 176 reformas no incluyen la privatización de empresas estatales",
-      "resumen": "Expertos consultados por EFE ven en el paquete señales de una apertura hacia el libre mercado",
-      "imagen_url": "https://static.14ymedio.com/clip/47e729ce-bed8-4aa4-be81-6f33742cde69_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/diaz-canel-insiste-176-reformas_1_1132758.html",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Tue, 03 Nov 2026 11:48:29 +0000",
-      "id": 41
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -547,7 +560,7 @@
       "destacada": false,
       "tema": "facre",
       "fecha": "Tue, 03 Nov 26 11:44:00 +0100",
-      "id": 42
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -560,33 +573,7 @@
       "destacada": false,
       "tema": "riesgo",
       "fecha": "Tue, 03 Nov 2026 11:42:50 GMT",
-      "id": 43
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Patana turca Erol Bey abandona Cuba en plena crisis energética",
-      "resumen": "La patana turca Erol Bey abandonó este lunes el puerto de La Habana en plena crisis energética y apagones prolongados en Cuba. La embarcación, de la empresa Karpowership, tenía capacidad para generar 63 megavatios, pero llevaba meses sin producir electricidad.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/patana-turca-erol-bey-abandona-cuba-en-plena-crisis-energ%c3%a9tica/483385.html",
-      "destacada": false,
-      "tema": "patana",
-      "fecha": "Tue, 03 Nov 2026 11:38:14 -0500",
       "id": 44
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barrio adentro",
-      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482334.html",
-      "destacada": false,
-      "tema": "barrio",
-      "fecha": "Tue, 03 Nov 2026 11:30:00 -0500",
-      "id": 45
     },
     {
       "categoria": "economia",
@@ -599,33 +586,20 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 03 Nov 2026 11:20:00 GMT",
-      "id": 46
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba Siglo 21: El control del combustible da a Washington una nueva vía de presión sobre GAESA",
-      "resumen": "Un nuevo informe de Emilio Morales en Cuba Siglo 21 señala que los militares conservan el control de las gasolineras y los dólares en #Cuba, mientras #Washington gana capacidad para rastrear sus intermediarios.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1793699231_69679.html",
-      "destacada": false,
-      "tema": "siglo",
-      "fecha": "Tue, 03 Nov 2026 10:47:11 +0100",
-      "id": 47
+      "id": 45
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "China acoge Foro de Cooperación de Medios de la Franja y la Ruta",
-      "resumen": "China acoge el Foro de Cooperación de Medios de Comunicación de la Franja y la Ruta, con la participación de más de 170 medios de más de 100 países y regiones, entre ellos Cuba",
+      "titulo": "Soluciones tecnológicas, servicios diversificados y transición energética: premisas de Copextel en Santiago de Cuba",
+      "resumen": "La diversificación de los servicios, dicta la gestión de la filial santiaguera de la empresa Copextel, que también prioriza su participación en el proceso de transición de la matriz energética con la instalación de kits de paneles fotovoltaicos en viviendas aisladas, de trabajadores de los sectores ",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-11-03/china-acoge-foro-de-cooperacion-de-medios-de-la-franja-y-la-ruta-03-11-2026-10-11-13",
+      "enlace_original": "http://www.granma.cu/cuba/2026-11-03/soluciones-tecnologicas-servicios-diversificados-y-transicion-energetica-premisas-de-copextel-en-santiago-de-cuba-03-11-2026-10-11-02",
       "destacada": false,
-      "tema": "china",
-      "fecha": "Tue, 03 Nov 2026 10:11:13 -0500",
-      "id": 48
+      "tema": "soluciones",
+      "fecha": "Tue, 03 Nov 2026 10:11:02 -0500",
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -638,7 +612,7 @@
       "destacada": false,
       "tema": "congress",
       "fecha": "Tue, 03 Nov 26 08:37:00 +0100",
-      "id": 49
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -651,7 +625,7 @@
       "destacada": false,
       "tema": "piazze",
       "fecha": "Tue, 03 Nov 26 08:36:00 +0100",
-      "id": 50
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -664,7 +638,7 @@
       "destacada": false,
       "tema": "vitória",
       "fecha": "Tue, 03 Nov 26 08:36:00 +0100",
-      "id": 51
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -677,7 +651,7 @@
       "destacada": false,
       "tema": "inesperado",
       "fecha": "Tue, 03 Nov 26 08:35:00 +0100",
-      "id": 52
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -690,7 +664,7 @@
       "destacada": false,
       "tema": "comida",
       "fecha": "Tue, 03 Nov 26 08:21:00 +0100",
-      "id": 53
+      "id": 51
     },
     {
       "categoria": "salud",
@@ -703,7 +677,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 03 Nov 26 08:10:00 +0100",
-      "id": 54
+      "id": 52
     },
     {
       "categoria": "energia",
@@ -716,7 +690,7 @@
       "destacada": false,
       "tema": "depende",
       "fecha": "Tue, 03 Nov 26 08:04:00 +0100",
-      "id": 55
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -729,7 +703,7 @@
       "destacada": false,
       "tema": "asedio",
       "fecha": "Tue, 03 Nov 26 07:59:00 +0100",
-      "id": 56
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -742,33 +716,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Tue, 03 Nov 2026 04:51:23 +0000",
-      "id": 57
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Se va de Cuba la 'patana' turca 'Erol Bey', que no producía electricidad desde hace varios meses",
-      "resumen": "La retirada de las centrales flotantes se debe a los impagos del Gobierno cubano a la empresa turca Karadeniz Holding",
-      "imagen_url": "https://static.14ymedio.com/clip/6709ac6f-4b2e-4434-8f58-e7cdd44c6a1f_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/cuba-patana-turca-erol-bey_1_1132752.html",
-      "destacada": false,
-      "tema": "patana",
-      "fecha": "Mon, 02 Nov 2026 23:21:13 +0000",
-      "id": 58
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Se alista Santiago de Cuba para Ejercicio Moncada",
-      "resumen": "Fortalecer la preparación combativa de los diferentes componentes del sistema defensivo territorial destaca como elemento esencial en el desarrollo del mismo",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261102/se-alista-santiago-de-cuba-para-ejercicio-moncada/",
-      "destacada": false,
-      "tema": "alista",
-      "fecha": "Mon, 02 Nov 2026 20:00:11 +0000",
-      "id": 59
+      "id": 55
     }
   ]
 }
