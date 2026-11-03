@@ -407,30 +407,6 @@ function iniciarMetricas() {
 
 // --- PERSPECTIVAS ---
 
-function renderPerspectivas() {
-  const cont = document.getElementById('perspectivas');
-  if (!cont) return;
-
-  // 1. Agrupar por temas usando palabras clave
-  const temasClave = {
-    "apagones": ["apagón", "apagon", "déficit", "eléctrica", "electricidad", "generación", "une", "sen"],
-    "tipo_cambio": ["dólar", "dolar", "euro", "divisa", "tasa", "cambio", "mlc", "cup", "el toque", "bcc"],
-    "economia": ["economía", "economia", "precio", "inflación", "salario", "pensiones", "mipyme", "pyme", "comercio"],
-    "salud": ["salud", "medicamento", "hospital", "médico", "medico", "farmacia", "dengue", "virus"],
-    "transporte": ["transporte", "ómnibus", "omnibus", "ferrocarril", "tren", "vuelo", "aerolínea", "gasolina", "combustible"],
-    "politica": ["gobierno", "díaz-canel", "diaz-canel", "partido", "ministro", "presidente", "raul castro", "bloqueo", "embargo", "eeuu", "estados unidos"],
-    "sociedad": ["protesta", "derechos", "libertad", "censura", "periodista", "presos", "religión", "iglesia"]
-  };
-
-  const grupos = {};
-
-  noticias.forEach(n => {
-    const texto = (n.titulo + " " + n.resumen).toLowerCase();
-    let temaAsignado = null;
-
-    // Buscar a qué tema corresponde
-    for (const [tema, palabras] of Object.entries(temasClave)) {
-
 
 function renderPerspectivas() {
   const cont = document.getElementById('perspectivas');
