@@ -1,20 +1,176 @@
 {
-  "fecha": "2026-11-02",
-  "hora": "21:09",
-  "total": 51,
+  "fecha": "2026-11-03",
+  "hora": "03:12",
+  "total": 43,
   "noticias": [
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "¿Mandas dinero a Cuba sin recibos? Esto te puede complicar tu proceso de ciudadanía",
+      "titulo": "Operativo policial en Bayamo tras presunto secuestro de una cubana de 18 años",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-02-u1-e192519-s27061-nid344355-mandas-dinero-cuba-recibos-te-puede-complicar",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e199291-s27061-nid344641-operativo-policial-bayamo-tras-presunto-secuestro",
       "destacada": true,
-      "tema": "mandas",
-      "fecha": "Mon, 02 Nov 2026 21:36:28 +0100",
+      "tema": "operativo",
+      "fecha": "Tue, 03 Nov 2026 02:32:05 +0100",
       "id": 1
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«¡Wao Pedro... casi me da algo!»: Cubana se sorprende con el precio de una cebolla",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e199291-s27061-nid344637-wao-pedro-casi-me-da-algo-cubana-sorprende-precio",
+      "destacada": true,
+      "tema": "pedro",
+      "fecha": "Tue, 03 Nov 2026 02:17:21 +0100",
+      "id": 2
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Así cierra el mercado informal en Cuba: el dólar rompe la barrera de los 900 pesos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e197721-s27061-nid344640-asi-cierra-mercado-informal-cuba-dolar-rompe-barrera",
+      "destacada": true,
+      "tema": "tipo_cambio",
+      "fecha": "Tue, 03 Nov 2026 02:07:42 +0100",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "DHS cuestiona la liberación de un cubano condenado por homicidio en segundo grado en California",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e208933-s27061-nid344634-dhs-cuestiona-liberacion-cubano-condenado-homicidio",
+      "destacada": true,
+      "tema": "cuestiona",
+      "fecha": "Tue, 03 Nov 2026 02:06:25 +0100",
+      "id": 4
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Vecinos del reparto Mulgoba en La Habana llevan 45 días sin agua y el gobierno municipal no da la cara",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e197721-s27061-nid344639-vecinos-barrio-mulgoba-llevan-45-dias-agua-gobierno",
+      "destacada": true,
+      "tema": "vecinos",
+      "fecha": "Tue, 03 Nov 2026 01:52:54 +0100",
+      "id": 5
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Díaz-Canel advierte a empresas estatales sobre el combustible en Cuba: «No va a venir por la canalita»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e208933-s27061-nid344635-diaz-canel-advierte-empresas-estatales-combustible",
+      "destacada": false,
+      "tema": "canel",
+      "fecha": "Tue, 03 Nov 2026 01:50:00 +0100",
+      "id": 6
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Tribunal cubano fija fecha de juicio contra cuatro masones acusados de tráfico de divisas por cambiar 300 dólares a tasa informal",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e197721-s27061-nid344638-tribunal-cubano-fija-fecha-juicio-contra-cuatro",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Tue, 03 Nov 2026 01:46:51 +0100",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Acusan a 13 personas, entre ellas cubanos, por millonario fraude migratorio en Florida",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e135253-s27061-nid344632-acusan-13-personas-ellas-cubanos-millonario-fraude",
+      "destacada": false,
+      "tema": "acusan",
+      "fecha": "Tue, 03 Nov 2026 01:20:15 +0100",
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "'Injerencia, la sombra del comunismo es alargada', un documental sobre el pecado inconfesable del castrismo",
+      "resumen": "Una película que alerta sobre la naturaleza del régimen de #Cuba y sus actuaciones en el exterior, que socavan los principios democráticos, ve la luz en Madrid previo a la XXX #CumbreIberoamericana.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cultura/1793659267_69676.html",
+      "destacada": false,
+      "tema": "injerencia",
+      "fecha": "Mon, 02 Nov 2026 23:41:07 +0100",
+      "id": 9
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Se va de Cuba la 'patana' turca 'Erol Bey', que no producía electricidad desde hace varios meses",
+      "resumen": "La retirada de las centrales flotantes se debe a los impagos del Gobierno cubano a la empresa turca Karadeniz Holding",
+      "imagen_url": "https://static.14ymedio.com/clip/6709ac6f-4b2e-4434-8f58-e7cdd44c6a1f_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/cuba-patana-turca-erol-bey_1_1132752.html",
+      "destacada": false,
+      "tema": "patana",
+      "fecha": "Mon, 02 Nov 2026 23:21:13 +0000",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Detención violenta, amenazas y multa: el régimen de Cuba contra el periodista independiente Adelth Bonne",
+      "resumen": "Agentes represivos del régimen de #Cuba detienen de forma violenta al #periodista independiente Adelth Bonne. Si bien ya fue liberado, los represores lo amenazaron, lo multaron y le requisaron su laptop y otros equipos.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1793657202_69675.html",
+      "destacada": false,
+      "tema": "detención",
+      "fecha": "Mon, 02 Nov 2026 23:06:42 +0100",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Rosa María Paya, proyecto de la NED",
+      "resumen": "¿Por qué quiere Rosa María Paya que Cuba pierda su independencia? ¿Por qué quiere Rosa María que Cub...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125843-rosa-maria-paya-proyecto-de-la-ned.jpg?t=1793656755",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261102/125843/125843-rosa-maria-paya-proyecto-de-la-ned",
+      "destacada": false,
+      "tema": "maría",
+      "fecha": "Mon, 02 Nov 26 22:59:00 +0100",
+      "id": 12
+    },
+    {
+      "categoria": "energia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba arrolla 2-0 a Kenia y disputará el oro de béisbol5 ante Taipéi de China en los Juegos Olímpicos de la Juventud",
+      "resumen": "La selección cubana de beisbol5 derrotó este lunes en semifinales 2-0 (14-7 y 11-1) a Kenya y discutirá el cetro del torneo de este deporte en los Juegos Olímpicos de la Juventud, con sede en el Tour de l’Oeuf, en Dakar, la capital de Senegal. The post Cuba arrolla 2-0 a Kenia y disputará el oro de ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/02/cuba-arrolla-2-0-a-kenia-y-disputara-el-oro-de-beisbol5-ante-taipei-de-china-en-los-juegos-olimpicos-de-la-juventud/",
+      "destacada": false,
+      "tema": "arrolla",
+      "fecha": "Mon, 02 Nov 2026 22:31:42 +0000",
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -24,49 +180,36 @@
       "resumen": "Un hombre apuñaló hasta la muerte a un agente de la Policía en #SantiadoDeCuba. Esta es la sentencia del tribunal local.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1793651489_69674.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "asesinar",
       "fecha": "Mon, 02 Nov 2026 21:31:29 +0100",
-      "id": 2
+      "id": 14
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
+      "categoria": "transporte",
+      "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel admite que cinco de las 176 medidas económicas de Cuba siguen pendientes y son las más polémicas",
-      "resumen": "",
+      "titulo": "Díaz-Canel: La empresa estatal socialista tiene la oportunidad histórica de demostrar que puede ser ágil, eficiente y competitiva",
+      "resumen": "Sostiene el Primer Secretario del Comité Central del Partido y Presidente de la República, Miguel Díaz-Canel Bermúdez, encuentro con empresarios que participaron en el Ejercicio de entrenamiento sobre las 176 Transformaciones Económicas y Sociales realizado en la Escuela Superior de Cuadros del Esta",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-02-u1-e208933-s27061-nid344612-diaz-canel-admite-cinco-176-medidas-economicas-cuba",
-      "destacada": true,
+      "enlace_original": "https://www.tribuna.cu/diaz-canel-la-empresa-estatal-socialista-tiene-la-oportunidad-historica-de-demostrar-que-puede-ser-agil-eficiente-y-competitiva/",
+      "destacada": false,
       "tema": "canel",
-      "fecha": "Mon, 02 Nov 2026 21:23:54 +0100",
-      "id": 3
+      "fecha": "Mon, 02 Nov 2026 21:08:34 +0000",
+      "id": 15
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Salvar a Cuba: del valor de reclamar a la acción liberadora",
-      "resumen": "",
+      "titulo": "Barbacoa de Pepe",
+      "resumen": "La Barbacoa de Pepe es un muestrario de la nostalgia cubana con datos y curiosidades de los temas más variados, para la audiencia cubana. También trataremos temas internacionales y locales, siempre con el fin de educar al Cubano de la Isla. Con la elocuencia de Pepe Forte.",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-02-u208253-e192519-s27061-nid344617-salvar-cuba-valor-reclamar-accion-liberadora",
-      "destacada": true,
-      "tema": "salvar",
-      "fecha": "Mon, 02 Nov 2026 21:22:11 +0100",
-      "id": 4
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Aprueban en Unesco incluir a Viñales en Red Mundial de Geoparques",
-      "resumen": "París, 2 nov (Prensa Latina) Viñales resultó hoy recomendada por el Consejo Mundial de la Unesco para ser incluido en la Red Mundial de Geoparques del Mundo, tras analizar el informe de evaluación de la candidatura cubana, indicaron fuentes diplomáticas. The post Aprueban en Unesco incluir a Viñales",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/02/aprueban-en-unesco-incluir-a-vinales-en-red-mundial-de-geoparques/",
-      "destacada": true,
-      "tema": "apagones",
-      "fecha": "Mon, 02 Nov 2026 21:16:57 +0000",
-      "id": 5
+      "enlace_original": "https://www.martinoticias.com/a/482280.html",
+      "destacada": false,
+      "tema": "barbacoa",
+      "fecha": "Mon, 02 Nov 2026 21:00:00 -0500",
+      "id": 16
     },
     {
       "categoria": "energia",
@@ -79,7 +222,7 @@
       "destacada": false,
       "tema": "castigo",
       "fecha": "Mon, 02 Nov 2026 20:54:02 +0100",
-      "id": 6
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -92,20 +235,7 @@
       "destacada": false,
       "tema": "entran",
       "fecha": "Mon, 02 Nov 2026 20:49:58 +0000",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Abogado de Cubalex advierte que nueva Ley de Vivienda no protege casas de exiliados",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-02-u1-e192519-s27061-nid344356-abogado-cubalex-advierte-nueva-ley-vivienda-protege",
-      "destacada": false,
-      "tema": "abogado",
-      "fecha": "Mon, 02 Nov 2026 20:39:15 +0100",
-      "id": 8
+      "id": 18
     },
     {
       "categoria": "transporte",
@@ -118,20 +248,7 @@
       "destacada": false,
       "tema": "luchadora",
       "fecha": "Mon, 02 Nov 2026 20:19:09 +0000",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El ICE libera a un cubano con cáncer terminal cuando ya estaba al borde de la muerte",
-      "resumen": "La familia de Gustavo Rivero Nápoles denuncia que pasó meses sufriendo dolores intensos y sin recibir atención adecuada",
-      "imagen_url": "https://static.14ymedio.com/clip/9b4bd001-23f6-42e1-9f65-74991ecf5b38_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/migracion/ice-libera-cubano-cancer-terminal_1_1132746.html",
-      "destacada": false,
-      "tema": "libera",
-      "fecha": "Mon, 02 Nov 2026 20:06:42 +0000",
-      "id": 10
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -144,20 +261,20 @@
       "destacada": false,
       "tema": "alista",
       "fecha": "Mon, 02 Nov 2026 20:00:11 +0000",
-      "id": 11
+      "id": 20
     },
     {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Documental cubano Mijail recibe Mención de Honor en 44 Festival de cine Deportivo en Italia",
-      "resumen": "El largometraje documental \"Mijaín\" recibió la Mención de Honor del 44 Festival Internacional de Cine Deportivo de Milano, Italia entre setenta obras audiovisuales de decenas de países del mundo. La información fue ofrecida por el Presidente del ICAIC, Alexis Triana en su página de Facebook. The pos",
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 8:00 PM",
+      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/02/documental-cubano-mijail-recibe-mencion-de-honor-en-44-festival-de-cine-deportivo-en-italia/",
+      "enlace_original": "https://www.martinoticias.com/a/482279.html",
       "destacada": false,
-      "tema": "documental",
-      "fecha": "Mon, 02 Nov 2026 19:57:17 +0000",
-      "id": 12
+      "tema": "noticiero",
+      "fecha": "Mon, 02 Nov 2026 20:00:00 -0500",
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -170,20 +287,20 @@
       "destacada": false,
       "tema": "peticiones",
       "fecha": "Mon, 02 Nov 2026 19:34:42 +0100",
-      "id": 13
+      "id": 22
     },
     {
-      "categoria": "transporte",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Díaz-Canel: La empresa estatal socialista tiene la oportunidad histórica de demostrar que puede ser ágil, eficiente y competitiva",
-      "resumen": "Sostiene el Primer Secretario del Comité Central del Partido y Presidente de la República, Miguel Díaz-Canel Bermúdez, encuentro con empresarios que participaron en el Ejercicio de entrenamiento sobre las 176 Transformaciones Económicas y Sociales realizado en la Escuela Superior de Cuadros del Esta",
+      "categoria": "economia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al día",
+      "resumen": "Inmigración, economía y Cuba: por qué importan las elecciones de medio término.",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/02/diaz-canel-la-empresa-estatal-socialista-tiene-la-oportunidad-historica-de-demostrar-que-puede-ser-agil-eficiente-y-competitiva/",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/483378.html",
       "destacada": false,
-      "tema": "canel",
-      "fecha": "Mon, 02 Nov 2026 19:18:05 +0000",
-      "id": 14
+      "tema": "",
+      "fecha": "Mon, 02 Nov 2026 19:09:02 -0500",
+      "id": 23
     },
     {
       "categoria": "energia",
@@ -196,7 +313,7 @@
       "destacada": false,
       "tema": "vandalismo",
       "fecha": "Mon, 02 Nov 2026 18:44:32 +0100",
-      "id": 15
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -209,7 +326,20 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Mon, 02 Nov 2026 18:37:59 +0000",
-      "id": 16
+      "id": 25
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Un oro histórico",
+      "resumen": "Tres jóvenes del Instituto Preuniversitario de Ciencias Exactas (IPVCE) Silberto Álvarez Aroche pusieron a Granma y a Cuba en el top 15 mundial de la Programación",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-11-02/un-oro-historico-02-11-2026-18-11-16",
+      "destacada": false,
+      "tema": "histórico",
+      "fecha": "Mon, 02 Nov 2026 18:11:16 -0500",
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -222,7 +352,7 @@
       "destacada": false,
       "tema": "feria",
       "fecha": "Mon, 02 Nov 2026 18:02:13 +0000",
-      "id": 17
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -235,7 +365,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Mon, 02 Nov 2026 18:00:20 +0100",
-      "id": 18
+      "id": 28
     },
     {
       "categoria": "economia",
@@ -248,7 +378,20 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 02 Nov 2026 17:29:31 +0100",
-      "id": 19
+      "id": 29
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Patrocinio y publicidad en la Serie Nacional, para ganar el juego",
+      "resumen": "La actual temporada cubana estrenó estas actividades para un mayor desarrollo del beisbol",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/tirandole/2026-11-02/patrocinio-y-publicidad-en-la-serie-nacional-para-ganar-el-juego-02-11-2026-17-11-56",
+      "destacada": false,
+      "tema": "patrocinio",
+      "fecha": "Mon, 02 Nov 2026 17:11:56 -0500",
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -261,7 +404,7 @@
       "destacada": false,
       "tema": "exageradamente",
       "fecha": "Mon, 02 Nov 2026 16:43:02 +0100",
-      "id": 20
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -274,20 +417,7 @@
       "destacada": false,
       "tema": "torrefactora",
       "fecha": "Mon, 02 Nov 2026 16:42:08 +0000",
-      "id": 21
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "La nueva Ley de la Vivienda en Cuba. Algunas claves para comprender nuestros derechos (II)",
-      "resumen": "Uno de los aspectos más importantes de la Ley 187 se relaciona con la convivencia familiar y la protección de personas que pueden encontrarse en situaciones de especial vulnerabilidad. Tradicionalmente, los conflictos relacionados con la permanencia en una vivienda han generado tensiones entre las f",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/temas/sociedad-temas/2026/11/02/la-nueva-ley-de-la-vivienda-en-cuba-algunas-claves-para-comprender-nuestros-derechos-ii/",
-      "destacada": false,
-      "tema": "nueva",
-      "fecha": "Mon, 02 Nov 2026 16:30:34 +0000",
-      "id": 22
+      "id": 32
     },
     {
       "categoria": "politica",
@@ -300,72 +430,7 @@
       "destacada": false,
       "tema": "reorganiza",
       "fecha": "Mon, 02 Nov 2026 16:15:23 GMT",
-      "id": 23
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las Noticias Como Son",
-      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482267.html",
-      "destacada": false,
-      "tema": "noticias",
-      "fecha": "Mon, 02 Nov 2026 16:05:30 -0500",
-      "id": 24
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Bola Nostra",
-      "resumen": "Se abre la agencia libre de las Grandes Ligas y hay diez peloteros cubanos que estarán buscando nuevos contratos. El Yoyo Morejón, Orlando \"El Duke\" Hernández y Liván \"I love you, Miami\" Hernández lo analizan en La Bola Nostra.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/la-bola-nostra/483327.html",
-      "destacada": false,
-      "tema": "nostra",
-      "fecha": "Mon, 02 Nov 2026 16:02:08 -0500",
-      "id": 25
-    },
-    {
-      "categoria": "energia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cómo la presión de Estados Unidos agrava la crisis en Cuba, según programa “60 Minutes”",
-      "resumen": "“60 Minutes”, uno de los programas informativos más reconocidos de la televisión estadounidense, mostró desde Cuba el impacto de la crisis económica, los apagones y la escasez de alimentos y medicamentos sobre la vida cotidiana. CBS señala que las nuevas restricciones de Washington han dificultado t",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/02/como-la-presion-de-estados-unidos-agrava-la-crisis-en-cuba-segun-programa-60-minutos/",
-      "destacada": false,
-      "tema": "presión",
-      "fecha": "Mon, 02 Nov 2026 16:01:50 +0000",
-      "id": 26
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Está preparado el régimen para la revolución del internet satelital?",
-      "resumen": "El internet satelital representa una amenaza para el régimen cubano, que no acepta canales de comunicación fuera de su control. La inteligencia cubana mantiene la mirada puesta en esta tecnología y su posible expansión en la isla.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/est%c3%a1-preparado-el-r%c3%a9gimen-para-la-revoluci%c3%b3n-del-internet-satelital/483324.html",
-      "destacada": false,
-      "tema": "preparado",
-      "fecha": "Mon, 02 Nov 2026 15:47:09 -0500",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubalex registra 682 presos políticos en Cuba y advierte que la cifra podría ser mayor",
-      "resumen": "Entre las prisiones con más presos políticos figuran el Combinado del Este, Valle Grande y la prisión provincial de Granma; Cubalex atribuye las dificultades de seguimiento a las restricciones de las autoridades sobre el acceso a la información.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cubalex-registra-682-presos-pol%c3%adticos-en-cuba-y-advierte-que-la-cifra-podr%c3%ada-ser-mayor/483317.html",
-      "destacada": false,
-      "tema": "cubalex",
-      "fecha": "Mon, 02 Nov 2026 15:14:48 -0500",
-      "id": 28
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -378,20 +443,7 @@
       "destacada": false,
       "tema": "estampas",
       "fecha": "Mon, 02 Nov 2026 15:08:00 +0000",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El futuro es ya",
-      "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/el-futuro-es-ya/483301.html",
-      "destacada": false,
-      "tema": "futuro",
-      "fecha": "Mon, 02 Nov 2026 15:00:35 -0500",
-      "id": 30
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -404,7 +456,7 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Mon, 02 Nov 26 14:56:00 +0100",
-      "id": 31
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -417,33 +469,7 @@
       "destacada": false,
       "tema": "leones",
       "fecha": "Mon, 02 Nov 2026 14:52:44 +0000",
-      "id": 32
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Por aquí pasa muy poca corriente: transformadores de la red eléctrica de La Habana",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793627004_69642.html",
-      "destacada": false,
-      "tema": "corriente",
-      "fecha": "Mon, 02 Nov 2026 14:43:24 +0100",
-      "id": 33
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La 'tolerancia cero' no frena las drogas en Cuba: condenado un hombre a 15 años en Las Tunas",
-      "resumen": "Las Tunas: 15 años de cárcel por vender marihuana, cocaína y cannabinoides sintéticos. El Gobierno exhibe un juicio \"ejemplarizante\" mientras la droga campea en toda #Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793624536_69668.html",
-      "destacada": false,
-      "tema": "tolerancia",
-      "fecha": "Mon, 02 Nov 2026 14:02:16 +0100",
-      "id": 34
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -456,32 +482,6 @@
       "destacada": false,
       "tema": "cubana",
       "fecha": "Mon, 02 Nov 2026 13:30:00 GMT",
-      "id": 35
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Nueva edición del Festival Mozart Habana 2026 con invitados de primer nivel",
-      "resumen": "Desde su creación, el Festival ha sido un espacio dedicado a la promoción de la obra de Mozart y también ha acogido a compositores de diferentes épocas y estilos, con espacio para el repertorio nacional e internacional",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-11-02/nueva-edicion-del-festival-mozart-habana-2026-con-invitados-de-primer-nivel-02-11-2026-13-11-36",
-      "destacada": false,
-      "tema": "nueva",
-      "fecha": "Mon, 02 Nov 2026 13:11:36 -0500",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Entra en vigor nuevo marco legal para la migración, la extranjería y la ciudadanía cubanas",
-      "resumen": "Desde el pasado domingo 1 de noviembre rigen en Cuba las leyes 171 Ley de Migración, 172 Ley de Ciudadanía y 173 Ley de Extranjería, junto con sus respectivos reglamentos, publicados en la Gaceta Oficial de la República de Cuba, No. 39",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-11-02/entra-en-vigor-nuevo-marco-legal-para-la-migracion-la-extranjeria-y-la-ciudadania-cubanas-02-11-2026-13-11-14",
-      "destacada": false,
-      "tema": "entra",
-      "fecha": "Mon, 02 Nov 2026 13:11:14 -0500",
       "id": 37
     },
     {
@@ -511,19 +511,6 @@
       "id": 39
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Una familia para los días difíciles",
-      "resumen": "Fundado el 1 de noviembre de 1991 por el reconocido oftalmólogo Orfilio Peláez Molina, el centro de retinosis pigmentaria de Bayamo fue el primero creado fuera de La Habana para atender esta enfermedad",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/salud/2026-11-02/una-familia-para-los-dias-dificiles-02-11-2026-09-11-18",
-      "destacada": false,
-      "tema": "familia",
-      "fecha": "Mon, 02 Nov 2026 09:11:18 -0500",
-      "id": 40
-    },
-    {
       "categoria": "transporte",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
@@ -534,7 +521,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 02 Nov 26 08:40:00 +0100",
-      "id": 41
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -547,7 +534,7 @@
       "destacada": false,
       "tema": "jonrón",
       "fecha": "Mon, 02 Nov 26 08:33:00 +0100",
-      "id": 42
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -560,7 +547,7 @@
       "destacada": false,
       "tema": "elecciones",
       "fecha": "Mon, 02 Nov 26 08:31:00 +0100",
-      "id": 43
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -573,98 +560,7 @@
       "destacada": false,
       "tema": "presionó",
       "fecha": "Mon, 02 Nov 26 07:57:00 +0100",
-      "id": 44
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba 130, el chantaje 17",
-      "resumen": "María Teresa Felipe Sosa Diario Red María Teresa Felipe Sosa (La Habana) es licenciada en Historia d...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125832-cuba-130-el-chantaje-17.jpg?t=1793602556",
-      "enlace_original": "https://www.cubainformacion.tv/opinion/20261102/125832/125832-cuba-130-el-chantaje-17",
-      "destacada": false,
-      "tema": "chantaje",
-      "fecha": "Mon, 02 Nov 26 07:54:00 +0100",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.radiocubana.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Un día como hoy en la vida y obra de Fidel. 2 de noviembre",
-      "resumen": "&#8211; 2 de noviembre del 2001. Fidel comparece en la Televisión Cubana y trata sobre la situación internacional, la crisis económica y mundial y la forma en que puede afectar a Cuba. Detalla: &#160; “… a mediados de la década del 90, cuando la globalización neoliberal se extendía por todo el plane",
-      "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/un-dia-como-hoy-en-la-vida-y-obra-de-fidel/un-dia-como-hoy-en-la-vida-y-obra-de-fidel-2-de-noviembre-2/",
-      "destacada": false,
-      "tema": "fidel",
-      "fecha": "Mon, 02 Nov 2026 04:47:34 +0000",
-      "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Esta es la verdad",
-      "resumen": "Tras la victoria de Cuba en Naciones Unidas por trigésima cuarta ocasión, muchas ideas y argumentos sobre la necesidad de poner fin al bloqueo económico, comercial, financiero y energético salieron de nuevo al debate",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261101/esta-es-la-verdad/",
-      "destacada": false,
-      "tema": "verdad",
-      "fecha": "Mon, 02 Nov 2026 02:07:19 +0000",
-      "id": 47
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Democracia",
-      "resumen": "Cinco décadas después de su constitución, las Asambleas Municipales del Poder Popular continúan siendo un pilar de la democracia cubana, fortalecida en la actualidad por proyectos comunitarios como Mi Barrio por la Patria",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261101/democracia/",
-      "destacada": false,
-      "tema": "democracia",
-      "fecha": "Mon, 02 Nov 2026 01:47:33 +0000",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Principios básicos del Derecho del Trabajo en el nuevo Código",
-      "resumen": "I. Introducción; II. El Derecho Cubano del Trabajo; III. Los principios específicos del Derecho Cubano del Trabajo; IV. Reflexiones finales",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261101/principios-basicos-del-derecho-del-trabajo-en-el-nuevo-codigo/",
-      "destacada": false,
-      "tema": "principios",
-      "fecha": "Mon, 02 Nov 2026 01:16:09 +0000",
-      "id": 49
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Banco Metropolitano informa nuevo horario de servicio a partir del 2 de noviembre",
-      "resumen": "A partir del próximo lunes 2 de noviembre, el Banco Metropolitano (Banmet) aplicará un nuevo horario de servicio en sus sucursales bancarias La entrada Banco Metropolitano informa nuevo horario de servicio a partir del 2 de noviembre se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/banco-metropolitano-informa-nuevo-horario-de-servicio-a-partir-del-2-de-noviembre/",
-      "destacada": false,
-      "tema": "banco",
-      "fecha": "Sun, 01 Nov 2026 22:57:20 +0000",
-      "id": 50
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "De triciclos y buquenques",
-      "resumen": "La escasez de combustible para el transporte estatal ha aumentado la presencia de triciclos eléctricos, en su mayoría privados, en La Habana y otras ciudades. Muchos trabajadores recurren a ellos para llegar a sus centros laborales. Mientras tanto, sube el costo de los viajes por tramos, una carga c",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261101/de-triciclos-y-buquenques/",
-      "destacada": false,
-      "tema": "triciclos",
-      "fecha": "Sun, 01 Nov 2026 22:03:11 +0000",
-      "id": 51
+      "id": 43
     }
   ]
 }
