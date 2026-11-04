@@ -1,46 +1,85 @@
 {
-  "fecha": "2026-11-03",
-  "hora": "23:49",
-  "total": 55,
+  "fecha": "2026-11-04",
+  "hora": "04:04",
+  "total": 47,
   "noticias": [
     {
-      "categoria": "sociedad",
+      "categoria": "politica",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Nueva Ley de la Vivienda: MICONS responde las dudas de los lectores de Cubadebate",
-      "resumen": "A propósito de la entrada en vigor del nuevo cuerpo legislativo, los lectores de Cubadebate expresaron dudas sobre distintos aspectos de la Ley de la Vivienda. Para explicar los detalles, Marvelis Velázquez Reyes, directora de Asuntos Legales de la Vivienda en el Ministerio de la Construcción, preci",
+      "titulo": "¿Qué nuevos mecanismos establece la ley para la gestión habitacional en Cuba?",
+      "resumen": "La aprobación de la nueva Ley de la Vivienda en Cuba introduce cambios en el marco jurídico que regula la producción, gestión y conservación del fondo habitacional. La Ley 187, según explicó René Antonio Mesa Villafaña, ministro de la Construcción, en el espacio televisivo Mesa Redonda, busca supera",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/03/nueva-ley-de-la-vivienda-micons-responde-las-dudas-de-los-lectores-de-cubadebate/",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/03/que-nuevos-mecanismos-establece-la-ley-para-la-gestion-habitacional-en-cuba/",
       "destacada": true,
-      "tema": "nueva",
-      "fecha": "Tue, 03 Nov 2026 23:48:48 +0000",
+      "tema": "nuevos",
+      "fecha": "Wed, 04 Nov 2026 03:21:25 +0000",
       "id": 1
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Diez meses después de la caída de Maduro, ¿por qué sigue en pie la dictadura cubana? Expertos de Miami lo explican",
-      "resumen": "",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Beisbol5: Medalla de oro para Cuba en Dakar 2026",
+      "resumen": "El equipo de Béisbol5 de Cuba conquistó hoy la medalla de oro en la cuarta edición de los Juegos Olímpicos de la Juventud de Dakar 2026, capital senegalesa, al derrotar 2-0 a Taipéi de China, actuación a la que se suma el quinto lugar conseguido por la judoca Kayla Lazaret Pita, en los 76 kilogramos",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e129488-s27061-nid344678-diez-meses-despues-caida-maduro-sigue-pie-dictadura",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/03/beisbol5-medalla-de-oro-para-cuba-en-dakar-2026/",
       "destacada": true,
-      "tema": "meses",
-      "fecha": "Tue, 03 Nov 2026 23:22:02 +0100",
+      "tema": "medalla",
+      "fecha": "Wed, 04 Nov 2026 03:07:18 +0000",
       "id": 2
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "«Hemos perdido a muchas personas buenas»: cubanoamericana relata cómo las redadas de ICE afectan su trabajo en Miami",
+      "titulo": "«Estuve toda la tarde en un calabozo»: Camila Acosta tras detención arbitraria en La Habana",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e208933-s27061-nid344730-hemos-perdido-muchas-personas-buenas-cubanoamericana",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-04-u1-e199291-s27061-nid344756-estuve-toda-tarde-calabozo-camila-acosta-tras",
       "destacada": true,
-      "tema": "hemos",
-      "fecha": "Tue, 03 Nov 2026 23:11:00 +0100",
+      "tema": "estuve",
+      "fecha": "Wed, 04 Nov 2026 02:48:53 +0100",
       "id": 3
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Dólar alcanza los 910 pesos en Cuba y el euro se acerca a los 1,000: así cierra el mercado informal este martes",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-04-u1-e208933-s27061-nid344754-dolar-alcanza-910-pesos-cuba-euro-acerca-1000-asi",
+      "destacada": true,
+      "tema": "tipo_cambio",
+      "fecha": "Wed, 04 Nov 2026 02:43:49 +0100",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La prensa oficial cubana aprende en China cómo vender una imagen positiva de Pekín",
+      "resumen": "#China convoca a los medios periodísticos oficiales de sus aliados para reclamarles una agenda favorable a sus intereses. Los del régimen de #Cuba participan sin falta.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793750267_69689.html",
+      "destacada": true,
+      "tema": "prensa",
+      "fecha": "Wed, 04 Nov 2026 00:57:47 +0100",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Nueva Ley de la Vivienda: MICONS responde las dudas de los lectores de Cubadebate",
+      "resumen": "A partir de las dudas planteadas por los lectores de Cubadebate, Marvelis Velázquez, directora de Asuntos Legales de la Vivienda del Ministerio de la Construcción, aclara los principales aspectos de la nueva norma: su entrada en vigor, la titularidad de inmuebles por extranjeros no residentes, los d",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/03/nueva-ley-de-la-vivienda-micons-responde-las-dudas-de-los-lectores-de-cubadebate/",
+      "destacada": false,
+      "tema": "nueva",
+      "fecha": "Tue, 03 Nov 2026 23:48:48 +0000",
+      "id": 6
     },
     {
       "categoria": "transporte",
@@ -50,48 +89,9 @@
       "resumen": "#EEUU envía a #Cuba otros 1.400 kits de alimentos e higiene, que serán distribuidos entre personas vulnerables de #Cienfuegos. Es el primer cargamento de noviembre, tras siete vuelos en octubre.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1793743854_69690.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "envía",
       "fecha": "Tue, 03 Nov 2026 23:10:54 +0100",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba conquista la corona en Olímpicos de la Juventud Dakar 2026",
-      "resumen": "Dakar, 3 nov (Prensa Latina) La selección cubana de beisbol5 conquistó hoy la corona en los Juegos Olímpicos de la Juventud Dakar 2026, al doblegar en la final a Taipéi de China por 2-0, y marcadores de 2-1 y 7-1. The post Cuba conquista la corona en Olímpicos de la Juventud Dakar 2026 first appeare",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/03/cuba-conquista-la-corona-en-olimpicos-de-la-juventud-dakar-2026/",
-      "destacada": true,
-      "tema": "conquista",
-      "fecha": "Tue, 03 Nov 2026 23:03:57 +0000",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubana residente en Francia intenta boicotear presentación del programa de transición a la libertad de Rosa María Payá",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e207888-s27061-nid344725-cubana-residente-francia-intenta-boicotear",
-      "destacada": false,
-      "tema": "cubana",
-      "fecha": "Tue, 03 Nov 2026 22:43:14 +0100",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Acusan a cubano con Green Card de mentir sobre su ciudadanía para votar en Estados Unidos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-03-u1-e208933-s27061-nid344726-acusan-cubano-green-card-mentir-ciudadania-votar",
-      "destacada": false,
-      "tema": "acusan",
-      "fecha": "Tue, 03 Nov 2026 22:37:11 +0100",
       "id": 7
     },
     {
@@ -174,16 +174,29 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Gaceta Oficial publica Decreto 162 que amplía la contratación de servicios en unidades presupuestadas",
-      "resumen": "Cuba extendió a las unidades presupuestadas la posibilidad de contratar a trabajadores de la propia entidad para realizar actividades de mantenimiento y otros servicios, mediante el Decreto 162, publicado hoy en la Gaceta Oficial. The post Gaceta Oficial publica Decreto 162 que amplía la contratació",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al día",
+      "resumen": "Nueva ley migratoria de Cuba: ¿qué cambia para quienes viven fuera?",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/03/gaceta-oficial-publica-decreto-162-que-amplia-la-contratacion-de-servicios-en-unidades-presupuestadas/",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/483408.html",
       "destacada": false,
-      "tema": "gaceta",
-      "fecha": "Tue, 03 Nov 2026 20:04:49 +0000",
+      "tema": "",
+      "fecha": "Tue, 03 Nov 2026 20:06:51 -0500",
       "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 8:00 PM",
+      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/482362.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Tue, 03 Nov 2026 20:00:00 -0500",
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -196,7 +209,7 @@
       "destacada": false,
       "tema": "asistenciado",
       "fecha": "Tue, 03 Nov 2026 19:56:10 +0000",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -209,33 +222,7 @@
       "destacada": false,
       "tema": "meliá",
       "fecha": "Tue, 03 Nov 2026 19:43:46 +0100",
-      "id": 16
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Rosa Miriam Elizalde: “Servir al país desde la comunicación”",
-      "resumen": "Rosa Miriam Elizalde, reconocida periodista distinguida con el Premio Nacional de Comunicación Social 2026, explica su deseo de pensarlo \"no como un punto de llegada, sino como parte de la construcción colectiva de una disciplina que todavía tiene muchísimo que aportar a Cuba\". The post Rosa Miriam ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/03/servir-al-pais-desde-la-comunicacion-rosa-miriam-elizalde-recibe-premio-nacional-de-comunicacion-social/",
-      "destacada": false,
-      "tema": "miriam",
-      "fecha": "Tue, 03 Nov 2026 19:31:33 +0000",
       "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Festival de Cine Europeo llega a La Habana y a otras seis provincias de Cuba con 18 filmes",
-      "resumen": "Con 18 filmes y 16 naciones participantes llegará la novena edición del Festival de Cine Europeo a La Habana y, por primera vez, a otras seis provincias de Cuba, del 5 al 15 de noviembre. La cita cultural se enmarca en el Mes de Europa, que este año abarca del 22 de octubre al 22 de noviembre, expli",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/03/festival-de-cine-europeo-llega-a-la-habana-y-a-otras-seis-provincias-de-cuba-con-18-filmes/",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Tue, 03 Nov 2026 19:18:31 +0000",
-      "id": 18
     },
     {
       "categoria": "economia",
@@ -248,7 +235,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 03 Nov 2026 18:52:52 +0000",
-      "id": 19
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -261,7 +248,7 @@
       "destacada": false,
       "tema": "castrismo",
       "fecha": "Tue, 03 Nov 2026 18:48:48 +0100",
-      "id": 20
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -274,7 +261,7 @@
       "destacada": false,
       "tema": "palabra",
       "fecha": "Tue, 03 Nov 2026 18:27:58 +0000",
-      "id": 21
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -287,7 +274,7 @@
       "destacada": false,
       "tema": "presentación",
       "fecha": "Tue, 03 Nov 2026 18:26:38 +0100",
-      "id": 22
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -300,20 +287,7 @@
       "destacada": false,
       "tema": "estado",
       "fecha": "Tue, 03 Nov 2026 18:00:42 +0100",
-      "id": 23
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cubanos Residentes en España condenan el bloqueo ante la Cumbre Iberoamericana",
-      "resumen": "La Federación de Asociaciones de Cubanos Residentes en España (Facre), José Martí, difundió hoy un comunicado ante la XXX Cumbre Iberoamericana de Madrid, en el que subrayó el bloqueo de Estados Unidos y exigió respeto a la soberanía de la Isla. The post Cubanos Residentes en España condenan el bloq",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/03/cubanos-residentes-en-espana-condenan-el-bloqueo-ante-la-cumbre-iberoamericana/",
-      "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Tue, 03 Nov 2026 17:59:49 +0000",
-      "id": 24
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -326,7 +300,7 @@
       "destacada": false,
       "tema": "película",
       "fecha": "Tue, 03 Nov 2026 17:35:03 +0100",
-      "id": 25
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -339,7 +313,7 @@
       "destacada": false,
       "tema": "radio",
       "fecha": "Tue, 03 Nov 2026 17:33:03 +0000",
-      "id": 26
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -352,7 +326,7 @@
       "destacada": false,
       "tema": "elecciones",
       "fecha": "Tue, 03 Nov 2026 17:13:38 -0500",
-      "id": 27
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -365,7 +339,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Tue, 03 Nov 26 17:07:00 +0100",
-      "id": 28
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -378,7 +352,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Tue, 03 Nov 2026 17:00:30 -0500",
-      "id": 29
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -391,7 +365,7 @@
       "destacada": false,
       "tema": "anette",
       "fecha": "Tue, 03 Nov 2026 16:51:21 +0000",
-      "id": 30
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -404,7 +378,7 @@
       "destacada": false,
       "tema": "ballet",
       "fecha": "Tue, 03 Nov 2026 16:51:10 +0000",
-      "id": 31
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -417,7 +391,7 @@
       "destacada": false,
       "tema": "restan",
       "fecha": "Tue, 03 Nov 2026 16:49:06 +0000",
-      "id": 32
+      "id": 30
     },
     {
       "categoria": "transporte",
@@ -430,7 +404,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Tue, 03 Nov 2026 16:30:00 GMT",
-      "id": 33
+      "id": 31
     },
     {
       "categoria": "energia",
@@ -443,20 +417,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Tue, 03 Nov 2026 16:05:30 -0500",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Una redada en La Habana acaba con 71 detenidos, incluidos migrantes internos",
-      "resumen": "Un operativo se salda con más de medio centenar de personas detenidas a quienes el MININT señala por drogas, armas, multas pendientes y restricciones de residencia.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793716182_69681.html",
-      "destacada": false,
-      "tema": "redada",
-      "fecha": "Tue, 03 Nov 2026 15:29:42 +0100",
-      "id": 35
+      "id": 32
     },
     {
       "categoria": "economia",
@@ -469,7 +430,7 @@
       "destacada": false,
       "tema": "rediseña",
       "fecha": "Tue, 03 Nov 2026 15:24:28 +0000",
-      "id": 36
+      "id": 33
     },
     {
       "categoria": "salud",
@@ -482,59 +443,7 @@
       "destacada": false,
       "tema": "seguros",
       "fecha": "Tue, 03 Nov 2026 14:54:27 +0000",
-      "id": 37
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Martí integra energía solar y biometano para impulsar el transporte público y la economía circular",
-      "resumen": "El municipio de Martí continúa consolidándose como referente nacional en la transición energética y la sostenibilidad. En el marco del proyecto «Acción Global para el Cambio Climático en Cuba, municipalidad de Martí hacia un modelo de desarrollo sostenible carbono neutro», se impulsa una innovadora ",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/11/03/marti-energia-solar-biometano-transporte/",
-      "destacada": false,
-      "tema": "transporte",
-      "fecha": "Tue, 03 Nov 2026 13:55:46 +0000",
-      "id": 38
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba publica Ley de Organización de la Administración del Estado",
-      "resumen": "La Ley 186 de Organización de la Administración Central del Estado fue publicada este lunes en la edición ordinaria número 90 de la Gaceta Oficial de la República de Cuba",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/11/03/cuba-publica-ley-de-administracion-estado/",
-      "destacada": false,
-      "tema": "publica",
-      "fecha": "Tue, 03 Nov 2026 13:37:00 +0000",
-      "id": 39
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Otra central flotante turca abandona Cuba en medio de apagones de hasta tres días",
-      "resumen": "La salida definitiva de la Erol Bey de 63 MW, que se suma a la de otras seis unidades, deja a #Cuba con una sola flotante eléctrica turca.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793708162_69680.html",
-      "destacada": false,
-      "tema": "apagones",
-      "fecha": "Tue, 03 Nov 2026 13:16:02 +0100",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Entran en vigor las nuevas leyes de Migración, Ciudadanía y Extranjería en Cuba",
-      "resumen": "Este domingo 1 de noviembre entraron en vigor en Cuba las nuevas leyes de Migración, Ciudadanía y Extranjería, aprobadas por la Asamblea Nacional del Poder Popular en julio de 2024",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/11/03/entran-en-vigor-nuevas-leyes-migracion-ciudadania-extranjeria/",
-      "destacada": false,
-      "tema": "entran",
-      "fecha": "Tue, 03 Nov 2026 13:08:00 +0000",
-      "id": 41
+      "id": 34
     },
     {
       "categoria": "economia",
@@ -547,7 +456,7 @@
       "destacada": false,
       "tema": "mipymes",
       "fecha": "Tue, 03 Nov 2026 12:25:32 +0000",
-      "id": 42
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -560,7 +469,7 @@
       "destacada": false,
       "tema": "facre",
       "fecha": "Tue, 03 Nov 26 11:44:00 +0100",
-      "id": 43
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -573,7 +482,7 @@
       "destacada": false,
       "tema": "riesgo",
       "fecha": "Tue, 03 Nov 2026 11:42:50 GMT",
-      "id": 44
+      "id": 37
     },
     {
       "categoria": "economia",
@@ -586,20 +495,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 03 Nov 2026 11:20:00 GMT",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Soluciones tecnológicas, servicios diversificados y transición energética: premisas de Copextel en Santiago de Cuba",
-      "resumen": "La diversificación de los servicios, dicta la gestión de la filial santiaguera de la empresa Copextel, que también prioriza su participación en el proceso de transición de la matriz energética con la instalación de kits de paneles fotovoltaicos en viviendas aisladas, de trabajadores de los sectores ",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-11-03/soluciones-tecnologicas-servicios-diversificados-y-transicion-energetica-premisas-de-copextel-en-santiago-de-cuba-03-11-2026-10-11-02",
-      "destacada": false,
-      "tema": "soluciones",
-      "fecha": "Tue, 03 Nov 2026 10:11:02 -0500",
-      "id": 46
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -612,7 +508,7 @@
       "destacada": false,
       "tema": "congress",
       "fecha": "Tue, 03 Nov 26 08:37:00 +0100",
-      "id": 47
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -625,7 +521,7 @@
       "destacada": false,
       "tema": "piazze",
       "fecha": "Tue, 03 Nov 26 08:36:00 +0100",
-      "id": 48
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -638,7 +534,7 @@
       "destacada": false,
       "tema": "vitória",
       "fecha": "Tue, 03 Nov 26 08:36:00 +0100",
-      "id": 49
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -651,7 +547,7 @@
       "destacada": false,
       "tema": "inesperado",
       "fecha": "Tue, 03 Nov 26 08:35:00 +0100",
-      "id": 50
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -664,7 +560,7 @@
       "destacada": false,
       "tema": "comida",
       "fecha": "Tue, 03 Nov 26 08:21:00 +0100",
-      "id": 51
+      "id": 43
     },
     {
       "categoria": "salud",
@@ -677,7 +573,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 03 Nov 26 08:10:00 +0100",
-      "id": 52
+      "id": 44
     },
     {
       "categoria": "energia",
@@ -690,7 +586,7 @@
       "destacada": false,
       "tema": "depende",
       "fecha": "Tue, 03 Nov 26 08:04:00 +0100",
-      "id": 53
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -703,7 +599,7 @@
       "destacada": false,
       "tema": "asedio",
       "fecha": "Tue, 03 Nov 26 07:59:00 +0100",
-      "id": 54
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -716,7 +612,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Tue, 03 Nov 2026 04:51:23 +0000",
-      "id": 55
+      "id": 47
     }
   ]
 }
