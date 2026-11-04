@@ -1,20 +1,345 @@
 {
   "fecha": "2026-11-04",
-  "hora": "04:04",
-  "total": 47,
+  "hora": "12:41",
+  "total": 50,
   "noticias": [
+    {
+      "categoria": "energia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El Gobierno cubano quiere ahora opiniones sobre las 176 transformaciones que ya aprobó",
+      "resumen": "Sin explicar qué podrán cambiar los ciudadanos ni cómo participarán quienes carezcan de electricidad o conexión, el Gobierno abre una plataforma para opinar sobre 176 medidas ya aprobadas.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793795876_69694.html",
+      "destacada": true,
+      "tema": "gobierno",
+      "fecha": "Wed, 04 Nov 2026 13:37:56 +0100",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Pedro Monreal cuestiona las reformas a la empresa estatal cubana: Estos son sus argumentos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-04-u1-e199370-s27061-nid344778-pedro-monreal-cuestiona-reformas-empresa-estatal",
+      "destacada": true,
+      "tema": "pedro",
+      "fecha": "Wed, 04 Nov 2026 12:37:19 +0100",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Elecciones en EEUU: los demócratas recuperan el Congreso; los republicanos conservan Florida",
+      "resumen": "Los legisladores #cubanoamericanos retienen sus escaños y el régimen dice no esperar cambios en la política estadounidense hacia #Cuba tras las elecciones de medio mandato en #EEUU. Aquí resultados generales.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/internacional/1793791470_69693.html",
+      "destacada": true,
+      "tema": "elecciones",
+      "fecha": "Wed, 04 Nov 2026 12:24:30 +0100",
+      "id": 3
+    },
+    {
+      "categoria": "economia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba realizará el Ejercicio Estratégico “Moncada 2026” y el Día Nacional de la Defensa",
+      "resumen": "Los días 4 y 5 de noviembre se desarrollará en todo el país el Ejercicio Estratégico “Moncada 2026”, que tiene como objetivo continuar elevando el nivel de preparación y cohesión de los órganos de dirección y de mando, las tropas, el sistema defensivo territorial y la economía. El viernes 6 de novie",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/04/cuba-realizara-el-ejercicio-estrategico-moncada-2026-y-el-dia-nacional-de-la-defensa/",
+      "destacada": true,
+      "tema": "realizará",
+      "fecha": "Wed, 04 Nov 2026 12:22:38 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Biomodulina T, un fármaco cubano",
+      "resumen": "El esquema de tratamiento con Biomodulina T ya aparece en la nueva versión del Formulario de Medicamentos de Cuba y puede ser utilizado por cualquier inmunólogo en el país y el mundo",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261104/biomodulina-t-un-farmaco-cubano/",
+      "destacada": true,
+      "tema": "biomodulina",
+      "fecha": "Wed, 04 Nov 2026 11:25:11 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Pensionados en Cuba denuncian meses de retraso en pagos desde Europa",
+      "resumen": "Personas que cobran en Cuba pensiones enviadas desde Europa denuncian retrasos de tres meses y que el pago no se realiza en efectivo. Según el testimonio recibido por elTOQUE, los depósitos comenzaron a llegar a cuentagotas tras una reunión celebrada el 23 de octubre de 2026 con el Banco Central de ",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/Portada_Pensionados_b0369a63b0.jpeg",
+      "enlace_original": "https://eltoque.com/pensionados-en-cuba-denuncian-meses-de-retraso-en-pagos-desde-europa",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Wed, 04 Nov 2026 11:08:16 GMT",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Ley de la Vivienda en Cuba: Propiedad garantizada, nuevos actores y más derechos",
+      "resumen": "En el espacio televisivo Mesa Redonda de este martes, Marvelis Velázquez, directora de Asuntos Legales de la Vivienda del Ministerio de la Construcción, explicó que la nueva Ley de la Vivienda introduce numerosas novedades. A su juicio, la norma ratifica la voluntad del Estado cubano de resolver el ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/04/ley-de-la-vivienda-en-cuba-propiedad-garantizada-nuevos-actores-y-mas-derechos/",
+      "destacada": false,
+      "tema": "vivienda",
+      "fecha": "Wed, 04 Nov 2026 10:58:20 +0000",
+      "id": 7
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "CTC en Santiago de Cuba estimula conocimiento de Ley 189",
+      "resumen": "Por estos días de noviembre la Central de Trabajadores de Cuba y sus 15 sindicatos en la provincia santiaguera intensifican el intercambio con quienes se desempeñan en el ámbito no estatal de la economía en aras de favorecer el estudio del Código de Trabajo, y otros procesos.",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261104/ctc-en-santiago-de-cuba-estimula-conocimiento-de-ley-189/",
+      "destacada": false,
+      "tema": "santiago",
+      "fecha": "Wed, 04 Nov 2026 10:34:28 +0000",
+      "id": 8
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Rosa María Payá presenta en Madrid un plan de transición para Cuba en tres fases",
+      "resumen": "La propuesta contempla desmantelar el aparato represivo, distribuir ayuda humanitaria, constituir un gobierno provisional de 36 meses máximo y convocar elecciones libres",
+      "imagen_url": "https://static.14ymedio.com/clip/ca910896-bf6d-42f3-8f73-654423d6ab50_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/rosa-maria-paya-presenta-madrid_1_1132793.html",
+      "destacada": false,
+      "tema": "maría",
+      "fecha": "Wed, 04 Nov 2026 09:34:22 +0000",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "What Cubans Think About The U.S. Midterm Elections",
+      "resumen": "Belly of The Beast Cuba",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125893-what-cubans-think-about-the-u-s-midterm-elections.jpg?t=1793779087",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261104/125893/125893-what-cubans-think-about-the-u-s-midterm-elections",
+      "destacada": false,
+      "tema": "cubans",
+      "fecha": "Wed, 04 Nov 26 08:58:00 +0100",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "130 v/s 17: La Victoria de Cuba que Trump, Rubio y Escudo de las Américas NO QUIEREN que veas",
+      "resumen": "Jóvenes en Revolución",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125892-130-v-s-17-la-victoria-de-cuba-que-trump-rubio-y-escudo-de-las-americas-no-quieren-que-veas.jpg?t=1793779056",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261104/125892/125892-130-v-s-17-la-victoria-de-cuba-que-trump-rubio-y-escudo-de-las-americas-no-quieren-que-veas",
+      "destacada": false,
+      "tema": "victoria",
+      "fecha": "Wed, 04 Nov 26 08:57:00 +0100",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Trump, el caníbal anaranjado",
+      "resumen": "La Florecita Cubana",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125891-trump-el-canibal-anaranjado.jpg?t=1793779005",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261104/125891/125891-trump-el-canibal-anaranjado",
+      "destacada": false,
+      "tema": "trump",
+      "fecha": "Wed, 04 Nov 26 08:56:00 +0100",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Escucha esto. Mejor explicado imposible",
+      "resumen": "CUBA No Es Miami",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125890-escucha-esto-mejor-explicado-imposible.jpg?t=1793778976",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261104/125890/125890-escucha-esto-mejor-explicado-imposible",
+      "destacada": false,
+      "tema": "escucha",
+      "fecha": "Wed, 04 Nov 26 08:56:00 +0100",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuando más allá de las ideologías lo que toca es votar a favor o en contra del fascismo",
+      "resumen": "Guerrero Cubano con su verdad al desnudo",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125889-cuando-mas-alla-de-las-ideologias-lo-que-toca-es-votar-a-favor-o-en-contra-del-fascismo.jpg?t=1793778940",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261104/125889/125889-cuando-mas-alla-de-las-ideologias-lo-que-toca-es-votar-a-favor-o-en-contra-del-fascismo",
+      "destacada": false,
+      "tema": "ideologías",
+      "fecha": "Wed, 04 Nov 26 08:55:00 +0100",
+      "id": 14
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba importó en agosto 562.000 barriles de combustible de EE UU, según datos oficiales",
+      "resumen": "Un informe de Cuba Siglo 21 celebra que Washington haya logrado quitar a Gaesa el control del suministro energético a la Isla",
+      "imagen_url": "https://static.14ymedio.com/clip/93a695c9-8a5b-410d-b861-92c2cf03bc2d_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/cuba-importo-agosto-562-000_1_1132770.html",
+      "destacada": false,
+      "tema": "importó",
+      "fecha": "Wed, 04 Nov 2026 08:27:14 +0000",
+      "id": 15
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Voto de castigo a Trump: demócratas ganan el Senado y la Cámara de Representantes",
+      "resumen": "Presidente norteamericano, Donald Trump. Foto: Archivo/ Cubadebate....",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125877-voto-de-castigo-a-trump-democratas-ganan-el-senado-y-la-camara-de-representantes.jpg?t=1793771733",
+      "enlace_original": "https://www.cubainformacion.tv/mundo/20261104/125877/125877-voto-de-castigo-a-trump-democratas-ganan-el-senado-y-la-camara-de-representantes",
+      "destacada": false,
+      "tema": "castigo",
+      "fecha": "Wed, 04 Nov 26 08:05:00 +0100",
+      "id": 16
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Presidenta Sheinbaum se suma a colecta para enviar 40 mil litros de gasolina a Cuba",
+      "resumen": "Con una estampa coleccionable de 25 pesos, equivalente a un litro de combustible, la presidenta Claudia Sheinbaum Pardo se sumó a una colecta con la que la Liga Cultural Antifascista busca enviar 40 mil litros de gasolina a Cuba. “¡Cada litro cuenta para defender la vida y la soberanía de los pueblo",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/04/presidenta-sheinbaum-se-suma-a-colecta-para-enviar-40-mil-litros-de-gasolina-a-cuba/",
+      "destacada": false,
+      "tema": "presidenta",
+      "fecha": "Wed, 04 Nov 2026 08:04:17 +0000",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "&quot;No dejemos de hablar de Cuba y del bloqueo criminal que sufre&quot;: charla sobre &quot;solidaridad frente a un genocidio silencioso&quot; llenó el local de Zabaldi en Iruñea-Pamplona (+Fotos)",
+      "resumen": "Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125888-no-dejemos-de-hablar-de-cuba-y-del-bloqueo-criminal-que-sufre-charla-sobre-solidaridad-frente-a-un-genocidio-silencioso-lleno-el-local-de-zabaldi-en-irunea-pamplona-fotos.jpg?t=1793776831",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261104/125888/125888-no-dejemos-de-hablar-de-cuba-y-del-bloqueo-criminal-que-sufre-charla-sobre-solidaridad-frente-a-un-genocidio-silencioso-lleno-el-local-de-zabaldi-en-irunea-pamplona-fotos",
+      "destacada": false,
+      "tema": "dejemos",
+      "fecha": "Wed, 04 Nov 26 08:04:00 +0100",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EEUU asegura que se está 'ocupando de Cuba', pero la presión sigue sin traducirse, de momento, en un cambio político",
+      "resumen": "Un alto funcionario de #EEUU niega que la guerra en Irán haya relegado a #Cuba. Mientras Trump promete una victoria, expertos señalan obstáculos para doblegar al régimen.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793775511_69692.html",
+      "destacada": false,
+      "tema": "asegura",
+      "fecha": "Wed, 04 Nov 2026 07:58:31 +0100",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Diversidad y color de la piel en Cuba",
+      "resumen": "Cubavisión Internacional.- Hablar de diversidad de colores de piel en Cuba es adentrarse en una real...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125887-diversidad-y-color-de-la-piel-en-cuba.jpg?t=1793775542",
+      "enlace_original": "https://www.cubainformacion.tv/genero/20261104/125887/125887-diversidad-y-color-de-la-piel-en-cuba",
+      "destacada": false,
+      "tema": "diversidad",
+      "fecha": "Wed, 04 Nov 26 07:58:00 +0100",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba, campeona olímpica de Beisbol5",
+      "resumen": "Derrotó en la final a Taipéi de China, con marcadores de 2-1 y 7-1. Oscar Sánchez Serra JIT La se...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125886-cuba-campeona-olimpica-de-beisbol5.jpg?t=1793775466",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261104/125886/125886-cuba-campeona-olimpica-de-beisbol5",
+      "destacada": false,
+      "tema": "campeona",
+      "fecha": "Wed, 04 Nov 26 07:54:00 +0100",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Proyecto Toparte transforma escuela secundaria en La Habana con arte mural",
+      "resumen": "Cubavisión Internacional.- El proyecto sociocultural Toparte lleva su creatividad a la escuela secun...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125885-proyecto-toparte-transforma-escuela-secundaria-en-la-habana-con-arte-mural.jpg?t=1793775186",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261104/125885/125885-proyecto-toparte-transforma-escuela-secundaria-en-la-habana-con-arte-mural",
+      "destacada": false,
+      "tema": "proyecto",
+      "fecha": "Wed, 04 Nov 26 07:51:00 +0100",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Granma destaca cooperación mediática en foro internacional en China",
+      "resumen": "Yoerky Sánchez Cuellar, director del periódico Granma, intervino en el Foro del Desarrollo de las Civilizaciones de la Ruta de la Seda, donde denunció los efectos del bloqueo contra Cuba y propuso nuevas iniciativas para el entendimiento entre los pueblos del Sur Global",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-11-04/granma-destaca-cooperacion-mediatica-en-foro-internacional-en-china-04-11-2026-07-11-47",
+      "destacada": false,
+      "tema": "granma",
+      "fecha": "Wed, 04 Nov 2026 07:11:47 -0500",
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba Habla: \"Hay mucha gente que se acuesta sin comer”",
+      "resumen": "Desde La Habana, cubana explica las dificultades que enfrenta para adquirir alimentos, refiere altos costos e insuficiente salario.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-hay-mucha-gente-que-se-acuesta-sin-comer/483064.html",
+      "destacada": false,
+      "tema": "habla",
+      "fecha": "Wed, 04 Nov 2026 06:00:00 -0500",
+      "id": 24
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Pandillas haitianas están entrando a Cuba y asesinando familias? No hay pruebas que lo demuestren",
+      "resumen": "Dos llegadas documentadas de pescadores y migrantes haitianos a Santiago de Cuba no guardan relación con pandillas ni con hechos violentos contra la población.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/pandillas_haiti_cuba_salvador_4bba7278cc.jpg",
+      "enlace_original": "https://eltoque.com/pandillas-haitianas-estan-entrando-a-cuba-y-asesinando-familias-no-hay-pruebas-que-lo-demuestren",
+      "destacada": false,
+      "tema": "transporte",
+      "fecha": "Wed, 04 Nov 2026 04:06:41 GMT",
+      "id": 25
+    },
     {
       "categoria": "politica",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
-      "titulo": "¿Qué nuevos mecanismos establece la ley para la gestión habitacional en Cuba?",
+      "titulo": "¿Qué cambios introduce la ley en la gestión habitacional en Cuba?",
       "resumen": "La aprobación de la nueva Ley de la Vivienda en Cuba introduce cambios en el marco jurídico que regula la producción, gestión y conservación del fondo habitacional. La Ley 187, según explicó René Antonio Mesa Villafaña, ministro de la Construcción, en el espacio televisivo Mesa Redonda, busca supera",
       "imagen_url": "",
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/03/que-nuevos-mecanismos-establece-la-ley-para-la-gestion-habitacional-en-cuba/",
-      "destacada": true,
-      "tema": "nuevos",
+      "destacada": false,
+      "tema": "cambios",
       "fecha": "Wed, 04 Nov 2026 03:21:25 +0000",
-      "id": 1
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -24,36 +349,10 @@
       "resumen": "El equipo de Béisbol5 de Cuba conquistó hoy la medalla de oro en la cuarta edición de los Juegos Olímpicos de la Juventud de Dakar 2026, capital senegalesa, al derrotar 2-0 a Taipéi de China, actuación a la que se suma el quinto lugar conseguido por la judoca Kayla Lazaret Pita, en los 76 kilogramos",
       "imagen_url": "",
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/03/beisbol5-medalla-de-oro-para-cuba-en-dakar-2026/",
-      "destacada": true,
+      "destacada": false,
       "tema": "medalla",
       "fecha": "Wed, 04 Nov 2026 03:07:18 +0000",
-      "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Estuve toda la tarde en un calabozo»: Camila Acosta tras detención arbitraria en La Habana",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-04-u1-e199291-s27061-nid344756-estuve-toda-tarde-calabozo-camila-acosta-tras",
-      "destacada": true,
-      "tema": "estuve",
-      "fecha": "Wed, 04 Nov 2026 02:48:53 +0100",
-      "id": 3
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Dólar alcanza los 910 pesos en Cuba y el euro se acerca a los 1,000: así cierra el mercado informal este martes",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-04-u1-e208933-s27061-nid344754-dolar-alcanza-910-pesos-cuba-euro-acerca-1000-asi",
-      "destacada": true,
-      "tema": "tipo_cambio",
-      "fecha": "Wed, 04 Nov 2026 02:43:49 +0100",
-      "id": 4
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -63,10 +362,23 @@
       "resumen": "#China convoca a los medios periodísticos oficiales de sus aliados para reclamarles una agenda favorable a sus intereses. Los del régimen de #Cuba participan sin falta.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1793750267_69689.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "prensa",
       "fecha": "Wed, 04 Nov 2026 00:57:47 +0100",
-      "id": 5
+      "id": 28
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al Día",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/482399.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Wed, 04 Nov 2026 00:00:30 -0500",
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -79,7 +391,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Tue, 03 Nov 2026 23:48:48 +0000",
-      "id": 6
+      "id": 30
     },
     {
       "categoria": "transporte",
@@ -92,20 +404,7 @@
       "destacada": false,
       "tema": "envía",
       "fecha": "Tue, 03 Nov 2026 23:10:54 +0100",
-      "id": 7
-    },
-    {
-      "categoria": "energia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Recomiendan la incorporación de Viñales a la Red Mundial de Geoparques",
-      "resumen": "El Consejo de Geoparques Mundiales de la Unesco recomendó por unanimidad la incorporación de Viñales a su Red Mundial de Geoparques, tras examinar el informe de evaluación de la candidatura cubana, resultado de la misión de evaluación realizada del 5 al 10 de octubre pasados, en ese territorio de la",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/03/recomiendan-la-incorporacion-de-vinales-a-la-red-mundial-de-geoparques/",
-      "destacada": false,
-      "tema": "recomiendan",
-      "fecha": "Tue, 03 Nov 2026 21:32:59 +0000",
-      "id": 8
+      "id": 31
     },
     {
       "categoria": "energia",
@@ -118,46 +417,7 @@
       "destacada": false,
       "tema": "patana",
       "fecha": "Tue, 03 Nov 2026 21:23:37 +0100",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Medicina natural y tradicional: rompezaragüey (falso y verdadero)",
-      "resumen": "Por el nombre de rompezaragüey se identifican en Cuba dos especies diferentes. Estas son Chromolaea odorarta (o Eupatorium odoratum) y Vernonia menthaefolia, ambas incluidas por Roig en su obra Plantas medicinales, aromáticas o venenosas de Cuba. The post Medicina natural y tradicional: rompezaragüe",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/03/medicina-natural-y-tradicional-rompezaraguey-falso-y-verdadero/",
-      "destacada": false,
-      "tema": "medicina",
-      "fecha": "Tue, 03 Nov 2026 21:08:51 +0000",
-      "id": 10
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La familia de un cubano asesinado en Cancún busca repatriar su cadáver a la Isla",
-      "resumen": "Ángel Corona, deportado por EE UU a México, permanece en una morgue mientras sus allegados reúnen el dinero para trasladar sus restos",
-      "imagen_url": "https://static.14ymedio.com/clip/92f8d302-cd7d-41ad-9180-21d1935e8deb_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/migracion/familia-cubano-asesinado-cancun-busca_1_1132789.html",
-      "destacada": false,
-      "tema": "familia",
-      "fecha": "Tue, 03 Nov 2026 20:34:56 +0000",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Detienen a la periodista independiente Camila Acosta en La Habana y se desconoce su paradero",
-      "resumen": "La reportera fue esposada e introducida violentamente en una patrulla cuando llevaba a su gata al veterinario, según denunció su esposo, Ángel Santiesteban",
-      "imagen_url": "https://static.14ymedio.com/clip/bd90158e-341d-4fce-8301-f462be94e753_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/detienen-periodista-independiente-camila-acosta_1_1132787.html",
-      "destacada": false,
-      "tema": "detienen",
-      "fecha": "Tue, 03 Nov 2026 20:21:11 +0000",
-      "id": 12
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -170,20 +430,7 @@
       "destacada": false,
       "tema": "maría",
       "fecha": "Tue, 03 Nov 2026 20:12:46 +0100",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al día",
-      "resumen": "Nueva ley migratoria de Cuba: ¿qué cambia para quienes viven fuera?",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/483408.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Tue, 03 Nov 2026 20:06:51 -0500",
-      "id": 14
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -196,7 +443,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Tue, 03 Nov 2026 20:00:00 -0500",
-      "id": 15
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -209,7 +456,7 @@
       "destacada": false,
       "tema": "asistenciado",
       "fecha": "Tue, 03 Nov 2026 19:56:10 +0000",
-      "id": 16
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -222,7 +469,7 @@
       "destacada": false,
       "tema": "meliá",
       "fecha": "Tue, 03 Nov 2026 19:43:46 +0100",
-      "id": 17
+      "id": 36
     },
     {
       "categoria": "economia",
@@ -235,7 +482,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 03 Nov 2026 18:52:52 +0000",
-      "id": 18
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -248,7 +495,7 @@
       "destacada": false,
       "tema": "castrismo",
       "fecha": "Tue, 03 Nov 2026 18:48:48 +0100",
-      "id": 19
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -261,46 +508,7 @@
       "destacada": false,
       "tema": "palabra",
       "fecha": "Tue, 03 Nov 2026 18:27:58 +0000",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Presentación en Madrid de 'Cuba en el Umbral', un plan de transición para la Isla",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793726798_69683.html",
-      "destacada": false,
-      "tema": "presentación",
-      "fecha": "Tue, 03 Nov 2026 18:26:38 +0100",
-      "id": 21
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El Estado cubano cede espacio al sector privado en los servicios públicos: siete normas lo demuestran",
-      "resumen": "#AnálisisCuba: Reunimos aquí un conjunto de resoluciones, acuerdos y decretos leyes que muestran cómo el #EstadoCubano deja gradualmente los servicios del sector privado como la única opción para la población.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793725242_69632.html",
-      "destacada": false,
-      "tema": "estado",
-      "fecha": "Tue, 03 Nov 2026 18:00:42 +0100",
-      "id": 22
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La película cubana 'Baracoa' gana el premio del público en el Festival de Cine de Trieste",
-      "resumen": "La película cubana \"Baracoa\", de Luis Ernesto Doñas, obtiene el Premio del Público y el de Mejor Guion en el Festival de Cine Íbero-Latinoamericano de Trieste, #Italia.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cultura/1793723703_69682.html",
-      "destacada": false,
-      "tema": "película",
-      "fecha": "Tue, 03 Nov 2026 17:35:03 +0100",
-      "id": 23
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -313,7 +521,7 @@
       "destacada": false,
       "tema": "radio",
       "fecha": "Tue, 03 Nov 2026 17:33:03 +0000",
-      "id": 24
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -326,20 +534,7 @@
       "destacada": false,
       "tema": "elecciones",
       "fecha": "Tue, 03 Nov 2026 17:13:38 -0500",
-      "id": 25
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Trump, obsesionado con capturar a Raúl Castro",
-      "resumen": "Al caer el sol las calles se quedan a oscuras y se iluminan con lámparas a batería. Jorge Gil Gimeno...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125872-trump-obsesionado-con-capturar-a-raul-castro.jpg?t=1793722082",
-      "enlace_original": "https://www.cubainformacion.tv/opinion/20261103/125872/125872-trump-obsesionado-con-capturar-a-raul-castro",
-      "destacada": false,
-      "tema": "trump",
-      "fecha": "Tue, 03 Nov 26 17:07:00 +0100",
-      "id": 26
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -352,7 +547,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Tue, 03 Nov 2026 17:00:30 -0500",
-      "id": 27
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -365,7 +560,7 @@
       "destacada": false,
       "tema": "anette",
       "fecha": "Tue, 03 Nov 2026 16:51:21 +0000",
-      "id": 28
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -378,7 +573,7 @@
       "destacada": false,
       "tema": "ballet",
       "fecha": "Tue, 03 Nov 2026 16:51:10 +0000",
-      "id": 29
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -391,33 +586,7 @@
       "destacada": false,
       "tema": "restan",
       "fecha": "Tue, 03 Nov 2026 16:49:06 +0000",
-      "id": 30
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Pandillas haitianas están entrando a Cuba y asesinando familias? No hay pruebas que lo demuestren",
-      "resumen": "Dos llegadas documentadas de pescadores y migrantes haitianos a Santiago de Cuba no guardan relación con pandillas ni con hechos violentos contra la población.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/pandillas_haiti_cuba_salvador_4bba7278cc.jpg",
-      "enlace_original": "https://eltoque.com/pandillas-haitianas-estan-entrando-a-cuba-y-asesinando-familias-no-hay-pruebas-que-lo-demuestren",
-      "destacada": false,
-      "tema": "transporte",
-      "fecha": "Tue, 03 Nov 2026 16:30:00 GMT",
-      "id": 31
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las Noticias Como Son",
-      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482346.html",
-      "destacada": false,
-      "tema": "noticias",
-      "fecha": "Tue, 03 Nov 2026 16:05:30 -0500",
-      "id": 32
+      "id": 45
     },
     {
       "categoria": "economia",
@@ -430,7 +599,7 @@
       "destacada": false,
       "tema": "rediseña",
       "fecha": "Tue, 03 Nov 2026 15:24:28 +0000",
-      "id": 33
+      "id": 46
     },
     {
       "categoria": "salud",
@@ -443,176 +612,46 @@
       "destacada": false,
       "tema": "seguros",
       "fecha": "Tue, 03 Nov 2026 14:54:27 +0000",
-      "id": 34
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "A Granel, la mipyme mimada por el régimen, vende agua además de combustible",
-      "resumen": "Un empleado confirma a este diario que las pipas están disponibles de inmediato en La Habana por 100 dólares",
-      "imagen_url": "https://static.14ymedio.com/clip/a140c777-0800-490b-b58c-33796616e23e_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/granel-mipyme-mimada-regimen-vende_1_1132763.html",
-      "destacada": false,
-      "tema": "mipymes",
-      "fecha": "Tue, 03 Nov 2026 12:25:32 +0000",
-      "id": 35
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "FACRE ante la XXX Cumbre Iberoamericana: una emigración cubana que defienda la soberanía de la Patria frente a la asfixia económica y la injerencia de EE. UU.",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125870-facre-ante-la-xxx-cumbre-iberoamericana-una-emigracion-cubana-que-defienda-la-soberania-de-la-patria-frente-a-la-asfixia-economica-y-la-injerencia-de-ee-uu.jpg?t=1793703065",
-      "enlace_original": "https://www.cubainformacion.tv/emigracion/20261103/125870/125870-facre-ante-la-xxx-cumbre-iberoamericana-una-emigracion-cubana-que-defienda-la-soberania-de-la-patria-frente-a-la-asfixia-economica-y-la-injerencia-de-ee-uu",
-      "destacada": false,
-      "tema": "facre",
-      "fecha": "Tue, 03 Nov 26 11:44:00 +0100",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Riesgo migratorio cubano alcanzó nivel extremo en octubre",
-      "resumen": "El Índice de Riesgo Migratorio Cubano pasó de 0.69 en septiembre a 0.77 en octubre, con 16 eventos y 112 personas involucradas.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/Portada_balseros_a4e679f34f.jpeg",
-      "enlace_original": "https://eltoque.com/el-riesgo-migratorio-cubano-sube-a-077-en-octubre-de-2026-nivel-extremo",
-      "destacada": false,
-      "tema": "riesgo",
-      "fecha": "Tue, 03 Nov 2026 11:42:50 GMT",
-      "id": 37
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Dólar en Cuba: la cotización alcanza los 905 CUP y el euro se mantiene en 990",
-      "resumen": "El dólar estadounidense subió 5 pesos este martes y se ubicó en 905 CUP en la TRMI, con lo que suma 14 jornadas consecutivas al alza. El euro se mantuvo en 990 CUP, el MLC apenas se movió y el dólar canadiense cayó 4,4 %.",
-      "imagen_url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/2021_Dominguez_DINERO_CAMBIO_DOLARES_49da193372.jpg/width=1920,quality=75,fit=scale-down,dpr=1,slow-connection-quality=40",
-      "enlace_original": "https://eltoque.com/el-dolar-encadena-14-dias-al-alza-en-el-mercado-informal-cubano-y-se-cotiza-a-905-cup",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Tue, 03 Nov 2026 11:20:00 GMT",
-      "id": 38
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Can Congress Stop Trump's War on Cuba?",
-      "resumen": "Belly of The Beast Cuba",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125867-can-congress-stop-trump-s-war-on-cuba.jpg?t=1793691447",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261103/125867/125867-can-congress-stop-trump-s-war-on-cuba",
-      "destacada": false,
-      "tema": "congress",
-      "fecha": "Tue, 03 Nov 26 08:37:00 +0100",
-      "id": 39
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Le piazze italiane per la condanna ONU del bloqueo",
-      "resumen": "Italia X Cuba",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125866-le-piazze-italiane-per-la-condanna-onu-del-bloqueo.jpg?t=1793691416",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261103/125866/125866-le-piazze-italiane-per-la-condanna-onu-del-bloqueo",
-      "destacada": false,
-      "tema": "piazze",
-      "fecha": "Tue, 03 Nov 26 08:36:00 +0100",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Vitória de Cuba na ONU - Cubanias n° 301",
-      "resumen": "Lina Noronha - Kotter TV",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125865-vitoria-de-cuba-na-onu-cubanias-n0-301.jpg?t=1793691379",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261103/125865/125865-vitoria-de-cuba-na-onu-cubanias-n0-301",
-      "destacada": false,
-      "tema": "vitória",
-      "fecha": "Tue, 03 Nov 26 08:36:00 +0100",
-      "id": 41
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "¿Inesperado? Votantes trumpistas en la Florida acometen acciones de apoyo a la revolución cubana",
-      "resumen": "Guerrero Cubano con su verdad al desnudo",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125864-inesperado-votantes-trumpistas-en-la-florida-acometen-acciones-de-apoyo-a-la-revolucion-cubana.jpg?t=1793691338",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261103/125864/125864-inesperado-votantes-trumpistas-en-la-florida-acometen-acciones-de-apoyo-a-la-revolucion-cubana",
-      "destacada": false,
-      "tema": "inesperado",
-      "fecha": "Tue, 03 Nov 26 08:35:00 +0100",
-      "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Comida popular de solidaridad con Cuba: Madrid, 21 de noviembre",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125863-comida-popular-de-solidaridad-con-cuba-madrid-21-de-noviembre.jpg?t=1793690581",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261103/125863/125863-comida-popular-de-solidaridad-con-cuba-madrid-21-de-noviembre",
-      "destacada": false,
-      "tema": "comida",
-      "fecha": "Tue, 03 Nov 26 08:21:00 +0100",
-      "id": 43
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Unión Económica Euroasiática registra medicamentos cubanos Hebermin y Heberprot-P",
-      "resumen": "Cuba X Siempre",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125862-union-economica-euroasiatica-registra-medicamentos-cubanos-hebermin-y-heberprot-p.jpg?t=1793689877",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261103/125862/125862-union-economica-euroasiatica-registra-medicamentos-cubanos-hebermin-y-heberprot-p",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Tue, 03 Nov 26 08:10:00 +0100",
-      "id": 44
+      "id": 47
     },
     {
       "categoria": "energia",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "&quot;Cuba: cuando la vida depende de unos segundos de electricidad&quot;, en el programa “60 Minutes” de CBS",
-      "resumen": "Un reporte especial de Radio Miami Today.",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125861-cuba-cuando-la-vida-depende-de-unos-segundos-de-electricidad-en-el-programa-60-minutes-de-cbs.jpg?t=1793723347",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261103/125861/125861-cuba-cuando-la-vida-depende-de-unos-segundos-de-electricidad-en-el-programa-60-minutes-de-cbs",
-      "destacada": false,
-      "tema": "depende",
-      "fecha": "Tue, 03 Nov 26 08:04:00 +0100",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "El asedio cognitivo y la fractura diplomática: Anatomía de una ofensiva sincronizada",
-      "resumen": "Razones de Cuba El corpus analizado —12.388 registros únicos tras depuración— no busca una explosión...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125860-el-asedio-cognitivo-y-la-fractura-diplomatica-anatomia-de-una-ofensiva-sincronizada.jpg?t=1793689291",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261103/125860/125860-el-asedio-cognitivo-y-la-fractura-diplomatica-anatomia-de-una-ofensiva-sincronizada",
-      "destacada": false,
-      "tema": "asedio",
-      "fecha": "Tue, 03 Nov 26 07:59:00 +0100",
-      "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.radiocubana.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Un día como hoy en la vida y obra de Fidel. 3 de noviembre",
-      "resumen": "&#8211; 3 de noviembre de 1958. El Ejército Rebelde intensifica aún más su ofensiva en diversos poblados y zonas del Oriente cubano ante el intento de la dictadura batistiana de realizar una farsa electoral. Desde octubre el régimen dictatorial de Fulgencio Batista, por temor a que las tropas rebeld",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Martí integra energía solar y biometano para impulsar el transporte público y la economía circular",
+      "resumen": "El municipio de Martí continúa consolidándose como referente nacional en la transición energética y la sostenibilidad. En el marco del proyecto «Acción Global para el Cambio Climático en Cuba, municipalidad de Martí hacia un modelo de desarrollo sostenible carbono neutro», se impulsa una innovadora ",
       "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/un-dia-como-hoy-en-la-vida-y-obra-de-fidel/un-dia-como-hoy-en-la-vida-y-obra-de-fidel-3-de-noviembre/",
+      "enlace_original": "https://giron.cu/2026/11/03/marti-energia-solar-biometano-transporte/",
       "destacada": false,
-      "tema": "fidel",
-      "fecha": "Tue, 03 Nov 2026 04:51:23 +0000",
-      "id": 47
+      "tema": "transporte",
+      "fecha": "Tue, 03 Nov 2026 13:55:46 +0000",
+      "id": 48
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba publica Ley de Organización de la Administración del Estado",
+      "resumen": "La Ley 186 de Organización de la Administración Central del Estado fue publicada este lunes en la edición ordinaria número 90 de la Gaceta Oficial de la República de Cuba",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/11/03/cuba-publica-ley-de-administracion-estado/",
+      "destacada": false,
+      "tema": "publica",
+      "fecha": "Tue, 03 Nov 2026 13:37:00 +0000",
+      "id": 49
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Entran en vigor las nuevas leyes de Migración, Ciudadanía y Extranjería en Cuba",
+      "resumen": "Este domingo 1 de noviembre entraron en vigor en Cuba las nuevas leyes de Migración, Ciudadanía y Extranjería, aprobadas por la Asamblea Nacional del Poder Popular en julio de 2024",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/11/03/entran-en-vigor-nuevas-leyes-migracion-ciudadania-extranjeria/",
+      "destacada": false,
+      "tema": "entran",
+      "fecha": "Tue, 03 Nov 2026 13:08:00 +0000",
+      "id": 50
     }
   ]
 }
