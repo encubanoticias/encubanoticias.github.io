@@ -1,8 +1,307 @@
 {
   "fecha": "2026-11-05",
-  "hora": "08:46",
-  "total": 44,
+  "hora": "16:58",
+  "total": 47,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Unión Europea rompe el consenso sobre el régimen cubano: el fin de la ficción de la política común",
+      "resumen": "La votación en la #ONU sobre el embargo marcó el fin de la ficción de la política común de la #UE hacia el régimen de #Cuba. Carolina Barrero y Yaxys Cires analizan sus posibles consecuencias para la relación entre #Bruselas y #LaHabana.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793897957_69702.html",
+      "destacada": true,
+      "tema": "tipo_cambio",
+      "fecha": "Thu, 05 Nov 2026 17:59:17 +0100",
+      "id": 1
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Presidente de Cuba llama a seguir preparándose para la defensa",
+      "resumen": "La Habana, 5 nov (Prensa Latina) El presidente de Cuba, Miguel Díaz-Canel, convocó a seguir trabajando en una tarea de primer orden como la defensa en el marco del Ejercicio Estratégico Moncada 2026, el cual concluirá hoy en todo el país. The post Presidente de Cuba llama a seguir preparándose para ",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/05/presidente-de-cuba-llama-a-seguir-preparandose-para-la-defensa/",
+      "destacada": true,
+      "tema": "presidente",
+      "fecha": "Thu, 05 Nov 2026 17:24:30 +0000",
+      "id": 2
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba celebrará simposio internacional de terapia celular y CART-T",
+      "resumen": "La Habana, 5 nov (Prensa Latina) Cuba será sede del I Simposio Internacional de terapia celular y CAR-T, el cual se desarrollará el 18 y 19 de noviembre para dar a conocer los avances alcanzados hasta hoy en ese apartado médico. The post Cuba celebrará simposio internacional de terapia celular y CAR",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/05/cuba-celebrara-simposio-internacional-de-terapia-celular-y-cart-t/",
+      "destacada": true,
+      "tema": "celebrará",
+      "fecha": "Thu, 05 Nov 2026 17:22:59 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El Siglo de Fidel: “Fidel y ese torbellino cultural llamado Ballet Nacional de Cuba” (+Video)",
+      "resumen": "Del vínculo fundacional entre ballet y revolución a la amistad de Alicia y Fidel, este capítulo recorre la evolución y expansión del BNC. Miguel Cabrera, Viengsay Valdés y Dani Hernández analizan ese legado desde sus figuras centrales. The post El Siglo de Fidel: “Fidel y ese torbellino cultural lla",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/05/el-siglo-de-fidel-fidel-y-ese-torbellino-cultural-llamado-ballet-nacional-de-cuba-video/",
+      "destacada": true,
+      "tema": "siglo",
+      "fecha": "Thu, 05 Nov 2026 16:37:21 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "energia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "UNESCO inaugura en La Habana exposición “Cuba en la Memoria del Mundo”",
+      "resumen": "‘Cuba en la Memoria del Mundo’ reúne imágenes de documentos, fondos y colecciones inscritos en los registros internacional, regional y nacional del Programa de la UNESCO y llama la atención sobre la importancia de preservar este legado y garantizar su acceso. The post UNESCO inaugura en La Habana ex",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/05/unesco-inaugura-en-la-habana-exposicion-cuba-en-la-memoria-del-mundo/",
+      "destacada": true,
+      "tema": "apagones",
+      "fecha": "Thu, 05 Nov 2026 16:11:04 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Una victoria judicial de Chen Zhi, el socio de Habanos S.A. detenido en China, complica la situación",
+      "resumen": "Un tribunal de las Islas Vírgenes devuelve el control de sus empresas al magnate sancionado, lo que expone a mayor riesgo a la parte cubana",
+      "imagen_url": "https://static.14ymedio.com/clip/9f5e7313-f292-4a63-8c4e-7518ff953630_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/victoria-judicial-chen-zhi-socio_1_1132863.html",
+      "destacada": false,
+      "tema": "victoria",
+      "fecha": "Thu, 05 Nov 2026 16:09:16 +0000",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.guerrillero.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Dulce María Loynaz: la cubana que conquistó el Cervantes con la fuerza de su palabra",
+      "resumen": "Hay fechas que trascienden el calendario y se convierten en páginas imprescindibles de la memoria cultural de un país. El 5 de noviembre de 1992 es una de ellas. Ese día, la escritora cubana Dulce María&#160;Loynaz&#160;fue anunciada como ganadora del Premio de Literatura en Lengua Castellana Miguel",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/dulce-maria-loynaz-la-cubana-que-conquisto-el-cervantes-con-la-fuerza-de-su-palabra/",
+      "destacada": false,
+      "tema": "dulce",
+      "fecha": "Thu, 05 Nov 2026 15:58:38 +0000",
+      "id": 7
+    },
+    {
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba denuncia en la Cumbre Iberoamericana el castigo colectivo de EE.UU. y pide actuar “sin injerencias, exclusiones ni presiones externas”",
+      "resumen": "El ministro de Relaciones Exteriores de Cuba, Bruno Rodríguez, hizo énfasis este jueves en las repercusiones del castigo colectivo que Estados Unidos impone a la Isla, durante su discurso en la XXX Cumbre Iberoamericana. The post Cuba denuncia en la Cumbre Iberoamericana el castigo colectivo de EE.U",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/05/cuba-denuncia-en-la-cumbre-iberoamericana-el-castigo-colectivo-de-ee-uu-y-pide-actuar-sin-injerencias-exclusiones-ni-presiones-externas/",
+      "destacada": false,
+      "tema": "denuncia",
+      "fecha": "Thu, 05 Nov 2026 15:32:39 +0000",
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Yoani Sánchez, secuestrada por la policía política en La Habana",
+      "resumen": "La directora de '14ymedio' pudo avisar a la Redacción con un escueto mensaje",
+      "imagen_url": "https://static.14ymedio.com/clip/cff09dd3-37c7-4740-886f-baa50e85f8b5_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/yoani-sanchez-secuestrada-policia-politica-habana_1_1132860.html",
+      "destacada": false,
+      "tema": "yoani",
+      "fecha": "Thu, 05 Nov 2026 15:15:45 +0000",
+      "id": 9
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.bc.gob.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Banco Central de Cuba en Ejercicio Moncada 2026",
+      "resumen": "Las estructuras de mando y dirección del Banco Central de Cuba, dieron cumplimiento a la primera jornada del Ejercicio Estratégico Moncada 2026",
+      "imagen_url": "",
+      "enlace_original": "https://www.bc.gob.cu/media/noticias/banco-central-de-cuba-en-ejercicio-moncada-2026",
+      "destacada": false,
+      "tema": "banco",
+      "fecha": "Thu, 05 Nov 2026 14:55:31 GMT",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Bruno Rodríguez: “Antes cambiará la política de EE.UU. que los cubanos nos cansemos de defender nuestra soberanía”",
+      "resumen": "En declaraciones a The New York Times, el canciller cubano confirmó que las conversaciones con EE.UU. continúan sin mayores resultados y denunció amenazas, sanciones y un bloqueo de combustibles que calificó de acto de guerra. Reafirmó la disposición de La Habana a dialogar sobre igualdad soberana y",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/05/bruno-rodriguez-antes-cambiara-la-politica-de-ee-uu-que-los-cubanos-nos-cansemos-de-defender-nuestra-soberania/",
+      "destacada": false,
+      "tema": "bruno",
+      "fecha": "Thu, 05 Nov 2026 14:28:45 +0000",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "El archivista escénico",
+      "resumen": "El Premio Provincial de Conservación de Documentos a la Casa de la Memoria Escénica, entregado por el Citma en la celebración del Día del Archivero Cubano, el 3 de noviembre, además del Premio por la Obra de la Vida a la especialista María Isabel Tamayo, es un reconocimiento al archivo escénico, y a",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/11/05/archivista-escenico-2/",
+      "destacada": false,
+      "tema": "archivista",
+      "fecha": "Thu, 05 Nov 2026 14:09:43 +0000",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "+Feliz: seis años acompañando los sueños de niños y adolescentes en Cuba (+Video)",
+      "resumen": "+Feliz, un proyecto impulsado por la empresa Avangenio apoya a unos 200 niños, niñas y adolescentes de 16 hogares sin amparo parental en La Habana, Santiago de Cuba y Matanzas, y apuesta por su bienestar material y emocional. The post +Feliz: seis años acompañando los sueños de niños y adolescentes ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/05/feliz-seis-anos-acompanando-los-suenos-de-ninos-y-adolescentes-en-cuba/",
+      "destacada": false,
+      "tema": "feliz",
+      "fecha": "Thu, 05 Nov 2026 14:00:03 +0000",
+      "id": 13
+    },
+    {
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Díaz-Canel: “Prepararse bien para la guerra es comenzar a ganarla”",
+      "resumen": "Como parte del Ejercicio Estratégico “Moncada 2026”, que tiene lugar a lo largo del archipiélago los días 4 y 5 de noviembre, el Presidente del Consejo de Defensa Nacional, Miguel Díaz-Canel Bermúdez, estuvo presente este miércoles en la tarde en la reunión del Consejo de Defensa Provincial de Artem",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/05/diaz-canel-prepararse-bien-para-la-guerra-es-comenzar-a-ganarla/",
+      "destacada": false,
+      "tema": "canel",
+      "fecha": "Thu, 05 Nov 2026 13:44:16 +0000",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "XI Encuentro Europeo de Solidaridad con la Revolución Sandinista reafirmó su apoyo a Nicaragua, Cuba, Venezuela y Palestina",
+      "resumen": "Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125922-xi-encuentro-europeo-de-solidaridad-con-la-revolucion-sandinista-reafirmo-su-apoyo-a-nicaragua-cuba-venezuela-y-palestina.jpg?t=1793881956",
+      "enlace_original": "https://www.cubainformacion.tv/america-latina/20261105/125922/125922-xi-encuentro-europeo-de-solidaridad-con-la-revolucion-sandinista-reafirmo-su-apoyo-a-nicaragua-cuba-venezuela-y-palestina",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Thu, 05 Nov 26 13:32:00 +0100",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 12:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/482496.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Thu, 05 Nov 2026 12:00:00 -0500",
+      "id": 16
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Beber agua de lluvia o pagar 2.000 pesos por un tanque: una campaña busca ayudar a familias cubanas",
+      "resumen": "Una iniciativa busca conseguir medios de potabilización en un barrio de #LaHabana, donde hay vecinos sin servicio de agua desde hace más de seis meses. Recurren al agua de lluvia ante la imposibilidad de pagar por un tanque.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793874678_69709.html",
+      "destacada": false,
+      "tema": "beber",
+      "fecha": "Thu, 05 Nov 2026 11:31:18 +0100",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Barrio adentro",
+      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/482493.html",
+      "destacada": false,
+      "tema": "barrio",
+      "fecha": "Thu, 05 Nov 2026 11:30:00 -0500",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Sherritt despide a casi la mitad de sus trabajadores en Canadá",
+      "resumen": "Pese a la autorización dada por EE UU de importar combustible para reanudar sus actividades en Cuba, la empresa se ha quedado sin níquel y cobalto",
+      "imagen_url": "https://static.14ymedio.com/clip/70ccfbce-634f-4483-9da7-4aff6812a49e_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/economia/sherritt-despide-mitad-trabajadores-canada_1_1132845.html",
+      "destacada": false,
+      "tema": "sherritt",
+      "fecha": "Thu, 05 Nov 2026 11:28:28 +0000",
+      "id": 19
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La demanda empresarial presiona el mercado de divisas en Cuba, según el OMFi",
+      "resumen": "La depreciación del peso encarece importaciones e inventarios y añade presión inflacionaria: el OMFi proyecta que el dólar podría cerrar noviembre cerca de 950 CUP.",
+      "imagen_url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/manipulacion_moneda_dinero_47d0cbc4c3.jpg/width=1920,quality=75,fit=scale-down,dpr=1,slow-connection-quality=40",
+      "enlace_original": "https://eltoque.com/la-nueva-presion-sobre-el-mercado-informal-cubano",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Thu, 05 Nov 2026 11:18:43 GMT",
+      "id": 20
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La economía cubana opera “a dos velocidades”: las empresas estatales se hunden y las privadas crecen",
+      "resumen": "El OMFi señala que el dinamismo de los particulares es “insuficiente para reponer la capacidad productiva del país”, debido a la concentración de sus actividades en el comercio",
+      "imagen_url": "https://static.14ymedio.com/clip/9c8df5e8-eee6-4aec-a070-4954e368886c_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/economia-cubana-opera-velocidades-empresas_1_1132839.html",
+      "destacada": false,
+      "tema": "economía",
+      "fecha": "Thu, 05 Nov 2026 11:06:36 +0000",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Embajada de EEUU en Cuba alerta sobre cuentas que suplantan a Mike Hammer",
+      "resumen": "“Ojo, cuidado con cuentas que se hacen pasar por nuestro jefe de Misión”, señaló la representación diplomática.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/embajada-de-eeuu-en-cuba-alerta-sobre-cuentas-que-suplantan-a-mike-hammer/483551.html",
+      "destacada": false,
+      "tema": "embajada",
+      "fecha": "Thu, 05 Nov 2026 11:03:31 -0500",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Lawton Libre",
+      "resumen": "El reconocido opositor cubano Dr. Oscar Elías Biscet aborda la situación de los derechos humanos en Cuba y la conquista de las libertades básicas de los cubanos, bajo el precepto de que “si aprendes a ser libre, todos los seremos”. Correo Electrónico: lawtonlibremarti@gmail.com",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/482484.html",
+      "destacada": false,
+      "tema": "lawton",
+      "fecha": "Thu, 05 Nov 2026 11:00:00 -0500",
+      "id": 23
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
@@ -11,10 +310,10 @@
       "resumen": "Cubainformación",
       "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125921-la-utilidad-de-las-cumbres-iberoamericanas-cesc-madrid-pide-condena-del-bloqueo-genocida-contra-cuba-en-la-xxx-cumbre.jpg?t=1793864260",
       "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261105/125921/125921-la-utilidad-de-las-cumbres-iberoamericanas-cesc-madrid-pide-condena-del-bloqueo-genocida-contra-cuba-en-la-xxx-cumbre",
-      "destacada": true,
+      "destacada": false,
       "tema": "utilidad",
       "fecha": "Thu, 05 Nov 26 08:32:00 +0100",
-      "id": 1
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -24,10 +323,10 @@
       "resumen": "Fundación Sindical Ateneo 1º de Mayo / Cubainformación...",
       "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125920-mas-de-once-artistas-en-buena-fe-y-amigos-viernes-4-de-diciembre-en-el-auditorio-marcelino-camacho-de-madrid.jpg?t=1793863196",
       "enlace_original": "https://www.cubainformacion.tv/cuba/20261105/125920/125920-mas-de-once-artistas-en-buena-fe-y-amigos-viernes-4-de-diciembre-en-el-auditorio-marcelino-camacho-de-madrid",
-      "destacada": true,
+      "destacada": false,
       "tema": "artistas",
       "fecha": "Thu, 05 Nov 26 08:15:00 +0100",
-      "id": 2
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -37,10 +336,10 @@
       "resumen": "La Florecita Cubana",
       "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125919-cubanos-indignos.jpg?t=1793862826",
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20261105/125919/125919-cubanos-indignos",
-      "destacada": true,
+      "destacada": false,
       "tema": "cubanos",
       "fecha": "Thu, 05 Nov 26 08:13:00 +0100",
-      "id": 3
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -50,10 +349,10 @@
       "resumen": "El Titan de #Cuba",
       "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125918-pendientes-de-cuba-y-terminaron-derrotados.jpg?t=1793862796",
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20261105/125918/125918-pendientes-de-cuba-y-terminaron-derrotados",
-      "destacada": true,
+      "destacada": false,
       "tema": "pendientes",
       "fecha": "Thu, 05 Nov 26 08:13:00 +0100",
-      "id": 4
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -63,10 +362,10 @@
       "resumen": "Guerrero Cubano con su verdad al desnudo",
       "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125916-por-que-el-guerrero-cubano-jamas-farolea-el-fin-de-la-era-trump.jpg?t=1793862732",
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20261105/125916/125916-por-que-el-guerrero-cubano-jamas-farolea-el-fin-de-la-era-trump",
-      "destacada": true,
+      "destacada": false,
       "tema": "guerrero",
       "fecha": "Thu, 05 Nov 26 08:12:00 +0100",
-      "id": 5
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -79,7 +378,7 @@
       "destacada": false,
       "tema": "nuevo",
       "fecha": "Thu, 05 Nov 26 08:07:00 +0100",
-      "id": 6
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -92,7 +391,7 @@
       "destacada": false,
       "tema": "neurótica",
       "fecha": "Thu, 05 Nov 26 08:05:00 +0100",
-      "id": 7
+      "id": 30
     },
     {
       "categoria": "transporte",
@@ -105,20 +404,33 @@
       "destacada": false,
       "tema": "sheinbaum",
       "fecha": "Thu, 05 Nov 2026 07:55:04 +0100",
-      "id": 8
+      "id": 31
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Asociación italiana Semillas de Paz traerá a Cuba ayuda solidaria",
+      "resumen": "Desde Italia, Semillas de Paz viajará con ayuda solidaria a Cuba. Foto: Prensa Latina....",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125912-asociacion-italiana-semillas-de-paz-traera-a-cuba-ayuda-solidaria.jpg?t=1793860998",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261105/125912/125912-asociacion-italiana-semillas-de-paz-traera-a-cuba-ayuda-solidaria",
+      "destacada": false,
+      "tema": "asociación",
+      "fecha": "Thu, 05 Nov 26 07:42:00 +0100",
+      "id": 32
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "¿Cómo estudian los jóvenes en Cuba frente al cerco económico y energético impuesto por EE.UU.?",
-      "resumen": "Cubavisión Internacional - Foto archivo: Cubadebate.- En medio de un complejo escenario energético y...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125910-como-estudian-los-jovenes-en-cuba-frente-al-cerco-economico-y-energetico-impuesto-por-ee-uu.jpg?t=1793858610",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261105/125910/125910-como-estudian-los-jovenes-en-cuba-frente-al-cerco-economico-y-energetico-impuesto-por-ee-uu",
+      "titulo": "Falleció el actor y humorista cubano Orlando Manrufo, creador de “Mariconchi”",
+      "resumen": "Cubadebate El actor y humorista cubano Orlando Manrufo falleció este miércoles 4 de noviembre...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125911-fallecio-el-actor-y-humorista-cubano-orlando-manrufo-creador-de-mariconchi.jpg?t=1793860952",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261105/125911/125911-fallecio-el-actor-y-humorista-cubano-orlando-manrufo-creador-de-mariconchi",
       "destacada": false,
-      "tema": "estudian",
-      "fecha": "Thu, 05 Nov 26 07:02:00 +0100",
-      "id": 9
+      "tema": "falleció",
+      "fecha": "Thu, 05 Nov 26 07:41:00 +0100",
+      "id": 33
     },
     {
       "categoria": "economia",
@@ -131,7 +443,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 05 Nov 2026 03:54:36 GMT",
-      "id": 10
+      "id": 34
     },
     {
       "categoria": "politica",
@@ -144,7 +456,7 @@
       "destacada": false,
       "tema": "situación",
       "fecha": "Thu, 05 Nov 2026 01:41:28 +0000",
-      "id": 11
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -157,7 +469,7 @@
       "destacada": false,
       "tema": "percepción",
       "fecha": "Thu, 05 Nov 2026 01:33:32 +0100",
-      "id": 12
+      "id": 36
     },
     {
       "categoria": "salud",
@@ -170,7 +482,7 @@
       "destacada": false,
       "tema": "preservar",
       "fecha": "Thu, 05 Nov 2026 01:27:44 +0000",
-      "id": 13
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -183,20 +495,7 @@
       "destacada": false,
       "tema": "jóvenes",
       "fecha": "Thu, 05 Nov 2026 00:40:15 +0000",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482479.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Thu, 05 Nov 2026 00:00:30 -0500",
-      "id": 15
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -209,7 +508,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Wed, 04 Nov 2026 23:10:38 +0100",
-      "id": 16
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -222,7 +521,7 @@
       "destacada": false,
       "tema": "prepara",
       "fecha": "Wed, 04 Nov 2026 22:26:55 +0000",
-      "id": 17
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -235,7 +534,7 @@
       "destacada": false,
       "tema": "florida",
       "fecha": "Wed, 04 Nov 2026 21:30:00 GMT",
-      "id": 18
+      "id": 41
     },
     {
       "categoria": "politica",
@@ -248,46 +547,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Wed, 04 Nov 2026 21:23:07 +0100",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Barbacoa de Pepe",
-      "resumen": "La Barbacoa de Pepe es un muestrario de la nostalgia cubana con datos y curiosidades de los temas más variados, para la audiencia cubana. También trataremos temas internacionales y locales, siempre con el fin de educar al Cubano de la Isla. Con la elocuencia de Pepe Forte.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482429.html",
-      "destacada": false,
-      "tema": "barbacoa",
-      "fecha": "Wed, 04 Nov 2026 21:00:00 -0500",
-      "id": 20
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Belice pone fin al acuerdo de servicios médicos con el régimen de Cuba",
-      "resumen": "#Belice no renovará el acuerdo de servicios #médicos con el régimen de #Cuba, pero permitirá que los 92 integrantes de la brigada permanezcan en el país mediante contratos individuales.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793821611_69704.html",
-      "destacada": false,
-      "tema": "belice",
-      "fecha": "Wed, 04 Nov 2026 20:46:51 +0100",
-      "id": 21
-    },
-    {
-      "categoria": "economia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "PCC evalúa la implementación de las transformaciones económicas en el Banco Central de Cuba",
-      "resumen": "El Partido Comunista de Cuba (PCC) informó este martes en Facebook sobre las conclusiones de la visita del Secretariado y la Estructura Auxiliar del Comité Central al Banco Central de Cuba y varias entidades comerciales, para seguir la implementación de las transformaciones económicas y sociales. Th",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/04/pcc-evalua-la-implementacion-de-las-transformaciones-economicas-en-el-banco-central-de-cuba/",
-      "destacada": false,
-      "tema": "evalúa",
-      "fecha": "Wed, 04 Nov 2026 20:25:21 +0000",
-      "id": 22
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -300,7 +560,7 @@
       "destacada": false,
       "tema": "decenas",
       "fecha": "Wed, 04 Nov 2026 20:05:06 +0000",
-      "id": 23
+      "id": 43
     },
     {
       "categoria": "economia",
@@ -313,7 +573,7 @@
       "destacada": false,
       "tema": "banco",
       "fecha": "Wed, 04 Nov 2026 20:02:25 GMT",
-      "id": 24
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -326,85 +586,7 @@
       "destacada": false,
       "tema": "policía",
       "fecha": "Wed, 04 Nov 2026 19:52:54 +0000",
-      "id": 25
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "En Cuba 'nadie va a quedar abandonado por la transición'",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793817600_66956.html",
-      "destacada": false,
-      "tema": "nadie",
-      "fecha": "Wed, 04 Nov 2026 19:40:00 +0100",
-      "id": 26
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Primer frente frío de la temporada 2026-2027 podría arribar a Cuba el 10 de noviembre",
-      "resumen": "El Instituto de Meteorología de Cuba informó este miércoles que los modelos de pronósticos sugieren la formación de un área de bajas presiones en el golfo de México el día 9 de Noviembre. A partir de este sistema se gestará un frente frío que transitará al este sobre aguas del propio golfo. The post",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/04/primer-frente-frio-de-la-temporada-2026-2027-podria-arribar-a-cuba-el-10-de-noviembre/",
-      "destacada": false,
-      "tema": "primer",
-      "fecha": "Wed, 04 Nov 2026 19:32:41 +0000",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Muere en Cuba Orlando Manrufo, el humorista que dio vida a Mariconchi",
-      "resumen": "El actor, ganador de un premio Aquelarre, llenó durante años el Teatro América de La Habana con su popular espectáculo escénico",
-      "imagen_url": "https://static.14ymedio.com/clip/cc955f4f-6b72-43af-9f87-76cd356654d6_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/muere-cuba-orlando-manrufo-humorista_1_1132822.html",
-      "destacada": false,
-      "tema": "muere",
-      "fecha": "Wed, 04 Nov 2026 19:30:33 +0000",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "'No hay transición con represión': Rosa María Payá sobre el plan de transición para Cuba",
-      "resumen": "En el marco de la #CumbreIberoamericana, la líder opositora #RosaMaríaPayá ha presentado en #Madrid un plan para la #transición denominado \"#Cuba en el umbral\". Edgar Ariel habló con algunos de los expertos que han participado.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793816904_69701.html",
-      "destacada": false,
-      "tema": "transición",
-      "fecha": "Wed, 04 Nov 2026 19:28:24 +0100",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Murió en La Habana Orlando Manrufo, creador del personaje humorístico de Mariconchi",
-      "resumen": "El humor en #Cuba pierde a una figura muy popular: el actor Orlando Manrufo, intérprete de Mariconchi.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cultura/1793815980_69700.html",
-      "destacada": false,
-      "tema": "murió",
-      "fecha": "Wed, 04 Nov 2026 19:13:00 +0100",
-      "id": 30
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Falleció el actor y humorista cubano Orlando Manrufo, creador de “Mariconchi”",
-      "resumen": "Reconocido por interpretar a “Mariconchi” —una mujer de discurso avispado que se convirtió en un clásico de los escenarios del país—, Manrufo se ganó el afecto popular. Tras iniciarse en la actuación a través del grupo de teatro aficionado “Olga Alonso”, el artista reorientó su carrera hacia la come",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/04/fallecio-el-actor-y-humorista-cubano-orlando-manrufo-creador-de-mariconchi/",
-      "destacada": false,
-      "tema": "falleció",
-      "fecha": "Wed, 04 Nov 2026 19:12:33 +0000",
-      "id": 31
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -417,7 +599,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Wed, 04 Nov 2026 19:11:13 +0000",
-      "id": 32
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -430,150 +612,7 @@
       "destacada": false,
       "tema": "pueden",
       "fecha": "Wed, 04 Nov 2026 19:00:00 GMT",
-      "id": 33
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El régimen de Cuba aviva el discurso bélico con un ejercicio de 'preparación y cohesión' militar",
-      "resumen": "Mientras aumentan la pobreza, el hambre y los apagones, el régimen #cubano despliega un ejercicio militar a gran escala y eleva su discurso bélico frente a una eventual agresión de #EEUU.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793814746_69699.html",
-      "destacada": false,
-      "tema": "régimen",
-      "fecha": "Wed, 04 Nov 2026 18:52:26 +0100",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Luego de ganar medallas, tres judocas cubanos abandonan la delegación que compitió en EE UU",
-      "resumen": "Lianet Cardona, Dayanara Curbelo y Jonathan Charón, de entre 21 y 22 años, eran la “esperanza” de las autoridades en la disciplina",
-      "imagen_url": "https://static.14ymedio.com/clip/5485961a-8a7e-4261-b665-847827cc0813_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/deportes/luego-ganar-medallas-tres-judocas_1_1132814.html",
-      "destacada": false,
-      "tema": "luego",
-      "fecha": "Wed, 04 Nov 2026 17:57:11 +0000",
-      "id": 35
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Asociación italiana Semillas de Paz traerá a Cuba ayuda solidaria",
-      "resumen": "De acuerdo con el mensaje en la red social, la ayuda, de alrededor de 400 kilogramos, será trasladada a La Habana en 20 maletas, como resultado de una campaña solidaria que reunió donaciones de familias, instituciones, centros educativos, empresas, asociaciones y parroquias de distintas ciudades ita",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/04/asociacion-italiana-semillas-de-paz-traera-a-cuba-ayuda-solidaria/",
-      "destacada": false,
-      "tema": "asociación",
-      "fecha": "Wed, 04 Nov 2026 16:55:12 +0000",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Muere Orlando Manrufo, un humorista completo",
-      "resumen": "Con su deceso, a los 71 años de edad, pierde el humor cubano a uno de sus mejores defensores",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-11-04/muere-orlando-manrufo-un-humorista-completo-04-11-2026-15-11-39",
-      "destacada": false,
-      "tema": "muere",
-      "fecha": "Wed, 04 Nov 2026 15:11:39 -0500",
-      "id": 37
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Impulsan en Matanzas proyecto europeo para fortalecer la atención materno-infantil",
-      "resumen": "Un nuevo proyecto de cooperación, financiado por la Dirección General de Protección Civil y Operaciones de Ayuda Humanitaria de la Comisión Europea (ECHO), destinará recursos al fortalecimiento de los servicios de salud materno-infantil y sexual y reproductiva en hospitales del Sistema de Salud Cuba",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/11/04/hospital-faustino-proyecto-materno-cruz-roja/",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Wed, 04 Nov 2026 14:48:10 +0000",
-      "id": 38
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Un bronce y muchas señales de alarma",
-      "resumen": "La lucha cubana volvió de Astaná con una sola medalla, el bronce de Luis Orta en los 67 kilogramos, y con un mensaje difícil de ignorar: el deporte que lideró las cosechas de oro del país en los últimos años atraviesa un retroceso que ya no admite disimulos.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/11/04/un-bronce-muchas-senales-alarma/",
-      "destacada": false,
-      "tema": "bronce",
-      "fecha": "Wed, 04 Nov 2026 14:40:11 +0000",
-      "id": 39
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Belice rompe su convenio con Cuba tras 36 años y contratará directamente a los sanitarios de la Isla",
-      "resumen": "Según confirmaron los ministros de Relaciones Exteriores y de Salud, la \"brigada\" actual cuenta con unos 92 profesionales, entre ellos 45 médicos",
-      "imagen_url": "https://static.14ymedio.com/clip/8d819b1a-00ed-46d5-8b96-4f92ea2ab2c9_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/internacional/belice-rompe-convenio-cuba-36_1_1132811.html",
-      "destacada": false,
-      "tema": "belice",
-      "fecha": "Wed, 04 Nov 2026 14:35:09 +0000",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las pérdidas de Meliá por su salida de Cuba superan las previsiones de la hotelera española",
-      "resumen": "Su renuncia a la gestión de 33 hoteles en la Isla le ha costado cerca de 80 millones de euros, mientras crecen sus ingresos en el resto del mundo",
-      "imagen_url": "https://static.14ymedio.com/clip/5dffbdee-bf0b-4693-bbfa-a6eefb9d6c73_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/economia/perdidas-melia-salida-cuba-superan_1_1132810.html",
-      "destacada": false,
-      "tema": "pérdidas",
-      "fecha": "Wed, 04 Nov 2026 13:41:43 +0000",
-      "id": 41
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Biomodulina T, un fármaco cubano",
-      "resumen": "El esquema de tratamiento con Biomodulina T ya aparece en la nueva versión del Formulario de Medicamentos de Cuba y puede ser utilizado por cualquier inmunólogo en el país y el mundo",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261104/biomodulina-t-un-farmaco-cubano/",
-      "destacada": false,
-      "tema": "biomodulina",
-      "fecha": "Wed, 04 Nov 2026 11:25:11 +0000",
-      "id": 42
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "CTC en Santiago de Cuba estimula conocimiento de Ley 189",
-      "resumen": "Por estos días de noviembre la Central de Trabajadores de Cuba y sus 15 sindicatos en la provincia santiaguera intensifican el intercambio con quienes se desempeñan en el ámbito no estatal de la economía en aras de favorecer el estudio del Código de Trabajo, y otros procesos.",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261104/ctc-en-santiago-de-cuba-estimula-conocimiento-de-ley-189/",
-      "destacada": false,
-      "tema": "santiago",
-      "fecha": "Wed, 04 Nov 2026 10:34:28 +0000",
-      "id": 43
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Rosa María Payá presenta en Madrid un plan de transición para Cuba en tres fases",
-      "resumen": "La propuesta contempla desmantelar el aparato represivo, distribuir ayuda humanitaria, constituir un gobierno provisional de 36 meses máximo y convocar elecciones libres",
-      "imagen_url": "https://static.14ymedio.com/clip/ca910896-bf6d-42f3-8f73-654423d6ab50_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/rosa-maria-paya-presenta-madrid_1_1132793.html",
-      "destacada": false,
-      "tema": "maría",
-      "fecha": "Wed, 04 Nov 2026 09:34:22 +0000",
-      "id": 44
+      "id": 47
     }
   ]
 }
