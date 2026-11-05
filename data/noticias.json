@@ -1,8 +1,294 @@
 {
   "fecha": "2026-11-05",
-  "hora": "16:58",
-  "total": 47,
+  "hora": "22:34",
+  "total": 48,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El régimen cubano prolonga la condena de un preso político por un supuesto 'error administrativo'",
+      "resumen": "El régimen de #Cuba impone otros seis meses de cárcel al #PresoPolítico del #11J Francisco Rangel Manzano, pese a que ya había ordenado su excarcelación. Alega un supuesto \"error administrativo\".",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1793916616_69722.html",
+      "destacada": true,
+      "tema": "régimen",
+      "fecha": "Thu, 05 Nov 2026 23:10:16 +0100",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Muere en Bélgica a los 87 años Héctor Echemendía, uno de los grandes actores de la televisión cubana",
+      "resumen": "El intérprete, recordado por su personaje de Andrés Iznaga en la serie ‘Hermanos’, pasó sus últimos años en Europa, rodeado de sus hijos y nietos",
+      "imagen_url": "https://static.14ymedio.com/clip/2397e0e8-bb89-48f9-8742-1422fc7c4cac_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cultura/muere-belgica-87-anos-hector_1_1132875.html",
+      "destacada": true,
+      "tema": "muere",
+      "fecha": "Thu, 05 Nov 2026 22:25:55 +0000",
+      "id": 2
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EE UU sanciona al hermano del ex jefe de Gaesa y a la hija de su actual presidenta",
+      "resumen": "Washington también apunta a cinco buques de transporte de combustibles y a empresas chinas acusadas de suministrar equipamiento militar a Cuba",
+      "imagen_url": "https://static.14ymedio.com/clip/5efc1925-c1c9-44fb-bfa4-25df365eb92d_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/ee-uu-sanciona-hermano-ex_1_1132873.html",
+      "destacada": true,
+      "tema": "sanciona",
+      "fecha": "Thu, 05 Nov 2026 22:08:44 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Dimite el presidente de Paraguay, Santiago Peña, crítico con el régimen cubano",
+      "resumen": "#SantiagoPeña dimite como presidente de #Paraguay en medio de una crisis política y bancaria. Hace poco más de un mes, ante la ONU, se mostró crítico con el régimen de #Cuba y pidió elecciones libres.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/internacional/1793912278_69717.html",
+      "destacada": true,
+      "tema": "dimite",
+      "fecha": "Thu, 05 Nov 2026 21:57:58 +0100",
+      "id": 4
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Italia: Querían conceder el Premio Nobel de la Paz; ahora el gobierno casi llora tras la derrota de Trump",
+      "resumen": "Argentino Tellini - Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125926-italia-querian-conceder-el-premio-nobel-de-la-paz-ahora-el-gobierno-casi-llora-tras-la-derrota-de-trump.jpg?t=1793912199",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261105/125926/125926-italia-querian-conceder-el-premio-nobel-de-la-paz-ahora-el-gobierno-casi-llora-tras-la-derrota-de-trump",
+      "destacada": true,
+      "tema": "italia",
+      "fecha": "Thu, 05 Nov 26 21:55:00 +0100",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Seguridad del Estado detiene a la periodista cubana Yoani Sánchez",
+      "resumen": "La Seguridad del Estado detiene a la periodista independiente #YoaniSánchez en #LaHabana. Su arresto se produce en medio de una escalada represiva contra la prensa contestataria en #Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1793910347_69720.html",
+      "destacada": false,
+      "tema": "seguridad",
+      "fecha": "Thu, 05 Nov 2026 21:25:47 +0100",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Nicaragua suspende el intercambio militar con Cuba y Venezuela",
+      "resumen": "“Deben de haber elementos internos que están impidiendo que se estén mandando tropas a Nicaragua”, afirma un experto al medio nicaragüense 'Confidencial'",
+      "imagen_url": "https://static.14ymedio.com/clip/5f286045-55f6-4284-82a5-8f9ac327aeaa_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/internacional/nicaragua-suspende-intercambio-militar-cuba_1_1132870.html",
+      "destacada": false,
+      "tema": "nicaragua",
+      "fecha": "Thu, 05 Nov 2026 21:13:38 +0000",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Fallece en Bélgica el actor cubano Héctor Echemendía, Premio Nacional de Televisión 2020",
+      "resumen": "Héctor Echemendía, inolvidable en #Cuba por su personaje de Iznaga en la serie televisiva de aventuras \"Hermanos\", falleció en Europa.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cultura/1793909458_69719.html",
+      "destacada": false,
+      "tema": "fallece",
+      "fecha": "Thu, 05 Nov 2026 21:10:58 +0100",
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EEUU sanciona a Guillermo Faustino López-Calleja, clave en los negocios de La Habana",
+      "resumen": "El hermano del fallecido #LuisAlbertoRodríguezLópezCalleja, jefe de #GAESA, y la hija de la actual cabeza del conglomerado militar de #Cuba, entran a la lista de sanciones de #EEUU.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793907346_69718.html",
+      "destacada": false,
+      "tema": "sanciona",
+      "fecha": "Thu, 05 Nov 2026 20:35:46 +0100",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Rolando Tarajano critica la discriminación entre cubanos en La oveja blanca : “Todos los exilios han sido históricos”",
+      "resumen": "La oveja blanca, de Rolando Tarajano, retrata a una familia cubana con estatus I-220A en Miami y sus conflictos ante la precariedad migratoria, el duelo y la adaptación al exilio.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/La_Oveja_Blanca_22_cf9cbf3541.jpg",
+      "enlace_original": "https://eltoque.com/tarajano-critica-la-discriminacion-entre-cubanos-en-la-oveja-blanca",
+      "destacada": false,
+      "tema": "rolando",
+      "fecha": "Thu, 05 Nov 2026 20:30:00 GMT",
+      "id": 10
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba enfatiza castigo colectivo de EEUU a la Isla en la XXX Cumbre Iberoamericana",
+      "resumen": "Madrid, 5 nov (Prensa Latina) El ministro de Relaciones Exteriores de Cuba, Bruno Rodríguez, hizo é...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125925-cuba-enfatiza-castigo-colectivo-de-eeuu-a-la-isla-en-la-xxx-cumbre-iberoamericana.jpg?t=1793906650",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261105/125925/125925-cuba-enfatiza-castigo-colectivo-de-eeuu-a-la-isla-en-la-xxx-cumbre-iberoamericana",
+      "destacada": false,
+      "tema": "enfatiza",
+      "fecha": "Thu, 05 Nov 26 20:22:00 +0100",
+      "id": 11
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Nueva arremetida: OFAC amplía el cerco a sectores estratégicos de la economía cubana",
+      "resumen": "Cubadebate",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125924-nueva-arremetida-ofac-amplia-el-cerco-a-sectores-estrategicos-de-la-economia-cubana.jpg?t=1793906412",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261105/125924/125924-nueva-arremetida-ofac-amplia-el-cerco-a-sectores-estrategicos-de-la-economia-cubana",
+      "destacada": false,
+      "tema": "nueva",
+      "fecha": "Thu, 05 Nov 26 20:19:00 +0100",
+      "id": 12
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Las compras de Cuba a EE UU ya superan los 1.000 millones de dólares este año",
+      "resumen": "Se trata de un aumento del 91% en comparación con los nueve primeros meses del año anterior y los combustibles representan el 30% del total",
+      "imagen_url": "https://static.14ymedio.com/clip/d8d5f211-a3d5-484e-8af8-36b713df3cdd_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/compras-cuba-ee-uu-superan_1_1132868.html",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Thu, 05 Nov 2026 20:12:40 +0000",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Bayamo, 513 años",
+      "resumen": "Hace 513 años, las márgenes del río Yara fueron testigos —según la versión más aceptada, aunque no la única— de un momento cuya repercusión pasaría a la historia de la nacionalidad cubana como un hito imborrable y cuya transcendencia sería enorme tres siglos después. The post Bayamo, 513 años first ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/05/bayamo-513-anos/",
+      "destacada": false,
+      "tema": "bayamo",
+      "fecha": "Thu, 05 Nov 2026 19:22:16 +0000",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Enrique González Mántici y la Radio",
+      "resumen": "Sagua la Grande ha dado a Cuba grandes artistas; uno de ellos fue Enrique González Mántici. Sería imposible referirnos a la música interpretada en Radio y Televisión, sin mencionarlo. Hay vidas que se miden por lo que se ve cuando el silencio se rompe. La suya fue la de quienes edificaron un país de",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/radialistas-cubanos/enrique-gonzalez-mantici-y-la-radio/",
+      "destacada": false,
+      "tema": "enrique",
+      "fecha": "Thu, 05 Nov 2026 19:21:18 +0000",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba implanta en nueve meses un récord histórico de compras en EEUU",
+      "resumen": "Las importaciones de productos de #EEUU a #Cuba quiebran la barrera de los 1.000 millones cuando faltan tres meses de 2026 por contabilizar.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1793902500_69715.html",
+      "destacada": false,
+      "tema": "implanta",
+      "fecha": "Thu, 05 Nov 2026 19:15:00 +0100",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El régimen de Cuba reconoce que se prepara para 'golpes aéreos limitados' de EEUU",
+      "resumen": "El régimen de #Cuba reconoce que se prepara para recibir \"golpes aéreos limitados\" de #EEUU. El \"Ejercicio Estratégico Moncada 2026\" incluye prácticas para \"combatir equipos de rescate de pilotos derribados\".",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793901463_69716.html",
+      "destacada": false,
+      "tema": "régimen",
+      "fecha": "Thu, 05 Nov 2026 18:57:43 +0100",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "En China VII Cumbre Mundial de Medios",
+      "resumen": "La agenda de la VII Cumbre Mundial de Medios se inició hoy en China con la participación de cerca de 500 representantes de unos 330 medios de comunicación, centros de estudios, organismos gubernamentales e instituciones internacionales de 112 países y regiones. Directivos de medios cubanos como Pren",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/en-china-vii-cumbre-mundial-de-medios/",
+      "destacada": false,
+      "tema": "china",
+      "fecha": "Thu, 05 Nov 2026 18:46:16 +0000",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Habana: Así está Lacret, calle que conecta 10 de Octubre y Cerro",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793900146_69712.html",
+      "destacada": false,
+      "tema": "habana",
+      "fecha": "Thu, 05 Nov 2026 18:35:46 +0100",
+      "id": 19
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Jornada para renovar compromiso con la vida",
+      "resumen": "Los trabajadores de la salud y Biocubafarma en Santiago de Cuba inician este 8 de noviembre una jornada de acciones que saludan y conmemoran importantes fechas vinculadas al sector",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261105/jornada-para-renovar-compromiso-con-la-vida/",
+      "destacada": false,
+      "tema": "jornada",
+      "fecha": "Thu, 05 Nov 2026 18:18:40 +0000",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "En pleno desarrollo Ejercicio Estratégico Moncada 2026",
+      "resumen": "La mañana de este martes inició en Cuba el Ejercicio Estratégico Moncada 2026, incluido en la doctrina Guerra de Todo el Pueblo, proclamada por el Comandante en Jefe Fidel Castro, para enfrentar las constantes amenazas de agresión de los Estados Unidos",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261105/en-pleno-desarrollo-ejercicio-estrategico-moncada-2026/",
+      "destacada": false,
+      "tema": "pleno",
+      "fecha": "Thu, 05 Nov 2026 18:10:20 +0000",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Belgas en Las Tunas",
+      "resumen": "Thierry Decerj, integrante del grupo Cubanismo, de la Asociación de Amistad Bélgica-Cuba, se encontró con dirigentes de la CTC y sus sindicatos en Las Tunas",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261105/belgas-en-las-tunas/",
+      "destacada": false,
+      "tema": "belgas",
+      "fecha": "Thu, 05 Nov 2026 18:02:47 +0000",
+      "id": 22
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
@@ -11,36 +297,62 @@
       "resumen": "La votación en la #ONU sobre el embargo marcó el fin de la ficción de la política común de la #UE hacia el régimen de #Cuba. Carolina Barrero y Yaxys Cires analizan sus posibles consecuencias para la relación entre #Bruselas y #LaHabana.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1793897957_69702.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 05 Nov 2026 17:59:17 +0100",
-      "id": 1
+      "id": 23
     },
     {
       "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Presidente de Cuba llama a seguir preparándose para la defensa",
-      "resumen": "La Habana, 5 nov (Prensa Latina) El presidente de Cuba, Miguel Díaz-Canel, convocó a seguir trabajando en una tarea de primer orden como la defensa en el marco del Ejercicio Estratégico Moncada 2026, el cual concluirá hoy en todo el país. The post Presidente de Cuba llama a seguir preparándose para ",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/05/presidente-de-cuba-llama-a-seguir-preparandose-para-la-defensa/",
-      "destacada": true,
-      "tema": "presidente",
-      "fecha": "Thu, 05 Nov 2026 17:24:30 +0000",
-      "id": 2
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuántas veces Díaz-Canel ha defendido la eficiencia de la empresa estatal (y cuántas empresas tienen pérdidas)",
+      "resumen": "Díaz-Canel lleva años prometiendo eficiencia y competitividad para la empresa estatal socialista, pero las pérdidas millonarias, la caída de las ventas y las trabas estructurales contradicen su discurso.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/empresa_estatal_cuba_canel_77f1c680ba.jpg",
+      "enlace_original": "https://eltoque.com/cuantas-veces-diaz-canel-ha-defendido-la-eficiencia-de-la-empresa-estatal",
+      "destacada": false,
+      "tema": "cuántas",
+      "fecha": "Thu, 05 Nov 2026 17:45:00 GMT",
+      "id": 24
     },
     {
-      "categoria": "salud",
-      "fuente": "https://www.prensa-latina.cu",
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Denuncian en Europa por deforestación a JBS, el gigante cárnico brasileño que exporta a Cuba",
+      "resumen": "La multinacional se enfrenta a 14 acciones legales por presunto blanqueo de capitales, mientras la producción de carne en la Isla sigue desplomándose",
+      "imagen_url": "https://static.14ymedio.com/clip/51fcef1b-1a25-4b02-81e7-a57c715d4396_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/internacional/denuncian-europa-deforestacion-jbs-exporta-cuba_1_1132864.html",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Thu, 05 Nov 2026 17:43:50 +0000",
+      "id": 25
+    },
+    {
+      "categoria": "economia",
+      "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba celebrará simposio internacional de terapia celular y CART-T",
-      "resumen": "La Habana, 5 nov (Prensa Latina) Cuba será sede del I Simposio Internacional de terapia celular y CAR-T, el cual se desarrollará el 18 y 19 de noviembre para dar a conocer los avances alcanzados hasta hoy en ese apartado médico. The post Cuba celebrará simposio internacional de terapia celular y CAR",
+      "titulo": "Nueva resonancia magnética en el Centro de Neurociencias impulsa el diagnóstico, los ensayos clínicos y la investigación en Cuba",
+      "resumen": "Un equipo de resonancia magnética fue instalado en el Centro de Neurociencias de Cuba (CNEURO), con el fin de contribuir a fortalecer las capacidades para el desarrollo de la investigación neurocientífica, como parte de las contribuciones del proyecto PROBIOCUBA, con apoyo del Banco Centroamericano ",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/05/cuba-celebrara-simposio-internacional-de-terapia-celular-y-cart-t/",
-      "destacada": true,
-      "tema": "celebrará",
-      "fecha": "Thu, 05 Nov 2026 17:22:59 +0000",
-      "id": 3
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/05/nueva-resonancia-magnetica-en-el-centro-de-neurociencias-impulsa-el-diagnostico-los-ensayos-clinicos-y-la-investigacion-neurocientifica-en-cuba/",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Thu, 05 Nov 2026 17:31:38 +0000",
+      "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 5:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/482520.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Thu, 05 Nov 2026 17:00:30 -0500",
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -50,10 +362,10 @@
       "resumen": "Del vínculo fundacional entre ballet y revolución a la amistad de Alicia y Fidel, este capítulo recorre la evolución y expansión del BNC. Miguel Cabrera, Viengsay Valdés y Dani Hernández analizan ese legado desde sus figuras centrales. The post El Siglo de Fidel: “Fidel y ese torbellino cultural lla",
       "imagen_url": "",
       "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/05/el-siglo-de-fidel-fidel-y-ese-torbellino-cultural-llamado-ballet-nacional-de-cuba-video/",
-      "destacada": true,
+      "destacada": false,
       "tema": "siglo",
       "fecha": "Thu, 05 Nov 2026 16:37:21 +0000",
-      "id": 4
+      "id": 28
     },
     {
       "categoria": "energia",
@@ -63,10 +375,10 @@
       "resumen": "‘Cuba en la Memoria del Mundo’ reúne imágenes de documentos, fondos y colecciones inscritos en los registros internacional, regional y nacional del Programa de la UNESCO y llama la atención sobre la importancia de preservar este legado y garantizar su acceso. The post UNESCO inaugura en La Habana ex",
       "imagen_url": "",
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/05/unesco-inaugura-en-la-habana-exposicion-cuba-en-la-memoria-del-mundo/",
-      "destacada": true,
+      "destacada": false,
       "tema": "apagones",
       "fecha": "Thu, 05 Nov 2026 16:11:04 +0000",
-      "id": 5
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -79,20 +391,20 @@
       "destacada": false,
       "tema": "victoria",
       "fecha": "Thu, 05 Nov 2026 16:09:16 +0000",
-      "id": 6
+      "id": 30
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.guerrillero.cu/",
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Dulce María Loynaz: la cubana que conquistó el Cervantes con la fuerza de su palabra",
-      "resumen": "Hay fechas que trascienden el calendario y se convierten en páginas imprescindibles de la memoria cultural de un país. El 5 de noviembre de 1992 es una de ellas. Ese día, la escritora cubana Dulce María&#160;Loynaz&#160;fue anunciada como ganadora del Premio de Literatura en Lengua Castellana Miguel",
+      "titulo": "Las Noticias Como Son",
+      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
       "imagen_url": "",
-      "enlace_original": "https://www.guerrillero.cu/dulce-maria-loynaz-la-cubana-que-conquisto-el-cervantes-con-la-fuerza-de-su-palabra/",
+      "enlace_original": "https://www.martinoticias.com/a/482512.html",
       "destacada": false,
-      "tema": "dulce",
-      "fecha": "Thu, 05 Nov 2026 15:58:38 +0000",
-      "id": 7
+      "tema": "noticias",
+      "fecha": "Thu, 05 Nov 2026 16:05:30 -0500",
+      "id": 31
     },
     {
       "categoria": "politica",
@@ -105,20 +417,33 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Thu, 05 Nov 2026 15:32:39 +0000",
-      "id": 8
+      "id": 32
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Yoani Sánchez, secuestrada por la policía política en La Habana",
-      "resumen": "La directora de '14ymedio' pudo avisar a la Redacción con un escueto mensaje",
-      "imagen_url": "https://static.14ymedio.com/clip/cff09dd3-37c7-4740-886f-baa50e85f8b5_source-aspect-ratio_default_0.jpg",
+      "titulo": "Sin noticias de Yoani Sánchez, secuestrada por la policía política hace ocho horas en La Habana",
+      "resumen": "Amnistía Internacional, Reporteros Sin Fronteras y el Comité para la Protección de Periodistas exigen la liberación inmediata de la periodista, directora de '14ymedio'",
+      "imagen_url": "https://static.14ymedio.com/clip/88f9a3ee-baf4-4c48-b9bc-1cfdff56bd8f_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/yoani-sanchez-secuestrada-policia-politica-habana_1_1132860.html",
       "destacada": false,
-      "tema": "yoani",
+      "tema": "noticias",
       "fecha": "Thu, 05 Nov 2026 15:15:45 +0000",
-      "id": 9
+      "id": 33
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticias de la negociación de Donald Trump con Cuba",
+      "resumen": "La relación entre Estados Unidos y Cuba atraviesa uno de sus momentos más tensos en años, marcada por una combinación de presión económica, sanciones, crisis energética y contactos discretos, de los cuales, en muchos casos, solo se conoce lo que se filtra a la prensa. Desde elTOQUE monitoreamos la e",
+      "imagen_url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/AP_131403754861_f6c2a900de.jpg/width=1920,quality=75,fit=scale-down,dpr=1,slow-connection-quality=40",
+      "enlace_original": "https://eltoque.com/noticias-de-la-negociacion-de-donald-trump-con-cuba",
+      "destacada": false,
+      "tema": "noticias",
+      "fecha": "Thu, 05 Nov 2026 15:03:00 GMT",
+      "id": 34
     },
     {
       "categoria": "economia",
@@ -131,7 +456,7 @@
       "destacada": false,
       "tema": "banco",
       "fecha": "Thu, 05 Nov 2026 14:55:31 GMT",
-      "id": 10
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -144,20 +469,7 @@
       "destacada": false,
       "tema": "bruno",
       "fecha": "Thu, 05 Nov 2026 14:28:45 +0000",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "El archivista escénico",
-      "resumen": "El Premio Provincial de Conservación de Documentos a la Casa de la Memoria Escénica, entregado por el Citma en la celebración del Día del Archivero Cubano, el 3 de noviembre, además del Premio por la Obra de la Vida a la especialista María Isabel Tamayo, es un reconocimiento al archivo escénico, y a",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/11/05/archivista-escenico-2/",
-      "destacada": false,
-      "tema": "archivista",
-      "fecha": "Thu, 05 Nov 2026 14:09:43 +0000",
-      "id": 12
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -170,20 +482,7 @@
       "destacada": false,
       "tema": "feliz",
       "fecha": "Thu, 05 Nov 2026 14:00:03 +0000",
-      "id": 13
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Díaz-Canel: “Prepararse bien para la guerra es comenzar a ganarla”",
-      "resumen": "Como parte del Ejercicio Estratégico “Moncada 2026”, que tiene lugar a lo largo del archipiélago los días 4 y 5 de noviembre, el Presidente del Consejo de Defensa Nacional, Miguel Díaz-Canel Bermúdez, estuvo presente este miércoles en la tarde en la reunión del Consejo de Defensa Provincial de Artem",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/05/diaz-canel-prepararse-bien-para-la-guerra-es-comenzar-a-ganarla/",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Thu, 05 Nov 2026 13:44:16 +0000",
-      "id": 14
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -196,46 +495,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 05 Nov 26 13:32:00 +0100",
-      "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 12:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482496.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Thu, 05 Nov 2026 12:00:00 -0500",
-      "id": 16
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Beber agua de lluvia o pagar 2.000 pesos por un tanque: una campaña busca ayudar a familias cubanas",
-      "resumen": "Una iniciativa busca conseguir medios de potabilización en un barrio de #LaHabana, donde hay vecinos sin servicio de agua desde hace más de seis meses. Recurren al agua de lluvia ante la imposibilidad de pagar por un tanque.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793874678_69709.html",
-      "destacada": false,
-      "tema": "beber",
-      "fecha": "Thu, 05 Nov 2026 11:31:18 +0100",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barrio adentro",
-      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482493.html",
-      "destacada": false,
-      "tema": "barrio",
-      "fecha": "Thu, 05 Nov 2026 11:30:00 -0500",
-      "id": 18
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -248,7 +508,7 @@
       "destacada": false,
       "tema": "sherritt",
       "fecha": "Thu, 05 Nov 2026 11:28:28 +0000",
-      "id": 19
+      "id": 39
     },
     {
       "categoria": "economia",
@@ -261,7 +521,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 05 Nov 2026 11:18:43 GMT",
-      "id": 20
+      "id": 40
     },
     {
       "categoria": "economia",
@@ -274,33 +534,7 @@
       "destacada": false,
       "tema": "economía",
       "fecha": "Thu, 05 Nov 2026 11:06:36 +0000",
-      "id": 21
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Embajada de EEUU en Cuba alerta sobre cuentas que suplantan a Mike Hammer",
-      "resumen": "“Ojo, cuidado con cuentas que se hacen pasar por nuestro jefe de Misión”, señaló la representación diplomática.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/embajada-de-eeuu-en-cuba-alerta-sobre-cuentas-que-suplantan-a-mike-hammer/483551.html",
-      "destacada": false,
-      "tema": "embajada",
-      "fecha": "Thu, 05 Nov 2026 11:03:31 -0500",
-      "id": 22
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Lawton Libre",
-      "resumen": "El reconocido opositor cubano Dr. Oscar Elías Biscet aborda la situación de los derechos humanos en Cuba y la conquista de las libertades básicas de los cubanos, bajo el precepto de que “si aprendes a ser libre, todos los seremos”. Correo Electrónico: lawtonlibremarti@gmail.com",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482484.html",
-      "destacada": false,
-      "tema": "lawton",
-      "fecha": "Thu, 05 Nov 2026 11:00:00 -0500",
-      "id": 23
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -313,7 +547,7 @@
       "destacada": false,
       "tema": "utilidad",
       "fecha": "Thu, 05 Nov 26 08:32:00 +0100",
-      "id": 24
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -326,7 +560,7 @@
       "destacada": false,
       "tema": "artistas",
       "fecha": "Thu, 05 Nov 26 08:15:00 +0100",
-      "id": 25
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -339,7 +573,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Thu, 05 Nov 26 08:13:00 +0100",
-      "id": 26
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -352,7 +586,7 @@
       "destacada": false,
       "tema": "pendientes",
       "fecha": "Thu, 05 Nov 26 08:13:00 +0100",
-      "id": 27
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -365,7 +599,7 @@
       "destacada": false,
       "tema": "guerrero",
       "fecha": "Thu, 05 Nov 26 08:12:00 +0100",
-      "id": 28
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -378,59 +612,7 @@
       "destacada": false,
       "tema": "nuevo",
       "fecha": "Thu, 05 Nov 26 08:07:00 +0100",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Neurótica Anónima, el reto, la hazaña y los Goya",
-      "resumen": "En la foto, parte del equipo de la película cubana Neurótica Anónima....",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125914-neurotica-anonima-el-reto-la-hazana-y-los-goya.jpg?t=1793862395",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261105/125914/125914-neurotica-anonima-el-reto-la-hazana-y-los-goya",
-      "destacada": false,
-      "tema": "neurótica",
-      "fecha": "Thu, 05 Nov 26 08:05:00 +0100",
-      "id": 30
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Sheinbaum se suma a una colecta de 'gasolina para Cuba' mientras siguen en cero los envíos de Pemex",
-      "resumen": "Claudia Sheinbaum apoya una campaña para enviar 40.000 litros de gasolina a #Cuba mediante estampas de 25 pesos mexicanos. La iniciativa culpa a Washington de la crisis, mientras siguen suspendidos los suministros de #Pemex.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793861704_69708.html",
-      "destacada": false,
-      "tema": "sheinbaum",
-      "fecha": "Thu, 05 Nov 2026 07:55:04 +0100",
-      "id": 31
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Asociación italiana Semillas de Paz traerá a Cuba ayuda solidaria",
-      "resumen": "Desde Italia, Semillas de Paz viajará con ayuda solidaria a Cuba. Foto: Prensa Latina....",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125912-asociacion-italiana-semillas-de-paz-traera-a-cuba-ayuda-solidaria.jpg?t=1793860998",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261105/125912/125912-asociacion-italiana-semillas-de-paz-traera-a-cuba-ayuda-solidaria",
-      "destacada": false,
-      "tema": "asociación",
-      "fecha": "Thu, 05 Nov 26 07:42:00 +0100",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Falleció el actor y humorista cubano Orlando Manrufo, creador de “Mariconchi”",
-      "resumen": "Cubadebate El actor y humorista cubano Orlando Manrufo falleció este miércoles 4 de noviembre...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125911-fallecio-el-actor-y-humorista-cubano-orlando-manrufo-creador-de-mariconchi.jpg?t=1793860952",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261105/125911/125911-fallecio-el-actor-y-humorista-cubano-orlando-manrufo-creador-de-mariconchi",
-      "destacada": false,
-      "tema": "falleció",
-      "fecha": "Thu, 05 Nov 26 07:41:00 +0100",
-      "id": 33
+      "id": 47
     },
     {
       "categoria": "economia",
@@ -443,176 +625,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 05 Nov 2026 03:54:36 GMT",
-      "id": 34
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "La situación del abasto requiere respuestas, insiste Díaz-Canel",
-      "resumen": "Durante su intervención en el espacio radial \"Criterio Compartido\", Antonio Rodríguez, presidente del Instituto Nacional de Recursos Hidráulicos, informó que al amanecer del 3 de noviembre se registraban más de dos millones 681 mil 770 personas afectadas en el abasto por redes del vital líquido La e",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/la-situacion-del-abasto-requiere-respuestas-insiste-diaz-canel/",
-      "destacada": false,
-      "tema": "situación",
-      "fecha": "Thu, 05 Nov 2026 01:41:28 +0000",
-      "id": 35
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "'La percepción de la calidad de los servicios que ofrecemos ha disminuido', reconoce ETECSA",
-      "resumen": "#Cuba: mientras la falta de inversión y la obsolescencia tecnológica hacen colapsar sus operaciones, #ETECSA tiene una lista de causas para su pésimo servicio.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793838812_69707.html",
-      "destacada": false,
-      "tema": "percepción",
-      "fecha": "Thu, 05 Nov 2026 01:33:32 +0100",
-      "id": 36
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Preservar vidas y proteger el entorno laboral",
-      "resumen": "La Empresa de Telecomunicaciones de Cuba (ETECSA) inició la Jornada Nacional de Seguridad y Salud en el Trabajo con una actividad en la Unidad de redes de acceso de operaciones de la red La entrada Preservar vidas y proteger el entorno laboral se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/preservar-vidas-y-proteger-el-entorno-laboral/",
-      "destacada": false,
-      "tema": "preservar",
-      "fecha": "Thu, 05 Nov 2026 01:27:44 +0000",
-      "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Jóvenes de la Industria Alimentaria y combatientes de la Seguridad del Estado profundizan en la historia de Cuba y sus protagonistas",
-      "resumen": "El encuentro con el coronel de la reserva Tomás Rubén Márquez Vázquez, conocido popularmente por Tito Márquez, fundador de los Órganos de la Seguridad del Estado, se realizó en la Unidad Villa Marista La entrada Jóvenes de la Industria Alimentaria y combatientes de la Seguridad del Estado profundiza",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/jovenes-de-la-industria-alimentaria-y-combatientes-de-la-seguridad-del-estado-profundizan-en-la-historia-de-cuba-y-sus-protagonistas/",
-      "destacada": false,
-      "tema": "jóvenes",
-      "fecha": "Thu, 05 Nov 2026 00:40:15 +0000",
-      "id": 38
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El régimen de Nicaragua rebaja la cooperación militar con La Habana",
-      "resumen": "Ortega y Murillo excluyen al régimen de #Cuba del decreto que autoriza la entrada y estacionamiento de tropas extranjeras en #Nicaragua. Desde 2020, #LaHabana había figurado de forma ininterrumpida en la lista.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793830238_69705.html",
-      "destacada": false,
-      "tema": "régimen",
-      "fecha": "Wed, 04 Nov 2026 23:10:38 +0100",
-      "id": 39
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba se prepara para la guerra con generales envejecidos y retratos de los Castro",
-      "resumen": "El ejercicio Moncada 2026 incluye simulaciones de ingobernabilidad social, mientras la propaganda militar intenta proyectar una imagen de fortaleza en plena crisis nacional",
-      "imagen_url": "https://static.14ymedio.com/clip/4077f07d-fdee-40bb-9f6c-76445adcff3d_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/cuba-prepara-guerra-generales-envejecidos_1_1132836.html",
-      "destacada": false,
-      "tema": "prepara",
-      "fecha": "Wed, 04 Nov 2026 22:26:55 +0000",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Florida republicana y Miami-Dade demócrata: ¿qué cambia para los inmigrantes?",
-      "resumen": "Los demócratas recuperaron el control del Congreso de Estados Unidos, pero Florida siguió votando republicano. ¿Qué pasó entonces en Miami-Dade, donde los candidatos demócratas consiguieron importantes victorias y reside una de las mayores comunidades cubanas del país? Los resultados dejan preguntas",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/Centro_de_votacion_Miami_Dade_a5f2b0e7fc.png",
-      "enlace_original": "https://eltoque.com/florida-republicana-y-miami-dade-democrata-que-cambia-para-los-inmigrantes",
-      "destacada": false,
-      "tema": "florida",
-      "fecha": "Wed, 04 Nov 2026 21:30:00 GMT",
-      "id": 41
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel: la crisis del abasto de agua en Cuba lleva 'inversiones de envergadura que requieren tiempo'",
-      "resumen": "Un \"programa integral y tiempo para ejecutar las inversiones\". Eso requiere la solución de la crisis de abasto de agua en #Cuba, según #MiguelDíazCanel.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1793823787_69703.html",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Wed, 04 Nov 2026 21:23:07 +0100",
-      "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Decenas de contenedores rebosantes de basura, pestilencia y ratas cerca del Malecón de La Habana",
-      "resumen": "Las quejas de los vecinos en redes sociales hicieron que apareciera el combustible para retirar los desechos recogidos por el proyecto El Rampeño, que se ocupa de limpiar las calles en El Vedado",
-      "imagen_url": "https://static.14ymedio.com/clip/e6a2b59d-f3d6-4c12-9f24-f86cb0863060_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/decenas-contenedores-rebosantes-basura-pestilencia_1_1132828.html",
-      "destacada": false,
-      "tema": "decenas",
-      "fecha": "Wed, 04 Nov 2026 20:05:06 +0000",
-      "id": 43
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.bc.gob.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Banco Central de Cuba, por consolidar transformaciones económicas",
-      "resumen": "El papel rector del Partido en la implementación y control de las transformaciones económicas y sociales quedó evidenciado durante las conclusiones de la visita del Partido al Banco Central de Cuba",
-      "imagen_url": "",
-      "enlace_original": "https://www.bc.gob.cu/media/noticias/banco-central-de-cuba-por-consolidar-transformacio",
-      "destacada": false,
-      "tema": "banco",
-      "fecha": "Wed, 04 Nov 2026 20:02:25 GMT",
-      "id": 44
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La policía política cubana quiere imputar a Camila Acosta el mismo delito que a Anna Bensi",
-      "resumen": "La periodista independiente explicó que durante su arresto fue acusada de haber provocado una agresión a la madre del miembro de la Seguridad del Estado al que grabó la pasada semana",
-      "imagen_url": "https://static.14ymedio.com/clip/0e262a6b-ed4b-4fa4-ba1f-36e34912ea73_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/policia-politica-cubana-imputar-camila-acosta_1_1132824.html",
-      "destacada": false,
-      "tema": "policía",
-      "fecha": "Wed, 04 Nov 2026 19:52:54 +0000",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El régimen cubano fracasa en su intento de seducir a la prensa de EE UU",
-      "resumen": "La Habana abre las puertas a los medios extranjeros mientras reprime a la prensa independiente cubana",
-      "imagen_url": "https://static.14ymedio.com/clip/fd0952d4-aaf5-48e9-be97-f0e3555c728d_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/opinion/regimen-cubano-fracasa-seducir-prensa_1_1132820.html",
-      "destacada": false,
-      "tema": "régimen",
-      "fecha": "Wed, 04 Nov 2026 19:11:13 +0000",
-      "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Pueden salir de Cuba los jóvenes en edad militar tras la entrada en vigor de la nueva Ley de Migración?",
-      "resumen": "Con la entrada en vigor de la nueva legislación migratoria, surgió una pregunta concreta: qué cambia, en la letra de la ley, para los varones en edad militar que pretenden salir del país o regresar a visitarlo y temen quedar atrapados en Cuba.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/3_11_2026_servico_militar_cuba_ejercito_migracion_09ac4f51f5.jpg",
-      "enlace_original": "https://eltoque.com/pueden-salir-de-cuba-los-jovenes-en-edad-militar-tras-la-entrada-en-vigor-de-la-nueva-ley-de-migracion",
-      "destacada": false,
-      "tema": "pueden",
-      "fecha": "Wed, 04 Nov 2026 19:00:00 GMT",
-      "id": 47
+      "id": 48
     }
   ]
 }
