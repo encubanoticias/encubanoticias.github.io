@@ -1,20 +1,267 @@
 {
   "fecha": "2026-11-06",
-  "hora": "17:45",
-  "total": 48,
+  "hora": "22:34",
+  "total": 55,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Expulsado de EEUU y electo para un cargo en la ONU: la suerte del represor cubano Richard Tur",
+      "resumen": "\"Es una victoria de #Cuba\", celebra la Cancillería del régimen la elección para un cargo en la ONU de un funcionario que agredió a un diplomático de #EEUU en esa organización.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794004286_69737.html",
+      "destacada": true,
+      "tema": "expulsado",
+      "fecha": "Fri, 06 Nov 2026 23:31:26 +0100",
+      "id": 1
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Héctor Echemendía lega a Cuba su arte y a la familia su mayor obra",
-      "resumen": "La Habana, 6 nov (Prensa Latina) Héctor Echemendía, un pilar de la actuación en Cuba, nos abandonó físicamente y tras su partida, a la edad de 88 años, lega su arte al país y a su familia un tesoro inestimable que trasciende hoy la escena donde brilló. The post Héctor Echemendía lega a Cuba su arte ",
+      "titulo": "Cuba se alista para un nuevo latido del Festival de Cine Pobre",
+      "resumen": "La Habana, 6 nov (Prensa Latina) El 21 Festival Internacional del Cine Pobre de Gibara (FicGibara 2027) recibirá en Cuba desde hoy y hasta el 5 de enero producciones de todo el mundo con presupuesto limitado pero plena libertad creativa y alta calidad artística. The post Cuba se alista para un nuevo",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/06/hector-echemendia-lega-a-cuba-su-arte-y-a-la-familia-su-mayor-obra/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/06/cuba-se-alista-para-un-nuevo-latido-del-festival-de-cine-pobre/",
       "destacada": true,
-      "tema": "héctor",
-      "fecha": "Fri, 06 Nov 2026 18:10:29 +0000",
-      "id": 1
+      "tema": "alista",
+      "fecha": "Fri, 06 Nov 2026 23:02:18 +0000",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cruz Roja de Cuba y Suiza firman un memorando de entendimiento",
+      "resumen": "Berna, 6 nov (Prensa Latina) La Cruz Roja Cubana (CRC) y la Cruz Roja Suiza (CRS) suscribieron hoy un Acuerdo de Entendimiento bilateral sobre la respuesta ante afectaciones provocadas por el huracán Melissa y la situación del sistema electroenergético en Cuba. The post Cruz Roja de Cuba y Suiza fir",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/06/cruz-roja-de-cuba-y-suiza-firman-un-memorando-de-entendimiento/",
+      "destacada": true,
+      "tema": "suiza",
+      "fecha": "Fri, 06 Nov 2026 22:57:15 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Organizaciones del exilio cubano en España rechazan presencia del régimen de La Habana en Cumbre Iberoamericana de Madrid",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-06-u1-e209363-s27061-nid345079-organizaciones-exilio-cubano-espana-rechazan",
+      "destacada": true,
+      "tema": "organizaciones",
+      "fecha": "Fri, 06 Nov 2026 22:46:15 +0100",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Familia de cubano detenido por ICE mientras trabajaba en Uber denuncia trato desproporcionado",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-06-u1-e74-s27061-nid345077-familia-cubano-detenido-ice-mientras-trabajaba-uber",
+      "destacada": true,
+      "tema": "familia",
+      "fecha": "Fri, 06 Nov 2026 21:59:44 +0100",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Sin luz, sin internet y sin poder salir de casa: El régimen cerca a periodistas y activistas",
+      "resumen": "#Patrullas, #vigilancia y #CitacionesPoliciales restringen la movilidad de periodistas y activistas durante otra jornada de #represión en #Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793997922_69736.html",
+      "destacada": false,
+      "tema": "internet",
+      "fecha": "Fri, 06 Nov 2026 21:45:22 +0100",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Anciana cubana vive sola entre paredes podridas y sin comida en Sancti Spíritus: piden ayuda urgente",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-06-u1-e43231-s27061-nid344924-anciana-cubana-vive-sola-paredes-podridas-comida",
+      "destacada": false,
+      "tema": "anciana",
+      "fecha": "Fri, 06 Nov 2026 21:43:36 +0100",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Seguridad del Estado impide a periodistas y activistas asistir a una velada de la Embajada de EE UU",
+      "resumen": "El Observatorio Cubano de Derechos Humanos documentó 387 acciones represivas durante octubre, entre ellas 145 cercos policiales",
+      "imagen_url": "https://static.14ymedio.com/clip/bed9865d-8c13-4d6d-93e7-85eb51c0cc87_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/seguridad-impide-periodistas-activistas-asistir_1_1132910.html",
+      "destacada": false,
+      "tema": "seguridad",
+      "fecha": "Fri, 06 Nov 2026 21:28:55 +0000",
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Partida de ajedrez hermana a jóvenes rusos y cubanos",
+      "resumen": "Alumnos de la escuela de la Embajada de Rusia en Cuba y los pupilos del Club de Ajedrez “José Raúl Capablanca” volvieron a reunirse frente a los tableros de ajedrez en el habanero reparto de Cojímar, en el municipio Habana del Este. The post Partida de ajedrez hermana a jóvenes rusos y cubanos first",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/06/partida-de-ajedrez-hermana-a-jovenes-rusos-y-cubanos/",
+      "destacada": false,
+      "tema": "partida",
+      "fecha": "Fri, 06 Nov 2026 21:27:08 +0000",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Anteproyecto de Ley de Educación actualiza el marco normativo del sistema educativo cubano",
+      "resumen": "La propuesta, que será sometida a consideración de la Asamblea Nacional del Poder Popular en diciembre, incorpora nuevas garantías para estudiantes, docentes y familias, refuerza la inclusión y contempla los desafíos de la transformación digital La entrada Anteproyecto de Ley de Educación actualiza ",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/anteproyecto-de-ley-de-educacion-actualiza-el-marco-normativo-del-sistema-educativo-cubano/",
+      "destacada": false,
+      "tema": "anteproyecto",
+      "fecha": "Fri, 06 Nov 2026 21:10:36 +0000",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Arranca el rodaje de 'Néstor', sobre el cineasta hispano cubano que ganó el Óscar en 1979",
+      "resumen": "Una producción española rescata el legado de #NéstorAlmendros, uno de los tantos creadores que, pese a sus aportes al arte en #Cuba, fueron borrados por la censura castrista.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cultura/1793995663_69734.html",
+      "destacada": false,
+      "tema": "arranca",
+      "fecha": "Fri, 06 Nov 2026 21:07:43 +0100",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Un cubano es detenido en Guyana por trata de personas tras el rescate de 14 mujeres de la Isla",
+      "resumen": "El hombre, del que no se reveló su identidad, podría enfrentar una pena de entre cinco años de prisión y cadena perpetua",
+      "imagen_url": "https://static.14ymedio.com/clip/6aaf472d-774f-4ce2-a1cd-26ad78a151f4_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/migracion/cubano-detenido-guyana-trata-personas_1_1132914.html",
+      "destacada": false,
+      "tema": "cubano",
+      "fecha": "Fri, 06 Nov 2026 21:03:28 +0000",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Diputados rusos preparan solicitud a la ONU para levantar el bloqueo de EE.UU a Cuba",
+      "resumen": "El Comité de Asuntos Internacionales de la Duma Estatal de Rusia (Cámara Baja del Parlamento) presentó este viernes un proyecto de solicitud a la Asamblea General de la ONU, los Parlamentos de sus países miembros y las organizaciones parlamentarias internacionales para exigir el fin del bloqueo econ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/06/diputados-rusos-preparan-solicitud-a-la-onu-para-levantar-el-bloqueo-de-ee-uu-a-cuba/",
+      "destacada": false,
+      "tema": "diputados",
+      "fecha": "Fri, 06 Nov 2026 20:53:33 +0000",
+      "id": 13
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.bc.gob.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Homenaje póstumo a Francisco Soberón Valdés",
+      "resumen": "Cuadros de dirección y trabajadores del Banco Central de Cuba, rindieron homenaje póstumo a Francisco Soberón Valdés, primer presidente del banco central",
+      "imagen_url": "",
+      "enlace_original": "https://www.bc.gob.cu/media/noticias/homenaje-postumo-a-francisco-soberon-valdes",
+      "destacada": false,
+      "tema": "homenaje",
+      "fecha": "Fri, 06 Nov 2026 20:01:38 GMT",
+      "id": 14
+    },
+    {
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Hoy en la Mesa Redonda: “Criterio Compartido” sobre el abasto de agua",
+      "resumen": "El cuarto episodio del programa “Criterio Compartido”, dedicado a abordar los graves problemas con el abasto de agua que enfrentan tanto la capital como otras provincias del país, será transmitido hoy en su versión audiovisual en la Mesa Redonda de este viernes, a partir de las 7:00 p. m., por Cubav",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/06/hoy-en-la-mesa-redonda-criterio-compartido-sobre-el-abasto-de-agua/",
+      "destacada": false,
+      "tema": "redonda",
+      "fecha": "Fri, 06 Nov 2026 19:56:24 +0000",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Comenzó programación del Festival de Cine Europeo",
+      "resumen": "Inició con la proyección en el céntrico Cine Yara del filme húngaro “Sin aire”; antesala de una selección de largometrajes provenientes de los estados miembros para ofrecer al público cubano un recorrido social, cultural y de identidad de esas naciones La entrada Comenzó programación del Festival de",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/comenzo-programacion-del-festival-de-cine-europeo/",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Fri, 06 Nov 2026 19:39:41 +0000",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Expulsado por EE UU, el cubano Richard Tur consigue un puesto en la ONU",
+      "resumen": "El régimen cubano celebra el hecho como una victoria, aunque queda por ver si Washington le dará el visado necesario para ejercer sus funciones en Nueva York",
+      "imagen_url": "https://static.14ymedio.com/clip/a06114d6-2c6c-4c03-ab99-d173ed9bfe2d_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/expulsado-ee-uu-cubano-richard_1_1132905.html",
+      "destacada": false,
+      "tema": "expulsado",
+      "fecha": "Fri, 06 Nov 2026 19:33:29 +0000",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Pekín acusa a EEUU de sabotear sus vínculos con La Habana tras sancionar a sus empresas militares",
+      "resumen": "Las empresas militares y de inteligencia que abastecen al aparato militar del régimen de #Cuba se convierten en puntos de fricción entre #EEUU y #China.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1793988933_69729.html",
+      "destacada": false,
+      "tema": "pekín",
+      "fecha": "Fri, 06 Nov 2026 19:15:33 +0100",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Tribunal municipal en La Habana impone limitación de libertad y multas a tres ciudadanos por tráfico ilegal de divisas",
+      "resumen": "El Tribunal Municipal Popular de Diez de Octubre anunció la aplicación de entre cuatro y dos años de privación de libertad y multas de 500 cuotas entre 50 y 40 pesos a tres ciudadanos por el delito de tráfico ilegal de divisas, previsto y sancionado en el Artículo 315.1 inciso g) del Código Penal vi",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/06/tribunal-municipal-en-la-habana-impone-limitacion-de-libertad-y-multas-a-tres-ciudadanos-por-trafico-ilegal-de-divisas/",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Fri, 06 Nov 2026 18:16:15 +0000",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"Me van a deportar\": las voces de los cubanos detenidos por estar en La Habana",
+      "resumen": "Durante las nueve horas que permanecí detenida en una estación policial, escuché las despedidas de quienes serían expulsados por no tener una dirección de la capital en su carné de identidad",
+      "imagen_url": "https://static.14ymedio.com/clip/6a87559f-a911-44c1-927b-d3f921d291f8_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/deportar-voces-cubanos-detenidos-habana_1_1132899.html",
+      "destacada": false,
+      "tema": "deportar",
+      "fecha": "Fri, 06 Nov 2026 17:52:57 +0000",
+      "id": 20
     },
     {
       "categoria": "energia",
@@ -24,23 +271,10 @@
       "resumen": "Ante el interés de la población sobre las nuevas leyes de Migración, Ciudadanía y Extranjería, Cubadebate realizará un Foro Debate con especialistas de la Dirección de Identificación, Inmigración y Extranjería (DIIE). El intercambio será el próximo lunes, de 10:00 a.m. a 12:00 del mediodía. Los lect",
       "imagen_url": "",
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/06/cubadebate-realizara-foro-debate-sobre-las-nuevas-leyes-de-migracion-ciudadania-y-extranjeria/",
-      "destacada": true,
+      "destacada": false,
       "tema": "cubadebate",
       "fecha": "Fri, 06 Nov 2026 17:21:33 +0000",
-      "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Habana de las fotografías",
-      "resumen": "Como parte de la campaña “Habana mía”, dedicada al aniversario de la capital, nos acercamos con un fotorreportaje a la historia de la ciudad retratada y el auge de la fotografía -desde sus inicios- en entornos habaneros La entrada La Habana de las fotografías se publicó primero en Tribuna de La Haba",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/la-habana-de-las-fotografias/",
-      "destacada": true,
-      "tema": "habana",
-      "fecha": "Fri, 06 Nov 2026 17:06:45 +0000",
-      "id": 3
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -50,23 +284,36 @@
       "resumen": "El régimen #cubano condena a cuatro miembros de la jerarquía masónica por supuesto \"tráfico ilegal de divisas\", en un nuevo episodio del hostigamiento de la Seguridad del Estado a los miembros de la cofradía.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1793980908_69726.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "régimen",
       "fecha": "Fri, 06 Nov 2026 17:01:48 +0100",
-      "id": 4
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 5:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/482605.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Fri, 06 Nov 2026 17:00:30 -0500",
+      "id": 23
     },
     {
       "categoria": "sociedad",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Director general de IDEAS Multimedios denunció impacto del bloqueo de EE.UU en Cumbre Mundial de Medios en China",
+      "titulo": "Director general de IDEAS Multimedios denunció impacto del bloqueo de EE.UU. en Cumbre Mundial de Medios en China",
       "resumen": "El director general de IDEAS Multimedios, Randy Alonso, calificó de significativo que el pueblo cubano eleve su voz y muestre su realidad, marcada por el castigo colectivo impuesto por Estados Unidos, en la VII Cumbre Mundial de Medios en China. The post Director general de IDEAS Multimedios denunci",
       "imagen_url": "",
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/06/randy-alonso-resulta-significativo-que-cuba-alce-su-voz-en-cumbre-mundial-de-medios-en-china/",
-      "destacada": true,
+      "destacada": false,
       "tema": "director",
       "fecha": "Fri, 06 Nov 2026 16:58:32 +0000",
-      "id": 5
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -79,20 +326,124 @@
       "destacada": false,
       "tema": "presiona",
       "fecha": "Fri, 06 Nov 2026 16:44:44 +0000",
-      "id": 6
+      "id": 25
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Sucursales que prestan servicio este sábado 07 de noviembre de 2026",
-      "resumen": "Oficinas bancarias con servicio, según su calendario oficial, en el horario de 8:30 a.am. a 1:00 p.m. Solo operaciones de caja La entrada Sucursales que prestan servicio este sábado 07 de noviembre de 2026 se publicó primero en Tribuna de La Habana.",
+      "titulo": "EEUU critica a la ONU por recompensar a diplomático cubano expulsado",
+      "resumen": "EEUU cuestionó este viernes la decisión de la Asamblea General de la ONU de aprobar al diplomático cubano Richard Tur de la Concepción para una comisión presupuestaria, pocos días después de haber sido expulsado de ese país tras un altercado con un funcionario estadounidense.",
       "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/sucursales-que-prestan-servicio-este-sabado-07-de-noviembre-de-2026/",
+      "enlace_original": "https://www.martinoticias.com/a/eeuu-critica-a-la-onu-por-recompensar-a-diplom%c3%a1tico-cubano-expulsado/483654.html",
       "destacada": false,
-      "tema": "sucursales",
-      "fecha": "Fri, 06 Nov 2026 14:32:54 +0000",
-      "id": 7
+      "tema": "critica",
+      "fecha": "Fri, 06 Nov 2026 16:41:41 -0500",
+      "id": 26
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al día",
+      "resumen": "EEUU examina con reconocimiento facial a represores en Cuba, dice fuente del Departamento de Estado.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/483660.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Fri, 06 Nov 2026 16:39:30 -0500",
+      "id": 27
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "SALUD: No se prive de los beneficios de caminar",
+      "resumen": "Son diversos los beneficios de caminar sin embargo muchos se preguntan si es mejor caminar o correr",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261106/salud-no-se-prive-de-los-beneficios-de-caminar/",
+      "destacada": false,
+      "tema": "salud",
+      "fecha": "Fri, 06 Nov 2026 16:39:22 +0000",
+      "id": 28
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Apagones en Cuba, parte de la cotidianidad",
+      "resumen": "Los apagones en Cuba son comunes y constantes, una realidad, que tristemente ha pasado a ser parte de la cotidianidad, en otras palabras, si vives en la Isla sabes que tienen que sufrir la falta de electricidad.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/483656.html",
+      "destacada": false,
+      "tema": "apagones",
+      "fecha": "Fri, 06 Nov 2026 16:38:16 -0500",
+      "id": 29
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Comunidad cubana radicada en Sudamérica reacciona a visita papal",
+      "resumen": "El papa León XIV llegó a Uruguay para iniciar su histórica gira de doce días por Sudamérica. Este primer viaje apostólico del pontífice continuará en Argentina y culminará con un profundo tramo pastoral en Perú, nación donde sirvió durante dos décadas como misionero y obispo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/comunidad-cubana-radicada-en-sudam%c3%a9rica-reacciona-a-visita-papal/483658.html",
+      "destacada": false,
+      "tema": "comunidad",
+      "fecha": "Fri, 06 Nov 2026 16:32:59 -0500",
+      "id": 30
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Las noticias como son",
+      "resumen": "Amado Gil y José Luis Ramos, en Tertulia con Alejandro Tur Valladares, abordan las mas recientes amenazas y acciones de la G-2 cubana contra periodistas independientes y masones incontrolables por el régimen. Los casos de Yoani Sánchez, Ángel Santiesteban y José Ramon Viñas.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/las-noticias-como-son/483655.html",
+      "destacada": false,
+      "tema": "noticias",
+      "fecha": "Fri, 06 Nov 2026 16:00:55 -0500",
+      "id": 31
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba y China amplían cooperación en el sector biotecnológico",
+      "resumen": "Tres nuevos acuerdos impulsarán la innovación de medicamentos, el desarrollo de diagnosticadores y la creación de un laboratorio biofarmacéutico conjunto entre ambos países",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-11-06/cuba-y-china-amplian-cooperacion-en-el-sector-biotecnologico-06-11-2026-15-11-31",
+      "destacada": false,
+      "tema": "china",
+      "fecha": "Fri, 06 Nov 2026 15:11:31 -0500",
+      "id": 32
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuidar en un país que envejece: el desafío invisible que sostiene la vida",
+      "resumen": "Cuba, uno de los países más envejecidos de América Latina y el Caribe, con un 26,7 % de su población de 60 años y más, registró en el pasado año una relación de dependencia demográfica (RDD) de 733 personas en edades potencialmente dependientes por cada 1 000 habitantes en edad laboral",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-11-06/cuidar-en-un-pais-que-envejece-el-desafio-invisible-que-sostiene-la-vida-06-11-2026-15-11-25",
+      "destacada": false,
+      "tema": "cuidar",
+      "fecha": "Fri, 06 Nov 2026 15:11:25 -0500",
+      "id": 33
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Como gigantes en defensa de la Patria",
+      "resumen": "Ante la agresión militar, las pequeñas unidades de infantería se levantan como gigantes, enfrentan y vencen a los enemigos de la paz y la soberanía del pueblo de Cuba",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261106/como-gigantes-en-defensa-de-la-patria/",
+      "destacada": false,
+      "tema": "gigantes",
+      "fecha": "Fri, 06 Nov 2026 14:41:04 +0000",
+      "id": 34
     },
     {
       "categoria": "economia",
@@ -105,7 +456,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Fri, 06 Nov 2026 14:20:48 +0000",
-      "id": 8
+      "id": 35
     },
     {
       "categoria": "transporte",
@@ -118,7 +469,7 @@
       "destacada": false,
       "tema": "duelo",
       "fecha": "Fri, 06 Nov 2026 14:17:39 +0000",
-      "id": 9
+      "id": 36
     },
     {
       "categoria": "energia",
@@ -131,7 +482,7 @@
       "destacada": false,
       "tema": "crisis",
       "fecha": "Fri, 06 Nov 2026 14:11:49 +0100",
-      "id": 10
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -144,7 +495,7 @@
       "destacada": false,
       "tema": "obligado",
       "fecha": "Fri, 06 Nov 26 14:11:00 +0100",
-      "id": 11
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -157,7 +508,20 @@
       "destacada": false,
       "tema": "pekín",
       "fecha": "Fri, 06 Nov 2026 13:16:19 +0000",
-      "id": 12
+      "id": 39
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Festival de Cine Europeo llega a La Habana y a seis provincias del país",
+      "resumen": "Con 18 filmes de 16 naciones participantes, la cita se celebra desde el 5 al 15 de noviembre y, por primera vez, extenderá sus proyecciones fuera de la capital",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-11-06/festival-de-cine-europeo-llega-a-la-habana-y-a-seis-provincias-del-pais-06-11-2026-13-11-46",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Fri, 06 Nov 2026 13:11:46 -0500",
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -170,7 +534,7 @@
       "destacada": false,
       "tema": "ganan",
       "fecha": "Fri, 06 Nov 2026 13:00:06 +0100",
-      "id": 13
+      "id": 41
     },
     {
       "categoria": "economia",
@@ -183,20 +547,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 06 Nov 2026 13:00:00 GMT",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Gracias a todos los que alzaron su voz por mi libertad",
-      "resumen": "Comprobé que cada día decenas o incluso cientos de personas son detenidas en La Habana por el simple hecho de no tener una dirección de la capital en su carné de identidad",
-      "imagen_url": "https://static.14ymedio.com/clip/a5ad9c3f-360d-4553-bab0-fb3d624df262_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/blogs/generacion-y/gracias-alzaron-voz-libertad_132_1132882.html",
-      "destacada": false,
-      "tema": "gracias",
-      "fecha": "Fri, 06 Nov 2026 12:45:07 +0000",
-      "id": 15
+      "id": 42
     },
     {
       "categoria": "transporte",
@@ -209,72 +560,7 @@
       "destacada": false,
       "tema": "destino",
       "fecha": "Fri, 06 Nov 2026 12:25:33 +0100",
-      "id": 16
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 12:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482581.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Fri, 06 Nov 2026 12:00:00 -0500",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barrio adentro",
-      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482579.html",
-      "destacada": false,
-      "tema": "barrio",
-      "fecha": "Fri, 06 Nov 2026 11:30:00 -0500",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "'El régimen muestra su cobardía': EEUU carga contra La Habana por la ola represiva contra periodistas",
-      "resumen": "#EEUU condena la ola represiva del régimen de #Cuba contra #periodistas y opositores. Afirma que #LaHabana muestra su cobardía al recurrir a detenciones arbitrarias porque \"teme la verdad\".",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1793959743_69723.html",
-      "destacada": false,
-      "tema": "régimen",
-      "fecha": "Fri, 06 Nov 2026 11:09:03 +0100",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubanas impulsan campaña para llevar agua potable a familias de un barrio habanero",
-      "resumen": "La iniciativa ciudadana responde a la falta de soluciones institucionale. “Garantizar el agua potable es una obligación del Estado”, declaró Gisselle Ordoñez Milian.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cubanas-impulsan-campa%c3%b1a-para-llevar-agua-potable-a-familias-de-un-barrio-habanero/483571.html",
-      "destacada": false,
-      "tema": "cubanas",
-      "fecha": "Fri, 06 Nov 2026 10:27:03 -0500",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Director General de la ONUDI llama a apoyar a Cuba",
-      "resumen": "El director general de la Organización de las Naciones Unidas para el Desarrollo Industrial (ONUDI), Gerd Müller, realizó un nuevo llamamiento a la solidaridad con Cuba durante las reuniones semestrales que sostuvo con el Grupo de los 77 y China y con el Grupo de América Latina y el Caribe",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-11-06/director-general-de-la-onudi-llama-a-apoyar-a-cuba-06-11-2026-10-11-16",
-      "destacada": false,
-      "tema": "director",
-      "fecha": "Fri, 06 Nov 2026 10:11:16 -0500",
-      "id": 21
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -287,20 +573,7 @@
       "destacada": false,
       "tema": "queda",
       "fecha": "Fri, 06 Nov 26 10:06:00 +0100",
-      "id": 22
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El futuro es ya",
-      "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482577.html",
-      "destacada": false,
-      "tema": "futuro",
-      "fecha": "Fri, 06 Nov 2026 10:00:00 -0500",
-      "id": 23
+      "id": 44
     },
     {
       "categoria": "salud",
@@ -313,7 +586,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 06 Nov 26 09:47:00 +0100",
-      "id": 24
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -326,7 +599,7 @@
       "destacada": false,
       "tema": "geocuba",
       "fecha": "Fri, 06 Nov 2026 09:11:14 -0500",
-      "id": 25
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -339,7 +612,7 @@
       "destacada": false,
       "tema": "llaman",
       "fecha": "Fri, 06 Nov 2026 09:11:01 -0500",
-      "id": 26
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -352,7 +625,7 @@
       "destacada": false,
       "tema": "documental",
       "fecha": "Fri, 06 Nov 26 08:37:00 +0100",
-      "id": 27
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -365,7 +638,7 @@
       "destacada": false,
       "tema": "elecciones",
       "fecha": "Fri, 06 Nov 26 08:31:00 +0100",
-      "id": 28
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -378,7 +651,7 @@
       "destacada": false,
       "tema": "masacre",
       "fecha": "Fri, 06 Nov 26 08:30:00 +0100",
-      "id": 29
+      "id": 50
     },
     {
       "categoria": "salud",
@@ -391,20 +664,7 @@
       "destacada": false,
       "tema": "belarús",
       "fecha": "Fri, 06 Nov 26 08:15:00 +0100",
-      "id": 30
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Camagüey y La Habana reciben nuevos envíos de ayuda humanitaria de EEUU",
-      "resumen": "Llegó a Camagüey un nuevo cargamento de ayuda humanitaria del Gobierno de Estados Unidos para distribuir entre personas vulnerables de Santa Cruz del Sur, informó Cáritas Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/camag%c3%bcey-y-la-habana-reciben-nuevos-env%c3%ados-de-ayuda-humanitaria-de-eeuu/483562.html",
-      "destacada": false,
-      "tema": "habana",
-      "fecha": "Fri, 06 Nov 2026 08:13:24 -0500",
-      "id": 31
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -417,20 +677,7 @@
       "destacada": false,
       "tema": "ciencia",
       "fecha": "Fri, 06 Nov 26 08:12:00 +0100",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "China: cooperación con Cuba es legítima y transparente",
-      "resumen": "China rechazó las nuevas medidas impuestas por Estados Unidos contra Cuba y reafirmó su respaldo a la defensa de la soberanía de la Isla",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-11-06/china-cooperacion-con-cuba-es-legitima-y-transparente-06-11-2026-08-11-40",
-      "destacada": false,
-      "tema": "china",
-      "fecha": "Fri, 06 Nov 2026 08:11:40 -0500",
-      "id": 33
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -443,33 +690,20 @@
       "destacada": false,
       "tema": "trabas",
       "fecha": "Fri, 06 Nov 26 07:53:00 +0100",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "La Habana Vieja ante el desafío de atraer inversiones sin perder su identidad",
-      "resumen": "Las transformaciones económicas aprobadas en junio de 2026 abren nuevas posibilidades para la autonomía empresarial, la movilización de activos y la inversión extranjera en zonas patrimoniales. En el Centro Histórico de La Habana, la Oficina del Historiador trabaja en mecanismos para encauzar esas o",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/06/la-habana-vieja-ante-el-desafio-de-atraer-inversiones-sin-perder-su-identidad/",
-      "destacada": false,
-      "tema": "habana",
-      "fecha": "Fri, 06 Nov 2026 05:39:59 +0000",
-      "id": 35
+      "id": 53
     },
     {
       "categoria": "politica",
       "fuente": "https://eltoque.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba retira a una empresa mixta vinculada a capital australiano concesión minera en El Cobre",
+      "titulo": "Cuba retira concesión minera en El Cobre a una empresa mixta vinculada a capital australiano",
       "resumen": "El Consejo de Ministros retiró a la empresa mixta Minera del Sur S. A. la concesión de explotación de una mina en El Cobre, Santiago de Cuba, y la devolvió a Geominera S. A. El Acuerdo 10462 no explica las razones del cambio ni qué ocurrirá con la participación del socio extranjero.",
       "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/mina_cuba_archivo_05_11_2026_9478b979cb.jpg",
       "enlace_original": "https://eltoque.com/cuba-retira-a-una-empresa-mixta-concesion-minera-en-el-cobre",
       "destacada": false,
       "tema": "retira",
       "fecha": "Fri, 06 Nov 2026 04:11:06 GMT",
-      "id": 36
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -482,150 +716,7 @@
       "destacada": false,
       "tema": "bloqueo",
       "fecha": "Fri, 06 Nov 2026 02:05:43 GMT",
-      "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Sherritt cesa a casi la mitad de su plantilla mientras se centra en 'restablecer las operaciones'",
-      "resumen": "La minera canadiense #SherrittInternational no ha conseguido todos los permisos de #EEUU para volver a operar sus minas en #Cuba, así que adopta medidas extraordinarias.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1793924401_69721.html",
-      "destacada": false,
-      "tema": "sherritt",
-      "fecha": "Fri, 06 Nov 2026 01:20:01 +0100",
-      "id": 38
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Por cambiar 300 dólares para un asilo, cuatro masones cubanos reciben condenas de dos a cuatro años",
-      "resumen": "Entre los sancionados figuran el escritor Ángel Santiesteban y José Ramón Viñas Alonso, en medio de las presiones del Gobierno para controlar el Supremo Consejo del Grado 33",
-      "imagen_url": "https://static.14ymedio.com/clip/5d798319-0186-4464-b909-c092f5b4e399_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/cambiar-300-dolares-asilo-cuatro_1_1132877.html",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Thu, 05 Nov 2026 23:30:04 +0000",
-      "id": 39
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El régimen cubano prolonga la condena de un preso político por un supuesto 'error administrativo'",
-      "resumen": "El régimen de #Cuba impone otros seis meses de cárcel al #PresoPolítico del #11J Francisco Rangel Manzano, pese a que ya había ordenado su excarcelación. Alega un supuesto \"error administrativo\".",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1793916616_69722.html",
-      "destacada": false,
-      "tema": "régimen",
-      "fecha": "Thu, 05 Nov 2026 23:10:16 +0100",
-      "id": 40
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "EE UU sanciona al hermano del ex jefe de Gaesa y a la hija de su actual presidenta",
-      "resumen": "Washington también apunta a cinco buques de transporte de combustibles y a empresas chinas acusadas de suministrar equipamiento militar a Cuba",
-      "imagen_url": "https://static.14ymedio.com/clip/5efc1925-c1c9-44fb-bfa4-25df365eb92d_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/ee-uu-sanciona-hermano-ex_1_1132873.html",
-      "destacada": false,
-      "tema": "sanciona",
-      "fecha": "Thu, 05 Nov 2026 22:08:44 +0000",
-      "id": 41
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Dimite el presidente de Paraguay, Santiago Peña, crítico con el régimen cubano",
-      "resumen": "#SantiagoPeña dimite como presidente de #Paraguay en medio de una crisis política y bancaria. Hace poco más de un mes, ante la ONU, se mostró crítico con el régimen de #Cuba y pidió elecciones libres.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/internacional/1793912278_69717.html",
-      "destacada": false,
-      "tema": "dimite",
-      "fecha": "Thu, 05 Nov 2026 21:57:58 +0100",
-      "id": 42
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Comprobó Díaz-Canel acciones de preparación en La Habana como parte del Ejercicio Estratégico Moncada 2026",
-      "resumen": "El Presidente del Consejo de Defensa Nacional, Miguel Díaz-Canel Bermúdez, intercambió con jefes y miembros de las estructuras del Consejo de Defensa Provincial de La Habana. Visitó en la tarde la jefatura de la Región Militar capitalina La entrada Comprobó Díaz-Canel acciones de preparación en La H",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/comprobo-diaz-canel-acciones-de-preparacion-en-la-habana-como-parte-del-ejercicio-estrategico-moncada-2026/",
-      "destacada": false,
-      "tema": "comprobó",
-      "fecha": "Thu, 05 Nov 2026 20:45:13 +0000",
-      "id": 43
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Rolando Tarajano critica la discriminación entre cubanos en La oveja blanca : “Todos los exilios han sido históricos”",
-      "resumen": "La oveja blanca, de Rolando Tarajano, retrata a una familia cubana con estatus I-220A en Miami y sus conflictos ante la precariedad migratoria, el duelo y la adaptación al exilio.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/La_Oveja_Blanca_22_cf9cbf3541.jpg",
-      "enlace_original": "https://eltoque.com/tarajano-critica-la-discriminacion-entre-cubanos-en-la-oveja-blanca",
-      "destacada": false,
-      "tema": "rolando",
-      "fecha": "Thu, 05 Nov 2026 20:30:00 GMT",
-      "id": 44
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las compras de Cuba a EE UU ya superan los 1.000 millones de dólares este año",
-      "resumen": "Se trata de un aumento del 91% en comparación con los nueve primeros meses del año anterior y los combustibles representan el 30% del total",
-      "imagen_url": "https://static.14ymedio.com/clip/d8d5f211-a3d5-484e-8af8-36b713df3cdd_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/compras-cuba-ee-uu-superan_1_1132868.html",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Thu, 05 Nov 2026 20:12:40 +0000",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Bayamo, 513 años",
-      "resumen": "Hace 513 años, las márgenes del río Yara fueron testigos —según la versión más aceptada, aunque no la única— de un momento cuya repercusión pasaría a la historia de la nacionalidad cubana como un hito imborrable y cuya transcendencia sería enorme tres siglos después. The post Bayamo, 513 años first ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/05/bayamo-513-anos/",
-      "destacada": false,
-      "tema": "bayamo",
-      "fecha": "Thu, 05 Nov 2026 19:22:16 +0000",
-      "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.radiocubana.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Enrique González Mántici y la Radio",
-      "resumen": "Sagua la Grande ha dado a Cuba grandes artistas; uno de ellos fue Enrique González Mántici. Sería imposible referirnos a la música interpretada en Radio y Televisión, sin mencionarlo. Hay vidas que se miden por lo que se ve cuando el silencio se rompe. La suya fue la de quienes edificaron un país de",
-      "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/radialistas-cubanos/enrique-gonzalez-mantici-y-la-radio/",
-      "destacada": false,
-      "tema": "enrique",
-      "fecha": "Thu, 05 Nov 2026 19:21:18 +0000",
-      "id": 47
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.radiocubana.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "En China VII Cumbre Mundial de Medios",
-      "resumen": "La agenda de la VII Cumbre Mundial de Medios se inició hoy en China con la participación de cerca de 500 representantes de unos 330 medios de comunicación, centros de estudios, organismos gubernamentales e instituciones internacionales de 112 países y regiones. Directivos de medios cubanos como Pren",
-      "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/en-china-vii-cumbre-mundial-de-medios/",
-      "destacada": false,
-      "tema": "china",
-      "fecha": "Thu, 05 Nov 2026 18:46:16 +0000",
-      "id": 48
+      "id": 55
     }
   ]
 }
