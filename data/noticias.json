@@ -1,33 +1,111 @@
 {
   "fecha": "2026-11-08",
-  "hora": "03:36",
-  "total": 51,
+  "hora": "10:55",
+  "total": 52,
   "noticias": [
     {
-      "categoria": "transporte",
+      "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Mundial Sub-23: El pitcheo cubano bajo la lupa de su entrenador",
-      "resumen": "Managua, 7 nov (Prensa Latina) El entrenador de pitcheo de Cuba, Reynier Madruga, valoró hoy la respuesta de sus lanzadores en el Mundial de Béisbol Sub-23 de Nicaragua, aunque reconoció aspectos por corregir tras la victoria por nocaut ante Sudáfrica. The post Mundial Sub-23: El pitcheo cubano bajo",
+      "titulo": "Socorro Popular: la solidaridad francesa en marcha con Cuba",
+      "resumen": "Por Antonio Rondón The post Socorro Popular: la solidaridad francesa en marcha con Cuba first appeared on Noticias Prensa Latina.",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/07/mundial-sub-23-el-pitcheo-cubano-bajo-la-lupa-de-su-entrenador/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/08/socorro-popular-la-solidaridad-francesa-en-marcha-con-cuba/",
       "destacada": true,
-      "tema": "transporte",
-      "fecha": "Sun, 08 Nov 2026 02:57:26 +0000",
+      "tema": "socorro",
+      "fecha": "Sun, 08 Nov 2026 11:47:18 +0000",
       "id": 1
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cadena perpetua por un asesinato y hasta 20 años por robar aceite dieléctrico: el régimen exhibe sus castigos",
+      "resumen": "Tres condenas a cadena perpetua en Santiago y otras cuatro de hasta 20 años por robar aceite de un transformador en La Habana: el régimen exhibe castigos mientras aumenta la letalidad de los delitos y persiste la crisis eléctrica.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794132765_69751.html",
+      "destacada": true,
+      "tema": "cadena",
+      "fecha": "Sun, 08 Nov 2026 11:12:45 +0100",
+      "id": 2
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Mundial Sub-23: Cuba desata su bate y Carmona recupera el aliento",
-      "resumen": "Managua, 7 nov (Prensa Latina) Tras el nocaut 26-6 sobre Sudáfrica, Guillermo Carmona reconoció que Cuba “cogió un respiro” en el VI Campeonato Mundial de Béisbol Sub-23 y subrayó que, pese al rival, “siempre es importante ganar”. The post Mundial Sub-23: Cuba desata su bate y Carmona recupera el al",
+      "titulo": "Delegación de Cuba y Xinhua estrechan lazos de amistad y cooperación",
+      "resumen": "Beijing, 8 nov (Prensa Latina) La agencia de noticias Xinhua y representantes de Cuba ratificaron hoy aquí su voluntad de fortalecer los vínculos históricos de amistad y ampliar la cooperación bilateral durante un encuentro celebrado durante la VII Cumbre Mundial de Medios. The post Delegación de Cu",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/07/mundial-sub-23-cuba-desata-su-bate-y-carmona-recupera-el-aliento/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/08/delegacion-de-cuba-y-xinhua-estrechan-lazos-de-amistad-y-cooperacion/",
       "destacada": true,
-      "tema": "mundial",
-      "fecha": "Sun, 08 Nov 2026 01:54:50 +0000",
-      "id": 2
+      "tema": "delegación",
+      "fecha": "Sun, 08 Nov 2026 10:36:09 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Recuperación o parche? La Habana incorpora 20 ómnibus reparados en medio del colapso del transporte público",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-08-u1-e209363-s27061-nid345222-recuperacion-parche-habana-incorpora-20-omnibus",
+      "destacada": true,
+      "tema": "transporte",
+      "fecha": "Sun, 08 Nov 2026 06:15:16 +0100",
+      "id": 4
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Familia cubana traslada féretro en una yunta de bueyes ante el colapso de los servicios funerarios",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-08-u1-e209363-s27061-nid345223-familia-cubana-traslada-feretro-yunta-bueyes-colapso",
+      "destacada": true,
+      "tema": "apagones",
+      "fecha": "Sun, 08 Nov 2026 05:45:00 +0100",
+      "id": 5
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Radio pública de EE.UU. retrata la Cuba de hoy: un corresponsal de NPR encuentra a un pueblo agotado por apagones y falta de combustible",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-08-u1-e209363-s27061-nid345221-radio-publica-eeuu-retrata-cuba-hoy-corresponsal-npr",
+      "destacada": false,
+      "tema": "apagones",
+      "fecha": "Sun, 08 Nov 2026 04:19:27 +0100",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Hasta mantener la higiene es un lujo en Cuba: 600 pesos por una pastilla de jabón en Placetas, Villa Clara",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-08-u1-e209363-s27061-nid345219-banarse-cuesta-caro-cuba-600-pesos-pastilla-jabon",
+      "destacada": false,
+      "tema": "mantener",
+      "fecha": "Sun, 08 Nov 2026 03:42:26 +0100",
+      "id": 7
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El peso cubano sigue perdiendo terreno: euro alcanza los 1,010 pesos y el dólar los 933",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-08-u1-e209363-s27061-nid345220-peso-cubano-sigue-perdiendo-terreno-euro-alcanza",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Sun, 08 Nov 2026 03:23:25 +0100",
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -37,62 +115,10 @@
       "resumen": "",
       "imagen_url": "",
       "enlace_original": "https://www.cibercuba.com/noticias/2026-11-08-u1-e208574-s27061-nid345209-madre-doraiky-llega-pinar-rio-busca-hija-mueve-toda",
-      "destacada": true,
+      "destacada": false,
       "tema": "madre",
       "fecha": "Sun, 08 Nov 2026 01:54:00 +0100",
-      "id": 3
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel admite que el embargo no justifica la negligencia de los funcionarios cubanos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-08-u1-e199894-s27061-nid345217-diaz-canel-admite-embargo-justifica-negligencia",
-      "destacada": true,
-      "tema": "canel",
-      "fecha": "Sun, 08 Nov 2026 01:33:26 +0100",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Italianos llaman a Movilizarse por Cuba y contra el bloqueo EEUU",
-      "resumen": "Roma, 7 nov (Prensa Latina) El impacto del recrudecimiento del bloqueo estadounidense contra Cuba y las muestras de solidaridad del pueblo italiano hacia la isla centraron hoy las intervenciones en el evento Movilizarse por Cuba, en el Teatro Orión, de esta capital. The post Italianos llaman a Movil",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/07/italianos-llaman-a-movilizarse-por-cuba-y-contra-el-bloqueo-eeuu/",
-      "destacada": true,
-      "tema": "italianos",
-      "fecha": "Sun, 08 Nov 2026 01:28:48 +0000",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Niegan donación a madre cubana porque no trabaja con el Estado",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-08-u1-e208512-s27061-nid345212-niegan-donacion-madre-cubana-porque-trabaja-estado",
-      "destacada": false,
-      "tema": "niegan",
-      "fecha": "Sun, 08 Nov 2026 01:02:37 +0100",
-      "id": 6
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Bienvenidos al funeral más barato del mundo»: un turista extranjero retrata el Latinoamericano vacío y la agonía del béisbol cubano",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-08-u1-e199894-s27061-nid345214-bienvenidos-al-funeral-barato-mundo-turista",
-      "destacada": false,
-      "tema": "apagones",
-      "fecha": "Sun, 08 Nov 2026 00:56:41 +0100",
-      "id": 7
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -105,7 +131,7 @@
       "destacada": false,
       "tema": "madres",
       "fecha": "Sat, 07 Nov 2026 22:50:09 +0100",
-      "id": 8
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -118,7 +144,7 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Sat, 07 Nov 26 21:59:00 +0100",
-      "id": 9
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -131,7 +157,7 @@
       "destacada": false,
       "tema": "recuerdo",
       "fecha": "Sat, 07 Nov 26 21:33:00 +0100",
-      "id": 10
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -144,7 +170,7 @@
       "destacada": false,
       "tema": "después",
       "fecha": "Sat, 07 Nov 26 21:23:00 +0100",
-      "id": 11
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -157,7 +183,7 @@
       "destacada": false,
       "tema": "preservar",
       "fecha": "Sat, 07 Nov 26 21:14:00 +0100",
-      "id": 12
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -170,7 +196,7 @@
       "destacada": false,
       "tema": "monreal",
       "fecha": "Sat, 07 Nov 2026 20:58:51 +0100",
-      "id": 13
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -183,7 +209,7 @@
       "destacada": false,
       "tema": "santiago",
       "fecha": "Sat, 07 Nov 2026 20:01:30 +0000",
-      "id": 14
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -196,7 +222,7 @@
       "destacada": false,
       "tema": "intentado",
       "fecha": "Sat, 07 Nov 2026 20:00:46 +0100",
-      "id": 15
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -209,7 +235,7 @@
       "destacada": false,
       "tema": "postmoderno",
       "fecha": "Sat, 07 Nov 2026 20:00:00 -0500",
-      "id": 16
+      "id": 18
     },
     {
       "categoria": "politica",
@@ -222,7 +248,7 @@
       "destacada": false,
       "tema": "prensa",
       "fecha": "Sat, 07 Nov 2026 19:20:43 +0000",
-      "id": 17
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -235,7 +261,7 @@
       "destacada": false,
       "tema": "fortalecen",
       "fecha": "Sat, 07 Nov 2026 19:20:20 +0000",
-      "id": 18
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -248,7 +274,7 @@
       "destacada": false,
       "tema": "deportaciones",
       "fecha": "Sat, 07 Nov 2026 18:46:04 +0000",
-      "id": 19
+      "id": 21
     },
     {
       "categoria": "transporte",
@@ -261,7 +287,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Sat, 07 Nov 2026 18:31:34 +0000",
-      "id": 20
+      "id": 22
     },
     {
       "categoria": "energia",
@@ -274,7 +300,7 @@
       "destacada": false,
       "tema": "nombra",
       "fecha": "Sat, 07 Nov 2026 18:24:08 +0000",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "salud",
@@ -287,7 +313,7 @@
       "destacada": false,
       "tema": "crisis",
       "fecha": "Sat, 07 Nov 2026 18:19:45 +0000",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "politica",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sat, 07 Nov 2026 18:13:30 +0000",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "economia",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "cruzamos",
       "fecha": "Sat, 07 Nov 2026 18:07:26 +0100",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "salud",
@@ -326,7 +352,7 @@
       "destacada": false,
       "tema": "registra",
       "fecha": "Sat, 07 Nov 2026 17:00:10 +0100",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -339,7 +365,7 @@
       "destacada": false,
       "tema": "oposición",
       "fecha": "Sat, 07 Nov 2026 17:00:00 -0500",
-      "id": 26
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -352,7 +378,7 @@
       "destacada": false,
       "tema": "premia",
       "fecha": "Sat, 07 Nov 2026 16:52:46 +0000",
-      "id": 27
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -365,7 +391,7 @@
       "destacada": false,
       "tema": "bailar",
       "fecha": "Sat, 07 Nov 2026 16:09:48 +0000",
-      "id": 28
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -378,7 +404,7 @@
       "destacada": false,
       "tema": "jornada",
       "fecha": "Sat, 07 Nov 2026 16:00:46 +0000",
-      "id": 29
+      "id": 31
     },
     {
       "categoria": "politica",
@@ -391,7 +417,7 @@
       "destacada": false,
       "tema": "extra",
       "fecha": "Sat, 07 Nov 2026 15:52:48 +0000",
-      "id": 30
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -404,7 +430,7 @@
       "destacada": false,
       "tema": "vejez",
       "fecha": "Sat, 07 Nov 2026 15:44:56 +0000",
-      "id": 31
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -417,7 +443,7 @@
       "destacada": false,
       "tema": "emprendedores",
       "fecha": "Sat, 07 Nov 2026 15:36:16 +0000",
-      "id": 32
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -430,7 +456,7 @@
       "destacada": false,
       "tema": "animales",
       "fecha": "Sat, 07 Nov 2026 15:04:47 +0100",
-      "id": 33
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -443,7 +469,7 @@
       "destacada": false,
       "tema": "matanzas",
       "fecha": "Sat, 07 Nov 2026 14:42:00 +0000",
-      "id": 34
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -456,7 +482,7 @@
       "destacada": false,
       "tema": "defensa",
       "fecha": "Sat, 07 Nov 2026 14:40:45 +0000",
-      "id": 35
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -469,7 +495,7 @@
       "destacada": false,
       "tema": "vaticano",
       "fecha": "Sat, 07 Nov 2026 14:36:08 +0100",
-      "id": 36
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -482,7 +508,7 @@
       "destacada": false,
       "tema": "infancia",
       "fecha": "Sat, 07 Nov 2026 14:21:34 +0000",
-      "id": 37
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -495,7 +521,7 @@
       "destacada": false,
       "tema": "corea",
       "fecha": "Sat, 07 Nov 2026 14:07:05 +0000",
-      "id": 38
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -508,7 +534,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Sat, 07 Nov 2026 13:51:48 +0000",
-      "id": 39
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -521,7 +547,7 @@
       "destacada": false,
       "tema": "diputados",
       "fecha": "Sat, 07 Nov 26 13:21:00 +0100",
-      "id": 40
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -534,7 +560,7 @@
       "destacada": false,
       "tema": "partida",
       "fecha": "Sat, 07 Nov 26 13:19:00 +0100",
-      "id": 41
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -547,7 +573,7 @@
       "destacada": false,
       "tema": "científica",
       "fecha": "Sat, 07 Nov 26 13:15:00 +0100",
-      "id": 42
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -560,7 +586,7 @@
       "destacada": false,
       "tema": "independent",
       "fecha": "Sat, 07 Nov 26 13:09:00 +0100",
-      "id": 43
+      "id": 45
     },
     {
       "categoria": "politica",
@@ -573,7 +599,7 @@
       "destacada": false,
       "tema": "elige",
       "fecha": "Sat, 07 Nov 26 13:02:00 +0100",
-      "id": 44
+      "id": 46
     },
     {
       "categoria": "transporte",
@@ -586,7 +612,7 @@
       "destacada": false,
       "tema": "decir",
       "fecha": "Sat, 07 Nov 2026 13:00:58 +0100",
-      "id": 45
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -599,7 +625,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Sat, 07 Nov 26 12:57:00 +0100",
-      "id": 46
+      "id": 48
     },
     {
       "categoria": "salud",
@@ -612,7 +638,7 @@
       "destacada": false,
       "tema": "china",
       "fecha": "Sat, 07 Nov 2026 12:51:22 +0000",
-      "id": 47
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -625,20 +651,7 @@
       "destacada": false,
       "tema": "victoria",
       "fecha": "Sat, 07 Nov 2026 12:46:22 +0000",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Dimite el fiscal clave en la acusación contra Raúl Castro",
-      "resumen": "Jason Reding Quiñones, el fiscal que supervisó la acusación contra #RaúlCastro en Florida, dimite sin explicar los motivos, mientras el general sigue en Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794051768_69743.html",
-      "destacada": false,
-      "tema": "dimite",
-      "fecha": "Sat, 07 Nov 2026 12:42:48 +0100",
-      "id": 49
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -651,7 +664,7 @@
       "destacada": false,
       "tema": "bates",
       "fecha": "Sat, 07 Nov 2026 12:11:52 -0500",
-      "id": 50
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -664,7 +677,7 @@
       "destacada": false,
       "tema": "vínculos",
       "fecha": "Sat, 07 Nov 2026 12:11:19 -0500",
-      "id": 51
+      "id": 52
     }
   ]
 }
