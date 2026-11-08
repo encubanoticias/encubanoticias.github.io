@@ -1,20 +1,202 @@
 {
   "fecha": "2026-11-08",
-  "hora": "16:52",
+  "hora": "20:54",
   "total": 48,
   "noticias": [
     {
       "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Policía decomisa más de 90 kilogramos de carne de res en una vivienda de Santiago de Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-08-u1-e209363-s27061-nid345260-policia-decomisa-90-kilogramos-carne-res-vivienda",
+      "destacada": true,
+      "tema": "policía",
+      "fecha": "Sun, 08 Nov 2026 21:04:19 +0100",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Exposición de pinturas de temática peruana y cubana en Perú",
-      "resumen": "Lima, 8 nov (Prensa Latina) Una exposición de pinturas de 16 artistas peruanos continuó hoy, organizada por la embajada de Cuba y el Colegio de Ingenieros del Perú - Lima (CIPL), como parte de los actos conmemorativos del Día de la Cultura Cubana. The post Exposición de pinturas de temática peruana ",
+      "titulo": "Japón impone su jerarquía ante Cuba en el Mundial de Béisbol Sub-23",
+      "resumen": "Masaya, Nicaragua, 8 nov (Prensa Latina) Japón derrotó hoy 5-1 a Cuba en la tercera jornada del VI Campeonato Mundial de Béisbol Sub-23, resultado que consolidó su paso hacia la superronda y complicó el camino de los caribeños en el certamen. The post Japón impone su jerarquía ante Cuba en el Mundia",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/08/exposicion-de-pinturas-de-tematica-peruana-y-cubana-en-peru/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/08/japon-impone-su-jerarquia-ante-cuba-en-el-mundial-de-beisbol-sub-23/",
       "destacada": true,
-      "tema": "exposición",
-      "fecha": "Sun, 08 Nov 2026 17:28:01 +0000",
-      "id": 1
+      "tema": "japón",
+      "fecha": "Sun, 08 Nov 2026 20:59:29 +0000",
+      "id": 2
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Multas millonarias contra cubanos en EE.UU. vuelven a los tribunales: acusan al Gobierno de ignorar al juez",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-08-u1-e135253-s27061-nid345257-demandantes-acusan-al-gobierno-saltarse-orden-juez",
+      "destacada": true,
+      "tema": "multas",
+      "fecha": "Sun, 08 Nov 2026 20:57:54 +0100",
+      "id": 3
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Habana estrecha lazos con China en biotecnología y propaganda tras las sanciones de EEUU",
+      "resumen": "Medicamentos, inteligencia artificial y apoyo a los medios oficiales: #LaHabana amplía sus vínculos con #Pekín tras las sanciones de #EEUU a dos empresas chinas por suministros militares y de vigilancia.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794167388_69757.html",
+      "destacada": true,
+      "tema": "habana",
+      "fecha": "Sun, 08 Nov 2026 20:49:48 +0100",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Raúl Castro felicita a la Contrainteligencia Militar en su 64 aniversario desde el silencio casi total",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-08-u1-e207888-s27061-nid345251-raul-castro-felicita-contrainteligencia-militar-64",
+      "destacada": true,
+      "tema": "castro",
+      "fecha": "Sun, 08 Nov 2026 20:29:13 +0100",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«No tenemos la culpa de las carencias del sistema»: enfermera cubana reclama respeto tras muerte de colega",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-08-u1-e74-s27061-nid345258-tenemos-culpa-carencias-sistema-enfermera-cubana-reclama",
+      "destacada": false,
+      "tema": "tenemos",
+      "fecha": "Sun, 08 Nov 2026 20:23:15 +0100",
+      "id": 6
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Tres meses después de cerrar su embajada en Cuba, Kenia atribuye esta decisión a las sanciones de EE UU",
+      "resumen": "Un alto cargo del Gobierno keniano afirmó que la presión de Washington había provocado “dificultades administrativas y operativas” en la misión diplomática",
+      "imagen_url": "https://static.14ymedio.com/clip/b9234a2d-9453-47eb-b279-3cb9587a5954_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/tres-meses-despues-cerrar-embajada_1_1132962.html",
+      "destacada": false,
+      "tema": "meses",
+      "fecha": "Sun, 08 Nov 2026 19:54:17 +0000",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La fuga de cuatro judocas trunca la participación de Cuba en un evento en Montreal",
+      "resumen": "El diario ‘Juventud Rebelde’ dice que para el certamen, los federativos inscribieron a 13 atletas, pero “finalmente ninguno acudió”",
+      "imagen_url": "https://static.14ymedio.com/clip/e6ca0846-ec2f-419f-9965-208ba2261728_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/deportes/fuga-cuatro-judocas-trunca-participacion_1_1132961.html",
+      "destacada": false,
+      "tema": "cuatro",
+      "fecha": "Sun, 08 Nov 2026 19:48:48 +0000",
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Recupera la PNR automóvil sustraído en La Habana",
+      "resumen": "La Policía Nacional Revolucionaria en la capital recuperó este sábado, en menos de 40 minutos, un automóvil Moskvich sustraído del área del parqueo de la Ciudad Deportiva La entrada Recupera la PNR automóvil sustraído en La Habana se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/recupera-la-pnr-automovil-sustraido-en-la-habana/",
+      "destacada": false,
+      "tema": "recupera",
+      "fecha": "Sun, 08 Nov 2026 19:29:43 +0000",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Crónicas de un difunto",
+      "resumen": "A veces, incluso después de la muerte, se siguen viviendo peripecias que son increíbles. Estas son mis vivencias después de haber fallecido La entrada Crónicas de un difunto se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/cronicas-de-un-difunto/",
+      "destacada": false,
+      "tema": "crónicas",
+      "fecha": "Sun, 08 Nov 2026 19:13:41 +0000",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Primera victoria de una gran Campaña",
+      "resumen": "Melena del Sur fue el primer territorio cubano en declararse libre de analfabetismo",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261108/primera-victoria-de-una-gran-campana/",
+      "destacada": false,
+      "tema": "primera",
+      "fecha": "Sun, 08 Nov 2026 19:07:42 +0000",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "España condecora al director de Bellas Artes, señalado por justificar la censura en Cuba",
+      "resumen": "España premia al director de Bellas Artes, cuestionado por Tania Bruguera por justificar la censura en #Cuba y bajo cuya gestión el museo rechazó una protesta de artistas por la libertad de Otero Alcántara.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cultura/1794161130_69755.html",
+      "destacada": false,
+      "tema": "españa",
+      "fecha": "Sun, 08 Nov 2026 19:05:30 +0100",
+      "id": 12
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "'Míralo por mí, Jorge, no puedo asomarme tanto a ese ataúd'",
+      "resumen": "Ya nadie pregunta en #Cuba por los días de la semana, sino por qué producto ha subido de precio: #JorgeEnriqueRodríguez escribe su bitácora desde #LaHabana.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794159372_69756.html",
+      "destacada": false,
+      "tema": "míralo",
+      "fecha": "Sun, 08 Nov 2026 18:36:12 +0100",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "En medio de la crisis que padecen, ¿tienen sueños los cubanos?",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794157201_69733.html",
+      "destacada": false,
+      "tema": "medio",
+      "fecha": "Sun, 08 Nov 2026 18:00:01 +0100",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Raúl Castro felicitó a la Contrainteligencia Militar en su aniversario 64 (+ Video)",
+      "resumen": "El líder de la Revolución cubana, General de Ejército Raúl Castro Ruz, envió una carta de felicitación a los combatientes de la Contrainteligencia Militar (CIM) por el aniversario 64 de su fundación: “(...) Lealtad, valentía y modestia son características que definen a los integrantes de este import",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/08/raul-castro-felicito-a-la-contrainteligencia-militar-en-su-aniversario-64-video/",
+      "destacada": false,
+      "tema": "castro",
+      "fecha": "Sun, 08 Nov 2026 17:56:02 +0000",
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -24,10 +206,10 @@
       "resumen": "#Kenia, que traslada sus operaciones a Jamaica sin romper con el régimen cubano, culpa a las sanciones de #EEUU de las dificultades para mantener su embajada en La Habana.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1794152848_69753.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "kenia",
       "fecha": "Sun, 08 Nov 2026 16:47:28 +0100",
-      "id": 2
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -37,10 +219,10 @@
       "resumen": "La reunión, celebrada en el marco de la VII Cumbre Mundial de Medios, estuvo encabezada por Liudmila Álamo Dueñas, vicejefa del Departamento Ideológico del Comité Central del PCC, y el editor en jefe de Xinhua, Lyu Yansong. Ambas partes destacaron los vínculos históricos de amistad y abordaron el us",
       "imagen_url": "",
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/08/xinhua-y-medios-cubanos-ratifican-su-voluntad-de-ampliar-la-cooperacion-bilateral/",
-      "destacada": true,
+      "destacada": false,
       "tema": "xinhua",
       "fecha": "Sun, 08 Nov 2026 16:20:04 +0000",
-      "id": 3
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -50,10 +232,10 @@
       "resumen": "",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1794150734_69732.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "cerrados",
       "fecha": "Sun, 08 Nov 2026 16:12:14 +0100",
-      "id": 4
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -63,10 +245,10 @@
       "resumen": "El asalto a una cooperativa de Contramaestre dejó un custodio muerto y otro gravemente herido",
       "imagen_url": "https://static.14ymedio.com/clip/7cdf0e6e-71cc-4ab1-8f6b-121a016c1205_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/cadena-perpetua-tres-hombres-asesinato_1_1132955.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "cadena",
       "fecha": "Sun, 08 Nov 2026 16:06:32 +0000",
-      "id": 5
+      "id": 19
     },
     {
       "categoria": "salud",
@@ -79,7 +261,7 @@
       "destacada": false,
       "tema": "cooperación",
       "fecha": "Sun, 08 Nov 2026 15:53:33 +0000",
-      "id": 6
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -92,7 +274,7 @@
       "destacada": false,
       "tema": "honor",
       "fecha": "Sun, 08 Nov 2026 15:19:28 +0000",
-      "id": 7
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -105,7 +287,7 @@
       "destacada": false,
       "tema": "recuerdan",
       "fecha": "Sun, 08 Nov 2026 15:09:14 +0000",
-      "id": 8
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -118,7 +300,20 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Sun, 08 Nov 2026 15:00:37 +0000",
-      "id": 9
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Jóvenes ajedrecistas cubanos cierran con cinco medallas de oro en Festival Centroamericano y del Caribe de Ajedrez",
+      "resumen": "Una actuación memorable protagonizaron los jóvenes ajedrecistas cubanos presentes en el XXI Festival Centroamericano y del Caribe de Ajedrez de la Juventud que concluyó este sábado en San José, Costa Rica, al conquistar cinco medallas de oro y dos títulos internacionales. The post Jóvenes ajedrecist",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/08/jovenes-ajedrecistas-cubanos-cierran-con-cinco-medallas-de-oro-en-festival-centroamericano-y-del-caribe-de-ajedrez/",
+      "destacada": false,
+      "tema": "jóvenes",
+      "fecha": "Sun, 08 Nov 2026 14:53:59 +0000",
+      "id": 24
     },
     {
       "categoria": "transporte",
@@ -131,20 +326,20 @@
       "destacada": false,
       "tema": "mundial",
       "fecha": "Sun, 08 Nov 2026 14:50:54 +0000",
-      "id": 10
+      "id": 25
     },
     {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Díaz-Canel: “¡No nos doblegarán!”, ante las nuevas sanciones de EE.UU.",
-      "resumen": "El presidente cubano denunció que las medidas del Departamento del Tesoro forman parte de un ”diseño de asfixia económica y castigo colectivo” y advirtió que la verdadera amenaza no es Cuba, sino el bloqueo. Las sanciones alcanzan también a dos compañías chinas, lo que generó el rechazo de Beijing. ",
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "CIDH exige explicaciones al régimen de Cuba por el caso del adolescente Jonathan Muir",
+      "resumen": "El seguimiento del caso de Jonathan Muir por parte de la CIDH no solo devela la vulnerabilidad de los adolescentes frente al sistema penal cubano, sino que marca un giro en la efectividad y alcance de los organismos supranacionales para exigir garantías frente a las autoridades estatales.",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/08/diaz-canel-no-nos-doblegaran-ante-las-nuevas-sanciones-de-ee-uu/",
+      "enlace_original": "https://www.martinoticias.com/a/cidh-exige-explicaciones-al-r%c3%a9gimen-de-cuba-por-el-caso-del-adolescente-jonathan-muir/483755.html",
       "destacada": false,
-      "tema": "canel",
-      "fecha": "Sun, 08 Nov 2026 14:42:49 +0000",
-      "id": 11
+      "tema": "exige",
+      "fecha": "Sun, 08 Nov 2026 14:45:14 -0500",
+      "id": 26
     },
     {
       "categoria": "transporte",
@@ -157,7 +352,20 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Sun, 08 Nov 2026 14:20:24 +0000",
-      "id": 12
+      "id": 27
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Autoridades penitenciarias permiten visita a preso político tras golpiza y traslado al Combinado del Este",
+      "resumen": "Las autoridades de la prisión Combinado del Este permitieron la visita de aseo al preso político Yoan Arévalo Álvarez, luego de que permaneciera incomunicado tras su traslado desde otro penal por protestar contra el régimen cubano.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/483754.html",
+      "destacada": false,
+      "tema": "autoridades",
+      "fecha": "Sun, 08 Nov 2026 14:10:36 -0500",
+      "id": 28
     },
     {
       "categoria": "transporte",
@@ -170,20 +378,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Sun, 08 Nov 2026 14:01:25 +0000",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Jóvenes ajedrecistas cubanos cierran con cinco medallas de oro en Festival Centroamericano y del Caribe de Ajedrez",
-      "resumen": "Una actuación memorable protagonizaron los jóvenes ajedrecistas cubanos presentes en el XXI Festival Centroamericano y del Caribe de Ajedrez de la Juventud que concluyó este sábado en San José, Costa Rica, al conquistar cinco medallas de oro y dos títulos internacionales. The post Jóvenes ajedrecist",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/08/jovenes-ajedrecistas-cubanos-cierran-con-cinco-medallas-de-oro-en-festival-centroamericano-y-del-caribe-de-ajedrez/",
-      "destacada": false,
-      "tema": "jóvenes",
-      "fecha": "Sun, 08 Nov 2026 13:53:59 +0000",
-      "id": 14
+      "id": 29
     },
     {
       "categoria": "transporte",
@@ -196,7 +391,20 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Sun, 08 Nov 2026 13:47:09 +0100",
-      "id": 15
+      "id": 30
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Joven activista cubano envía fuerte mensaje al régimen tras 12 horas de interrogatorio policial",
+      "resumen": "El activista cubano Karel Daniel Hernández denunció que fue interrogado durante 12 horas por la policía política en La Habana y afirmó que seguirá creando contenido en redes sociales pese a las amenazas y presiones recibidas por sus publicaciones.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/joven-activista-cubano-env%c3%ada-fuerte-mensaje-al-r%c3%a9gimen-tras-12-horas-de-interrogatorio-policial/483752.html",
+      "destacada": false,
+      "tema": "joven",
+      "fecha": "Sun, 08 Nov 2026 13:27:45 -0500",
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -209,46 +417,20 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Sun, 08 Nov 26 13:18:00 +0100",
-      "id": 16
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Néstor Díaz de Villegas y Lezama Lima entre las novedades literarias cubanas de octubre",
-      "resumen": "La cárcel para castigar la diferencia, un análisis del síndrome de La Habana y una biografía de Carlos Manuel de Céspedes desde una perspectiva poco habitual",
-      "imagen_url": "https://static.14ymedio.com/clip/e3784c37-97dd-438c-82ce-3ea0d6bfc31d_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/nestor-diaz-villegas-lezama-lima_1_1132945.html",
-      "destacada": false,
-      "tema": "néstor",
-      "fecha": "Sun, 08 Nov 2026 13:16:03 +0000",
-      "id": 17
+      "id": 32
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "China defiende su cooperación con Cuba y rechaza sanciones de EEUU",
-      "resumen": "Prensa Latina - China rechazó hoy las nuevas sanciones impuestas por Estados Unidos contra personas...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125976-china-defiende-su-cooperacion-con-cuba-y-rechaza-sanciones-de-eeuu.jpg?t=1794140300",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261108/125976/125976-china-defiende-su-cooperacion-con-cuba-y-rechaza-sanciones-de-eeuu",
+      "titulo": "Cuba denuncia impacto de nuevas medidas unilaterales de EE. UU. contra empresas, buques y compañías, entre ellas varias de China",
+      "resumen": "Canal Caribe.- Las máximas autoridades cubanas denunciaron este sábado las nuevas medidas coercitiva...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125976-cuba-denuncia-impacto-de-nuevas-medidas-unilaterales-de-ee-uu-contra-empresas-buques-y-companias-entre-ellas-varias-de-china.jpg?t=1794140300",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261108/125976/125976-cuba-denuncia-impacto-de-nuevas-medidas-unilaterales-de-ee-uu-contra-empresas-buques-y-companias-entre-ellas-varias-de-china",
       "destacada": false,
-      "tema": "china",
+      "tema": "denuncia",
       "fecha": "Sun, 08 Nov 26 13:16:00 +0100",
-      "id": 18
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Lluvia de carreras cubanas en el Mundial",
-      "resumen": "El matancero Hanyelo Videt empujó tres carreras en el nocaut 26-6 de Cuba a Sudáfrica, en el Mundial de Béisbol Sub-23.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/11/08/lluvia-de-carreras-cubanas-en-el-mundial/",
-      "destacada": false,
-      "tema": "lluvia",
-      "fecha": "Sun, 08 Nov 2026 13:04:17 +0000",
-      "id": 19
+      "id": 33
     },
     {
       "categoria": "transporte",
@@ -261,7 +443,7 @@
       "destacada": false,
       "tema": "judas",
       "fecha": "Sun, 08 Nov 2026 13:00:23 +0100",
-      "id": 20
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -274,20 +456,7 @@
       "destacada": false,
       "tema": "chancleta",
       "fecha": "Sun, 08 Nov 2026 13:00:00 GMT",
-      "id": 21
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.guerrillero.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba apalea a Sudáfrica en vísperas de duelo duro en Mundial beisbolero",
-      "resumen": "&#160;En un juego concluido de noche y demorado por la lluvia en el estadio Soberanía de esta ciudad, Cuba noqueó hoy a Sudáfrica 26-6 en la segunda jornada de la VI Copa del Mundo sub-23 de béisbol. ‎ &#160; Ante un picheo muy lento, que además mostró excesivo descontrol al otorgar 17 bases por bol",
-      "imagen_url": "",
-      "enlace_original": "https://www.guerrillero.cu/cuba-apalea-a-sudafrica-en-visperas-de-duelo-duro-en-mundial-beisbolero/",
-      "destacada": false,
-      "tema": "apalea",
-      "fecha": "Sun, 08 Nov 2026 12:15:48 +0000",
-      "id": 22
+      "id": 35
     },
     {
       "categoria": "transporte",
@@ -300,7 +469,33 @@
       "destacada": false,
       "tema": "sodepaz",
       "fecha": "Sun, 08 Nov 26 12:14:00 +0100",
-      "id": 23
+      "id": 36
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 12:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/482741.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Sun, 08 Nov 2026 12:00:00 -0500",
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cinco cubanos definirán su destino sobre el ring próximamente",
+      "resumen": "Los púgiles cubanos Andy Cruz, Frank Sánchez y Yoenli Hernández se acercan a la posibilidad de convertirse en campeones mundiales profesionales, y el veterano Erislandy Lara defenderá su corona, mientras que Osleys Iglesias, deberá esperar por un combate unificador en las 168 libras.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/cinco-cubanos-definiran-su-destino-sobre-el-ring-proximamente/483753.html",
+      "destacada": false,
+      "tema": "cinco",
+      "fecha": "Sun, 08 Nov 2026 11:55:34 -0500",
+      "id": 38
     },
     {
       "categoria": "politica",
@@ -313,7 +508,7 @@
       "destacada": false,
       "tema": "arrestan",
       "fecha": "Sun, 08 Nov 2026 11:38:33 -0500",
-      "id": 24
+      "id": 39
     },
     {
       "categoria": "energia",
@@ -326,7 +521,7 @@
       "destacada": false,
       "tema": "cadena",
       "fecha": "Sun, 08 Nov 2026 11:12:45 +0100",
-      "id": 25
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -339,33 +534,7 @@
       "destacada": false,
       "tema": "bensi",
       "fecha": "Sun, 08 Nov 2026 11:03:49 -0500",
-      "id": 26
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Pablo Armando Fernández: «La primavera, dices, y escojo madreselvas»",
-      "resumen": "Este mes de noviembre se cumplieron cinco años del fallecimiento de Pablo Armando Fernández, poeta, novelista, ensayista y traductor cubano",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-11-08/pablo-armando-fernandez-la-primavera-dices-y-escojo-madreselvas-08-11-2026-10-11-39",
-      "destacada": false,
-      "tema": "pablo",
-      "fecha": "Sun, 08 Nov 2026 10:11:39 -0500",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "El giro avileño que inyecta recursos al sector azucarero",
-      "resumen": "Ciego de Ávila siembra tabaco en áreas cañeras para sortear la asfixia económica del bloqueo: más de 1 500 trabajadores recuperan empleo",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-11-08/el-giro-avileno-que-inyecta-recursos-al-sector-azucarero-08-11-2026-10-11-20",
-      "destacada": false,
-      "tema": "avileño",
-      "fecha": "Sun, 08 Nov 2026 10:11:20 -0500",
-      "id": 28
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -378,7 +547,7 @@
       "destacada": false,
       "tema": "embajada",
       "fecha": "Sun, 08 Nov 2026 09:29:42 -0500",
-      "id": 29
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -391,7 +560,7 @@
       "destacada": false,
       "tema": "nicaragua",
       "fecha": "Sun, 08 Nov 2026 08:27:12 -0500",
-      "id": 30
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -404,46 +573,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Sun, 08 Nov 2026 08:00:00 -0500",
-      "id": 31
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Santa Misa",
-      "resumen": "La misa dominical transmitida para Cuba desde el Santuario Nacional de Nuestra Señor de la Caridad, un templo católico de la Arquidiócesis de Miami dedicado a la Patrona de Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482739.html",
-      "destacada": false,
-      "tema": "santa",
-      "fecha": "Sun, 08 Nov 2026 07:00:30 -0500",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba Habla: \"Ahora estoy viviendo el peor momento de mi vida”",
-      "resumen": "Anciana cubana expresa desde La Habana las dificultades que enfrenta ella y su familia para comer.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-habla-ahora-estoy-viviendo-el-peor-momento-de-mi-vida/483467.html",
-      "destacada": false,
-      "tema": "habla",
-      "fecha": "Sun, 08 Nov 2026 07:00:00 -0500",
-      "id": 33
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Madres cubanas salen a las calles de El Cobre para exigir la libertad de un activista detenido",
-      "resumen": "Con carteles y cacerolas, madres de El Cobre reclaman libertad para Yoel Pérez, que repartía alimentos a necesitados. Fue detenido en un operativo armado y su esposa arrestada durante protestas en poblado de Santiago de #Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794088209_69749.html",
-      "destacada": false,
-      "tema": "madres",
-      "fecha": "Sat, 07 Nov 2026 22:50:09 +0100",
-      "id": 34
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -456,7 +586,7 @@
       "destacada": false,
       "tema": "organizaciones",
       "fecha": "Sat, 07 Nov 26 21:59:00 +0100",
-      "id": 35
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -469,7 +599,7 @@
       "destacada": false,
       "tema": "recuerdo",
       "fecha": "Sat, 07 Nov 26 21:33:00 +0100",
-      "id": 36
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -482,7 +612,7 @@
       "destacada": false,
       "tema": "después",
       "fecha": "Sat, 07 Nov 26 21:23:00 +0100",
-      "id": 37
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -495,136 +625,6 @@
       "destacada": false,
       "tema": "preservar",
       "fecha": "Sat, 07 Nov 26 21:14:00 +0100",
-      "id": 38
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Monreal cuestiona la falta de un plan monetario claro ante el deterioro del peso cubano",
-      "resumen": "Pedro Monreal cuestiona que la banca cubana destaque sus fallos de comunicación sin explicar cómo frenará el deterioro del peso: \"la autocrítica no se corresponde con la gravedad de la crisis\".",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1794081531_69747.html",
-      "destacada": false,
-      "tema": "monreal",
-      "fecha": "Sat, 07 Nov 2026 20:58:51 +0100",
-      "id": 39
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Santiago de Cuba: ciudad que crea, ciudad que crece",
-      "resumen": "A pocas horas de su clausura el Festival \"se re/construye de manera colectiva, y cada idea encuentra una manera de materializarse, haciendo de la resistencia y la resiliencia, soporte para crear y crecer\"",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261107/santiago-de-cuba-ciudad-que-crea-ciudad-que-crece/",
-      "destacada": false,
-      "tema": "santiago",
-      "fecha": "Sat, 07 Nov 2026 20:01:30 +0000",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "'He intentado quitarme la vida, no tengo nada que dar a mis hijos': una joven madre cubana",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794078046_69731.html",
-      "destacada": false,
-      "tema": "intentado",
-      "fecha": "Sat, 07 Nov 2026 20:00:46 +0100",
-      "id": 41
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Postmoderno",
-      "resumen": "El cineasta cubanoamericano Joe Cardona y sus invitados rompen los muros culturales que han aislado a Cuba por mucho tiempo y tienden un puente musical para conocer la música que una vez fue censurada, prohibida y descartada.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482721.html",
-      "destacada": false,
-      "tema": "postmoderno",
-      "fecha": "Sat, 07 Nov 2026 20:00:00 -0500",
-      "id": 42
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La prensa oficialista cubana está en Pekín para aprender del “Gran Hermano” cómo usar la IA",
-      "resumen": "En China y en la Isla, los partidos comunistas mantienen un control férreo sobre la información y reprimen los medios independientes",
-      "imagen_url": "https://static.14ymedio.com/clip/16b48f8a-3e94-40ee-8279-ace579d0c4b9_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/prensa-oficialista-cubana-pekin-aprender_1_1132934.html",
-      "destacada": false,
-      "tema": "prensa",
-      "fecha": "Sat, 07 Nov 2026 19:20:43 +0000",
-      "id": 43
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Fortalecen cooperación biotecnológica Cuba y China",
-      "resumen": "El foro de oportunidades con sede en el Gigante Asiático deviene espacio para encontrar soluciones ante los grandes desafíos sanitarios de la humanidad",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261107/fortalecen-cooperacion-biotecnologica-cuba-y-china/",
-      "destacada": false,
-      "tema": "fortalecen",
-      "fecha": "Sat, 07 Nov 2026 19:20:20 +0000",
-      "id": 44
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Ola de deportaciones de \"ilegales\" desde La Habana hacia las provincias",
-      "resumen": "Es una violación del artículo 13 de la Declaración Universal de Derechos Humanos sobre el derecho de “toda persona a escoger libremente su residencia\"",
-      "imagen_url": "https://static.14ymedio.com/clip/0ae007f9-b5a4-45fc-a85d-8a5ef45c595f_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/ola-deportaciones-ilegales-habana-provincias_1_1132937.html",
-      "destacada": false,
-      "tema": "deportaciones",
-      "fecha": "Sat, 07 Nov 2026 18:46:04 +0000",
-      "id": 45
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "La Proeza Laboral ondea en ensambladora de ómnibus de Cuba",
-      "resumen": "El alto sentido del deber y la voluntad de crecerse hicieron que la Empresa Productora de Ómnibus Evelio Prieto Guillama mereciera Bandera de Proeza Laboral",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261107/la-proeza-laboral-ondea-en-ensambladora-de-omnibus-de-cuba/",
-      "destacada": false,
-      "tema": "transporte",
-      "fecha": "Sat, 07 Nov 2026 18:31:34 +0000",
-      "id": 46
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El Papa nombra un nuevo arzobispo de Santiago de Cuba tras aceptar la renuncia de Dionisio García",
-      "resumen": "Juan Gabriel Díaz Ruiz, hasta ahora obispo de Matanzas, sustituye al prelado que defendió el derecho de los cubanos a reclamar comida, electricidad y libertad",
-      "imagen_url": "https://static.14ymedio.com/clip/bf4fda09-f08a-450c-88f7-3133b698c367_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/papa-nombra-nuevo-arzobispo-santiago_1_1132935.html",
-      "destacada": false,
-      "tema": "nombra",
-      "fecha": "Sat, 07 Nov 2026 18:24:08 +0000",
-      "id": 47
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La crisis sanitaria de Cuba deja su huella en los registros de hepatitis A de Florida",
-      "resumen": "De los 79 casos vinculados con la Isla, un elevado porcentaje necesitó hospitalización",
-      "imagen_url": "https://static.14ymedio.com/clip/f20887f6-8279-4351-b521-f66b2555f294_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/cdc-hepatitis-a-cuba-contagios-florida_1_1132933.html",
-      "destacada": false,
-      "tema": "crisis",
-      "fecha": "Sat, 07 Nov 2026 18:19:45 +0000",
       "id": 48
     }
   ]
