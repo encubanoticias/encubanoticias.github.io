@@ -1,46 +1,85 @@
 {
-  "fecha": "2026-11-08",
-  "hora": "20:54",
-  "total": 48,
+  "fecha": "2026-11-09",
+  "hora": "00:21",
+  "total": 46,
   "noticias": [
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Policía decomisa más de 90 kilogramos de carne de res en una vivienda de Santiago de Cuba",
-      "resumen": "",
+      "categoria": "energia",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Coloso tunero campeón azucarero",
+      "resumen": "El equipo del coloso Antonio Guiteras, del municipio de Puerto Padre, se coronó campeón de la edición 44 de la Liga Azucarera de Béisbol en Cuba, al vencer dos veces en el play off a la selección del central Arquímides Colina, de Mabay, Granma",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-08-u1-e209363-s27061-nid345260-policia-decomisa-90-kilogramos-carne-res-vivienda",
+      "enlace_original": "https://www.trabajadores.cu/20261108/coloso-tunero-campeon-azucarero/",
       "destacada": true,
-      "tema": "policía",
-      "fecha": "Sun, 08 Nov 2026 21:04:19 +0100",
+      "tema": "apagones",
+      "fecha": "Mon, 09 Nov 2026 00:18:33 +0000",
       "id": 1
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
+      "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Japón impone su jerarquía ante Cuba en el Mundial de Béisbol Sub-23",
-      "resumen": "Masaya, Nicaragua, 8 nov (Prensa Latina) Japón derrotó hoy 5-1 a Cuba en la tercera jornada del VI Campeonato Mundial de Béisbol Sub-23, resultado que consolidó su paso hacia la superronda y complicó el camino de los caribeños en el certamen. The post Japón impone su jerarquía ante Cuba en el Mundia",
+      "titulo": "Crónica anunciada…",
+      "resumen": "La segunda derrota de Cuba este domingo ante Japón 5-1 estaba más que vaticinada antes de salir hacia Nicaragua, sede del VI Campeonato Mundial Sub-23",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/08/japon-impone-su-jerarquia-ante-cuba-en-el-mundial-de-beisbol-sub-23/",
+      "enlace_original": "https://www.trabajadores.cu/20261108/cronica-anunciada/",
       "destacada": true,
-      "tema": "japón",
-      "fecha": "Sun, 08 Nov 2026 20:59:29 +0000",
+      "tema": "crónica",
+      "fecha": "Mon, 09 Nov 2026 00:16:34 +0000",
       "id": 2
     },
     {
-      "categoria": "politica",
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cristianos cubanos detenidos regresan a sus casas y trasladado por la fuerza el pastor Rolando Pérez a Las Tunas",
+      "resumen": "Tres cristianos regresan con sus familias y el pastor Rolando Pérez es trasladado a Las Tunas. Mientras, un joven de Fuera de la Caja Cuba denuncia amenazas de cárcel por sus videos.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1794177539_69758.html",
+      "destacada": true,
+      "tema": "cristianos",
+      "fecha": "Sun, 08 Nov 2026 23:38:59 +0100",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Multas millonarias contra cubanos en EE.UU. vuelven a los tribunales: acusan al Gobierno de ignorar al juez",
+      "titulo": "Kenia vincula a las sanciones de EE.UU. el cierre de su embajada en La Habana",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-08-u1-e135253-s27061-nid345257-demandantes-acusan-al-gobierno-saltarse-orden-juez",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-08-u1-e208512-s27061-nid345271-kenia-vincula-sanciones-eeuu-cierre-embajada-habana",
       "destacada": true,
-      "tema": "multas",
-      "fecha": "Sun, 08 Nov 2026 20:57:54 +0100",
-      "id": 3
+      "tema": "kenia",
+      "fecha": "Sun, 08 Nov 2026 23:37:33 +0100",
+      "id": 4
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Mundial Sub-23: Presidente de la FCBS mantiene confianza en Cuba",
+      "resumen": "Masaya, Nicaragua, 8 nov (Prensa Latina) Cuba conserva posibilidades de avanzar a la superronda del Mundial de Béisbol Sub-23, aunque necesitará vencer mañana a Venezuela tras caer hoy 5-1 ante Japón y quedar con balance de una victoria y dos derrotas. The post Mundial Sub-23: Presidente de la FCBS ",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/08/mundial-sub-23-presidente-de-la-fcbs-mantiene-confianza-en-cuba/",
+      "destacada": true,
+      "tema": "mundial",
+      "fecha": "Sun, 08 Nov 2026 23:11:14 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El cubano Jorge Luis Miranda Carracedo expone en Santo Domingo las claves de su universo visual",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cultura/1794172003_69739.html",
+      "destacada": false,
+      "tema": "cubano",
+      "fecha": "Sun, 08 Nov 2026 22:06:43 +0100",
+      "id": 6
     },
     {
       "categoria": "salud",
@@ -50,36 +89,10 @@
       "resumen": "Medicamentos, inteligencia artificial y apoyo a los medios oficiales: #LaHabana amplía sus vínculos con #Pekín tras las sanciones de #EEUU a dos empresas chinas por suministros militares y de vigilancia.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1794167388_69757.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "habana",
       "fecha": "Sun, 08 Nov 2026 20:49:48 +0100",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Raúl Castro felicita a la Contrainteligencia Militar en su 64 aniversario desde el silencio casi total",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-08-u1-e207888-s27061-nid345251-raul-castro-felicita-contrainteligencia-militar-64",
-      "destacada": true,
-      "tema": "castro",
-      "fecha": "Sun, 08 Nov 2026 20:29:13 +0100",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«No tenemos la culpa de las carencias del sistema»: enfermera cubana reclama respeto tras muerte de colega",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-08-u1-e74-s27061-nid345258-tenemos-culpa-carencias-sistema-enfermera-cubana-reclama",
-      "destacada": false,
-      "tema": "tenemos",
-      "fecha": "Sun, 08 Nov 2026 20:23:15 +0100",
-      "id": 6
+      "id": 7
     },
     {
       "categoria": "politica",
@@ -92,7 +105,7 @@
       "destacada": false,
       "tema": "meses",
       "fecha": "Sun, 08 Nov 2026 19:54:17 +0000",
-      "id": 7
+      "id": 8
     },
     {
       "categoria": "sociedad",
@@ -105,7 +118,7 @@
       "destacada": false,
       "tema": "cuatro",
       "fecha": "Sun, 08 Nov 2026 19:48:48 +0000",
-      "id": 8
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -118,7 +131,7 @@
       "destacada": false,
       "tema": "recupera",
       "fecha": "Sun, 08 Nov 2026 19:29:43 +0000",
-      "id": 9
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -131,7 +144,7 @@
       "destacada": false,
       "tema": "crónicas",
       "fecha": "Sun, 08 Nov 2026 19:13:41 +0000",
-      "id": 10
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -144,7 +157,7 @@
       "destacada": false,
       "tema": "primera",
       "fecha": "Sun, 08 Nov 2026 19:07:42 +0000",
-      "id": 11
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -157,7 +170,7 @@
       "destacada": false,
       "tema": "españa",
       "fecha": "Sun, 08 Nov 2026 19:05:30 +0100",
-      "id": 12
+      "id": 13
     },
     {
       "categoria": "economia",
@@ -170,7 +183,7 @@
       "destacada": false,
       "tema": "míralo",
       "fecha": "Sun, 08 Nov 2026 18:36:12 +0100",
-      "id": 13
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -183,7 +196,7 @@
       "destacada": false,
       "tema": "medio",
       "fecha": "Sun, 08 Nov 2026 18:00:01 +0100",
-      "id": 14
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -196,7 +209,7 @@
       "destacada": false,
       "tema": "castro",
       "fecha": "Sun, 08 Nov 2026 17:56:02 +0000",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -209,7 +222,7 @@
       "destacada": false,
       "tema": "kenia",
       "fecha": "Sun, 08 Nov 2026 16:47:28 +0100",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -222,7 +235,7 @@
       "destacada": false,
       "tema": "xinhua",
       "fecha": "Sun, 08 Nov 2026 16:20:04 +0000",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -235,7 +248,7 @@
       "destacada": false,
       "tema": "cerrados",
       "fecha": "Sun, 08 Nov 2026 16:12:14 +0100",
-      "id": 18
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -248,7 +261,7 @@
       "destacada": false,
       "tema": "cadena",
       "fecha": "Sun, 08 Nov 2026 16:06:32 +0000",
-      "id": 19
+      "id": 20
     },
     {
       "categoria": "salud",
@@ -261,7 +274,7 @@
       "destacada": false,
       "tema": "cooperación",
       "fecha": "Sun, 08 Nov 2026 15:53:33 +0000",
-      "id": 20
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -274,33 +287,7 @@
       "destacada": false,
       "tema": "honor",
       "fecha": "Sun, 08 Nov 2026 15:19:28 +0000",
-      "id": 21
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Recuerdan en Cuba el aniversario 109 de la Gran Revolución Socialista de Octubre",
-      "resumen": "El Ministerio de las Fuerzas Armadas Revolucionarias y el pueblo cubano conmemoraron el sábado el aniversario 109 del triunfo de la Gran Revolución Socialista de Octubre, con un acto político y ceremonia militar",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261108/recuerdan-en-cuba-el-aniversario-109-de-la-gran-revolucion-socialista-de-octubre/",
-      "destacada": false,
-      "tema": "recuerdan",
-      "fecha": "Sun, 08 Nov 2026 15:09:14 +0000",
       "id": 22
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Muere El Niño Pujada de Los Muñequitos de Matanzas",
-      "resumen": "La rumba cubana pierde a una de sus mejores voces",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261108/muere-el-nino-pujada-de-los-munequitos-de-matanzas/",
-      "destacada": false,
-      "tema": "muere",
-      "fecha": "Sun, 08 Nov 2026 15:00:37 +0000",
-      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -313,7 +300,7 @@
       "destacada": false,
       "tema": "jóvenes",
       "fecha": "Sun, 08 Nov 2026 14:53:59 +0000",
-      "id": 24
+      "id": 23
     },
     {
       "categoria": "transporte",
@@ -326,7 +313,7 @@
       "destacada": false,
       "tema": "mundial",
       "fecha": "Sun, 08 Nov 2026 14:50:54 +0000",
-      "id": 25
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -339,7 +326,7 @@
       "destacada": false,
       "tema": "exige",
       "fecha": "Sun, 08 Nov 2026 14:45:14 -0500",
-      "id": 26
+      "id": 25
     },
     {
       "categoria": "transporte",
@@ -352,7 +339,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Sun, 08 Nov 2026 14:20:24 +0000",
-      "id": 27
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -365,7 +352,7 @@
       "destacada": false,
       "tema": "autoridades",
       "fecha": "Sun, 08 Nov 2026 14:10:36 -0500",
-      "id": 28
+      "id": 27
     },
     {
       "categoria": "transporte",
@@ -378,7 +365,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Sun, 08 Nov 2026 14:01:25 +0000",
-      "id": 29
+      "id": 28
     },
     {
       "categoria": "transporte",
@@ -391,7 +378,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Sun, 08 Nov 2026 13:47:09 +0100",
-      "id": 30
+      "id": 29
     },
     {
       "categoria": "transporte",
@@ -404,7 +391,7 @@
       "destacada": false,
       "tema": "joven",
       "fecha": "Sun, 08 Nov 2026 13:27:45 -0500",
-      "id": 31
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -417,7 +404,7 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Sun, 08 Nov 26 13:18:00 +0100",
-      "id": 32
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -430,6 +417,19 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Sun, 08 Nov 26 13:16:00 +0100",
+      "id": 32
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Lluvia de carreras cubanas en el Mundial",
+      "resumen": "El matancero Hanyelo Videt empujó tres carreras en el nocaut 26-6 de Cuba a Sudáfrica, en el Mundial de Béisbol Sub-23.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/11/08/lluvia-de-carreras-cubanas-en-el-mundial/",
+      "destacada": false,
+      "tema": "lluvia",
+      "fecha": "Sun, 08 Nov 2026 13:04:17 +0000",
       "id": 33
     },
     {
@@ -459,6 +459,32 @@
       "id": 35
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "En Muñequitos de Matanzas el Niño Pujada estará siempre",
+      "resumen": "El Niño Pujada nos acompañará siempre, aseguró a la Agencia Cubana de Noticias Alfredo Smith, productor de los emblemáticos Muñequitos de Matanzas",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/11/08/munequitos-matanzas-nino-pujada-estara-siempre/",
+      "destacada": false,
+      "tema": "muñequitos",
+      "fecha": "Sun, 08 Nov 2026 12:16:00 +0000",
+      "id": 36
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.guerrillero.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba apalea a Sudáfrica en vísperas de duelo duro en Mundial beisbolero",
+      "resumen": "&#160;En un juego concluido de noche y demorado por la lluvia en el estadio Soberanía de esta ciudad, Cuba noqueó hoy a Sudáfrica 26-6 en la segunda jornada de la VI Copa del Mundo sub-23 de béisbol. ‎ &#160; Ante un picheo muy lento, que además mostró excesivo descontrol al otorgar 17 bases por bol",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/cuba-apalea-a-sudafrica-en-visperas-de-duelo-duro-en-mundial-beisbolero/",
+      "destacada": false,
+      "tema": "apalea",
+      "fecha": "Sun, 08 Nov 2026 12:15:48 +0000",
+      "id": 37
+    },
+    {
       "categoria": "transporte",
       "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
@@ -469,7 +495,20 @@
       "destacada": false,
       "tema": "sodepaz",
       "fecha": "Sun, 08 Nov 26 12:14:00 +0100",
-      "id": 36
+      "id": 38
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba reacciona con nocao ante Sudáfrica",
+      "resumen": "Los lanzadores sudafricanos otorgaron casi una veintena de boletos",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-11-08/cuba-reacciona-con-nocao-ante-sudafrica-08-11-2026-12-11-16",
+      "destacada": false,
+      "tema": "reacciona",
+      "fecha": "Sun, 08 Nov 2026 12:11:16 -0500",
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -482,7 +521,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Sun, 08 Nov 2026 12:00:00 -0500",
-      "id": 37
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -495,7 +534,7 @@
       "destacada": false,
       "tema": "cinco",
       "fecha": "Sun, 08 Nov 2026 11:55:34 -0500",
-      "id": 38
+      "id": 41
     },
     {
       "categoria": "politica",
@@ -508,20 +547,7 @@
       "destacada": false,
       "tema": "arrestan",
       "fecha": "Sun, 08 Nov 2026 11:38:33 -0500",
-      "id": 39
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cadena perpetua por un asesinato y hasta 20 años por robar aceite dieléctrico: el régimen exhibe sus castigos",
-      "resumen": "Tres condenas a cadena perpetua en Santiago y otras cuatro de hasta 20 años por robar aceite de un transformador en La Habana: el régimen exhibe castigos mientras aumenta la letalidad de los delitos y persiste la crisis eléctrica.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794132765_69751.html",
-      "destacada": false,
-      "tema": "cadena",
-      "fecha": "Sun, 08 Nov 2026 11:12:45 +0100",
-      "id": 40
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -534,7 +560,7 @@
       "destacada": false,
       "tema": "bensi",
       "fecha": "Sun, 08 Nov 2026 11:03:49 -0500",
-      "id": 41
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -547,7 +573,7 @@
       "destacada": false,
       "tema": "embajada",
       "fecha": "Sun, 08 Nov 2026 09:29:42 -0500",
-      "id": 42
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -560,7 +586,7 @@
       "destacada": false,
       "tema": "nicaragua",
       "fecha": "Sun, 08 Nov 2026 08:27:12 -0500",
-      "id": 43
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -573,59 +599,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Sun, 08 Nov 2026 08:00:00 -0500",
-      "id": 44
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Organizaciones sindicales felicitan al Sindicato de Trabajadores de la Educación, la Ciencia y el Deporte de Cuba en su 65 aniversario y se solidarizan frente al bloqueo de EE.UU.",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125973-organizaciones-sindicales-felicitan-al-sindicato-de-trabajadores-de-la-educacion-la-ciencia-y-el-deporte-de-cuba-en-su-65-aniversario-y-se-solidarizan-frente-al-bloqueo-de-ee-uu.jpg?t=1794085473",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261107/125973/125973-organizaciones-sindicales-felicitan-al-sindicato-de-trabajadores-de-la-educacion-la-ciencia-y-el-deporte-de-cuba-en-su-65-aniversario-y-se-solidarizan-frente-al-bloqueo-de-ee-uu",
-      "destacada": false,
-      "tema": "organizaciones",
-      "fecha": "Sat, 07 Nov 26 21:59:00 +0100",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Recuerdo entrañable de patriotas de Cuba en el exterior que nos dejaron (+Fotos)",
-      "resumen": "Mercedes López-Lanuza Bathelemy*",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125972-recuerdo-entranable-de-patriotas-de-cuba-en-el-exterior-que-nos-dejaron-fotos.jpg?t=1794083602",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261107/125972/125972-recuerdo-entranable-de-patriotas-de-cuba-en-el-exterior-que-nos-dejaron-fotos",
-      "destacada": false,
-      "tema": "recuerdo",
-      "fecha": "Sat, 07 Nov 26 21:33:00 +0100",
       "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "El día después: los latinos le pasan la cuenta a los cubanos",
-      "resumen": "Joshua Suárez - Editorial Pensar la Historia ...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125971-el-dia-despues-los-latinos-le-pasan-la-cuenta-a-los-cubanos.jpg?t=1794083295",
-      "enlace_original": "https://www.cubainformacion.tv/opinion/20261107/125971/125971-el-dia-despues-los-latinos-le-pasan-la-cuenta-a-los-cubanos",
-      "destacada": false,
-      "tema": "después",
-      "fecha": "Sat, 07 Nov 26 21:23:00 +0100",
-      "id": 47
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "IPK: preservar una institución al servicio de Cuba y la humanidad",
-      "resumen": "Han cumplido con Fidel: el IPK es y seguirá siendo una institución de la humanidad Alina Perera Rob...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125970-ipk-preservar-una-institucion-al-servicio-de-cuba-y-la-humanidad.jpg?t=1794082664",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261107/125970/125970-ipk-preservar-una-institucion-al-servicio-de-cuba-y-la-humanidad",
-      "destacada": false,
-      "tema": "preservar",
-      "fecha": "Sat, 07 Nov 26 21:14:00 +0100",
-      "id": 48
     }
   ]
 }
