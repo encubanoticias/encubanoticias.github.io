@@ -1,8 +1,385 @@
 {
-  "fecha": "2026-11-09",
-  "hora": "18:01",
-  "total": 48,
+  "fecha": "2026-11-10",
+  "hora": "01:49",
+  "total": 57,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El equipo de béisbol sub-23 de Cuba se hunde antes de la súper ronda del Mundial",
+      "resumen": "Con un triunfo, tres derrotas y nocaut, la novena de #béisbol de #Cuba en la VI Copa Mundial sub-23 tendrá que conformarse con un puesto del siete al 12.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/deportes/1794271136_69776.html",
+      "destacada": true,
+      "tema": "equipo",
+      "fecha": "Tue, 10 Nov 2026 01:38:56 +0100",
+      "id": 1
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba y China por estrechar amistad especial con visita de canciller",
+      "resumen": "Beijing, 10 nov (Prensa Latina) El canciller cubano Bruno Rodríguez llega hoy a China en visita oficial en calidad de Enviado Especial del Partido Comunista y Gobierno de la isla. The post Cuba y China por estrechar amistad especial con visita de canciller first appeared on Noticias Prensa Latina.",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/09/cuba-y-china-por-estrechar-amistad-especial-con-visita-de-canciller/",
+      "destacada": true,
+      "tema": "china",
+      "fecha": "Tue, 10 Nov 2026 01:25:10 +0000",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Nuestra Cuba necesita un cambio»: Activista cubano denuncia amenazas",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-10-u1-e199291-s27061-nid345352-nuestra-cuba-necesita-cambio-activista-cubano",
+      "destacada": true,
+      "tema": "nuestra",
+      "fecha": "Tue, 10 Nov 2026 01:22:14 +0100",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Eso tiene que cambiar»: Rubio advierte sobre las consecuencias de la inestabilidad en Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-10-u1-e135253-s27061-nid345348-eso-tiene-cambiar-rubio-advierte-consecuencias",
+      "destacada": true,
+      "tema": "cambiar",
+      "fecha": "Tue, 10 Nov 2026 01:19:01 +0100",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«¿Hasta dónde hemos llegado en Cuba?» 2,400 pesos por una calabaza en Placetas",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-10-u1-e199291-s27061-nid345351-donde-hemos-llegado-cuba-2400-pesos-calabaza",
+      "destacada": true,
+      "tema": "dónde",
+      "fecha": "Tue, 10 Nov 2026 00:47:54 +0100",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Trump asegura que el 94% de los cubanoamericanos votó por él: «Cuidamos de esa gente»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-10-u1-e135253-s27061-nid345353-trump-asegura-94-cubanoamericanos-voto-cuidamos-esa",
+      "destacada": false,
+      "tema": "trump",
+      "fecha": "Tue, 10 Nov 2026 00:45:46 +0100",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Trump compara la ideología del régimen cubano con la de los demócratas: «Cuba está cayendo»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-10-u1-e135253-s27061-nid345350-trump-compara-ideologia-regimen-cubano-democratas",
+      "destacada": false,
+      "tema": "trump",
+      "fecha": "Tue, 10 Nov 2026 00:14:08 +0100",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Si Selena Quintanilla fuera cubana: «Yo sé, que tienes un EcoFlow...»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-09-u208487-e208487-s27065-nid345345-selena-quintanilla-fuera-cubana-tienes-ecoflow",
+      "destacada": false,
+      "tema": "selena",
+      "fecha": "Mon, 09 Nov 2026 23:57:31 +0100",
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El régimen cubano prohíbe el uso de Starlink a las embajadas extranjeras",
+      "resumen": "El Ministerio de Relaciones Exteriores envió una nota a las misiones diplomáticas para recordarles que tampoco pueden importar los equipos de internet satelital",
+      "imagen_url": "https://static.14ymedio.com/clip/a79fbc13-91e9-409e-9fbf-c4d86b9fa834_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/regimen-cubano-prohibe-starlink-embajadas_1_1133011.html",
+      "destacada": false,
+      "tema": "régimen",
+      "fecha": "Mon, 09 Nov 2026 23:26:27 +0000",
+      "id": 9
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Bruno Rodríguez realizará visita oficial a China como enviado especial del Partido y el Gobierno cubanos",
+      "resumen": "El miembro del Buró Político del Comité Central del Partido Comunista de Cuba y ministro de Relaciones Exteriores, Bruno Rodríguez Parrilla, realizará una visita oficial a la República Popular China del 10 al 13 de noviembre, en su condición de enviado especial del Partido y el Gobierno cubanos. The",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/09/bruno-rodriguez-realizara-visita-oficial-a-china-como-enviado-especial-del-partido-y-el-gobierno-cubanos/",
+      "destacada": false,
+      "tema": "bruno",
+      "fecha": "Mon, 09 Nov 2026 23:10:42 +0000",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Rubio: 'Nuestro objetivo es que Cuba tenga un mejor futuro', pero 'requerirá que ellos despierten'",
+      "resumen": "#MarcoRubio afirma que el objetivo de #EEUU es que #Cuba tenga un futuro mejor, pero advierte que \"requerirá que ellos despierten y se den cuenta de que no hay futuro en el camino que están siguiendo ahora mismo\".",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794261999_69774.html",
+      "destacada": false,
+      "tema": "rubio",
+      "fecha": "Mon, 09 Nov 2026 23:06:39 +0100",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Qué papeles necesita un menor de edad para salir de Cuba desde noviembre de 2026",
+      "resumen": "Desde el primero de noviembre de 2026, el menor que salga de Cuba con uno solo de sus padres o con un tercero deberá presentar un poder notarial detallado, con vigencia máxima de un año. Sin ese documento, la salida puede ser impedida en la frontera.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/06_11_2026_menores_cuba_salida_migracion_ley_permiso_3c82e36fdd.jpg",
+      "enlace_original": "https://eltoque.com/que-papeles-necesita-un-menor-para-salir-de-cuba-desde-noviembre-de-2026",
+      "destacada": false,
+      "tema": "papeles",
+      "fecha": "Mon, 09 Nov 2026 22:50:00 GMT",
+      "id": 12
+    },
+    {
+      "categoria": "energia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba queda fuera de la superronda del Mundial sub-23 tras caer por nocaut en cinco entradas ante Venezuela",
+      "resumen": "Las últimas esperanzas cubanas de avanzar a la superronda quedaron sepultadas este lunes al caer ante Venezuela, un rival que conservó su liderazgo invicto y mostró total dominio del juego en la VI Copa Mundial sub-23 de béisbol. The post Cuba queda fuera de la superronda del Mundial sub-23 tras cae",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/09/cuba-queda-fuera-de-la-superronda-del-mundial-sub-23-tras-caer-por-nocaut-en-cinco-entradas-ante-venezuela/",
+      "destacada": false,
+      "tema": "queda",
+      "fecha": "Mon, 09 Nov 2026 22:10:16 +0000",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Vacaciones más caras, la dura realidad del turismo canadiense sin su destino cubano de bajo costo",
+      "resumen": "De veranear hasta cinco veces al año en #Cuba a escoger #México, #RepúblicaDominicana o #Jamaica para este invierno. El turismo de #Canadá lamenta perder su destino barato.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1794256940_69770.html",
+      "destacada": false,
+      "tema": "vacaciones",
+      "fecha": "Mon, 09 Nov 2026 21:42:20 +0100",
+      "id": 14
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El entrenador cubano Iván Pedroso muda su base de atletismo a Madrid",
+      "resumen": "El Centro de Alto Rendimiento de la capital española ofrece mejores condiciones para los deportistas en previsión de los J.O. de Los Ángeles",
+      "imagen_url": "https://static.14ymedio.com/clip/29c848e3-16ee-466f-8656-4e5bf67becaf_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/deportes/entrenador-cubano-ivan-pedroso-muda_1_1133005.html",
+      "destacada": false,
+      "tema": "transporte",
+      "fecha": "Mon, 09 Nov 2026 21:30:18 +0000",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Alejandro Rodríguez gana la Copa de Triatlón de las Américas en Iquique",
+      "resumen": "El triatleta cubano Alejandro Rodríguez se adjudicó este domingo la Copa de Triatlón de las Américas Iquique 2026, con sede en Chile, puntuable para el ranking mundial, tras completar las tres disciplinas de la distancia Esprint en 53 minutos y 03 segundos. Con esta victoria, Rodríguez suma otro res",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/09/alejandro-rodriguez-gana-la-copa-de-triatlon-de-las-americas-en-iquique/",
+      "destacada": false,
+      "tema": "alejandro",
+      "fecha": "Mon, 09 Nov 2026 21:23:45 +0000",
+      "id": 16
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La nueva arquitectura legal de la ciencia en Cuba: ¿avance institucional o más control estatal?",
+      "resumen": "#Cuba estrena una nueva Ley de Ciencia, Tecnología e Innovación que promete reorganizar el sector, pero mantiene el control estatal y no resuelve la falta de financiamiento ni de libertades.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794254702_69772.html",
+      "destacada": false,
+      "tema": "nueva",
+      "fecha": "Mon, 09 Nov 2026 21:05:02 +0100",
+      "id": 17
+    },
+    {
+      "categoria": "economia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba apuesta por una economía del conocimiento con la nueva Ley de Ciencia, Tecnología e Innovación",
+      "resumen": "La Ley General de Ciencia, Tecnología e Innovación, publicada hoy en la Gaceta Oficial (edición ordinaria número 94), entrará en vigor en sesenta días con el objetivo de fortalecer la conexión entre la estrategia nacional de desarrollo y las políticas sectoriales y territoriales, eliminar trabas par",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/09/cuba-apuesta-por-una-economia-del-conocimiento-con-la-nueva-ley-de-ciencia-tecnologia-e-innovacion/",
+      "destacada": false,
+      "tema": "apuesta",
+      "fecha": "Mon, 09 Nov 2026 20:46:32 +0000",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba toma muy en serio la amenaza de una operación militar de EE.UU., afirma su representante ante la ONU",
+      "resumen": "El representante permanente de Cuba ante Naciones Unidas, Ernesto Soberón Guzmán, afirmó que la isla \"toma muy en serio\" la posibilidad de una operación militar estadounidense y que cada viernes se dedica a la defensa para preparar a la población. El diplomático subrayó que la confrontación no es el",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/09/cuba-toma-muy-en-serio-la-amenaza-de-una-operacion-militar-de-ee-uu-afirma-su-representante-ante-la-onu/",
+      "destacada": false,
+      "tema": "serio",
+      "fecha": "Mon, 09 Nov 2026 20:34:25 +0000",
+      "id": 19
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Las universidades de Cambridge y Nottingham suspenden sus programas de estudios en Cuba",
+      "resumen": "Las dos instituciones británicas paralizaron los intercambios tras la recomendación de Londres de evitar los viajes no esenciales a la Isla",
+      "imagen_url": "https://static.14ymedio.com/clip/1d5446dd-2879-4d60-95a3-d20a0d9fa8b5_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/universidades-cambridge-nottingham-suspenden-programas_1_1133001.html",
+      "destacada": false,
+      "tema": "universidades",
+      "fecha": "Mon, 09 Nov 2026 20:04:18 +0000",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 8:00 PM",
+      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/482777.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Mon, 09 Nov 2026 20:00:00 -0500",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticias de la negociación de Donald Trump con Cuba",
+      "resumen": "La relación entre Estados Unidos y Cuba atraviesa uno de sus momentos más tensos en años, marcada por una combinación de presión económica, sanciones, crisis energética y contactos discretos, de los cuales, en muchos casos, solo se conoce lo que se filtra a la prensa. Desde elTOQUE monitoreamos la e",
+      "imagen_url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/AP_131403754861_f6c2a900de.jpg/width=1920,quality=75,fit=scale-down,dpr=1,slow-connection-quality=40",
+      "enlace_original": "https://eltoque.com/noticias-de-la-negociacion-de-donald-trump-con-cuba",
+      "destacada": false,
+      "tema": "noticias",
+      "fecha": "Mon, 09 Nov 2026 20:00:00 GMT",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Seguridad del Estado somete a interrogatorio y amenazas a periodistas del ICLEP",
+      "resumen": "En Cuba, informar se ha convertido en un acto de alta peligrosidad para el poder, así lo demuestran las amenazas contra Dunia Medina y su esposo Alejandro Uranga, que fueron sometidos a más de seis horas de interrogatorio en La Habana por ejercer su derecho a decir la verdad.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/seguridad-del-estado-somete-a-interrogatorio-y-amenazas-a-periodistas-del-iclep/483826.html",
+      "destacada": false,
+      "tema": "seguridad",
+      "fecha": "Mon, 09 Nov 2026 19:53:29 -0500",
+      "id": 23
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Exiliados cubanos increpan en Roma al ‘Che italiano’ por su silencio sobre la dictadura",
+      "resumen": "Durante su hospitalización en Cuba recibió atención VIP del régimen y asistencia del Gobierno italiano",
+      "imagen_url": "https://static.14ymedio.com/clip/e30501f8-8567-4b5c-8165-d8d31115ed4b_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/internacional/exiliados-cubanos-increpan-roma-che_1_1132999.html",
+      "destacada": false,
+      "tema": "exiliados",
+      "fecha": "Mon, 09 Nov 2026 19:46:31 +0000",
+      "id": 24
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Los cubanos hijos de nacionalizados por la Ley de Nietos podrán votar en las elecciones de España",
+      "resumen": "Una resolución del Tribunal Supremo de #España abre la puerta para que los descendientes de emigrados nacionalizados en #Cuba ejerzan su derecho al voto.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794249374_69771.html",
+      "destacada": false,
+      "tema": "cubanos",
+      "fecha": "Mon, 09 Nov 2026 19:36:14 +0100",
+      "id": 25
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "OCDH registra más de 80 acciones represivas en Cuba en menos de una semana",
+      "resumen": "El Observatorio Cubano de Derechos Humanos (OCDH) denunció más de 80 acciones represivas en Cuba entre el 2 y el 7 de noviembre, incluidas detenciones arbitrarias, amenazas, interrogatorios, citaciones, cercos domiciliarios y restricciones a las comunicaciones.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/ocdh-registra-m%c3%a1s-de-80-acciones-represivas-en-cuba-en-menos-de-una-semana/483817.html",
+      "destacada": false,
+      "tema": "registra",
+      "fecha": "Mon, 09 Nov 2026 19:35:32 -0500",
+      "id": 26
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Medios proyectan la reelección del cubanoamericano Díaz-Balart en el distrito 26 de Florida",
+      "resumen": "Medios de EEUU proyectaron este lunes la reelección del congresista republicano Mario Díaz-Balart en el Distrito 26 del sur de Florida, seis días después de las elecciones de medio término.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/medios-proyectan-la-reelecci%c3%b3n-del-cubanoamericano-d%c3%adaz-balart-en-el-distrito-26-de-florida/483459.html",
+      "destacada": false,
+      "tema": "medios",
+      "fecha": "Mon, 09 Nov 2026 19:15:56 -0500",
+      "id": 27
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Más de 300 eventos represivos en Cuba en un mes, la mitad de ellos en las cárceles",
+      "resumen": "#Cubalex documenta 303 eventos represivos en #Cuba durante octubre, más de la mitad de ellos en las cárceles. También alerta de un repunte de cacerolazos y cierres de calles en #LaHabana.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1794247810_69768.html",
+      "destacada": false,
+      "tema": "eventos",
+      "fecha": "Mon, 09 Nov 2026 19:10:10 +0100",
+      "id": 28
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Más represión. ¿Qué temen?",
+      "resumen": "Más de 2.6 millones de cubanos enfrentan problemas con el suministro de agua por redes, en un contexto de creciente presión sobre activistas y periodistas.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/portada_Noticiero_de_la_gente_14e3ccf6b1.jpeg",
+      "enlace_original": "https://eltoque.com/mas-represion-que-temen",
+      "destacada": false,
+      "tema": "represión",
+      "fecha": "Mon, 09 Nov 2026 19:07:11 GMT",
+      "id": 29
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
@@ -11,23 +388,62 @@
       "resumen": "#DiarioDeCuba confirma que cinco #DeportistasCubanos se han fugado en una semana, entre ellos la subcampeona olímpica de lucha #YusneylisGuzmán. La pédida de atletas en el #DeporteCubano adquiere mayor relevancia cuando faltan menos de dos años para los Juegos Olímpicos de #LosÁngeles2028.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/deportes/1794247003_69769.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "menos",
       "fecha": "Mon, 09 Nov 2026 18:56:43 +0100",
-      "id": 1
+      "id": 30
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "La innovación será el corazón de la ley general de ciencia en Cuba",
-      "resumen": "La Habana, 9 nov (Prensa Latina) La innovación será una pieza clave en la arquitectura operativa de la ciencia en Cuba, donde desde hoy entra en vigor la Ley General de Ciencia, Tecnología e Innovación. The post La innovación será el corazón de la ley general de ciencia en Cuba first appeared on Not",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Desde el surco, alimentos y saberes",
+      "resumen": "La producción agroalimentaria local constituye un reto y una oportunidad. Eso lo han interiorizado muy bien las beneficiarias y beneficiarios de un proyecto en La Lisa La entrada Desde el surco, alimentos y saberes se publicó primero en Tribuna de La Habana.",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/09/la-innovacion-sera-el-corazon-de-la-ley-general-de-ciencia-en-cuba/",
-      "destacada": true,
-      "tema": "innovación",
-      "fecha": "Mon, 09 Nov 2026 18:19:40 +0000",
-      "id": 2
+      "enlace_original": "https://www.tribuna.cu/desde-el-surco-alimentos-y-saberes/",
+      "destacada": false,
+      "tema": "surco",
+      "fecha": "Mon, 09 Nov 2026 18:51:22 +0000",
+      "id": 31
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Pinar del Río apuesta por turismo de naturaleza e inversión extranjera en FIHAV 2026",
+      "resumen": "La Feria Internacional de la Habana (FIHAV) celebrará este año una edición especial virtual entre los días 24 y 26 de noviembre, y la provincia de Pinar del Río contará con un stand propio para promocionar sus bienes y servicios exportables, así como una cartera de oportunidades para la inversión ex",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/09/pinar-del-rio-apuesta-por-turismo-de-naturaleza-e-inversion-extranjera-en-fihav-2026/",
+      "destacada": false,
+      "tema": "pinar",
+      "fecha": "Mon, 09 Nov 2026 18:33:08 +0000",
+      "id": 32
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Una redada policial en Roma termina con dos cubanos detenidos y otro denunciado",
+      "resumen": "Los arrestados deberán cumplir condenas de un año y diez meses por delitos cometidos en la localidad de Tívoli",
+      "imagen_url": "https://static.14ymedio.com/clip/6b99d940-2abb-469c-bd0a-1266522e8e91_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/migracion/redada-policial-roma-termina-cubanos_1_1132995.html",
+      "destacada": false,
+      "tema": "redada",
+      "fecha": "Mon, 09 Nov 2026 18:09:32 +0000",
+      "id": 33
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Trump insiste en que Cuba es una nación fallida y que caerá pronto",
+      "resumen": "El presidente Donald Trump afirmó que Cuba es una nación fallida y pronosticó que el régimen comunista podría caer pronto.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/trump-reitera-que-cuba-es-una-naci%c3%b3n-fallida/483833.html",
+      "destacada": false,
+      "tema": "trump",
+      "fecha": "Mon, 09 Nov 2026 18:00:24 -0500",
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -37,10 +453,10 @@
       "resumen": "Luego de que el régimen #cubano obtuviera nuevos derechos en el Golfo de México, el experto Eudel Cepero advierte de los riesgos ecológicos y cuestiona la capacidad del régimen para controlar la actividad y responder ante un accidente.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1794243614_69594.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "régimen",
       "fecha": "Mon, 09 Nov 2026 18:00:14 +0100",
-      "id": 3
+      "id": 35
     },
     {
       "categoria": "salud",
@@ -50,23 +466,23 @@
       "resumen": "Cotorro, sede del acto nacional de inicio de la Jornada del trabajador de la Salud La entrada Obra de amor incondicional se publicó primero en Tribuna de La Habana.",
       "imagen_url": "",
       "enlace_original": "https://www.tribuna.cu/obra-de-amor-incondicional/",
-      "destacada": true,
+      "destacada": false,
       "tema": "incondicional",
       "fecha": "Mon, 09 Nov 2026 17:57:24 +0000",
-      "id": 4
+      "id": 36
     },
     {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba y China apuestan por fortalecer cooperación empresarial en la CIIE 2026",
-      "resumen": "La vicepresidenta de la Cámara de Comercio de Cuba, Tania Aguiar Fernández, sostuvo encuentros con representantes de Shanghái y Henan en el marco de la IX Exposición Internacional de Importaciones de China (CIIE), donde ambas partes ratificaron su interés en ampliar los vínculos comerciales y la ins",
+      "categoria": "economia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La inflación tiene rostro: el cubano “de a pie”",
+      "resumen": "El Programa Mundial de Alimentos de la ONU reconoce que la inflación en la Isla ha deteriorado la capacidad de compra de las familias y ha agravado su vulnerabilidad alimentaria.",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/09/cuba-y-china-apuestan-por-fortalecer-cooperacion-empresarial-en-la-ciie-2026/",
-      "destacada": true,
-      "tema": "china",
-      "fecha": "Mon, 09 Nov 2026 17:40:47 +0000",
-      "id": 5
+      "enlace_original": "https://www.martinoticias.com/a/la-inflacion-tiene-rostro-el-cubano-a-pie/483832.html",
+      "destacada": false,
+      "tema": "inflación",
+      "fecha": "Mon, 09 Nov 2026 17:49:42 -0500",
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -79,7 +495,7 @@
       "destacada": false,
       "tema": "seguridad",
       "fecha": "Mon, 09 Nov 2026 17:32:35 +0100",
-      "id": 6
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -92,20 +508,7 @@
       "destacada": false,
       "tema": "billete",
       "fecha": "Mon, 09 Nov 2026 17:19:59 GMT",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Madre cubana desde Miami pide justicia tras asesinato de su hijo en Santiago de Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-09-u1-e199370-s27061-nid345312-madre-cubana-miami-pide-justicia-tras-hijo-santiago",
-      "destacada": false,
-      "tema": "madre",
-      "fecha": "Mon, 09 Nov 2026 16:45:44 +0100",
-      "id": 8
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -118,33 +521,20 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Mon, 09 Nov 2026 16:01:55 +0000",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La líder de las Damas de Blanco es liberada tras dos días detenida por una protesta en La Habana",
-      "resumen": "Berta Soler sufrió violencia durante el arresto, fue confinada en una celda oscura e interrogada por la Seguridad del Estado",
-      "imagen_url": "https://static.14ymedio.com/clip/189aed2b-d96e-4e4f-a47c-8525b47d7166_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/berta-soler-detenida-violentamente-participar_1_1132986.html",
-      "destacada": false,
-      "tema": "líder",
-      "fecha": "Mon, 09 Nov 2026 16:00:25 +0000",
-      "id": 10
+      "id": 40
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "Regresa el Festival Mozar en La Habana",
-      "resumen": "Con una serie de conciertos y exposiciones este encuentro regresa al Oratorio San Felipe Neri del 7 al 12 de noviembre. Como parte de la campaña “Habana mía”, dedicada al aniversario de la ciudad, nos acercamos al evento La entrada Regresa el Festival Mozar en La Habana se publicó primero en Tribuna",
+      "titulo": "Regresa el Festival Mozart en La Habana",
+      "resumen": "Con una serie de conciertos y exposiciones este encuentro regresa al Oratorio San Felipe Neri del 7 al 12 de noviembre. Como parte de la campaña “Habana mía”, dedicada al aniversario de la ciudad, nos acercamos al evento La entrada Regresa el Festival Mozart en La Habana se publicó primero en Tribun",
       "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/regresa-el-festival-mozar-en-la-habana/",
+      "enlace_original": "https://www.tribuna.cu/regresa-el-festival-mozart-en-la-habana/",
       "destacada": false,
       "tema": "regresa",
       "fecha": "Mon, 09 Nov 2026 15:48:19 +0000",
-      "id": 11
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -157,7 +547,7 @@
       "destacada": false,
       "tema": "marcas",
       "fecha": "Mon, 09 Nov 2026 15:39:24 +0000",
-      "id": 12
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -170,85 +560,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 09 Nov 2026 15:37:53 GMT",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Niñas, niños y adolescentes ante el Derecho cubano",
-      "resumen": "Durante mucho tiempo, las niñas, los niños y los adolescentes fueron considerados, personas necesitadas de protección, cuidado y orientación. La Ley 178 de 2025, Código de la Niñez, Adolescencias y Juventudes, marca un punto de inflexión: reconoce expresamente que son plenos sujetos de derechos y pu",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/09/ninas-ninos-y-adolescentes-ante-el-derecho-cubano/",
-      "destacada": false,
-      "tema": "niñas",
-      "fecha": "Mon, 09 Nov 2026 15:11:52 +0000",
-      "id": 14
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Activistas alertan al papa León XIV sobre casi 1.000 violaciones de la libertad religiosa en Cuba",
-      "resumen": "#DefensaCD y #OLIRE alertan al papa #LeónXIV sobre las violaciones de la #LibertadReligiosa en #Cuba y piden que la situación de la Isla no quede fuera del debate en el viaje del pontífice a América Latina.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1794232998_69765.html",
-      "destacada": false,
-      "tema": "activistas",
-      "fecha": "Mon, 09 Nov 2026 15:03:18 +0100",
-      "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«¡Los cubanos son infelices hace unos años para acá!»: Cubana compara la Cuba de antes con la de ahora",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-09-u65722-e65722-s27065-nid345309-cubanos-son-infelices-hace-unos-anos-aca-cubana",
-      "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Mon, 09 Nov 2026 14:59:04 +0100",
-      "id": 16
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Ernesto Soberón advierte en la prensa de Rusia que Cuba se prepara para una posible guerra con EE.UU.",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-09-u1-e199370-s27061-nid345304-ernesto-soberon-advierte-prensa-rusia-cuba-prepara",
-      "destacada": false,
-      "tema": "ernesto",
-      "fecha": "Mon, 09 Nov 2026 14:52:23 +0100",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Pedro Monreal da un paso político inusual y defiende la democracia como condición para transformar Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-09-u1-e207888-s27061-nid345299-pedro-monreal-da-paso-politico-inusual-defiende",
-      "destacada": false,
-      "tema": "pedro",
-      "fecha": "Mon, 09 Nov 2026 14:41:55 +0100",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Conciertos y vuelta a la ceiba en una Habana destruida que necesita agua y limpiar su basura",
-      "resumen": "La Habana anuncia conciertos y museos para su aniversario 507 mientras cientos de miles sufren problemas de agua y la basura se acumula.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794230518_69764.html",
-      "destacada": false,
-      "tema": "conciertos",
-      "fecha": "Mon, 09 Nov 2026 14:21:58 +0100",
-      "id": 19
+      "id": 43
     },
     {
       "categoria": "economia",
@@ -261,46 +573,7 @@
       "destacada": false,
       "tema": "francisco",
       "fecha": "Mon, 09 Nov 2026 14:20:19 GMT",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Muere a los 79 años la Dama de Blanco Blanca Eugenia Malpica Roque",
-      "resumen": "La Dama de Blanco Blanca Eugenia Malpica Roque, a quien el #RégimenCubano detuvo y amenazó en varias ocasiones por asistir a misa, falleció a los 79 años. #DamasDeBlanco, #BlancaEugeniaMalpica",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1794227200_69763.html",
-      "destacada": false,
-      "tema": "muere",
-      "fecha": "Mon, 09 Nov 2026 13:26:40 +0100",
-      "id": 21
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El régimen cubano presume de proteger a la infancia, pero sus condenas lo delatan",
-      "resumen": "#AnálisisCuba: Varias normas cubanas hacen suponer que para el #RégimenCubano es prioridad proteger a los niños, pero condenas impuestas en #Cuba a agresors sexuales de menores obligan a poner en duda esa percepción. Lee el artículo de Lucía Alfonso Mirabal.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794225656_69499.html",
-      "destacada": false,
-      "tema": "régimen",
-      "fecha": "Mon, 09 Nov 2026 13:00:56 +0100",
-      "id": 22
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Camiones de comida llegan a El Cobre tras la protesta por la libertad de un activista",
-      "resumen": "Vecinos cuestionan la venta de alimentos en El Cobre después del arresto de Yoel Pérez, quien los repartía gratis. Denuncias apuntan a que las autoridades están presionando a la madre del activista para que lo saque de #Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1794225644_69762.html",
-      "destacada": false,
-      "tema": "camiones",
-      "fecha": "Mon, 09 Nov 2026 13:00:44 +0100",
-      "id": 23
+      "id": 44
     },
     {
       "categoria": "transporte",
@@ -313,7 +586,7 @@
       "destacada": false,
       "tema": "polonia",
       "fecha": "Mon, 09 Nov 2026 13:00:00 GMT",
-      "id": 24
+      "id": 45
     },
     {
       "categoria": "economia",
@@ -326,111 +599,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 09 Nov 2026 12:41:00 GMT",
-      "id": 25
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Monreal critica el poder sin consecuencias del Partido Comunista ante el fracaso económico cubano",
-      "resumen": "¿Por qué quienes fracasan siguen decidiendo? Pedro Monreal vincula el desastre económico con el monopolio del PCC y rechaza usar los problemas de otras democracias para negar una alternativa a #Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1794223209_69760.html",
-      "destacada": false,
-      "tema": "monreal",
-      "fecha": "Mon, 09 Nov 2026 12:20:09 +0100",
-      "id": 26
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Título: Diario Información. Autor fundador: Santiago Claret Martí.",
-      "resumen": "Información salió a la calle el 8 de enero de 1931. Sus primeras instalaciones estuvieron vinculadas a talleres y oficinas en zonas céntricas de La Habana, y con el paso del tiempo la empresa periodística trasladó sus operaciones a sedes más amplias, acordes con el crecimiento de la publicación.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/t%c3%adtulo-diario-informaci%c3%b3n-autor-fundador-santiago-claret-mart%c3%ad/483808.html",
-      "destacada": false,
-      "tema": "título",
-      "fecha": "Mon, 09 Nov 2026 12:10:47 -0500",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El régimen cubano admite que, a falta de capacidad militar para enfrentar a EEUU, depende del pueblo",
-      "resumen": "El #RégimenCubano prepara al pueblo para la guerra para compensar su falta de capacidad militar para hacer frente a una posible intervención de #EEUU, admite Ernesto Soberón.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794222439_69761.html",
-      "destacada": false,
-      "tema": "régimen",
-      "fecha": "Mon, 09 Nov 2026 12:07:19 +0100",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 12:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482759.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Mon, 09 Nov 2026 12:00:00 -0500",
-      "id": 29
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Liberan a Berta Soler tras 46 horas detenida: denuncia agresión policial y amenazas",
-      "resumen": "La líder de las Damas de Blanco, Berta Soler, fue liberada este lunes tras pasar 46 horas detenida por participar en una protesta vecinal por la falta de agua en Lawton, La Habana, luego de ser arrestada junto a otros residentes que reclamaban el restablecimiento del servicio.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/liberan-a-berta-soler-tras-46-horas-detenida-denuncia-agresi%c3%b3n-policial-y-amenazas/483805.html",
-      "destacada": false,
-      "tema": "liberan",
-      "fecha": "Mon, 09 Nov 2026 11:31:56 -0500",
-      "id": 30
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barrio adentro",
-      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482757.html",
-      "destacada": false,
-      "tema": "barrio",
-      "fecha": "Mon, 09 Nov 2026 11:30:00 -0500",
-      "id": 31
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Título: Poesía Completa José Lezama Lima. Autor José Lezama Lima.",
-      "resumen": "Obra Poética de José Lezama Lima (La Habana, 1910-1976) agrupa los libros ya publicados y se enriquece con 22 textos inéditos impresos en revistas, más una pequeña sección de poemas que recorren el ámbito de su novela Pradiso.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/t%c3%adtulo-poes%c3%ada-completa-jos%c3%a9-lezama-lima-autor-jos%c3%a9-lezama-lima/483804.html",
-      "destacada": false,
-      "tema": "título",
-      "fecha": "Mon, 09 Nov 2026 11:19:39 -0500",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Fallece a los 79 años la Dama de Blanco Eugenia Roque",
-      "resumen": "Fallece en Matanzas la activista cubana Blanca Eugenia Roque Malpica, integrante de las Damas de Blanco, tras permanecer en estado crítico por un derrame cerebral.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/fallece-a-los-79-a%c3%b1os-la-dama-de-blanco-eugenia-roque/483802.html",
-      "destacada": false,
-      "tema": "fallece",
-      "fecha": "Mon, 09 Nov 2026 11:15:56 -0500",
-      "id": 33
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -443,20 +612,7 @@
       "destacada": false,
       "tema": "imaginación",
       "fecha": "Mon, 09 Nov 2026 11:15:31 +0000",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Falta de planificación del Ministerio de Educación deja a alumnos de Camagüey sin clases",
-      "resumen": "La improvisación y la falta de planificación del Ministerio de Educación en Cuba volvieron a golpear el curso escolar, esta vez en Camagüey, donde una plaga de chinches y el fallido traslado de alumnos a otra secundaria dejaron a decenas de estudiantes sin clases.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/falta-de-planificaci%c3%b3n-del-ministerio-de-educaci%c3%b3n-deja-a-alumnos-de-camag%c3%bcey-sin-clases/483800.html",
-      "destacada": false,
-      "tema": "falta",
-      "fecha": "Mon, 09 Nov 2026 11:13:35 -0500",
-      "id": 35
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -469,7 +625,7 @@
       "destacada": false,
       "tema": "sensación",
       "fecha": "Mon, 09 Nov 26 08:19:00 +0100",
-      "id": 36
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -482,7 +638,7 @@
       "destacada": false,
       "tema": "permiso",
       "fecha": "Mon, 09 Nov 26 08:18:00 +0100",
-      "id": 37
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -495,7 +651,7 @@
       "destacada": false,
       "tema": "paren",
       "fecha": "Mon, 09 Nov 26 08:18:00 +0100",
-      "id": 38
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -508,7 +664,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Mon, 09 Nov 26 08:17:00 +0100",
-      "id": 39
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -521,7 +677,7 @@
       "destacada": false,
       "tema": "cooperación",
       "fecha": "Mon, 09 Nov 26 07:49:00 +0100",
-      "id": 40
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -534,7 +690,7 @@
       "destacada": false,
       "tema": "nueva",
       "fecha": "Mon, 09 Nov 26 06:59:00 +0100",
-      "id": 41
+      "id": 53
     },
     {
       "categoria": "sociedad",
@@ -547,7 +703,7 @@
       "destacada": false,
       "tema": "transformaciones",
       "fecha": "Mon, 09 Nov 26 06:58:00 +0100",
-      "id": 42
+      "id": 54
     },
     {
       "categoria": "sociedad",
@@ -560,7 +716,7 @@
       "destacada": false,
       "tema": "observatorio",
       "fecha": "Mon, 09 Nov 26 06:57:00 +0100",
-      "id": 43
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -573,7 +729,7 @@
       "destacada": false,
       "tema": "interregno",
       "fecha": "Mon, 09 Nov 26 06:55:00 +0100",
-      "id": 44
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -586,46 +742,7 @@
       "destacada": false,
       "tema": "torres",
       "fecha": "Mon, 09 Nov 26 06:54:00 +0100",
-      "id": 45
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Coloso tunero campeón azucarero",
-      "resumen": "El equipo del coloso Antonio Guiteras, del municipio de Puerto Padre, se coronó campeón de la edición 44 de la Liga Azucarera de Béisbol en Cuba, al vencer dos veces en el play off a la selección del central Arquímides Colina, de Mabay, Granma",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261108/coloso-tunero-campeon-azucarero/",
-      "destacada": false,
-      "tema": "apagones",
-      "fecha": "Mon, 09 Nov 2026 00:18:33 +0000",
-      "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Crónica anunciada…",
-      "resumen": "La segunda derrota de Cuba este domingo ante Japón 5-1 estaba más que vaticinada antes de salir hacia Nicaragua, sede del VI Campeonato Mundial Sub-23",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261108/cronica-anunciada/",
-      "destacada": false,
-      "tema": "crónica",
-      "fecha": "Mon, 09 Nov 2026 00:16:34 +0000",
-      "id": 47
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Tres meses después de cerrar su embajada en Cuba, Kenia lo atribuye a las sanciones de EE UU",
-      "resumen": "Un alto cargo del Gobierno keniano afirmó que la presión de Washington había provocado “dificultades administrativas y operativas” en la misión diplomática",
-      "imagen_url": "https://static.14ymedio.com/clip/b9234a2d-9453-47eb-b279-3cb9587a5954_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/tres-meses-despues-cerrar-embajada_1_1132962.html",
-      "destacada": false,
-      "tema": "meses",
-      "fecha": "Sun, 08 Nov 2026 19:54:17 +0000",
-      "id": 48
+      "id": 57
     }
   ]
 }
