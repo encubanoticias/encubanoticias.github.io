@@ -1,8 +1,47 @@
 {
-  "fecha": "2026-11-10",
-  "hora": "22:05",
-  "total": 53,
+  "fecha": "2026-11-11",
+  "hora": "02:25",
+  "total": 47,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Billete cubano de 5 000 pesos, nominado entre los más bellos de 2026",
+      "resumen": "El billete cubano de 5 000 pesos, dedicado a Celia Sánchez, figura entre los nominados al premio Billete del Año 2026, que concede la International Bank Note Society, organización dedicada al estudio y la colección de papel moneda. El certamen reconoce ejemplares de diferentes países por sus valores",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/10/billete-cubano-de-5-000-pesos-nominado-entre-los-mas-bellos-de-2026/",
+      "destacada": true,
+      "tema": "billete",
+      "fecha": "Wed, 11 Nov 2026 01:55:40 +0000",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Fiscalía de Florida cita a los Socialistas Democráticos de América por presunto financiamiento de La Habana y Pekín",
+      "resumen": "Una citación judicial en #EEUU apunta a uno de los grupos políticos que crece en influencia en Washington por sus vínculos con los regímenes de #Cuba y #China.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794351177_69795.html",
+      "destacada": true,
+      "tema": "fiscalía",
+      "fecha": "Tue, 10 Nov 2026 23:52:57 +0100",
+      "id": 2
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "La solidaridad llega lejos",
+      "resumen": "Gracias a la solidaridad de la Asociación Francesa Cuba Linda, un nuevo donativo de insumos y medicamentos acaba de llegar al policlínico Celia Sánchez Manduley, institución sanitaria en el sureño municipio matancero de la Ciénaga de Zapata.",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/11/10/solidaridad-llega-lejos/",
+      "destacada": true,
+      "tema": "solidaridad",
+      "fecha": "Tue, 10 Nov 2026 23:25:56 +0000",
+      "id": 3
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
@@ -14,58 +53,19 @@
       "destacada": true,
       "tema": "errores",
       "fecha": "Tue, 10 Nov 2026 23:05:47 +0100",
-      "id": 1
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Pinar del Río domina a Matanzas y amplía diferencia en béisbol cubano",
-      "resumen": "Matanzas, Cuba, 10 nov (Prensa Latina) El elenco de Pinar del Río superó hoy 7-5 a los Cocodrilos de Matanzas y amplió su ventaja en la zona occidental de la 65 Serie Nacional de béisbol. The post Pinar del Río domina a Matanzas y amplía diferencia en béisbol cubano first appeared on Noticias Prensa",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/10/pinar-del-rio-domina-a-matanzas-y-amplia-diferencia-en-beisbol-cubano/",
-      "destacada": true,
-      "tema": "pinar",
-      "fecha": "Tue, 10 Nov 2026 23:01:42 +0000",
-      "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Artista Jesús Lara Sotelo vuelve a exhibir su Axiomática en La Habana",
-      "resumen": "La Habana, 10 nov (Prensa Latina) El artista y escritor cubano Jesús Lara Sotelo invita hoy a su próxima exposición, Axiomática Íntima, el día 19 en la Casa Museo Oswaldo Guayasamín, ubicada en el corazón del centro histórico de esta capital. The post Artista Jesús Lara Sotelo vuelve a exhibir su Ax",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/10/artista-jesus-lara-sotelo-vuelve-a-exhibir-su-axiomatica-en-la-habana/",
-      "destacada": true,
-      "tema": "artista",
-      "fecha": "Tue, 10 Nov 2026 22:33:38 +0000",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubano en hemodiálisis cuenta su lucha para empezar de cero en Madrid: «Era eso o morir en Cuba»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-10-u1-e74-s27061-nid345413-cubano-hemodialisis-cuenta-lucha-empezar-cero-madrid-era",
-      "destacada": true,
-      "tema": "cubano",
-      "fecha": "Tue, 10 Nov 2026 22:11:55 +0100",
       "id": 4
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Influencers cubanos celebran los 400 mil suscriptores en YouTube del podcast «De La Vida»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-10-u208487-e208487-s27065-nid345412-influencers-cubanos-celebran-400-mil",
+      "titulo": "La violencia machista deja otras dos mujeres asesinadas en Cuba en apenas dos días",
+      "resumen": "Las víctimas tenían 54 y 32 años; ambos presuntos agresores fueron detenidos, según el Observatorio de Género de ' Alas Tensas '",
+      "imagen_url": "https://static.14ymedio.com/clip/adf86ebc-14d2-4202-8463-0aa87569bc53_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/violencia-machista-deja-mujeres-asesinadas_1_1133046.html",
       "destacada": true,
-      "tema": "influencers",
-      "fecha": "Tue, 10 Nov 2026 21:59:12 +0100",
+      "tema": "violencia",
+      "fecha": "Tue, 10 Nov 2026 21:56:52 +0000",
       "id": 5
     },
     {
@@ -96,16 +96,29 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Recogen a personas sin hogar durante un operativo presentado como «saneamiento» en La Habana",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-10-u1-e74-s27061-nid345409-recogen-personas-hogar-durante-operativo-presentado",
+      "titulo": "Suman siete fugas de atletas cubanos en el mes de noviembre",
+      "resumen": "Los escapes más recientes son el de la basquetbolista Liset Valdés Santa Cruz en El Salvador y el portero de balonmano Luis Alberto Alazales Servera en Canadá",
+      "imagen_url": "https://static.14ymedio.com/clip/81aed5f1-bb0c-4c34-9b5d-13dec957c46e_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/deportes/suman-siete-fugas-atletas-cubanos_1_1133043.html",
       "destacada": false,
-      "tema": "recogen",
-      "fecha": "Tue, 10 Nov 2026 21:25:21 +0100",
+      "tema": "suman",
+      "fecha": "Tue, 10 Nov 2026 20:54:20 +0000",
       "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "CE-GESTA 2026 abre en La Habana con la mirada puesta en el desarrollo local",
+      "resumen": "El Palacio de Convenciones de La Habana acoge desde este martes y durante tres días el Congreso Internacional de Dirección, Desarrollo Local, Turismo y Cooperativismo CE-GESTA 2026, cita que reúne a más de 800 delegados e invitados nacionales y a representantes de más de 15 países, de forma presenci",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/10/ce-gesta-2026-abre-en-la-habana-con-la-mirada-puesta-en-el-desarrollo-local/",
+      "destacada": false,
+      "tema": "gesta",
+      "fecha": "Tue, 10 Nov 2026 20:51:20 +0000",
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -118,20 +131,20 @@
       "destacada": false,
       "tema": "radiografía",
       "fecha": "Tue, 10 Nov 2026 20:50:42 +0100",
-      "id": 9
+      "id": 10
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "categoria": "transporte",
+      "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Florida investiga posibles aportes de Cuba y China a organización socialista de Estados Unidos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-10-u1-e135253-s27061-nid345403-florida-investiga-posibles-aportes-cuba-china",
+      "titulo": "Conviasa anuncia su regreso a Cuba pese a la escasez de combustible en los aeropuertos de la Isla",
+      "resumen": "La aerolínea venezolana retomará sus vuelos el 13 de noviembre, con dos frecuencias semanales entre Caracas y La Habana",
+      "imagen_url": "https://static.14ymedio.com/clip/0425e2b2-1bfd-43a1-becd-3d2170cbc081_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/conviasa-anuncia-regreso-cuba-pese_1_1133042.html",
       "destacada": false,
-      "tema": "florida",
-      "fecha": "Tue, 10 Nov 2026 20:13:10 +0100",
-      "id": 10
+      "tema": "conviasa",
+      "fecha": "Tue, 10 Nov 2026 20:30:44 +0000",
+      "id": 11
     },
     {
       "categoria": "energia",
@@ -144,19 +157,6 @@
       "destacada": false,
       "tema": "inicia",
       "fecha": "Tue, 10 Nov 2026 20:12:43 +0000",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Ni las embajadas: el régimen cubano les prohíbe importar y usar Starlink",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-10-u1-e74-s27061-nid345407-ni-embajadas-regimen-cubano-les-prohibe-importar-usar",
-      "destacada": false,
-      "tema": "embajadas",
-      "fecha": "Tue, 10 Nov 2026 20:02:47 +0100",
       "id": 12
     },
     {
@@ -173,6 +173,19 @@
       "id": 13
     },
     {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 8:00 PM",
+      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/482857.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Tue, 10 Nov 2026 20:00:00 -0500",
+      "id": 14
+    },
+    {
       "categoria": "energia",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
@@ -183,7 +196,7 @@
       "destacada": false,
       "tema": "aguanta",
       "fecha": "Tue, 10 Nov 2026 19:48:43 +0100",
-      "id": 14
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -196,7 +209,7 @@
       "destacada": false,
       "tema": "inaugurado",
       "fecha": "Tue, 10 Nov 2026 19:33:18 +0000",
-      "id": 15
+      "id": 16
     },
     {
       "categoria": "transporte",
@@ -209,7 +222,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Tue, 10 Nov 2026 19:29:54 +0100",
-      "id": 16
+      "id": 17
     },
     {
       "categoria": "energia",
@@ -222,7 +235,7 @@
       "destacada": false,
       "tema": "amplía",
       "fecha": "Tue, 10 Nov 2026 19:22:29 +0000",
-      "id": 17
+      "id": 18
     },
     {
       "categoria": "politica",
@@ -235,7 +248,7 @@
       "destacada": false,
       "tema": "evalúa",
       "fecha": "Tue, 10 Nov 2026 19:15:56 +0000",
-      "id": 18
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -248,7 +261,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 10 Nov 2026 19:14:18 +0100",
-      "id": 19
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -261,46 +274,59 @@
       "destacada": false,
       "tema": "aclara",
       "fecha": "Tue, 10 Nov 2026 19:14:15 +0000",
-      "id": 20
+      "id": 21
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Expresidentes latinoamericanos piden cambios democráticos en Cuba, Nicaragua y Venezuela",
+      "resumen": "En el XI Diálogo Presidencial del Grupo IDEA en Miami, exmandatarios y líderes políticos abordaron la situación de Cuba, Venezuela y Nicaragua, reclamaron elecciones y destacaron la importancia del respaldo internacional.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/expresidentes-latinoamericanos-piden-cambios-democr%c3%a1ticos-en-cuba-nicaragua-y-venezuela/483958.html",
+      "destacada": false,
+      "tema": "expresidentes",
+      "fecha": "Tue, 10 Nov 2026 18:56:04 -0500",
+      "id": 22
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cubalex: El control sobre las misiones cubanas en el exterior se cimentó en 1980",
-      "resumen": "#Cubalex documenta presiones en las misiones de profesionales cubanos en el extranjero, la retención de salarios y la vigilancia política. Sus abogados han pedido a la #UniónEuropea exigir transparencia y apoyar una investigación de la #OIT.",
+      "titulo": "La cubanoamericana María Elvira Salazar gana el Distrito 27 de Florida",
+      "resumen": "La republicana, que ocupa el escaño desde enero de 2021, celebró este martes el resultado y agradeció el respaldo de los electores. “Una vez más, los votantes del Distrito 27 de Florida han hablado\".",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794333458_69785.html",
+      "enlace_original": "https://www.martinoticias.com/a/mar%c3%ada-elvira-salazar-gana-el-distrito-27-de-florida-tras-el-recuento-de-votos/483406.html",
       "destacada": false,
-      "tema": "cubalex",
-      "fecha": "Tue, 10 Nov 2026 18:57:38 +0100",
-      "id": 21
+      "tema": "cubanoamericana",
+      "fecha": "Tue, 10 Nov 2026 18:33:29 -0500",
+      "id": 23
     },
     {
       "categoria": "sociedad",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Homenaje a Fidel Castro en Qatar en el centenario de su natalicio",
-      "resumen": "En una velada de elevado significado bilateral celebrada en el Katara Drama Theatre, la Embajada de la República de Cuba en el Estado de Qatar conmemoró el centenario del natalicio del Comandante en Jefe Fidel Castro Ruz y el 25 aniversario de su histórica visita oficial a Doha en mayo de 2001. The ",
+      "titulo": "Tira de los Lectores: Comparte una foto para celebrar el Día Internacional de los Estudiantes",
+      "resumen": "Te invitamos a compartir una fotografía que refleje la vida estudiantil en Cuba. Puede ser una imagen en tu escuela, universidad o centro de estudios; junto a tus compañeros, durante una actividad académica, cultural o deportiva, o cualquier instante que represente lo que significa ser estudiante. T",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/10/homenaje-a-fidel-castro-en-qatar-en-el-centenario-de-su-natalicio/",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/10/tira-de-los-lectores-comparte-una-foto-para-celebrar-el-dia-internacional-de-los-estudiantes/",
       "destacada": false,
-      "tema": "homenaje",
-      "fecha": "Tue, 10 Nov 2026 18:36:46 +0000",
-      "id": 22
+      "tema": "lectores",
+      "fecha": "Tue, 10 Nov 2026 18:24:48 +0000",
+      "id": 24
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Prisioneras en Cuba: el Estado oculta las cifras y castiga las denuncias",
-      "resumen": "La falta de información oficial y las dificultades para documentar los casos impiden conocer la dimensión completa del encarcelamiento femenino en #Cuba.",
+      "titulo": "En Cuba el déficit habitacional roza el millón",
+      "resumen": "La sociedad cubana está inmersa en una sumatoria de crisis, el oficialismo ha priorizado la construcción de instalaciones hoteleras esperando recibir a un turismo que no llega, mientras el cubano de “a pie” no tiene donde vivir o está a la espera que el techo de sus casas se les venga encima.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1794329989_69754.html",
+      "enlace_original": "https://www.martinoticias.com/a/en-cuba-el-deficit-habitacional-roza-el-millon/483956.html",
       "destacada": false,
-      "tema": "prisioneras",
-      "fecha": "Tue, 10 Nov 2026 17:59:49 +0100",
-      "id": 23
+      "tema": "déficit",
+      "fecha": "Tue, 10 Nov 2026 18:08:34 -0500",
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -313,7 +339,7 @@
       "destacada": false,
       "tema": "venezuela",
       "fecha": "Tue, 10 Nov 2026 17:58:37 +0000",
-      "id": 24
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -326,7 +352,7 @@
       "destacada": false,
       "tema": "viengsay",
       "fecha": "Tue, 10 Nov 2026 17:54:09 +0000",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -339,20 +365,33 @@
       "destacada": false,
       "tema": "fusilar",
       "fecha": "Tue, 10 Nov 26 17:49:00 +0100",
-      "id": 26
+      "id": 28
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Otros dos feminicidios en Cuba: experto alerta sobre el impacto de la crisis económica en la violencia machista",
+      "resumen": "La espiral de la violencia machista y el colapso social en la isla no se detienen. En medio de un apagón informativo oficial, organizaciones independientes continúan visibilizando el profundo desamparo que enfrentan las mujeres cubanas.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/otros-dos-feminicidios-en-cuba-experto-alerta-sobre-el-impacto-de-la-crisis-econ%c3%b3mica-en-la-violencia-machista/483943.html",
+      "destacada": false,
+      "tema": "otros",
+      "fecha": "Tue, 10 Nov 2026 17:36:48 -0500",
+      "id": 29
     },
     {
       "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Tira de los Lectores: Comparte una foto para celebrar el Día Internacional de los Estudiantes",
-      "resumen": "Te invitamos a compartir una fotografía que refleje la vida estudiantil en Cuba. Puede ser una imagen en tu escuela, universidad o centro de estudios; junto a tus compañeros, durante una actividad académica, cultural o deportiva, o cualquier instante que represente lo que significa ser estudiante. T",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al día",
+      "resumen": "Cuba: El peso cubano se hunde y las cadenas hoteleras se retiran ¿hasta dónde llegará la crisis?",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/10/tira-de-los-lectores-comparte-una-foto-para-celebrar-el-dia-internacional-de-los-estudiantes/",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/483953.html",
       "destacada": false,
-      "tema": "lectores",
-      "fecha": "Tue, 10 Nov 2026 17:24:48 +0000",
-      "id": 27
+      "tema": "",
+      "fecha": "Tue, 10 Nov 2026 17:11:51 -0500",
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -365,59 +404,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Tue, 10 Nov 2026 17:00:30 -0500",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "CE-GESTA 2026 abre en La Habana con la mirada puesta en el desarrollo local",
-      "resumen": "El Palacio de Convenciones de La Habana acoge desde este martes y durante tres días el Congreso Internacional de Dirección, Desarrollo Local, Turismo y Cooperativismo CE-GESTA 2026, cita que reúne a más de 800 delegados e invitados nacionales y a representantes de más de 15 países, de forma presenci",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/10/ce-gesta-2026-abre-en-la-habana-con-la-mirada-puesta-en-el-desarrollo-local/",
-      "destacada": false,
-      "tema": "gesta",
-      "fecha": "Tue, 10 Nov 2026 16:51:20 +0000",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Seguridad del Estado cita a otro periodista cubano: Vladimir Turró",
-      "resumen": "La embestida contra el periodismo independiente sumó un nuevo capítulo de amedrentamiento en los últimos días: El reportero de Cubanet, Vladimir Turró, se encuentra bajo el peligro de una detención arbitraria tras encarar las maniobras ilegales de la Seguridad del Estado para silenciarlo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/seguridad-del-estado-cita-a-otro-periodista-cubano-vladimir-turr%c3%b3/483945.html",
-      "destacada": false,
-      "tema": "seguridad",
-      "fecha": "Tue, 10 Nov 2026 16:50:42 -0500",
-      "id": 30
-    },
-    {
-      "categoria": "energia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Pasión y fútbol: la selección de Granada llega a Cuba",
-      "resumen": "Con el objetivo de participar en el Grupo B de la segunda fase de la Liga de Naciones de Concacaf, que sesionará del 12 al 17 de noviembre arribo este lunes a nuestro país el equipo de Granada. The post Pasión y fútbol: la selección de Granada llega a Cuba first appeared on Cubadebate.",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/10/pasion-y-futbol-la-seleccion-de-granada-llega-a-cuba/",
-      "destacada": false,
-      "tema": "pasión",
-      "fecha": "Tue, 10 Nov 2026 16:36:45 +0000",
       "id": 31
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las Noticias Como Son",
-      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482841.html",
-      "destacada": false,
-      "tema": "noticias",
-      "fecha": "Tue, 10 Nov 2026 16:05:30 -0500",
-      "id": 32
     },
     {
       "categoria": "salud",
@@ -430,7 +417,7 @@
       "destacada": false,
       "tema": "espectáculo",
       "fecha": "Tue, 10 Nov 2026 15:36:05 +0000",
-      "id": 33
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -443,20 +430,7 @@
       "destacada": false,
       "tema": "final",
       "fecha": "Tue, 10 Nov 2026 15:11:15 -0500",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "El Diario de campaña del mayor general Máximo Gómez Báez en Sábado del Libro",
-      "resumen": "El tradicional espacio, que convoca el Instituto Cubano del Libro, presentará este 14 de noviembre el título “El Diario de campaña del mayor general Máximo Gómez Báez”, edición anotada, y publicada por el Instituto de Historia de Cuba La entrada El Diario de campaña del mayor general Máximo Gómez Bá",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/el-diario-de-campana-del-mayor-general-maximo-gomez-baez-en-sabado-del-libro/",
-      "destacada": false,
-      "tema": "diario",
-      "fecha": "Tue, 10 Nov 2026 14:23:30 +0000",
-      "id": 35
+      "id": 33
     },
     {
       "categoria": "salud",
@@ -469,7 +443,7 @@
       "destacada": false,
       "tema": "homenajeará",
       "fecha": "Tue, 10 Nov 2026 13:33:06 +0000",
-      "id": 36
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -482,7 +456,7 @@
       "destacada": false,
       "tema": "tocar",
       "fecha": "Tue, 10 Nov 2026 12:06:48 +0000",
-      "id": 37
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -495,7 +469,7 @@
       "destacada": false,
       "tema": "mensajes",
       "fecha": "Tue, 10 Nov 2026 12:04:41 GMT",
-      "id": 38
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -508,20 +482,7 @@
       "destacada": false,
       "tema": "embajador",
       "fecha": "Tue, 10 Nov 2026 11:55:05 +0000",
-      "id": 39
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "El Oriente cubano cuenta, nuevamente, con transportación ferroviaria interprovincial",
-      "resumen": "A pesar del bloqueo energético, y gracias al Fondo de Desarrollo del Transporte, se han reactivado varios trenes que circulan entre las principales ciudades de la región",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-11-10/el-oriente-cubano-cuenta-nuevamente-con-transportacion-ferroviaria-interprovincial-10-11-2026-11-11-39",
-      "destacada": false,
-      "tema": "oriente",
-      "fecha": "Tue, 10 Nov 2026 11:11:39 -0500",
-      "id": 40
+      "id": 37
     },
     {
       "categoria": "transporte",
@@ -534,7 +495,7 @@
       "destacada": false,
       "tema": "canciller",
       "fecha": "Tue, 10 Nov 2026 09:11:56 -0500",
-      "id": 41
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -547,7 +508,7 @@
       "destacada": false,
       "tema": "méxico",
       "fecha": "Tue, 10 Nov 26 08:41:00 +0100",
-      "id": 42
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -560,7 +521,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Tue, 10 Nov 26 08:40:00 +0100",
-      "id": 43
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -573,7 +534,7 @@
       "destacada": false,
       "tema": "cuándo",
       "fecha": "Tue, 10 Nov 26 08:40:00 +0100",
-      "id": 44
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -586,7 +547,7 @@
       "destacada": false,
       "tema": "vulnerabilidad",
       "fecha": "Tue, 10 Nov 26 08:34:00 +0100",
-      "id": 45
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -599,7 +560,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Tue, 10 Nov 26 08:05:00 +0100",
-      "id": 46
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -612,7 +573,7 @@
       "destacada": false,
       "tema": "impulsa",
       "fecha": "Tue, 10 Nov 26 07:55:00 +0100",
-      "id": 47
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -625,7 +586,7 @@
       "destacada": false,
       "tema": "define",
       "fecha": "Tue, 10 Nov 26 07:53:00 +0100",
-      "id": 48
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -638,20 +599,7 @@
       "destacada": false,
       "tema": "comporta",
       "fecha": "Tue, 10 Nov 26 07:52:00 +0100",
-      "id": 49
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba y China apuestan por fortalecer cooperación empresarial",
-      "resumen": "Shanghái, China, 9 nov (Prensa Latina) Cuba y regiones de China expresaron hoy su inter...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126011-cuba-y-china-apuestan-por-fortalecer-cooperacion-empresarial.jpg?t=1794293490",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261110/126011/126011-cuba-y-china-apuestan-por-fortalecer-cooperacion-empresarial",
-      "destacada": false,
-      "tema": "china",
-      "fecha": "Tue, 10 Nov 26 07:49:00 +0100",
-      "id": 50
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -664,33 +612,7 @@
       "destacada": false,
       "tema": "diseñador",
       "fecha": "Tue, 10 Nov 2026 07:25:00 +0000",
-      "id": 51
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El régimen cubano prohíbe el uso de Starlink a las embajadas extranjeras",
-      "resumen": "El Ministerio de Relaciones Exteriores envió una nota a las misiones diplomáticas para recordarles que tampoco pueden importar los equipos de internet satelital",
-      "imagen_url": "https://static.14ymedio.com/clip/a79fbc13-91e9-409e-9fbf-c4d86b9fa834_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/regimen-cubano-prohibe-starlink-embajadas_1_1133011.html",
-      "destacada": false,
-      "tema": "régimen",
-      "fecha": "Mon, 09 Nov 2026 23:26:27 +0000",
-      "id": 52
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Qué papeles necesita un menor de edad para salir de Cuba desde noviembre de 2026",
-      "resumen": "Desde el primero de noviembre de 2026, el menor que salga de Cuba con uno solo de sus padres o con un tercero deberá presentar un poder notarial detallado, con vigencia máxima de un año. Sin ese documento, la salida puede ser impedida en la frontera.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/06_11_2026_menores_cuba_salida_migracion_ley_permiso_3c82e36fdd.jpg",
-      "enlace_original": "https://eltoque.com/que-papeles-necesita-un-menor-para-salir-de-cuba-desde-noviembre-de-2026",
-      "destacada": false,
-      "tema": "papeles",
-      "fecha": "Mon, 09 Nov 2026 22:50:00 GMT",
-      "id": 53
+      "id": 47
     }
   ]
 }
