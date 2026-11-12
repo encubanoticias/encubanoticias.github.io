@@ -1,20 +1,150 @@
 {
   "fecha": "2026-11-12",
-  "hora": "01:12",
-  "total": 55,
+  "hora": "09:00",
+  "total": 41,
   "noticias": [
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
+      "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "Entregan categoría docente a profesor italiano en Cuba",
-      "resumen": "Santa Clara, Cuba, 11 nov (Prensa Latina) La categoría docente especial de Profesor Invitado fue entregada hoy aquí al profesor italiano Francesco Della Puppa, por la Facultad de Ciencias Sociales de la Universidad Central Marta Abreu de Las Villas, en esta ciudad en el centro de Cuba. The post Entr",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/11/entregan-categoria-docente-a-profesor-italiano-en-cuba/",
+      "titulo": "Capital de Perú acogerá el XXI Encuentro Nacional de Solidaridad con Cuba los días 27 y 28 de noviembre",
+      "resumen": "Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126057-capital-de-peru-acogera-el-xxi-encuentro-nacional-de-solidaridad-con-cuba-los-dias-27-y-28-de-noviembre.jpg?t=1794468590",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261112/126057/126057-capital-de-peru-acogera-el-xxi-encuentro-nacional-de-solidaridad-con-cuba-los-dias-27-y-28-de-noviembre",
       "destacada": true,
-      "tema": "entregan",
-      "fecha": "Thu, 12 Nov 2026 01:51:23 +0000",
+      "tema": "capital",
+      "fecha": "Thu, 12 Nov 26 08:28:00 +0100",
       "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "La deuda del mundo con Cuba",
+      "resumen": "Óscar J. Domingo - Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126056-la-deuda-del-mundo-con-cuba.jpg?t=1794468465",
+      "enlace_original": "https://www.cubainformacion.tv/opinion/20261112/126056/126056-la-deuda-del-mundo-con-cuba",
+      "destacada": true,
+      "tema": "deuda",
+      "fecha": "Thu, 12 Nov 26 08:22:00 +0100",
+      "id": 2
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Díaz-Canel pide más alimentos… y más control del Partido sobre la industria",
+      "resumen": "#IndustriaAlimentaria en Cuba en crisis: El Gobierno promete producción y precios más bajos mientras refuerza la supervisión política de las empresas.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1794466917_69819.html",
+      "destacada": true,
+      "tema": "canel",
+      "fecha": "Thu, 12 Nov 2026 08:01:57 +0100",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Lázaro Expósito Canto, un hombre del pueblo, es intocable",
+      "resumen": "Argentino Tellini - Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126055-lazaro-exposito-canto-un-hombre-del-pueblo-es-intocable.jpg?t=1794467195",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261112/126055/126055-lazaro-exposito-canto-un-hombre-del-pueblo-es-intocable",
+      "destacada": true,
+      "tema": "lázaro",
+      "fecha": "Thu, 12 Nov 26 08:00:00 +0100",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "¿Cuba no está bloqueada?: lo que le ocurrió a este profesor español",
+      "resumen": "Pedro Jorge Velázquez / El Necio",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126054-cuba-no-esta-bloqueada-lo-que-le-ocurrio-a-este-profesor-espanol.jpg?t=1794466167",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261112/126054/126054-cuba-no-esta-bloqueada-lo-que-le-ocurrio-a-este-profesor-espanol",
+      "destacada": true,
+      "tema": "bloqueada",
+      "fecha": "Thu, 12 Nov 26 07:49:00 +0100",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba sigue en pie de lucha frente a la presión",
+      "resumen": "El Titan de #Cuba",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126051-cuba-sigue-en-pie-de-lucha-frente-a-la-presion.jpg?t=1794466061",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261112/126051/126051-cuba-sigue-en-pie-de-lucha-frente-a-la-presion",
+      "destacada": false,
+      "tema": "sigue",
+      "fecha": "Thu, 12 Nov 26 07:47:00 +0100",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Epidemia de aberraciones sacude la Mafia Anticubana de Miami. Eliecer y el tal Maceíto a la hoguera",
+      "resumen": "Guerrero Cubano con su verdad al desnudo",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126049-epidemia-de-aberraciones-sacude-la-mafia-anticubana-de-miami-eliecer-y-el-tal-maceito-a-la-hoguera.jpg?t=1794465955",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261112/126049/126049-epidemia-de-aberraciones-sacude-la-mafia-anticubana-de-miami-eliecer-y-el-tal-maceito-a-la-hoguera",
+      "destacada": false,
+      "tema": "epidemia",
+      "fecha": "Thu, 12 Nov 26 07:45:00 +0100",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Genocidio de los Estados Unidos contra Cuba",
+      "resumen": "Luis Toledo Sande* Radio Miami Today Hay quienes se preguntan si el reforzamiento de lo que va para ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126047-genocidio-de-los-estados-unidos-contra-cuba.jpg?t=1794465889",
+      "enlace_original": "https://www.cubainformacion.tv/opinion/20261112/126047/126047-genocidio-de-los-estados-unidos-contra-cuba",
+      "destacada": false,
+      "tema": "genocidio",
+      "fecha": "Thu, 12 Nov 26 07:44:00 +0100",
+      "id": 8
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "La industria de la desinformación anticubana: quién la financia, cómo usa la IA y cómo desmantelarla",
+      "resumen": "Redacción Razones de Cuba Millones de dólares de USAID, la NED y fundaciones privadas alimentan u...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126046-la-industria-de-la-desinformacion-anticubana-quien-la-financia-como-usa-la-ia-y-como-desmantelarla.jpg?t=1794465796",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261112/126046/126046-la-industria-de-la-desinformacion-anticubana-quien-la-financia-como-usa-la-ia-y-como-desmantelarla",
+      "destacada": false,
+      "tema": "industria",
+      "fecha": "Thu, 12 Nov 26 07:42:00 +0100",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Más de 700 pacientes mastectomizadas se beneficiarán de donativos en Matanzas",
+      "resumen": "Tomado de Cuba en Resumen",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126045-mas-de-700-pacientes-mastectomizadas-se-beneficiaran-de-donativos-en-matanzas.jpg?t=1794465701",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261112/126045/126045-mas-de-700-pacientes-mastectomizadas-se-beneficiaran-de-donativos-en-matanzas",
+      "destacada": false,
+      "tema": "pacientes",
+      "fecha": "Thu, 12 Nov 26 07:40:00 +0100",
+      "id": 10
+    },
+    {
+      "categoria": "economia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Transporte automotor: 17 empresas cubanas buscan alternativas para sostener los servicios en medio de la crisis de combustible",
+      "resumen": "La crisis de combustible ha reducido considerablemente los servicios de transporte de pasajeros y cargas en Cuba. Ante este escenario, el GEA impulsa transformaciones organizativas, crea mipymes estatales, establece alianzas con actores no estatales e incorpora vehículos eléctricos para mantener sus",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/11/transporte-automotor-17-empresas-cubanas-buscan-alternativas-para-sostener-los-servicios-en-medio-de-la-crisis-de-combustible/",
+      "destacada": false,
+      "tema": "transporte",
+      "fecha": "Thu, 12 Nov 2026 01:56:24 +0000",
+      "id": 11
     },
     {
       "categoria": "politica",
@@ -24,88 +154,36 @@
       "resumen": "Firmas de #Cuba, #España, #Alemania, #Canadá y #China buscan invertir en el negocio turístico en la Isla, dice el ministro del sector. ¿Y dónde están los turistas?",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/economia/1794443680_69818.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "mintur",
       "fecha": "Thu, 12 Nov 2026 01:34:40 +0100",
-      "id": 2
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Vietnam entrega a Cuba 1,500 toneladas de arroz, mientras su precio sigue por las nubes",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-12-u1-e199291-s27061-nid345497-vietnam-entrega-cuba-1500-toneladas-arroz-mientras",
-      "destacada": true,
-      "tema": "vietnam",
-      "fecha": "Thu, 12 Nov 2026 00:46:22 +0100",
-      "id": 3
+      "id": 12
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://eltoque.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Parlamento cubano revisa el impacto de las reformas económicas en medio de la profunda crisis del país",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-12-u1-e199894-s27061-nid345502-parlamento-cubano-revisa-impacto-reformas-economicas",
-      "destacada": true,
-      "tema": "parlamento",
-      "fecha": "Thu, 12 Nov 2026 00:41:21 +0100",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cáritas Cuba recibe en Matanzas 700 módulos de ayuda humanitaria de EE.UU.",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-12-u1-e199291-s27061-nid345504-caritas-cuba-recibe-matanzas-700-modulos-ayuda",
-      "destacada": true,
-      "tema": "cáritas",
-      "fecha": "Thu, 12 Nov 2026 00:30:00 +0100",
-      "id": 5
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubanos responden a Díaz-Canel: «No se trata de creer, se trata de hacer»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-12-u1-e199291-s27061-nid345498-cubanos-responden-diaz-canel-trata-creer-trata-hacer",
+      "titulo": "El sabor de la libertad. Cómo tres cubanos cruzaron siete fronteras desde Rusia para llegar a España",
+      "resumen": "Anthony, Odaymis y su hijo salieron de Cuba hacia Rusia en 2021 y cruzaron siete fronteras hasta España, donde levantaron un negocio de sándwiches cubanos en Salobreña.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/cubanos_salobrena_negocio_5372d94f97.jpg",
+      "enlace_original": "https://eltoque.com/tres-cubanos-cruzaron-siete-fronteras-desde-rusia-a-espana",
       "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Thu, 12 Nov 2026 00:13:43 +0100",
-      "id": 6
+      "tema": "sabor",
+      "fecha": "Thu, 12 Nov 2026 01:16:55 GMT",
+      "id": 13
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Familia visita su bóveda en cementerio de Cuba y se llevan una sorpresa inesperada",
+      "titulo": "Cuba al Día",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-12-u1-e135253-s27061-nid345503-familia-visita-boveda-cementerio-cuba-llevan",
+      "enlace_original": "https://www.martinoticias.com/a/482986.html",
       "destacada": false,
-      "tema": "familia",
-      "fecha": "Thu, 12 Nov 2026 00:06:40 +0100",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba, quieren apagar su esperanza y borrar su camino",
-      "resumen": "Hay que hablar de Cuba con claridad, sin dejarnos confundir por las campañas políticas y mediáticas ...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126037-cuba-quieren-apagar-su-esperanza-y-borrar-su-camino.jpg?t=1794438339",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261112/126037/126037-cuba-quieren-apagar-su-esperanza-y-borrar-su-camino",
-      "destacada": false,
-      "tema": "quieren",
-      "fecha": "Thu, 12 Nov 26 00:05:00 +0100",
-      "id": 8
+      "tema": "",
+      "fecha": "Thu, 12 Nov 2026 00:00:30 -0500",
+      "id": 14
     },
     {
       "categoria": "energia",
@@ -118,33 +196,7 @@
       "destacada": false,
       "tema": "guiteras",
       "fecha": "Wed, 11 Nov 2026 23:55:35 +0100",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubana lleva más de 20 días sin agua: «¿Cómo le explico a mi hija que es una bebé que no tengo ni para bañarla?»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-11-u1-e199291-s27061-nid345493-cubana-lleva-20-dias-agua-le-explico-mi-hija-bebe",
-      "destacada": false,
-      "tema": "cubana",
-      "fecha": "Wed, 11 Nov 2026 23:38:54 +0100",
-      "id": 10
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel felicita a Ortega en su cumpleaños 81 y lo llama referente de la lucha contra el «imperialismo yanqui»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-11-u1-e199894-s27061-nid345499-diaz-canel-felicita-ortega-cumpleanos-81-llama",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Wed, 11 Nov 2026 23:21:43 +0100",
-      "id": 11
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -157,7 +209,7 @@
       "destacada": false,
       "tema": "castigo",
       "fecha": "Wed, 11 Nov 2026 23:21:13 +0100",
-      "id": 12
+      "id": 16
     },
     {
       "categoria": "economia",
@@ -170,7 +222,7 @@
       "destacada": false,
       "tema": "formar",
       "fecha": "Wed, 11 Nov 2026 22:49:02 +0100",
-      "id": 13
+      "id": 17
     },
     {
       "categoria": "salud",
@@ -183,7 +235,7 @@
       "destacada": false,
       "tema": "salud",
       "fecha": "Wed, 11 Nov 2026 22:31:56 +0100",
-      "id": 14
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -196,7 +248,7 @@
       "destacada": false,
       "tema": "mujeres",
       "fecha": "Wed, 11 Nov 2026 21:48:26 +0000",
-      "id": 15
+      "id": 19
     },
     {
       "categoria": "transporte",
@@ -209,7 +261,7 @@
       "destacada": false,
       "tema": "china",
       "fecha": "Wed, 11 Nov 2026 21:43:13 +0000",
-      "id": 16
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -222,7 +274,7 @@
       "destacada": false,
       "tema": "récord",
       "fecha": "Wed, 11 Nov 2026 21:21:18 +0000",
-      "id": 17
+      "id": 21
     },
     {
       "categoria": "transporte",
@@ -235,7 +287,7 @@
       "destacada": false,
       "tema": "manager",
       "fecha": "Wed, 11 Nov 2026 21:14:26 +0000",
-      "id": 18
+      "id": 22
     },
     {
       "categoria": "economia",
@@ -248,7 +300,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 11 Nov 2026 21:09:59 +0000",
-      "id": 19
+      "id": 23
     },
     {
       "categoria": "politica",
@@ -261,7 +313,20 @@
       "destacada": false,
       "tema": "exige",
       "fecha": "Wed, 11 Nov 2026 21:01:40 +0100",
-      "id": 20
+      "id": 24
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Barbacoa de Pepe",
+      "resumen": "La Barbacoa de Pepe es un muestrario de la nostalgia cubana con datos y curiosidades de los temas más variados, para la audiencia cubana. También trataremos temas internacionales y locales, siempre con el fin de educar al Cubano de la Isla. Con la elocuencia de Pepe Forte.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/482928.html",
+      "destacada": false,
+      "tema": "barbacoa",
+      "fecha": "Wed, 11 Nov 2026 21:00:00 -0500",
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -274,7 +339,7 @@
       "destacada": false,
       "tema": "regresa",
       "fecha": "Wed, 11 Nov 2026 20:49:04 +0000",
-      "id": 21
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -287,46 +352,7 @@
       "destacada": false,
       "tema": "renuncia",
       "fecha": "Wed, 11 Nov 2026 20:46:26 +0100",
-      "id": 22
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 8:00 PM",
-      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482927.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Wed, 11 Nov 2026 20:00:00 -0500",
-      "id": 23
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba en la Final del Concurso Internacional Universitario de Programación 2026",
-      "resumen": "Canal Caribe.- Cuba participó en la final caribeña del Concurso Internacional Universitario de Progr...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126035-cuba-en-la-final-del-concurso-internacional-universitario-de-programacion-2026.jpg?t=1794423261",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261111/126035/126035-cuba-en-la-final-del-concurso-internacional-universitario-de-programacion-2026",
-      "destacada": false,
-      "tema": "final",
-      "fecha": "Wed, 11 Nov 26 19:51:00 +0100",
-      "id": 24
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Vietnam refuerza su cooperación agrícola con Cuba y entrega 1500 toneladas de arroz",
-      "resumen": "En la ceremonia de entrega de 1500 toneladas de arroz Foto: VNA....",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126034-vietnam-refuerza-su-cooperacion-agricola-con-cuba-y-entrega-1500-toneladas-de-arroz.jpg?t=1794422988",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261111/126034/126034-vietnam-refuerza-su-cooperacion-agricola-con-cuba-y-entrega-1500-toneladas-de-arroz",
-      "destacada": false,
-      "tema": "vietnam",
-      "fecha": "Wed, 11 Nov 26 19:48:00 +0100",
-      "id": 25
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -339,20 +365,7 @@
       "destacada": false,
       "tema": "policía",
       "fecha": "Wed, 11 Nov 2026 19:45:54 +0000",
-      "id": 26
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba modifica, avanza y renueva el sector turístico en medio de asedios y obstáculos",
-      "resumen": "Nubia Piqueras Grosso Cubadebate Gracias al esfuerzo y la creatividad del empresariado, la activid...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126033-cuba-modifica-avanza-y-renueva-el-sector-turistico-en-medio-de-asedios-y-obstaculos.jpg?t=1794422840",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261111/126033/126033-cuba-modifica-avanza-y-renueva-el-sector-turistico-en-medio-de-asedios-y-obstaculos",
-      "destacada": false,
-      "tema": "modifica",
-      "fecha": "Wed, 11 Nov 26 19:44:00 +0100",
-      "id": 27
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -365,72 +378,7 @@
       "destacada": false,
       "tema": "presenta",
       "fecha": "Wed, 11 Nov 2026 19:42:21 +0000",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Anteproyecto de Ley de la Educación articula con disposiciones aprobadas en Cuba",
-      "resumen": "Canal Caribe.- El anteproyecto de Ley de la Educación que se discute hoy por parte del personal doce...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126032-anteproyecto-de-ley-de-la-educacion-articula-con-disposiciones-aprobadas-en-cuba.jpg?t=1794422636",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261111/126032/126032-anteproyecto-de-ley-de-la-educacion-articula-con-disposiciones-aprobadas-en-cuba",
-      "destacada": false,
-      "tema": "anteproyecto",
-      "fecha": "Wed, 11 Nov 26 19:42:00 +0100",
       "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba y su respuesta innovadora a la prevención del VIH",
-      "resumen": "Canal Caribe.- Este miércoles conversamos con el jefe del Centro Nacional de Prevención del Sida y s...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126031-cuba-y-su-respuesta-innovadora-a-la-prevencion-del-vih.jpg?t=1794422509",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261111/126031/126031-cuba-y-su-respuesta-innovadora-a-la-prevencion-del-vih",
-      "destacada": false,
-      "tema": "respuesta",
-      "fecha": "Wed, 11 Nov 26 19:41:00 +0100",
-      "id": 30
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Comercio ruso cubano creció 32 por ciento entre enero y agosto",
-      "resumen": "Moscú, 11 nov (Prensa Latina) El intercambio comercial entre Rusia y Cuba aumentó aproximad...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126030-comercio-ruso-cubano-crecio-32-por-ciento-entre-enero-y-agosto.jpg?t=1794422462",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261111/126030/126030-comercio-ruso-cubano-crecio-32-por-ciento-entre-enero-y-agosto",
-      "destacada": false,
-      "tema": "comercio",
-      "fecha": "Wed, 11 Nov 26 19:38:00 +0100",
-      "id": 31
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Industria alimentaria: un organismo clave en las transformaciones económicas y sociales de Cuba",
-      "resumen": "René Tamayo León Presidencia Cuba El Primer Secretario del Comité Central del Partido y Presidente ...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126029-industria-alimentaria-un-organismo-clave-en-las-transformaciones-economicas-y-sociales-de-cuba.jpg?t=1794422266",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261111/126029/126029-industria-alimentaria-un-organismo-clave-en-las-transformaciones-economicas-y-sociales-de-cuba",
-      "destacada": false,
-      "tema": "industria",
-      "fecha": "Wed, 11 Nov 26 19:36:00 +0100",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "China subraya política de amistad y apoyo a largo plazo con Cuba",
-      "resumen": "Beijing, 11 nov (Prensa Latina) China ratificó hoy su respaldo a Cuba en la lucha contra las...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126028-china-subraya-politica-de-amistad-y-apoyo-a-largo-plazo-con-cuba.jpg?t=1794422097",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261111/126028/126028-china-subraya-politica-de-amistad-y-apoyo-a-largo-plazo-con-cuba",
-      "destacada": false,
-      "tema": "china",
-      "fecha": "Wed, 11 Nov 26 19:30:00 +0100",
-      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -443,20 +391,7 @@
       "destacada": false,
       "tema": "apretón",
       "fecha": "Wed, 11 Nov 2026 19:21:42 +0100",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Llega a Cuba más ayuda humanitaria desde EEUU: el tercer cargamento de noviembre",
-      "resumen": "Llega a #Cuba un nuevo cargamento de ayuda humanitaria desde #EEUU. Se trata del tercer envío de noviembre, que Cáritas distribuirá entre familias vulnerables de #Matanzas.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794420177_69805.html",
-      "destacada": false,
-      "tema": "llega",
-      "fecha": "Wed, 11 Nov 2026 19:02:57 +0100",
-      "id": 35
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -469,33 +404,7 @@
       "destacada": false,
       "tema": "lepra",
       "fecha": "Wed, 11 Nov 2026 18:00:00 GMT",
-      "id": 36
-    },
-    {
-      "categoria": "economia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Industria alimentaria: Clave en las transformaciones económicas y sociales",
-      "resumen": "La industria alimentaria ocupa un lugar estratégico en la economía nacional, por su vinculación, en primer lugar, con la soberanía alimentaria. Así lo destacó el primer secretario del Comité Central del Partido y presidente, Miguel Díaz-Canel, en un encuentro con una representación de la militancia ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/11/industria-alimentaria-clave-en-las-transformaciones-economicas-y-sociales/",
-      "destacada": false,
-      "tema": "industria",
-      "fecha": "Wed, 11 Nov 2026 17:50:23 +0000",
-      "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "De Moscú a La Habana: ¿Podrá la cumbre con EEUU en Abu Dabi acercar la paz entre Rusia y Ucrania?",
-      "resumen": "Rusia niega un cese al fuego temporal en Ucrania y propone, al contrario, un acuerdo de seguridad integral y a largo plazo que involucre a todos los actores europeos. Mientras, Europa, tras quedar al margen, intenta ahora recuperar influencia en la mesa de diálogo. Este y otros temas centran el anál",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/11/de-moscu-a-la-habana-podra-la-cumbre-con-eeuu-en-abu-dabi-acercar-la-paz-entre-rusia-y-ucrania/",
-      "destacada": false,
-      "tema": "moscú",
-      "fecha": "Wed, 11 Nov 2026 17:34:22 +0000",
-      "id": 38
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -508,20 +417,7 @@
       "destacada": false,
       "tema": "amplían",
       "fecha": "Wed, 11 Nov 2026 17:27:08 GMT",
-      "id": 39
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Doble reto para el fútbol cubano",
-      "resumen": "Comienza la última ventana de la Liga de Naciones&nbsp;de la Concacaf nivel b en La Habana",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-11-11/doble-reto-para-el-futbol-cubano-11-11-2026-17-11-28",
-      "destacada": false,
-      "tema": "doble",
-      "fecha": "Wed, 11 Nov 2026 17:11:28 -0500",
-      "id": 40
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -534,7 +430,7 @@
       "destacada": false,
       "tema": "remozan",
       "fecha": "Wed, 11 Nov 2026 17:08:30 +0000",
-      "id": 41
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -547,33 +443,7 @@
       "destacada": false,
       "tema": "eligen",
       "fecha": "Wed, 11 Nov 2026 17:05:46 +0000",
-      "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 5:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482921.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Wed, 11 Nov 2026 17:00:30 -0500",
-      "id": 43
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las Noticias Como Son",
-      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482915.html",
-      "destacada": false,
-      "tema": "noticias",
-      "fecha": "Wed, 11 Nov 2026 16:05:30 -0500",
-      "id": 44
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -586,7 +456,7 @@
       "destacada": false,
       "tema": "vietnamita",
       "fecha": "Wed, 11 Nov 2026 15:31:44 +0000",
-      "id": 45
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -599,7 +469,7 @@
       "destacada": false,
       "tema": "reclama",
       "fecha": "Wed, 11 Nov 2026 15:13:21 +0000",
-      "id": 46
+      "id": 36
     },
     {
       "categoria": "politica",
@@ -612,33 +482,7 @@
       "destacada": false,
       "tema": "transformaciones",
       "fecha": "Wed, 11 Nov 2026 14:40:27 +0000",
-      "id": 47
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Erislandy Álvarez lidera una cosecha de seis oros para Cuba en Zunyi",
-      "resumen": "El desempeño superó el de la justa anterior, cifrado en tres títulos y dos bronces",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-11-11/erislandy-alvarez-lidera-una-cosecha-de-seis-oros-para-cuba-en-zunyi-11-11-2026-14-11-09",
-      "destacada": false,
-      "tema": "erislandy",
-      "fecha": "Wed, 11 Nov 2026 14:11:09 -0500",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El sabor de la libertad. Cómo tres cubanos cruzaron siete fronteras desde Rusia para llegar a España",
-      "resumen": "Antony, Odaymis y su hijo salieron de Cuba hacia Rusia en 2021 y cruzaron siete fronteras hasta España, donde levantaron un negocio de sándwiches cubanos en Salobreña.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/cubanos_salobrena_negocio_5372d94f97.jpg",
-      "enlace_original": "https://eltoque.com/tres-cubanos-cruzaron-siete-fronteras-desde-rusia-a-espana",
-      "destacada": false,
-      "tema": "sabor",
-      "fecha": "Wed, 11 Nov 2026 13:30:00 GMT",
-      "id": 49
+      "id": 37
     },
     {
       "categoria": "economia",
@@ -651,7 +495,7 @@
       "destacada": false,
       "tema": "subasta",
       "fecha": "Wed, 11 Nov 2026 13:26:27 +0000",
-      "id": 50
+      "id": 38
     },
     {
       "categoria": "economia",
@@ -664,20 +508,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 11 Nov 2026 13:03:00 GMT",
-      "id": 51
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "En Barcelona jornadas de cultura, memoria y solidaridad: las voces de mujeres que nos acercan a Cuba (+Fotos)",
-      "resumen": "Defensem Cuba / Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126027-en-barcelona-jornadas-de-cultura-memoria-y-solidaridad-las-voces-de-mujeres-que-nos-acercan-a-cuba-fotos.jpg?t=1794392816",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261111/126027/126027-en-barcelona-jornadas-de-cultura-memoria-y-solidaridad-las-voces-de-mujeres-que-nos-acercan-a-cuba-fotos",
-      "destacada": false,
-      "tema": "barcelona",
-      "fecha": "Wed, 11 Nov 26 11:10:00 +0100",
-      "id": 52
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -690,7 +521,7 @@
       "destacada": false,
       "tema": "prueba",
       "fecha": "Wed, 11 Nov 2026 11:00:05 +0000",
-      "id": 53
+      "id": 40
     },
     {
       "categoria": "economia",
@@ -703,20 +534,7 @@
       "destacada": false,
       "tema": "mipymes",
       "fecha": "Wed, 11 Nov 2026 09:55:19 +0000",
-      "id": 54
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Aprueba Presidente de la República, Miguel Díaz-Canel Bermúdez el cese de funciones de la gobernadora provincial de Las Tunas",
-      "resumen": "En uso de las facultades conferidas, el Presidente de la República, Miguel Díaz-Canel Bermúdez, aprobó el cese en funciones, como gobernadora provincial de Las Tunas, de la compañera Yelenys Tornet Menéndez, quien realizó esta solicitud teniendo en cuenta limitaciones familiares y personales por las",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-11-11/aprueba-presidente-de-la-republica-miguel-diaz-canel-bermudez-el-cese-de-funciones-de-la-gobernadora-provincial-de-las-tunas-11-11-2026-09-11-48",
-      "destacada": false,
-      "tema": "aprueba",
-      "fecha": "Wed, 11 Nov 2026 09:11:48 -0500",
-      "id": 55
+      "id": 41
     }
   ]
 }
