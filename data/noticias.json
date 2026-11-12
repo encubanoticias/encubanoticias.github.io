@@ -1,20 +1,332 @@
 {
   "fecha": "2026-11-12",
-  "hora": "17:27",
-  "total": 57,
+  "hora": "23:00",
+  "total": 65,
   "noticias": [
     {
-      "categoria": "energia",
+      "categoria": "politica",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "'Quiero resolver el asunto de Cuba antes de irme', afirma Donald Trump",
+      "resumen": "El presidente de #EEUU afirma que \"consideraría\" el uso de la fuerza militar para liberar #Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794522930_69834.html",
+      "destacada": true,
+      "tema": "quiero",
+      "fecha": "Thu, 12 Nov 2026 23:35:30 +0100",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Carta abierta de la sociedad civil a la Federación de Mujeres Cubanas",
+      "resumen": "Justicia 11J y otras organizaciones de la sociedad civil exigen a la Federación de Mujeres Cubanas que se pronuncie contra la persecución y las represalias sufridas por las mujeres familiares de presos políticos.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1794521965_69832.html",
+      "destacada": true,
+      "tema": "carta",
+      "fecha": "Thu, 12 Nov 2026 23:19:25 +0100",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Jóvenes del Minem impulsan transición energética en Cuba",
-      "resumen": "Holguín, Cuba, 12 nov (Prensa Latina) Integrantes de la Red de Jóvenes del Ministerio de Energía y Minas (Minem) dialogaron hoy en la Universidad de Moa sobre el papel de la academia en la transición energética de Cuba. The post Jóvenes del Minem impulsan transición energética en Cuba first appeared",
+      "titulo": "Destacan en Ecuador legado político e histórico de Fidel Castro",
+      "resumen": "Quito, 12 nov (Prensa Latina) El pensamiento y la trayectoria del líder histórico de la Revolución cubana, Fidel Castro, centraron hoy reflexiones sobre su legado político durante un encuentro académico y cultural, realizado en la Universidad Central del Ecuador (UCE). The post Destacan en Ecuador l",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/12/jovenes-del-minem-impulsan-transicion-energetica-en-cuba/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/12/destacan-en-ecuador-legado-politico-e-historico-de-fidel-castro/",
       "destacada": true,
-      "tema": "jóvenes",
-      "fecha": "Thu, 12 Nov 2026 18:11:02 +0000",
-      "id": 1
+      "tema": "destacan",
+      "fecha": "Thu, 12 Nov 2026 23:05:54 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Asere, ya estás en el diccionario",
+      "resumen": "La palabra que durante décadas ha acompañado las conversaciones de los cubanos acaba de ganar un espacio en el Diccionario de la lengua española. Un reconocimiento que no le cambia la vida al vocablo, pero sí confirma el alcance de una expresión inseparable de la identidad lingüística de Cuba La ent",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/asere-ya-estas-en-el-diccionario/",
+      "destacada": true,
+      "tema": "asere",
+      "fecha": "Thu, 12 Nov 2026 23:01:11 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba debate estrategias contra enfermedades no transmisibles",
+      "resumen": "La Habana, 12 nov (Prensa Latina) El I Simposio Internacional de Enfermedades No Transmisibles inició hoy aquí con el reto de debatir sobre cómo frenar padecimientos que, como las cardiopatías y el cáncer, causaron el 45,3 por ciento de las muertes en 2025. The post Cuba debate estrategias contra en",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/12/cuba-debate-estrategias-contra-enfermedades-no-transmisibles/",
+      "destacada": true,
+      "tema": "debate",
+      "fecha": "Thu, 12 Nov 2026 22:50:53 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cae otro dirigente cubano: Destituyen al intendente de un municipio avileño por errores e irregularidades",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-12-u1-e199291-s27061-nid345566-cae-otro-dirigente-cubano-destituyen-al-intendente",
+      "destacada": false,
+      "tema": "dirigente",
+      "fecha": "Thu, 12 Nov 2026 22:31:44 +0100",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Trump quiere resolver la cuestión de Cuba antes de dejar el poder y contempla la opción militar",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-12-u1-e135253-s27061-nid345573-trump-quiere-resolver-cuestion-cuba-dejar-poder",
+      "destacada": false,
+      "tema": "trump",
+      "fecha": "Thu, 12 Nov 2026 22:29:54 +0100",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba goleó a Bonaire en Liga de Naciones de fútbol",
+      "resumen": "La Habana, 12 nov (Prensa Latina) Cuba goleó hoy 7-1 a Bonaire en la Liga de Naciones de la Confederación Norte, Centroamericana y del Caribe de Fútbol (Concacaf). The post Cuba goleó a Bonaire en Liga de Naciones de fútbol first appeared on Noticias Prensa Latina.",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/12/cuba-goleo-a-bonaire-en-liga-de-naciones-de-futbol/",
+      "destacada": false,
+      "tema": "goleó",
+      "fecha": "Thu, 12 Nov 2026 22:28:19 +0000",
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Trump sobre Cuba: «Sin duda consideraría una campaña militar breve»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-12-u1-e74-s27061-nid345568-trump-cuba-duda-consideraria-campana-militar-breve",
+      "destacada": false,
+      "tema": "trump",
+      "fecha": "Thu, 12 Nov 2026 22:11:56 +0100",
+      "id": 9
+    },
+    {
+      "categoria": "salud",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Presidente de la República aprobó el cese en funciones de la Gobernadora de Guantánamo",
+      "resumen": "En uso de las facultades conferidas, el Presidente de la República, Miguel Díaz-Canel Bermúdez, aprobó el cese en funciones, como gobernadora provincial de Guantánamo, de la compañera Alis Azahares Torreblanca, atendiendo a problemas de salud. The post Presidente de la República aprobó el cese en fu",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/12/presidente-de-la-republica-aprobo-cese-en-funciones-de-la-gobernadora-de-guantanamo/",
+      "destacada": false,
+      "tema": "presidente",
+      "fecha": "Thu, 12 Nov 2026 22:04:04 +0000",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Jornada de recordación a Fidel Castro en Moscú",
+      "resumen": "Moscú, 12 nov (Prensa Latina) Por primera vez en Moscú, el Centro Cultural Iberoamericano de la Biblioteca de Literatura Extranjera, mostró hoy el documental \"Epicentro: Fidel Castro y la Revolución Cubana\", del director ruso, Leonid Savin. The post Jornada de recordación a Fidel Castro en Moscú fir",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/12/jornada-de-recordacion-a-fidel-castro-en-moscu/",
+      "destacada": false,
+      "tema": "jornada",
+      "fecha": "Thu, 12 Nov 2026 21:59:47 +0000",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Por qué el régimen cubano insiste en hostigar a las Damas de Blanco?",
+      "resumen": "Cubalex documenta 275 acciones represivas contra Berta Soler entre 2022 y 2026 y revela cómo el régimen cubano ha transformado sus métodos de hostigamiento contra las Damas de Blanco.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1794514419_69831.html",
+      "destacada": false,
+      "tema": "régimen",
+      "fecha": "Thu, 12 Nov 2026 21:13:39 +0100",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://actualidad.rt.com",
+      "fuente_tipo": "internacional",
+      "titulo": "Trump dice que \"sin duda consideraría\" una breve campaña militar contra Cuba",
+      "resumen": "\"Quiero resolver el asunto de Cuba antes de dejar el cargo\", destacó el mandatario estadounidense.",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.11/thumbnail/6af62cf2e9ff7145ca23785c.jpg",
+      "enlace_original": "https://actualidad-rt.com/actualidad/637536-trump-dice-consideraria-campana-militar-cuba?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "destacada": false,
+      "tema": "trump",
+      "fecha": "Thu, 12 Nov 2026 21:06:27 +0000",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Barcelona acoge jornadas de cultura, memoria y solidaridad con Cuba (+Fotos)",
+      "resumen": "Barcelona acogió durante el mes de noviembre un ciclo de actividades culturales y solidarias con Cuba que contó con la participación de Diana Balboa, Betzy Arias y Rosa María Fernández Sofía, tres mujeres vinculadas a diferentes ámbitos de la cultura cubana. The post Barcelona acoge jornadas de cult",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/12/barcelona-acoge-jornadas-de-cultura-memoria-y-solidaridad-con-cuba-fotos/",
+      "destacada": false,
+      "tema": "barcelona",
+      "fecha": "Thu, 12 Nov 2026 21:00:54 +0000",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Un premio para contar una historia colectiva",
+      "resumen": "El reconocimiento al trabajo de elTOQUE visibiliza los desafíos del periodismo cubano en el exilio: censura, represalias, restricciones de ingresos y distancia de la isla.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/2026_11_12_jasan_a9a24b1569.jpg",
+      "enlace_original": "https://eltoque.com/un-premio-para-contar-una-historia-colectiva",
+      "destacada": false,
+      "tema": "premio",
+      "fecha": "Thu, 12 Nov 2026 21:00:00 GMT",
+      "id": 15
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Si vas a mover dinero entre Rusia y Cuba, debes saber lo que acordaron La Habana y Moscú",
+      "resumen": "Un acuerdo del que apenas se conocen las generalidades puede afectar el movimiento de dinero por viajeros que se trasladan entre #Rusia y #Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1794512764_69829.html",
+      "destacada": false,
+      "tema": "mover",
+      "fecha": "Thu, 12 Nov 2026 20:46:04 +0100",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Justicia 11J pide a la Federación de Mujeres que denuncie la represión contra familiares de presos políticos",
+      "resumen": "Señala desnudos forzados, amenazas sobre la custodia de hijos y agresiones durante las visitas a las cárceles El Observatorio Cubano de Derechos Humanos acusa al régimen cubano de incrementar la represión para forzar el exilio de los activistas Priso",
+      "imagen_url": "https://static.14ymedio.com/clip/41d57d43-3e9f-400a-b1a9-dde0525e5970_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/justicia-11j-pide-federacion-mujeres_1_1133141.html",
+      "destacada": false,
+      "tema": "justicia",
+      "fecha": "Thu, 12 Nov 2026 20:43:09 +0000",
+      "id": 17
+    },
+    {
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Demócrata Joaquín Castro: Estados Unidos no debe decidir quién gobierna en Cuba ni pretender una invasión tipo Venezuela",
+      "resumen": "Estados Unidos no debe intentar decidir quién es el gobierno en Cuba ni pretender una invasión tipo Venezuela, advirtió el diputado demócrata Joaquín Castro, quien, en el nuevo Congreso bajo control de su partido, se convertirá en presidente del comité clave que aborda la política de Washington haci",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/12/democrata-joaquin-castro-estados-unidos-no-debe-decidir-quien-gobierna-en-cuba-ni-pretender-una-invasion-tipo-venezuela/",
+      "destacada": false,
+      "tema": "demócrata",
+      "fecha": "Thu, 12 Nov 2026 20:11:36 +0000",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El régimen cubano y el G7: vuelve a estallar la crisis",
+      "resumen": "La relación entre el régimen cubano y el G7 atraviesa una nueva crisis, con intercambio de acusaciones políticas. La Habana pierde el respaldo diplomático que durante décadas encontró en sus socios europeos y Canadá.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794509759_69830.html",
+      "destacada": false,
+      "tema": "régimen",
+      "fecha": "Thu, 12 Nov 2026 19:55:59 +0100",
+      "id": 19
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "La solidaridad con Cuba en València intercambiará con el Cónsul General Alejandro Castro para hacer balance de la campaña “Energía para Cuba” y exponer nuevos proyectos: 17 de noviembre",
+      "resumen": "Aasociación valenciana de amistad con Cuba José Martí / Cubainformación...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126059-la-solidaridad-con-cuba-en-valencia-intercambiara-con-el-consul-general-alejandro-castro-para-hacer-balance-de-la-campana-energia-para-cuba-y-exponer-nuevos-proyectos-17-de-noviembre.jpg?t=1794509533",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261112/126059/126059-la-solidaridad-con-cuba-en-valencia-intercambiara-con-el-consul-general-alejandro-castro-para-hacer-balance-de-la-campana-energia-para-cuba-y-exponer-nuevos-proyectos-17-de-noviembre",
+      "destacada": false,
+      "tema": "solidaridad",
+      "fecha": "Thu, 12 Nov 26 19:49:00 +0100",
+      "id": 20
+    },
+    {
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba y Vietnam fortalecen vínculos entre sus estructuras partidistas",
+      "resumen": "El doctor Roberto Morales Ojeda, miembro del Buró Político y secretario de Organización del Comité Central del Partido Comunista de Cuba (PCC), sostuvo este jueves un encuentro con una delegación del Partido Comunista de Vietnam (PCV), encabezada por Do Viet Ha, subsecretario de la Comisión de los Ó",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/12/cuba-y-vietnam-fortalecen-vinculos-entre-sus-estructuras-partidistas/",
+      "destacada": false,
+      "tema": "vietnam",
+      "fecha": "Thu, 12 Nov 2026 19:31:41 +0000",
+      "id": 21
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Nexol, la misteriosa mipyme que vende gasolina en dólares en un antiguo Cupet de La Habana",
+      "resumen": "El servicentro estatal fue rehabilitado en tiempo récord, y solo acepta efectivo en divisa",
+      "imagen_url": "https://static.14ymedio.com/clip/367f05d7-0e86-443a-a96f-59c09a286748_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/nexol-misteriosa-mipyme-gasolina-dolares-habana_1_1133136.html",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Thu, 12 Nov 2026 19:25:32 +0000",
+      "id": 22
+    },
+    {
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Díaz-Canel: “El desarrollo local no se decreta, se construye”",
+      "resumen": "Con la presencia del primer secretario del Comité Central del Partido Comunista de Cuba (PCC) y presidente de la República, Miguel Díaz-Canel Bermúdez, CE-GESTA 2026 cerró este jueves en La Habana con compromisos concretos para convertir municipios, cooperativas y universidades en protagonistas de l",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/12/diaz-canel-el-desarrollo-local-no-se-decreta-se-construye/",
+      "destacada": false,
+      "tema": "canel",
+      "fecha": "Thu, 12 Nov 2026 19:14:42 +0000",
+      "id": 23
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Este jueves en la Mesa Redonda: Estreno del documental “Juzvinza”",
+      "resumen": "La Mesa Redonda estrenará este jueves el documental “Juzvinza”, de la realizadora Niurka Dámaris. El material será transmitido desde la 7 pm, por Cubavisión, Cubavisión Internacional, Canal Caribe, Radio Habana Cuba y los canales en redes de Cubadebate y la Mesa Redonda. The post Este jueves en la M",
+      "imagen_url": "",
+      "enlace_original": "http://mesaredonda.cubadebate.cu/noticias/2026/11/12/este-jueves-en-la-mesa-redonda-estreno-del-documental-juzvinza/",
+      "destacada": false,
+      "tema": "transporte",
+      "fecha": "Thu, 12 Nov 2026 18:27:53 +0000",
+      "id": 24
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba despidió con seis coronas el Abierto Internacional de boxeo en Guizhou",
+      "resumen": "Cuba acudió a Guizhou con una comitiva de trece boxeadores y cerró con seis diademas, tres subtítulos y un bronce, rendimiento superior al de la edición de 2025, cuando se logró tres cetros de Saidel Horta, Nelson Jesús William y Jorge Cuellar y dos terceros puestos de Arianne Imbert y Dayira Mesa. ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/12/cuba-despidio-con-seis-coronas-el-abierto-internacional-de-boxeo-en-guizhou/",
+      "destacada": false,
+      "tema": "despidió",
+      "fecha": "Thu, 12 Nov 2026 18:22:36 +0000",
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -24,23 +336,36 @@
       "resumen": "",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1794502884_69826.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "dicen",
       "fecha": "Thu, 12 Nov 2026 18:01:24 +0100",
-      "id": 2
+      "id": 26
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El régimen cubano exige vigilar repetidores de telefonía y teme a Starlink",
+      "resumen": "El Gobierno cubano pide “vigilancia ciudadana” ante el uso de equipos no autorizados pero no ofrece soluciones a las deficiencias de la red en la isla.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/RDC_web_10_noviembre_a9042ebbe2.jpg",
+      "enlace_original": "https://eltoque.com/el-regimen-cubano-exige-vigilar-repetidores-de-telefonia-y-teme-a-starlink",
+      "destacada": false,
+      "tema": "régimen",
+      "fecha": "Thu, 12 Nov 2026 17:30:00 GMT",
+      "id": 27
     },
     {
       "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba y China exploran nuevas oportunidades para ampliar sus vínculos económico-comerciales",
-      "resumen": "Cuba y China exploraron hoy nuevas oportunidades para ampliar sus vínculos económico-comerciales durante un foro de comercio e inversión celebrado en esta capital, con la participación de autoridades de ambos países y representantes del sector empresarial. The post Cuba y China exploran nuevas oport",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"El dengue está a tope\"; Cuba con el peor indicador del Caribe",
+      "resumen": "Cuba reportó 15.859 casos de dengue hasta octubre, una cifra que supera en más de diez veces los niveles habituales para esta época del año, según el Observatorio Mundial del Dengue.",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/12/cuba-y-china-exploran-nuevas-oportunidades-para-ampliar-sus-vinculos-economico-comerciales/",
-      "destacada": true,
-      "tema": "china",
-      "fecha": "Thu, 12 Nov 2026 17:15:04 +0000",
-      "id": 3
+      "enlace_original": "https://www.martinoticias.com/a/el-dengue-est%c3%a1-a-tope-cuba-con-el-peor-indicador-del-caribe/484111.html",
+      "destacada": false,
+      "tema": "dengue",
+      "fecha": "Thu, 12 Nov 2026 17:18:15 -0500",
+      "id": 28
     },
     {
       "categoria": "economia",
@@ -50,23 +375,36 @@
       "resumen": "Elevar la calidad de los servicios y acompañar las transformaciones económicas del país, son prioridades del Banco de Crédito y Comercio, en su 29 aniversario.",
       "imagen_url": "",
       "enlace_original": "https://www.bc.gob.cu/media/noticias/banco-de-credito-y-comercio-29-anos",
-      "destacada": true,
+      "destacada": false,
       "tema": "banco",
       "fecha": "Thu, 12 Nov 2026 17:08:01 GMT",
-      "id": 4
+      "id": 29
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Era cirujana pediátrica en Cuba y emigró a EE.UU.: 8 años después cuenta lo que ha vivido",
-      "resumen": "",
+      "titulo": "Comisión Mexicana de Derechos Humanos exige al régimen cubano poner fin a los arrestos arbitrarios",
+      "resumen": "La Comisión Mexicana de Derechos Humanos exigió al régimen cubano el cese de los arrestos arbitrarios, el hostigamiento y la represión contra activistas, periodistas y ciudadanos que se manifiestan pacíficamente, en medio del agravamiento de la crisis económica y humanitaria en la isla.",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-12-u65722-e65722-s27065-nid345545-era-cirujana-pediatrica-cuba-emigro-eeuu-8-anos",
-      "destacada": true,
-      "tema": "cirujana",
-      "fecha": "Thu, 12 Nov 2026 17:03:04 +0100",
-      "id": 5
+      "enlace_original": "https://www.martinoticias.com/a/comisi%c3%b3n-mexicana-de-derechos-humanos-exige-al-r%c3%a9gimen-cubano-poner-fin-a-los-arrestos-arbitrarios/484101.html",
+      "destacada": false,
+      "tema": "comisión",
+      "fecha": "Thu, 12 Nov 2026 17:00:58 -0500",
+      "id": 30
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 5:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/483027.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Thu, 12 Nov 2026 17:00:30 -0500",
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -79,7 +417,7 @@
       "destacada": false,
       "tema": "caturla",
       "fecha": "Thu, 12 Nov 2026 16:52:10 +0000",
-      "id": 6
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -92,7 +430,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Thu, 12 Nov 2026 16:51:16 +0000",
-      "id": 7
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -105,7 +443,7 @@
       "destacada": false,
       "tema": "observatorio",
       "fecha": "Thu, 12 Nov 2026 16:49:55 +0000",
-      "id": 8
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -118,33 +456,7 @@
       "destacada": false,
       "tema": "seguridad",
       "fecha": "Thu, 12 Nov 2026 16:49:20 +0000",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Republicanos de Florida niegan que deportaciones de Trump expliquen su retroceso en el voto cubano e hispano",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-12-u1-e135253-s27061-nid345543-republicanos-florida-niegan-deportaciones-trump",
-      "destacada": false,
-      "tema": "republicanos",
-      "fecha": "Thu, 12 Nov 2026 16:48:15 +0100",
-      "id": 10
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Actividades en La Habana como parte de la Jornada Nacional del Tránsito",
-      "resumen": "El objetivo central de la jornada es fomentar la educación vial y prevenir accidentes de tránsito, mediante actividades dirigidas a conductores, peatones y escolares La entrada Actividades en La Habana como parte de la Jornada Nacional del Tránsito se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/actividades-en-la-habana-como-parte-de-la-jornada-nacional-del-transito/",
-      "destacada": false,
-      "tema": "actividades",
-      "fecha": "Thu, 12 Nov 2026 16:48:02 +0000",
-      "id": 11
+      "id": 35
     },
     {
       "categoria": "politica",
@@ -157,20 +469,7 @@
       "destacada": false,
       "tema": "tribunal",
       "fecha": "Thu, 12 Nov 2026 16:41:21 +0000",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "De Revolico a un taller con garantías: cubano compara cómo mantiene su carro en Brasil",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-12-u1-e74-s27061-nid345539-revolico-taller-garantias-cubano-compara-mantiene-carro",
-      "destacada": false,
-      "tema": "revolico",
-      "fecha": "Thu, 12 Nov 2026 16:27:17 +0100",
-      "id": 13
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -183,33 +482,46 @@
       "destacada": false,
       "tema": "ángel",
       "fecha": "Thu, 12 Nov 2026 16:27:07 +0100",
-      "id": 14
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El dólar acentúa su caída en el mercado informal cubano y el euro repunta este jueves",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-12-u1-e129488-s27061-nid345540-mueven-tasas-cambio-cuba-dolar-cae-euro-repunta",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Thu, 12 Nov 2026 16:21:55 +0100",
-      "id": 15
+      "id": 37
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«¡No tienen el flow!»: Sergio George asegura que los puertorriqueños no pueden hacer reparto como los cubanos",
-      "resumen": "",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Solidaridad energética: de Bélgica al Instituto de Gastroenterología",
+      "resumen": "El movimiento de solidaridad con Cuba en Bélgica, las diversas fuerzas políticas, donantes individuales y la comunidad de cubanos residentes en ese país europeo, realizaron una campaña de recaudación de fondos que permitieron la instalación en la institución médica de 12 kilowatts de inversor, 45 ki",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-12-u65722-e65722-s27065-nid345536-tienen-flow-sergio-george-asegura-puertorriquenos",
+      "enlace_original": "http://www.granma.cu/cuba/2026-11-12/solidaridad-energetica-de-belgica-al-instituto-de-gastroenterologia-12-11-2026-16-11-42",
       "destacada": false,
-      "tema": "tienen",
-      "fecha": "Thu, 12 Nov 2026 16:20:22 +0100",
-      "id": 16
+      "tema": "solidaridad",
+      "fecha": "Thu, 12 Nov 2026 16:11:42 -0500",
+      "id": 38
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Canciller de Cuba realizará visita oficial a Vietnam como Enviado Especial del Partido y Gobierno cubanos",
+      "resumen": "Como parte del programa de actividades, el Canciller cubano sostendrá conversaciones oficiales con altos funcionarios de la nación asiática",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/vietnam-y-cuba/2026-11-12/canciller-de-cuba-realizara-visita-oficial-a-vietnam-como-enviado-especial-del-partido-y-gobierno-cubanos-12-11-2026-16-11-23",
+      "destacada": false,
+      "tema": "canciller",
+      "fecha": "Thu, 12 Nov 2026 16:11:23 -0500",
+      "id": 39
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Aprobó el Presidente de la República cese en funciones de la Gobernadora de Guantánamo",
+      "resumen": "En uso de las facultades conferidas, el Presidente de la República, Miguel Díaz-Canel Bermúdez, aprobó el cese en funciones, como gobernadora provincial de Guantánamo, de la compañera Alis Azahares Torreblanca, atendiendo a problemas de salud",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-11-12/aprobo-el-presidente-de-la-republica-cese-en-funciones-de-la-gobernadora-de-guantanamo-12-11-2026-16-11-22",
+      "destacada": false,
+      "tema": "aprobó",
+      "fecha": "Thu, 12 Nov 2026 16:11:22 -0500",
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -222,33 +534,33 @@
       "destacada": false,
       "tema": "detrás",
       "fecha": "Thu, 12 Nov 26 16:11:00 +0100",
-      "id": 17
+      "id": 41
     },
     {
       "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "CUPET aclara que la publicación sobre distribución de Gas Licuado de Petróleo (GLP) corresponde a 2024",
-      "resumen": "Ante la circulación en redes sociales de una información sobre la distribución de Gas Licuado de Petróleo (GLP), la Unión Cuba-Petróleo (CUPET) aclara que el contenido difundido corresponde a una publicación del 29 de noviembre de 2024. The post CUPET aclara que la publicación sobre distribución de ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/12/cupet-aclara-que-la-publicacion-sobre-distribucion-de-gas-licuado-de-petroleo-glp-corresponde-a-2024/",
-      "destacada": false,
-      "tema": "cupet",
-      "fecha": "Thu, 12 Nov 2026 16:08:29 +0000",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Bruno Rodríguez responde al G7 tras su llamado a reformas democráticas en Cuba",
-      "resumen": "",
+      "titulo": "Trump quiere “resolver Cuba” antes de dejar la presidencia (VIDEO)",
+      "resumen": "En una entrevista telefónica emitida el 12 de noviembre de 2026, Donald Trump afirmó que quiere “resolver el tema de Cuba” antes de dejar el cargo, al ser consultado sobre un eventual uso de la fuerza militar para derrocar al régimen de La Habana.",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-12-u1-e199370-s27061-nid345537-bruno-rodriguez-responde-al-g7-tras-llamado-reformas",
+      "enlace_original": "https://www.martinoticias.com/a/trump-quiere-resolver-cuba-antes-de-dejar-la-presidencia-video/484108.html",
       "destacada": false,
-      "tema": "bruno",
-      "fecha": "Thu, 12 Nov 2026 16:04:29 +0100",
-      "id": 19
+      "tema": "trump",
+      "fecha": "Thu, 12 Nov 2026 16:06:35 -0500",
+      "id": 42
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Las Noticias Como Son",
+      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/483019.html",
+      "destacada": false,
+      "tema": "noticias",
+      "fecha": "Thu, 12 Nov 2026 16:05:30 -0500",
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -261,7 +573,7 @@
       "destacada": false,
       "tema": "chequia",
       "fecha": "Thu, 12 Nov 2026 15:56:11 +0000",
-      "id": 20
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -274,7 +586,7 @@
       "destacada": false,
       "tema": "quieres",
       "fecha": "Thu, 12 Nov 2026 15:36:05 +0000",
-      "id": 21
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -287,7 +599,7 @@
       "destacada": false,
       "tema": "disparan",
       "fecha": "Thu, 12 Nov 2026 15:30:00 +0100",
-      "id": 22
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -300,20 +612,7 @@
       "destacada": false,
       "tema": "apoyo",
       "fecha": "Thu, 12 Nov 2026 15:18:48 +0000",
-      "id": 23
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Donetsk: cultura, memoria y resistencia en medio del conflicto",
-      "resumen": "Entre bares vacíos, calles dañadas y edificios que aún muestran las huellas de los contantes ataques, habitantes, artistas y autoridades intentan preservar una rutina que parece resistirse a desaparecer. The post Donetsk: cultura, memoria y resistencia en medio del conflicto first appeared on Cubade",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/12/donetsk-cultura-memoria-y-resistencia-en-medio-del-conflicto/",
-      "destacada": false,
-      "tema": "donetsk",
-      "fecha": "Thu, 12 Nov 2026 15:05:21 +0000",
-      "id": 24
+      "id": 47
     },
     {
       "categoria": "transporte",
@@ -326,7 +625,7 @@
       "destacada": false,
       "tema": "cumple",
       "fecha": "Thu, 12 Nov 2026 14:20:00 +0000",
-      "id": 25
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -339,7 +638,7 @@
       "destacada": false,
       "tema": "pesista",
       "fecha": "Thu, 12 Nov 2026 14:16:00 +0000",
-      "id": 26
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -352,7 +651,7 @@
       "destacada": false,
       "tema": "dengue",
       "fecha": "Thu, 12 Nov 2026 14:10:50 +0100",
-      "id": 27
+      "id": 50
     },
     {
       "categoria": "transporte",
@@ -365,7 +664,7 @@
       "destacada": false,
       "tema": "busca",
       "fecha": "Thu, 12 Nov 2026 13:54:57 +0100",
-      "id": 28
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -378,20 +677,20 @@
       "destacada": false,
       "tema": "ejército",
       "fecha": "Thu, 12 Nov 2026 13:30:00 GMT",
-      "id": 29
+      "id": 52
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El portero de la selección cubana de balonmano rompe el silencio tras quedarse en Canadá",
-      "resumen": "Luis Alazales ayudó su equipo a clasificar al Mundial Sub 21; ahora relata cómo escapó y habla de sus planes para establecerse en Quebec",
-      "imagen_url": "https://static.14ymedio.com/clip/ebcb5da3-77e9-442b-96a5-2cd8ccd05b87_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/deportes/portero-seleccion-cubana-balonmano-rompe_1_1133117.html",
+      "categoria": "transporte",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "¿Habrá que sacar las sombrillas y los abrigos?",
+      "resumen": "Si se cumple lo sugerido por los modelos, la probabilidad de chubascos y lluvias debe aumentar en gran parte del archipiélago cubano en la tarde noche de hoy, condición que pudiera persistir en las próximas 48 horas",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-11-12/habra-que-sacar-las-sombrillas-y-los-abrigos-12-11-2026-13-11-49",
       "destacada": false,
-      "tema": "portero",
-      "fecha": "Thu, 12 Nov 2026 13:29:03 +0000",
-      "id": 30
+      "tema": "habrá",
+      "fecha": "Thu, 12 Nov 2026 13:11:49 -0500",
+      "id": 53
     },
     {
       "categoria": "energia",
@@ -404,20 +703,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 12 Nov 2026 13:03:38 +0000",
-      "id": 31
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El régimen cubano contra Starlink: el objetivo no es proteger la seguridad nacional",
-      "resumen": "#AnálisisCuba: El régimen #cubano asegura prohíbe el uso de #Starlink a sus ciudadanos e incluso a las embajadas por cuestiones de seguridad nacional, pero una norma delata su verdadero objetivo.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794484871_69820.html",
-      "destacada": false,
-      "tema": "régimen",
-      "fecha": "Thu, 12 Nov 2026 13:01:11 +0100",
-      "id": 32
+      "id": 54
     },
     {
       "categoria": "economia",
@@ -430,46 +716,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 12 Nov 2026 13:00:00 GMT",
-      "id": 33
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "De 5.000 pasajeros diarios a menos de 900 en un año: cifras del desastre del transporte estatal en Cuba",
-      "resumen": "Cifras oficiales muestran el desastre del transporte público en Cuba. La empresa estatal que lo gestiona reduce drásticamente su plantilla. Culpa a #EEUU de la falta de combustible para ómnibus y ambulancias, pero no explica la disponibilidad para reprimir protestas contra el #RégimenCubano.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794482956_69823.html",
-      "destacada": false,
-      "tema": "transporte",
-      "fecha": "Thu, 12 Nov 2026 12:29:16 +0100",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Niegan la visita familiar al preso político Roilán Álvarez Rensoler",
-      "resumen": "Autoridades niegan la visita familiar al preso político cubano Roilán Álvarez Rensoler, recluido en la Prisión Provincial de Holguín, donde fue víctima de una golpiza propinada por autoridades penitenciarias y ya ha sido trasladado desde la enfermería hacia un destacamento.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/niegan-la-visita-familiar-al-preso-pol%c3%adtico-roil%c3%a1n-%c3%a1lvarez-rensoler/484084.html",
-      "destacada": false,
-      "tema": "niegan",
-      "fecha": "Thu, 12 Nov 2026 12:17:04 -0500",
-      "id": 35
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El campo cubano en terapia: la producción de alimentos básicos cayó hasta un 82% entre 2020 y 2024",
-      "resumen": "El Diagnóstico del sistema agrario de #Cuba, del Observatorio de Derechos Laborales y Sindicales y la Asociación Sindical Independiente, atribuye el derrumbe productivo a \"restricciones institucionales\" y déficit de incentivos, y reclama autonomía para los productores.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1794482074_69822.html",
-      "destacada": false,
-      "tema": "campo",
-      "fecha": "Thu, 12 Nov 2026 12:14:34 +0100",
-      "id": 36
+      "id": 55
     },
     {
       "categoria": "sociedad",
@@ -482,59 +729,7 @@
       "destacada": false,
       "tema": "otros",
       "fecha": "Thu, 12 Nov 2026 12:00:01 +0000",
-      "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 12:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/483003.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Thu, 12 Nov 2026 12:00:00 -0500",
-      "id": 38
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Yordán Alvarez busca cerrar con el MVP su gran temporada 2026",
-      "resumen": "Cuando se anuncie este jueves el premio de Jugador Más Valioso de la Liga Americana, el tunero Yordán Alvarez, de los Astros de Houston deberá cerrar con broche de oro una de las mejores temporadas de un pelotero cubano en toda la historia de las Grandes Ligas.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/484082.html",
-      "destacada": false,
-      "tema": "yordán",
-      "fecha": "Thu, 12 Nov 2026 11:50:44 -0500",
-      "id": 39
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barrio adentro",
-      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/483000.html",
-      "destacada": false,
-      "tema": "barrio",
-      "fecha": "Thu, 12 Nov 2026 11:30:00 -0500",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Lawton Libre",
-      "resumen": "El reconocido opositor cubano Dr. Oscar Elías Biscet aborda la situación de los derechos humanos en Cuba y la conquista de las libertades básicas de los cubanos, bajo el precepto de que “si aprendes a ser libre, todos los seremos”. Correo Electrónico: lawtonlibremarti@gmail.com",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/482991.html",
-      "destacada": false,
-      "tema": "lawton",
-      "fecha": "Thu, 12 Nov 2026 11:00:00 -0500",
-      "id": 41
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -547,7 +742,7 @@
       "destacada": false,
       "tema": "capital",
       "fecha": "Thu, 12 Nov 26 08:28:00 +0100",
-      "id": 42
+      "id": 57
     },
     {
       "categoria": "sociedad",
@@ -560,20 +755,7 @@
       "destacada": false,
       "tema": "deuda",
       "fecha": "Thu, 12 Nov 26 08:22:00 +0100",
-      "id": 43
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel pide más alimentos, pero también más control del PCC sobre el sector en Cuba",
-      "resumen": "#IndustriaAlimentaria en Cuba en crisis: El Gobierno promete producción y precios más bajos mientras refuerza la supervisión política de las empresas.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1794466917_69819.html",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Thu, 12 Nov 2026 08:01:57 +0100",
-      "id": 44
+      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -586,7 +768,7 @@
       "destacada": false,
       "tema": "lázaro",
       "fecha": "Thu, 12 Nov 26 08:00:00 +0100",
-      "id": 45
+      "id": 59
     },
     {
       "categoria": "sociedad",
@@ -599,7 +781,7 @@
       "destacada": false,
       "tema": "bloqueada",
       "fecha": "Thu, 12 Nov 26 07:49:00 +0100",
-      "id": 46
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -612,7 +794,7 @@
       "destacada": false,
       "tema": "sigue",
       "fecha": "Thu, 12 Nov 26 07:47:00 +0100",
-      "id": 47
+      "id": 61
     },
     {
       "categoria": "sociedad",
@@ -625,7 +807,7 @@
       "destacada": false,
       "tema": "epidemia",
       "fecha": "Thu, 12 Nov 26 07:45:00 +0100",
-      "id": 48
+      "id": 62
     },
     {
       "categoria": "sociedad",
@@ -638,7 +820,7 @@
       "destacada": false,
       "tema": "genocidio",
       "fecha": "Thu, 12 Nov 26 07:44:00 +0100",
-      "id": 49
+      "id": 63
     },
     {
       "categoria": "economia",
@@ -651,33 +833,7 @@
       "destacada": false,
       "tema": "industria",
       "fecha": "Thu, 12 Nov 26 07:42:00 +0100",
-      "id": 50
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Más de 700 pacientes mastectomizadas se beneficiarán de donativos en Matanzas",
-      "resumen": "Tomado de Cuba en Resumen",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126045-mas-de-700-pacientes-mastectomizadas-se-beneficiaran-de-donativos-en-matanzas.jpg?t=1794465701",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261112/126045/126045-mas-de-700-pacientes-mastectomizadas-se-beneficiaran-de-donativos-en-matanzas",
-      "destacada": false,
-      "tema": "pacientes",
-      "fecha": "Thu, 12 Nov 26 07:40:00 +0100",
-      "id": 51
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El MINTUR dice que hay empresas extranjeras que quieren invertir en Cuba pese a las sanciones",
-      "resumen": "Firmas de #Cuba, #España, #Alemania, #Canadá y #China buscan invertir en el negocio turístico en la Isla, dice el ministro del sector. ¿Y dónde están los turistas?",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1794443680_69818.html",
-      "destacada": false,
-      "tema": "mintur",
-      "fecha": "Thu, 12 Nov 2026 01:34:40 +0100",
-      "id": 52
+      "id": 64
     },
     {
       "categoria": "sociedad",
@@ -690,59 +846,7 @@
       "destacada": false,
       "tema": "sabor",
       "fecha": "Thu, 12 Nov 2026 01:16:55 GMT",
-      "id": 53
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Por primera vez, las Cadeca dan un mejor precio que la calle para el dólar",
-      "resumen": "Hay cola este miércoles delante de la Casa de Cambio de Centro Habana donde compran la divisa a 917 pesos, mientras el mercado informal ofrece 915",
-      "imagen_url": "https://static.14ymedio.com/clip/840a0886-0092-42c3-9b4c-e15bdf595c79_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/primera-vez-cadeca-dan-mejor_1_1133095.html",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Wed, 11 Nov 2026 21:09:59 +0000",
-      "id": 54
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.radiocubana.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Regresa el encuentro de jóvenes radialistas La Vuelta Abajo",
-      "resumen": "El encuentro de jóvenes radialistas La Vuelta Abajo regresa desde hoy a Pinar del Río y se extenderá hasta el día 13, con un programa más reducido a tono con la situación de Cuba; pero en el que se sigue pensando la radio que actualmente realizan las nuevas generaciones. Auspiciado por la Asociación",
-      "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/eventos/regresa-el-encuentro-de-jovenes-radialistas-la-vuelta-abajo/",
-      "destacada": false,
-      "tema": "regresa",
-      "fecha": "Wed, 11 Nov 2026 20:49:04 +0000",
-      "id": 55
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Policía persigue también a los \"ilegales\" que buscan refugio en Matanzas",
-      "resumen": "Procedentes principalmente del oriente cubano, los migrantes internos sobreviven entre asentamientos precarios, empleos informales y el temor a las multas",
-      "imagen_url": "https://static.14ymedio.com/clip/786fb523-3e0d-470c-a20d-e7d7365242aa_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/policia-persigue-ilegales-buscan-refugio_1_1133090.html",
-      "destacada": false,
-      "tema": "policía",
-      "fecha": "Wed, 11 Nov 2026 19:45:54 +0000",
-      "id": 56
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Lepra en Cuba: qué dicen las cifras y qué debes saber",
-      "resumen": "Santiago de Cuba y Guantánamo concentraron 62 de los 124 diagnósticos de lepra notificados en 2025; Isla de la Juventud tuvo la mayor tasa por población.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/lepra_Cuba_916808377d.jpg",
-      "enlace_original": "https://eltoque.com/lepra-en-cuba-que-dicen-las-cifras-y-que-debes-saber",
-      "destacada": false,
-      "tema": "lepra",
-      "fecha": "Wed, 11 Nov 2026 18:00:00 GMT",
-      "id": 57
+      "id": 65
     }
   ]
 }
