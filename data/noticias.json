@@ -1,20 +1,228 @@
 {
-  "fecha": "2026-11-13",
-  "hora": "20:10",
-  "total": 56,
+  "fecha": "2026-11-14",
+  "hora": "01:08",
+  "total": 52,
   "noticias": [
+    {
+      "categoria": "economia",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Debaten en Cuba transformaciones económicas y experiencia surcoreana",
+      "resumen": "La Habana, 13 nov (Prensa Latina) La experiencia de desarrollo económico de Corea del Sur y elementos que podrían aplicarse a Cuba centraron hoy la conferencia del economista Wonho Kim, durante un seminario convocado por el Centro de Estudios de la Economía Cubana (CEEC). The post Debaten en Cuba tr",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/13/debaten-en-cuba-transformaciones-economicas-y-experiencia-surcoreana/",
+      "destacada": true,
+      "tema": "debaten",
+      "fecha": "Sat, 14 Nov 2026 01:48:28 +0000",
+      "id": 1
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La producción de electricidad de Energas en Cuba se contrae",
+      "resumen": "#Energas, la empresa que operaba #Sherritt de conjunto con #Cupet y la Unión Eléctrica de #Cuba, ha estado aportando menos de lo habitual a la generación de la Isla.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794615554_69852.html",
+      "destacada": true,
+      "tema": "producción",
+      "fecha": "Sat, 14 Nov 2026 01:19:14 +0100",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Turismo cubano: Nuevas reglas para transformar la gestión y abrir oportunidades de negocio",
+      "resumen": "Las transformaciones económicas que se implementan en el sector turístico cubano buscan modificar las formas de gestión empresarial, ampliar las modalidades de inversión y negocio, incorporar nuevos actores económicos y otorgar mayor autonomía a las entidades que prestan servicios. El propósito es a",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/13/turismo-cubano-nuevas-reglas-para-transformar-la-gestion-y-abrir-oportunidades-de-negocio/",
+      "destacada": true,
+      "tema": "turismo",
+      "fecha": "Sat, 14 Nov 2026 00:54:22 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "‎Cuba denuncia impacto del bloqueo estadounidense en el turismo ‎",
+      "resumen": "La Habana, 13 nov (Prensa Latina) El ministro de Turismo de Cuba, Juan Carlos García, denunció hoy las afectaciones que causa el bloqueo estadounidense al sector, un área clave en los últimos años para el desarrollo socioeconómico del país. The post ‎Cuba denuncia impacto del bloqueo estadounidense ",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/13/cuba-denuncia-impacto-del-bloqueo-estadounidense-en-el-turismo/",
+      "destacada": true,
+      "tema": "denuncia",
+      "fecha": "Sat, 14 Nov 2026 00:54:21 +0000",
+      "id": 4
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba fortalece su promoción turística en el mercado griego",
-      "resumen": "Atenas, 13 nov (Prensa Latina) Cuba participa desde hoy en la edición 41 de Philoxenia-Hotelia, la Feria Internacional de Turismo de Tesalónica, que se celebrará hasta el domingo en el Centro Internacional de Exposiciones y Congresos de esa ciudad griega. The post Cuba fortalece su promoción turísti",
+      "titulo": "Un árbitro cubano entre lagos y volcanes",
+      "resumen": "Managua, 13 nov (Prensa Latina) Entre lanzamientos que desafían los radares y jugadas que exigen ojos de halcón, el cubano Leonel García hace valer hoy su autoridad en el VI Campeonato Mundial de Béisbol Sub-23. The post Un árbitro cubano entre lagos y volcanes first appeared on Noticias Prensa Lati",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/13/cuba-fortalece-su-promocion-turistica-en-el-mercado-griego/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/13/un-arbitro-cubano-entre-lagos-y-volcanes/",
       "destacada": true,
-      "tema": "fortalece",
-      "fecha": "Fri, 13 Nov 2026 20:38:15 +0000",
-      "id": 1
+      "tema": "árbitro",
+      "fecha": "Sat, 14 Nov 2026 00:52:51 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Díaz-Canel ratifica en Boyeros la decisión de rechazar cualquier agresión militar extranjera y preparar la defensa del país",
+      "resumen": "Nuestro país es una nación de paz, que da solidaridad; no es una amenaza para la seguridad de ninguna nación del mundo. El Presidente del Consejo de Defensa Nacional, Miguel Díaz-Canel Bermúdez, denunció las reiteradas y recientes declaraciones de voceros y políticos de EE.UU. que alientan y ratific",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/13/diaz-canel-ratifica-en-boyeros-la-decision-de-rechazar-cualquier-agresion-militar-extranjera-y-preparar-la-defensa-del-pais/",
+      "destacada": false,
+      "tema": "canel",
+      "fecha": "Sat, 14 Nov 2026 00:25:03 +0000",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba vence 8-1 a Panamá y suma su segunda victoria consecutiva en el Mundial sub-23 de béisbol",
+      "resumen": "Cuba alcanzó este viernes su segunda victoria seguida en la ronda de colocación del Mundial sub-23 de béisbol con un juego muy compacto sobre Panamá, que terminó con marcador de 8-1 en el estadio Roberto Clemente de Masaya, Nicaragua. The post Cuba vence 8-1 a Panamá y suma su segunda victoria conse",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/13/cuba-vence-8-1-a-panama-y-suma-su-segunda-victoria-consecutiva-en-el-mundial-sub-23-de-beisbol/",
+      "destacada": false,
+      "tema": "vence",
+      "fecha": "Sat, 14 Nov 2026 00:06:34 +0000",
+      "id": 7
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Marco Rubio pretende cambiar la historia de Cuba",
+      "resumen": "Artur González / Heraldo Cubano.- El lunes 9 de noviembre del 2026 Marco Rubio, secretario de Estad...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126077-marco-rubio-pretende-cambiar-la-historia-de-cuba.jpg?t=1794611126",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261114/126077/126077-marco-rubio-pretende-cambiar-la-historia-de-cuba",
+      "destacada": false,
+      "tema": "marco",
+      "fecha": "Sat, 14 Nov 26 00:05:00 +0100",
+      "id": 8
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Ocho mecanismos para proteger a los médicos cubanos en Italia: una propuesta del OCDH",
+      "resumen": "El OCDH reclama investigaciones independientes, apoyo jurídico y garantías para los médicos cubanos frente a represalias.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794609062_69850.html",
+      "destacada": false,
+      "tema": "mecanismos",
+      "fecha": "Fri, 13 Nov 2026 23:31:02 +0100",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Tres envíos en una semana: ¿por qué La Habana no habla de la ayuda humanitaria de EEUU?",
+      "resumen": "Tres vuelos con ayuda humanitaria de EEUU llegaron a Cuba en apenas cuatro días, pero la prensa oficial guarda silencio. ¿Por qué el régimen oculta unas donaciones que son imprescindibles para miles de cubanos?",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794608059_69848.html",
+      "destacada": false,
+      "tema": "envíos",
+      "fecha": "Fri, 13 Nov 2026 23:14:19 +0100",
+      "id": 10
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Dólar vs. bolsillo de los cubanos y el Aeropuerto José Martí sin turistas ni combustible",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794602881_69849.html",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Fri, 13 Nov 2026 21:48:01 +0100",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Tribunal Provincial Popular de La Habana recibe calificación de conforme en supervisión del Tribunal Supremo Popular",
+      "resumen": "Durante la acción de control al Tribunal Provincial Popular de La Habana se revisaron más de 600 procesos judiciales. La visita incluyó los 15 tribunales municipales y las diez salas de justicia La entrada Tribunal Provincial Popular de La Habana recibe calificación de conforme en supervisión del Tr",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/tribunal-provincial-popular-de-la-habana-recibe-calificacion-de-conforme-en-supervision-del-tribunal-supremo-popular/",
+      "destacada": false,
+      "tema": "tribunal",
+      "fecha": "Fri, 13 Nov 2026 21:36:09 +0000",
+      "id": 12
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Colectivos santiagueros refuerzan seguridad y salud del trabajo",
+      "resumen": "Con la motivación de la Jornada Nacional de Seguridad y Salud del Trabajo, que se desarrolla durante todo noviembre, en centros laborales de la provincia de Santiago de Cuba refuerzan acciones a favor de la prevención de accidentes y la protección integral de los afiliados",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261113/colectivos-santiagueros-refuerzan-seguridad-y-salud-del-trabajo/",
+      "destacada": false,
+      "tema": "colectivos",
+      "fecha": "Fri, 13 Nov 2026 21:30:06 +0000",
+      "id": 13
+    },
+    {
+      "categoria": "salud",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Estudiantes de Sri Lanka graduados en Cuba donarán medicamentos para hospitales del país",
+      "resumen": "Próximamente llegarán a Cuba 160 kilos de medicamentos esenciales para los hospitales, producidos básicamente en Sri Lanka y la India, donados por 50 graduados de esa nación asiática en la isla, con el objetivo de paliar la crítica situación existente en este sector. The post Estudiantes de Sri Lank",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/13/estudiantes-de-sri-lanka-graduados-en-cuba-donaran-medicamentos-para-hospitales-del-pais/",
+      "destacada": false,
+      "tema": "estudiantes",
+      "fecha": "Fri, 13 Nov 2026 21:26:44 +0000",
+      "id": 14
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.guerrillero.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Llega la XI edición del festival intercultural La Guarapachanga  a Pinar del Río",
+      "resumen": "Del 16 al 19 de noviembre, La Habana, Pinar del Río y Viñales se unen para celebrar nuestras raíces. Esta edición está dedicada al son cubano, recientemente declarado Patrimonio Cultural Inmaterial de la Nación, y rinde homenaje a los aniversarios 65 de la Uneac y 40 de la AHS. Durante las jornadas ",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/llega-la-xi-edicion-del-festival-intercultural-la-guarapachanga-a-pinar-del-rio/",
+      "destacada": false,
+      "tema": "llega",
+      "fecha": "Fri, 13 Nov 2026 20:40:14 +0000",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Habana celebrará su aniversario 507 con programa cultural y académico",
+      "resumen": "La capital cubana celebrará su aniversario 507 con un programa de actividades culturales, patrimoniales y académicas que tendrá lugar del 15 al 20 de noviembre, con propuestas destinadas a resaltar los valores históricos, arquitectónicos y culturales de la ciudad La entrada La Habana celebrará su an",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/la-habana-celebrara-su-aniversario-507-con-programa-cultural-y-academico/",
+      "destacada": false,
+      "tema": "habana",
+      "fecha": "Fri, 13 Nov 2026 20:34:57 +0000",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Aguas de La Habana informa sobre afectaciones en Cuenca Sur",
+      "resumen": "Como consecuencia de un disparo eléctrico total en Cuenca Sur en horas de la tarde-noche de este jueves, se generó un incremento en los niveles de salidero en el conducto principal de 78’’, siendo necesario intervenir en tres lugares del conducto. Debido a esto, se afecta el servicio de agua en los ",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/aguas-de-la-habana-informa-sobre-afectaciones-en-cuenca-sur/",
+      "destacada": false,
+      "tema": "aguas",
+      "fecha": "Fri, 13 Nov 2026 20:25:31 +0000",
+      "id": 17
     },
     {
       "categoria": "energia",
@@ -24,36 +232,23 @@
       "resumen": "En las últimas horas se han encadenado varios sucesos en #Cuba que hacen temer que se produzca el noveno colapso nacional del SEN del actual año.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1794597409_69847.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "apagones",
       "fecha": "Fri, 13 Nov 2026 20:16:49 +0100",
-      "id": 2
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Ómnibus interprovinciales en Cuba pasan de más de 5 mil viajeros diarios a menos de mil",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-13-u1-e209363-s27061-nid345642-omnibus-interprovinciales-cuba-pasan-5-mil-viajeros",
-      "destacada": true,
-      "tema": "transporte",
-      "fecha": "Fri, 13 Nov 2026 20:13:38 +0100",
-      "id": 3
+      "id": 18
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "La dictadura cubana bate su récord: 1.353 presos políticos, entre ellos menores con discapacidad y cientos de enfermos sin atención médica",
-      "resumen": "",
+      "titulo": "Noticiero de Radio Martí 8:00 PM",
+      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-13-u1-e199894-s27061-nid345653-dictadura-cubana-bate-record-1353-presos-politicos",
-      "destacada": true,
-      "tema": "dictadura",
-      "fecha": "Fri, 13 Nov 2026 20:12:29 +0100",
-      "id": 4
+      "enlace_original": "https://www.martinoticias.com/a/483108.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Fri, 13 Nov 2026 20:00:00 -0500",
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -63,10 +258,23 @@
       "resumen": "Los religiosos sostienen que el reconocimiento al jefe de la misión diplomática estadounidense fue un gesto de gratitud y rechazan las acusaciones de traición",
       "imagen_url": "https://static.14ymedio.com/clip/73372c19-3847-4138-b49e-a80977c55014_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/pastores-evangelicos-cubanos-reciben-ataques_1_1133189.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "pastores",
       "fecha": "Fri, 13 Nov 2026 19:56:42 +0000",
-      "id": 5
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Guardia Costera de EEUU devuelve a Cuba a seis balseros interceptados en el mar",
+      "resumen": "La Guardia Costera precisó que todos los ocupantes fueron encontrados y ninguno solicitó asistencia médica.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/guardia-costera-de-eeuu-devuelve-a-cuba-a-seis-balseros-interceptados-en-el-mar/484268.html",
+      "destacada": false,
+      "tema": "guardia",
+      "fecha": "Fri, 13 Nov 2026 19:54:03 -0500",
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -79,7 +287,7 @@
       "destacada": false,
       "tema": "cuatro",
       "fecha": "Fri, 13 Nov 2026 19:53:42 +0100",
-      "id": 6
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -92,46 +300,7 @@
       "destacada": false,
       "tema": "videojuego",
       "fecha": "Fri, 13 Nov 2026 19:52:27 +0000",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Violencia de género en Cuba: instituciones y redes de apoyo debaten cómo mejorar la protección a las mujeres",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-13-u1-e199894-s27061-nid345646-genero-cuba-instituciones-redes-apoyo-debaten",
-      "destacada": false,
-      "tema": "violencia",
-      "fecha": "Fri, 13 Nov 2026 19:44:18 +0100",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Viernes 13: ¿Qué significa este número en la Bolita en Cuba?",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-13-u1-e199370-s27315-nid345649-viernes-13-significa-este-numero-bolita-cuba",
-      "destacada": false,
-      "tema": "viernes",
-      "fecha": "Fri, 13 Nov 2026 19:41:50 +0100",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Disparo eléctrico en Cuenca Sur agrava salideros y deja sin agua municipios de La Habana",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-13-u1-e208574-s27061-nid345651-disparo-electrico-cuenca-sur-agrava-salideros-deja",
-      "destacada": false,
-      "tema": "disparo",
-      "fecha": "Fri, 13 Nov 2026 19:35:19 +0100",
-      "id": 10
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -144,7 +313,33 @@
       "destacada": false,
       "tema": "danza",
       "fecha": "Fri, 13 Nov 2026 19:27:39 +0000",
-      "id": 11
+      "id": 24
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "“La gratitud no es traición”: Asambleas de Dios responden a señalamientos por el homenaje a Hammer",
+      "resumen": "La declaración pastoral calificó los señalamientos de infundados y dijo que buscan generar hostilidad contra líderes religiosos en Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/la-gratitud-no-es-traici%c3%b3n-asambleas-de-dios-responden-a-se%c3%b1alamientos-por-el-homenaje-a-hammer/484187.html",
+      "destacada": false,
+      "tema": "gratitud",
+      "fecha": "Fri, 13 Nov 2026 18:39:53 -0500",
+      "id": 25
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "“Me apuntaron con una pistola”: periodista independiente cubano denuncia amenazas de muerte",
+      "resumen": "Turró Páez relató que permaneció unas diez horas bajo custodia de las autoridades, durante las cuales también recibió amenazas de prisión si continuaba ejerciendo el periodismo independiente.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/me-apuntaron-con-una-pistola-periodista-independiente-cubano-denuncia-amenazas-de-muerte/484186.html",
+      "destacada": false,
+      "tema": "apuntaron",
+      "fecha": "Fri, 13 Nov 2026 18:28:42 -0500",
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -157,20 +352,33 @@
       "destacada": false,
       "tema": "secuestran",
       "fecha": "Fri, 13 Nov 2026 18:22:27 +0000",
-      "id": 12
+      "id": 27
     },
     {
-      "categoria": "transporte",
-      "fuente": "https://www.14ymedio.com",
+      "categoria": "sociedad",
+      "fuente": "https://www.guerrillero.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "Entre los fracasos en torneos internacionales, el béisbol cubano sufre el abandono de otros dos peloteros",
-      "resumen": "José Luis Ayala y Yulián Massó se entrenan en República Dominicana en la Academia TBT Béisbol, un centro con 20 años de experiencia",
-      "imagen_url": "https://static.14ymedio.com/clip/a9b37fe7-5b09-4ee5-b1da-de926e09f916_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/deportes/fracasos-torneos-internacionales-beisbol-cubano_1_1133178.html",
+      "titulo": "Pinar del Río como centro del desarrollo",
+      "resumen": "Entre las temáticas discutidas en CE-GESTA 2026 estuvieron las transformaciones económicas y sociales del país, entendidas como una oportunidad para el desarrollo del cooperativismo en Cuba Con un firme llamado a potenciar el pensamiento científico, la innovación y la articulación territorial frente",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/pinar-del-rio-como-centro-del-desarrollo/",
       "destacada": false,
-      "tema": "fracasos",
-      "fecha": "Fri, 13 Nov 2026 18:17:58 +0000",
-      "id": 13
+      "tema": "pinar",
+      "fecha": "Fri, 13 Nov 2026 18:00:00 +0000",
+      "id": 28
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "ICE rompe récord de deportaciones y arrestos en EEUU: ¿qué significa para los cubanos?",
+      "resumen": "ICE alcanzó en el año fiscal 2026 un récord histórico de deportaciones y arrestos, una situación que incrementa la preocupación entre miles de cubanos con procesos pendientes en el país.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/ice-rompe-r%c3%a9cord-de-deportaciones-y-arrestos-en-eeuu-qu%c3%a9-significa-para-los-cubanos/484199.html",
+      "destacada": false,
+      "tema": "rompe",
+      "fecha": "Fri, 13 Nov 2026 17:43:25 -0500",
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -183,7 +391,7 @@
       "destacada": false,
       "tema": "subasta",
       "fecha": "Fri, 13 Nov 2026 17:42:13 +0000",
-      "id": 14
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -196,46 +404,20 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Fri, 13 Nov 2026 17:41:24 +0100",
-      "id": 15
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Continúa Díaz-Canel recorridos para impulsar programas de beneficio directo a la población",
-      "resumen": "El Primer Secretario del Comité Central del Partido y Presidente de la República, Miguel Díaz-Canel Bermúdez, visitó este jueves los Tanques de Agua de Alamar, el SAF El Rampeño, en el Vedado, y el Hospital Universitario Ginecobstétrico Dr. Eusebio Hernández —Maternidad Obrera—, de Marianao La entra",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/continua-diaz-canel-recorridos-para-impulsar-programas-de-beneficio-directo-a-la-poblacion/",
-      "destacada": false,
-      "tema": "continúa",
-      "fecha": "Fri, 13 Nov 2026 17:35:55 +0000",
-      "id": 16
+      "id": 31
     },
     {
       "categoria": "energia",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
       "titulo": "Se desconecta del sistema nacional la tercera termoeléctrica en dos días",
-      "resumen": "La provincia de Granma sufre una desconexión de varias horas por un disparo en la línea con Santiago de Cuba",
+      "resumen": "Ciego de Ávila, con apagones de más de 40 horas, interrumpirá el bombeo de agua La provincia de Granma sufre una desconexión de varias horas por un disparo en la línea con Santiago de Cuba",
       "imagen_url": "https://static.14ymedio.com/clip/a3e04f40-aaae-4921-a04d-60acaf7a68c4_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/provincia-granma-apagon-disparo-linea_1_1133172.html",
       "destacada": false,
       "tema": "desconecta",
       "fecha": "Fri, 13 Nov 2026 17:34:47 +0000",
-      "id": 17
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Declaración de la Unión Nacional de Juristas de Cuba en el VI Simposio Nacional de Asesoramiento Legal",
-      "resumen": "Los delegados y delegadas al VI Simposio Nacional de Asesoramiento Legal de la Unión Nacional de Juristas de Cuba denunciaron la agresión multidimensional que mantiene el gobierno de los Estados Unidos contra nuestro país desde hace casi siete décadas, con el fin de asfixiarnos económicamente y dest",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/13/declaracion-de-la-union-nacional-de-juristas-de-cuba-en-el-vi-simposio-nacional-de-asesoramiento-legal/",
-      "destacada": false,
-      "tema": "declaración",
-      "fecha": "Fri, 13 Nov 2026 17:27:47 +0000",
-      "id": 18
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -248,33 +430,20 @@
       "destacada": false,
       "tema": "dignos",
       "fecha": "Fri, 13 Nov 2026 17:02:18 +0000",
-      "id": 19
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Trump vuelve a amenazar con una intervención militar contra Cuba antes de 2029",
-      "resumen": "El presidente de Estados Unidos, Donald Trump, nuevamente amenazó con lanzar una intervención militar contra Cuba antes de que finalice su segundo mandato, que concluye en 2029. El gobierno cubano ha reiterado en diversas oportunidades, su rechazo a cualquier injerencia y ha denunciado el impacto de",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/13/trump-vuelve-a-amenazar-con-una-intervencion-militar-contra-cuba-antes-de-2029/",
-      "destacada": false,
-      "tema": "trump",
-      "fecha": "Fri, 13 Nov 2026 16:07:19 +0000",
-      "id": 20
+      "id": 33
     },
     {
       "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba golea 7-1 a Bonaire en La Polar",
-      "resumen": "Cuba necesitaba goles y a eso salió este jueves, en el Estadio La Polar de La Habana frente a Bonaire. Los Leones del Caribe firmaron una victoria contundente de 7-1, en la Liga de Naciones de Concacaf 2026-2027, con una segunda parte arrolladora que dejó sin respuesta al conjunto visitante. The pos",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 5:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/13/cuba-golea-7-1-a-bonaire-en-la-polar/",
+      "enlace_original": "https://www.martinoticias.com/a/483102.html",
       "destacada": false,
-      "tema": "golea",
-      "fecha": "Fri, 13 Nov 2026 15:58:12 +0000",
-      "id": 21
+      "tema": "noticiero",
+      "fecha": "Fri, 13 Nov 2026 17:00:30 -0500",
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -287,98 +456,7 @@
       "destacada": false,
       "tema": "promueven",
       "fecha": "Fri, 13 Nov 2026 15:56:23 +0000",
-      "id": 22
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Este viernes en la Mesa Redonda: Las transformaciones en el sector del Turismo",
-      "resumen": "El ministro del Turismo y otros directivos del sector, comparecerán en la Mesa Redonda para explicar las transformaciones económicas y sociales en el sector y cómo se están aplicando. El programa se transmitirá en vivo y en directo, desde la 7 pm, por Cubavisión, Cubavisión Internacional, Canal Cari",
-      "imagen_url": "",
-      "enlace_original": "http://mesaredonda.cubadebate.cu/noticias/2026/11/13/este-viernes-en-la-mesa-redonda-las-transformaciones-en-el-sector-del-turismo/",
-      "destacada": false,
-      "tema": "viernes",
-      "fecha": "Fri, 13 Nov 2026 15:54:56 +0000",
-      "id": 23
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Medidas organizativas con motivo de Maracuba y Marabana",
-      "resumen": "La Comisión Provincial de Seguridad Vial de La Habana informa que con motivo de realizarse la carrera popular Maracuba y el internacional Marabana con maratón y media maratón los días 14 y 15 de noviembre respectivamente, se aplicarán medidas organizativas para garantizar la seguridad vial durante e",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/medidas-organizativas-con-motivo-de-maracuba-y-marabana/",
-      "destacada": false,
-      "tema": "medidas",
-      "fecha": "Fri, 13 Nov 2026 15:35:28 +0000",
-      "id": 24
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba, entre los países con mayor tasa de detección de lepra en la región",
-      "resumen": "Cuba registró al menos 124 diagnósticos de lepra en 2025, incluidos cinco menores de edad, según la OMS, una cifra que sitúa a la isla entre los países con mayor tasa de detección en América Latina y el Caribe y reaviva las alertas sobre el estado sanitario y epidemiológico del país.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-entre-los-pa%c3%adses-con-mayor-tasa-de-detecci%c3%b3n-de-lepra-en-la-regi%c3%b3n/484183.html",
-      "destacada": false,
-      "tema": "países",
-      "fecha": "Fri, 13 Nov 2026 14:59:21 -0500",
-      "id": 25
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Refuerzan sus vínculos los partidos comunistas de Cuba y Vietnam",
-      "resumen": "Existe confianza en que la presencia de la comitiva en La Habana contribuirá al fortalecimiento de los históricos lazos de hermandad y cooperación entre ambos pueblos y partidos, inspirados en la amistad de los líderes históricos de Cuba y Vietnam, Comandante en Jefe Fidel Castro Ruz y Ho Chi Minh, ",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261113/refuerzan-sus-vinculos-los-partidos-comunistas-de-cuba-y-vietnam/",
-      "destacada": false,
-      "tema": "refuerzan",
-      "fecha": "Fri, 13 Nov 2026 14:55:50 +0000",
-      "id": 26
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero Martí Noticias",
-      "resumen": "-Asegura el presidente Donald Trump que desea \"resolver el tema de Cuba\" antes de dejar la Casa Blanca. -Eddy Ceballos envía una carta a su madre desde prisión.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/noticiero-mart%c3%ad-noticias/484181.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Fri, 13 Nov 2026 14:51:57 -0500",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las noticias como son",
-      "resumen": "Amado Gil y José Luis Ramos, en Tertulia con Alejandro Tur Valladares y Vladimir Turró, abordan las mas recientes amenazas que recibió Turró a manos de agentes del G-2. ¿Purga de dirigentes en Cuba?, ya van tres gobernadores y un intendente. MINREX responde al G-7 que pidió democracia en Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/las-noticias-como-son/484188.html",
-      "destacada": false,
-      "tema": "noticias",
-      "fecha": "Fri, 13 Nov 2026 14:49:56 -0500",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/483081.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Fri, 13 Nov 2026 14:00:00 -0500",
-      "id": 29
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -391,20 +469,20 @@
       "destacada": false,
       "tema": "comunicación",
       "fecha": "Fri, 13 Nov 2026 14:00:00 GMT",
-      "id": 30
+      "id": 36
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
+      "fuente": "https://giron.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "Llega a Cuba el tercer vuelo de ayuda humanitaria para la diócesis de Pinar del Río",
-      "resumen": "Un nuevo cargamento procedente de EEUU, canalizado a través de Cáritas Cuba, llegó este jueves al Aeropuerto Internacional José Martí para asistir a las familias más vulnerables de la Diócesis de Pinar del Río.",
+      "titulo": "Julio Germán, el Gigante de Cárdenas, siembra pelota",
+      "resumen": "El Gigante de Cárdenas volvió a pisar la grama del Victoria de Girón. Julio Germán Fernández, gloria del béisbol cubano y matancero, visitó el estadio este miércoles.",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/llega-a-cuba-el-tercer-vuelo-de-ayuda-humanitaria-para-la-di%c3%b3cesis-de-pinar-del-r%c3%ado/484182.html",
+      "enlace_original": "https://giron.cu/2026/11/13/julio-german-gigante-cardenas/",
       "destacada": false,
-      "tema": "llega",
-      "fecha": "Fri, 13 Nov 2026 13:44:08 -0500",
-      "id": 31
+      "tema": "julio",
+      "fecha": "Fri, 13 Nov 2026 13:50:00 +0000",
+      "id": 37
     },
     {
       "categoria": "economia",
@@ -417,7 +495,7 @@
       "destacada": false,
       "tema": "duplica",
       "fecha": "Fri, 13 Nov 2026 13:43:04 +0000",
-      "id": 32
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -430,7 +508,7 @@
       "destacada": false,
       "tema": "cubalex",
       "fecha": "Fri, 13 Nov 2026 13:37:41 +0100",
-      "id": 33
+      "id": 39
     },
     {
       "categoria": "transporte",
@@ -443,7 +521,7 @@
       "destacada": false,
       "tema": "lluvia",
       "fecha": "Fri, 13 Nov 2026 13:30:00 GMT",
-      "id": 34
+      "id": 40
     },
     {
       "categoria": "economia",
@@ -456,7 +534,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 13 Nov 2026 13:02:00 GMT",
-      "id": 35
+      "id": 41
     },
     {
       "categoria": "economia",
@@ -469,7 +547,7 @@
       "destacada": false,
       "tema": "premio",
       "fecha": "Fri, 13 Nov 2026 12:31:26 +0000",
-      "id": 36
+      "id": 42
     },
     {
       "categoria": "politica",
@@ -482,7 +560,7 @@
       "destacada": false,
       "tema": "problema",
       "fecha": "Fri, 13 Nov 2026 12:11:22 -0500",
-      "id": 37
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -495,7 +573,7 @@
       "destacada": false,
       "tema": "gonzalo",
       "fecha": "Fri, 13 Nov 2026 11:29:45 +0100",
-      "id": 38
+      "id": 44
     },
     {
       "categoria": "politica",
@@ -508,20 +586,7 @@
       "destacada": false,
       "tema": "sostuvo",
       "fecha": "Fri, 13 Nov 2026 11:11:22 -0500",
-      "id": 39
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "El giro avileño que inyecta recursos al sector azucarero",
-      "resumen": "Ciego de Ávila siembra tabaco en áreas cañeras para sortear la asfixia económica del bloqueo: más de 1 500 trabajadores recuperan empleo",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-11-13/el-giro-avileno-que-inyecta-recursos-al-sector-azucarero-13-11-2026-09-11-33",
-      "destacada": false,
-      "tema": "avileño",
-      "fecha": "Fri, 13 Nov 2026 09:11:33 -0500",
-      "id": 40
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -534,7 +599,7 @@
       "destacada": false,
       "tema": "llamas",
       "fecha": "Fri, 13 Nov 2026 09:11:11 -0500",
-      "id": 41
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -547,7 +612,7 @@
       "destacada": false,
       "tema": "petición",
       "fecha": "Fri, 13 Nov 26 08:44:00 +0100",
-      "id": 42
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -560,7 +625,7 @@
       "destacada": false,
       "tema": "organizadores",
       "fecha": "Fri, 13 Nov 26 08:43:00 +0100",
-      "id": 43
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -573,7 +638,7 @@
       "destacada": false,
       "tema": "violencia",
       "fecha": "Fri, 13 Nov 26 08:43:00 +0100",
-      "id": 44
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -586,20 +651,7 @@
       "destacada": false,
       "tema": "sigue",
       "fecha": "Fri, 13 Nov 26 08:05:00 +0100",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Van tres los gobernadores cubanos sustituidos en cuatro días: ¿qué hay detrás, qué cambia?",
-      "resumen": "Más relevos de gobernadores sin un balance público de responsabilidades, mientras las #EncuestasDDC recogen críticas al inmovilismo y la corrupción.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794552667_69836.html",
-      "destacada": false,
-      "tema": "gobernadores",
-      "fecha": "Fri, 13 Nov 2026 07:51:07 +0100",
-      "id": 46
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -612,7 +664,7 @@
       "destacada": false,
       "tema": "farma",
       "fecha": "Fri, 13 Nov 26 06:52:00 +0100",
-      "id": 47
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -625,111 +677,7 @@
       "destacada": false,
       "tema": "desarrollo",
       "fecha": "Fri, 13 Nov 26 06:44:00 +0100",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba intercambia con empresariado español sobre nuevas medidas para la inversión",
-      "resumen": "Madrid, 12 nov (Prensa Latina) Cuba intercambió hoy con decenas de empresarios españoles de ma...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126061-cuba-intercambia-con-empresariado-espanol-sobre-nuevas-medidas-para-la-inversion.jpg?t=1794548654",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261113/126061/126061-cuba-intercambia-con-empresariado-espanol-sobre-nuevas-medidas-para-la-inversion",
-      "destacada": false,
-      "tema": "intercambia",
-      "fecha": "Fri, 13 Nov 26 06:43:00 +0100",
-      "id": 49
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Canciller cubano concluye visita a China con énfasis en la cooperación económica",
-      "resumen": "Beijing, 13 nov (Prensa Latina) El canciller cubano, Bruno Rodríguez, concluyó hoy una visit...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126060-canciller-cubano-concluye-visita-a-china-con-enfasis-en-la-cooperacion-economica.jpg?t=1794548414",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261113/126060/126060-canciller-cubano-concluye-visita-a-china-con-enfasis-en-la-cooperacion-economica",
-      "destacada": false,
-      "tema": "canciller",
-      "fecha": "Fri, 13 Nov 26 06:36:00 +0100",
-      "id": 50
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "«Calibán en la cultura de nuestra América»: un homenaje a Roberto Fernández Retamar y a su pensamiento anticolonial (+PDF)",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126067-caliban-en-la-cultura-de-nuestra-america-un-homenaje-a-roberto-fernandez-retamar-y-a-su-pensamiento-anticolonial-pdf.jpg?t=1794552719",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261113/126067/126067-caliban-en-la-cultura-de-nuestra-america-un-homenaje-a-roberto-fernandez-retamar-y-a-su-pensamiento-anticolonial-pdf",
-      "destacada": false,
-      "tema": "calibán",
-      "fecha": "Fri, 13 Nov 26 06:00:00 +0100",
-      "id": 51
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La resolución de Rusia condenando la 'glorificación del nazismo' que la ONU aprobó, ¿es un pretexto?",
-      "resumen": "El régimen de #Cuba vota a favor de un texto presentado en la #ONU por #Rusia, #Bielorrusia, #CoreaDelNorte y #Laos que nace lastrado por una enmienda que desnuda la hipocresía de Moscú.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/internacional/1794529157_69833.html",
-      "destacada": false,
-      "tema": "resolución",
-      "fecha": "Fri, 13 Nov 2026 01:19:17 +0100",
       "id": 52
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "'Quiero resolver el asunto de Cuba antes de irme', afirma Donald Trump",
-      "resumen": "El presidente de #EEUU afirma que \"consideraría\" el uso de la fuerza militar para liberar #Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794522930_69834.html",
-      "destacada": false,
-      "tema": "quiero",
-      "fecha": "Thu, 12 Nov 2026 23:35:30 +0100",
-      "id": 53
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Carta abierta de la sociedad civil a la Federación de Mujeres Cubanas",
-      "resumen": "Justicia 11J y otras organizaciones de la sociedad civil exigen a la Federación de Mujeres Cubanas que se pronuncie contra la persecución y las represalias sufridas por las mujeres familiares de presos políticos.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1794521965_69832.html",
-      "destacada": false,
-      "tema": "carta",
-      "fecha": "Thu, 12 Nov 2026 23:19:25 +0100",
-      "id": 54
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Por qué el régimen cubano insiste en hostigar a las Damas de Blanco?",
-      "resumen": "Cubalex documenta 275 acciones represivas contra Berta Soler entre 2022 y 2026 y revela cómo el régimen cubano ha transformado sus métodos de hostigamiento contra las Damas de Blanco.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1794514419_69831.html",
-      "destacada": false,
-      "tema": "régimen",
-      "fecha": "Thu, 12 Nov 2026 21:13:39 +0100",
-      "id": 55
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Un premio para contar una historia colectiva",
-      "resumen": "El reconocimiento al trabajo de elTOQUE visibiliza los desafíos del periodismo cubano en el exilio: censura, represalias, restricciones de ingresos y distancia de la isla.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/2026_11_12_jasan_a9a24b1569.jpg",
-      "enlace_original": "https://eltoque.com/un-premio-para-contar-una-historia-colectiva",
-      "destacada": false,
-      "tema": "premio",
-      "fecha": "Thu, 12 Nov 2026 21:00:00 GMT",
-      "id": 56
     }
   ]
 }
