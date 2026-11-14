@@ -1,46 +1,150 @@
 {
   "fecha": "2026-11-14",
-  "hora": "15:25",
-  "total": 43,
+  "hora": "20:15",
+  "total": 38,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Cojea la acusación del régimen cubano contra Henry Constantin?",
+      "resumen": "El abogado Raudiel Peña, de Cubalex, y el experto de DIARIO DE CUBA Edel González Jiménez opinan sobre la presión del régimen cubano para que Henry Constantin abandone el país, tras mantenerlo en prisión por casi dos meses por presunta desobediencia.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1794683828_69857.html",
+      "destacada": true,
+      "tema": "cojea",
+      "fecha": "Sat, 14 Nov 2026 20:17:08 +0100",
+      "id": 1
+    },
     {
       "categoria": "politica",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba felicita al Partido Comunista de España",
-      "resumen": "La Habana, 14 nov (Prensa Latina) El presidente de Cuba, Miguel Díaz-Canel, envió hoy cálidas felicitaciones al Partido Comunista de España, en ocasión de conmemorarse su 105 aniversario. The post Cuba felicita al Partido Comunista de España first appeared on Noticias Prensa Latina.",
+      "titulo": "Primer ministro cubano ve alentadoras las transformaciones económicas",
+      "resumen": "Camagüey , Cuba, 14 nov (Prensa Latina) El primer ministro de Cuba, Manuel Marrero, calificó de muy alentadora la implementación de las transformaciones económicas y sociales en el país, tras presidir el Consejo Provincial Extraordinario de Gobierno en Camagüey. The post Primer ministro cubano ve al",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/14/cuba-felicita-al-partido-comunista-de-espana/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/14/primer-ministro-cubano-ve-alentadoras-las-transformaciones-economicas/",
       "destacada": true,
-      "tema": "felicita",
-      "fecha": "Sat, 14 Nov 2026 16:07:42 +0000",
-      "id": 1
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Estrellas de la danza cubana lucen arte en San Petersburgo, Rusia",
-      "resumen": "La Habana, 14 nov (Prensa Latina) La primera bailarina y directora general del Ballet Nacional de Cuba (BNC), Viengsay Valdés, y dos figuras de la compañía lucen hoy su arte en el Festival Concurso Panruso “Joven Coreógrafo”, celebrado en la ciudad rusa de San Petersburgo. The post Estrellas de la d",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/14/estrellas-de-la-danza-cubana-lucen-arte-en-san-petersburgo-rusia/",
-      "destacada": true,
-      "tema": "estrellas",
-      "fecha": "Sat, 14 Nov 2026 16:06:13 +0000",
+      "tema": "primer",
+      "fecha": "Sat, 14 Nov 2026 19:56:23 +0000",
       "id": 2
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Alexander Abreu y Havana D’ Primera conquistan Panamá",
-      "resumen": "Ciudad de Panamá, 14 nov (Prensa Latina) El virtuoso trompetista, compositor y cantante cubano Alexander Abreu junto a su emblemática orquesta Havana D'Primera hicieron vibrar a Panamá en un multitudinario concierto celebrado en un céntrico mercado de la capital, trascendió hoy. The post Alexander A",
+      "titulo": "Cuba continuará solidaria pese a bloqueo, embajador en Pakistán",
+      "resumen": "Islamabad, 14 nov (Prensa Latina) El embajador Damián Cordero aseguró que, pese a las difíciles circunstancias por el cruel bloqueo, económico, comercial y financiero de Estados Unidos, Cuba continuará solidaria y también agradecida con el respaldo que recibe. The post Cuba continuará solidaria pese",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/14/alexander-abreu-y-havana-d-primera-conquistan-panama/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/14/cuba-continuara-solidaria-pese-a-bloqueo-embajador-en-pakistan/",
       "destacada": true,
-      "tema": "alexander",
-      "fecha": "Sat, 14 Nov 2026 15:52:40 +0000",
+      "tema": "continuará",
+      "fecha": "Sat, 14 Nov 2026 19:44:53 +0000",
       "id": 3
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Sin gas ni electricidad, las cocinas de La Habana Vieja se apagan",
+      "resumen": "'Paladares' y cafeterías del centro histórico permanecen cerradas este sábado o solo ofrecen bebidas y panes",
+      "imagen_url": "https://static.14ymedio.com/clip/16c7792f-5100-4a6c-9139-059357cf135c_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/gas-electricidad-cocinas-habana-vieja_1_1133237.html",
+      "destacada": true,
+      "tema": "electricidad",
+      "fecha": "Sat, 14 Nov 2026 19:33:15 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Estudiantes de Sri Lanka graduados en Cuba donarán 160 kilogramos de medicamentos a hospitales de la isla",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-14-u1-e208512-s27061-nid345723-estudiantes-sri-lanka-graduados-cuba-donaran-160",
+      "destacada": true,
+      "tema": "estudiantes",
+      "fecha": "Sat, 14 Nov 2026 19:31:30 +0100",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Calle 232 conquista Moscú: cine cubano gana el Premio Mariposa de Diamante",
+      "resumen": "La película de Rudy Mora suma un nuevo galardón internacional y consolida la presencia del cine cubano en circuitos euroasiáticos La entrada Calle 232 conquista Moscú: cine cubano gana el Premio Mariposa de Diamante se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/calle-232-conquista-moscu-cine-cubano-gana-el-premio-mariposa-de-diamante/",
+      "destacada": false,
+      "tema": "calle",
+      "fecha": "Sat, 14 Nov 2026 19:20:01 +0000",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba golea 7-1 a Bonaire y queda a un paso del ascenso en la Liga de Naciones de Concacaf",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-14-u1-e199894-s27061-nid345722-cuba-golea-7-1-bonaire-queda-paso-ascenso-liga",
+      "destacada": false,
+      "tema": "golea",
+      "fecha": "Sat, 14 Nov 2026 19:09:38 +0100",
+      "id": 7
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba enfrentará cualquier intento de agresión",
+      "resumen": "Nuestro país es una nación de paz, que da solidaridad; no es una amenaza para la seguridad de ninguna nación del mundo. El Presidente del Consejo de Defensa Nacional, Miguel Díaz-Canel Bermúdez, denunció las reiteradas y recientes declaraciones de voceros y políticos de EE.UU. que alientan y ratific",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/cuba-enfrentara-cualquier-intento-de-agresion/",
+      "destacada": false,
+      "tema": "enfrentará",
+      "fecha": "Sat, 14 Nov 2026 18:02:41 +0000",
+      "id": 8
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Decidir primero, preguntar después: ¿para qué pide el Gobierno cubano la opinión de los ciudadanos?",
+      "resumen": "La consulta popular sobre la reforma económica lanzada por el régimen de #Cuba a meses del anuncio de las medidas, ¿busca corregir errores, preparar nuevos ajustes o lograr respaldo?",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794675615_69835.html",
+      "destacada": false,
+      "tema": "decidir",
+      "fecha": "Sat, 14 Nov 2026 18:00:15 +0100",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Una mirada a la arquitectura de La Habana",
+      "resumen": "Este 14 de noviembre tuvo lugar, en la Calle de Madera de la Plaza de Armas, la presentación del libro “La casa cubana. Tomo II. La criollización de los modelos hispánicos”, de la Dra. Alicia García Santana y fotografías de Julio Larramendi y Carlos García Santana La entrada Una mirada a la arquitec",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/una-mirada-a-la-arquitectura-de-la-habana/",
+      "destacada": false,
+      "tema": "mirada",
+      "fecha": "Sat, 14 Nov 2026 17:05:10 +0000",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Maratón de La Habana llega a su 40ª edición con pocos patrocinadores y menos corredores extranjeros",
+      "resumen": "Aunque el director de la Marabana anunció una “cifra récord” de participantes cubanos, solo se esperan unos 60 de otros países",
+      "imagen_url": "https://static.14ymedio.com/clip/2974c1b8-4daf-46e3-95cb-d270eeb05d2e_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/maraton-habana-llega-40a-edicion_1_1133219.html",
+      "destacada": false,
+      "tema": "maratón",
+      "fecha": "Sat, 14 Nov 2026 15:40:55 +0000",
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -50,10 +154,10 @@
       "resumen": "Canal Caribe - El Sexto Simposio de Asesoramiento Jurídico y Derecho Empresarial concluyó este jueve...",
       "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126086-juristas-cubanos-analizan-transformaciones-economicas-y-sociales.jpg?t=1794666979",
       "enlace_original": "https://www.cubainformacion.tv/cuba/20261114/126086/126086-juristas-cubanos-analizan-transformaciones-economicas-y-sociales",
-      "destacada": true,
+      "destacada": false,
       "tema": "juristas",
       "fecha": "Sat, 14 Nov 26 15:33:00 +0100",
-      "id": 4
+      "id": 12
     },
     {
       "categoria": "politica",
@@ -63,10 +167,10 @@
       "resumen": "Prensa Latina - Vídeo: Canal Caribe - El canciller cubano, Bruno Rodríguez, rindió hoy honores al Pr...",
       "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126085-canciller-cubano-rinde-honores-a-presidente-ho-chi-minh-en-vietnam.jpg?t=1794666524",
       "enlace_original": "https://www.cubainformacion.tv/cuba/20261114/126085/126085-canciller-cubano-rinde-honores-a-presidente-ho-chi-minh-en-vietnam",
-      "destacada": true,
+      "destacada": false,
       "tema": "canciller",
       "fecha": "Sat, 14 Nov 26 15:27:00 +0100",
-      "id": 5
+      "id": 13
     },
     {
       "categoria": "politica",
@@ -79,20 +183,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Sat, 14 Nov 26 15:24:00 +0100",
-      "id": 6
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Estudiantes de Sri Lanka graduados en Cuba donarán medicamentos para hospitales del país",
-      "resumen": "Por Nubia Piqueras Grosso - Cubadebate - Próximamente llegarán a Cuba 160 kilos de medicamentos esen...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126083-estudiantes-de-sri-lanka-graduados-en-cuba-donaran-medicamentos-para-hospitales-del-pais.jpg?t=1794666237",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261114/126083/126083-estudiantes-de-sri-lanka-graduados-en-cuba-donaran-medicamentos-para-hospitales-del-pais",
-      "destacada": false,
-      "tema": "estudiantes",
-      "fecha": "Sat, 14 Nov 26 15:22:00 +0100",
-      "id": 7
+      "id": 14
     },
     {
       "categoria": "politica",
@@ -105,7 +196,33 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sat, 14 Nov 26 15:19:00 +0100",
-      "id": 8
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Turismo cubano: Nuevas reglas para transformar la gestión y abrir oportunidades de negocio",
+      "resumen": "Por Randy Alonso Falcón, Oscar Figueredo Reinaldo, Ana Álvarez Guerrero - Cubadebate - Vídeo: Canal ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126081-turismo-cubano-nuevas-reglas-para-transformar-la-gestion-y-abrir-oportunidades-de-negocio.jpg?t=1794665940",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261114/126081/126081-turismo-cubano-nuevas-reglas-para-transformar-la-gestion-y-abrir-oportunidades-de-negocio",
+      "destacada": false,
+      "tema": "turismo",
+      "fecha": "Sat, 14 Nov 26 15:15:00 +0100",
+      "id": 16
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"La gente salió con cazuelas a gritar\": protestas en Boyeros y cortes de 44 horas en provincias de Cuba",
+      "resumen": "Residentes de Boyeros y otras zonas de Cuba protestaron este viernes por apagones de más de 30 horas, en medio de una crisis eléctrica que dejó sin servicio a miles de personas en varias provincias y provocó manifestaciones, quema de escombros y consignas contra el gobierno.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/la-gente-sali%c3%b3-con-cazuelas-a-gritar-protestas-en-boyeros-y-cortes-de-44-horas-en-provincias-de-cuba/484274.html",
+      "destacada": false,
+      "tema": "gente",
+      "fecha": "Sat, 14 Nov 2026 15:03:31 -0500",
+      "id": 17
     },
     {
       "categoria": "transporte",
@@ -118,7 +235,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Sat, 14 Nov 2026 15:00:00 +0100",
-      "id": 9
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -131,7 +248,7 @@
       "destacada": false,
       "tema": "argentinos",
       "fecha": "Sat, 14 Nov 26 14:59:00 +0100",
-      "id": 10
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -144,7 +261,20 @@
       "destacada": false,
       "tema": "brasil",
       "fecha": "Sat, 14 Nov 26 14:51:00 +0100",
-      "id": 11
+      "id": 20
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Un símbolo comunista se evapora en la Cuba de GAESA: \"La libreta\"",
+      "resumen": "La libreta de abastecimiento, durante décadas símbolo del sistema comunista cubano, ha quedado desmantelada en la práctica en medio de una grave crisis alimentaria, precios inalcanzables y una pobreza extendida que hoy deja a millones de cubanos sin acceso regular a comida básica.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/un-s%c3%admbolo-comunista-se-evapora-en-la-cuba-de-gaesa-la-libreta/484275.html",
+      "destacada": false,
+      "tema": "símbolo",
+      "fecha": "Sat, 14 Nov 2026 14:47:00 -0500",
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -157,33 +287,7 @@
       "destacada": false,
       "tema": "debaten",
       "fecha": "Sat, 14 Nov 26 14:38:00 +0100",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Rusia ratifica su apoyo a Cuba y reclama el fin del bloqueo estadounidense",
-      "resumen": "Rusia reiteró su respaldo político y material a Cuba y reclamó el fin inmediato del bloqueo económico, comercial, financiero y de combustible impuesto por Estados Unidos, durante una conversación telefónica sostenida el 13 de noviembre entre representantes de las cancillerías de ambos países. The po",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/14/rusia-ratifica-su-apoyo-a-cuba-y-reclama-el-fin-del-bloqueo-estadounidense/",
-      "destacada": false,
-      "tema": "rusia",
-      "fecha": "Sat, 14 Nov 2026 14:30:56 +0000",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "El niño «muy fuerte» abriría la puerta al frío polar sobre Cuba",
-      "resumen": "El evento El Niño y el debilitamiento del Vórtice Polar Ártico auguran un semestre invernal sobre Cuba: más frentes fríos, mínimas por debajo del promedio y riesgo de tornados entre febrero y marzo en occidente y centro",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/11/14/nino-frio-polar-sobre-cuba/",
-      "destacada": false,
-      "tema": "fuerte",
-      "fecha": "Sat, 14 Nov 2026 14:26:32 +0000",
-      "id": 14
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -196,33 +300,33 @@
       "destacada": false,
       "tema": "yordan",
       "fecha": "Sat, 14 Nov 2026 14:18:47 +0100",
-      "id": 15
+      "id": 23
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Protestas y apagones de más de 40 horas en Cuba",
+      "resumen": "Protestas en La Habana y apagones de hasta 44 horas en provincias de Cuba por déficit eléctrico.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/protestas-y-apagones-de-mas-de-40-horas-en-cuba/484272.html",
+      "destacada": false,
+      "tema": "apagones",
+      "fecha": "Sat, 14 Nov 2026 13:38:52 -0500",
+      "id": 24
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba solo cumplió el 28,8% de su plan anual de turismo al cierre de octubre",
-      "resumen": "",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Diabetes: actuar a tiempo para evitar complicaciones",
+      "resumen": "A propósito del Día Mundial de la Diabetes, el doctor Erick Robles Torres, director del Instituto de Endocrinología y jefe del Grupo Nacional de la especialidad, explica los desafíos de la atención a estos pacientes en Cuba, las estrategias de prevención y las investigaciones que se desarrollan en e",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-14-u1-e208574-s27061-nid345699-cuba-solo-cumplio-288-plan-anual-turismo-al-cierre",
+      "enlace_original": "http://www.granma.cu/salud/2026-11-14/diabetes-actuar-a-tiempo-para-evitar-complicaciones-14-11-2026-13-11-44",
       "destacada": false,
-      "tema": "cumplió",
-      "fecha": "Sat, 14 Nov 2026 14:03:14 +0100",
-      "id": 16
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Condenan a seis años y medio de cárcel al conductor ebrio que mató a una cubana en Kendall: «Te perdono», le dijo la madre",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-14-u1-e207888-s27061-nid345695-condenan-seis-anos-medio-carcel-al-conductor-ebrio",
-      "destacada": false,
-      "tema": "condenan",
-      "fecha": "Sat, 14 Nov 2026 13:16:23 +0100",
-      "id": 17
+      "tema": "diabetes",
+      "fecha": "Sat, 14 Nov 2026 13:11:44 -0500",
+      "id": 25
     },
     {
       "categoria": "politica",
@@ -235,7 +339,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sat, 14 Nov 2026 13:09:00 +0000",
-      "id": 18
+      "id": 26
     },
     {
       "categoria": "politica",
@@ -243,12 +347,12 @@
       "fuente_tipo": "alternativa",
       "titulo": "Moscú reitera a Cuba su \"firme solidaridad y apoyo\" en \"tiempos tan difíciles\"",
       "resumen": "El viceministro ruso de Exteriores Serguéi Riabkov expuso la disposición de su país a “seguir brindando a La Habana la necesaria asistencia política y financiera”",
-      "imagen_url": "https://static.14ymedio.com/clip/78a62e3a-047f-4690-a6f1-57ae942b1c22_source-aspect-ratio_default_0.jpg",
+      "imagen_url": "https://static.14ymedio.com/clip/648fef5a-156b-4c61-98d2-3a21a919a580_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/internacional/moscu-reitera-cuba-firme-solidaridad_1_1133212.html",
       "destacada": false,
       "tema": "moscú",
       "fecha": "Sat, 14 Nov 2026 12:54:31 +0000",
-      "id": 19
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -261,7 +365,20 @@
       "destacada": false,
       "tema": "atentado",
       "fecha": "Sat, 14 Nov 2026 12:35:50 +0100",
-      "id": 20
+      "id": 28
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "De cara al sol",
+      "resumen": "“De cara al sol” es una tribuna martiana que da voz a quienes bajo el régimen dictatorial cubano. Para Cuba que sufre, nuestra primera palabra; para quienes dentro de Cuba son llevados a oscuras prisiones, el primer pensamiento.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/483196.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Sat, 14 Nov 2026 12:30:00 -0500",
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -274,20 +391,7 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Sat, 14 Nov 2026 12:21:21 +0100",
-      "id": 21
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "EE UU devuelve a Cuba a seis balseros rescatados cerca de los Cayos de Florida",
-      "resumen": "La Guardia Costera interceptó a los migrantes cuando pedían auxilio desde una precaria embarcación de madera",
-      "imagen_url": "https://static.14ymedio.com/clip/5518f25f-b444-4025-ac70-cd31ac80931e_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/migracion/ee-uu-devuelve-seis-balseros-cubanos-cayos-florida_1_1133204.html",
-      "destacada": false,
-      "tema": "devuelve",
-      "fecha": "Sat, 14 Nov 2026 12:08:25 +0000",
-      "id": 22
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -300,20 +404,20 @@
       "destacada": false,
       "tema": "muere",
       "fecha": "Sat, 14 Nov 2026 11:38:12 +0000",
-      "id": 23
+      "id": 31
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Abriendo Espacios",
-      "resumen": "Un programa dedicado a conocer la realidad de la violencia de género en Cuba. Una espacio para dar voz a la mujer cubana.",
+      "categoria": "politica",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "‎Cuba denuncia impacto del bloqueo estadounidense en el turismo ‎",
+      "resumen": "El ministro de Turismo de Cuba, Juan Carlos García, denunció las afectaciones que causa el bloqueo estadounidense al sector, un área clave en los últimos años para el desarrollo socioeconómico del país",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/483186.html",
+      "enlace_original": "http://www.granma.cu/cuba/2026-11-14/cuba-denuncia-impacto-del-bloqueo-estadounidense-en-el-turismo-14-11-2026-10-11-51",
       "destacada": false,
-      "tema": "abriendo",
-      "fecha": "Sat, 14 Nov 2026 09:00:00 -0500",
-      "id": 24
+      "tema": "denuncia",
+      "fecha": "Sat, 14 Nov 2026 10:11:51 -0500",
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -326,33 +430,7 @@
       "destacada": false,
       "tema": "reinauguran",
       "fecha": "Sat, 14 Nov 26 07:00:00 +0100",
-      "id": 25
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El dólar no afloja y el euro pierde fuerza: así cierra el mercado informal en Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-14-u1-e209395-s27061-nid345690-dolar-afloja-euro-pierde-fuerza-asi-cierra-mercado",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Sat, 14 Nov 2026 04:01:52 +0100",
-      "id": 26
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Integra Viengsay Valdés jurado de concurso de coreografía en Rusia",
-      "resumen": "Viengsay Valdés, directora general y primera bailarina del Ballet Nacional de Cuba, forma parte del jurado del Festival Concurso Panruso “Joven Coreógrafo”, que tiene lugar en la Academia de Danza Boris Eifman, en San Petersburgo, Federación de Rusia, del 9 al 15 de noviembre, con el apoyo de la Fun",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/13/integra-viengsay-valdes-jurado-de-concurso-de-coreografia-en-rusia/",
-      "destacada": false,
-      "tema": "integra",
-      "fecha": "Sat, 14 Nov 2026 02:30:29 +0000",
-      "id": 27
+      "id": 33
     },
     {
       "categoria": "energia",
@@ -365,20 +443,7 @@
       "destacada": false,
       "tema": "producción",
       "fecha": "Sat, 14 Nov 2026 01:19:14 +0100",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Turismo cubano: Nuevas reglas para transformar la gestión y abrir oportunidades de negocio",
-      "resumen": "Las transformaciones económicas que se implementan en el sector turístico cubano buscan modificar las formas de gestión empresarial, ampliar las modalidades de inversión y negocio, incorporar nuevos actores económicos y otorgar mayor autonomía a las entidades que prestan servicios. El propósito es a",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/13/turismo-cubano-nuevas-reglas-para-transformar-la-gestion-y-abrir-oportunidades-de-negocio/",
-      "destacada": false,
-      "tema": "turismo",
-      "fecha": "Sat, 14 Nov 2026 00:54:22 +0000",
-      "id": 29
+      "id": 34
     },
     {
       "categoria": "energia",
@@ -391,7 +456,7 @@
       "destacada": false,
       "tema": "marco",
       "fecha": "Sat, 14 Nov 26 00:05:00 +0100",
-      "id": 30
+      "id": 35
     },
     {
       "categoria": "salud",
@@ -404,59 +469,20 @@
       "destacada": false,
       "tema": "mecanismos",
       "fecha": "Fri, 13 Nov 2026 23:31:02 +0100",
-      "id": 31
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Tres envíos en una semana: ¿por qué La Habana no habla de la ayuda humanitaria de EEUU?",
-      "resumen": "Tres vuelos con ayuda humanitaria de EEUU llegaron a Cuba en apenas cuatro días, pero la prensa oficial guarda silencio. ¿Por qué el régimen oculta unas donaciones que son imprescindibles para miles de cubanos?",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794608059_69848.html",
-      "destacada": false,
-      "tema": "envíos",
-      "fecha": "Fri, 13 Nov 2026 23:14:19 +0100",
-      "id": 32
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Dólar vs. bolsillo de los cubanos y el Aeropuerto José Martí sin turistas ni combustible",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794602881_69849.html",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Fri, 13 Nov 2026 21:48:01 +0100",
-      "id": 33
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Tribunal Provincial Popular de La Habana recibe calificación de conforme en supervisión del Tribunal Supremo Popular",
-      "resumen": "Durante la acción de control al Tribunal Provincial Popular de La Habana se revisaron más de 600 procesos judiciales. La visita incluyó los 15 tribunales municipales y las diez salas de justicia La entrada Tribunal Provincial Popular de La Habana recibe calificación de conforme en supervisión del Tr",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/tribunal-provincial-popular-de-la-habana-recibe-calificacion-de-conforme-en-supervision-del-tribunal-supremo-popular/",
-      "destacada": false,
-      "tema": "tribunal",
-      "fecha": "Fri, 13 Nov 2026 21:36:09 +0000",
-      "id": 34
+      "id": 36
     },
     {
       "categoria": "salud",
       "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "oficial",
       "titulo": "Colectivos santiagueros refuerzan seguridad y salud del trabajo",
-      "resumen": "Con la motivación de la Jornada Nacional de Seguridad y Salud del Trabajo, que se desarrolla durante todo noviembre, en centros laborales de la provincia de Santiago de Cuba refuerzan acciones a favor de la prevención de accidentes y la protección integral de los afiliados",
+      "resumen": "Con la motivación de la Jornada Nacional de Seguridad y Salud del Trabajo que se desarrolla durante todo noviembre, en centros laborales de la provincia de Santiago de Cuba refuerzan acciones a favor de la prevención de accidentes y la protección integral de los afiliados",
       "imagen_url": "",
       "enlace_original": "https://www.trabajadores.cu/20261113/colectivos-santiagueros-refuerzan-seguridad-y-salud-del-trabajo/",
       "destacada": false,
       "tema": "colectivos",
       "fecha": "Fri, 13 Nov 2026 21:30:06 +0000",
-      "id": 35
+      "id": 37
     },
     {
       "categoria": "energia",
@@ -469,98 +495,7 @@
       "destacada": false,
       "tema": "llega",
       "fecha": "Fri, 13 Nov 2026 20:40:14 +0000",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Habana celebrará su aniversario 507 con programa cultural y académico",
-      "resumen": "La capital cubana celebrará su aniversario 507 con un programa de actividades culturales, patrimoniales y académicas que tendrá lugar del 15 al 20 de noviembre, con propuestas destinadas a resaltar los valores históricos, arquitectónicos y culturales de la ciudad La entrada La Habana celebrará su an",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/la-habana-celebrara-su-aniversario-507-con-programa-cultural-y-academico/",
-      "destacada": false,
-      "tema": "habana",
-      "fecha": "Fri, 13 Nov 2026 20:34:57 +0000",
-      "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Aguas de La Habana informa sobre afectaciones en Cuenca Sur",
-      "resumen": "Como consecuencia de un disparo eléctrico total en Cuenca Sur en horas de la tarde-noche de este jueves, se generó un incremento en los niveles de salidero en el conducto principal de 78’’, siendo necesario intervenir en tres lugares del conducto. Debido a esto, se afecta el servicio de agua en los ",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/aguas-de-la-habana-informa-sobre-afectaciones-en-cuenca-sur/",
-      "destacada": false,
-      "tema": "aguas",
-      "fecha": "Fri, 13 Nov 2026 20:25:31 +0000",
       "id": 38
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Pastores evangélicos cubanos reciben ataques oficialistas por condecorar a Mike Hammer",
-      "resumen": "Los religiosos sostienen que el reconocimiento al jefe de la misión diplomática estadounidense fue un gesto de gratitud y rechazan las acusaciones de traición",
-      "imagen_url": "https://static.14ymedio.com/clip/73372c19-3847-4138-b49e-a80977c55014_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/pastores-evangelicos-cubanos-reciben-ataques_1_1133189.html",
-      "destacada": false,
-      "tema": "pastores",
-      "fecha": "Fri, 13 Nov 2026 19:56:42 +0000",
-      "id": 39
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Danza Contemporánea de Cuba inicia gira por Alemania",
-      "resumen": "La compañía dirigida por Miguel Iglesias se presentará en cinco ciudades",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261113/danza-contemporanea-de-cuba-inicia-gira-por-alemania/",
-      "destacada": false,
-      "tema": "danza",
-      "fecha": "Fri, 13 Nov 2026 19:27:39 +0000",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Secuestran y apuntan con una pistola a un periodista para que renuncie a 'CubaNet'",
-      "resumen": "Vladimir Turró Páez cuenta que agentes de la Seguridad del Estado lo llevaron a una zona de monte e intentaron obligarlo a grabar un video",
-      "imagen_url": "https://static.14ymedio.com/clip/0c0bde75-7ab9-4bac-95a2-4eaced8f9346_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/secuestran-apuntan-pistola-periodista-renuncie_1_1133177.html",
-      "destacada": false,
-      "tema": "secuestran",
-      "fecha": "Fri, 13 Nov 2026 18:22:27 +0000",
-      "id": 41
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.guerrillero.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Pinar del Río como centro del desarrollo",
-      "resumen": "Entre las temáticas discutidas en CE-GESTA 2026 estuvieron las transformaciones económicas y sociales del país, entendidas como una oportunidad para el desarrollo del cooperativismo en Cuba Con un firme llamado a potenciar el pensamiento científico, la innovación y la articulación territorial frente",
-      "imagen_url": "",
-      "enlace_original": "https://www.guerrillero.cu/pinar-del-rio-como-centro-del-desarrollo/",
-      "destacada": false,
-      "tema": "pinar",
-      "fecha": "Fri, 13 Nov 2026 18:00:00 +0000",
-      "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La subasta de humidores de Habanos registra su peor resultado en Macao",
-      "resumen": "La recaudación se desploma pese a celebrarse en uno de los mercados estratégicos para los puros cubanos de lujo",
-      "imagen_url": "https://static.14ymedio.com/clip/af951569-72bc-44a6-bcfc-c4b6396ae46d_source-aspect-ratio_default_0.png",
-      "enlace_original": "https://www.14ymedio.com/cuba/subasta-humidores-habanos-registra-peor_1_1133168.html",
-      "destacada": false,
-      "tema": "subasta",
-      "fecha": "Fri, 13 Nov 2026 17:42:13 +0000",
-      "id": 43
     }
   ]
 }
