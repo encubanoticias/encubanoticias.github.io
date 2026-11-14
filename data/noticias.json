@@ -1,8 +1,320 @@
 {
   "fecha": "2026-11-14",
-  "hora": "08:21",
-  "total": 51,
+  "hora": "15:25",
+  "total": 43,
   "noticias": [
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba felicita al Partido Comunista de España",
+      "resumen": "La Habana, 14 nov (Prensa Latina) El presidente de Cuba, Miguel Díaz-Canel, envió hoy cálidas felicitaciones al Partido Comunista de España, en ocasión de conmemorarse su 105 aniversario. The post Cuba felicita al Partido Comunista de España first appeared on Noticias Prensa Latina.",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/14/cuba-felicita-al-partido-comunista-de-espana/",
+      "destacada": true,
+      "tema": "felicita",
+      "fecha": "Sat, 14 Nov 2026 16:07:42 +0000",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Estrellas de la danza cubana lucen arte en San Petersburgo, Rusia",
+      "resumen": "La Habana, 14 nov (Prensa Latina) La primera bailarina y directora general del Ballet Nacional de Cuba (BNC), Viengsay Valdés, y dos figuras de la compañía lucen hoy su arte en el Festival Concurso Panruso “Joven Coreógrafo”, celebrado en la ciudad rusa de San Petersburgo. The post Estrellas de la d",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/14/estrellas-de-la-danza-cubana-lucen-arte-en-san-petersburgo-rusia/",
+      "destacada": true,
+      "tema": "estrellas",
+      "fecha": "Sat, 14 Nov 2026 16:06:13 +0000",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Alexander Abreu y Havana D’ Primera conquistan Panamá",
+      "resumen": "Ciudad de Panamá, 14 nov (Prensa Latina) El virtuoso trompetista, compositor y cantante cubano Alexander Abreu junto a su emblemática orquesta Havana D'Primera hicieron vibrar a Panamá en un multitudinario concierto celebrado en un céntrico mercado de la capital, trascendió hoy. The post Alexander A",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/14/alexander-abreu-y-havana-d-primera-conquistan-panama/",
+      "destacada": true,
+      "tema": "alexander",
+      "fecha": "Sat, 14 Nov 2026 15:52:40 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Juristas cubanos analizan transformaciones económicas y sociales",
+      "resumen": "Canal Caribe - El Sexto Simposio de Asesoramiento Jurídico y Derecho Empresarial concluyó este jueve...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126086-juristas-cubanos-analizan-transformaciones-economicas-y-sociales.jpg?t=1794666979",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261114/126086/126086-juristas-cubanos-analizan-transformaciones-economicas-y-sociales",
+      "destacada": true,
+      "tema": "juristas",
+      "fecha": "Sat, 14 Nov 26 15:33:00 +0100",
+      "id": 4
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Canciller cubano rinde honores a Presidente Ho Chi Minh en Vietnam",
+      "resumen": "Prensa Latina - Vídeo: Canal Caribe - El canciller cubano, Bruno Rodríguez, rindió hoy honores al Pr...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126085-canciller-cubano-rinde-honores-a-presidente-ho-chi-minh-en-vietnam.jpg?t=1794666524",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261114/126085/126085-canciller-cubano-rinde-honores-a-presidente-ho-chi-minh-en-vietnam",
+      "destacada": true,
+      "tema": "canciller",
+      "fecha": "Sat, 14 Nov 26 15:27:00 +0100",
+      "id": 5
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Trump vuelve a amenazar con una intervención militar contra Cuba antes de 2029",
+      "resumen": "Cubadebate - El presidente de Estados Unidos, Donald Trump, nuevamente amenazó con lanzar una interv...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126084-trump-vuelve-a-amenazar-con-una-intervencion-militar-contra-cuba-antes-de-2029.jpg?t=1794666344",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261114/126084/126084-trump-vuelve-a-amenazar-con-una-intervencion-militar-contra-cuba-antes-de-2029",
+      "destacada": false,
+      "tema": "trump",
+      "fecha": "Sat, 14 Nov 26 15:24:00 +0100",
+      "id": 6
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Estudiantes de Sri Lanka graduados en Cuba donarán medicamentos para hospitales del país",
+      "resumen": "Por Nubia Piqueras Grosso - Cubadebate - Próximamente llegarán a Cuba 160 kilos de medicamentos esen...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126083-estudiantes-de-sri-lanka-graduados-en-cuba-donaran-medicamentos-para-hospitales-del-pais.jpg?t=1794666237",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261114/126083/126083-estudiantes-de-sri-lanka-graduados-en-cuba-donaran-medicamentos-para-hospitales-del-pais",
+      "destacada": false,
+      "tema": "estudiantes",
+      "fecha": "Sat, 14 Nov 26 15:22:00 +0100",
+      "id": 7
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Díaz-Canel ratifica en Boyeros la decisión de rechazar cualquier agresión militar extranjera y preparar la defensa del país",
+      "resumen": "Por René Tamayo - Cubadebate - Vídeo: Canal Caribe - En Cuba “tenemos la decisión de rechazar cualqu...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126082-diaz-canel-ratifica-en-boyeros-la-decision-de-rechazar-cualquier-agresion-militar-extranjera-y-preparar-la-defensa-del-pais.jpg?t=1794666085",
+      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261114/126082/126082-diaz-canel-ratifica-en-boyeros-la-decision-de-rechazar-cualquier-agresion-militar-extranjera-y-preparar-la-defensa-del-pais",
+      "destacada": false,
+      "tema": "canel",
+      "fecha": "Sat, 14 Nov 26 15:19:00 +0100",
+      "id": 8
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "En estas pistas destartaladas entrenan niños y jóvenes atletas de Santiago de Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794664800_69842.html",
+      "destacada": false,
+      "tema": "transporte",
+      "fecha": "Sat, 14 Nov 2026 15:00:00 +0100",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Argentinos amigos de Cuba convocan a encuentro nacional",
+      "resumen": "Prensa Latina - El Movimiento Argentino de Solidaridad con Cuba (MASCuba) convocó a realizar 19no En...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126080-argentinos-amigos-de-cuba-convocan-a-encuentro-nacional.jpg?t=1794664840",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261114/126080/126080-argentinos-amigos-de-cuba-convocan-a-encuentro-nacional",
+      "destacada": false,
+      "tema": "argentinos",
+      "fecha": "Sat, 14 Nov 26 14:59:00 +0100",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba abre en Brasil espacio para debatir sobre cine",
+      "resumen": "Prensa Latina - La Embajada de Cuba en Brasil inauguró hoy aquí un espacio de debate cinematográfico...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126079-cuba-abre-en-brasil-espacio-para-debatir-sobre-cine.jpg?t=1794664396",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261114/126079/126079-cuba-abre-en-brasil-espacio-para-debatir-sobre-cine",
+      "destacada": false,
+      "tema": "brasil",
+      "fecha": "Sat, 14 Nov 26 14:51:00 +0100",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Debaten en Cuba transformaciones económicas y experiencia surcoreana",
+      "resumen": "Prensa Latina - La experiencia de desarrollo económico de Corea del Sur y elementos que podrían apli...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126078-debaten-en-cuba-transformaciones-economicas-y-experiencia-surcoreana.jpg?t=1794663681",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261114/126078/126078-debaten-en-cuba-transformaciones-economicas-y-experiencia-surcoreana",
+      "destacada": false,
+      "tema": "debaten",
+      "fecha": "Sat, 14 Nov 26 14:38:00 +0100",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Rusia ratifica su apoyo a Cuba y reclama el fin del bloqueo estadounidense",
+      "resumen": "Rusia reiteró su respaldo político y material a Cuba y reclamó el fin inmediato del bloqueo económico, comercial, financiero y de combustible impuesto por Estados Unidos, durante una conversación telefónica sostenida el 13 de noviembre entre representantes de las cancillerías de ambos países. The po",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/14/rusia-ratifica-su-apoyo-a-cuba-y-reclama-el-fin-del-bloqueo-estadounidense/",
+      "destacada": false,
+      "tema": "rusia",
+      "fecha": "Sat, 14 Nov 2026 14:30:56 +0000",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "El niño «muy fuerte» abriría la puerta al frío polar sobre Cuba",
+      "resumen": "El evento El Niño y el debilitamiento del Vórtice Polar Ártico auguran un semestre invernal sobre Cuba: más frentes fríos, mínimas por debajo del promedio y riesgo de tornados entre febrero y marzo en occidente y centro",
+      "imagen_url": "",
+      "enlace_original": "https://giron.cu/2026/11/14/nino-frio-polar-sobre-cuba/",
+      "destacada": false,
+      "tema": "fuerte",
+      "fecha": "Sat, 14 Nov 2026 14:26:32 +0000",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Yordan Álvarez y el equipo sub-23: dos caras del béisbol de Cuba",
+      "resumen": "¿Por qué los equipos de béisbol en Cuba fracasan en la arena internacional? Las recientes noticias sobre Yordan Álvarez y el equipo nacional sub-23 demuestran qué tiene y qué necesita el deporte cubano.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/deportes/1794662327_69855.html",
+      "destacada": false,
+      "tema": "yordan",
+      "fecha": "Sat, 14 Nov 2026 14:18:47 +0100",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba solo cumplió el 28,8% de su plan anual de turismo al cierre de octubre",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-14-u1-e208574-s27061-nid345699-cuba-solo-cumplio-288-plan-anual-turismo-al-cierre",
+      "destacada": false,
+      "tema": "cumplió",
+      "fecha": "Sat, 14 Nov 2026 14:03:14 +0100",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Condenan a seis años y medio de cárcel al conductor ebrio que mató a una cubana en Kendall: «Te perdono», le dijo la madre",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-14-u1-e207888-s27061-nid345695-condenan-seis-anos-medio-carcel-al-conductor-ebrio",
+      "destacada": false,
+      "tema": "condenan",
+      "fecha": "Sat, 14 Nov 2026 13:16:23 +0100",
+      "id": 17
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Díaz-Canel asegura que el sistema de preparación para la defensa del país “se va fortaleciendo cada día”",
+      "resumen": "Trump declaró esta semana que quiere “dejar resuelto lo de Cuba” antes de abandonar la Casa Blanca en 2029",
+      "imagen_url": "https://static.14ymedio.com/clip/3f1bab18-6521-49ec-bec8-2f5777bc34a0_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/diaz-canel-defensa-nacional-trump_1_1133213.html",
+      "destacada": false,
+      "tema": "canel",
+      "fecha": "Sat, 14 Nov 2026 13:09:00 +0000",
+      "id": 18
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Moscú reitera a Cuba su \"firme solidaridad y apoyo\" en \"tiempos tan difíciles\"",
+      "resumen": "El viceministro ruso de Exteriores Serguéi Riabkov expuso la disposición de su país a “seguir brindando a La Habana la necesaria asistencia política y financiera”",
+      "imagen_url": "https://static.14ymedio.com/clip/78a62e3a-047f-4690-a6f1-57ae942b1c22_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/internacional/moscu-reitera-cuba-firme-solidaridad_1_1133212.html",
+      "destacada": false,
+      "tema": "moscú",
+      "fecha": "Sat, 14 Nov 2026 12:54:31 +0000",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Atentado en Panamá: incendian la casa del periodista Rolando Rodríguez, aliado de DIARIO DE CUBA",
+      "resumen": "El periodista de #LaPrensa participó en la reciente investigación de #DiariodeCuba sobre los negocios de la familia Carretero con el régimen cubano.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/internacional/1794656150_69854.html",
+      "destacada": false,
+      "tema": "atentado",
+      "fecha": "Sat, 14 Nov 2026 12:35:50 +0100",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Muere el general de brigada Gustavo Fleitas, cuyo hijo asegura que pidió fusilarlo",
+      "resumen": "El general de brigada de las FAR Gustavo Fleitas Ramírez, cuyo hijo asegura que pidió fusilarlo, murió en Cuba. Cumplió cuatro misiones internacionalistas en África.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794655281_69853.html",
+      "destacada": false,
+      "tema": "muere",
+      "fecha": "Sat, 14 Nov 2026 12:21:21 +0100",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EE UU devuelve a Cuba a seis balseros rescatados cerca de los Cayos de Florida",
+      "resumen": "La Guardia Costera interceptó a los migrantes cuando pedían auxilio desde una precaria embarcación de madera",
+      "imagen_url": "https://static.14ymedio.com/clip/5518f25f-b444-4025-ac70-cd31ac80931e_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/migracion/ee-uu-devuelve-seis-balseros-cubanos-cayos-florida_1_1133204.html",
+      "destacada": false,
+      "tema": "devuelve",
+      "fecha": "Sat, 14 Nov 2026 12:08:25 +0000",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Muere el general cubano 'Mandarria', que llegó a pedir el fusilamiento de su propio hijo",
+      "resumen": "Gustavo Fleitas Ramírez pertenecía a la vieja guardia militar de Fidel Castro y su fallecimiento continúa reduciendo las filas de la \"generación histórica\"",
+      "imagen_url": "https://static.14ymedio.com/clip/995e52a1-4af4-4787-962d-fdf76d7aa179_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/muere-general-cubano-mandarria-mando-fusilar-hijo_1_1133199.html",
+      "destacada": false,
+      "tema": "muere",
+      "fecha": "Sat, 14 Nov 2026 11:38:12 +0000",
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Abriendo Espacios",
+      "resumen": "Un programa dedicado a conocer la realidad de la violencia de género en Cuba. Una espacio para dar voz a la mujer cubana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/483186.html",
+      "destacada": false,
+      "tema": "abriendo",
+      "fecha": "Sat, 14 Nov 2026 09:00:00 -0500",
+      "id": 24
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
@@ -11,23 +323,10 @@
       "resumen": "Pedro Quiroga Jiménez - Agencia Cubana de Noticias (ACN) / Fotos autor.- La muestra fotográfica itin...",
       "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125955-reinauguran-muestra-fotografica-mujeres-del-agua-a-la-vida-fotos.jpg?t=1793993487",
       "enlace_original": "https://www.cubainformacion.tv/genero/20261114/125955/125955-reinauguran-muestra-fotografica-mujeres-del-agua-a-la-vida-fotos",
-      "destacada": true,
+      "destacada": false,
       "tema": "reinauguran",
       "fecha": "Sat, 14 Nov 26 07:00:00 +0100",
-      "id": 1
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "CSI Salvador Allende: 20 años de compromiso solidario con Venezuela",
-      "resumen": "Caracas, 14 nov (Prensa Latina) El Centro de Salud Integral Dr. Salvador Allende inaugurado por el comandante Hugo Chávez el 15 de noviembre de 2006, con el apoyo de Cuba, cumple 20 años, dos décadas de solidaridad y sentido humanista. The post CSI Salvador Allende: 20 años de compromiso solidario c",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/14/csi-salvador-allende-20-anos-de-compromiso-solidario-con-venezuela/",
-      "destacada": true,
-      "tema": "salvador",
-      "fecha": "Sat, 14 Nov 2026 05:39:25 +0000",
-      "id": 2
+      "id": 25
     },
     {
       "categoria": "economia",
@@ -37,36 +336,10 @@
       "resumen": "",
       "imagen_url": "",
       "enlace_original": "https://www.cibercuba.com/noticias/2026-11-14-u1-e209395-s27061-nid345690-dolar-afloja-euro-pierde-fuerza-asi-cierra-mercado",
-      "destacada": true,
+      "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Sat, 14 Nov 2026 04:01:52 +0100",
-      "id": 3
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«¿A dónde vamos a parar?» Cubana harta ante los precios y la crisis",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-14-u1-e199291-s27061-nid345689-donde-vamos-parar-cubana-harta-precios-crisis",
-      "destacada": true,
-      "tema": "dónde",
-      "fecha": "Sat, 14 Nov 2026 02:50:27 +0100",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubano deportado a México desde EEUU: «Sin saber cuándo voy a poder volver a abrazar a mi familia»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-14-u1-e199291-s27061-nid345668-cubano-deportado-mexico-eeuu-saber-cuando-voy-poder",
-      "destacada": true,
-      "tema": "cubano",
-      "fecha": "Sat, 14 Nov 2026 02:36:57 +0100",
-      "id": 5
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -79,46 +352,7 @@
       "destacada": false,
       "tema": "integra",
       "fecha": "Sat, 14 Nov 2026 02:30:29 +0000",
-      "id": 6
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Abre otro mercado de barrio con precios elevados en Cuba: «Con el retiro no compras para el mes»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-14-u1-e199291-s27061-nid345688-abre-otro-mercado-barrio-precios-elevados-cuba",
-      "destacada": false,
-      "tema": "mercado",
-      "fecha": "Sat, 14 Nov 2026 02:15:32 +0100",
-      "id": 7
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Jueza federal en Miami ordena liberar a un cubano de Krome: El régimen lo rechazó y se negó a firmar deportación a México",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-14-u1-e208574-s27061-nid345682-jueza-federal-miami-ordena-liberar-cubano-krome",
-      "destacada": false,
-      "tema": "jueza",
-      "fecha": "Sat, 14 Nov 2026 01:45:58 +0100",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Creadora de contenido cubana Ari Vlogs: «Vine con mi familia para la República Dominicana»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-14-u1-e199291-s27065-nid345687-creadora-contenido-cubana-ari-vlogs-vine-mi-familia",
-      "destacada": false,
-      "tema": "creadora",
-      "fecha": "Sat, 14 Nov 2026 01:45:18 +0100",
-      "id": 9
+      "id": 27
     },
     {
       "categoria": "energia",
@@ -131,7 +365,7 @@
       "destacada": false,
       "tema": "producción",
       "fecha": "Sat, 14 Nov 2026 01:19:14 +0100",
-      "id": 10
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -144,33 +378,7 @@
       "destacada": false,
       "tema": "turismo",
       "fecha": "Sat, 14 Nov 2026 00:54:22 +0000",
-      "id": 11
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Díaz-Canel ratifica en Boyeros la decisión de rechazar cualquier agresión militar extranjera y preparar la defensa del país",
-      "resumen": "Nuestro país es una nación de paz, que da solidaridad; no es una amenaza para la seguridad de ninguna nación del mundo. El Presidente del Consejo de Defensa Nacional, Miguel Díaz-Canel Bermúdez, denunció las reiteradas y recientes declaraciones de voceros y políticos de EE.UU. que alientan y ratific",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/13/diaz-canel-ratifica-en-boyeros-la-decision-de-rechazar-cualquier-agresion-militar-extranjera-y-preparar-la-defensa-del-pais/",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Sat, 14 Nov 2026 00:25:03 +0000",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba vence 8-1 a Panamá y suma su segunda victoria consecutiva en el Mundial sub-23 de béisbol",
-      "resumen": "Cuba alcanzó este viernes su segunda victoria seguida en la ronda de colocación del Mundial sub-23 de béisbol con un juego muy compacto sobre Panamá, que terminó con marcador de 8-1 en el estadio Roberto Clemente de Masaya, Nicaragua. The post Cuba vence 8-1 a Panamá y suma su segunda victoria conse",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/13/cuba-vence-8-1-a-panama-y-suma-su-segunda-victoria-consecutiva-en-el-mundial-sub-23-de-beisbol/",
-      "destacada": false,
-      "tema": "vence",
-      "fecha": "Sat, 14 Nov 2026 00:06:34 +0000",
-      "id": 13
+      "id": 29
     },
     {
       "categoria": "energia",
@@ -183,20 +391,7 @@
       "destacada": false,
       "tema": "marco",
       "fecha": "Sat, 14 Nov 26 00:05:00 +0100",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al Día",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/483162.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Sat, 14 Nov 2026 00:00:30 -0500",
-      "id": 15
+      "id": 30
     },
     {
       "categoria": "salud",
@@ -209,7 +404,7 @@
       "destacada": false,
       "tema": "mecanismos",
       "fecha": "Fri, 13 Nov 2026 23:31:02 +0100",
-      "id": 16
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -222,7 +417,7 @@
       "destacada": false,
       "tema": "envíos",
       "fecha": "Fri, 13 Nov 2026 23:14:19 +0100",
-      "id": 17
+      "id": 32
     },
     {
       "categoria": "economia",
@@ -235,7 +430,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 13 Nov 2026 21:48:01 +0100",
-      "id": 18
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -248,7 +443,7 @@
       "destacada": false,
       "tema": "tribunal",
       "fecha": "Fri, 13 Nov 2026 21:36:09 +0000",
-      "id": 19
+      "id": 34
     },
     {
       "categoria": "salud",
@@ -261,33 +456,7 @@
       "destacada": false,
       "tema": "colectivos",
       "fecha": "Fri, 13 Nov 2026 21:30:06 +0000",
-      "id": 20
-    },
-    {
-      "categoria": "salud",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Estudiantes de Sri Lanka graduados en Cuba donarán medicamentos para hospitales del país",
-      "resumen": "Próximamente llegarán a Cuba 160 kilos de medicamentos esenciales para los hospitales, producidos básicamente en Sri Lanka y la India, donados por 50 graduados de esa nación asiática en la isla, con el objetivo de paliar la crítica situación existente en este sector. The post Estudiantes de Sri Lank",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/13/estudiantes-de-sri-lanka-graduados-en-cuba-donaran-medicamentos-para-hospitales-del-pais/",
-      "destacada": false,
-      "tema": "estudiantes",
-      "fecha": "Fri, 13 Nov 2026 21:26:44 +0000",
-      "id": 21
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Barbacoa de Pepe",
-      "resumen": "La Barbacoa de Pepe es un muestrario de la nostalgia cubana con datos y curiosidades de los temas más variados, para la audiencia cubana. También trataremos temas internacionales y locales, siempre con el fin de educar al Cubano de la Isla. Con la elocuencia de Pepe Forte.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/483109.html",
-      "destacada": false,
-      "tema": "barbacoa",
-      "fecha": "Fri, 13 Nov 2026 21:00:00 -0500",
-      "id": 22
+      "id": 35
     },
     {
       "categoria": "energia",
@@ -300,7 +469,7 @@
       "destacada": false,
       "tema": "llega",
       "fecha": "Fri, 13 Nov 2026 20:40:14 +0000",
-      "id": 23
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -313,7 +482,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Fri, 13 Nov 2026 20:34:57 +0000",
-      "id": 24
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -326,20 +495,7 @@
       "destacada": false,
       "tema": "aguas",
       "fecha": "Fri, 13 Nov 2026 20:25:31 +0000",
-      "id": 25
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Tormenta perfecta en el sistema eléctrico de Cuba. ¿Viene un apagón nacional?",
-      "resumen": "En las últimas horas se han encadenado varios sucesos en #Cuba que hacen temer que se produzca el noveno colapso nacional del SEN del actual año.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794597409_69847.html",
-      "destacada": false,
-      "tema": "apagones",
-      "fecha": "Fri, 13 Nov 2026 20:16:49 +0100",
-      "id": 26
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -352,33 +508,7 @@
       "destacada": false,
       "tema": "pastores",
       "fecha": "Fri, 13 Nov 2026 19:56:42 +0000",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuatro hechos en una semana evidencian el carácter de las relaciones entre Cuba y Vietnam",
-      "resumen": "Cuatro acontecimientos de esta semana retratan la relación entre Cuba y Vietnam: retórica sobre la alianza histórica, intercambios ideológicos y una ayuda económica limitada frente a la crisis de la Isla.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794596022_69841.html",
-      "destacada": false,
-      "tema": "cuatro",
-      "fecha": "Fri, 13 Nov 2026 19:53:42 +0100",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "2kCuba26: el videojuego de béisbol cubano llega a su tercera versión",
-      "resumen": "El 3 de noviembre de 2025 Liván Alfonso Alfonso empezó a construir el 2kCuba26, y solo el día siete del mismo mes, tras una vuelta completa del calendario, pudo anunciar el lanzamiento del videojuego de beisbol cubano. El 2kCuba26, más allá de un producto de entretenimiento, puede aportar mucho a la",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/13/2kcuba26-el-videojuego-de-beisbol-cubano-llega-a-su-tercera-version/",
-      "destacada": false,
-      "tema": "videojuego",
-      "fecha": "Fri, 13 Nov 2026 19:52:27 +0000",
-      "id": 29
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -391,7 +521,7 @@
       "destacada": false,
       "tema": "danza",
       "fecha": "Fri, 13 Nov 2026 19:27:39 +0000",
-      "id": 30
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -404,7 +534,7 @@
       "destacada": false,
       "tema": "secuestran",
       "fecha": "Fri, 13 Nov 2026 18:22:27 +0000",
-      "id": 31
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -417,7 +547,7 @@
       "destacada": false,
       "tema": "pinar",
       "fecha": "Fri, 13 Nov 2026 18:00:00 +0000",
-      "id": 32
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -430,241 +560,7 @@
       "destacada": false,
       "tema": "subasta",
       "fecha": "Fri, 13 Nov 2026 17:42:13 +0000",
-      "id": 33
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Puede el régimen cubano encontrar en la India a un nuevo socio estratégico?",
-      "resumen": "La Habana busca estrechar sus vínculos con la India para atraer inversiones y financiamiento, pero las empresas de Nueva Delhi siguen sin apostar por Cuba, a pesar de las declaraciones retóricas.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794588084_69840.html",
-      "destacada": false,
-      "tema": "régimen",
-      "fecha": "Fri, 13 Nov 2026 17:41:24 +0100",
-      "id": 34
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Se desconecta del sistema nacional la tercera termoeléctrica en dos días",
-      "resumen": "Ciego de Ávila, con apagones de más de 40 horas, interrumpirá el bombeo de agua La provincia de Granma sufre una desconexión de varias horas por un disparo en la línea con Santiago de Cuba",
-      "imagen_url": "https://static.14ymedio.com/clip/a3e04f40-aaae-4921-a04d-60acaf7a68c4_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/provincia-granma-apagon-disparo-linea_1_1133172.html",
-      "destacada": false,
-      "tema": "desconecta",
-      "fecha": "Fri, 13 Nov 2026 17:34:47 +0000",
-      "id": 35
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Dignos ejemplos de valor",
-      "resumen": "La Isla de la Juventud se siente orgullosa del colectivo del cuerpo de bomberos, así quedó patentizado en el acto en homenaje al aniversario 330 del surgimiento del primero de su tipo de la República de Cuba",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261113/dignos-ejemplos-de-valor/",
-      "destacada": false,
-      "tema": "dignos",
-      "fecha": "Fri, 13 Nov 2026 17:02:18 +0000",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Promueven nuevas oportunidades de cooperación entre Cuba y España",
-      "resumen": "El encuentro empresarial incluyó las opciones ofrecidas por las 176 transformaciones económicas y sociales",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261113/promueven-nuevas-oportunidades-de-cooperacion-entre-cuba-y-espana/",
-      "destacada": false,
-      "tema": "promueven",
-      "fecha": "Fri, 13 Nov 2026 15:56:23 +0000",
-      "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.bc.gob.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Comunicación asertiva: herramienta estratégica en la atención al cliente del sector bancario (Primera parte)",
-      "resumen": "La comunicación asertiva como competencia profesional imprescindible para la mejora de la atención al cliente en el sector bancario cubano",
-      "imagen_url": "",
-      "enlace_original": "https://www.bc.gob.cu/media/noticias/comunicacion-asertiva-herramienta-estrategica-en-l",
-      "destacada": false,
-      "tema": "comunicación",
-      "fecha": "Fri, 13 Nov 2026 14:00:00 GMT",
-      "id": 38
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://giron.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Julio Germán, el Gigante de Cárdenas, siembra pelota",
-      "resumen": "El Gigante de Cárdenas volvió a pisar la grama del Victoria de Girón. Julio Germán Fernández, gloria del béisbol cubano y matancero, visitó el estadio este miércoles.",
-      "imagen_url": "",
-      "enlace_original": "https://giron.cu/2026/11/13/julio-german-gigante-cardenas/",
-      "destacada": false,
-      "tema": "julio",
-      "fecha": "Fri, 13 Nov 2026 13:50:00 +0000",
-      "id": 39
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "EE UU duplica las ventas de China a Cuba, pero Pekín sigue siendo el primer socio de La Habana",
-      "resumen": "La Isla compró apenas por 523 millones de dólares a su aliado asiático de enero a septiembre, mientras las ventas del 'enemigo' del norte han superado los 1.000 millones14:22",
-      "imagen_url": "https://static.14ymedio.com/clip/e90c15cf-bfac-43b9-b99a-8c7ec8ca5352_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/ee-uu-duplica-ventas-china_1_1133154.html",
-      "destacada": false,
-      "tema": "duplica",
-      "fecha": "Fri, 13 Nov 2026 13:43:04 +0000",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubalex denuncia el traslado oculto de un preso político y Anamely Ramos pide revisar una cadena perpetua",
-      "resumen": "Traslados que ocultan el destino de los presos y condenas que consumen décadas de vida: Cubalex y Anamely Ramos denuncian dos casos de represión dentro de las cárceles cubanas.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1794573461_69838.html",
-      "destacada": false,
-      "tema": "cubalex",
-      "fecha": "Fri, 13 Nov 2026 13:37:41 +0100",
-      "id": 41
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "De la lluvia al agua potable: campaña busca ayudar a 25 familias de Marianao",
-      "resumen": "La Red de Ayuda Humanitaria lanzó “Agua Segura para Cuba” para potabilizar el agua de 25 hogares vulnerables de Zamora, en Marianao, donde vecinos recogen agua de lluvia para beber y cocinar. Busca reunir 3 000 USD y, si funciona, extenderla a otros barrios.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/11_nov_2026_cuba_agua_crisis_ayuda_b4768e1b3f.jpg",
-      "enlace_original": "https://eltoque.com/de-la-lluvia-al-agua-potable-ciudadana-busca-ayudar-25-familias-de-marianao",
-      "destacada": false,
-      "tema": "lluvia",
-      "fecha": "Fri, 13 Nov 2026 13:30:00 GMT",
-      "id": 42
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Dólar en 910 CUP y el MLC salta 13.1 % en el mercado informal",
-      "resumen": "El dólar estadounidense se mantiene en 910 CUP por segunda jornada consecutiva en el mercado informal cubano, mientras la MLC sube 91,5 pesos en un día y el dólar canadiense, 57,4. El euro repite en 1 000 CUP.",
-      "imagen_url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/2024_12_19_Mederos_DOLARIZACION_1_524dc19753.jpg/width=1920,quality=75,fit=scale-down,dpr=1,slow-connection-quality=40",
-      "enlace_original": "https://eltoque.com/el-dolar-se-mantiene-en-910-cup-mientras-la-mlc-se-dispara-mas-de-91-pesos-en-un-solo-dia",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Fri, 13 Nov 2026 13:02:00 GMT",
       "id": 43
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El Premio Knight reconoce el trabajo de ‘elTOQUE’ frente a la censura y las amenazas",
-      "resumen": "José Jasán Nieves recibe en Washington el galardón por el impacto de un medio que informa sobre la economía, la migración y los derechos de los cubanos",
-      "imagen_url": "https://static.14ymedio.com/clip/c8a4dd2f-0a88-4177-a16f-279053b65c6a_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/premio-knight-reconoce-trabajo-eltoque_1_1133149.html",
-      "destacada": false,
-      "tema": "premio",
-      "fecha": "Fri, 13 Nov 2026 12:31:26 +0000",
-      "id": 44
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "«El problema no es Cuba, el problema es la agresión de EE.UU. contra Cuba»",
-      "resumen": "El viceministro de Relaciones Exteriores de Cuba, Carlos Fernández de Cossío, denunció hoy en su perfil de Facebook la falsa retórica de observadores internacionales que aluden a una crisis en Cuba sin señalar que es inducida por el gobierno de Estados Unidos",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba-no-es-una-amenaza/2026-11-13/el-problema-no-es-cuba-el-problema-es-la-agresion-de-eeuu-contra-cuba-13-11-2026-12-11-22",
-      "destacada": false,
-      "tema": "problema",
-      "fecha": "Fri, 13 Nov 2026 12:11:22 -0500",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Gonzalo Rubalcaba gana dos Latin Grammy y premia el legado de Benny Moré",
-      "resumen": "El pianista cubano Gonzalo Rubalcaba triunfa en los #LatinGrammy con Gonzalo Plays Pino y el homenaje a Benny Moré y Nat King Cole, junto a Joey Calveiro y Yainer Horta.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cultura/1794565785_69837.html",
-      "destacada": false,
-      "tema": "gonzalo",
-      "fecha": "Fri, 13 Nov 2026 11:29:45 +0100",
-      "id": 46
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Sostuvo Bruno Rodríguez encuentros con dirigentes vietnamitas",
-      "resumen": "El Canciller cubano sostuvo encuentros con el Primer Ministro y su homólogo vietnamitas, en los que abordaron los vínculos bilaterales y la cooperación entre ambos países",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/vietnam-y-cuba/2026-11-13/sostuvo-bruno-rodriguez-encuentros-con-dirigentes-vietnamitas-13-11-2026-11-11-22",
-      "destacada": false,
-      "tema": "sostuvo",
-      "fecha": "Fri, 13 Nov 2026 11:11:22 -0500",
-      "id": 47
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Entre las llamas y el peligro, los bomberos",
-      "resumen": "Este 13 de noviembre se cumplen 330 años de creado el primer Cuerpo de Bomberos de Cuba",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-11-13/entre-las-llamas-y-el-peligro-los-bomberos-13-11-2026-09-11-11",
-      "destacada": false,
-      "tema": "llamas",
-      "fecha": "Fri, 13 Nov 2026 09:11:11 -0500",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "La petición que nunca llega de una mafia que quiere destruir a su propia gente",
-      "resumen": "El Titan de #Cuba",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126072-la-peticion-que-nunca-llega-de-una-mafia-que-quiere-destruir-a-su-propia-gente.jpg?t=1794555873",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261113/126072/126072-la-peticion-que-nunca-llega-de-una-mafia-que-quiere-destruir-a-su-propia-gente",
-      "destacada": false,
-      "tema": "petición",
-      "fecha": "Fri, 13 Nov 26 08:44:00 +0100",
-      "id": 49
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "¿Lo sabe el FBI? Organizadores de la expedición t3rr0r1sta de Corralillo en malos pasos otra vez",
-      "resumen": "Guerrero Cubano con su verdad al desnudo",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126071-lo-sabe-el-fbi-organizadores-de-la-expedicion-t3rr0r1sta-de-corralillo-en-malos-pasos-otra-vez.jpg?t=1794555833",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261113/126071/126071-lo-sabe-el-fbi-organizadores-de-la-expedicion-t3rr0r1sta-de-corralillo-en-malos-pasos-otra-vez",
-      "destacada": false,
-      "tema": "organizadores",
-      "fecha": "Fri, 13 Nov 26 08:43:00 +0100",
-      "id": 50
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Robo, violencia y pandemia",
-      "resumen": "La Florecita Cubana",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126070-robo-violencia-y-pandemia.jpg?t=1794555792",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261113/126070/126070-robo-violencia-y-pandemia",
-      "destacada": false,
-      "tema": "violencia",
-      "fecha": "Fri, 13 Nov 26 08:43:00 +0100",
-      "id": 51
     }
   ]
 }
