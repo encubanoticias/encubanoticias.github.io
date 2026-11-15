@@ -1,20 +1,267 @@
 {
   "fecha": "2026-11-15",
-  "hora": "15:07",
-  "total": 34,
+  "hora": "20:40",
+  "total": 47,
   "noticias": [
     {
+      "categoria": "transporte",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Una visita de obispos obliga a Díaz-Canel a referirse a la ayuda humanitaria de EEUU… a su manera",
+      "resumen": "Díaz-Canel recibe al cardenal Sean Patrick O'Malley y a obispos de EEUU. Se refiere a la ayuda humanitaria para los cubanos más vulnerables, pero omite que la envía Washington.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794770313_69869.html",
+      "destacada": true,
+      "tema": "visita",
+      "fecha": "Sun, 15 Nov 2026 20:18:33 +0100",
+      "id": 1
+    },
+    {
       "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "“No hay una sola madrugada que tengamos corriente”: denuncian abandono institucional en reparto Monterrey de La Habana",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-15-u1-e209363-s27061-nid345791-hay-sola-madrugada-tengamos-corriente-denuncian",
+      "destacada": true,
+      "tema": "madrugada",
+      "fecha": "Sun, 15 Nov 2026 19:54:29 +0100",
+      "id": 2
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuidado, Marrero, no aceleres tanto",
+      "resumen": "Cada día que pasa tienen menos credibilidad las 'transformaciones' en la economía de #Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1794767694_69839.html",
+      "destacada": true,
+      "tema": "cuidado",
+      "fecha": "Sun, 15 Nov 2026 19:34:54 +0100",
+      "id": 3
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Monte y Fernandina, otra esquina de La Habana donde la basura se acumula sin respuesta del gobierno",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-15-u1-e209363-s27061-nid345789-monte-fernandina-otra-esquina-habana-donde-basura",
+      "destacada": true,
+      "tema": "monte",
+      "fecha": "Sun, 15 Nov 2026 19:33:47 +0100",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "“Qué manera tan cruel de pedirles que sigan resistiendo”: denuncian abandono de ancianos en Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-15-u1-e209363-s27061-nid345787-manera-tan-cruel-pedirles-sigan-resistiendo",
+      "destacada": true,
+      "tema": "manera",
+      "fecha": "Sun, 15 Nov 2026 19:11:57 +0100",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Los cubanos hemos convertido nuestros hogares en búnkeres»: la deriva de un país donde falta todo",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-15-u1-e209395-s27061-nid345777-cubanos-hemos-convertido-nuestros-hogares-bunkeres",
+      "destacada": false,
+      "tema": "cubanos",
+      "fecha": "Sun, 15 Nov 2026 19:04:27 +0100",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EE UU se consolida como primer proveedor de alimentos de Cuba con ventas de casi 100 millones en septiembre",
+      "resumen": "Sin embargo, en lo que va de año, las compras de combustibles, vehículos y equipos para el sector privado ocupan el primer puesto",
+      "imagen_url": "https://static.14ymedio.com/clip/342e758d-558b-4893-a525-dc5c6f6f0142_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/ee-uu-consolida-primer-proveedor_1_1133283.html",
+      "destacada": false,
+      "tema": "consolida",
+      "fecha": "Sun, 15 Nov 2026 18:58:01 +0000",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Una Maratón de La Habana a oscuras, sin público y con calcomanías para tapar el logo de Adidas",
+      "resumen": "Francisco Ronnei Estévez ganó la prueba masculina, con un tiempo de 2:25:31 horas, y Meury Melissa Bacallao la femenina, en 2:45:41 horas",
+      "imagen_url": "https://static.14ymedio.com/clip/d54da534-67cd-4a42-990a-5cc8e892dc75_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/maraton-habana-oscuras-publico-calcomanias_1_1133284.html",
+      "destacada": false,
+      "tema": "maratón",
+      "fecha": "Sun, 15 Nov 2026 18:53:04 +0000",
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Lo que el programa de Vox cambiaría para los cubanos en España: Impuesto a remesas y restricciones en alquiler y sanidad",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-15-u1-e207888-s27061-nid345781-programa-vox-cambiaria-cubanos-espana-impuesto",
+      "destacada": false,
+      "tema": "programa",
+      "fecha": "Sun, 15 Nov 2026 18:47:30 +0100",
+      "id": 9
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El jefe del Comando Sur de EEUU vuelve a la Base Naval de Guantánamo: ¿debe preocuparse el régimen?",
+      "resumen": "El jefe del Comando Sur de EEUU, Francis L. Donovan viaja a la Base Naval de Guantánamo por segunda vez en poco más de dos meses, en medio del incremento de la presión de EEUU sobre el régimen cubano.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794764770_69868.html",
+      "destacada": false,
+      "tema": "comando",
+      "fecha": "Sun, 15 Nov 2026 18:46:10 +0100",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cayó Peña en Paraguay, ¿caerá el sistema?",
+      "resumen": "#Paraguay: Tras la caída de Peña, comienza el verdadero examen institucional. Lee el análisis de Hernán Alberro en #DiarioDeCuba.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/internacional/1794763316_69867.html",
+      "destacada": false,
+      "tema": "paraguay",
+      "fecha": "Sun, 15 Nov 2026 18:21:56 +0100",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Reactivan en México un programa de empleo temporal para migrantes, entre ellos cubanos",
+      "resumen": "Los integrantes de la caravana Dios con Nosotros rechazan la iniciativa y aseguran que el salario es una misera",
+      "imagen_url": "https://static.14ymedio.com/clip/4b2c5bb0-6ddc-417b-b62e-75beb732d65a_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/migracion/reactivan-programa-empleo-temporal-migrantes_1_1133281.html",
+      "destacada": false,
+      "tema": "reactivan",
+      "fecha": "Sun, 15 Nov 2026 17:53:30 +0000",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Marabana también alzó la voz contra el bloqueo",
+      "resumen": "Miles de personas se dieron cita este domingo antes de la salida del sol para participar de Marabana, la maratón internacional más importante de la isla y algunos de sus participantes aprovecharon la carrera para protestar contra las sanciones estadounidenses a la isla. The post Marabana también alz",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/15/marabana-tambien-alzo-la-voz-contra-el-bloqueo/",
+      "destacada": false,
+      "tema": "marabana",
+      "fecha": "Sun, 15 Nov 2026 17:42:35 +0000",
+      "id": 13
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Habana aprovecha un evento de la ONU para meter un pie en el mercado del carbono",
+      "resumen": "Un año después de establecer su control sobre el carbono, el Gobierno de Cuba da un nuevo paso para entrar en el mercado del carbono y captar divisas.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794759862_69866.html",
+      "destacada": false,
+      "tema": "habana",
+      "fecha": "Sun, 15 Nov 2026 17:24:22 +0100",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Tras ganar el Mariposa de Diamentes, el filme Calle 232 compite en festival mexicano",
+      "resumen": "La noticia llega días después de que el largometraje cubano conquistara el galardón a Mejor Filme Internacional No Euroasiático, del pretigioso Premio Mariposa de Diamantes, auspiciado por la Academia Euroasiática de Cine. The post Tras ganar el Mariposa de Diamentes, el filme Calle 232 compite en f",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/15/tras-ganar-el-mariposa-de-diamentes-el-filme-calle-232-compite-en-festival-mexicano/",
+      "destacada": false,
+      "tema": "ganar",
+      "fecha": "Sun, 15 Nov 2026 17:00:03 +0000",
+      "id": 15
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El Estado cubano transfiere la asistencia social a la emigración y la caridad extranjera",
+      "resumen": "Por cada 1.000 dólares que la emigración y los donantes destinan a Cuba, el Estado pone menos de seis en asistencia social.",
+      "imagen_url": "https://static.14ymedio.com/clip/d6736555-10f0-4dbc-9299-031228e34bee_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/cubano-transfiere-asistencia-social-emigracion_1_1133277.html",
+      "destacada": false,
+      "tema": "estado",
+      "fecha": "Sun, 15 Nov 2026 16:26:39 +0000",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Viengsay Valdés destaca en San Petersburgo fortaleza del Ballet Nacional de Cuba",
+      "resumen": "Durante el encuentro, la artista integró el jurado del certamen de coreografía e impartió dos clases magistrales en la Academia Boris Eifman, con la asistencia de alumnos de diferentes años, profesores e invitados al evento, experiencia que calificó de muy enriquecedora. The post Viengsay Valdés des",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/15/viengsay-valdes-destaca-en-san-petersburgo-fortaleza-del-ballet-nacional-de-cuba/",
+      "destacada": false,
+      "tema": "viengsay",
+      "fecha": "Sun, 15 Nov 2026 16:20:38 +0000",
+      "id": 17
+    },
+    {
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Recibió Díaz-Canel a delegación de la Conferencia de Obispos Católicos de EE.UU.",
+      "resumen": "Durante el encuentro, donde se intercambió sobre la realidad nacional de ambos países y el escenario internacional que comparten, el Presidente cubano agradeció el papel de la Iglesia y de sus organizaciones para facilitar la ayuda humanitaria que procede de varios países. The post Recibió Díaz-Cane",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/15/recibio-diaz-canel-a-delegacion-de-la-conferencia-de-obispos-catolicos-de-ee-uu/",
+      "destacada": false,
+      "tema": "recibió",
+      "fecha": "Sun, 15 Nov 2026 15:48:50 +0000",
+      "id": 18
+    },
+    {
+      "categoria": "salud",
       "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "Corredores, después de Marabana",
-      "resumen": "Poco menos de una semana después de concluido el principal evento de los andarines cubanes, en las calles de Cuba se volverá a sentir el paso acelerado de los correcaminos de la Mayor de las Antillas La entrada Corredores, después de Marabana se publicó primero en Tribuna de La Habana.",
+      "titulo": "Eligen en el Ministerio de Justicia delegado directo al X Congreso de la Unión de Juristas",
+      "resumen": "Trascendió durante la celebración en La Habana, de la Asamblea de Balance de la Delegación de Base de la Unión de Juristas en el MINJUS, proceso orgánico en saludo al X Congreso de la organización La entrada Eligen en el Ministerio de Justicia delegado directo al X Congreso de la Unión de Juristas s",
       "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/corredores-despues-de-marabana/",
-      "destacada": true,
-      "tema": "corredores",
-      "fecha": "Sun, 15 Nov 2026 15:08:33 +0000",
-      "id": 1
+      "enlace_original": "https://www.tribuna.cu/eligen-en-el-ministerio-de-justicia-delegado-directo-al-x-congreso-de-la-union-de-juristas/",
+      "destacada": false,
+      "tema": "eligen",
+      "fecha": "Sun, 15 Nov 2026 15:17:40 +0000",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EEUU seguirá presionando por una Cuba libre y próspera, afirma  Departamento de Estado",
+      "resumen": "EEUU responsabilizó este domingo al régimen comunista de Cuba por la crisis humanitaria que atraviesa la isla, mientras reiteró que seguirá presionando a La Habana hasta lograr un país donde los cubanos puedan ser libres y prósperos.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/eeuu-seguir%c3%a1-presionando-por-una-cuba-libre-y-pr%c3%b3spera-afirma-departamento-de-estado/484285.html",
+      "destacada": false,
+      "tema": "seguirá",
+      "fecha": "Sun, 15 Nov 2026 15:03:47 -0500",
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -24,10 +271,10 @@
       "resumen": "En el marco de la Semana de la Cocina Italiana: una experiencia de sostenibilidad del campo a la mesa La entrada Cita con Italia en la Quinta se publicó primero en Tribuna de La Habana.",
       "imagen_url": "",
       "enlace_original": "https://www.tribuna.cu/cita-con-italia-en-la-quinta/",
-      "destacada": true,
+      "destacada": false,
       "tema": "italia",
       "fecha": "Sun, 15 Nov 2026 15:01:55 +0000",
-      "id": 2
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -37,10 +284,10 @@
       "resumen": "El programa comprende conferencias, presentación de libro, firma de convenio e inauguración de un parque infantil La entrada Avenida Italia festeja a La Habana se publicó primero en Tribuna de La Habana.",
       "imagen_url": "",
       "enlace_original": "https://www.tribuna.cu/avenida-italia-festeja-a-la-habana/",
-      "destacada": true,
+      "destacada": false,
       "tema": "avenida",
       "fecha": "Sun, 15 Nov 2026 15:00:59 +0000",
-      "id": 3
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -50,10 +297,10 @@
       "resumen": "En la #Cuba actual solo se necesita un requisito para cometer un delito: estar vivo. El periodista Jorge Enrique Rodríguez escribe su bitácora desde #LaHabana. Léela en #DiarioDeCuba.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1794751090_69865.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "noches",
       "fecha": "Sun, 15 Nov 2026 14:58:10 +0100",
-      "id": 4
+      "id": 23
     },
     {
       "categoria": "politica",
@@ -63,23 +310,10 @@
       "resumen": "El ministro del sector reconoció que la reducción “no responde únicamente a las dificultades más recientes” en la Isla",
       "imagen_url": "https://static.14ymedio.com/clip/8a69b2ac-c485-4d5d-aad4-7b0c86278894_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cuba/gobierno-cubano-admite-22-000_1_1133270.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "gobierno",
       "fecha": "Sun, 15 Nov 2026 14:25:27 +0000",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuatro jugadores de la selección española en el nuevo once ideal de FIFPro",
-      "resumen": "El equipo español ha sido reconocido por el Mundial conseguido en Estados Unidos con la inclusión de cuatro de sus jugadores en el once ideal de FIFPro. David Raya, Pau Cubarsí, Rodri Hernández y Lamine Yamal han sido elegidos por sus propios compañeros entre los once mejores jugadores de la pasada ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/15/cuatro-jugadores-de-la-seleccion-espanola-en-el-nuevo-once-ideal-de-fifpro/",
-      "destacada": false,
-      "tema": "cuatro",
-      "fecha": "Sun, 15 Nov 2026 14:12:30 +0000",
-      "id": 6
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -92,7 +326,7 @@
       "destacada": false,
       "tema": "mulino",
       "fecha": "Sun, 15 Nov 2026 14:09:37 +0100",
-      "id": 7
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -105,7 +339,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Sun, 15 Nov 2026 13:20:53 +0100",
-      "id": 8
+      "id": 26
     },
     {
       "categoria": "energia",
@@ -118,7 +352,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sun, 15 Nov 2026 13:10:49 +0000",
-      "id": 9
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -131,7 +365,7 @@
       "destacada": false,
       "tema": "washington",
       "fecha": "Sun, 15 Nov 2026 13:00:00 GMT",
-      "id": 10
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -144,7 +378,7 @@
       "destacada": false,
       "tema": "llegan",
       "fecha": "Sun, 15 Nov 26 12:47:00 +0100",
-      "id": 11
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -157,7 +391,7 @@
       "destacada": false,
       "tema": "constitución",
       "fecha": "Sun, 15 Nov 2026 12:08:46 +0000",
-      "id": 12
+      "id": 30
     },
     {
       "categoria": "energia",
@@ -170,7 +404,20 @@
       "destacada": false,
       "tema": "apagones",
       "fecha": "Sun, 15 Nov 26 12:06:00 +0100",
-      "id": 13
+      "id": 31
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 12:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/483247.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Sun, 15 Nov 2026 12:00:00 -0500",
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -183,7 +430,7 @@
       "destacada": false,
       "tema": "siempre",
       "fecha": "Sun, 15 Nov 26 11:59:00 +0100",
-      "id": 14
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -196,7 +443,7 @@
       "destacada": false,
       "tema": "cancilleres",
       "fecha": "Sun, 15 Nov 26 11:43:00 +0100",
-      "id": 15
+      "id": 34
     },
     {
       "categoria": "politica",
@@ -209,7 +456,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sun, 15 Nov 26 11:40:00 +0100",
-      "id": 16
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -222,7 +469,20 @@
       "destacada": false,
       "tema": "palestina",
       "fecha": "Sun, 15 Nov 26 11:38:00 +0100",
-      "id": 17
+      "id": 36
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba firma acuerdo para avanzar en el mercado global de carbono",
+      "resumen": "Durante la firma, el viceministro primero del CITMA, Rudy Montero, agradeció al GCC su apoyo para co...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126091-cuba-firma-acuerdo-para-avanzar-en-el-mercado-global-de-carbono.jpg?t=1794738885",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261115/126091/126091-cuba-firma-acuerdo-para-avanzar-en-el-mercado-global-de-carbono",
+      "destacada": false,
+      "tema": "firma",
+      "fecha": "Sun, 15 Nov 26 11:34:00 +0100",
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -235,7 +495,7 @@
       "destacada": false,
       "tema": "movimiento",
       "fecha": "Sun, 15 Nov 26 11:31:00 +0100",
-      "id": 18
+      "id": 38
     },
     {
       "categoria": "salud",
@@ -248,7 +508,7 @@
       "destacada": false,
       "tema": "celebran",
       "fecha": "Sun, 15 Nov 26 11:29:00 +0100",
-      "id": 19
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -261,20 +521,46 @@
       "destacada": false,
       "tema": "resistencia",
       "fecha": "Sun, 15 Nov 26 11:28:00 +0100",
-      "id": 20
+      "id": 40
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "El reto de los medios ante la violencia de género en Cuba: Proyecto No Más",
-      "resumen": "Cubavisión Internacional.- Como parte del programa de trabajo enmarcado en los 16 Días de activismo,...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126087-el-reto-de-los-medios-ante-la-violencia-de-genero-en-cuba-proyecto-no-mas.jpg?t=1794738411",
-      "enlace_original": "https://www.cubainformacion.tv/genero/20261115/126087/126087-el-reto-de-los-medios-ante-la-violencia-de-genero-en-cuba-proyecto-no-mas",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Hammer se reúne en Cuba con líderes de la Iglesia Católica de EEUU",
+      "resumen": "Mike Hammer, jefe de la misión diplomática de EEUU en Cuba, se reunió en La Habana con una delegación de la Conferencia de Obispos Católicos de EEUU, encabezada por el cardenal Sean O’Malley. Según la embajada, conversaron sobre la situación en Cuba y la coordinación de envíos de ayuda humanitaria.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/hammer-se-re%c3%bane-en-cuba-con-l%c3%adderes-de-la-iglesia-cat%c3%b3lica-de-eeuu/484281.html",
       "destacada": false,
-      "tema": "medios",
-      "fecha": "Sun, 15 Nov 26 11:23:00 +0100",
-      "id": 21
+      "tema": "hammer",
+      "fecha": "Sun, 15 Nov 2026 10:20:13 -0500",
+      "id": 41
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Memorial Vicente García González, 39 años de su apertura al público",
+      "resumen": "El museo municipal Mayor General Vicente García González, de la ciudad de Las Tunas, cumplió 39 años y es orgullo para los residentes en el Balcón del Oriente cubano",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-11-15/memorial-vicente-garcia-gonzalez-39-anos-de-su-apertura-al-publico-15-11-2026-10-11-27",
+      "destacada": false,
+      "tema": "memorial",
+      "fecha": "Sun, 15 Nov 2026 10:11:27 -0500",
+      "id": 42
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Delfín Prats: «pero en el viento su rumor llegaba»",
+      "resumen": "Delfín Prats (La Cuaba, Holguín, 1945) es una figura central de la poesía cubana contemporánea. Premio Nacional de Literatura (2022). Estudió Filología Rusa y obtuvo temprano reconocimiento con Lenguaje de mudos (Premio David, 1968)",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cultura/2026-11-15/delfin-prats-pero-en-el-viento-su-rumor-llegaba-15-11-2026-08-11-44",
+      "destacada": false,
+      "tema": "delfín",
+      "fecha": "Sun, 15 Nov 2026 08:11:44 -0500",
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -287,7 +573,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Sun, 15 Nov 2026 08:00:00 -0500",
-      "id": 22
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -300,7 +586,7 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Sun, 15 Nov 2026 07:00:30 -0500",
-      "id": 23
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -313,20 +599,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Sun, 15 Nov 2026 07:00:00 -0500",
-      "id": 24
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Yordan Álvarez en las Grandes Ligas: Durante 2026, 14 premios y contando...",
-      "resumen": "El cubano fue elegido MVP de la Liga Americana por unanimidad, se coronó campeón de bateo de la Liga Americana —Premio Rod Carew—, obtuvo el Premio Hank Aaron de la Liga Americana, el Premio Edgar Martínez al mejor bateador designado y el Regreso del Año de la Liga Americana, otorgado por MLB. Tambi",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/15/yordan-alvarez-en-las-grandes-ligas-durante-2026-14-premios-y-contando/",
-      "destacada": false,
-      "tema": "yordan",
-      "fecha": "Sun, 15 Nov 2026 04:26:19 +0000",
-      "id": 25
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -339,111 +612,7 @@
       "destacada": false,
       "tema": "memorias",
       "fecha": "Sun, 15 Nov 2026 01:19:16 +0100",
-      "id": 26
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "'Uno me apuntaba con la pistola': sube el nivel de la represión al periodismo en Cuba",
-      "resumen": "El periodista de Cubanet Vladimir Turro denuncia un intento de intimidación de la Seguridad del Estado con un arma de fuego. El experto de DIARIO DE CUBA Edel González explica qué establece la legislación cubana sobre el uso de armas reglamentarias.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1794695101_69858.html",
-      "destacada": false,
-      "tema": "apuntaba",
-      "fecha": "Sat, 14 Nov 2026 23:25:01 +0100",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba firma acuerdo para avanzar en el mercado global de carbono",
-      "resumen": "Cuba dio un nuevo paso en su estrategia de inserción en el mercado internacional de carbono con la firma de un Memorando de Entendimiento entre el Ministerio de Ciencia, Tecnología y Medio Ambiente (CITMA) y el Consejo Global de Carbono (GCC), considerado uno de los principales registros de créditos",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/14/cuba-firma-acuerdo-para-avanzar-en-el-mercado-global-de-carbono/",
-      "destacada": false,
-      "tema": "firma",
-      "fecha": "Sat, 14 Nov 2026 22:32:54 +0000",
-      "id": 28
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Bicicletas, motos eléctricas, triciclos… así se mueve Santiago de Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794687726_69844.html",
-      "destacada": false,
-      "tema": "bicicletas",
-      "fecha": "Sat, 14 Nov 2026 21:22:06 +0100",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Cojea la acusación del régimen cubano contra Henry Constantin?",
-      "resumen": "El abogado Raudiel Peña, de Cubalex, y el experto de DIARIO DE CUBA Edel González Jiménez opinan sobre la presión del régimen cubano para que Henry Constantin abandone el país, tras mantenerlo en prisión por casi dos meses por presunta desobediencia.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1794683828_69857.html",
-      "destacada": false,
-      "tema": "cojea",
-      "fecha": "Sat, 14 Nov 2026 20:17:08 +0100",
-      "id": 30
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Postmoderno",
-      "resumen": "El cineasta cubanoamericano Joe Cardona y sus invitados rompen los muros culturales que han aislado a Cuba por mucho tiempo y tienden un puente musical para conocer la música que una vez fue censurada, prohibida y descartada.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/483220.html",
-      "destacada": false,
-      "tema": "postmoderno",
-      "fecha": "Sat, 14 Nov 2026 20:00:00 -0500",
-      "id": 31
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Sin gas ni electricidad, las cocinas de La Habana Vieja se apagan",
-      "resumen": "'Paladares' y cafeterías del centro histórico permanecen cerradas este sábado o solo ofrecen bebidas y panes",
-      "imagen_url": "https://static.14ymedio.com/clip/16c7792f-5100-4a6c-9139-059357cf135c_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/gas-electricidad-cocinas-habana-vieja_1_1133237.html",
-      "destacada": false,
-      "tema": "electricidad",
-      "fecha": "Sat, 14 Nov 2026 19:33:15 +0000",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Calle 232 conquista Moscú: cine cubano gana el Premio Mariposa de Diamante",
-      "resumen": "La película de Rudy Mora suma un nuevo galardón internacional y consolida la presencia del cine cubano en circuitos euroasiáticos La entrada Calle 232 conquista Moscú: cine cubano gana el Premio Mariposa de Diamante se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/calle-232-conquista-moscu-cine-cubano-gana-el-premio-mariposa-de-diamante/",
-      "destacada": false,
-      "tema": "calle",
-      "fecha": "Sat, 14 Nov 2026 19:20:01 +0000",
-      "id": 33
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Decidir primero, preguntar después: ¿para qué pide el Gobierno cubano la opinión de los ciudadanos?",
-      "resumen": "La consulta popular sobre la reforma económica lanzada por el régimen de #Cuba a meses del anuncio de las medidas, ¿busca corregir errores, preparar nuevos ajustes o lograr respaldo?",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794675615_69835.html",
-      "destacada": false,
-      "tema": "decidir",
-      "fecha": "Sat, 14 Nov 2026 18:00:15 +0100",
-      "id": 34
+      "id": 47
     }
   ]
 }
