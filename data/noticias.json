@@ -1,8 +1,112 @@
 {
-  "fecha": "2026-11-15",
-  "hora": "20:40",
-  "total": 47,
+  "fecha": "2026-11-16",
+  "hora": "00:33",
+  "total": 49,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba muestra su cultura en la Fiesta de las Naciones en Chile",
+      "resumen": "Santiago de Chile, 15 nov (Prensa Latina) Cuba, con su música, sus colores y sabores, participó hoy en Chile en la Fiesta de las Naciones, un evento que reunió a 55 países con el objetivo de promover el intercambio cultural. The post Cuba muestra su cultura en la Fiesta de las Naciones en Chile firs",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/15/cuba-muestra-su-cultura-en-la-fiesta-de-las-naciones-en-chile/",
+      "destacada": true,
+      "tema": "muestra",
+      "fecha": "Mon, 16 Nov 2026 01:27:30 +0000",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Ciclista cubano gana oro en certamen internacional en El Salvador",
+      "resumen": "San Salvador, 15 nov (Prensa Latina) El ciclista cubano, Vicente Sanabria, obtuvo hoy el oro en la XX edición de la Clásica Novembrina Internacional de Oriente celebrada en El Salvador. The post Ciclista cubano gana oro en certamen internacional en El Salvador first appeared on Noticias Prensa Latin",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/15/ciclista-cubano-gana-oro-en-certamen-internacional-en-el-salvador/",
+      "destacada": true,
+      "tema": "ciclista",
+      "fecha": "Mon, 16 Nov 2026 00:26:54 +0000",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Condenan a 15 años de prisión a hombre que robó un almacén con «un objeto similar a un arma de fuego» en Santiago de Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-15-u1-e208512-s27061-nid345809-condenan-15-anos-prision-hombre-robo-almacen-objeto",
+      "destacada": true,
+      "tema": "condenan",
+      "fecha": "Sun, 15 Nov 2026 23:31:41 +0100",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "A Trump le quedan dos años en la Casa Blanca: ¿resistirá la dictadura cubana?",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-15-u1-e135253-s27061-nid345808-trump-le-quedan-dos-anos-casa-blanca-resistira",
+      "destacada": true,
+      "tema": "trump",
+      "fecha": "Sun, 15 Nov 2026 23:04:06 +0100",
+      "id": 4
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Hammer se reúne con la delegación de Obispos Católicos de EE.UU. tras encuentro con Díaz-Canel",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-15-u1-e208512-s27061-nid345807-hammer-reune-delegacion-obispos-catolicos-eeuu-tras",
+      "destacada": true,
+      "tema": "hammer",
+      "fecha": "Sun, 15 Nov 2026 22:46:16 +0100",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EE.UU. seguirá presionando por una Cuba próspera, dice portavoz del Departamento de Estado",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-15-u1-e208512-s27061-nid345805-eeuu-seguira-presionando-cuba-prospera-dice-portavoz",
+      "destacada": false,
+      "tema": "seguirá",
+      "fecha": "Sun, 15 Nov 2026 22:36:59 +0100",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "MINSAP admite que hay «transmisión de dengue y chikungunya en todas las provincias» de Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-15-u1-e209395-s27061-nid345802-minsap-admite-hay-transmision-dengue-chikungunya",
+      "destacada": false,
+      "tema": "minsap",
+      "fecha": "Sun, 15 Nov 2026 22:13:43 +0100",
+      "id": 7
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Ministro de Energía habla de «fomentar iniciativas» y cubanos explotan en redes: «¡Basta!»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-15-u1-e209395-s27061-nid345801-ministro-energia-habla-fomentar-iniciativas-cubanos",
+      "destacada": false,
+      "tema": "ministro",
+      "fecha": "Sun, 15 Nov 2026 21:53:11 +0100",
+      "id": 8
+    },
     {
       "categoria": "transporte",
       "fuente": "https://www.diariodecuba.com",
@@ -11,23 +115,10 @@
       "resumen": "Díaz-Canel recibe al cardenal Sean Patrick O'Malley y a obispos de EEUU. Se refiere a la ayuda humanitaria para los cubanos más vulnerables, pero omite que la envía Washington.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1794770313_69869.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "visita",
       "fecha": "Sun, 15 Nov 2026 20:18:33 +0100",
-      "id": 1
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "“No hay una sola madrugada que tengamos corriente”: denuncian abandono institucional en reparto Monterrey de La Habana",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-15-u1-e209363-s27061-nid345791-hay-sola-madrugada-tengamos-corriente-denuncian",
-      "destacada": true,
-      "tema": "madrugada",
-      "fecha": "Sun, 15 Nov 2026 19:54:29 +0100",
-      "id": 2
+      "id": 9
     },
     {
       "categoria": "economia",
@@ -37,49 +128,10 @@
       "resumen": "Cada día que pasa tienen menos credibilidad las 'transformaciones' en la economía de #Cuba.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/economia/1794767694_69839.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "cuidado",
       "fecha": "Sun, 15 Nov 2026 19:34:54 +0100",
-      "id": 3
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Monte y Fernandina, otra esquina de La Habana donde la basura se acumula sin respuesta del gobierno",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-15-u1-e209363-s27061-nid345789-monte-fernandina-otra-esquina-habana-donde-basura",
-      "destacada": true,
-      "tema": "monte",
-      "fecha": "Sun, 15 Nov 2026 19:33:47 +0100",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "“Qué manera tan cruel de pedirles que sigan resistiendo”: denuncian abandono de ancianos en Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-15-u1-e209363-s27061-nid345787-manera-tan-cruel-pedirles-sigan-resistiendo",
-      "destacada": true,
-      "tema": "manera",
-      "fecha": "Sun, 15 Nov 2026 19:11:57 +0100",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Los cubanos hemos convertido nuestros hogares en búnkeres»: la deriva de un país donde falta todo",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-15-u1-e209395-s27061-nid345777-cubanos-hemos-convertido-nuestros-hogares-bunkeres",
-      "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Sun, 15 Nov 2026 19:04:27 +0100",
-      "id": 6
+      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -92,7 +144,7 @@
       "destacada": false,
       "tema": "consolida",
       "fecha": "Sun, 15 Nov 2026 18:58:01 +0000",
-      "id": 7
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -105,20 +157,7 @@
       "destacada": false,
       "tema": "maratón",
       "fecha": "Sun, 15 Nov 2026 18:53:04 +0000",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Lo que el programa de Vox cambiaría para los cubanos en España: Impuesto a remesas y restricciones en alquiler y sanidad",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-15-u1-e207888-s27061-nid345781-programa-vox-cambiaria-cubanos-espana-impuesto",
-      "destacada": false,
-      "tema": "programa",
-      "fecha": "Sun, 15 Nov 2026 18:47:30 +0100",
-      "id": 9
+      "id": 12
     },
     {
       "categoria": "transporte",
@@ -131,7 +170,7 @@
       "destacada": false,
       "tema": "comando",
       "fecha": "Sun, 15 Nov 2026 18:46:10 +0100",
-      "id": 10
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -144,7 +183,7 @@
       "destacada": false,
       "tema": "paraguay",
       "fecha": "Sun, 15 Nov 2026 18:21:56 +0100",
-      "id": 11
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -157,7 +196,7 @@
       "destacada": false,
       "tema": "reactivan",
       "fecha": "Sun, 15 Nov 2026 17:53:30 +0000",
-      "id": 12
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -170,7 +209,7 @@
       "destacada": false,
       "tema": "marabana",
       "fecha": "Sun, 15 Nov 2026 17:42:35 +0000",
-      "id": 13
+      "id": 16
     },
     {
       "categoria": "politica",
@@ -183,20 +222,20 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Sun, 15 Nov 2026 17:24:22 +0100",
-      "id": 14
+      "id": 17
     },
     {
       "categoria": "sociedad",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Tras ganar el Mariposa de Diamentes, el filme Calle 232 compite en festival mexicano",
-      "resumen": "La noticia llega días después de que el largometraje cubano conquistara el galardón a Mejor Filme Internacional No Euroasiático, del pretigioso Premio Mariposa de Diamantes, auspiciado por la Academia Euroasiática de Cine. The post Tras ganar el Mariposa de Diamentes, el filme Calle 232 compite en f",
+      "titulo": "Tras ganar el Mariposa de Diamantes, el filme Calle 232 compite en festival mexicano",
+      "resumen": "La noticia llega días después de que el largometraje cubano conquistara el galardón a Mejor Filme Internacional No Euroasiático, del pretigioso Premio Mariposa de Diamantes, auspiciado por la Academia Euroasiática de Cine. The post Tras ganar el Mariposa de Diamantes, el filme Calle 232 compite en f",
       "imagen_url": "",
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/15/tras-ganar-el-mariposa-de-diamentes-el-filme-calle-232-compite-en-festival-mexicano/",
       "destacada": false,
       "tema": "ganar",
       "fecha": "Sun, 15 Nov 2026 17:00:03 +0000",
-      "id": 15
+      "id": 18
     },
     {
       "categoria": "economia",
@@ -209,7 +248,7 @@
       "destacada": false,
       "tema": "estado",
       "fecha": "Sun, 15 Nov 2026 16:26:39 +0000",
-      "id": 16
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -222,7 +261,7 @@
       "destacada": false,
       "tema": "viengsay",
       "fecha": "Sun, 15 Nov 2026 16:20:38 +0000",
-      "id": 17
+      "id": 20
     },
     {
       "categoria": "politica",
@@ -235,7 +274,7 @@
       "destacada": false,
       "tema": "recibió",
       "fecha": "Sun, 15 Nov 2026 15:48:50 +0000",
-      "id": 18
+      "id": 21
     },
     {
       "categoria": "salud",
@@ -248,7 +287,7 @@
       "destacada": false,
       "tema": "eligen",
       "fecha": "Sun, 15 Nov 2026 15:17:40 +0000",
-      "id": 19
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -261,7 +300,7 @@
       "destacada": false,
       "tema": "seguirá",
       "fecha": "Sun, 15 Nov 2026 15:03:47 -0500",
-      "id": 20
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -274,7 +313,7 @@
       "destacada": false,
       "tema": "italia",
       "fecha": "Sun, 15 Nov 2026 15:01:55 +0000",
-      "id": 21
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -287,20 +326,20 @@
       "destacada": false,
       "tema": "avenida",
       "fecha": "Sun, 15 Nov 2026 15:00:59 +0000",
-      "id": 22
+      "id": 25
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Noches sin estrellas, sin lunas, sin datos",
+      "titulo": "Noches sin estrellas, sin luna, sin datos",
       "resumen": "En la #Cuba actual solo se necesita un requisito para cometer un delito: estar vivo. El periodista Jorge Enrique Rodríguez escribe su bitácora desde #LaHabana. Léela en #DiarioDeCuba.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1794751090_69865.html",
       "destacada": false,
       "tema": "noches",
       "fecha": "Sun, 15 Nov 2026 14:58:10 +0100",
-      "id": 23
+      "id": 26
     },
     {
       "categoria": "politica",
@@ -313,7 +352,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Sun, 15 Nov 2026 14:25:27 +0000",
-      "id": 24
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -326,7 +365,7 @@
       "destacada": false,
       "tema": "mulino",
       "fecha": "Sun, 15 Nov 2026 14:09:37 +0100",
-      "id": 25
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -339,7 +378,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Sun, 15 Nov 2026 13:20:53 +0100",
-      "id": 26
+      "id": 29
     },
     {
       "categoria": "energia",
@@ -352,7 +391,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sun, 15 Nov 2026 13:10:49 +0000",
-      "id": 27
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -365,7 +404,7 @@
       "destacada": false,
       "tema": "washington",
       "fecha": "Sun, 15 Nov 2026 13:00:00 GMT",
-      "id": 28
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -378,7 +417,7 @@
       "destacada": false,
       "tema": "llegan",
       "fecha": "Sun, 15 Nov 26 12:47:00 +0100",
-      "id": 29
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -391,7 +430,7 @@
       "destacada": false,
       "tema": "constitución",
       "fecha": "Sun, 15 Nov 2026 12:08:46 +0000",
-      "id": 30
+      "id": 33
     },
     {
       "categoria": "energia",
@@ -404,7 +443,7 @@
       "destacada": false,
       "tema": "apagones",
       "fecha": "Sun, 15 Nov 26 12:06:00 +0100",
-      "id": 31
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -417,7 +456,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Sun, 15 Nov 2026 12:00:00 -0500",
-      "id": 32
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -430,7 +469,7 @@
       "destacada": false,
       "tema": "siempre",
       "fecha": "Sun, 15 Nov 26 11:59:00 +0100",
-      "id": 33
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -443,7 +482,7 @@
       "destacada": false,
       "tema": "cancilleres",
       "fecha": "Sun, 15 Nov 26 11:43:00 +0100",
-      "id": 34
+      "id": 37
     },
     {
       "categoria": "politica",
@@ -456,7 +495,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Sun, 15 Nov 26 11:40:00 +0100",
-      "id": 35
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -469,7 +508,7 @@
       "destacada": false,
       "tema": "palestina",
       "fecha": "Sun, 15 Nov 26 11:38:00 +0100",
-      "id": 36
+      "id": 39
     },
     {
       "categoria": "politica",
@@ -482,7 +521,7 @@
       "destacada": false,
       "tema": "firma",
       "fecha": "Sun, 15 Nov 26 11:34:00 +0100",
-      "id": 37
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -495,7 +534,7 @@
       "destacada": false,
       "tema": "movimiento",
       "fecha": "Sun, 15 Nov 26 11:31:00 +0100",
-      "id": 38
+      "id": 41
     },
     {
       "categoria": "salud",
@@ -508,7 +547,7 @@
       "destacada": false,
       "tema": "celebran",
       "fecha": "Sun, 15 Nov 26 11:29:00 +0100",
-      "id": 39
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -521,7 +560,7 @@
       "destacada": false,
       "tema": "resistencia",
       "fecha": "Sun, 15 Nov 26 11:28:00 +0100",
-      "id": 40
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -534,33 +573,20 @@
       "destacada": false,
       "tema": "hammer",
       "fecha": "Sun, 15 Nov 2026 10:20:13 -0500",
-      "id": 41
+      "id": 44
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Memorial Vicente García González, 39 años de su apertura al público",
-      "resumen": "El museo municipal Mayor General Vicente García González, de la ciudad de Las Tunas, cumplió 39 años y es orgullo para los residentes en el Balcón del Oriente cubano",
+      "categoria": "salud",
+      "fuente": "https://giron.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cooperación Cuba-Italia fortalece los servicios de TAC del Hospital Faustino",
+      "resumen": "El servicio de Tomografía Axial Computarizada (TAC) del Hospital Provincial Clínico Quirúrgico Docente Faustino Pérez, de Matanzas, alcanza resultados significativos al cumplir sus primeros diez meses de funcionamiento",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-11-15/memorial-vicente-garcia-gonzalez-39-anos-de-su-apertura-al-publico-15-11-2026-10-11-27",
+      "enlace_original": "https://giron.cu/2026/11/15/cooperacion-cuba-italia-fortalece-los-servicios-de-tac-del-hospital-faustino-perez-mas-de-20-mil-estudios-en-un-ano/",
       "destacada": false,
-      "tema": "memorial",
-      "fecha": "Sun, 15 Nov 2026 10:11:27 -0500",
-      "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Delfín Prats: «pero en el viento su rumor llegaba»",
-      "resumen": "Delfín Prats (La Cuaba, Holguín, 1945) es una figura central de la poesía cubana contemporánea. Premio Nacional de Literatura (2022). Estudió Filología Rusa y obtuvo temprano reconocimiento con Lenguaje de mudos (Premio David, 1968)",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-11-15/delfin-prats-pero-en-el-viento-su-rumor-llegaba-15-11-2026-08-11-44",
-      "destacada": false,
-      "tema": "delfín",
-      "fecha": "Sun, 15 Nov 2026 08:11:44 -0500",
-      "id": 43
+      "tema": "cooperación",
+      "fecha": "Sun, 15 Nov 2026 08:27:00 +0000",
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -573,7 +599,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Sun, 15 Nov 2026 08:00:00 -0500",
-      "id": 44
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -586,7 +612,7 @@
       "destacada": false,
       "tema": "santa",
       "fecha": "Sun, 15 Nov 2026 07:00:30 -0500",
-      "id": 45
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -599,7 +625,7 @@
       "destacada": false,
       "tema": "habla",
       "fecha": "Sun, 15 Nov 2026 07:00:00 -0500",
-      "id": 46
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -612,7 +638,7 @@
       "destacada": false,
       "tema": "memorias",
       "fecha": "Sun, 15 Nov 2026 01:19:16 +0100",
-      "id": 47
+      "id": 49
     }
   ]
 }
