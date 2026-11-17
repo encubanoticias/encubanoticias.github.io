@@ -1,8 +1,346 @@
 {
-  "fecha": "2026-11-16",
-  "hora": "17:41",
-  "total": 56,
+  "fecha": "2026-11-17",
+  "hora": "01:20",
+  "total": 53,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El cine cubano conquista más allá de sus fronteras",
+      "resumen": "La Habana, 16 nov (Prensa Latina) El cine cubano brilla, se renueva y conquista hoy en cada nación donde sus historias reciben elogios y premios, como el Mariposa de Diamantes otorgado recientemente a Calle 232, del realizador Rudy Mora. The post El cine cubano conquista más allá de sus fronteras fi",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/16/el-cine-cubano-conquista-mas-alla-de-sus-fronteras/",
+      "destacada": true,
+      "tema": "cubano",
+      "fecha": "Tue, 17 Nov 2026 01:27:04 +0000",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubano tras visitar la isla: «Duele ver a quienes amas vivir con tantas dificultades»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-17-u1-e199291-s27061-nid345899-cubano-tras-visitar-isla-duele-ver-quienes-amas",
+      "destacada": true,
+      "tema": "cubano",
+      "fecha": "Tue, 17 Nov 2026 01:07:36 +0100",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Chiapas reactiva el empleo temporal para migrantes varados: qué puede significar para los cubanos atrapados en el sur de México",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-17-u1-e135253-s27061-nid345898-chiapas-reactiva-empleo-temporal-migrantes-varados",
+      "destacada": true,
+      "tema": "chiapas",
+      "fecha": "Tue, 17 Nov 2026 01:06:05 +0100",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Artistas cubanos nominados a los Grammy 2027: Gonzalo Rubalcaba se lleva dos menciones",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-17-u1-e208487-s27065-nid345894-artistas-cubanos-nominados-grammy-2027-gonzalo",
+      "destacada": true,
+      "tema": "artistas",
+      "fecha": "Tue, 17 Nov 2026 00:55:14 +0100",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Todo sigue caro igual»: Cubanos cuestionan al MINCIN por los mercados de barrio",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-17-u1-e199291-s27061-nid345893-todo-sigue-caro-igual-cubanos-cuestionan-al-mincin",
+      "destacada": true,
+      "tema": "sigue",
+      "fecha": "Tue, 17 Nov 2026 00:52:16 +0100",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Periodista oficialista cubana denuncia presunto robo en su casa: «Quiero meterlo preso para que no haga más daño»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-17-u1-e199291-s27061-nid345895-periodista-oficialista-cubana-denuncia-presunto-robo",
+      "destacada": false,
+      "tema": "periodista",
+      "fecha": "Tue, 17 Nov 2026 00:34:14 +0100",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "A seis años del Movimiento San Isidro: Maykel Osorbo sigue preso en Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-17-u1-e199291-s27061-nid345890-seis-anos-movimiento-san-isidro-maykel-osorbo-sigue",
+      "destacada": false,
+      "tema": "movimiento",
+      "fecha": "Tue, 17 Nov 2026 00:07:32 +0100",
+      "id": 7
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Nos estamos acabando entre nosotros mismos»: Cubana estalla por los altos precios",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-16-u1-e199291-s27061-nid345889-nos-estamos-acabando-nosotros-mismos-cubana-estalla",
+      "destacada": false,
+      "tema": "estamos",
+      "fecha": "Mon, 16 Nov 2026 23:52:42 +0100",
+      "id": 8
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "En la Cuba de los apagones, las antiguas cabinas telefónicas tendrán una nueva misión",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-16-u1-e135253-s27061-nid345888-cuba-apagones-antiguas-cabinas-telefonicas-tendran",
+      "destacada": false,
+      "tema": "apagones",
+      "fecha": "Mon, 16 Nov 2026 23:34:26 +0100",
+      "id": 9
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "American Airlines impone nuevas restricciones de equipaje en sus vuelos a Cuba",
+      "resumen": "American Airlines reduce el peso máximo permitido para las maletas de quienes viajen a Cuba. La medida afecta a los seis destinos que opera la compañía en la Isla.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794867616_69887.html",
+      "destacada": false,
+      "tema": "american",
+      "fecha": "Mon, 16 Nov 2026 23:20:16 +0100",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "'Soy el único extranjero en el hotel', o cómo se reinventa la oferta hotelera en Varadero",
+      "resumen": "Con la temporada alta sin salvación y el periodo navideño dado por perdido, las autoridades del turismo en #Cuba improvisan sobre la marcha.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1794866754_69884.html",
+      "destacada": false,
+      "tema": "único",
+      "fecha": "Mon, 16 Nov 2026 23:05:54 +0100",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba tiene la tercera tasa de suicidios más alta de América Latina y el Caribe, según un informe",
+      "resumen": "La Isla pasó del quinto al tercer puesto respecto a 2023 y figura entre los países con mayor prevalencia estimada de depresión La mortalidad por suicidio entre los hombres cubanos fue un 374% superior a la de las mujeres en 2023 Cuba encabeza la mort",
+      "imagen_url": "https://static.14ymedio.com/clip/1412c259-7d0b-44bb-94d7-112714e3e71b_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/cuba-tercera-tasa-suicidios-america-latina-caribe_1_1133356.html",
+      "destacada": false,
+      "tema": "tercera",
+      "fecha": "Mon, 16 Nov 2026 22:55:18 +0000",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El régimen reparte medallas, pero no medios, al mermado Cuerpo de Bomberos de Cuba",
+      "resumen": "El régimen riega con medallas al Cuerpo de Bomberos de Cuba, muy deficitario en medios. La propaganda habla de métodos modernos, pero la precariedad marca las operaciones de rescate y extinción.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794861467_69883.html",
+      "destacada": false,
+      "tema": "régimen",
+      "fecha": "Mon, 16 Nov 2026 21:37:47 +0100",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La Habana renueva sus espacios, preserva su memoria",
+      "resumen": "La conservación del patrimonio y la incorporación de nuevas herramientas para la vida urbana no son necesariamente caminos separados. En La Habana Vieja, ambas apuestas coincidieron este 16 de noviembre en una jornada de reaperturas e inauguraciones organizada por la Oficina del Historiador de la Ci",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/16/la-habana-renueva-sus-espacios-preserva-su-memoria/",
+      "destacada": false,
+      "tema": "habana",
+      "fecha": "Mon, 16 Nov 2026 20:34:52 +0000",
+      "id": 14
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Autoridades del país felicitan a La Habana en su aniversario 507",
+      "resumen": "Este lunes se cumplen 507 años de fundada la villa de San Cristóbal de La Habana, que ostenta el título de Ciudad Maravilla desde 2016. A propósito de la efeméride, las máximas autoridades cubanas felicitaron a la otrora villa y a sus habitantes en este nuevo aniversario. En redes sociales, califica",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/autoridades-del-pais-felicitan-a-la-habana-en-su-aniversario-507/",
+      "destacada": false,
+      "tema": "autoridades",
+      "fecha": "Mon, 16 Nov 2026 20:14:04 +0000",
+      "id": 15
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Siete meses a oscuras: la crisis que mantiene en el abandono a barrios rurales de Perico, Matanzas",
+      "resumen": "Mientras las autoridades priorizan el suministro eléctrico en la capital cubana, decenas de familias en las comunidades de Las Canteras y Materia Prima sobreviven sin corriente desde hace más de medio año debido a averías en transformadores y a la falta de recursos estatales.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/siete-meses-a-oscuras-la-crisis-que-mantiene-en-el-abandono-a-barrios-rurales-de-perico-matanzas/484361.html",
+      "destacada": false,
+      "tema": "siete",
+      "fecha": "Mon, 16 Nov 2026 20:07:03 -0500",
+      "id": 16
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Actores privados que financien el sector estatal: la nueva ambición del régimen cubano",
+      "resumen": "El régimen cubano ofrece incentivos fiscales para que emprendedores y empresas privadas financien escuelas, hospitales y otros servicios públicos. ¿Cuántos se convertirán en mecenas de un Estado en quiebra?",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1794855719_69879.html",
+      "destacada": false,
+      "tema": "actores",
+      "fecha": "Mon, 16 Nov 2026 20:01:59 +0100",
+      "id": 17
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El régimen cubano promete beneficios fiscales a las mipymes que financien servicios públicos",
+      "resumen": "Una nueva resolución establece bonificaciones del 20% para inversiones en infraestructuras sociales y del 10% para donaciones a entidades estatales",
+      "imagen_url": "https://static.14ymedio.com/clip/167f6814-f640-40f6-9f06-2eea7465a907_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/regimen-cubano-promete-beneficios-fiscales_1_1133345.html",
+      "destacada": false,
+      "tema": "mipymes",
+      "fecha": "Mon, 16 Nov 2026 20:01:11 +0000",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 8:00 PM",
+      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/483283.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Mon, 16 Nov 2026 20:00:00 -0500",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Reabren espacios patrimoniales y de innovación por aniversario 507 de La Habana",
+      "resumen": "Historia y cultura, arte y tradición, soluciones y tecnologías sobresalieron en un recorrido por espacios patrimoniales recientemente rehabilitados, con reaperturas museológicas y nuevos proyectos de ciencia e innovación en el Centro Histórico de La Habana, en ocasión de celebrarse este 16 de noviem",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261116/reabren-espacios-patrimoniales-y-de-innovacion-por-aniversario-507-de-la-habana/",
+      "destacada": false,
+      "tema": "reabren",
+      "fecha": "Mon, 16 Nov 2026 19:57:45 +0000",
+      "id": 20
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Pollo, aceite, azúcar, cerveza: casi 100 millones de dólares exportados por EEUU a Cuba en septiembre",
+      "resumen": "Las ventas de alimentos de #EEUU a #Cuba registran cifras históricas y son otro ejemplo de la situación de quiebre económico de la Isla.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1794854807_69878.html",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Mon, 16 Nov 2026 19:46:47 +0100",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "'Jardin d'enfants': Alejandro Cañer y la educación sentimental del cuerpo",
+      "resumen": "El artista cubano Alejandro Cañer presenta en París \"Jardin d’enfants\", una exposición que objetos \"infantiles\" en dispositivos de interrogación política. Lee el artículo de Edgar Ariel en #DiarioDeCuba. #Cuba #ArtesVisuales",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cultura/1794853751_69880.html",
+      "destacada": false,
+      "tema": "jardin",
+      "fecha": "Mon, 16 Nov 2026 19:29:11 +0100",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Goleada para cumplir las tareas sin susto (+ Fotos)",
+      "resumen": "Cuba lideró su grupo C en el nivel B de la Liga de Naciones de la Concacaf",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-11-16/goleada-para-cumplir-las-tareas-sin-susto-16-11-2026-19-11-17",
+      "destacada": false,
+      "tema": "goleada",
+      "fecha": "Mon, 16 Nov 2026 19:11:17 -0500",
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"Voy a seguir dándole voz a mi gente\": periodista cubano responde a las amenazas del régimen",
+      "resumen": "El periodista independiente Vladimir Turró Páez dijo que no renunciará a su trabajo informativo dentro de Cuba pese a las amenazas de la Seguridad del Estado.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/voy-a-seguir-d%c3%a1ndole-voz-a-mi-gente-periodista-cubano-responde-a-las-amenazas-del-r%c3%a9gimen/484347.html",
+      "destacada": false,
+      "tema": "seguir",
+      "fecha": "Mon, 16 Nov 2026 19:00:55 -0500",
+      "id": 24
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba ofrece rebajas fiscales a quien invierta en escuelas, policlínicos y hogares de ancianos: lo que debes saber",
+      "resumen": "La resolución ofrece deducciones fiscales a mipymes y trabajadores por cuenta propia que inviertan en servicios públicos, pero no define porcentajes de bonificación, ni mecanismos de control, ni cómo se trasladan los saldos no utilizados. Su eficacia dependerá de factores que la norma no controla.",
+      "imagen_url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/2018_02_20_Mederos_VC_ESCUELA_03_12472944eb.jpg/width=1920,quality=75,fit=scale-down,dpr=1,slow-connection-quality=40",
+      "enlace_original": "https://eltoque.com/deducciones-fiscales-por-invertir-en-servicios-publicos-cuba",
+      "destacada": false,
+      "tema": "ofrece",
+      "fecha": "Mon, 16 Nov 2026 19:00:00 GMT",
+      "id": 25
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Habana celebra sus 507 años",
+      "resumen": "Los capitalinos honraron su ciudad y sus tradiciones con la ceremonia de las tres vueltas a la Ceiba en El Templete, en la Plaza de Armas, en pleno Centro Histórico, en vísperas del aniversario 507 de la fundación de la otrora Villa de San Cristóbal de La Habana La entrada La Habana celebra sus 507 ",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/la-habana-celebra-sus-507-anos/",
+      "destacada": false,
+      "tema": "habana",
+      "fecha": "Mon, 16 Nov 2026 18:21:18 +0000",
+      "id": 26
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
@@ -11,49 +349,36 @@
       "resumen": "La situación ha llegado a un extremo tal que obligó al periódico oficialista 'Trabajadores' a realizar un reportaje sobre el tema.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/economia/1794848548_69875.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "inspectores",
       "fecha": "Mon, 16 Nov 2026 18:02:28 +0100",
-      "id": 1
+      "id": 27
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "categoria": "economia",
+      "fuente": "https://www.guerrillero.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "La Habana cumple 507 años: Una ciudad en ruinas, entre la pobreza y el desencanto",
-      "resumen": "",
+      "titulo": "Ministerio de Finanzas y Precios de Cuba presenta incentivos fiscales para actores económicos estatales y privados",
+      "resumen": "La norma precisa en su primera disposición que la bonificación del pago de los impuestos sobre Utilidades y sobre los Ingresos Personales beneficiará a los que contribuyan con proyectos de construcción, rehabilitación o equipamiento de escuela, entre otras instituciones La Gaceta Oficial de la Repúb",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-16-u1-e207888-s27061-nid345850-habana-cumple-507-anos-ciudad-ruinas-pobreza",
-      "destacada": true,
-      "tema": "habana",
-      "fecha": "Mon, 16 Nov 2026 17:55:15 +0100",
-      "id": 2
+      "enlace_original": "https://www.guerrillero.cu/ministerio-de-finanzas-y-precios-de-cuba-presenta-incentivos-fiscales-para-actores-economicos-estatales-y-privados/",
+      "destacada": false,
+      "tema": "ministerio",
+      "fecha": "Mon, 16 Nov 2026 17:47:51 +0000",
+      "id": 28
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Reconocen en Cuba labor solidaria de asociación francesa",
-      "resumen": "La Habana, 16 nov (Prensa Latina) La fundadora del proyecto comunitario Soñarte, Irma Sehwerert, reconoció hoy en esta capital la solidaridad de la asociación francesa Cuba Linda, la cual realizó nuevos aportes a la iniciativa que involucra a niños, adolescentes y jóvenes. The post Reconocen en Cuba",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/16/reconocen-en-cuba-labor-solidaria-de-asociacion-francesa/",
-      "destacada": true,
-      "tema": "reconocen",
-      "fecha": "Mon, 16 Nov 2026 17:45:43 +0000",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Foros empresariales en las embajadas del régimen cubano: ¿con quién y para qué?",
-      "resumen": "Ante la ausencia de una FIHAV presencial, el régimen cubano multiplica los foros empresariales en sus embajadas para atraer inversiones. Pero los encuentros dejan más propaganda que acuerdos.",
+      "titulo": "El cofre de La Habana, memoria y esperanza de una Cuba libre",
+      "resumen": "En los jardines de la residencia del Jefe de Misión de Estados Unidos en Cuba existe una cápsula del tiempo enterrada que guarda mensajes que fueron escritos por opositores cubanos para ser leídos cuando Cuba sea libre. Más de 20 años después recordamos el Cofre de La Habana.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1794847334_69877.html",
-      "destacada": true,
-      "tema": "foros",
-      "fecha": "Mon, 16 Nov 2026 17:42:14 +0100",
-      "id": 4
+      "enlace_original": "https://www.martinoticias.com/a/los-mensajes-que-esperan-por-una-cuba-libre-la-historia-del-cofre-enterrado-en-la-habana/484329.html",
+      "destacada": false,
+      "tema": "cofre",
+      "fecha": "Mon, 16 Nov 2026 17:30:00 -0500",
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -63,88 +388,36 @@
       "resumen": "Los ejemplos de esta guía van para el dueño de una cafetería o un restaurante, el de un pequeño taller que fabrica o transforma algo, el de una obra o un servicio de reparaciones y el de una tienda",
       "imagen_url": "https://static.14ymedio.com/clip/6ef4420b-4877-4b42-9277-f15f8e3d1ce4_source-aspect-ratio_default_0.jpg",
       "enlace_original": "https://www.14ymedio.com/cienciaytecnologia/chatgpt-gemini-claude-conviene-si_1_1133329.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "chatgpt",
       "fecha": "Mon, 16 Nov 2026 17:19:01 +0000",
-      "id": 5
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El gobierno cubano aprueba incentivos fiscales para quienes financien escuelas y policlínicos: ¿quiénes pueden beneficiarse?",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-16-u1-e129488-s27061-nid345844-gobierno-cubano-aprueba-incentivos-fiscales-quienes",
-      "destacada": false,
-      "tema": "gobierno",
-      "fecha": "Mon, 16 Nov 2026 17:11:17 +0100",
-      "id": 6
+      "id": 30
     },
     {
       "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
+      "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Vuelve en diciembre Feria Internacional de Artesanía",
-      "resumen": "La XXVIII Feria Internacional de Artesanía (Fiart 2026) abrirá sus puertas aquí del 4 al 20 de diciembre, con la confirmación de participantes tanto nacionales como extranjeros. El evento, organizado por el Fondo Cubano de Bienes Culturales (Fcbc), estará dedicado este año a la oriental provincia Ho",
+      "titulo": "«El silencio de los archivos movilizado por la realidad orgánica de la escena»",
+      "resumen": "La Casa de la Memoria Escénica, imprescindible para esas artes en Cuba, se proyecta como un archivo neutral y abierto, dirigido a que otros estudien e investiguen el pasado y el presente que pronto lo será",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/16/vuelve-en-diciembre-feria-internacional-de-artesania/",
+      "enlace_original": "http://www.granma.cu/cultura/2026-11-16/el-silencio-de-los-archivos-movilizado-por-la-realidad-organica-de-la-escena-16-11-2026-17-11-27",
       "destacada": false,
-      "tema": "vuelve",
-      "fecha": "Mon, 16 Nov 2026 17:06:52 +0000",
-      "id": 7
+      "tema": "silencio",
+      "fecha": "Mon, 16 Nov 2026 17:11:27 -0500",
+      "id": 31
     },
     {
       "categoria": "transporte",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "España: Vox propone eliminar el arraigo y las vías rápidas a la nacionalidad",
-      "resumen": "El partido Vox suprimirá el arraigo y las vías rápidas para adquirir la nacionalidad, si gana las elecciones generales en España. El PSOE no menciona a Cuba. Sí lo hace el Bloque Nacionalista Gallego, pero para criticar el embargo de EEUU. Lee el reporte de Michel Suárez. #Elecciones29N #España #Cub",
+      "titulo": "Periodista independiente cubano envía fuerte mensaje al régimen tras amenazas de la Seguridad del Estado",
+      "resumen": "Periodista independiente reafirma que no renunciará a su trabajo en Cuba ni aunque el régimen lo vuelva a amenazar de muerte",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/internacional/1794845141_69876.html",
+      "enlace_original": "https://www.martinoticias.com/a/periodista-independiente-cubano-env%c3%ada-fuerte-mensaje-al-r%c3%a9gimen-tras-amenazas-de-la-seguridad-del-estado/484358.html",
       "destacada": false,
-      "tema": "españa",
-      "fecha": "Mon, 16 Nov 2026 17:05:41 +0100",
-      "id": 8
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "EE.UU. vendió a Cuba casi 100 millones de dólares en alimentos en septiembre",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-16-u1-e199370-s27061-nid345835-eeuu-vendio-cuba-casi-100-millones-dolares-alimentos",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Mon, 16 Nov 2026 16:48:15 +0100",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubano gana 1.200 euros en España y muestra lo que le queda después de pagar sus gastos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-16-u1-e74-s27061-nid345847-cubano-gana-1200-euros-espana-muestra-le-queda-despues",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Mon, 16 Nov 2026 16:43:23 +0100",
-      "id": 10
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "La Habana celebra sus 507 años",
-      "resumen": "En vísperas del aniversario 507 de la fundación de la otrora Villa de San Cristóbal de La Habana, los capitalinos honraron su ciudad y sus tradiciones con la ceremonia de las tres vueltas a la Ceiba en El Templete, en la Plaza de Armas, en pleno Centro Histórico. Desde el Museo de la Ciudad de La Ha",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/16/la-habana-celebra-sus-507-anos/",
-      "destacada": false,
-      "tema": "habana",
-      "fecha": "Mon, 16 Nov 2026 16:27:17 +0000",
-      "id": 11
+      "tema": "periodista",
+      "fecha": "Mon, 16 Nov 2026 17:03:37 -0500",
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -157,7 +430,7 @@
       "destacada": false,
       "tema": "narrativa",
       "fecha": "Mon, 16 Nov 26 16:25:00 +0100",
-      "id": 12
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -170,7 +443,7 @@
       "destacada": false,
       "tema": "rotta",
       "fecha": "Mon, 16 Nov 26 16:24:00 +0100",
-      "id": 13
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -183,7 +456,7 @@
       "destacada": false,
       "tema": "dándole",
       "fecha": "Mon, 16 Nov 26 16:23:00 +0100",
-      "id": 14
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -196,20 +469,7 @@
       "destacada": false,
       "tema": "bombazo",
       "fecha": "Mon, 16 Nov 26 16:23:00 +0100",
-      "id": 15
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Suben el dólar y el euro en Cuba: así amanecen las tasas de cambio este lunes",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-16-u1-e129488-s27061-nid345845-suben-dolar-euro-cuba-asi-amanecen-tasas-cambio-este",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Mon, 16 Nov 2026 16:20:44 +0100",
-      "id": 16
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -222,33 +482,7 @@
       "destacada": false,
       "tema": "books",
       "fecha": "Mon, 16 Nov 2026 16:20:44 +0000",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«¡Ay, esto es mentira!»: cubana regresa a la isla después de 7 años y deja a su tía sin palabras",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-16-u65722-e65722-s27065-nid345843-ay-mentira-cubana-regresa-isla-despues-7-anos",
-      "destacada": false,
-      "tema": "mentira",
-      "fecha": "Mon, 16 Nov 2026 16:10:54 +0100",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubana visita el Santuario de la Virgen de Regla en España y confiesa lo que sintió al verla",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-16-u65722-e65722-s27065-nid345842-cubana-visita-santuario-virgen-regla-espana",
-      "destacada": false,
-      "tema": "cubana",
-      "fecha": "Mon, 16 Nov 2026 16:00:23 +0100",
-      "id": 19
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -261,33 +495,7 @@
       "destacada": false,
       "tema": "inaugurada",
       "fecha": "Mon, 16 Nov 2026 15:59:16 +0000",
-      "id": 20
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Rosa María Payá reprocha al Gobierno de España su política hacia Cuba y reclama un giro",
-      "resumen": "Rosa María Payá acusa al Gobierno de Sánchez de ignorar el sufrimiento de los cubanos y reclama un giro: apoyo al cambio, presión sobre la cúpula del régimen y una nueva posición europea. #Cuba #Transición",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794841016_69874.html",
-      "destacada": false,
-      "tema": "maría",
-      "fecha": "Mon, 16 Nov 2026 15:56:56 +0100",
-      "id": 21
-    },
-    {
-      "categoria": "salud",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Ministerio de Salud exhorta reclama responsabilidad ante situación epidemiológica",
-      "resumen": "El Ministerio de Salud Pública de Cuba pidió redoblar la responsabilidad individual y colectiva frente la situación epidemiológica que atraviesa el país caribeño. La directora nacional de Vigilancia y Lucha Antivectorial de la mencionada cartera, Madelaine Rivera reiteró que el mosquito es doméstico",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/16/ministerio-de-salud-exhorta-reclama-responsabilidad-ante-situacion-epidemiologica/",
-      "destacada": false,
-      "tema": "ministerio",
-      "fecha": "Mon, 16 Nov 2026 15:47:19 +0000",
-      "id": 22
+      "id": 38
     },
     {
       "categoria": "politica",
@@ -300,46 +508,20 @@
       "destacada": false,
       "tema": "autoridades",
       "fecha": "Mon, 16 Nov 2026 15:03:28 +0000",
-      "id": 23
+      "id": 39
     },
     {
       "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel llama a 'reconvertir' el sector azucarero cubano sin eliminar su mayor obstáculo",
-      "resumen": "Díaz-Canel llama a la reconversión del sector azucarero en #Cuba, pero evita abordar cómo llegó al desastre actual, después de que la Isla fuera el principal exportador de azúcar del mundo durante décadas.",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Díaz-Canel felicita a La Habana en el aniversario 507 de su fundación",
+      "resumen": "El presidente de Cuba, Miguel Díaz-Canel, felicitó hoy a La Habana en ocasión del aniversario 507 de su fundación y llamó a continuar los esfuerzos para preservar la capital frente a las dificultades",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1794836935_69873.html",
+      "enlace_original": "http://www.granma.cu/cuba/2026-11-16/diaz-canel-felicita-a-la-habana-en-el-aniversario-507-de-su-fundacion-16-11-2026-14-11-50",
       "destacada": false,
       "tema": "canel",
-      "fecha": "Mon, 16 Nov 2026 14:48:55 +0100",
-      "id": 24
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Feria del libro en Chile presenta obra sobre Fidel",
-      "resumen": "El título “…Y en eso llegó Fidel”, que contiene artículos de unos 30 autores latinoamericanos sobre el líder de la Revolución cubana, fue presentado en la Feria Internacional del Libro que sesiona en la capital chilena. Durante el lanzamiento de la obra estuvieron tres de los autores incluidos en la",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/16/feria-del-libro-en-chile-presenta-obra-sobre-fidel/",
-      "destacada": false,
-      "tema": "feria",
-      "fecha": "Mon, 16 Nov 2026 14:24:53 +0000",
-      "id": 25
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El Gobierno de Cuba limita la fumigación, con dengue y chikungunya en todo el país",
-      "resumen": "#SaludPública pide a los cubanos eliminar criaderos de mosquitos mientras falta combustible para la fumigación. El dengue y el chikungunya mantienen transmisión en todas las provincias.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794834936_69872.html",
-      "destacada": false,
-      "tema": "gobierno",
-      "fecha": "Mon, 16 Nov 2026 14:15:36 +0100",
-      "id": 26
+      "fecha": "Mon, 16 Nov 2026 14:11:50 -0500",
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -352,33 +534,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Mon, 16 Nov 2026 13:30:00 GMT",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Mike Hammer se reúne con una delegación católica estadounidense para dialogar sobre Cuba",
-      "resumen": "El jefe de la misión diplomática y el cardenal Sean Patrick O’Malley abordaron la coordinación de la ayuda humanitaria de EE UU",
-      "imagen_url": "https://static.14ymedio.com/clip/e475e731-d9a4-4ee6-89f6-dfa506d66ffc_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/mike-hammer-reune-delegacion-catolica_1_1133307.html",
-      "destacada": false,
-      "tema": "hammer",
-      "fecha": "Mon, 16 Nov 2026 13:02:57 +0000",
-      "id": 28
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La familia es la única red que responde: la quinta encuesta de DIARIO DE CUBA retrata a una Isla sin Estado",
-      "resumen": "¿A quién piden ayuda los cubanos si les falta comida, dinero o un medicamento? Solo una pequeña minoría de los consultados en la quinta encuesta de #DiarioDeCuba piensa en el Estado.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/foro-ddc/1794830438_69797.html",
-      "destacada": false,
-      "tema": "familia",
-      "fecha": "Mon, 16 Nov 2026 13:00:38 +0100",
-      "id": 29
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -391,46 +547,7 @@
       "destacada": false,
       "tema": "bajas",
       "fecha": "Mon, 16 Nov 2026 12:20:19 +0000",
-      "id": 30
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Régimen cubano envía \"mensaje de miedo\" con represión sostenida a activistas y creyentes",
-      "resumen": "Un total de 928 violaciones de derechos humanos fueron documentadas en Cuba durante octubre de 2026, según un informe del Centro de Denuncias Defensa CD, que alertó sobre un aumento de las amenazas, el hostigamiento y las restricciones a la libertad religiosa en todo el país.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/r%c3%a9gimen-cubano-env%c3%ada-mensaje-de-miedo-con-represi%c3%b3n-sostenida-a-activistas-y-creyentes/484337.html",
-      "destacada": false,
-      "tema": "régimen",
-      "fecha": "Mon, 16 Nov 2026 12:16:58 -0500",
-      "id": 31
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Habana abre el turismo al capital privado mientras pierde trabajadores",
-      "resumen": "#TurismoEnCuba: el Gobierno cubano abre más negocios turísticos a los privados mientras miles de empleados son reubicados fuera del sector. ¿Qué cambia con las nuevas medidas?",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1794827563_69871.html",
-      "destacada": false,
-      "tema": "habana",
-      "fecha": "Mon, 16 Nov 2026 12:12:43 +0100",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 12:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/483265.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Mon, 16 Nov 2026 12:00:00 -0500",
-      "id": 33
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -443,7 +560,7 @@
       "destacada": false,
       "tema": "condenado",
       "fecha": "Mon, 16 Nov 2026 11:50:24 +0000",
-      "id": 34
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -456,7 +573,7 @@
       "destacada": false,
       "tema": "laudio",
       "fecha": "Mon, 16 Nov 26 11:44:00 +0100",
-      "id": 35
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -469,20 +586,7 @@
       "destacada": false,
       "tema": "seminario",
       "fecha": "Mon, 16 Nov 26 11:38:00 +0100",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barrio adentro",
-      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/483263.html",
-      "destacada": false,
-      "tema": "barrio",
-      "fecha": "Mon, 16 Nov 2026 11:30:00 -0500",
-      "id": 37
+      "id": 45
     },
     {
       "categoria": "energia",
@@ -495,72 +599,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Mon, 16 Nov 2026 11:11:21 -0500",
-      "id": 38
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "EEUU seguirá presionando al régimen para que los cubanos sean 'libres, felices y prósperos'",
-      "resumen": "El portavoz del Departamento de Estado de EEUU, Tommy Pigott, responsabiliza al régimen cubano por la crisis humanitaria en Cuba y advierte de nuevas medidas contra la élite que se apropia de los recursos de la Isla.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794823445_69870.html",
-      "destacada": false,
-      "tema": "seguirá",
-      "fecha": "Mon, 16 Nov 2026 11:04:05 +0100",
-      "id": 39
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Los Seahawks frustran el debut del cubano Fernando Mendoza en la NFL",
-      "resumen": "Los Seahawks de Seattle, actuales campeones del super Bowl, frustraron el debut del cubanoamericano Fernando Mendoza como quarterback titular de los Raiders de Las Vegas, al imponerse con pizarra de 21-13, en partido correspondiente a la décima semana de la NFL.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/484328.html",
-      "destacada": false,
-      "tema": "seahawks",
-      "fecha": "Mon, 16 Nov 2026 10:44:41 -0500",
-      "id": 40
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Instituto de Hematología de Cuba mantiene activa línea investigativa",
-      "resumen": "El Instituto de Hematología e Inmunología de Cuba mantiene hoy activa su línea de investigaciones con proyectos dirigidos a directamente a resolver problemas de salud de la población",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/salud/2026-11-16/instituto-de-hematologia-de-cuba-mantiene-activa-linea-investigativa-16-11-2026-10-11-11",
-      "destacada": false,
-      "tema": "instituto",
-      "fecha": "Mon, 16 Nov 2026 10:11:11 -0500",
-      "id": 41
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El futuro es ya",
-      "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/483260.html",
-      "destacada": false,
-      "tema": "futuro",
-      "fecha": "Mon, 16 Nov 2026 10:00:00 -0500",
-      "id": 42
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Ventas de alimentos de EEUU a Cuba superaron los 97 millones de dólares en septiembre",
-      "resumen": "Las exportaciones de alimentos y productos agrícolas de Estados Unidos a Cuba crecieron un 188 por ciento en septiembre de este año frente al mismo mes de 2025, hasta alcanzar los 97,5 millones de dólares, impulsadas principalmente por los envíos de pollo congelado, según un informe de Cuba-Trade.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/ventas-de-alimentos-de-eeuu-a-cuba-superaron-los-97-millones-de-d%c3%b3lares-en-septiembre/484324.html",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Mon, 16 Nov 2026 09:10:23 -0500",
-      "id": 43
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -573,7 +612,7 @@
       "destacada": false,
       "tema": "actor",
       "fecha": "Mon, 16 Nov 26 09:01:00 +0100",
-      "id": 44
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -586,7 +625,7 @@
       "destacada": false,
       "tema": "botín",
       "fecha": "Mon, 16 Nov 26 08:55:00 +0100",
-      "id": 45
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -599,7 +638,7 @@
       "destacada": false,
       "tema": "alberto",
       "fecha": "Mon, 16 Nov 26 08:23:00 +0100",
-      "id": 46
+      "id": 49
     },
     {
       "categoria": "transporte",
@@ -612,7 +651,7 @@
       "destacada": false,
       "tema": "simple",
       "fecha": "Mon, 16 Nov 26 08:03:00 +0100",
-      "id": 47
+      "id": 50
     },
     {
       "categoria": "transporte",
@@ -625,33 +664,7 @@
       "destacada": false,
       "tema": "ciudad",
       "fecha": "Mon, 16 Nov 2026 04:55:01 +0000",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Belén: Una bocanada de esperanza en el corazón de La Habana",
-      "resumen": "En el Convento de Belén, las personas de la tercera edad encuentran un espacio para aprender, crear, compartir sus conocimientos y mantenerse activas. María Clementina, una de las protagonistas de esta historia, lo resume así: “Aquí hemos descubierto mucha solidaridad. Esto te atrapa, tú sientes en ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/16/belen-una-bocanada-de-esperanza-en-el-corazon-de-la-habana/",
-      "destacada": false,
-      "tema": "belén",
-      "fecha": "Mon, 16 Nov 2026 04:19:16 +0000",
-      "id": 49
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Inauguran IV Bienal Internacional de Arquitectura de La Habana",
-      "resumen": "A pocas horas del Aniversario 507 de la capital cubana, quedó inaugurada este domingo la IV Bienal Internacional de Arquitectura de La Habana auspiciada por la Oficina del Historiador de la Ciudad de La Habana, Cuba. The post Inauguran IV Bienal Internacional de Arquitectura de La Habana first appea",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/16/inauguran-iv-bienal-internacional-de-arquitectura-de-la-habana/",
-      "destacada": false,
-      "tema": "inauguran",
-      "fecha": "Mon, 16 Nov 2026 04:15:23 +0000",
-      "id": 50
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -664,19 +677,6 @@
       "destacada": false,
       "tema": "enamorada",
       "fecha": "Mon, 16 Nov 2026 02:56:14 +0000",
-      "id": 51
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Marabana celebra sus 40 ediciones con cerca de 3 000 corredores en las calles de La Habana",
-      "resumen": "La carrera, dedicada al aniversario 507 de la capital cubana, tuvo en Francisco Ronney Estévez al ganador de la maratón, mientras participantes de diferentes generaciones compartieron sus experiencias La entrada Marabana celebra sus 40 ediciones con cerca de 3 000 corredores en las calles de La Haba",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/marabana-celebra-sus-40-ediciones-con-cerca-de-3-000-corredores-en-las-calles-de-la-habana/",
-      "destacada": false,
-      "tema": "marabana",
-      "fecha": "Mon, 16 Nov 2026 02:36:09 +0000",
       "id": 52
     },
     {
@@ -691,45 +691,6 @@
       "tema": "seguir",
       "fecha": "Mon, 16 Nov 2026 02:19:39 +0000",
       "id": 53
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Una visita de obispos obliga a Díaz-Canel a referirse a la ayuda humanitaria de EEUU, aunque a su manera",
-      "resumen": "Díaz-Canel recibe al cardenal Sean Patrick O'Malley y a obispos de EEUU. Se refiere a la ayuda humanitaria para los cubanos más vulnerables, pero omite que la envía Washington.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794770313_69869.html",
-      "destacada": false,
-      "tema": "visita",
-      "fecha": "Sun, 15 Nov 2026 20:18:33 +0100",
-      "id": 54
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "EE UU se consolida como primer proveedor de alimentos de Cuba con ventas de casi 100 millones en septiembre",
-      "resumen": "Sin embargo, en lo que va de año, las compras de combustibles, vehículos y equipos para el sector privado ocupan el primer puesto",
-      "imagen_url": "https://static.14ymedio.com/clip/342e758d-558b-4893-a525-dc5c6f6f0142_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/ee-uu-consolida-primer-proveedor_1_1133283.html",
-      "destacada": false,
-      "tema": "consolida",
-      "fecha": "Sun, 15 Nov 2026 18:58:01 +0000",
-      "id": 55
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Una Maratón de La Habana a oscuras, sin público y con calcomanías para tapar el logo de Adidas",
-      "resumen": "Francisco Ronnei Estévez ganó la prueba masculina, con un tiempo de 2:25:31 horas, y Meury Melissa Bacallao la femenina, en 2:45:41 horas",
-      "imagen_url": "https://static.14ymedio.com/clip/d54da534-67cd-4a42-990a-5cc8e892dc75_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/maraton-habana-oscuras-publico-calcomanias_1_1133284.html",
-      "destacada": false,
-      "tema": "maratón",
-      "fecha": "Sun, 15 Nov 2026 18:53:04 +0000",
-      "id": 56
     }
   ]
 }
