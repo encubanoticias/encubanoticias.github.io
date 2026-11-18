@@ -1,33 +1,202 @@
 {
-  "fecha": "2026-11-17",
-  "hora": "18:54",
-  "total": 43,
+  "fecha": "2026-11-18",
+  "hora": "01:26",
+  "total": 50,
   "noticias": [
     {
       "categoria": "sociedad",
       "fuente": "https://www.prensa-latina.cu",
       "fuente_tipo": "oficial",
-      "titulo": "La Habana a las puertas de la mayor fiesta del cine latinoamericano",
-      "resumen": "La Habana, 17 nov (Prensa Latina) Un total de 130 títulos de 28 países de América Latina y Europa se exhibirán en el Festival Internacional del Nuevo Cine Latinoamericano, que en su 47 edición estará dedicado a Brasil, anunciaron hoy los organizadores. The post La Habana a las puertas de la mayor fi",
+      "titulo": "Cuba denuncia en Singapur carácter ilegal del bloqueo de EEUU",
+      "resumen": "Singapur, 17 nov (Prensa Latina) La embajadora de Cuba en Singapur, Lisbet Quesada Luna, expuso hoy ante académicos, diplomáticos y estudiantes los argumentos jurídicos que sostienen la ilegalidad del bloqueo económico, comercial y financiero impuesto por Estados Unidos a su país. The post Cuba denu",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/17/la-habana-a-las-puertas-de-la-mayor-fiesta-del-cine-latinoamericano/",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/17/cuba-denuncia-en-singapur-caracter-ilegal-del-bloqueo-de-eeuu/",
       "destacada": true,
-      "tema": "habana",
-      "fecha": "Tue, 17 Nov 2026 19:44:34 +0000",
+      "tema": "denuncia",
+      "fecha": "Wed, 18 Nov 2026 01:53:35 +0000",
       "id": 1
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Calle 232, una gran obra de arte del cine cubano",
-      "resumen": "La Habana, 17 nov (Prensa Latina) La película Calle 232, merecedora del Premio Mariposa de Diamantes, es hoy una de las producciones cubanas con aciertos en la arena internacional y cuya historia no resulta indiferente por su constante convocatoria a la sensibilidad. The post Calle 232, una gran obr",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Lo que dejan en evidencia diez meses de apoyo del Kremlin al régimen de Cuba",
+      "resumen": "¿Va #Rusia a arriesgar sus objetivos principales por defender a un peón de su tablero de estrategia geopolítica como es el régimen de #Cuba?",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/17/calle-232-una-gran-obra-de-arte-del-cine-cubano/",
+      "enlace_original": "https://diariodecuba.com/cuba/1794954950_69902.html",
       "destacada": true,
-      "tema": "calle",
-      "fecha": "Tue, 17 Nov 2026 19:31:01 +0000",
+      "tema": "dejan",
+      "fecha": "Tue, 17 Nov 2026 23:35:50 +0100",
       "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El régimen cubano institucionaliza la IA, ¿habrá más control?",
+      "resumen": "El régimen cubano aprueba una metodología para introducir la IA en la administración pública. La norma abre aún más la puerta al control de los datos y la vigilancia ciudadana.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1794953108_69901.html",
+      "destacada": true,
+      "tema": "régimen",
+      "fecha": "Tue, 17 Nov 2026 23:05:08 +0100",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Estudiantes de Cuba y el mundo se pronuncian en defensa de la paz, la justicia social e independencia",
+      "resumen": "El 17 de noviembre se instituyó el Día internacional del Estudiante atendiendo a la heroica resistencia, en 1939, de un grupo de jóvenes checoslovacos, que, junto a su pueblo, enfrentaron a las hordas hitlerianas La entrada Estudiantes de Cuba y el mundo se pronuncian en defensa de la paz, la justic",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/estudiantes-de-cuba-y-el-mundo-se-pronuncian-en-defensa-de-la-paz-la-justicia-social-e-independencia/",
+      "destacada": true,
+      "tema": "estudiantes",
+      "fecha": "Tue, 17 Nov 2026 21:41:17 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Qué profesionales no pueden salir de Cuba con la nueva Ley de Migración?",
+      "resumen": "Circulan en redes versiones que aseguran que “todo tipo de profesional” necesita autorización para salir de Cuba con la Ley 171. elTOQUE Jurídico contrastó esas afirmaciones con la ley y el Decreto 306: es falso que el título universitario sea un impedimento en sí mismo.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/13_11_2026_universidad_profesionales_cuba_pasaporte_migracion_0625a1d7ec.jpg",
+      "enlace_original": "https://eltoque.com/que-profesionales-no-pueden-salir-de-cuba-con-la-nueva-ley-de-migracion",
+      "destacada": true,
+      "tema": "profesionales",
+      "fecha": "Tue, 17 Nov 2026 21:30:00 GMT",
+      "id": 5
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Entre apagones y oficinas sin recursos, el Gobierno cubano apuesta por la inteligencia artificial",
+      "resumen": "Una nueva normativa publicada en la ‘Gaceta Oficial’ prevé asistentes virtuales, sistemas predictivos y automatización de procesos administrativos",
+      "imagen_url": "https://static.14ymedio.com/clip/bf629dee-9851-40e4-9be4-ee5a0afb7d38_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/apagones-oficinas-recursos-gobierno-cubano_1_1133411.html",
+      "destacada": false,
+      "tema": "apagones",
+      "fecha": "Tue, 17 Nov 2026 21:13:48 +0000",
+      "id": 6
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Reapareció Daniel Ortega y sin embargo...",
+      "resumen": "#Nicaragua: La salud de #DanielOrtega acelera los cálculos de sucesión y el poder de #RosarioMurillo descansa en pilares que carecen de profundidad popular o institucional.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/internacional/1794944833_69897.html",
+      "destacada": false,
+      "tema": "reapareció",
+      "fecha": "Tue, 17 Nov 2026 20:47:13 +0100",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "EEUU aporta más que Rusia y casi tanto como China al sostén energético de Cuba",
+      "resumen": "Gasolina, diésel, gas, paneles solares, baterías de litio: #EstadosUnidos podría en breve ser el principal proveedor de recursos energéticos de #Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1794943882_69898.html",
+      "destacada": false,
+      "tema": "aporta",
+      "fecha": "Tue, 17 Nov 2026 20:31:22 +0100",
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 8:00 PM",
+      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/483377.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Tue, 17 Nov 2026 20:00:00 -0500",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Fallece el humorista cubano Juan Karlos 'El Gordo'",
+      "resumen": "Falleció el humorista, actor y presentador cubano Juan Karlos \"El Gordo\" a los 60 años. A lo largo de más de cuatro décadas de carrera, el artista transitó por el teatro, la radio, el cine, los centros nocturnos y la televisión.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cultura/1794941915_69899.html",
+      "destacada": false,
+      "tema": "fallece",
+      "fecha": "Tue, 17 Nov 2026 19:58:35 +0100",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba merece el apoyo del mundo",
+      "resumen": "La Cuba revolucionaria, tan generosa con el resto del mundo, enfrenta hoy una amenaza existencial, sin recibir un apoyo a la altura de la solidaridad que ha demostrado durante décadas. Los numerosos países amigos con los que cuenta la isla en todo el mundo –en particular los más poderosos– deben acu",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/opinion/2026/11/17/cuba-merece-el-apoyo-del-mundo/",
+      "destacada": false,
+      "tema": "merece",
+      "fecha": "Tue, 17 Nov 2026 19:45:15 +0000",
+      "id": 11
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Un cubano muere ahogado en México tras ser arrastrado por la corriente",
+      "resumen": "El cuerpo de Yasniel Chaviano, de 14 años, fue localizado este lunes por marinos en Puerto Madero, Chiapas",
+      "imagen_url": "https://static.14ymedio.com/clip/9184484c-0efe-42aa-8bae-1abeedac3867_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/migracion/cubano-muere-ahogado-mexico-arrastrado_1_1133407.html",
+      "destacada": false,
+      "tema": "cubano",
+      "fecha": "Tue, 17 Nov 2026 19:44:12 +0000",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "\"Me arrebataron la vida y me robaron la libertad\": Presa política cubana alza su voz desde la cárcel",
+      "resumen": "Escrita desde su encierro, esta carta de la presa política Ana Ibis Tristá Padilla denuncia el juicio amañado y las falacias con las que el régimen la condenó a 14 años de prisión y expone la crueldad de un sistema que castiga a quienes piensan diferente.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/me-arrebataron-la-vida-el-desgarrador-grito-de-resistencia-de-ana-ibis-trist%c3%a1-presa-pol%c3%adtica-en-cuba/484434.html",
+      "destacada": false,
+      "tema": "arrebataron",
+      "fecha": "Tue, 17 Nov 2026 19:38:46 -0500",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Una ofrenda a La Habana en su aniversario",
+      "resumen": "Este 14 de noviembre la Catedral de La Habana acogió una muestra de Ernesto Villanueva y un concierto del pianista Ernesto Oliva, como parte de las celebraciones por los 507 años de la fundación de la ciudad La entrada Una ofrenda a La Habana en su aniversario se publicó primero en Tribuna de La Hab",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/una-ofrenda-a-la-habana-en-su-aniversario-2/",
+      "destacada": false,
+      "tema": "ofrenda",
+      "fecha": "Tue, 17 Nov 2026 19:35:04 +0000",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Curiosidades del mundo que desafían lo que creías saber",
+      "resumen": "Vivimos en un mundo interconectado donde parece que ya todo está descubierto; sin embargo, la naturaleza, la historia y la geografía ocultan secretos que desafían por completo nuestra lógica cotidiana. Hoy en día, gracias a la ciencia moderna y a la exploración satelital, hemos podido confirmar fenó",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/17/curiosidades-del-mundo-que-desafian-lo-que-creias-saber/",
+      "destacada": false,
+      "tema": "curiosidades",
+      "fecha": "Tue, 17 Nov 2026 19:20:02 +0000",
+      "id": 15
     },
     {
       "categoria": "politica",
@@ -37,10 +206,49 @@
       "resumen": "Cada dos semanas, Miguel Díaz-Canel se sienta frente a un micrófono en Radio Rebelde para escuchar...",
       "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126156-criterio-compartido-el-programa-donde-el-presidente-escucha-y-responde-al-pueblo.jpg?t=1794939441",
       "enlace_original": "https://www.cubainformacion.tv/cuba/20261117/126156/126156-criterio-compartido-el-programa-donde-el-presidente-escucha-y-responde-al-pueblo",
-      "destacada": true,
+      "destacada": false,
       "tema": "criterio",
       "fecha": "Tue, 17 Nov 26 19:14:00 +0100",
-      "id": 3
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Más allá del «desencanto» con Trump: El verdadero drama de los cubanos es no poder decidir su futuro",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-17-u207888-e207888-s27061-nid345948-alla-desencanto-trump-verdadero-drama-cubanos",
+      "destacada": false,
+      "tema": "desencanto",
+      "fecha": "Tue, 17 Nov 2026 19:09:16 +0100",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Néstor Díaz de Villegas presenta en Miami un libro sobre la prisión y la represión política en Cuba",
+      "resumen": "El libro Cómo entrar a una cárcel parte de las vivencias del autor, quien fue detenido en octubre de 1974 y encarcelado bajo acusaciones de “diversionismo ideológico” por el contenido crítico de su poesía.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/n%c3%a9stor-d%c3%adaz-de-villegas-presenta-en-miami-un-libro-sobre-la-prisi%c3%b3n-y-la-represi%c3%b3n-pol%c3%adtica-en-cuba/484425.html",
+      "destacada": false,
+      "tema": "néstor",
+      "fecha": "Tue, 17 Nov 2026 19:04:40 -0500",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Fallece actor, presentador y comediante musical Juan Karlos «el Gordo»",
+      "resumen": "Falleciò este martes, tras sufrir complicaciones de una enfermedad La entrada Fallece actor, presentador y comediante musical Juan Karlos «el Gordo» se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/fallece-actor-presentador-y-comediante-musical-juan-karlos-el-gordo/",
+      "destacada": false,
+      "tema": "fallece",
+      "fecha": "Tue, 17 Nov 2026 18:59:16 +0000",
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -50,49 +258,49 @@
       "resumen": "",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1794937998_69846.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "santos",
       "fecha": "Tue, 17 Nov 2026 18:53:18 +0100",
-      "id": 4
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Economía cubana: Las 176 transformaciones requieren de arquitectura",
-      "resumen": "Por Dixie Edith The post Economía cubana: Las 176 transformaciones requieren de arquitectura first appeared on Noticias Prensa Latina.",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/17/economia-cubana-las-176-transformaciones-requieren-de-arquitectura-2/",
-      "destacada": true,
-      "tema": "economía",
-      "fecha": "Tue, 17 Nov 2026 18:52:54 +0000",
-      "id": 5
+      "id": 20
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Debaten para mejorar Imagenología médica en provincia de Cuba",
-      "resumen": "Ciego de Ávila, Cuba, 17 nov (Prensa Latina) Especialistas de la Imagenología de esta central provincia de Cuba, debatieron diferentes temas dirigidos a elevar la calidad de dicha rama médica, encargada de facilitar diagnósticos certeros y de eficacia ante un grupo de enfermedades. The post Debaten ",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Los cubanos quedan en medio de una nueva controversia migratoria en Guyana",
+      "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/17/debaten-para-mejorar-imagenologia-medica-en-provincia-de-cuba/",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-17-u1-e135253-s27061-nid345954-cubanos-quedan-medio-nueva-controversia-migratoria",
       "destacada": false,
-      "tema": "debaten",
-      "fecha": "Tue, 17 Nov 2026 18:47:20 +0000",
-      "id": 6
+      "tema": "cubanos",
+      "fecha": "Tue, 17 Nov 2026 18:48:40 +0100",
+      "id": 21
     },
     {
-      "categoria": "politica",
-      "fuente": "https://www.tribuna.cu/",
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Estudiantes cubanos presentes en cada tarea y reto del país",
-      "resumen": "En el Día Internacional del Estudiante, el miembro del Buró Político y Secretario de Organización del Comité Central del Partido envió una felicitación a los estudiantes cubanos La entrada Estudiantes cubanos presentes en cada tarea y reto del país se publicó primero en Tribuna de La Habana.",
+      "titulo": "Fiesta bailable en el Malecón: Así celebró el régimen el 507 aniversario de La Habana",
+      "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/estudiantes-cubanos-presentes-en-cada-tarea-y-reto-del-pais/",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-17-u1-e207888-s27061-nid345947-fiesta-bailable-malecon-asi-celebro-regimen-507",
       "destacada": false,
-      "tema": "estudiantes",
-      "fecha": "Tue, 17 Nov 2026 18:44:45 +0000",
-      "id": 7
+      "tema": "fiesta",
+      "fecha": "Tue, 17 Nov 2026 18:27:54 +0100",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "ASIC alerta sobre la precariedad de miles de trabajadores del turismo que perdieron su empleo en Cuba",
+      "resumen": "El desplome de la industria turística en Cuba ha golpeado directamente a unos 22.000 trabajadores del sector estatal, quienes han visto desaparecer su sustento habitual tras la parálisis operativa de decenas de instalaciones hoteleras en la isla.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/asic-alerta-sobre-la-precariedad-de-miles-de-trabajadores-del-turismo-que-perdieron-su-empleo-en-cuba/484419.html",
+      "destacada": false,
+      "tema": "alerta",
+      "fecha": "Tue, 17 Nov 2026 18:15:52 -0500",
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -105,7 +313,33 @@
       "destacada": false,
       "tema": "angola",
       "fecha": "Tue, 17 Nov 2026 18:15:35 +0100",
-      "id": 8
+      "id": 24
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba publica la metodología para la transformación digital y la introducción de la IA en la Administración Pública (+PDF)",
+      "resumen": "Cuba divulgó este martes mediante la Gaceta Oficial de la República, la Metodología para la Transformación Digital y la Introducción de la Inteligencia Artificial en la Administración Pública. The post Cuba publica la metodología para la transformación digital y la introducción de la IA en la Admini",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/17/cuba-publica-en-la-gaceta-oficial-la-metodologia-para-la-transformacion-digital-y-la-introduccion-de-la-ia-en-la-administracion-publica/",
+      "destacada": false,
+      "tema": "publica",
+      "fecha": "Tue, 17 Nov 2026 18:13:26 +0000",
+      "id": 25
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Los médicos extranjeros superan por primera vez a los españoles entre los aspirantes al MIR, con 614 cubanos",
+      "resumen": "El récord de homologaciones de títulos extranjeros en España ha disparado las solicitudes para el examen de especialidad médica de 2027, en el que Colombia y Ecuador aportan casi 4.000 candidatos más que el año anterior",
+      "imagen_url": "https://static.14ymedio.com/clip/d167144b-ac7a-4c00-905e-d2beee6f946f_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/internacional/medicos-extranjeros-superan-primera-vez_1_1133401.html",
+      "destacada": false,
+      "tema": "médicos",
+      "fecha": "Tue, 17 Nov 2026 18:06:55 +0000",
+      "id": 26
     },
     {
       "categoria": "transporte",
@@ -118,7 +352,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 17 Nov 2026 18:06:16 +0100",
-      "id": 9
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -131,7 +365,20 @@
       "destacada": false,
       "tema": "intervenir",
       "fecha": "Tue, 17 Nov 2026 18:01:45 +0100",
-      "id": 10
+      "id": 28
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Tribunal descarta acogerse a la Ley de Ajuste Cubano con un documento I 220-A",
+      "resumen": "El Tribunal de Apelaciones del Undécimo Circuito determinó que el formulario I-220A no equivale a un parole válido para acogerse a la Ley de Ajuste Cubano, en un fallo que negó la residencia, el asilo y otras protecciones migratorias a una familia cubana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/tribunal-descarta-acogerse-a-la-ley-de-ajuste-cubano-con-un-documento-i-220-a/484436.html",
+      "destacada": false,
+      "tema": "tribunal",
+      "fecha": "Tue, 17 Nov 2026 17:54:53 -0500",
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -144,20 +391,7 @@
       "destacada": false,
       "tema": "detenida",
       "fecha": "Tue, 17 Nov 2026 17:53:12 +0000",
-      "id": 11
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Evalúan en La Habana comportamiento del proyecto Mercado de Barrio",
-      "resumen": "En el encuentro se evaluó el funcionamiento de las unidades incorporadas a esta modalidad y las principales insatisfacciones que persisten en la población La entrada Evalúan en La Habana comportamiento del proyecto Mercado de Barrio se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/evaluan-en-la-habana-comportamiento-del-proyecto-mercado-de-barrio/",
-      "destacada": false,
-      "tema": "evalúan",
-      "fecha": "Tue, 17 Nov 2026 17:48:51 +0000",
-      "id": 12
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -170,33 +404,33 @@
       "destacada": false,
       "tema": "teresa",
       "fecha": "Tue, 17 Nov 2026 17:42:44 +0100",
-      "id": 13
+      "id": 31
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "'Mare Nostrum', tres mujeres a la deriva en el naufragio cubano",
-      "resumen": "La puesta en escena de Erom Jimmy Cuesta recupera la dramaturgia de Alberto Pedro con tres actrices que convierten una balsa en metáfora de una nación",
-      "imagen_url": "https://static.14ymedio.com/clip/45f33eed-fa06-43e6-af56-9d145e294e4a_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cultura/mare-nostrum-tres-mujeres-deriva_1_1133399.html",
-      "destacada": false,
-      "tema": "nostrum",
-      "fecha": "Tue, 17 Nov 2026 17:34:49 +0000",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Gilbert Houngbo sigue al frente de la OIT: ¿qué significa para el sindicalismo independiente cubano?",
-      "resumen": "Joel Brito, representante internacional de la Asociación Sindical Independiente de Cuba, explica a DIARIO DE CUBA lo que representa la reelección de Gilbert Houngbo al frente de la Organización Internacional del Trabajo para el sindicalismo independiente cubano.",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Jóvenes, aulas y compromiso: Día del Estudiante desde la Cuba de hoy",
+      "resumen": "Cada 17 de noviembre, el Día Internacional del Estudiante convoca en Cuba a algo más que un simple festejo. Para los jóvenes cubanos, ser estudiante hoy significa asumir la educación como un acto de utilidad social. En medio de limitaciones materiales y desafíos cotidianos, el aula sigue siendo un e",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794933137_69881.html",
+      "enlace_original": "http://www.cubadebate.cu/fotorreportajes/2026/11/17/jovenes-aulas-y-compromiso-dia-del-estudiante-desde-la-cuba-de-hoy/",
       "destacada": false,
-      "tema": "gilbert",
-      "fecha": "Tue, 17 Nov 2026 17:32:17 +0100",
-      "id": 15
+      "tema": "jóvenes",
+      "fecha": "Tue, 17 Nov 2026 17:41:53 +0000",
+      "id": 32
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Fallece Juan Karlos “el Gordo”, referente del humor y la comedia musical cubana",
+      "resumen": "El actor, presentador y comediante musical Juan Carlos Hernández González falleció este martes, tras sufrir complicaciones derivadas de una enfermedad. Con más de cuatro décadas de entrega en la radio, el teatro y la televisión, deja una huella imborrable en varias generaciones de espectadores. The ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/17/fallece-juan-karlos-el-gordo-referente-del-humor-y-la-comedia-musical-cubana/",
+      "destacada": false,
+      "tema": "fallece",
+      "fecha": "Tue, 17 Nov 2026 17:38:15 +0000",
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -209,85 +443,85 @@
       "destacada": false,
       "tema": "policía",
       "fecha": "Tue, 17 Nov 2026 17:27:14 +0000",
-      "id": 16
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Pago a jubilados y pensionados en La Habana en el mes de noviembre de 2026",
-      "resumen": "Banco Metropolitano dio a conocer el calendario de pago a jubilados y pensionados en la capital en el presente mes de noviembre La entrada Pago a jubilados y pensionados en La Habana en el mes de noviembre de 2026 se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/pago-a-jubilados-y-pensionados-en-la-habana-en-el-mes-de-noviembre-de-2026/",
-      "destacada": false,
-      "tema": "jubilados",
-      "fecha": "Tue, 17 Nov 2026 17:15:25 +0000",
-      "id": 17
+      "id": 34
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba se vuelve un destino de mayor riesgo, según una consultora de seguridad de Estados Unidos",
-      "resumen": "",
+      "titulo": "De Cuba al Salón de la Fama del Rock & Roll: el legado universal de Celia Cruz",
+      "resumen": "Más de dos décadas después de su muerte, Celia Cruz sigue haciendo historia: la Reina de la Salsa se convierte en la primera mujer afrocubana y la primera artista de repertorio mayoritariamente en español en ingresar a la prestigiosa institución estadounidense.",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-17-u1-e135253-s27061-nid345940-cuba-vuelve-destino-mayor-riesgo-segun-consultora",
+      "enlace_original": "https://www.martinoticias.com/a/de-cuba-al-sal%c3%b3n-de-la-fama-del-rock-roll-el-legado-universal-de-celia-cruz/484431.html",
       "destacada": false,
-      "tema": "vuelve",
-      "fecha": "Tue, 17 Nov 2026 16:49:05 +0100",
-      "id": 18
+      "tema": "salón",
+      "fecha": "Tue, 17 Nov 2026 17:23:33 -0500",
+      "id": 35
     },
     {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
+      "categoria": "salud",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Marrero invoca a Fidel Castro y pide combatir «la corrupción y las desviaciones» en Cuba",
-      "resumen": "",
+      "titulo": "“Usted no va a ser nadie”: el médico cubano que le respondió al régimen con una certificación en EEUU",
+      "resumen": "El doctor cubano Manuel Guerra está en la fase final para ejercer la medicina en Estados Unidos, tras salir de Cuba en febrero de 2022.",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-17-u1-e199370-s27061-nid345933-marrero-invoca-fidel-castro-pide-combatir-corrupcion",
+      "enlace_original": "https://www.martinoticias.com/a/usted-no-va-a-ser-nadie-el-m%c3%a9dico-cubano-que-le-respondi%c3%b3-al-r%c3%a9gimen-con-una-certificaci%c3%b3n-en-eeuu/484426.html",
       "destacada": false,
-      "tema": "marrero",
-      "fecha": "Tue, 17 Nov 2026 16:40:04 +0100",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Acabará La Habana por imponer en la ONU su visión de los derechos humanos?",
-      "resumen": "La aprobación de tres proyectos de resolución presentados por el régimen cubano en la ONU genera preocupación. Uno es particularmente alarmante pues busca que los regímenes violadores de derechos humanos no sufran consecuencias en la arena internacional.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794927996_69895.html",
-      "destacada": false,
-      "tema": "acabará",
-      "fecha": "Tue, 17 Nov 2026 16:06:36 +0100",
-      "id": 20
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Euforia a pesar de los precios inaccesibles en el encuentro de la selección cubana de fútbol en La Polar",
-      "resumen": "En medio de un fuerte operativo policial, la Isla vence a Granada 9-0 y asciende al primer nivel de la Liga de Naciones de la Concacaf",
-      "imagen_url": "https://static.14ymedio.com/clip/8aed63fd-54d2-41f5-9f20-6e1e6c48bc18_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/deportes/euforia-pesar-precios-inaccesibles-encuentro_1_1133388.html",
-      "destacada": false,
-      "tema": "euforia",
-      "fecha": "Tue, 17 Nov 2026 15:55:57 +0000",
-      "id": 21
+      "tema": "usted",
+      "fecha": "Tue, 17 Nov 2026 17:02:35 -0500",
+      "id": 36
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "¿Cómo explican los militares cubanos la muerte del recluta Emmanuel Bell González?",
-      "resumen": "Emmanuel Bell González murió mientras cumplía el Servicio Militar Obligatorio. Su caso se suma a otros fallecimientos de reclutas. #Cuba #FAR",
+      "titulo": "Noticiero de Radio Martí 5:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794924957_69894.html",
+      "enlace_original": "https://www.martinoticias.com/a/483371.html",
       "destacada": false,
-      "tema": "explican",
-      "fecha": "Tue, 17 Nov 2026 15:15:57 +0100",
-      "id": 22
+      "tema": "noticiero",
+      "fecha": "Tue, 17 Nov 2026 17:00:30 -0500",
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Más de mil obras concursarán en el Festival del Nuevo Cine Latinoamericano de La Habana",
+      "resumen": "En conferencia de Prensa este martes, la directora de la tradicional cita, Tania Delgado, precisó que la lista contempla 919 películas, 70 carteles y 79 guiones, a lo que se suman talleres y espacios de debates y exhibiciones de filmes en cuatro cines de la capital. The post Más de mil obras concurs",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/17/mas-de-mil-obras-concursaran-en-el-festival-del-nuevo-cine-latinoamericano-de-la-habana/",
+      "destacada": false,
+      "tema": "obras",
+      "fecha": "Tue, 17 Nov 2026 16:58:32 +0000",
+      "id": 38
+    },
+    {
+      "categoria": "energia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Medicina natural y tradicional: Plantas medicinales comunes entre Argelia y Cuba",
+      "resumen": "Argelia, o República Argelina Democrática y Popular, es un país africano con costas al Mar Mediterráneo. Fue a esas tierras donde partió la primera brigada médica cubana en 1963 y todavía en la actualidad nuestros profesionales sanitarios continúan aportando a la salud del pueblo argelino. The post ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/17/medicina-natural-y-tradicional-plantas-medicinales-comunes-entre-argelia-y-cuba/",
+      "destacada": false,
+      "tema": "apagones",
+      "fecha": "Tue, 17 Nov 2026 16:54:55 +0000",
+      "id": 39
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Dos podios cubanos en torneo máster de ciclismo en Santo Domingo",
+      "resumen": "También lograron dos ubicaciones entre los diez primeros en la clasificación general individual",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/deportes/2026-11-17/dos-podios-cubanos-en-torneo-master-de-ciclismo-en-santo-domingo-17-11-2026-15-11-09",
+      "destacada": false,
+      "tema": "podios",
+      "fecha": "Tue, 17 Nov 2026 15:11:09 -0500",
+      "id": 40
     },
     {
       "categoria": "politica",
@@ -300,46 +534,20 @@
       "destacada": false,
       "tema": "ocurriendo",
       "fecha": "Tue, 17 Nov 26 13:36:00 +0100",
-      "id": 23
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Ni los hogares vinculados al poder esperan la ayuda del Estado en Cuba",
-      "resumen": "Ante la falta de un medicamento, solo tres de los 1.719 participantes en la quinta #EncuestaDDC acudirían primero al Estado; 60 pedirían ayuda a una iglesia. #Cuba",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/foro-ddc/1794916886_69821.html",
-      "destacada": false,
-      "tema": "hogares",
-      "fecha": "Tue, 17 Nov 2026 13:01:26 +0100",
-      "id": 24
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Qué dice Díaz-Canel sobre el deterioro de La Habana en su aniversario?",
-      "resumen": "Miguel Díaz-Canel acusa a los ciudadanos de la capital cubana de \"indisciplina social\": ¿y el Gobierno? #LaHabana",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794914104_69893.html",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Tue, 17 Nov 2026 12:15:04 +0100",
-      "id": 25
+      "id": 41
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 12:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "A más del 95% de llenado los embalses de Santiago de Cuba",
+      "resumen": "De los 16 embalses administrados por el Instituto Nacional de Recursos Hidráulicos en esta suroriental provincia, «los mayores incrementos de volumen se concentran en los embalses de la cabecera del río Cauto –Carlos Manuel de Céspedes y Protesta de Baraguá, ambos al 100%-, al igual que Hatillo, Cha",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/483352.html",
+      "enlace_original": "http://www.granma.cu/cuba/2026-11-17/a-mas-del-95-de-llenado-los-embalses-de-santiago-de-cuba-17-11-2026-13-11-24",
       "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Tue, 17 Nov 2026 12:00:00 -0500",
-      "id": 26
+      "tema": "llenado",
+      "fecha": "Tue, 17 Nov 2026 13:11:24 -0500",
+      "id": 42
     },
     {
       "categoria": "politica",
@@ -352,72 +560,7 @@
       "destacada": false,
       "tema": "escepticismo",
       "fecha": "Tue, 17 Nov 2026 11:58:55 +0000",
-      "id": 27
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Alemania aconseja no viajar a Cuba por apagones, inseguridad y falta de atención médica",
-      "resumen": "Alemania mantiene su recomendación de no viajar a Cuba por apagones prolongados, aumento de la delincuencia y graves limitaciones en la atención médica, en un contexto de crisis que también complica el transporte, el alojamiento y el regreso de los viajeros.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/alemania-aconseja-no-viajar-a-cuba-por-apagones-inseguridad-y-falta-de-atenci%c3%b3n-m%c3%a9dica/484407.html",
-      "destacada": false,
-      "tema": "apagones",
-      "fecha": "Tue, 17 Nov 2026 11:55:28 -0500",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Mike Waltz: 'el pueblo cubano verá la libertad bajo el mandato de Trump'",
-      "resumen": "Mike Waltz afirma que con el dinero de GAESA se prodrían pagar los salarios de los trabajadores de Cuba durante dos años, entre otras cosas. Dice que los cubanos verán la libertad bajo el mandato de Trump.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1794912245_69892.html",
-      "destacada": false,
-      "tema": "waltz",
-      "fecha": "Tue, 17 Nov 2026 11:44:05 +0100",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barrio adentro",
-      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/483349.html",
-      "destacada": false,
-      "tema": "barrio",
-      "fecha": "Tue, 17 Nov 2026 11:30:00 -0500",
-      "id": 30
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Lawton Libre",
-      "resumen": "El reconocido opositor cubano Dr. Oscar Elías Biscet aborda la situación de los derechos humanos en Cuba y la conquista de las libertades básicas de los cubanos, bajo el precepto de que “si aprendes a ser libre, todos los seremos”. Correo Electrónico: lawtonlibremarti@gmail.com",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/483346.html",
-      "destacada": false,
-      "tema": "lawton",
-      "fecha": "Tue, 17 Nov 2026 11:00:00 -0500",
-      "id": 31
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Debatirán en Santiago de Cuba sobre los aportes de la química al desarrollo del país",
-      "resumen": "Mañana comenzará en la Ciudad Héroe la XXV edición del evento más antiguo que tiene Cuba para impulsar esta ciencia natural",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-11-17/para-continuar-enlazando-quimicos-17-11-2026-10-11-46",
-      "destacada": false,
-      "tema": "debatirán",
-      "fecha": "Tue, 17 Nov 2026 10:11:46 -0500",
-      "id": 32
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -430,7 +573,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Tue, 17 Nov 26 08:23:00 +0100",
-      "id": 33
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -443,7 +586,7 @@
       "destacada": false,
       "tema": "cierran",
       "fecha": "Tue, 17 Nov 26 08:21:00 +0100",
-      "id": 34
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -456,7 +599,7 @@
       "destacada": false,
       "tema": "cuándo",
       "fecha": "Tue, 17 Nov 26 08:21:00 +0100",
-      "id": 35
+      "id": 46
     },
     {
       "categoria": "politica",
@@ -469,7 +612,7 @@
       "destacada": false,
       "tema": "manos",
       "fecha": "Tue, 17 Nov 2026 08:11:30 -0500",
-      "id": 36
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -482,7 +625,7 @@
       "destacada": false,
       "tema": "contra",
       "fecha": "Tue, 17 Nov 26 07:58:00 +0100",
-      "id": 37
+      "id": 48
     },
     {
       "categoria": "economia",
@@ -495,7 +638,7 @@
       "destacada": false,
       "tema": "propiedad",
       "fecha": "Tue, 17 Nov 26 07:52:00 +0100",
-      "id": 38
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -508,59 +651,7 @@
       "destacada": false,
       "tema": "sociedad",
       "fecha": "Tue, 17 Nov 26 07:50:00 +0100",
-      "id": 39
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Anuncian afectaciones al servicio de agua en Arroyo Naranjo por labores de mantenimiento",
-      "resumen": "La Empresa Aguas de La Habana informó que este martes 17 de noviembre, entre las 6:00 a.m. y las 6:00 p.m., permanecerá paralizada la fuente de abasto Paso Seco, debido a trabajos de mantenimiento y rehabilitación de la conductora principal Paso Seco, en el nudo de distribución La Güinera. La entrad",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/anuncian-afectaciones-al-servicio-de-agua-en-arroyo-naranjo-por-labores-de-mantenimiento/",
-      "destacada": false,
-      "tema": "anuncian",
-      "fecha": "Tue, 17 Nov 2026 02:50:32 +0000",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba tiene la tercera tasa de suicidios más alta de América Latina y el Caribe, según un informe",
-      "resumen": "La Isla pasó del quinto al tercer puesto respecto a 2023 y figura entre los países con mayor prevalencia estimada de depresión La mortalidad por suicidio entre los hombres cubanos fue un 374% superior a la de las mujeres en 2023 Cuba encabeza la mort",
-      "imagen_url": "https://static.14ymedio.com/clip/1412c259-7d0b-44bb-94d7-112714e3e71b_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/cuba-tercera-tasa-suicidios-america-latina-caribe_1_1133356.html",
-      "destacada": false,
-      "tema": "tercera",
-      "fecha": "Mon, 16 Nov 2026 22:55:18 +0000",
-      "id": 41
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El régimen cubano promete beneficios fiscales a las mipymes que financien servicios públicos",
-      "resumen": "Una nueva resolución establece bonificaciones del 20% para inversiones en infraestructuras sociales y del 10% para donaciones a entidades estatales",
-      "imagen_url": "https://static.14ymedio.com/clip/167f6814-f640-40f6-9f06-2eea7465a907_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/regimen-cubano-promete-beneficios-fiscales_1_1133345.html",
-      "destacada": false,
-      "tema": "mipymes",
-      "fecha": "Mon, 16 Nov 2026 20:01:11 +0000",
-      "id": 42
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba ofrece rebajas fiscales a quien invierta en escuelas, policlínicos y hogares de ancianos: lo que debes saber",
-      "resumen": "La resolución ofrece deducciones fiscales a mipymes y trabajadores por cuenta propia que inviertan en servicios públicos, pero no define porcentajes de bonificación, ni mecanismos de control, ni cómo se trasladan los saldos no utilizados. Su eficacia dependerá de factores que la norma no controla.",
-      "imagen_url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/2018_02_20_Mederos_VC_ESCUELA_03_12472944eb.jpg/width=1920,quality=75,fit=scale-down,dpr=1,slow-connection-quality=40",
-      "enlace_original": "https://eltoque.com/deducciones-fiscales-por-invertir-en-servicios-publicos-cuba",
-      "destacada": false,
-      "tema": "ofrece",
-      "fecha": "Mon, 16 Nov 2026 19:00:00 GMT",
-      "id": 43
+      "id": 50
     }
   ]
 }
