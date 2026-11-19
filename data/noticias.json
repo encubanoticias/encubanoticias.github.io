@@ -1,8 +1,242 @@
 {
-  "fecha": "2026-11-18",
-  "hora": "18:30",
-  "total": 54,
+  "fecha": "2026-11-19",
+  "hora": "00:51",
+  "total": 52,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El régimen pone fecha al juicio contra los creadores de El 4tico",
+      "resumen": "Tras nueve meses y 13 días de tenerlos en prisión provisional, el régimen de #Cuba llevará ante un tribunal a Ernesto Ricardo Medina y Kamil Zayas Pérez, creadores de #El4tico.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1795048114_69922.html",
+      "destacada": true,
+      "tema": "régimen",
+      "fecha": "Thu, 19 Nov 2026 01:28:34 +0100",
+      "id": 1
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Piden ayuda para manifestante del 11J: está hospitalizada en Cuba tras una operación de columna",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-19-u1-e199291-s27061-nid346079-piden-ayuda-manifestante-11j-esta-hospitalizada-cuba",
+      "destacada": true,
+      "tema": "piden",
+      "fecha": "Thu, 19 Nov 2026 01:17:27 +0100",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Develan monumento a constructores cubanos de politécnico dominicano",
+      "resumen": "Baní, República Dominicana, 18 nov (Prensa Latina) La develación de un monumento dedicado a los 45 constructores cubanos que levantaron en apenas un año el Politécnico Máximo Gómez en esta ciudad dominicana marcó hoy la jornada central de homenaje al Generalísimo, en ocasión del aniversario 190 de s",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/18/develan-monumento-a-constructores-cubanos-de-politecnico-dominicano/",
+      "destacada": true,
+      "tema": "develan",
+      "fecha": "Thu, 19 Nov 2026 01:07:25 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Fijan para el 1 de marzo de 2027 el inicio del juicio por la muerte del músico cubano El Taiger",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-19-u1-e199291-s27061-nid346086-fijan-1-marzo-2027-inicio-juicio-musico-cubano",
+      "destacada": true,
+      "tema": "fijan",
+      "fecha": "Thu, 19 Nov 2026 00:54:42 +0100",
+      "id": 4
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "El pasado viaje humano de Fidel y su tránsito de eternidad y siemprevida",
+      "resumen": "Asombroso vaticinio cumplido 57 años después de pronunciado. Su homenaje póstumo desde la Habana a S...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126182-el-pasado-viaje-humano-de-fidel-y-su-transito-de-eternidad-y-siemprevida.jpg?t=1795045946",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261119/126182/126182-el-pasado-viaje-humano-de-fidel-y-su-transito-de-eternidad-y-siemprevida",
+      "destacada": true,
+      "tema": "pasado",
+      "fecha": "Thu, 19 Nov 26 00:52:00 +0100",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Fui por una bronquitis. Salí con el alma rota»: testigo relata dramática muerte de un hombre por falta de ambulancia en Santiago de Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-19-u1-e135253-s27061-nid346081-fui-bronquitis-sali-alma-rota-testigo-relata",
+      "destacada": false,
+      "tema": "bronquitis",
+      "fecha": "Thu, 19 Nov 2026 00:51:28 +0100",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Cuánto cuesta hacer un arroz amarillo en Cuba? «Quedé puesto y convidado»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-19-u1-e199291-s27061-nid346083-cuanto-cuesta-hacer-arroz-amarillo-cuba-quede-puesto",
+      "destacada": false,
+      "tema": "cuánto",
+      "fecha": "Thu, 19 Nov 2026 00:46:44 +0100",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "La verdad siempre sale a flote aunque traten de tergiversarla",
+      "resumen": "Artur González / Heraldo Cubano.- Estados Unidos lleva 67 años intentando derrocar a la Revolución ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126179-la-verdad-siempre-sale-a-flote-aunque-traten-de-tergiversarla.jpg?t=1795045127",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261119/126179/126179-la-verdad-siempre-sale-a-flote-aunque-traten-de-tergiversarla",
+      "destacada": false,
+      "tema": "verdad",
+      "fecha": "Thu, 19 Nov 26 00:38:00 +0100",
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Asambleas de Dios: «¡Cuba necesita una iglesia unida, no una iglesia enfrentada!»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-18-u1-e199291-s27061-nid346080-asambleas-dios-cuba-necesita-iglesia-unida-iglesia",
+      "destacada": false,
+      "tema": "asambleas",
+      "fecha": "Wed, 18 Nov 2026 23:41:21 +0100",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Qué es 'Cuban Americans for Cuba' y por qué algunos miembros fueron arrestados en EEUU?",
+      "resumen": "¿Quiénes integran Cuban Americans for Cuba y qué buscan con sus protestas en Washington? El colectivo se opone a las sanciones de EEUU y cuenta con el respaldo propagandístico de la prensa oficialista cubana.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1795039943_69920.html",
+      "destacada": false,
+      "tema": "cuban",
+      "fecha": "Wed, 18 Nov 2026 23:12:23 +0100",
+      "id": 10
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El Gobierno cubano modifica las pensiones, pero no garantiza aumentos frente a la inflación",
+      "resumen": "La nueva normativa cambia las cotizaciones y reconoce derechos laborales, pero deja en manos del Gobierno la actualización de las jubilaciones",
+      "imagen_url": "https://static.14ymedio.com/clip/a6cb6206-80b1-42f1-b22e-35e753fff2a5_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/gobierno-cubano-modifica-pensiones-no_1_1133463.html",
+      "destacada": false,
+      "tema": "gobierno",
+      "fecha": "Wed, 18 Nov 2026 23:07:03 +0000",
+      "id": 11
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Los alimentos cuyo precio se dispara en Cuba ilustran qué comen en la Isla para subsistir",
+      "resumen": "Desde diciembre de 2025, comer se ha vuelto casi un 50% más caro en #Cuba, según mediciones oficiales. Esto es apenas un fragmento de la situación real.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1795038992_69916.html",
+      "destacada": false,
+      "tema": "alimentos",
+      "fecha": "Wed, 18 Nov 2026 22:56:32 +0100",
+      "id": 12
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Una clínica exclusiva en Luanda, 12 médicos cubanos y un contrato con Antex: ¿cuánto pagará Angola?",
+      "resumen": "Pese a graduar estudiantes en Cuba, Angola sigue contratando médicos a través de Antex, brazo de GAESA. 12 profesionales cubanos trabajarán en una clínica exclusiva de Luanda. ¿Cuánto cobrará La Habana? Lee el reportaje de Annarella Grimal en #DiarioDeCuba. #MédicosCubanos",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1795037990_69919.html",
+      "destacada": false,
+      "tema": "clínica",
+      "fecha": "Wed, 18 Nov 2026 22:39:50 +0100",
+      "id": 13
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "GTA VI se lanza en todo el mundo con críticas casi perfectas",
+      "resumen": "Tras 13 años de espera, los primeros jugadores pudieron por fin estrenarse el miércoles en ­“GTA VI”, el videojuego más caro jamás creado y con mejores notas en la historia de esta industria. The post GTA VI se lanza en todo el mundo con críticas casi perfectas first appeared on Cubadebate.",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/18/gta-vi-se-lanza-en-todo-el-mundo-con-criticas-casi-perfectas/",
+      "destacada": false,
+      "tema": "lanza",
+      "fecha": "Wed, 18 Nov 2026 22:26:40 +0000",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El régimen cubano reforma las pensiones y traslada el peso de financiarlas al sector privado",
+      "resumen": "El régimen cubano reforma el sistema de pensiones en medio de la crisis económica. Traslada al sector privado una mayor responsabilidad en su financiación y plantea interrogantes sobre su sostenibilidad fiscal.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1795037053_69917.html",
+      "destacada": false,
+      "tema": "régimen",
+      "fecha": "Wed, 18 Nov 2026 22:24:13 +0100",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Pesistas cubanos celebran títulos en Copa Abierta de Rusia",
+      "resumen": "La halterofilia cubana firmó una destacada jornada este miércoles en la Copa Abierta de la Organización de Cooperación de Shanghái (OCS), al conquistar dos medallas de oro y una de plata, en una competencia donde el reglamento establece la premiación exclusiva del total. The post Pesistas cubanos ce",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/18/pesistas-cubanos-celebran-titulos-en-copa-abierta-de-rusia/",
+      "destacada": false,
+      "tema": "pesistas",
+      "fecha": "Wed, 18 Nov 2026 22:13:11 +0000",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Italia ha invertido unos 2,5 millones de euros en varios proyectos en la calle Galiano, en Centro Habana",
+      "resumen": "Inauguran un mini parque infantil con apenas tres juegos y lo mantienen cerrado hasta que terminen la instalación de puestos comerciales",
+      "imagen_url": "https://static.14ymedio.com/clip/2a56920c-af8e-495e-88b7-4fd67e504f31_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/italia-invertido-2-5-millones_1_1133456.html",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Wed, 18 Nov 2026 21:02:45 +0000",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Revocación de beneficios penitenciarios: el castigo extendido del régimen cubano",
+      "resumen": "La excarcelación nunca es plena en Cuba. Un informe de Cubalex documenta cómo el régimen mantiene a los presos políticos bajo vigilancia, amenazas y el riesgo constante de regresar a prisión.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1795028684_69914.html",
+      "destacada": false,
+      "tema": "revocación",
+      "fecha": "Wed, 18 Nov 2026 20:04:44 +0100",
+      "id": 18
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
@@ -11,75 +245,49 @@
       "resumen": "Dos orgullos del béisbol de #Cuba coronan los mejores desempeños de sus carreras en #MLB.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/deportes/1795026682_69915.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "yordan",
       "fecha": "Wed, 18 Nov 2026 19:31:22 +0100",
-      "id": 1
+      "id": 19
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.tribuna.cu/",
       "fuente_tipo": "alternativa",
-      "titulo": "Ni las remesas alcanzan: El 38% de los cubanos que reciben dinero del exterior no puede cubrir sus necesidades básicas",
-      "resumen": "",
+      "titulo": "Filme «Baracoa» tendrá una presentación especial en el Hotel Nacional",
+      "resumen": "La ópera prima de ficción del realizador Luis Ernesto Doñas, tendrá una presentación especial mañana 19 de noviembre, a las 5:00 p. m., en el Salón Vedado del Hotel Nacional de Cuba, con la presencia del director y actores integrantes del elenco La entrada Filme «Baracoa» tendrá una presentación esp",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-18-u1-e207888-s27061-nid346043-ni-remesas-alcanzan-38-cubanos-reciben-dinero",
-      "destacada": true,
-      "tema": "remesas",
-      "fecha": "Wed, 18 Nov 2026 19:07:58 +0100",
-      "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Ola de cambios llega a Santiago de Cuba: el régimen sustituye a dirigentes en tres municipios",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-18-u1-e43231-s27061-nid346029-ola-cambios-llega-santiago-cuba-regimen-sustituye",
-      "destacada": true,
-      "tema": "cambios",
-      "fecha": "Wed, 18 Nov 2026 18:58:20 +0100",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El régimen cubano aprueba nuevas reglas de seguridad social: cambios en pensiones, cotizaciones y años de servicio",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-18-u1-e129488-s27061-nid346031-regimen-cubano-aprueba-nuevas-reglas-seguridad",
-      "destacada": true,
-      "tema": "régimen",
-      "fecha": "Wed, 18 Nov 2026 18:49:27 +0100",
-      "id": 4
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Elisamanta hace historia en Santiago de Cuba: es la segunda mujer que se gradúa de liniera eléctrica",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-18-u1-e135253-s27061-nid346049-elisamanta-hace-historia-santiago-cuba-segunda-mujer",
-      "destacada": true,
-      "tema": "elisamanta",
-      "fecha": "Wed, 18 Nov 2026 18:28:26 +0100",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El 87% de los cubanos cree que no puede influir en las decisiones del país, según encuesta",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-18-u1-e207888-s27061-nid346044-87-cubanos-cree-puede-influir-decisiones-pais-segun",
+      "enlace_original": "https://www.tribuna.cu/filme-baracoa-tendra-una-presentacion-especial-en-el-hotel-nacional/",
       "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Wed, 18 Nov 2026 18:21:11 +0100",
-      "id": 6
+      "tema": "filme",
+      "fecha": "Wed, 18 Nov 2026 19:24:41 +0000",
+      "id": 20
+    },
+    {
+      "categoria": "salud",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Italia impulsa una campaña de solidaridad con niños cubanos enfermos de cáncer",
+      "resumen": "Vallas en lugares céntricos y avenidas de la capital italiana anunció este miércoles la campaña “La cura non si blocca” con el objetivo de recaudar fondos para la adquisición de medicamentos contra el cáncer pediátrico, destinada a Cuba. The post Italia impulsa una campaña de solidaridad con niños c",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/18/italia-impulsa-una-campana-de-solidaridad-con-ninos-cubanos-enfermos-de-cancer/",
+      "destacada": false,
+      "tema": "italia",
+      "fecha": "Wed, 18 Nov 2026 18:33:02 +0000",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Fijan para el 24 de noviembre el juicio a los jóvenes de El 4tico en Holguín",
+      "resumen": "La falta de libertad de expresión en Cuba vuelve a quedar al descubierto: Ernesto Ricardo Medina y Kamil Zayas Pérez enfrentan peticiones fiscales de hasta nueve años de privación de libertad en un proceso que ha desatado una ola de condena dentro y fuera de la isla.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/fijan-para-el-24-de-noviembre-el-juicio-a-los-j%c3%b3venes-de-el-4tico-en-holgu%c3%adn/484508.html",
+      "destacada": false,
+      "tema": "fijan",
+      "fecha": "Wed, 18 Nov 2026 18:22:33 -0500",
+      "id": 22
     },
     {
       "categoria": "economia",
@@ -92,7 +300,20 @@
       "destacada": false,
       "tema": "insiste",
       "fecha": "Wed, 18 Nov 2026 18:15:56 +0100",
-      "id": 7
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Microsoft y FAA: dos golpes a la confianza tecnológica en EE. UU.",
+      "resumen": "La FAA levantó la alerta y Microsoft restableció sus servicios, sin embargo, los sucesos además&nbsp;abren una interrogante para muchos: ¿obsolescencia tecnológica en la principal «potencia capitalista»?",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-11-18/microsoft-y-faa-dos-golpes-a-la-confianza-tecnologica-en-ee-uu-18-11-2026-18-11-27",
+      "destacada": false,
+      "tema": "microsoft",
+      "fecha": "Wed, 18 Nov 2026 18:11:27 -0500",
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -105,7 +326,7 @@
       "destacada": false,
       "tema": "moscú",
       "fecha": "Wed, 18 Nov 2026 18:07:32 +0000",
-      "id": 8
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -118,7 +339,7 @@
       "destacada": false,
       "tema": "jóvenes",
       "fecha": "Wed, 18 Nov 2026 18:05:18 +0000",
-      "id": 9
+      "id": 26
     },
     {
       "categoria": "economia",
@@ -131,20 +352,7 @@
       "destacada": false,
       "tema": "animalistas",
       "fecha": "Wed, 18 Nov 2026 18:04:55 +0000",
-      "id": 10
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El precio del dólar colapsa la vida de los cubanos. ¿Quién lo controla?",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1795021257_69911.html",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Wed, 18 Nov 2026 18:00:57 +0100",
-      "id": 11
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -157,20 +365,20 @@
       "destacada": false,
       "tema": "brasil",
       "fecha": "Wed, 18 Nov 2026 17:51:28 +0000",
-      "id": 12
+      "id": 28
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Un fallo judicial complica el acceso a la residencia en EEUU para cubanos con I-220 A",
-      "resumen": "Un Tribunal de Apelaciones establece un mal precedente para cubanos con I-220A al confirmar la denegación de la residencia por Ley de Ajuste Cubano a una familia. #I220A #LeyDeAjusteCubano #Emigración",
+      "titulo": "Noticiero de Radio Martí 5:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1795019338_69913.html",
+      "enlace_original": "https://www.martinoticias.com/a/483434.html",
       "destacada": false,
-      "tema": "fallo",
-      "fecha": "Wed, 18 Nov 2026 17:28:58 +0100",
-      "id": 13
+      "tema": "noticiero",
+      "fecha": "Wed, 18 Nov 2026 17:00:30 -0500",
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -183,7 +391,7 @@
       "destacada": false,
       "tema": "pensiones",
       "fecha": "Wed, 18 Nov 2026 16:45:00 GMT",
-      "id": 14
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -196,20 +404,72 @@
       "destacada": false,
       "tema": "filme",
       "fecha": "Wed, 18 Nov 2026 16:38:01 +0000",
-      "id": 15
+      "id": 31
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "oficial",
       "titulo": "Los peces en la red, en el aniversario 90 de Eugenio Hernández Espinosa",
-      "resumen": "El espacio Sábado del Libro, (21 de noviembre de 2026), auspiciado por el Instituto Cubano del Libro en la Calle de madera, de La Habana Vieja, presentará el título Los peces en la red, publicado por la Editorial Letras Cubanas, con monólogos, obras de pequeño formato y piezas de teatro del absurdo",
+      "resumen": "El espacio Sábado del Libro, auspiciado por el Instituto Cubano del Libro en la Calle de madera, de La Habana Vieja, presentará el título Los peces en la red, publicado por la Editorial Letras Cubanas, con monólogos, obras de pequeño formato y piezas de teatro del absurdo",
       "imagen_url": "",
       "enlace_original": "https://www.trabajadores.cu/20261118/los-peces-en-la-red-en-el-aniversario-90-de-eugenio-hernandez-espinosa/",
       "destacada": false,
       "tema": "peces",
       "fecha": "Wed, 18 Nov 2026 16:30:55 +0000",
-      "id": 16
+      "id": 32
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al día",
+      "resumen": "Acto de repudio a Mike Hammer en Cuba: Díaz-Canel pide \"confianza\".",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/484505.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Wed, 18 Nov 2026 16:12:56 -0500",
+      "id": 33
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Encuesta en Cuba registra amplio rechazo al régimen y reclamo de cambios urgentes",
+      "resumen": "Una encuesta realizada dentro de Cuba revela un amplio rechazo al Gobierno y a las principales instituciones del sistema político, con un 78% de los consultados a favor de cambios profundos y urgentes y un 89% que afirma no sentirse representado por las autoridades.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/encuesta-en-cuba-registra-amplio-rechazo-al-r%c3%a9gimen-y-reclamo-de-cambios-urgentes/484502.html",
+      "destacada": false,
+      "tema": "encuesta",
+      "fecha": "Wed, 18 Nov 2026 16:11:48 -0500",
+      "id": 34
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El dengue continúa en alza este noviembre en Cuba",
+      "resumen": "Contagios de dengue en aumento en Cuba este noviembre, etapa del año en la que históricamente baja la presencia de su transmisor, el mosquito Aedes aegypti",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/el-dengue-contin%c3%baa-en-alza-este-noviembre-en-cuba/484503.html",
+      "destacada": false,
+      "tema": "dengue",
+      "fecha": "Wed, 18 Nov 2026 16:06:56 -0500",
+      "id": 35
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Las Noticias Como Son",
+      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/483428.html",
+      "destacada": false,
+      "tema": "noticias",
+      "fecha": "Wed, 18 Nov 2026 16:05:30 -0500",
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -222,46 +482,7 @@
       "destacada": false,
       "tema": "encuentro",
       "fecha": "Wed, 18 Nov 2026 15:48:44 +0000",
-      "id": 17
-    },
-    {
-      "categoria": "energia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Con filo: Lo que no se dice sobre Cuba",
-      "resumen": "Se acumulan las desgracias para Cuba &#x1f1e8;&#x1f1fa;, sobre todo en este año que no parece querer terminarse: los apagones, las enfermedades, la inflación… Todo en Cuba se ha vuelto una suerte de deporte extremo, que demanda de cada uno de nosotros el máximo de concentración, el máximo esfuerzo f",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/18/con-filo-lo-que-no-se-dice-sobre-cuba/",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Wed, 18 Nov 2026 15:28:37 +0000",
-      "id": 18
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las filtraciones sobre la salud de Daniel Ortega pasan factura a dos médicos cubanos",
-      "resumen": "Los médicos cubanos Judith Castro Ballester y Héctor Echevarría Requeijo, que atendían directamente a Daniel Ortega, figuran entre los detenidos en medio de las filtraciones sobre la salud del dictador. #MédicosCubanos #DanielOrtega #Nicaragua",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1795010997_69910.html",
-      "destacada": false,
-      "tema": "filtraciones",
-      "fecha": "Wed, 18 Nov 2026 15:09:57 +0100",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Una celebración con reflexiones y alianzas",
-      "resumen": "Emprendimientos, fincas, empresas, organizaciones de la sociedad civil, movimientos e iniciativas dedicadas a las infancias, se reunieron para celebrar a su manera el aniversario de La Habana La entrada Una celebración con reflexiones y alianzas se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/una-celebracion-con-reflexiones-y-alianzas/",
-      "destacada": false,
-      "tema": "celebración",
-      "fecha": "Wed, 18 Nov 2026 14:48:15 +0000",
-      "id": 20
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -274,7 +495,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Wed, 18 Nov 2026 14:42:00 +0000",
-      "id": 21
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -287,7 +508,7 @@
       "destacada": false,
       "tema": "celebran",
       "fecha": "Wed, 18 Nov 2026 14:38:50 +0000",
-      "id": 22
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -300,7 +521,20 @@
       "destacada": false,
       "tema": "establece",
       "fecha": "Wed, 18 Nov 2026 14:30:10 +0000",
-      "id": 23
+      "id": 40
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Nueva normativa amplía derechos y sostenibilidad del sistema de Seguridad Social en Cuba",
+      "resumen": "Las normas entran en vigor a los siete días después de su publicación",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/cuba/2026-11-18/nueva-normativa-amplia-derechos-y-sostenibilidad-del-sistema-de-seguridad-social-en-cuba-18-11-2026-14-11-21",
+      "destacada": false,
+      "tema": "nueva",
+      "fecha": "Wed, 18 Nov 2026 14:11:21 -0500",
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -313,33 +547,7 @@
       "destacada": false,
       "tema": "cáncer",
       "fecha": "Wed, 18 Nov 26 14:05:00 +0100",
-      "id": 24
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Con quién se atreve a hablar un cubano de la situación del país?",
-      "resumen": "La quinta encuesta de DIARIO DE CUBA y Cubadata radiografía la libertad de expresión: seis de cada diez cubanos consultados sienten un temor absoluto al hablar con desconocidos, relegando el debate público al ámbito familiar más íntimo. #Cuba #EncuestaDDC",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/foro-ddc/1795006213_69891.html",
-      "destacada": false,
-      "tema": "quién",
-      "fecha": "Wed, 18 Nov 2026 13:50:13 +0100",
-      "id": 25
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Más de 600 médicos cubanos aspiran a una plaza de formación en España",
-      "resumen": "Cuba ocupa el sexto puesto entre los países latinoamericanos con más médicos inscritos para el MIR de 2027 en España. La mayoría concurrirá por la misma vía que los facultativos con nacionalidad española. #MédicosCubanos #España #Emigración",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1795005403_69909.html",
-      "destacada": false,
-      "tema": "médicos",
-      "fecha": "Wed, 18 Nov 2026 13:36:43 +0100",
-      "id": 26
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -352,33 +560,7 @@
       "destacada": false,
       "tema": "alemania",
       "fecha": "Wed, 18 Nov 2026 13:30:00 GMT",
-      "id": 27
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Berta Soler citada e interrogada tras unirse a protesta por falta de agua en Lawton",
-      "resumen": "Berta Soler, líder de las Damas de Blanco, fue interrogada durante 25 minutos en La Habana tras una protesta vecinal en Lawton por la falta de agua potable, una crisis que, según denunció, se prolonga desde hace seis meses y afecta a la comunidad.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/berta-soler-citada-e-interrogada-tras-unirse-a-protesta-por-falta-de-agua-en-lawton/484492.html",
-      "destacada": false,
-      "tema": "berta",
-      "fecha": "Wed, 18 Nov 2026 13:22:24 -0500",
-      "id": 28
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Puede el turismo en Cuba recuperarse con alertas internacionales en contra?",
-      "resumen": "Mientras La Habana presiona a Ottawa para retirar restricciones de viaje y reflotar el sector, Berlín desaconseja de manera enérgica volar a la Isla ante el colapso de los servicios esenciales y la sanidad. #Cuba #Turismo #Viajes",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1795004340_69908.html",
-      "destacada": false,
-      "tema": "turismo",
-      "fecha": "Wed, 18 Nov 2026 13:19:00 +0100",
-      "id": 29
+      "id": 43
     },
     {
       "categoria": "economia",
@@ -391,98 +573,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Wed, 18 Nov 2026 13:00:00 GMT",
-      "id": 30
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El régimen cubano emprende una cacería de antenas Starlink: ¿a quiénes alcanzará?",
-      "resumen": "La confiscación de equipos de Starlink en Villa Clara confirma rumores sobre operativos policiales y obliga a preguntarse si los decomisos alcanzarán a todas las personas que usan las antenas en Cuba. #Starlink #Cuba #VillaClara",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1795001444_69906.html",
-      "destacada": false,
-      "tema": "régimen",
-      "fecha": "Wed, 18 Nov 2026 12:30:44 +0100",
-      "id": 31
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La policía política cubana cita por 'atentado' a Camila Acosta y Ángel Santiesteban",
-      "resumen": "La periodista Camila Acosta y el escritor Ángel Santiesteban fueron citados por una presunta denuncia de \"atentado\". Ocurre tras la sentencia que inhabilita al narrador para dirigir asociaciones masónicas. #Cuba #LaHabana",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1795000324_69907.html",
-      "destacada": false,
-      "tema": "policía",
-      "fecha": "Wed, 18 Nov 2026 12:12:04 +0100",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Más allá de la crónica roja: robos y asesinatos aumentan en Cuba ante el abandono oficial",
-      "resumen": "Denuncias de robos, asaltos, asesinatos y violencia armada en varias provincias de Cuba revelan un panorama de miedo creciente, impunidad y abandono institucional ante la inseguridad ciudadana que lleva a muchos cubanos a tomar la justicia en sus propias manos.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/m%c3%a1s-all%c3%a1-de-la-cr%c3%b3nica-roja-robos-y-asesinatos-aumentan-en-cuba-ante-el-abandono-oficial/484423.html",
-      "destacada": false,
-      "tema": "crónica",
-      "fecha": "Wed, 18 Nov 2026 12:11:48 -0500",
-      "id": 33
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 12:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/483418.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Wed, 18 Nov 2026 12:00:00 -0500",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Artista cubano denuncia acto de repudio durante visita de Hammer a su taller en Pinar del Río",
-      "resumen": "“Con Mike Hammer la cosa ha sido muy fuerte. Antes lo habían intentado, pero esta vez fueron más allá. Me siento muy indignado con todo lo que hicieron aquí frente a mi casa”, afirmó.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/artista-cubano-denuncia-acto-de-repudio-durante-visita-de-hammer-a-su-taller-en-pinar-del-r%c3%ado/484482.html",
-      "destacada": false,
-      "tema": "artista",
-      "fecha": "Wed, 18 Nov 2026 11:41:57 -0500",
-      "id": 35
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barrio adentro",
-      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/483416.html",
-      "destacada": false,
-      "tema": "barrio",
-      "fecha": "Wed, 18 Nov 2026 11:30:00 -0500",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "David Morrell vuelve al ring el sábado ante un rival de poca monta",
-      "resumen": "Luego de perder por nocaut en su último combate ante el inglés Zak Chelli el pasado 9 de mayo, el cubano David Morrell regresa al ring el sábado próximo, cuando enfrente en Santo Domingo al peleador local Julio de Jesús Rodríguez.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/484486.html",
-      "destacada": false,
-      "tema": "david",
-      "fecha": "Wed, 18 Nov 2026 11:24:32 -0500",
-      "id": 37
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -495,33 +586,20 @@
       "destacada": false,
       "tema": "matrícula",
       "fecha": "Wed, 18 Nov 2026 10:55:48 +0000",
-      "id": 38
+      "id": 45
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba moverá piezas en el Mundial Juvenil de Ajedrez",
-      "resumen": "La Isla posee dos títulos históricos: Walter Arencibia en 1986 y Lázaro Bruzón en el 2000",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-11-18/cuba-movera-piezas-en-el-mundial-juvenil-de-ajedrez-18-11-2026-10-11-59",
-      "destacada": false,
-      "tema": "moverá",
-      "fecha": "Wed, 18 Nov 2026 10:11:59 -0500",
-      "id": 39
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Embajador del estado Palestino denuncia en La Habana el genocidio contra su pueblo",
+      "titulo": "Embajador del Estado Palestino denuncia en La Habana el genocidio contra su pueblo",
       "resumen": "«Gaza pasó de ser la prisión más grande del mundo, al cementerio más grande del mundo», sentenció el embajador de Palestina en Cuba Amma Zorba en una conferencia ofrecida en el Instituto Cubano de Amistad con los Pueblos",
       "imagen_url": "",
       "enlace_original": "http://www.granma.cu/cuba/2026-11-18/embajador-del-estado-palestino-denuncia-en-la-habana-el-genocidio-contra-su-pueblo-18-11-2026-10-11-23",
       "destacada": false,
       "tema": "embajador",
       "fecha": "Wed, 18 Nov 2026 10:11:23 -0500",
-      "id": 40
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -534,7 +612,7 @@
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Wed, 18 Nov 26 08:19:00 +0100",
-      "id": 41
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -547,7 +625,7 @@
       "destacada": false,
       "tema": "realidad",
       "fecha": "Wed, 18 Nov 26 08:18:00 +0100",
-      "id": 42
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -560,7 +638,7 @@
       "destacada": false,
       "tema": "estará",
       "fecha": "Wed, 18 Nov 26 08:17:00 +0100",
-      "id": 43
+      "id": 49
     },
     {
       "categoria": "energia",
@@ -573,7 +651,7 @@
       "destacada": false,
       "tema": "apagones",
       "fecha": "Wed, 18 Nov 26 08:17:00 +0100",
-      "id": 44
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -586,20 +664,7 @@
       "destacada": false,
       "tema": "activistas",
       "fecha": "Wed, 18 Nov 26 07:47:00 +0100",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Basilea vuelve a alzar la voz contra el bloqueo de EEUU a Cuba en su acción solidaria del día 17 (+Fotos)",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126166-basilea-vuelve-a-alzar-la-voz-contra-el-bloqueo-de-eeuu-a-cuba-en-su-accion-solidaria-del-dia-17-fotos.jpg?t=1794984398",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261118/126166/126166-basilea-vuelve-a-alzar-la-voz-contra-el-bloqueo-de-eeuu-a-cuba-en-su-accion-solidaria-del-dia-17-fotos",
-      "destacada": false,
-      "tema": "basilea",
-      "fecha": "Wed, 18 Nov 26 07:43:00 +0100",
-      "id": 46
+      "id": 51
     },
     {
       "categoria": "politica",
@@ -612,98 +677,7 @@
       "destacada": false,
       "tema": "innovar",
       "fecha": "Wed, 18 Nov 2026 07:11:34 -0500",
-      "id": 47
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Las violencias machistas no se pueden reducir a una efeméride",
-      "resumen": "La investigación «Violencias de género: relatos desde los medios», realizada por SEMlac Cuba con la ...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/125959-las-violencias-machistas-no-se-pueden-reducir-a-una-efemeride.jpg?t=1793995342",
-      "enlace_original": "https://www.cubainformacion.tv/genero/20261118/125959/125959-las-violencias-machistas-no-se-pueden-reducir-a-una-efemeride",
-      "destacada": false,
-      "tema": "violencias",
-      "fecha": "Wed, 18 Nov 26 07:00:00 +0100",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Denuncian &quot;Madres contra la Guerra&quot; de Puerto Rico el castigo colectivo a Cuba y Palestina",
-      "resumen": "San Juan, 17 nov (Prensa Latina) La organización Madres contra la Guerra de Puerto Rico denunc...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126164-denuncian-madres-contra-la-guerra-de-puerto-rico-el-castigo-colectivo-a-cuba-y-palestina.jpg?t=1794981025",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261118/126164/126164-denuncian-madres-contra-la-guerra-de-puerto-rico-el-castigo-colectivo-a-cuba-y-palestina",
-      "destacada": false,
-      "tema": "denuncian",
-      "fecha": "Wed, 18 Nov 26 06:49:00 +0100",
-      "id": 49
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "¿Quién está detrás de la encuesta que afirma que los cubanos apoyan una intervención estadounidense?",
-      "resumen": "Blake Burdge Cubadebate En septiembre, una rara encuesta de opinión pública respaldada por dos i...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126163-quien-esta-detras-de-la-encuesta-que-afirma-que-los-cubanos-apoyan-una-intervencion-estadounidense.jpg?t=1794980968",
-      "enlace_original": "https://www.cubainformacion.tv/contra-cuba/20261118/126163/126163-quien-esta-detras-de-la-encuesta-que-afirma-que-los-cubanos-apoyan-una-intervencion-estadounidense",
-      "destacada": false,
-      "tema": "quién",
-      "fecha": "Wed, 18 Nov 26 06:48:00 +0100",
-      "id": 50
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Qué profesionales no pueden salir de Cuba con la nueva Ley de Migración?",
-      "resumen": "Circulan en redes versiones que aseguran que “todo tipo de profesional” necesita autorización para salir de Cuba con la Ley 171. elTOQUE Jurídico contrastó esas afirmaciones con la ley y el Decreto 306: es falso que el título universitario sea un impedimento en sí mismo.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/13_11_2026_universidad_profesionales_cuba_pasaporte_migracion_0625a1d7ec.jpg",
-      "enlace_original": "https://eltoque.com/que-profesionales-no-pueden-salir-de-cuba-con-la-nueva-ley-de-migracion",
-      "destacada": false,
-      "tema": "profesionales",
-      "fecha": "Tue, 17 Nov 2026 21:30:00 GMT",
-      "id": 51
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Entre apagones y oficinas sin recursos, el Gobierno cubano apuesta por la inteligencia artificial",
-      "resumen": "Una nueva normativa publicada en la ‘Gaceta Oficial’ prevé asistentes virtuales, sistemas predictivos y automatización de procesos administrativos",
-      "imagen_url": "https://static.14ymedio.com/clip/bf629dee-9851-40e4-9be4-ee5a0afb7d38_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/apagones-oficinas-recursos-gobierno-cubano_1_1133411.html",
-      "destacada": false,
-      "tema": "apagones",
-      "fecha": "Tue, 17 Nov 2026 21:13:48 +0000",
       "id": 52
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Potencialidades de Matanzas en Feria Internacional de La Habana",
-      "resumen": "La cartera de oportunidades de una provincia de grandes atractivos como esta será exhibida en la principal bolsa comercial del país",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261117/potencialidades-de-matanzas-en-feria-internacional-de-la-habana/",
-      "destacada": false,
-      "tema": "potencialidades",
-      "fecha": "Tue, 17 Nov 2026 20:48:24 +0000",
-      "id": 53
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "El bloqueo de Estados Unidos: psicosis por Cuba",
-      "resumen": "La Administración Trump no esconde sus intenciones de poseer a Cuba, incluso, Marco Rubio, ha llamado a colaborar con la CIA para promover un cambio en la Isla caribeña",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261117/el-bloqueo-de-estados-unidos-psicosis-por-cuba/",
-      "destacada": false,
-      "tema": "bloqueo",
-      "fecha": "Tue, 17 Nov 2026 20:30:27 +0000",
-      "id": 54
     }
   ]
 }
