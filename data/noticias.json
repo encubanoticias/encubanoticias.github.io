@@ -1,8 +1,255 @@
 {
   "fecha": "2026-11-20",
-  "hora": "00:03",
-  "total": 47,
+  "hora": "07:54",
+  "total": 51,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Starlink en Cuba. Lo que NO QUIEREN que sepas",
+      "resumen": "Jóvenes en Revolución",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126217-starlink-en-cuba-lo-que-no-quieren-que-sepas.jpg?t=1795160981",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261120/126217/126217-starlink-en-cuba-lo-que-no-quieren-que-sepas",
+      "destacada": true,
+      "tema": "starlink",
+      "fecha": "Fri, 20 Nov 26 08:49:00 +0100",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "El mundo avanza y Miami mudo en su propia ignorancia",
+      "resumen": "El Titan de #Cuba",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126216-el-mundo-avanza-y-miami-mudo-en-su-propia-ignorancia.jpg?t=1795160830",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261120/126216/126216-el-mundo-avanza-y-miami-mudo-en-su-propia-ignorancia",
+      "destacada": true,
+      "tema": "mundo",
+      "fecha": "Fri, 20 Nov 26 08:47:00 +0100",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Cómo impactan en Cuba acuerdos China, Rusia y USA Marco Rubio incompatible con nuevo orden mundial",
+      "resumen": "Guerrero Cubano con su verdad al desnudo",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126215-como-impactan-en-cuba-acuerdos-china-rusia-y-usa-marco-rubio-incompatible-con-nuevo-orden-mundial.jpg?t=1795160793",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261120/126215/126215-como-impactan-en-cuba-acuerdos-china-rusia-y-usa-marco-rubio-incompatible-con-nuevo-orden-mundial",
+      "destacada": true,
+      "tema": "impactan",
+      "fecha": "Fri, 20 Nov 26 08:46:00 +0100",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Ferrin, incondicional da Revolución Cubana. Nota polo seu pasamento",
+      "resumen": "Ferrín intervén na efeméride do Moncada nos xardín de Montero Ríos de Vigon na convocatoria da Villa...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126204-ferrin-incondicional-da-revolucion-cubana-nota-polo-seu-pasamento.jpg?t=1795117526",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261120/126204/126204-ferrin-incondicional-da-revolucion-cubana-nota-polo-seu-pasamento",
+      "destacada": true,
+      "tema": "ferrin",
+      "fecha": "Fri, 20 Nov 26 08:00:00 +0100",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Éxito de participación del Seminario Internacional «El siglo de Fidel» en la ciudad chilena de Concepción (+Fotos)",
+      "resumen": "Cubainformación",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126214-exito-de-participacion-del-seminario-internacional-el-siglo-de-fidel-en-la-ciudad-chilena-de-concepcion-fotos.jpg?t=1795159391",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261120/126214/126214-exito-de-participacion-del-seminario-internacional-el-siglo-de-fidel-en-la-ciudad-chilena-de-concepcion-fotos",
+      "destacada": true,
+      "tema": "éxito",
+      "fecha": "Fri, 20 Nov 26 07:50:00 +0100",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Otro Lado Dance Company: crear obras de arte impredecibles como la vida misma",
+      "resumen": "Cubavisión Internacional.- Por más de 5 años “Otro Lado Dance Company” se ha establecido como una de...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126213-otro-lado-dance-company-crear-obras-de-arte-impredecibles-como-la-vida-misma.jpg?t=1795157295",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261120/126213/126213-otro-lado-dance-company-crear-obras-de-arte-impredecibles-como-la-vida-misma",
+      "destacada": false,
+      "tema": "dance",
+      "fecha": "Fri, 20 Nov 26 07:44:00 +0100",
+      "id": 6
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Inflación interanual en Cuba sube más del 30 por ciento",
+      "resumen": "Foto: datosmacro.com - Tomada de Cubahora.",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126212-inflacion-interanual-en-cuba-sube-mas-del-30-por-ciento.jpg?t=1795154546",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261120/126212/126212-inflacion-interanual-en-cuba-sube-mas-del-30-por-ciento",
+      "destacada": false,
+      "tema": "inflación",
+      "fecha": "Fri, 20 Nov 26 07:00:00 +0100",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Desde Córdoba se le dijo “NO al bloqueo de EEUU contra Cuba”",
+      "resumen": "Buenos Aires, 20 nov (Prensa Latina) Argentinos solidarios con Cuba exigieron el cese de la ho...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126211-desde-cordoba-se-le-dijo-no-al-bloqueo-de-eeuu-contra-cuba.jpg?t=1795154401",
+      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261120/126211/126211-desde-cordoba-se-le-dijo-no-al-bloqueo-de-eeuu-contra-cuba",
+      "destacada": false,
+      "tema": "córdoba",
+      "fecha": "Fri, 20 Nov 26 06:59:00 +0100",
+      "id": 8
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Estrenan “Un grano de sol” serie animada sobre la infancia de Fidel",
+      "resumen": "Cubadebate El primer capítulo de la serie de dibujos animados Un grano de sol, días del niño Fide...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126209-estrenan-un-grano-de-sol-serie-animada-sobre-la-infancia-de-fidel.jpg?t=1795153853",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261120/126209/126209-estrenan-un-grano-de-sol-serie-animada-sobre-la-infancia-de-fidel",
+      "destacada": false,
+      "tema": "transporte",
+      "fecha": "Fri, 20 Nov 26 06:50:00 +0100",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "La nueva normativa de Seguridad Social en Cuba amplía derechos y apuesta por la sostenibilidad del sistema",
+      "resumen": "Foto: Ismael Batista Ramírez / Granma.",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126208-la-nueva-normativa-de-seguridad-social-en-cuba-amplia-derechos-y-apuesta-por-la-sostenibilidad-del-sistema.jpg?t=1795153773",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261120/126208/126208-la-nueva-normativa-de-seguridad-social-en-cuba-amplia-derechos-y-apuesta-por-la-sostenibilidad-del-sistema",
+      "destacada": false,
+      "tema": "nueva",
+      "fecha": "Fri, 20 Nov 26 06:48:00 +0100",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "50 grupos progresistas, entre ellos Code Pink, presionan a los demócratas para forzar una votación que frene una acción militar de Trump contra la dictadura cubana",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-20-u1-e199894-s27061-nid346186-50-grupos-progresistas-ellos-code-pink-presionan",
+      "destacada": false,
+      "tema": "grupos",
+      "fecha": "Fri, 20 Nov 2026 05:20:58 +0100",
+      "id": 11
+    },
+    {
+      "categoria": "salud",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "En medio de la crisis energética en Cuba, organizaciones suecas y emigrados donan sistemas solares para cinco centros de salud",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-20-u1-e199894-s27061-nid346185-medio-crisis-energetica-cuba-organizaciones-suecas",
+      "destacada": false,
+      "tema": "medio",
+      "fecha": "Fri, 20 Nov 2026 05:08:29 +0100",
+      "id": 12
+    },
+    {
+      "categoria": "economia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "¿Cuáles son los retos de la política crediticia en Cuba?",
+      "resumen": "En las condiciones actuales del país y los niveles de inflación es un reto garantizar el crédito que exige la economía para alcanzar sus niveles de desarrollo. Es por ello, que buscar un equilibrio demanda en primer lugar que la política crediticia constituya un instrumento de conducción de la polít",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/20/retos-de-la-politica-crediticia-en-cuba/",
+      "destacada": false,
+      "tema": "cuáles",
+      "fecha": "Fri, 20 Nov 2026 04:01:58 +0000",
+      "id": 13
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El dólar se dispara en Cuba: alcanza los 945 pesos y acumula una subida de 40 CUP en una semana",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-20-u1-e199894-s27061-nid346183-dolar-dispara-cuba-alcanza-945-pesos-acumula-subida",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Fri, 20 Nov 2026 03:13:04 +0100",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Ni en tu casa estás seguro: Cubano alerta sobre el aumento de la delincuencia en La Habana",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-20-u1-e199291-s27061-nid346181-ni-propia-casa-estas-seguro-cubano-alerta-aumento",
+      "destacada": false,
+      "tema": "estás",
+      "fecha": "Fri, 20 Nov 2026 02:48:00 +0100",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Activista santiaguero: «Hay días en que Cuba y la vida me duelen en el epicentro del alma»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-20-u1-e199291-s27061-nid346177-activista-santiaguero-hay-dias-cuba-vida-me-duelen",
+      "destacada": false,
+      "tema": "activista",
+      "fecha": "Fri, 20 Nov 2026 02:40:51 +0100",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Periodista oficialista cubano: Nuestra realidad de hoy se empeña en superar el drama alimentario vivido por nuestros abuelos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-20-u1-e199291-s27061-nid346170-periodista-oficialista-cubano-nuestra-realidad-hoy",
+      "destacada": false,
+      "tema": "periodista",
+      "fecha": "Fri, 20 Nov 2026 02:31:34 +0100",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Fue un artículo de lujo»: cubana tras comprar 10 jabones",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-20-u1-e199291-s27061-nid346164-fue-articulo-lujo-cubana-tras-comprar-10-jabones",
+      "destacada": false,
+      "tema": "artículo",
+      "fecha": "Fri, 20 Nov 2026 02:16:31 +0100",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Realizan Feria Expositiva GuantánamoInnova 2026",
+      "resumen": "Bajo la premisa \"La ciencia y la innovación al servicio de la sociedad\", la provincia más oriental de Cuba realizó la Feria Expositiva GuantánamoInnova 2026, evento que en su décima edición mantuvo su propósito fundacional de exponer los mejores propuestas en materia de proyectos científicos, innova",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/19/realizan-feria-expositiva-guantanamoinnova-2026/",
+      "destacada": false,
+      "tema": "realizan",
+      "fecha": "Fri, 20 Nov 2026 02:06:05 +0000",
+      "id": 19
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
@@ -11,49 +258,49 @@
       "resumen": "El Nova Orion, un buque con un historial vinculado a los negocios del régimen de #Cuba, lleva tres días varado en #RepúblicaDominicana.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1795130820_69936.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "buque",
       "fecha": "Fri, 20 Nov 2026 00:27:00 +0100",
-      "id": 1
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Exespía cubano Ramón Labañino propone medidas para frenar la inflación: «Todos merecemos llegar a diciembre con un respiro económico»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-19-u1-e135253-s27061-nid346166-exespia-cubano-ramon-labanino-propone-medidas-frenar",
-      "destacada": true,
-      "tema": "exespía",
-      "fecha": "Thu, 19 Nov 2026 23:40:05 +0100",
-      "id": 2
+      "id": 20
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Me dejaron paralítico»: desgarrador testimonio de un migrante cubano que denuncia golpizas de ICE",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-19-u1-e129488-s27061-nid346153-me-dejaron-paralitico-desgarrador-testimonio",
-      "destacada": true,
-      "tema": "dejaron",
-      "fecha": "Thu, 19 Nov 2026 23:17:02 +0100",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
+      "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Celebrarán XVIII Reunión Interparlamentaria México-Cuba",
-      "resumen": "Ciudad de México, 19 nov (Prensa Latina) La XVIII Reunión Interparlamentaria México-Cuba comenzará mañana en esta capital, enfocada en temas como educación, cultura, inversiones y desarrollo energético, informaron hoy autoridades. The post Celebrarán XVIII Reunión Interparlamentaria México-Cuba firs",
+      "titulo": "Piratas del Caribe de Cuba concluye tercero en la ronda de 32 del Grupo C de la SSL Gold Cup en Río de Janeiro",
+      "resumen": "Cuba concluyó este jueves con el equipo Piratas del Caribe en el tercer lugar de la ronda de 32 del grupo C de la clase SSL de Gold Cup, que tiene lugar en Rio de Janeiro, Brasil. The post Piratas del Caribe de Cuba concluye tercero en la ronda de 32 del Grupo C de la SSL Gold Cup en Río de Janeiro ",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/19/celebraran-xviii-reunion-interparlamentaria-mexico-cuba/",
-      "destacada": true,
-      "tema": "celebrarán",
-      "fecha": "Thu, 19 Nov 2026 23:15:10 +0000",
-      "id": 4
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/19/piratas-del-caribe-de-cuba-concluye-tercero-en-la-ronda-de-32-del-grupo-c-de-la-ssl-gold-cup-en-rio-de-janeiro/",
+      "destacada": false,
+      "tema": "piratas",
+      "fecha": "Fri, 20 Nov 2026 00:02:53 +0000",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al Día",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/483582.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Fri, 20 Nov 2026 00:00:30 -0500",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba ante el reto de la terapia celular y CAR-T",
+      "resumen": "Se basa en la utilización de células del propio paciente o de donantes, las cuales son enriquecidas y/o modificadas genéticamente para hacer frente a una determinada enfermedad",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261119/cuba-ante-el-reto-de-la-terapia-celular-y-car-t/",
+      "destacada": false,
+      "tema": "terapia",
+      "fecha": "Thu, 19 Nov 2026 23:31:12 +0000",
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -63,49 +310,10 @@
       "resumen": "¿Cómo funciona el sector no estatal en Cuba? Un estudio de CubaData revela un crecimiento desigual y que la supervivencia depende de las divisas, los contactos y la capacidad para sortear la arbitrariedad estatal.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/economia/1795126166_69933.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "radiografía",
       "fecha": "Thu, 19 Nov 2026 23:09:26 +0100",
-      "id": 5
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Los españoles que viven en Cuba podrán votar en urna para el 29-N desde el sábado: días, lugar y quejas por falta de transporte",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-19-u1-e43231-s27061-nid346158-espanoles-viven-cuba-podran-votar-urna-29-n-sabado",
-      "destacada": false,
-      "tema": "transporte",
-      "fecha": "Thu, 19 Nov 2026 22:35:46 +0100",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Dentista cubana cuenta cómo les arregló los dientes «maltrataditos» a Los Pichy Boys",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-19-u1-e208487-s27061-nid346160-dentista-cubana-cuenta-les-arreglo-dientes",
-      "destacada": false,
-      "tema": "dentista",
-      "fecha": "Thu, 19 Nov 2026 22:17:22 +0100",
-      "id": 7
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Médico cubano lleva más de seis meses detenido por ICE: una fianza de 30.000 dólares impide su salida",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-19-u1-e74-s27061-nid346161-medico-cubano-lleva-seis-meses-detenido-ice-fianza-30000",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Thu, 19 Nov 2026 22:14:03 +0100",
-      "id": 8
+      "id": 24
     },
     {
       "categoria": "transporte",
@@ -118,7 +326,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Thu, 19 Nov 2026 22:01:00 +0100",
-      "id": 9
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -131,7 +339,7 @@
       "destacada": false,
       "tema": "descargue",
       "fecha": "Thu, 19 Nov 2026 21:57:40 +0000",
-      "id": 10
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -144,7 +352,7 @@
       "destacada": false,
       "tema": "miedo",
       "fecha": "Thu, 19 Nov 2026 21:37:23 +0100",
-      "id": 11
+      "id": 27
     },
     {
       "categoria": "transporte",
@@ -157,7 +365,7 @@
       "destacada": false,
       "tema": "claves",
       "fecha": "Thu, 19 Nov 2026 21:00:00 GMT",
-      "id": 12
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -170,7 +378,7 @@
       "destacada": false,
       "tema": "unicef",
       "fecha": "Thu, 19 Nov 2026 20:53:06 +0100",
-      "id": 13
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -183,7 +391,20 @@
       "destacada": false,
       "tema": "manual",
       "fecha": "Thu, 19 Nov 2026 20:32:22 +0100",
-      "id": 14
+      "id": 30
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 8:00 PM",
+      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/483546.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Thu, 19 Nov 2026 20:00:00 -0500",
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -196,7 +417,7 @@
       "destacada": false,
       "tema": "intelectuales",
       "fecha": "Thu, 19 Nov 2026 19:45:16 +0000",
-      "id": 15
+      "id": 32
     },
     {
       "categoria": "economia",
@@ -209,46 +430,7 @@
       "destacada": false,
       "tema": "estado",
       "fecha": "Thu, 19 Nov 2026 19:24:47 +0000",
-      "id": 16
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba, la memoria de la resistencia y el desafío del socialismo del futuro",
-      "resumen": "La historia de la Revolución cubana no puede contarse sin recordar el largo período de agresiones, atentados, sabotajes y operaciones clandestinas que han acompañado su trayectoria desde 1959. Una historia que sigue pesando sobre las relaciones entre Cuba y Estados Unidos y que debe conocerse para c",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/19/cuba-la-memoria-de-la-resistencia-y-el-desafio-del-socialismo-del-futuro/",
-      "destacada": false,
-      "tema": "memoria",
-      "fecha": "Thu, 19 Nov 2026 18:55:12 +0000",
-      "id": 17
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Díaz-Canel comprueba Programa Integral de Abasto de Agua en La Habana y otras regiones del país",
-      "resumen": "En la mañana de este jueves, el Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, visitó La Taza de Vento, ubicada en el municipio capitalino de Boyeros. Indagó por el municipio granmense de Manzanillo; por la provincia de Sa",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/19/diaz-canel-comprueba-programa-integral-de-abasto-de-agua-en-la-habana-y-otras-regiones-del-pais/",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Thu, 19 Nov 2026 18:38:20 +0000",
-      "id": 18
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Confirman la presencia de Cuba en dos eventos internacionales de béisbol para inicios del año 2027",
-      "resumen": "Cuba en dos eventos internacionales de béisbol convocados para inicios del año 2027. Se trata de la Serie de las Américas y la Liga de Campeones de Beisbol global. La Isla estará representada por el conjunto que resulte monarca de la actual 65 serie nacional. The post Confirman la presencia de Cuba ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/19/confirman-la-presencia-de-cuba-en-dos-eventos-internacionales-de-beisbol-para-inicios-del-ano-2027/",
-      "destacada": false,
-      "tema": "confirman",
-      "fecha": "Thu, 19 Nov 2026 18:20:22 +0000",
-      "id": 19
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -261,7 +443,7 @@
       "destacada": false,
       "tema": "usureros",
       "fecha": "Thu, 19 Nov 2026 18:14:13 +0000",
-      "id": 20
+      "id": 34
     },
     {
       "categoria": "economia",
@@ -274,7 +456,7 @@
       "destacada": false,
       "tema": "sectores",
       "fecha": "Thu, 19 Nov 2026 18:01:17 +0100",
-      "id": 21
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -287,7 +469,7 @@
       "destacada": false,
       "tema": "convocan",
       "fecha": "Thu, 19 Nov 2026 17:57:48 +0000",
-      "id": 22
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -300,7 +482,7 @@
       "destacada": false,
       "tema": "afectará",
       "fecha": "Thu, 19 Nov 2026 17:40:41 +0000",
-      "id": 23
+      "id": 37
     },
     {
       "categoria": "salud",
@@ -313,7 +495,7 @@
       "destacada": false,
       "tema": "compromiso",
       "fecha": "Thu, 19 Nov 2026 17:29:13 +0000",
-      "id": 24
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -326,7 +508,7 @@
       "destacada": false,
       "tema": "niover",
       "fecha": "Thu, 19 Nov 2026 17:18:37 -0500",
-      "id": 25
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -339,7 +521,7 @@
       "destacada": false,
       "tema": "inició",
       "fecha": "Thu, 19 Nov 2026 17:03:13 +0000",
-      "id": 26
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -352,7 +534,20 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Thu, 19 Nov 2026 17:00:30 -0500",
-      "id": 27
+      "id": 41
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Todo a lo cubano",
+      "resumen": "Así funcionan los procesos de un Sistema Integrado de Gestión en la industria avileña de materiales de construcción",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261119/todo-a-lo-cubano/",
+      "destacada": false,
+      "tema": "cubano",
+      "fecha": "Thu, 19 Nov 2026 16:52:45 +0000",
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -365,33 +560,7 @@
       "destacada": false,
       "tema": "ganar",
       "fecha": "Thu, 19 Nov 2026 16:45:00 GMT",
-      "id": 28
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Más cubanos toman este 2026 la ruta a Uruguay para escapar de la isla",
-      "resumen": "Cifras reafirman a Uruguay como uno de los países sudamericanos con mayor éxodo de cubanos",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/m%c3%a1s-cubanos-toman-este-2026-la-ruta-a-uruguay-para-escapar-de-la-isla/484593.html",
-      "destacada": false,
-      "tema": "cubanos",
-      "fecha": "Thu, 19 Nov 2026 16:16:28 -0500",
-      "id": 29
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las Noticias Como Son",
-      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/483532.html",
-      "destacada": false,
-      "tema": "noticias",
-      "fecha": "Thu, 19 Nov 2026 16:05:30 -0500",
-      "id": 30
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -404,7 +573,7 @@
       "destacada": false,
       "tema": "alemania",
       "fecha": "Thu, 19 Nov 2026 16:04:38 +0000",
-      "id": 31
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -417,7 +586,7 @@
       "destacada": false,
       "tema": "ganar",
       "fecha": "Thu, 19 Nov 2026 15:03:52 +0000",
-      "id": 32
+      "id": 45
     },
     {
       "categoria": "politica",
@@ -430,7 +599,7 @@
       "destacada": false,
       "tema": "instituto",
       "fecha": "Thu, 19 Nov 2026 14:20:40 +0100",
-      "id": 33
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -443,7 +612,7 @@
       "destacada": false,
       "tema": "electa",
       "fecha": "Thu, 19 Nov 2026 14:11:57 -0500",
-      "id": 34
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -456,7 +625,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Thu, 19 Nov 2026 14:02:27 +0100",
-      "id": 35
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -469,7 +638,7 @@
       "destacada": false,
       "tema": "mexicana",
       "fecha": "Thu, 19 Nov 2026 13:11:05 -0500",
-      "id": 36
+      "id": 49
     },
     {
       "categoria": "salud",
@@ -482,20 +651,7 @@
       "destacada": false,
       "tema": "denuncia",
       "fecha": "Thu, 19 Nov 2026 11:11:37 -0500",
-      "id": 37
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Se presentaron en València los resultados de la campaña solidaria “Energía para Cuba” en encuentro con el cónsul Alejandro Castro (+Fotos)",
-      "resumen": "El envío de un contenedor para el proyecto Quisicuaba y la contribución a la electrificación fotovol...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126202-se-presentaron-en-valencia-los-resultados-de-la-campana-solidaria-energia-para-cuba-en-encuentro-con-el-consul-alejandro-castro-fotos.jpg?t=1795082965",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261119/126202/126202-se-presentaron-en-valencia-los-resultados-de-la-campana-solidaria-energia-para-cuba-en-encuentro-con-el-consul-alejandro-castro-fotos",
-      "destacada": false,
-      "tema": "presentaron",
-      "fecha": "Thu, 19 Nov 26 11:06:00 +0100",
-      "id": 38
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -508,111 +664,7 @@
       "destacada": false,
       "tema": "muertes",
       "fecha": "Thu, 19 Nov 2026 10:45:09 GMT",
-      "id": 39
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Iniciativa &quot;Gure Haurrak Ere Badira&quot; lanza canción por los derechos de la infancia y en solidaridad con Cuba, Palestina, Líbano, Siria y Sahara Occidental",
-      "resumen": "Cubainformación - Foto: Ecuador Etxea.",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126201-iniciativa-gure-haurrak-ere-badira-lanza-cancion-por-los-derechos-de-la-infancia-y-en-solidaridad-con-cuba-palestina-libano-siria-y-sahara-occidental.jpg?t=1795074458",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261119/126201/126201-iniciativa-gure-haurrak-ere-badira-lanza-cancion-por-los-derechos-de-la-infancia-y-en-solidaridad-con-cuba-palestina-libano-siria-y-sahara-occidental",
-      "destacada": false,
-      "tema": "iniciativa",
-      "fecha": "Thu, 19 Nov 26 08:40:00 +0100",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Fue un crimen lo que le hicieron",
-      "resumen": "CUBA No Es Miami",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126197-fue-un-crimen-lo-que-le-hicieron.jpg?t=1795072399",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261119/126197/126197-fue-un-crimen-lo-que-le-hicieron",
-      "destacada": false,
-      "tema": "crimen",
-      "fecha": "Thu, 19 Nov 26 08:13:00 +0100",
-      "id": 41
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "¿Demandará familia de Juan Karlos El Gordo a Otaola, Eliecer y otros? Vastas pruebas les acompañan",
-      "resumen": "Guerrero Cubano con su verdad al desnudo",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126195-demandara-familia-de-juan-karlos-el-gordo-a-otaola-eliecer-y-otros-vastas-pruebas-les-acompanan.jpg?t=1795072307",
-      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261119/126195/126195-demandara-familia-de-juan-karlos-el-gordo-a-otaola-eliecer-y-otros-vastas-pruebas-les-acompanan",
-      "destacada": false,
-      "tema": "demandará",
-      "fecha": "Thu, 19 Nov 26 08:11:00 +0100",
-      "id": 42
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Concierto de Miryam Quiñones en Buenos Aires celebrará los 80 años de Silvio Rodríguez: domingo 29 de noviembre",
-      "resumen": "Cubainformación",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126194-concierto-de-miryam-quinones-en-buenos-aires-celebrara-los-80-anos-de-silvio-rodriguez-domingo-29-de-noviembre.jpg?t=1795071161",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261119/126194/126194-concierto-de-miryam-quinones-en-buenos-aires-celebrara-los-80-anos-de-silvio-rodriguez-domingo-29-de-noviembre",
-      "destacada": false,
-      "tema": "concierto",
-      "fecha": "Thu, 19 Nov 26 07:49:00 +0100",
-      "id": 43
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Más solidaridad de Cuba con Palestina y enérgica condena al genocidio sionista: un encuentro en la sede del ICAP",
-      "resumen": "Cubavisión Internacional.- Durante una conferencia en el Instituto Cubano de Amistad con los Pueblos...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126192-mas-solidaridad-de-cuba-con-palestina-y-energica-condena-al-genocidio-sionista-un-encuentro-en-la-sede-del-icap.jpg?t=1795068356",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261119/126192/126192-mas-solidaridad-de-cuba-con-palestina-y-energica-condena-al-genocidio-sionista-un-encuentro-en-la-sede-del-icap",
-      "destacada": false,
-      "tema": "solidaridad",
-      "fecha": "Thu, 19 Nov 26 07:03:00 +0100",
-      "id": 44
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Estudiantes de Cuba: jóvenes en Revolución",
-      "resumen": "René Tamayo León Presidencia Cuba Para que siga existiendo Revolución, para que se siga construyend...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126189-estudiantes-de-cuba-jovenes-en-revolucion.jpg?t=1795067618",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261119/126189/126189-estudiantes-de-cuba-jovenes-en-revolucion",
-      "destacada": false,
-      "tema": "estudiantes",
-      "fecha": "Thu, 19 Nov 26 06:51:00 +0100",
-      "id": 45
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba impulsa a mipymes en el mercado foráneo con Programa Booster",
-      "resumen": "Cubadebate Con un encuentro con las 20 micro, pequeñas y medianas empresas cubanas (mipymes) pre...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126188-cuba-impulsa-a-mipymes-en-el-mercado-foraneo-con-programa-booster.jpg?t=1795067477",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261119/126188/126188-cuba-impulsa-a-mipymes-en-el-mercado-foraneo-con-programa-booster",
-      "destacada": false,
-      "tema": "mipymes",
-      "fecha": "Thu, 19 Nov 26 06:47:00 +0100",
-      "id": 46
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://eltoque.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Pensiones en Cuba: cuidar a un familiar dependiente y combinar trabajo estatal y privado tendrá efecto en la jubilación",
-      "resumen": "La Gaceta Oficial Ordinaria 97 publica el Decreto Ley 140 y el Decreto 186, que cambian la Ley 105 de Seguridad Social. Reconocen la pluriactividad y hasta diez años de cuidado familiar como tiempo de servicio, y fijan nuevas tasas de contribución para el sector no estatal.",
-      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/AP_120301063182_bd9d1677e2.jpg",
-      "enlace_original": "https://eltoque.com/reforma-sistema-seguridad-social-pensiones-cuba",
-      "destacada": false,
-      "tema": "pensiones",
-      "fecha": "Thu, 19 Nov 2026 00:52:09 GMT",
-      "id": 47
+      "id": 51
     }
   ]
 }
