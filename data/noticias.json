@@ -1,8 +1,73 @@
 {
-  "fecha": "2026-11-20",
-  "hora": "22:52",
-  "total": 57,
+  "fecha": "2026-11-21",
+  "hora": "03:38",
+  "total": 46,
   "noticias": [
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Entregan Premios Nacionales de Pedagogía en el centro de Cuba",
+      "resumen": "Santa Clara, Cuba, 20 nov (Prensa Latina) Los Premios Nacionales de Pedagogía en Cuba correspondientes a este año fueron entregados hoy en la Universidad Central \"Marta Abreu\" de Las Villas. The post Entregan Premios Nacionales de Pedagogía en el centro de Cuba first appeared on Noticias Prensa Lati",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/20/entregan-premios-nacionales-de-pedagogia-en-el-centro-de-cuba/",
+      "destacada": true,
+      "tema": "entregan",
+      "fecha": "Sat, 21 Nov 2026 03:58:28 +0000",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba cae ante EEUU y Dominicana debuta con victoria en béisbol sub-12",
+      "resumen": "Santo Domingo, 20 nov (Prensa Latina) Cuba cayó hoy 2-11 ante Estados Unidos en la jornada inaugural del XXXV Campeonato Panamericano sub-12 de béisbol, que se disputa en República Dominicana y concede cuatro plazas para la Copa Mundial de 2027. The post Cuba cae ante EEUU y Dominicana debuta con vi",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/20/cuba-cae-ante-eeuu-y-dominicana-debuta-con-victoria-en-beisbol-sub-12/",
+      "destacada": true,
+      "tema": "dominicana",
+      "fecha": "Sat, 21 Nov 2026 03:10:55 +0000",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Cómo el régimen cubano relega a los ancianos a la desprotección económica?",
+      "resumen": "Cerca de cuatro de cada diez adultos mayores en Cuba carecen de pensión o jubilación. La CEPAL advierte sobre la desprotección económica de una población cada vez más envejecida, en medio del colapso integral de la Isla.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1795220151_69958.html",
+      "destacada": true,
+      "tema": "régimen",
+      "fecha": "Sat, 21 Nov 2026 01:15:51 +0100",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Venezuela. La política también se hace conversando",
+      "resumen": "¡Quién lo iba a imaginar! Después de tantos años de amenazas, sanciones, insultos, bloqueos y enfren...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126222-venezuela-la-politica-tambien-se-hace-conversando.jpg?t=1795216777",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261121/126222/126222-venezuela-la-politica-tambien-se-hace-conversando",
+      "destacada": true,
+      "tema": "venezuela",
+      "fecha": "Sat, 21 Nov 26 00:19:00 +0100",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "La falacia de un mundo sin ideologías",
+      "resumen": "Cristóbal León Campos - Cubainformación.- En los últimos años, una de las estrategias fundamentales ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126220-la-falacia-de-un-mundo-sin-ideologias.jpg?t=1795216587",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261121/126220/126220-la-falacia-de-un-mundo-sin-ideologias",
+      "destacada": true,
+      "tema": "falacia",
+      "fecha": "Sat, 21 Nov 26 00:16:00 +0100",
+      "id": 5
+    },
     {
       "categoria": "politica",
       "fuente": "https://www.diariodecuba.com",
@@ -11,36 +76,10 @@
       "resumen": "Cuba ha caído drásticamente en el Índice de Buen Gobierno que elabora Instituto MESIAS de la Universidad CEU San Pablo, de España. ¿Qué tendría que hacer para \"recuperar el atractivo internacional y volver a generar confianza\"? Lee la información de Michel Suárez.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1795214437_69957.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "registra",
       "fecha": "Fri, 20 Nov 2026 23:40:37 +0100",
-      "id": 1
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "‎Unesco celebra en Cuba aporte de las comunidades al patrimonio ‎",
-      "resumen": "‎La Habana, 20 nov (Prensa Latina) La Oficina Regional de la Unesco en La Habana resaltó hoy el aporte de las comunidades al patrimonio, al abordar los resultados de un proyecto que desarrolla en Trinidad, en la central provincia cubana de Sancti Spíritus. The post ‎Unesco celebra en Cuba aporte de ",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/20/unesco-celebra-en-cuba-aporte-de-las-comunidades-al-patrimonio/",
-      "destacada": true,
-      "tema": "apagones",
-      "fecha": "Fri, 20 Nov 2026 23:34:04 +0000",
-      "id": 2
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "México no dejará sola a Cuba, afirma presidente del Senado",
-      "resumen": "Ciudad de México, 20 nov (Prensa Latina) México no dejará sola a Cuba, aseveró hoy el presidente del Senado, Higinio Martínez, quien llamó a reforzar la agenda de cooperación bilateral durante la inauguración de la XVIII reunión interparlamentaria entre ambos países. The post México no dejará sola a",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/20/mexico-no-dejara-sola-a-cuba-afirma-presidente-del-senado/",
-      "destacada": true,
-      "tema": "méxico",
-      "fecha": "Fri, 20 Nov 2026 23:16:02 +0000",
-      "id": 3
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -50,48 +89,9 @@
       "resumen": "Costa Rica se ha convertido en un destino de refugio para miles de cubanos. ¿Por qué los nacionales de la Isla encabezan las solicitudes de refugio en el país centroamericano?",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1795212692_69954.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "cubanos",
       "fecha": "Fri, 20 Nov 2026 23:11:32 +0100",
-      "id": 4
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel pide diálogo con EE.UU., pero exige que no se cuestione el sistema político cubano",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-20-u1-e74-s27061-nid346250-diaz-canel-pide-dialogo-eeuu-exige-cuestione-sistema",
-      "destacada": true,
-      "tema": "canel",
-      "fecha": "Fri, 20 Nov 2026 22:55:03 +0100",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Legisladores de México y Cuba reanudan diálogo interparlamentario tras cuatro años de interrupción",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-20-u1-e199894-s27061-nid346249-legisladores-mexico-cuba-reanudan-dialogo",
-      "destacada": false,
-      "tema": "legisladores",
-      "fecha": "Fri, 20 Nov 2026 22:47:23 +0100",
-      "id": 6
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La inflación cubana y el magro bolsillo de un médico: «Este billete que ves aquí representa un 20% más que mi salario»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-20-u1-e209395-s27061-nid346222-inflacion-cubana-magro-bolsillo-medico-este-billete",
-      "destacada": false,
-      "tema": "inflación",
-      "fecha": "Fri, 20 Nov 2026 22:46:36 +0100",
       "id": 7
     },
     {
@@ -135,32 +135,6 @@
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "UJC celebra el Día Mundial de la Infancia sin mencionar las penurias que sufren los niños cubanos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-20-u1-e199894-s27061-nid346248-ujc-celebra-dia-mundial-infancia-mencionar-penurias",
-      "destacada": false,
-      "tema": "celebra",
-      "fecha": "Fri, 20 Nov 2026 22:20:19 +0100",
-      "id": 11
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel pide a universitarios defender «la revolución y el socialismo» durante un ejercicio de tiro",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-20-u1-e74-s27061-nid346244-diaz-canel-pide-universitarios-defender-revolucion",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Fri, 20 Nov 2026 22:18:12 +0100",
-      "id": 12
-    },
-    {
-      "categoria": "sociedad",
       "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
       "titulo": "EE UU logra repatriar a Alina López Miyares, acusada de espionaje por La Habana",
@@ -170,46 +144,7 @@
       "destacada": false,
       "tema": "logra",
       "fecha": "Fri, 20 Nov 2026 22:04:39 +0000",
-      "id": 13
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«La misma lancha que en un viaje se lleva personas, trae droga»: MININT sobre principal vía de entrada de narcóticos a Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-20-u1-e208574-s27061-nid346218-misma-lancha-viaje-lleva-personas-trae-droga-minint",
-      "destacada": false,
-      "tema": "misma",
-      "fecha": "Fri, 20 Nov 2026 22:01:52 +0100",
-      "id": 14
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Familia cubano-venezolana pierde su food truck en Canadá y queda con una deuda de 65.000 dólares",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-20-u1-e74-s27061-nid346241-familia-cubano-venezolana-pierde-food-truck-canada-queda",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Fri, 20 Nov 2026 21:59:51 +0100",
-      "id": 15
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "En medio de la crisis del tabaco cubano, el PCC busca impulsar su cultivo en Guantánamo para aumentar las exportaciones",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-20-u1-e199894-s27061-nid346240-medio-crisis-tabaco-cubano-pcc-busca-impulsar",
-      "destacada": false,
-      "tema": "medio",
-      "fecha": "Fri, 20 Nov 2026 21:46:14 +0100",
-      "id": 16
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -222,7 +157,7 @@
       "destacada": false,
       "tema": "mercado",
       "fecha": "Fri, 20 Nov 2026 21:37:00 +0100",
-      "id": 17
+      "id": 12
     },
     {
       "categoria": "sociedad",
@@ -235,7 +170,7 @@
       "destacada": false,
       "tema": "gaesa",
       "fecha": "Fri, 20 Nov 2026 21:28:46 GMT",
-      "id": 18
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -248,7 +183,7 @@
       "destacada": false,
       "tema": "casos",
       "fecha": "Fri, 20 Nov 2026 21:15:15 +0000",
-      "id": 19
+      "id": 14
     },
     {
       "categoria": "sociedad",
@@ -261,7 +196,20 @@
       "destacada": false,
       "tema": "década",
       "fecha": "Fri, 20 Nov 2026 21:14:02 +0100",
-      "id": 20
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Barbacoa de Pepe",
+      "resumen": "La Barbacoa de Pepe es un muestrario de la nostalgia cubana con datos y curiosidades de los temas más variados, para la audiencia cubana. También trataremos temas internacionales y locales, siempre con el fin de educar al Cubano de la Isla. Con la elocuencia de Pepe Forte.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/483621.html",
+      "destacada": false,
+      "tema": "barbacoa",
+      "fecha": "Fri, 20 Nov 2026 21:00:00 -0500",
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -274,7 +222,7 @@
       "destacada": false,
       "tema": "enfermedades",
       "fecha": "Fri, 20 Nov 2026 20:19:38 +0000",
-      "id": 21
+      "id": 17
     },
     {
       "categoria": "politica",
@@ -287,7 +235,7 @@
       "destacada": false,
       "tema": "costa",
       "fecha": "Fri, 20 Nov 2026 20:18:16 +0000",
-      "id": 22
+      "id": 18
     },
     {
       "categoria": "sociedad",
@@ -300,7 +248,7 @@
       "destacada": false,
       "tema": "cubano",
       "fecha": "Fri, 20 Nov 2026 19:59:57 +0000",
-      "id": 23
+      "id": 19
     },
     {
       "categoria": "transporte",
@@ -313,7 +261,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Fri, 20 Nov 2026 19:45:36 +0100",
-      "id": 24
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -326,7 +274,7 @@
       "destacada": false,
       "tema": "tributo",
       "fecha": "Fri, 20 Nov 2026 19:20:49 +0000",
-      "id": 25
+      "id": 21
     },
     {
       "categoria": "salud",
@@ -339,7 +287,7 @@
       "destacada": false,
       "tema": "hospital",
       "fecha": "Fri, 20 Nov 2026 19:00:00 +0100",
-      "id": 26
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -352,7 +300,7 @@
       "destacada": false,
       "tema": "habilitará",
       "fecha": "Fri, 20 Nov 2026 18:32:56 +0000",
-      "id": 27
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -365,7 +313,7 @@
       "destacada": false,
       "tema": "peligro",
       "fecha": "Fri, 20 Nov 2026 18:31:43 +0000",
-      "id": 28
+      "id": 24
     },
     {
       "categoria": "transporte",
@@ -378,7 +326,7 @@
       "destacada": false,
       "tema": "congreso",
       "fecha": "Fri, 20 Nov 2026 18:21:43 +0000",
-      "id": 29
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -391,7 +339,7 @@
       "destacada": false,
       "tema": "alianza",
       "fecha": "Fri, 20 Nov 2026 17:57:07 +0000",
-      "id": 30
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -404,7 +352,7 @@
       "destacada": false,
       "tema": "picta",
       "fecha": "Fri, 20 Nov 2026 17:23:09 +0000",
-      "id": 31
+      "id": 27
     },
     {
       "categoria": "sociedad",
@@ -417,33 +365,20 @@
       "destacada": false,
       "tema": "evocar",
       "fecha": "Fri, 20 Nov 2026 17:17:31 +0000",
-      "id": 32
+      "id": 28
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
       "titulo": "Cubanos residentes en Italia dialogan por una Isla sin bloqueo",
-      "resumen": "La embajada de Cuba en Italia rinde homenaje a Fidel Castro en el vii Encuentro Nacional de Cubanos Residentes en Italia",
+      "resumen": "La embajada de Cuba en Italia rinde homenaje a Fidel Castro en el vii Encuentro Nacional&nbsp;de Cubanos Residentes en Italia",
       "imagen_url": "",
       "enlace_original": "http://www.granma.cu/mundo/2026-11-20/cubanos-residentes-en-italia-dialogan-por-una-isla-sin-bloqueo-20-11-2026-17-11-17",
       "destacada": false,
       "tema": "cubanos",
       "fecha": "Fri, 20 Nov 2026 17:11:17 -0500",
-      "id": 33
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Alemania concede refugio a Hamlet Lavastida tras cinco años de exilio forzado",
-      "resumen": "Alemania reconoció como refugiado al artista visual cubano Hamlet Lavastida, quien salió de la isla bajo presión de las autoridades en 2021 tras 87 días detenido y ahora espera concluir los trámites para obtener sus documentos en Núremberg.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/alemania-concede-refugio-a-hamlet-lavastida-tras-cinco-a%c3%b1os-de-exilio-forzado/484684.html",
-      "destacada": false,
-      "tema": "alemania",
-      "fecha": "Fri, 20 Nov 2026 17:06:45 -0500",
-      "id": 34
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -456,20 +391,7 @@
       "destacada": false,
       "tema": "villanos",
       "fecha": "Fri, 20 Nov 2026 17:06:05 GMT",
-      "id": 35
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 5:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/483614.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Fri, 20 Nov 2026 17:00:30 -0500",
-      "id": 36
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -482,20 +404,7 @@
       "destacada": false,
       "tema": "mayabeque",
       "fecha": "Fri, 20 Nov 2026 16:34:41 +0000",
-      "id": 37
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba al día",
-      "resumen": "¡Duro golpe para Díaz-Canel! Encuesta revela rechazo masivo en Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/484682.html",
-      "destacada": false,
-      "tema": "",
-      "fecha": "Fri, 20 Nov 2026 16:33:45 -0500",
-      "id": 38
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -508,7 +417,7 @@
       "destacada": false,
       "tema": "canciller",
       "fecha": "Fri, 20 Nov 2026 16:11:57 -0500",
-      "id": 39
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -521,33 +430,7 @@
       "destacada": false,
       "tema": "próximos",
       "fecha": "Fri, 20 Nov 2026 16:11:07 -0500",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Pacho Alonso, la cubanidad indiscutible",
-      "resumen": "En el Teatro Abelardo Estorino tuvo lugar el tributo «Pacho Alonso, cronista sentimental de una época», en ocasión del centenario del músico",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cultura/2026-11-20/pacho-alonso-la-cubanidad-indiscutible-20-11-2026-16-11-02",
-      "destacada": false,
-      "tema": "pacho",
-      "fecha": "Fri, 20 Nov 2026 16:11:02 -0500",
-      "id": 41
-    },
-    {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las Noticias Como Son",
-      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/483600.html",
-      "destacada": false,
-      "tema": "noticias",
-      "fecha": "Fri, 20 Nov 2026 16:00:30 -0500",
-      "id": 42
+      "id": 33
     },
     {
       "categoria": "transporte",
@@ -560,7 +443,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Fri, 20 Nov 26 15:42:00 +0100",
-      "id": 43
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -573,7 +456,7 @@
       "destacada": false,
       "tema": "vicepresidenta",
       "fecha": "Fri, 20 Nov 2026 15:38:12 +0000",
-      "id": 44
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -586,20 +469,7 @@
       "destacada": false,
       "tema": "vegueros",
       "fecha": "Fri, 20 Nov 2026 15:11:57 -0500",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Code Pink y otros grupos buscan forzar una votación sobre Cuba en el Congreso de EEUU: podría ser inútil",
-      "resumen": "La procastrista Code Pink y otras organizaciones presionan a líderes demócratas para exijan votar una resolución en el Congreso de EEUU para impedir una intervención militar en Cuba. Sin embargo, la resolución podría carecer de utilidad.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1795181128_69942.html",
-      "destacada": false,
-      "tema": "otros",
-      "fecha": "Fri, 20 Nov 2026 14:25:28 +0100",
-      "id": 46
+      "id": 36
     },
     {
       "categoria": "economia",
@@ -612,7 +482,20 @@
       "destacada": false,
       "tema": "complejidades",
       "fecha": "Fri, 20 Nov 2026 14:00:00 GMT",
-      "id": 47
+      "id": 37
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Desarrolla intensa agenda delegación parlamentaria cubana en Ciudad de México",
+      "resumen": "Con un homenaje al Héroe Nacional José Martí, ante la escultura del Apóstol cubano ubicada en el Centro Cultural que lleva su nombre inició este jueves el programa de actividades de la delegación parlamentaria de nuestro país, encabezada por Ana María Mari Machado, vicepresidenta de la Asamblea Naci",
+      "imagen_url": "",
+      "enlace_original": "http://www.granma.cu/mundo/2026-11-20/desarrolla-intensa-agenda-delegacion-parlamentaria-cubana-en-ciudad-de-mexico-20-11-2026-13-11-33",
+      "destacada": false,
+      "tema": "desarrolla",
+      "fecha": "Fri, 20 Nov 2026 13:11:33 -0500",
+      "id": 38
     },
     {
       "categoria": "politica",
@@ -625,7 +508,7 @@
       "destacada": false,
       "tema": "gobierno",
       "fecha": "Fri, 20 Nov 2026 12:51:53 +0000",
-      "id": 48
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -638,7 +521,7 @@
       "destacada": false,
       "tema": "starlink",
       "fecha": "Fri, 20 Nov 26 08:49:00 +0100",
-      "id": 49
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -651,7 +534,7 @@
       "destacada": false,
       "tema": "mundo",
       "fecha": "Fri, 20 Nov 26 08:47:00 +0100",
-      "id": 50
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -664,7 +547,7 @@
       "destacada": false,
       "tema": "impactan",
       "fecha": "Fri, 20 Nov 26 08:46:00 +0100",
-      "id": 51
+      "id": 42
     },
     {
       "categoria": "sociedad",
@@ -677,7 +560,7 @@
       "destacada": false,
       "tema": "ferrin",
       "fecha": "Fri, 20 Nov 26 08:00:00 +0100",
-      "id": 52
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -690,7 +573,7 @@
       "destacada": false,
       "tema": "éxito",
       "fecha": "Fri, 20 Nov 26 07:50:00 +0100",
-      "id": 53
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -703,7 +586,7 @@
       "destacada": false,
       "tema": "dance",
       "fecha": "Fri, 20 Nov 26 07:44:00 +0100",
-      "id": 54
+      "id": 45
     },
     {
       "categoria": "economia",
@@ -716,33 +599,7 @@
       "destacada": false,
       "tema": "inflación",
       "fecha": "Fri, 20 Nov 26 07:00:00 +0100",
-      "id": 55
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Desde Córdoba se le dijo “NO al bloqueo de EEUU contra Cuba”",
-      "resumen": "Buenos Aires, 20 nov (Prensa Latina) Argentinos solidarios con Cuba exigieron el cese de la ho...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126211-desde-cordoba-se-le-dijo-no-al-bloqueo-de-eeuu-contra-cuba.jpg?t=1795154401",
-      "enlace_original": "https://www.cubainformacion.tv/solidaridad/20261120/126211/126211-desde-cordoba-se-le-dijo-no-al-bloqueo-de-eeuu-contra-cuba",
-      "destacada": false,
-      "tema": "córdoba",
-      "fecha": "Fri, 20 Nov 26 06:59:00 +0100",
-      "id": 56
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Estrenan “Un grano de sol” serie animada sobre la infancia de Fidel",
-      "resumen": "Cubadebate El primer capítulo de la serie de dibujos animados Un grano de sol, días del niño Fide...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126209-estrenan-un-grano-de-sol-serie-animada-sobre-la-infancia-de-fidel.jpg?t=1795153853",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261120/126209/126209-estrenan-un-grano-de-sol-serie-animada-sobre-la-infancia-de-fidel",
-      "destacada": false,
-      "tema": "transporte",
-      "fecha": "Fri, 20 Nov 26 06:50:00 +0100",
-      "id": 57
+      "id": 46
     }
   ]
 }
