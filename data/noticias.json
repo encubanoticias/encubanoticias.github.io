@@ -1,20 +1,371 @@
 {
-  "fecha": "2026-11-24",
-  "hora": "18:29",
-  "total": 67,
+  "fecha": "2026-11-25",
+  "hora": "02:51",
+  "total": 65,
   "noticias": [
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Suspenden partido de béisbol en Cuba porque el hotel donde se hospedaban los equipos no tenía agua",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-25-u1-e199291-s27066-nid346569-suspenden-partido-beisbol-cuba-porque-hotel-donde",
+      "destacada": true,
+      "tema": "suspenden",
+      "fecha": "Wed, 25 Nov 2026 02:39:36 +0100",
+      "id": 1
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cibercuba.com",
       "fuente_tipo": "alternativa",
-      "titulo": "«Resistir no puede ser nuestro único propósito»: comediante cubano reflexiona desde el exilio sobre los sueños y la emigración",
+      "titulo": "«Estoy cansada de la vida esta»: El duro testimonio de una abuela cubana de 86 años",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-24-u1-e135253-s27061-nid346533-resistir-puede-ser-nuestro-unico-proposito",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-25-u1-e199291-s27061-nid346560-estoy-cansada-vida-esta-duro-testimonio-abuela",
       "destacada": true,
-      "tema": "resistir",
-      "fecha": "Tue, 24 Nov 2026 18:32:00 +0100",
-      "id": 1
+      "tema": "estoy",
+      "fecha": "Wed, 25 Nov 2026 02:29:00 +0100",
+      "id": 2
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://actualidad.rt.com",
+      "fuente_tipo": "internacional",
+      "titulo": "Alibaba desafía a EE.UU. tras bloqueo de chips",
+      "resumen": "\"Buscaremos todas las vías legales para proteger nuestros derechos y reputación\", afirmó el gigante tecnológico chino.",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.11/thumbnail/6b063b01e9ff7179d1626935.jpg",
+      "enlace_original": "https://actualidad-rt.com/actualidad/639612-alibaba-desafiar-eeuu-bloqueo-chips?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "destacada": true,
+      "tema": "alibaba",
+      "fecha": "Wed, 25 Nov 2026 02:18:12 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Artista cubano denuncia que borraron su mural del Acuario Nacional: «¿Había tanta necesidad de taparlo?»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-25-u1-e199291-s27061-nid346562-artista-cubano-denuncia-borraron-mural-acuario",
+      "destacada": true,
+      "tema": "artista",
+      "fecha": "Wed, 25 Nov 2026 01:51:26 +0100",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El mal tiempo obliga al régimen cubano a aplazar homenaje a Fidel Castro en La Habana",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-25-u1-e199894-s27061-nid346565-mal-tiempo-obliga-al-regimen-cubano-aplazar-homenaje",
+      "destacada": true,
+      "tema": "tiempo",
+      "fecha": "Wed, 25 Nov 2026 01:47:08 +0100",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Flor de Cuba derrite las redes con las imágenes más tiernas de su bebé: «Nuestra Delara nos tiene enamorados»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-25-u208487-e208487-s27061-nid346563-flor-cuba-derrite-redes-imagenes-tiernas-bebe",
+      "destacada": false,
+      "tema": "derrite",
+      "fecha": "Wed, 25 Nov 2026 01:34:39 +0100",
+      "id": 6
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El dólar se mantiene en 968 pesos y el euro sigue subiendo al cierre del mercado informal en Cuba",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-25-u1-e199894-s27061-nid346564-dolar-mantiene-968-pesos-euro-sigue-subiendo-al",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Wed, 25 Nov 2026 01:27:58 +0100",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "México derrota a Dominicana y Cuba a Panamá en béisbol Sub-12",
+      "resumen": "Santo Domingo, 24 nov (Prensa Latina) México derrotó hoy 4-3 a República Dominicana y Cuba superó 9-2 a Panamá en la continuación de la Súper Ronda del XXXV Campeonato Panamericano de Béisbol Sub-12, que se disputa en esta capital. The post México derrota a Dominicana y Cuba a Panamá en béisbol Sub-",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/24/mexico-derrota-a-dominicana-y-cuba-a-panama-en-beisbol-sub-12/",
+      "destacada": false,
+      "tema": "méxico",
+      "fecha": "Wed, 25 Nov 2026 01:24:45 +0000",
+      "id": 8
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Gobierno cubano inicia gira nacional para implementar el Código de la Niñez sin precisar cómo garantizará sus derechos",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-25-u1-e199894-s27061-nid346561-gobierno-cubano-inicia-gira-nacional-implementar",
+      "destacada": false,
+      "tema": "gobierno",
+      "fecha": "Wed, 25 Nov 2026 01:24:34 +0100",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La OMS lo confirma desde La Habana: la esperanza de vida en Cuba cae por primera vez desde 1950 y la mortalidad infantil se dispara",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-25-u1-e199894-s27061-nid346555-oms-confirma-habana-esperanza-vida-cuba-cae-primera",
+      "destacada": false,
+      "tema": "confirma",
+      "fecha": "Wed, 25 Nov 2026 01:09:31 +0100",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Turismo de nostalgia, la última ocurrencia de Cubatur para captar clientes",
+      "resumen": "Visitas a #IslaDeLaJuventud, #PinarDelRío, #LaHabana y #Matanzas para exalumnos de #África que estudiaron en #Cuba es la nueva iniciativa del Ministerio de #Turismo de la Isla para conseguir clientes.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1795561670_70010.html",
+      "destacada": false,
+      "tema": "turismo",
+      "fecha": "Wed, 25 Nov 2026 00:07:50 +0100",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El régimen cubano carga contra las mujeres, víctimas del 20% de los hechos represivos",
+      "resumen": "Un informe de Cubalex documenta que las mujeres sufren el 20% de los hechos represivos en Cuba y vuelve a poner en cuestión el papel de la Federación de Mujeres Cubanas.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/derechos-humanos/1795558947_70009.html",
+      "destacada": false,
+      "tema": "régimen",
+      "fecha": "Tue, 24 Nov 2026 23:22:27 +0100",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Silencio del Parlamento Europeo ante represiones policiales",
+      "resumen": "Artur González / Heraldo Cubano.- A pesar de que los ciudadanos de siete países europeos de forma si...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126295-silencio-del-parlamento-europeo-ante-represiones-policiales.jpg?t=1795558575",
+      "enlace_original": "https://www.cubainformacion.tv/la-columna/20261124/126295/126295-silencio-del-parlamento-europeo-ante-represiones-policiales",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Tue, 24 Nov 26 23:16:00 +0100",
+      "id": 13
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Mensaje de Ailyn Justiz sobre el pronóstico del tiempo en las próximas horas y días para Cuba",
+      "resumen": "Manténgase informado por los canales oficiales, sobre todo las informaciones del Instituto de Meteorología y todos los avisos que emita el Estado Mayor Nacional de la Defensa Civil La entrada Mensaje de Ailyn Justiz sobre el pronóstico del tiempo en las próximas horas y días para Cuba se publicó pri",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/mensaje-de-ailyn-justiz-sobre-el-pronostico-del-tiempo-en-las-proximas-horas-y-dias-para-cuba/",
+      "destacada": false,
+      "tema": "mensaje",
+      "fecha": "Tue, 24 Nov 2026 22:01:07 +0000",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Sherritt avanza hacia 'un acuerdo mutuamente aceptable' para retomar sus negocios en Cuba",
+      "resumen": "Avanzan las gestiones de #SherrittInternational para cumplir con las exigencias de #EEUU antes de poder retomar sus operaciones mineras en #Cuba.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1795553787_70008.html",
+      "destacada": false,
+      "tema": "sherritt",
+      "fecha": "Tue, 24 Nov 2026 21:56:27 +0100",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Al cumplir 25 años, Archivo Cuba busca recursos para seguir documentando las víctimas del régimen",
+      "resumen": "La organización registra 12.020 muertes y desapariciones y denuncia las dificultades para acceder a los archivos oficiales",
+      "imagen_url": "https://static.14ymedio.com/clip/23fc34ce-31c1-4aba-b564-be6bee3c63a3_source-aspect-ratio_default_0.png",
+      "enlace_original": "https://www.14ymedio.com/cuba/migracion/25-aniversario-archivo-cuba-busca-recursos-documentar-victimas_1_1133680.html",
+      "destacada": false,
+      "tema": "cumplir",
+      "fecha": "Tue, 24 Nov 2026 21:39:47 +0000",
+      "id": 16
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El abandono y los robos hunden el muelle flotante de La Habana",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1795551540_70007.html",
+      "destacada": false,
+      "tema": "abandono",
+      "fecha": "Tue, 24 Nov 2026 21:19:00 +0100",
+      "id": 17
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Activistas cubanos protestan frente a la embajada de Cuba en Chile",
+      "resumen": "Activistas cubanos protestaron frente a la embajada de Cuba en Chile para rechazar el discurso del embajador Oscar Cornelio Oliva sobre el embargo estadounidense y denunciar lo que consideran una contradicción entre la propaganda del régimen y el estilo de vida de sus diplomáticos en el país.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/activistas-cubanos-protestan-frente-a-la-embajada-de-cuba-en-chile/484970.html",
+      "destacada": false,
+      "tema": "activistas",
+      "fecha": "Tue, 24 Nov 2026 21:12:26 -0500",
+      "id": 18
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La población nacida en Cuba que reside en España creció un 70% en cinco años",
+      "resumen": "El censo registra 282.881 personas originarias de la Isla, con Canarias como principal destino, en un movimiento inverso a la emigración masiva de españoles hacia Cuba a principios del siglo XX",
+      "imagen_url": "https://static.14ymedio.com/clip/d6926535-6a71-4bac-9c80-07111cd15d74_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/migracion/poblacion-cuba-reside-espana-crecio-70-porciento_1_1133677.html",
+      "destacada": false,
+      "tema": "población",
+      "fecha": "Tue, 24 Nov 2026 20:52:45 +0000",
+      "id": 19
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.guerrillero.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Pinar del Río bajo vigilancia meteorológica: qué debemos saber ante las próximas jornadas",
+      "resumen": "Las próximas jornadas estarán marcadas por una situación meteorológica que merece atención en Cuba, particularmente en las provincias occidentales. Desde hace varios días circulan pronósticos, comentarios y diferentes interpretaciones acerca de un sistema de bajas presiones que se desarrolla en las ",
+      "imagen_url": "",
+      "enlace_original": "https://www.guerrillero.cu/pinar-del-rio-bajo-vigilancia-meteorologica-que-debemos-saber-ante-las-proximas-jornadas/",
+      "destacada": false,
+      "tema": "pinar",
+      "fecha": "Tue, 24 Nov 2026 20:44:35 +0000",
+      "id": 20
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Más vigilancia, pero menos seguridad: los delitos que el régimen cubano no combate",
+      "resumen": "El régimen cubano intensifica la vigilancia y el control social mientras aumentan los asesinatos, la violencia con armas de fuego y el tráfico de drogas. Más represión no significa más seguridad y el MININT lo demuestra a diario.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1795548255_70004.html",
+      "destacada": false,
+      "tema": "vigilancia",
+      "fecha": "Tue, 24 Nov 2026 20:24:15 +0100",
+      "id": 21
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 8:00 PM",
+      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/483872.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Tue, 24 Nov 2026 20:00:00 -0500",
+      "id": 22
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Posponen para el jueves 26 la velada homenaje a Fidel Castro en la Escalinata de la Universidad de la Habana",
+      "resumen": "El Instituto de Meteorología alertó sobre el deterioro del tiempo desde las próximas horas por una baja presión en el sudeste del Golfo de México y un frente frío. Ante esta situación y la Alerta Temprana de la Defensa Civil, se pospuso para el jueves 26 la velada homenaje a Fidel Castro prevista pa",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/24/posponen-para-el-jueves-26-la-velada-homenaje-a-fidel-castro-en-la-escalinata-de-la-habana/",
+      "destacada": false,
+      "tema": "posponen",
+      "fecha": "Tue, 24 Nov 2026 19:58:33 +0000",
+      "id": 23
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El régimen de Cuba propondrá a la carrera una nueva Ley de Inversión Extranjera",
+      "resumen": "#Cuba: La Habana quiere convertir en ley su reforma económica decidida bajo presión de #EEUU. ¿Logrará que la apertura sea creíble?",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/economia/1795546648_70006.html",
+      "destacada": false,
+      "tema": "régimen",
+      "fecha": "Tue, 24 Nov 2026 19:57:28 +0100",
+      "id": 24
+    },
+    {
+      "categoria": "energia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Atentado con coche bomba frente a la Gobernación de Meta, en Colombia, deja al menos 23 heridos y graves daños",
+      "resumen": "Un ataque con un coche bomba este lunes en el parque principal de Villavicencio, frente a la Gobernación del Meta, encendió las alarmas en Colombia. The post Atentado con coche bomba frente a la Gobernación de Meta, en Colombia, deja al menos 23 heridos y graves daños first appeared on Cubadebate.",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/24/un-atentado-con-coche-bomba-frente-a-la-gobernacion-de-meta-en-colombia-deja-al-menos-23-heridos-y-graves-danos/",
+      "destacada": false,
+      "tema": "atentado",
+      "fecha": "Tue, 24 Nov 2026 19:48:14 +0000",
+      "id": 25
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El SNTC establece dos nuevos reconocimientos para honrar los aportes a la cultura cubana",
+      "resumen": "El Secretariado del Sindicato Nacional de Trabajadores de la Cultura (SNTC) aprobó dos nuevos reconocimientos",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261124/el-sntc-establece-dos-nuevos-reconocimientos-para-honrar-los-aportes-a-la-cultura-cubana/",
+      "destacada": false,
+      "tema": "establece",
+      "fecha": "Tue, 24 Nov 2026 19:26:19 +0000",
+      "id": 26
+    },
+    {
+      "categoria": "transporte",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Lucía Millans, una joven de Pinar del Río entre los cubanos desaparecidos rumbo a Cancún",
+      "resumen": "Lucía Millans Cárdenas, de 25 años y natural de Pinar del Río, viajaba en la embarcación que partió hacia Cancún el 13 de noviembre y permanece desaparecida junto a los demás ocupantes.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/desaparecida_cuba_cancun_cd10bf57a1.jpg",
+      "enlace_original": "https://eltoque.com/lucia-millans-una-joven-de-pinar-del-rio-entre-los-cubanos-desaparecidos-rumbo-a-cancun",
+      "destacada": false,
+      "tema": "lucía",
+      "fecha": "Tue, 24 Nov 2026 18:55:32 GMT",
+      "id": 27
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Díaz-Canel precisa en Artemisa cuánto transforma la  voluntad",
+      "resumen": "En la finca Rolando, una de las casi 70, de la cooperativa Tomás Álvarez Breto, en Artemisa, Miguel Díaz-Canel Bermúdez, Primer Secretario del Comité Central del Partido Comunista y Presidente de la República de Cuba constató la recuperación de sus áreas, más la diversidad de cultivos varios y de lo",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261124/diaz-canel-precisa-en-artemisa-cuanto-transforma-la-voluntad/",
+      "destacada": false,
+      "tema": "canel",
+      "fecha": "Tue, 24 Nov 2026 18:54:41 +0000",
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -24,49 +375,36 @@
       "resumen": "La gestión de riesgos climáticos, ambientales y sociales en los procesos crediticios y en la gestión integral de riesgos inherentes a la actividad bancaria y financiera sigue al centro del accionar de la banca cubana",
       "imagen_url": "",
       "enlace_original": "https://www.bc.gob.cu/media/noticias/inicia-tercera-accion-de-capacitacion-del-taller-d",
-      "destacada": true,
+      "destacada": false,
       "tema": "inicia",
       "fecha": "Tue, 24 Nov 2026 18:29:04 GMT",
-      "id": 2
+      "id": 29
     },
     {
       "categoria": "sociedad",
       "fuente": "http://www.cubadebate.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Fallece Delio Gómez Ochoa, Comandante del Ejército Rebelde y Héroe Nacional de República Dominicana",
-      "resumen": "El Comandante del Ejército Rebelde cubano y Héroe Nacional de República Dominicana, Delio Gómez Ochoa, falleció este martes en La Habana, dejando una historia de lucha y sacrificio que unió para siempre a Cuba y a esta nación caribeña. The post Fallece Delio Gómez Ochoa, Comandante del Ejército Rebe",
+      "titulo": "Falleció Delio Gómez Ochoa, Comandante del Ejército Rebelde y Héroe Nacional de República Dominicana",
+      "resumen": "El Comandante del Ejército Rebelde cubano y Héroe Nacional de República Dominicana, Delio Gómez Ochoa, falleció este martes en La Habana, dejando una historia de lucha y sacrificio que unió para siempre a Cuba y a esta nación caribeña. The post Falleció Delio Gómez Ochoa, Comandante del Ejército Reb",
       "imagen_url": "",
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/24/fallece-delio-gomez-ochoa-comandante-del-ejercito-rebelde-y-heroe-nacional-de-republica-dominicana/",
-      "destacada": true,
-      "tema": "fallece",
+      "destacada": false,
+      "tema": "falleció",
       "fecha": "Tue, 24 Nov 2026 18:27:39 +0000",
-      "id": 3
+      "id": 30
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Óscar Pérez-Oliva dice que Cuba está abierta al mundo para la inversión extranjera",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-24-u1-e199370-s27061-nid346531-oscar-perez-oliva-dice-cuba-esta-abierta-al-mundo",
-      "destacada": true,
-      "tema": "óscar",
-      "fecha": "Tue, 24 Nov 2026 18:25:22 +0100",
-      "id": 4
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Dueños de todo y responsables de nada»: cubanos responden a Díaz-Canel por culpar a EE.UU. de nuevos delitos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-24-u1-e74-s27061-nid346532-duenos-todo-responsables-nada-cubanos-responden-diaz",
-      "destacada": true,
-      "tema": "dueños",
-      "fecha": "Tue, 24 Nov 2026 18:23:18 +0100",
-      "id": 5
+      "titulo": "Muere Delio Gómez Ochoa, el comandante cubano que combatió a Trujillo y apoyó a Castro",
+      "resumen": "El antiguo guerrillero, fallecido a los 97 años, tuvo varios cargos en los años 60, pero desapareció luego de la vida pública",
+      "imagen_url": "https://static.14ymedio.com/clip/def238c5-69bc-41f4-9a04-ef5c6a77e832_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/cuba/muere-delio-gomez-ochoa-comandante_1_1133664.html",
+      "destacada": false,
+      "tema": "muere",
+      "fecha": "Tue, 24 Nov 2026 18:19:38 +0000",
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -79,7 +417,7 @@
       "destacada": false,
       "tema": "importa",
       "fecha": "Tue, 24 Nov 2026 18:17:59 +0000",
-      "id": 6
+      "id": 32
     },
     {
       "categoria": "transporte",
@@ -92,7 +430,7 @@
       "destacada": false,
       "tema": "preparado",
       "fecha": "Tue, 24 Nov 2026 18:15:38 +0100",
-      "id": 7
+      "id": 33
     },
     {
       "categoria": "transporte",
@@ -105,7 +443,7 @@
       "destacada": false,
       "tema": "recibió",
       "fecha": "Tue, 24 Nov 2026 18:13:39 +0000",
-      "id": 8
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -118,33 +456,7 @@
       "destacada": false,
       "tema": "inaugura",
       "fecha": "Tue, 24 Nov 2026 18:05:42 +0000",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Prensa dominicana evoca legado de revolucionario cubano Delio Gómez",
-      "resumen": "Santo Domingo, 24 nov (Prensa Latina) La prensa dominicana dedicó hoy amplios espacios a la noticia del fallecimiento, a los 97 años, del comandante del Ejército Rebelde cubano y Héroe Nacional de la República Dominicana, Delio Gómez Ochoa. The post Prensa dominicana evoca legado de revolucionario c",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/24/prensa-dominicana-evoca-legado-de-revolucionario-cubano-delio-gomez/",
-      "destacada": false,
-      "tema": "prensa",
-      "fecha": "Tue, 24 Nov 2026 18:05:07 +0000",
-      "id": 10
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Primero que todo profesor de Educación Física",
-      "resumen": "Con más de 56 años de trabajo en el INDER, Carlos R. Gattorno Correa aún tiene muchos sueños por cumplir La entrada Primero que todo profesor de Educación Física se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/primero-que-todo-profesor-de-educacion-fisica/",
-      "destacada": false,
-      "tema": "primero",
-      "fecha": "Tue, 24 Nov 2026 18:04:05 +0000",
-      "id": 11
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -157,7 +469,7 @@
       "destacada": false,
       "tema": "desatendida",
       "fecha": "Tue, 24 Nov 2026 18:00:02 +0100",
-      "id": 12
+      "id": 36
     },
     {
       "categoria": "politica",
@@ -170,46 +482,20 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Tue, 24 Nov 2026 17:59:32 +0000",
-      "id": 13
+      "id": 37
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Embajador ruso afirma que los contactos entre Cuba y EE.UU. están suspendidos",
-      "resumen": "",
+      "titulo": "Cubalex denuncia \"tortura mental\" tras aplazamiento del juicio de los creadores de El 4tico",
+      "resumen": "Cubalex advirtió que, al suspenderse el juicio, la ley no establece un plazo máximo para reprogramarlo, lo que facilita una prolongación indefinida del proceso.",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-24-u1-e74-s27061-nid346530-embajador-ruso-afirma-contactos-cuba-eeuu-estan",
+      "enlace_original": "https://www.martinoticias.com/a/cubalex-denuncia-tortura-mental-tras-aplazamiento-del-juicio-de-los-creadores-de-el-4tico/484964.html",
       "destacada": false,
-      "tema": "embajador",
-      "fecha": "Tue, 24 Nov 2026 17:52:54 +0100",
-      "id": 14
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Rusia enfría las expectativas del régimen cubano: ampliar los BRICS no está sobre la mesa",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-24-u1-e74-s27061-nid346529-rusia-enfria-expectativas-regimen-cubano-ampliar-brics",
-      "destacada": false,
-      "tema": "rusia",
-      "fecha": "Tue, 24 Nov 2026 17:49:09 +0100",
-      "id": 15
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Crecen oportunidades de negocio para cubanos residentes en exterior",
-      "resumen": "La Habana, 24 nov (Prensa Latina) El viceministro primero del Ministerio del Comercio Exterior y la Inversión Extranjera (Mincex), Carlos Luis Jorge Menéndez, aseguró hoy que las transformaciones económicas y sociales amplían las oportunidades de inversión para los cubanos residentes en el exterior.",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/24/crecen-oportunidades-de-negocio-para-cubanos-residentes-en-exterior/",
-      "destacada": false,
-      "tema": "crecen",
-      "fecha": "Tue, 24 Nov 2026 17:46:32 +0000",
-      "id": 16
+      "tema": "cubalex",
+      "fecha": "Tue, 24 Nov 2026 17:57:26 -0500",
+      "id": 38
     },
     {
       "categoria": "economia",
@@ -222,7 +508,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 24 Nov 2026 17:44:05 GMT",
-      "id": 17
+      "id": 39
     },
     {
       "categoria": "energia",
@@ -235,46 +521,20 @@
       "destacada": false,
       "tema": "impactos",
       "fecha": "Tue, 24 Nov 2026 17:42:39 +0000",
-      "id": 18
+      "id": 40
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
+      "categoria": "energia",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Tribunal Provincial Popular de La Habana realizará acciones en Ejercicio Nacional de prevención y enfrentamiento al delito, la corrupción, las drogas, las ilegalidades y las indisciplinas sociales",
-      "resumen": "Juicios ejemplarizantes, encuentros con personas que cumplen sanción penal en libertad condicional y visitas de control, se encuentran entre las acciones que realizará el órgano de justicia de la capital La entrada Tribunal Provincial Popular de La Habana realizará acciones en Ejercicio Nacional de ",
+      "titulo": "Deterioro de viviendas, desagües obstruidos y basura agravan alertas por lluvias en el occidente de Cuba",
+      "resumen": "La amenaza de fuertes lluvias y tormentas eléctricas sobre el occidente de Cuba mantiene en vilo a los habitantes de La Habana y Pinar del Río, donde el deterioro de las viviendas, los desagües obstruidos y la acumulación de basura elevan el riesgo de inundaciones y derrumbes.",
       "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/tribunal-provincial-popular-de-la-habana-realizara-acciones-en-ejercicio-nacional-de-prevencion-y-enfrentamiento-al-delito-la-corrupcion-las-drogas-las-ilegalidades-y-las-indisciplinas-sociales/",
+      "enlace_original": "https://www.martinoticias.com/a/deterioro-de-viviendas-desag%c3%bces-obstruidos-y-basura-agravan-alertas-por-lluvias-en-el-occidente-de-cuba/484974.html",
       "destacada": false,
-      "tema": "tribunal",
-      "fecha": "Tue, 24 Nov 2026 17:39:54 +0000",
-      "id": 19
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cubana arrienda una bodega en Cuba para emprender negocio privado: «Así me la encontré»",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-24-u1-e199370-s27061-nid346521-cubana-arrienda-bodega-cuba-emprender-negocio",
-      "destacada": false,
-      "tema": "cubana",
-      "fecha": "Tue, 24 Nov 2026 17:32:24 +0100",
-      "id": 20
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¡Vaya sorpresa en el hospital! La Flor de Cuba y Alex regalan un Rolex al médico que le atendió el parto: así reaccionó",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-24-u65722-e65722-s27065-nid346526-vaya-sorpresa-hospital-flor-cuba-alex-regalan",
-      "destacada": false,
-      "tema": "sorpresa",
-      "fecha": "Tue, 24 Nov 2026 17:21:49 +0100",
-      "id": 21
+      "tema": "deterioro",
+      "fecha": "Tue, 24 Nov 2026 17:20:43 -0500",
+      "id": 41
     },
     {
       "categoria": "salud",
@@ -287,20 +547,7 @@
       "destacada": false,
       "tema": "director",
       "fecha": "Tue, 24 Nov 26 17:19:00 +0100",
-      "id": 22
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Aquí no se rinde nadie»: el mensaje del embajador ruso ante la crisis cubana",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-24-u1-e74-s27061-nid346525-aqui-rinde-nadie-mensaje-embajador-ruso-crisis-cubana",
-      "destacada": false,
-      "tema": "rinde",
-      "fecha": "Tue, 24 Nov 2026 17:15:02 +0100",
-      "id": 23
+      "id": 42
     },
     {
       "categoria": "politica",
@@ -313,7 +560,20 @@
       "destacada": false,
       "tema": "torpedero",
       "fecha": "Tue, 24 Nov 2026 17:00:59 +0000",
-      "id": 24
+      "id": 43
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 5:00 PM",
+      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/483866.html",
+      "destacada": false,
+      "tema": "noticiero",
+      "fecha": "Tue, 24 Nov 2026 17:00:30 -0500",
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -326,20 +586,7 @@
       "destacada": false,
       "tema": "dinero",
       "fecha": "Tue, 24 Nov 2026 16:30:35 GMT",
-      "id": 25
-    },
-    {
-      "categoria": "energia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Desmiente MININT falsa noticia sobre supuesto asesinato en el Aeropuerto José Martí",
-      "resumen": "El Ministerio del Interior (MININT) alertó este lunes sobre la circulación en redes sociales de una publicación completamente falsa que afirma que un cubano residente en Estados Unidos fue asesinado a tiros por la policía al llegar al Aeropuerto Internacional José Martí. The post Desmiente MININT fa",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/24/desmiente-minint-falsa-noticia-sobre-supuesto-asesinato-en-el-aeropuerto-jose-marti/",
-      "destacada": false,
-      "tema": "desmiente",
-      "fecha": "Tue, 24 Nov 2026 16:17:54 +0000",
-      "id": 26
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -352,7 +599,7 @@
       "destacada": false,
       "tema": "colas",
       "fecha": "Tue, 24 Nov 2026 15:45:21 +0000",
-      "id": 27
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -365,20 +612,33 @@
       "destacada": false,
       "tema": "cárcel",
       "fecha": "Tue, 24 Nov 2026 15:40:35 +0100",
-      "id": 28
+      "id": 47
     },
     {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Díaz-Canel regresa a Artemisa para chequear las nuevas transformaciones y constatar los resultados productivos",
-      "resumen": "El primer secretario del Comité Central del PCC y presidente de la República, Miguel Díaz-Canel Bermúdez regresó este martes a Artemisa, como parte del sistema de trabajo del Partido para chequear e impulsar la implementación de las 176 transformaciones económicas y sociales en los territorios. The ",
+      "titulo": "Se pospone para el jueves 26 la velada de homenaje a Fidel en la escalinata de la universidad de La Habana",
+      "resumen": "Teniendo en cuenta el Aviso de Alerta Temprana emitido a las 9.00 horas del día de hoy por el Estado Mayor Nacional de la Defensa Civil, se decidió posponer la velada en homenaje al Comandante en Jefe Fidel Castro Ruz",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/24/diaz-canel-regresa-a-artemisa-para-chequear-las-nuevas-transformaciones-y-constatar-los-resultados-productivos/",
+      "enlace_original": "http://www.granma.cu/cuba/2026-11-24/se-pospone-para-el-jueves-26-la-velada-de-homenaje-a-fidel-en-la-escalinata-de-la-universidad-de-la-habana-24-11-2026-15-11-21",
       "destacada": false,
-      "tema": "canel",
-      "fecha": "Tue, 24 Nov 2026 15:12:35 +0000",
-      "id": 29
+      "tema": "pospone",
+      "fecha": "Tue, 24 Nov 2026 15:11:21 -0500",
+      "id": 48
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticias de la negociación de Donald Trump con Cuba",
+      "resumen": "La relación entre Estados Unidos y Cuba atraviesa uno de sus momentos más tensos en años, marcada por una combinación de presión económica, sanciones, crisis energética y contactos discretos, de los cuales, en muchos casos, solo se conoce lo que se filtra a la prensa. Desde elTOQUE monitoreamos la e",
+      "imagen_url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/AP_131403754861_f6c2a900de.jpg/width=1920,quality=75,fit=scale-down,dpr=1,slow-connection-quality=40",
+      "enlace_original": "https://eltoque.com/noticias-de-la-negociacion-de-donald-trump-con-cuba",
+      "destacada": false,
+      "tema": "noticias",
+      "fecha": "Tue, 24 Nov 2026 15:00:00 GMT",
+      "id": 49
     },
     {
       "categoria": "politica",
@@ -391,7 +651,7 @@
       "destacada": false,
       "tema": "presidente",
       "fecha": "Tue, 24 Nov 2026 14:56:44 +0000",
-      "id": 30
+      "id": 50
     },
     {
       "categoria": "salud",
@@ -404,7 +664,7 @@
       "destacada": false,
       "tema": "médicos",
       "fecha": "Tue, 24 Nov 26 13:56:00 +0100",
-      "id": 31
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -417,20 +677,7 @@
       "destacada": false,
       "tema": "cuántos",
       "fecha": "Tue, 24 Nov 2026 13:53:57 +0100",
-      "id": 32
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Rusia enviará a Cuba medicamentos, módulos fotovoltaicos, una planta solar: ¿qué dice del petróleo?",
-      "resumen": "El embajador de Rusia en Cuba, Víctor Coronelli, anuncia nuevos envíos de ayuda al régimen. Aborda la contribución de La Habana a los BRICS y su posibilidad de convertirse en miembro de pleno derecho del bloque.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1795523782_69998.html",
-      "destacada": false,
-      "tema": "rusia",
-      "fecha": "Tue, 24 Nov 2026 13:36:22 +0100",
-      "id": 33
+      "id": 52
     },
     {
       "categoria": "salud",
@@ -443,20 +690,7 @@
       "destacada": false,
       "tema": "director",
       "fecha": "Tue, 24 Nov 2026 13:26:40 +0000",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Editorial: Ni vivir ni morir es posible en Cuba",
-      "resumen": "Las idas y venidas de las autoridades de #LaHabana respecto al aumento desmedido en el costo de los #ServiciosNecrológicos son la penúltima tragedia.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1795522572_69994.html",
-      "destacada": false,
-      "tema": "editorial",
-      "fecha": "Tue, 24 Nov 2026 13:16:12 +0100",
-      "id": 35
+      "id": 53
     },
     {
       "categoria": "economia",
@@ -469,33 +703,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Tue, 24 Nov 2026 13:08:00 GMT",
-      "id": 36
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "La paz sigue sin llegar a Colombia a diez años de los acuerdos de La Habana",
-      "resumen": "#Colombia enfrenta un conflicto que ha mutado, manteniendo a miles de ciudadanos atrapados en medio de una #violencia que parece endémica.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/internacional/1795521634_69990.html",
-      "destacada": false,
-      "tema": "sigue",
-      "fecha": "Tue, 24 Nov 2026 13:00:34 +0100",
-      "id": 37
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Hammer se reúne con opositores y líderes de la Iglesia católica en Pinar del Río",
-      "resumen": "El encargado de negocios de EEUU en Cuba, Mike Hammer, se reunió con opositores, activistas, líderes de la Iglesia católica y voluntarios de Cáritas Cuba durante su visita a Pinar del Río y Artemisa.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/hammer-se-re%c3%bane-con-opositores-y-l%c3%adderes-de-la-iglesia-cat%c3%b3lica-en-pinar-del-r%c3%ado/484958.html",
-      "destacada": false,
-      "tema": "hammer",
-      "fecha": "Tue, 24 Nov 2026 12:19:34 -0500",
-      "id": 38
+      "id": 54
     },
     {
       "categoria": "salud",
@@ -508,111 +716,20 @@
       "destacada": false,
       "tema": "director",
       "fecha": "Tue, 24 Nov 2026 12:11:59 -0500",
-      "id": 39
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Transformaciones económicas abren nuevos espacios de participación para cubanos residentes en el exterior",
-      "resumen": "En el foro de negocios con cubanos residentes en el exterior, abordó las oportunidades de inversión que ofrecen las 176 transformaciones económicas y sociales",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-11-24/transformaciones-economicas-abren-nuevos-espacios-de-participacion-para-cubanos-residentes-en-el-exterior-24-11-2026-12-11-53",
-      "destacada": false,
-      "tema": "transformaciones",
-      "fecha": "Tue, 24 Nov 2026 12:11:53 -0500",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 12:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/483847.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Tue, 24 Nov 2026 12:00:00 -0500",
-      "id": 41
+      "id": 55
     },
     {
       "categoria": "politica",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "\"El Partido Comunista tiene que desaparecer\": autor de libro sobre una transición democrática en Cuba",
-      "resumen": "El politólogo cubano Julio M. Shiling propone en su nuevo libro una hoja de ruta para una transición democrática en Cuba basada en la rendición de cuentas, justicia correctiva, garantías de no repetición y reconstrucción de instituciones.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/el-partido-comunista-tiene-que-desaparecer-autor-de-libro-sobre-una-transici%c3%b3n-democr%c3%a1tica-en-cuba/484858.html",
-      "destacada": false,
-      "tema": "partido",
-      "fecha": "Tue, 24 Nov 2026 11:38:23 -0500",
-      "id": 42
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel recibe elogios del jefe de la OMS mientras una madre se planta en el MINSAP",
-      "resumen": "¿Por qué chocan los elogios de la OMS con los reclamos sanitarios en Cuba? Mientras Díaz-Canel recibe alabanzas del jefe del organismo internacional una madre cuestiona al MINSAP en su sede. #SaludPública",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1795516648_69997.html",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Tue, 24 Nov 2026 11:37:28 +0100",
-      "id": 43
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Tras una pausa de dos años, El Tren Ramírez echará a andar de nuevo",
-      "resumen": "Dos años después de su último combate, en el que perdió ante el mexicano Rafael Espinoza, el doble campeón olímpico cubano Robeisy \"El Tren\" Ramírez regresa al cuadrilátero el próximo 10 de diciembre.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/tras-una-pausa-de-dos-anos-el-tren-ramirez-echara-a-andar-de-nuevo/484955.html",
-      "destacada": false,
-      "tema": "transporte",
-      "fecha": "Tue, 24 Nov 2026 11:30:42 -0500",
-      "id": 44
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Barrio adentro",
-      "resumen": "La realidad de Cuba a través del testimonio de residentes dentro de la isla, quienes actualizarán el panorama interno de la mano de su conductora, la activista y escritora cubana Janisset Rivero.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/483844.html",
-      "destacada": false,
-      "tema": "barrio",
-      "fecha": "Tue, 24 Nov 2026 11:30:00 -0500",
-      "id": 45
-    },
-    {
-      "categoria": "salud",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Crece un 32 % el intercambio comercial entre Cuba y Rusia",
-      "resumen": "El vice primer ministro de la Federación de Rusia, Dmitry Chernyshenko, en un mensaje de saludo a la 42 edición de la Feria Internacional de La Habana (Fihav 2026)",
+      "titulo": "Aprovechar las Transformaciones para que redunden lo antes posible en bienestar de todos",
+      "resumen": "El Primer Secretario del Comité Central del Partido Comunista de Cuba y Presidente de la República, Miguel Díaz-Canel Bermúdez, estuvo este martes en la provincia de Artemisa, donde intercambió con autoridades del territorio y visitó a dos productores de referencia",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/mundo/2026-11-24/crece-un-32-el-intercambio-comercial-entre-cuba-y-rusia-24-11-2026-11-11-10",
+      "enlace_original": "http://www.granma.cu/cuba/2026-11-24/aprovechar-las-transformaciones-para-que-redunden-lo-antes-posible-en-bienestar-de-todos-24-11-2026-11-11-26",
       "destacada": false,
-      "tema": "crece",
-      "fecha": "Tue, 24 Nov 2026 11:11:10 -0500",
-      "id": 46
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Díaz-Canel afirma que muchos delitos \"son alentados por el enemigo para generar sensación de inseguridad\"",
-      "resumen": "El mandatario señala que la lucha contra la corrupción, el consumo de drogas, las ilegalidades y las indisciplinas \"es una política de Estado que exige integralidad e interdisciplinariedad\"",
-      "imagen_url": "https://static.14ymedio.com/clip/50b2bd85-65de-4367-bc37-8695dba69b12_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/diaz-canel-afirma-delitos-son_1_1133643.html",
-      "destacada": false,
-      "tema": "canel",
-      "fecha": "Tue, 24 Nov 2026 10:58:38 +0000",
-      "id": 47
+      "tema": "aprovechar",
+      "fecha": "Tue, 24 Nov 2026 11:11:26 -0500",
+      "id": 56
     },
     {
       "categoria": "politica",
@@ -625,33 +742,20 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Tue, 24 Nov 2026 10:09:56 +0000",
-      "id": 48
+      "id": 57
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Aviso de alerta temprana del estado mayor nacional de la Defensa Civil sobre zona de bajas presiones",
-      "resumen": "De acuerdo con el Aviso Especial No.1 del Centro de Pronósticos del Instituto de Meteorología, durante las próximas horas, se pronostica la formación de una zona de bajas presiones sobre el sudeste del golfo de México y cerca del occidente cubano al final de la noche de hoy martes",
+      "titulo": "Historia de la educación cubana en la Revolución",
+      "resumen": "La presencia del pensamiento educacional de Fidel y La educación en valores patrióticos y de identidad a través de la enseñanza de la historia, figuran entre los temas a debatir en el Taller Historia de la Educación Cubana en la Revolución, que sesionará los días 25 y 26 de noviembre en la Casa del ",
       "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-11-24/aviso-de-alerta-temprana-del-estado-mayor-nacional-de-la-defensa-civil-sobre-zona-de-bajas-presiones-24-11-2026-09-11-28",
+      "enlace_original": "http://www.granma.cu/cuba/2026-11-24/historia-de-la-educacion-cubana-en-la-revolucion-24-11-2026-09-11-51",
       "destacada": false,
-      "tema": "aviso",
-      "fecha": "Tue, 24 Nov 2026 09:11:28 -0500",
-      "id": 49
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "La Ciudad Héroe inició sus homenajes a Fidel",
-      "resumen": "Numerosas actividades se desarrollan en Santiago de Cuba a propósito del décimo aniversario de la partida física del Líder Histórico de la Revolución Cubana",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cien-con-fidel/2026-11-24/la-ciudad-heroe-inicio-sus-homenajes-a-fidel-24-11-2026-09-11-14",
-      "destacada": false,
-      "tema": "ciudad",
-      "fecha": "Tue, 24 Nov 2026 09:11:14 -0500",
-      "id": 50
+      "tema": "historia",
+      "fecha": "Tue, 24 Nov 2026 09:11:51 -0500",
+      "id": 58
     },
     {
       "categoria": "sociedad",
@@ -664,7 +768,7 @@
       "destacada": false,
       "tema": "situación",
       "fecha": "Tue, 24 Nov 26 08:29:00 +0100",
-      "id": 51
+      "id": 59
     },
     {
       "categoria": "sociedad",
@@ -677,7 +781,7 @@
       "destacada": false,
       "tema": "yomil",
       "fecha": "Tue, 24 Nov 26 08:24:00 +0100",
-      "id": 52
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -690,7 +794,7 @@
       "destacada": false,
       "tema": "explote",
       "fecha": "Tue, 24 Nov 26 08:24:00 +0100",
-      "id": 53
+      "id": 61
     },
     {
       "categoria": "sociedad",
@@ -703,7 +807,7 @@
       "destacada": false,
       "tema": "trump",
       "fecha": "Tue, 24 Nov 26 08:22:00 +0100",
-      "id": 54
+      "id": 62
     },
     {
       "categoria": "salud",
@@ -716,7 +820,7 @@
       "destacada": false,
       "tema": "están",
       "fecha": "Tue, 24 Nov 26 08:21:00 +0100",
-      "id": 55
+      "id": 63
     },
     {
       "categoria": "sociedad",
@@ -729,7 +833,7 @@
       "destacada": false,
       "tema": "siguen",
       "fecha": "Tue, 24 Nov 26 08:21:00 +0100",
-      "id": 56
+      "id": 64
     },
     {
       "categoria": "sociedad",
@@ -742,137 +846,7 @@
       "destacada": false,
       "tema": "política",
       "fecha": "Tue, 24 Nov 26 08:02:00 +0100",
-      "id": 57
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cubainformacion.tv",
-      "fuente_tipo": "oficial",
-      "titulo": "Periodistas de Cuba presentan «La artillería pesada» en homenaje a Fidel",
-      "resumen": "Redacción Cubaperiodistas La Unión de Periodistas de Cuba (UPEC) acogió un encuentro en el que prof...",
-      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126280-periodistas-de-cuba-presentan-la-artilleria-pesada-en-homenaje-a-fidel.jpg?t=1795503524",
-      "enlace_original": "https://www.cubainformacion.tv/cuba/20261124/126280/126280-periodistas-de-cuba-presentan-la-artilleria-pesada-en-homenaje-a-fidel",
-      "destacada": false,
-      "tema": "periodistas",
-      "fecha": "Tue, 24 Nov 26 07:57:00 +0100",
-      "id": 58
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Congresistas demócratas reclaman a Díaz-Canel liberar presos políticos",
-      "resumen": "Una carta coloca a los presos políticos cubanos en la agenda de dos legisladores demócratas, frente a los llamados contra las sanciones que amplifica la propaganda del régimen. #RelacionesCubaEEUU",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1795502590_69996.html",
-      "destacada": false,
-      "tema": "congresistas",
-      "fecha": "Tue, 24 Nov 2026 07:43:10 +0100",
-      "id": 59
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Los detalles de la nueva ruta de transporte de mercancías entre España y Cuba",
-      "resumen": "La naviera #Nirint, con vínculos comerciales con #Cuba desde 1992, lanza una nueva conexión mensual entre #Europa y #Mariel. ¿Oxígeno para el régimen de La Habana?",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/economia/1795480688_69992.html",
-      "destacada": false,
-      "tema": "transporte",
-      "fecha": "Tue, 24 Nov 2026 01:38:08 +0100",
-      "id": 60
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.radiocubana.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Periodistas cubanos presentan el libro «La artillería pesada» en homenaje a Fidel",
-      "resumen": "En un encuentro en la sede de la Unión de Periodistas de Cuba, profesionales de la prensa rememoraron su vínculo con el líder histórico de la Revolución cubana. Con la presentación del libro «La artillería pesada», la UPEC rindió homenaje a Fidel, a diez años de su partida física.",
-      "imagen_url": "",
-      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/periodistas-cubanos-presentan-el-libro-la-artilleria-pesada-en-homenaje-a-fidel/",
-      "destacada": false,
-      "tema": "periodistas",
-      "fecha": "Tue, 24 Nov 2026 01:05:30 +0000",
-      "id": 61
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba canta a Silvio Rodríguez en homenaje a sus 80 años",
-      "resumen": "El programa comenzará este 29 de noviembre, a las 11:00 de la mañana, en la Casa de las Américas, en La Habana, con un concierto protagonizado por el movimiento coral cubano",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261123/cuba-canta-a-silvio-rodriguez-en-homenaje-a-sus-80-anos/",
-      "destacada": false,
-      "tema": "canta",
-      "fecha": "Mon, 23 Nov 2026 21:06:34 +0000",
-      "id": 62
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "¿Para qué sirve un cajero automático en Cuba?",
-      "resumen": "En Luyanó, una mujer tiene la respuesta: cuando no hay billetes que sacar, al menos funciona para descansar durante la interminable espera",
-      "imagen_url": "https://static.14ymedio.com/clip/89067bbe-18b9-4867-abf5-11791c0f6ee3_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/para-que-sirve-cajero-automatico-cuba_1_1133633.html",
-      "destacada": false,
-      "tema": "sirve",
-      "fecha": "Mon, 23 Nov 2026 20:19:15 +0000",
-      "id": 63
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Centro Fidel Castro Ruz: cinco años de fidelidad",
-      "resumen": "El Centro Fidel Castro Ruz celebró cinco años de existencia y ratificó su misión: mantener vivo el pensamiento y la vida ejemplar del Comandante en Jefe, acompañar las batallas por el bien de Cuba y de la humanidad, y demostrar con hechos que sus ideas siguen vivas. Como se escuchó al final, con el ",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261123/centro-fidel-castro-ruz-cinco-anos-de-fidelidad/",
-      "destacada": false,
-      "tema": "centro",
-      "fecha": "Mon, 23 Nov 2026 19:54:55 +0000",
-      "id": 64
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Ante la falta de gas para cocinar, se han multiplicado los carboneros improvisados",
-      "resumen": "Solo se puede usar marabú o aroma y las autoridades multan a los que cortan y queman en lugares prohibidos Cuba era el sexto exportador mundial en 2024 e ingreso 48,8 millones de dólares",
-      "imagen_url": "https://static.14ymedio.com/clip/4e11e76e-5190-47cb-8042-522664b60548_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/falta-gas-cocinar-han-multiplicado_1_1133627.html",
-      "destacada": false,
-      "tema": "falta",
-      "fecha": "Mon, 23 Nov 2026 19:54:29 +0000",
       "id": 65
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.bc.gob.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Habana acogió el acto central por el 65 aniversario del SNTAP",
-      "resumen": "Acto central por el 65 aniversario de la fundación del Sindicato Nacional de los Trabajadores de la Administración Pública",
-      "imagen_url": "",
-      "enlace_original": "https://www.bc.gob.cu/media/noticias/la-habana-acogio-el-acto-central-por-el-65-anivers",
-      "destacada": false,
-      "tema": "habana",
-      "fecha": "Mon, 23 Nov 2026 19:20:33 GMT",
-      "id": 66
-    },
-    {
-      "categoria": "transporte",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Comités de solidaridad con el régimen desisten de enviar desde México \"un barco de petróleo para Cuba\"",
-      "resumen": "Puesto que \"el bloqueo no permite llevar\" combustible, llaman a donar para mandar paneles solares",
-      "imagen_url": "https://static.14ymedio.com/clip/a9c99fe8-3873-4788-9060-2f98df29f3f3_source-aspect-ratio_default_0.jpg",
-      "enlace_original": "https://www.14ymedio.com/cuba/comites-solidaridad-regimen-desisten-enviar-petroleo-paneles-solares_1_1133629.html",
-      "destacada": false,
-      "tema": "comités",
-      "fecha": "Mon, 23 Nov 2026 18:37:25 +0000",
-      "id": 67
     }
   ]
 }
