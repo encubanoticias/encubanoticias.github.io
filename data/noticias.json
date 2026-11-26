@@ -1,8 +1,216 @@
 {
-  "fecha": "2026-11-25",
-  "hora": "20:52",
-  "total": 55,
+  "fecha": "2026-11-26",
+  "hora": "03:18",
+  "total": 61,
   "noticias": [
+    {
+      "categoria": "politica",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Canciller panameño aborda nexos bilaterales con presidente cubano",
+      "resumen": "Ciudad de Panamá, 25 nov (Prensa Latina) El canciller de Panamá, Javier Martínez-Acha, sostuvo hoy un encuentro en La Habana con el presidente cubano, Miguel Díaz-Canel, quien expresó el interés de su país en ampliar los vínculos políticos, económicos y comerciales entre ambas naciones. The post Can",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/25/canciller-panameno-aborda-nexos-bilaterales-con-presidente-cubano/",
+      "destacada": true,
+      "tema": "canciller",
+      "fecha": "Thu, 26 Nov 2026 03:16:08 +0000",
+      "id": 1
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Precios de la carne de puerco en Cuba disparan preocupación a pocas semanas del Fin de Año",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-26-u1-e199291-s27061-nid346652-precios-carne-puerco-cuba-disparan-preocupacion",
+      "destacada": true,
+      "tema": "precios",
+      "fecha": "Thu, 26 Nov 2026 02:54:53 +0100",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba expone en foro en Brasil fortalezas para transición energética",
+      "resumen": "Brasilia, 25 nov (Prensa Latina) Cuba expuso hoy sus capacidades científicas, institucionales y humanas para avanzar hacia la transición energética, pese a las limitaciones impuestas por el bloqueo estadounidense, durante un encuentro regional celebrado en esta capital. The post Cuba expone en foro ",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/25/cuba-expone-en-foro-en-brasil-fortalezas-para-transicion-energetica/",
+      "destacada": true,
+      "tema": "expone",
+      "fecha": "Thu, 26 Nov 2026 02:53:07 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Mujeres del FMLN expresan solidaridad con Cuba y contra el bloqueo",
+      "resumen": "San Salvador, 25 nov (Prensa Latina) Mujeres del Frente Farabundo Martí para la Liberación Nacional (FMLN) entregaron hoy en la sede diplomática de Cuba en El Salvador un posicionamiento contra la violencia a género como consecuencia del bloqueo estadounidense contra la Isla. The post Mujeres del FM",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/25/mujeres-del-fmln-expresan-solidaridad-con-cuba-y-contra-el-bloqueo/",
+      "destacada": true,
+      "tema": "mujeres",
+      "fecha": "Thu, 26 Nov 2026 02:40:03 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Honran a Fidel Castro en Brasil y preparan convención solidaria",
+      "resumen": "Brasilia, 25 nov (Prensa Latina) Participantes en una reunión del Comité de Solidaridad con Cuba en Brasilia destacaron hoy el legado del líder histórico de la Revolución de la isla, Fidel Castro, y sus vínculos con este país sudamericano. The post Honran a Fidel Castro en Brasil y preparan convenci",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/25/honran-a-fidel-castro-en-brasil-y-preparan-convencion-solidaria/",
+      "destacada": true,
+      "tema": "honran",
+      "fecha": "Thu, 26 Nov 2026 02:22:32 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Dos madres cubanas y sus hijos duermen en las calles de La Habana tras ser ignoradas por las autoridades",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-26-u1-e199291-s27061-nid346646-dos-madres-cubanas-sus-hijos-duermen-calles-habana",
+      "destacada": false,
+      "tema": "madres",
+      "fecha": "Thu, 26 Nov 2026 01:56:32 +0100",
+      "id": 6
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "«Esto se fue de control hace mucho tiempo»: cubana denuncia los altos precios",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-26-u1-e199291-s27061-nid346636-fue-control-hace-mucho-tiempo-cubana-denuncia-altos",
+      "destacada": false,
+      "tema": "control",
+      "fecha": "Thu, 26 Nov 2026 01:42:11 +0100",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cubano denuncia tres meses sin recoger la basura en Cienfuegos: «Es difícil entender que no les importe»",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-26-u1-e199291-s27061-nid346635-cubano-denuncia-tres-meses-recoger-basura-cienfuegos",
+      "destacada": false,
+      "tema": "cubano",
+      "fecha": "Thu, 26 Nov 2026 01:23:05 +0100",
+      "id": 8
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El dólar alcanza los 975 pesos en Cuba y la MLC se desploma en el mercado informal",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-26-u1-e199894-s27061-nid346654-dolar-alcanza-975-pesos-cuba-mlc-desploma-mercado",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Thu, 26 Nov 2026 01:17:48 +0100",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.cibercuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "El Seguro Social avisa a 300,000 inmigrantes legales que perderán Medicare el 1 de febrero: qué cubanos lo conservan y quiénes deben actuar ya",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-26-u1-e199894-s27061-nid346653-seguro-social-avisa-300000-inmigrantes-legales",
+      "destacada": false,
+      "tema": "seguro",
+      "fecha": "Thu, 26 Nov 2026 01:12:51 +0100",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Colectivos santiagueros evocan impronta de Fidel",
+      "resumen": "Este 25 de noviembre, organizados por sindicatos, muchos llegaron hasta la piedra donde se resguardan las cenizas del Líder Histórico de la Revolución Cubana, en el cementerio patrimonial de Santa Ifigenia, para depositar flores frescas",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261125/colectivos-santiagueros-evocan-impronta-de-fidel/",
+      "destacada": false,
+      "tema": "colectivos",
+      "fecha": "Thu, 26 Nov 2026 00:17:59 +0000",
+      "id": 11
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Los envíos de ayuda humanitaria de EEUU superan en noviembre a los de octubre y La Habana calla",
+      "resumen": "Al menos ocho cargamentos de ayuda humanitaria de EEUU han llegado a Cuba en noviembre, superando a los de octubre. La asistencia crece mientras La Habana guarda silencio.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1795644709_70024.html",
+      "destacada": false,
+      "tema": "envíos",
+      "fecha": "Wed, 25 Nov 2026 23:11:49 +0100",
+      "id": 12
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.14ymedio.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "La Justicia europea rechaza una demanda de indemnización de cuatro cubanos",
+      "resumen": "El fallo admite el derecho de un Estado de devolver a migrantes a un país que los usa con fines de desestabilización, como lo hizo Bielorrusia con Lituania",
+      "imagen_url": "https://static.14ymedio.com/clip/021748c9-d325-4413-90a6-9a0570ae3b36_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/migracion/justicia-europea-rechaza-demanda-indemnizacion_1_1133720.html",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Wed, 25 Nov 2026 22:33:13 +0000",
+      "id": 13
+    },
+    {
+      "categoria": "politica",
+      "fuente": "https://www.diariodecuba.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "'A menos que liberen a los presos políticos, será difícil un diálogo': lo que un cardenal de EEUU dijo a Díaz-Canel",
+      "resumen": "El cardenal de #EEUU #SeánPatrickOʼMalley llamó a los funcionarios del régimen de #Cuba a hacer \"gestos muy dramáticos\" para encarrilar un diálogo con Washington y evitar más sufrimiento a los cubanos.",
+      "imagen_url": "",
+      "enlace_original": "https://diariodecuba.com/cuba/1795641467_70023.html",
+      "destacada": false,
+      "tema": "menos",
+      "fecha": "Wed, 25 Nov 2026 22:17:47 +0100",
+      "id": 14
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Fidel, el arte de la palabra:  “Fidel, la Revolución y la solidaridad de los pueblos”",
+      "resumen": "El 25 de noviembre de 1994, Fidel Castro pronunció las palabras de clausura del Encuentro Mundial de Solidaridad con Cuba, efectuado en el teatro Karl Marx de La Habana. Los participantes de 109 países de todo el planeta se aglutinaron bajo un mismo lema: la necesidad de respaldar, desde la solidari",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/25/fidel-el-arte-de-la-palabra-fidel-la-revolucion-y-la-solidaridad-de-los-pueblos/",
+      "destacada": false,
+      "tema": "fidel",
+      "fecha": "Wed, 25 Nov 2026 21:52:17 +0000",
+      "id": 15
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba conoce a sus rivales para la Liga de Naciones de Voleibol 2027",
+      "resumen": "Los jugadores cubanos amanecieron hoy con la noticia de quienes serán sus adversarios para la Liga de Naciones de Voleibol 2027 en las fases que les corresponden en China, Francia y Japón, divulgada por Volleyball World. The post Cuba conoce a sus rivales para la Liga de Naciones de Voleibol 2027 fi",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/25/cuba-conoce-a-sus-rivales-para-la-liga-de-naciones-de-voleibol-2027/",
+      "destacada": false,
+      "tema": "conoce",
+      "fecha": "Wed, 25 Nov 2026 21:19:06 +0000",
+      "id": 16
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.cubainformacion.tv",
@@ -11,10 +219,10 @@
       "resumen": "Yaima Puig Meneses Presidencia Cuba Al conmemorar este 25 de noviembre un nuevo aniversario de su m...",
       "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126318-fidel-diez-anos-despues-el-legado-que-interpela-al-presente.jpg?t=1795637900",
       "enlace_original": "https://www.cubainformacion.tv/cuba/20261125/126318/126318-fidel-diez-anos-despues-el-legado-que-interpela-al-presente",
-      "destacada": true,
+      "destacada": false,
       "tema": "fidel",
       "fecha": "Wed, 25 Nov 26 21:15:00 +0100",
-      "id": 1
+      "id": 17
     },
     {
       "categoria": "politica",
@@ -24,36 +232,49 @@
       "resumen": "Díaz-Canel visita la fuente de abasto Los Meireles Alina Perera Robbio Presidencia Cuba Como parte...",
       "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126317-fuente-de-abasto-de-agua-los-meireles.jpg?t=1795637680",
       "enlace_original": "https://www.cubainformacion.tv/cuba/20261125/126317/126317-fuente-de-abasto-de-agua-los-meireles",
-      "destacada": true,
+      "destacada": false,
       "tema": "fuente",
       "fecha": "Wed, 25 Nov 26 21:13:00 +0100",
-      "id": 2
+      "id": 18
+    },
+    {
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "El presidente de la Asociación de Fútbol de Cuba se reunió con Gianni Infantino",
+      "resumen": "El presidente de la FIFA, Gianni Infantino, se reunió en Doha con el presidente de la Asociación de Fútbol de Cuba (AFC), Oliet Rodríguez Méndez, y el secretario general, Miguel Ángel Díaz, para consolidar una alianza estratégica que busca transformar el panorama del balompié en la isla mediante de ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/25/el-presidente-de-la-asociacion-de-futbol-de-cuba-se-reunio-con-gianni-infantino/",
+      "destacada": false,
+      "tema": "presidente",
+      "fecha": "Wed, 25 Nov 2026 21:02:49 +0000",
+      "id": 19
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "«Cristianos bajo asedio»: OCDH denuncia una ofensiva del régimen contra líderes religiosos en Cuba",
-      "resumen": "",
+      "titulo": "La Barbacoa de Pepe",
+      "resumen": "La Barbacoa de Pepe es un muestrario de la nostalgia cubana con datos y curiosidades de los temas más variados, para la audiencia cubana. También trataremos temas internacionales y locales, siempre con el fin de educar al Cubano de la Isla. Con la elocuencia de Pepe Forte.",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-25-u1-e74-s27061-nid346630-cristianos-bajo-asedio-ocdh-denuncia-ofensiva-regimen",
-      "destacada": true,
-      "tema": "cristianos",
-      "fecha": "Wed, 25 Nov 2026 21:05:18 +0100",
-      "id": 3
+      "enlace_original": "https://www.martinoticias.com/a/483990.html",
+      "destacada": false,
+      "tema": "barbacoa",
+      "fecha": "Wed, 25 Nov 2026 21:00:00 -0500",
+      "id": 20
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://eltoque.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba y Vietnam inician seminario interparlamentario en medio de la profunda crisis económica de la isla",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-25-u1-e199894-s27061-nid346629-cuba-vietnam-inician-seminario-interparlamentario",
-      "destacada": true,
-      "tema": "vietnam",
-      "fecha": "Wed, 25 Nov 2026 20:59:35 +0100",
-      "id": 4
+      "titulo": "Las elecciones españolas contadas por un nieto de Elpidio Valdés",
+      "resumen": "Son las segundas elecciones que vivo en España. Recién llegado, apenas comprendí las de 2023. Tenía opiniones simplificadas sobre la política española y cometí el error de cualquier emigrado: juzgar como cubano la fauna electoral de otro país. Ahora las cosas han cambiado, pero no tanto.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/Sin_titulo_18_de_junio_de_2025_20_56_59_13_1_c5dff9750e.jpeg",
+      "enlace_original": "https://eltoque.com/las-elecciones-espanolas-contadas-por-un-nieto-de-elpidio-valdes",
+      "destacada": false,
+      "tema": "elecciones",
+      "fecha": "Wed, 25 Nov 2026 21:00:00 GMT",
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -63,10 +284,10 @@
       "resumen": "Aníbal Garzón* - Especial para Cubainformación...",
       "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126315-10-anos-de-la-muerte-de-fidel-castro-y-el-imperialismo-no-esta-contento.jpg?t=1795636617",
       "enlace_original": "https://www.cubainformacion.tv/la-columna/20261125/126315/126315-10-anos-de-la-muerte-de-fidel-castro-y-el-imperialismo-no-esta-contento",
-      "destacada": true,
+      "destacada": false,
       "tema": "muerte",
       "fecha": "Wed, 25 Nov 26 20:45:00 +0100",
-      "id": 5
+      "id": 22
     },
     {
       "categoria": "sociedad",
@@ -79,20 +300,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Wed, 25 Nov 2026 20:42:01 +0100",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El reparto cubano en la prensa extranjera: del barrio habanero al fenómeno latino que enamora a Rosalía y Daddy Yankee",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-25-u1-e43231-s27061-nid346612-reparto-cubano-prensa-extranjera-barrio-habanero-al",
-      "destacada": false,
-      "tema": "reparto",
-      "fecha": "Wed, 25 Nov 2026 20:37:58 +0100",
-      "id": 7
+      "id": 23
     },
     {
       "categoria": "sociedad",
@@ -105,46 +313,20 @@
       "destacada": false,
       "tema": "entonces",
       "fecha": "Wed, 25 Nov 2026 20:16:35 +0000",
-      "id": 8
+      "id": 24
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba cedió 0-1 ante Venezuela en la Súper Ronda del Campeonato Panamericano de Béisbol Sub-12",
-      "resumen": "",
+      "titulo": "Noticiero de Radio Martí 8:00 PM",
+      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-25-u1-e199894-s27066-nid346627-cuba-cedio-0-1-venezuela-super-ronda-campeonato",
+      "enlace_original": "https://www.martinoticias.com/a/483989.html",
       "destacada": false,
-      "tema": "cedió",
-      "fecha": "Wed, 25 Nov 2026 20:07:45 +0100",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba se derrumba y los constructores celebran su día con consignas revolucionarias",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-25-u1-e199894-s27061-nid346626-cuba-derrumba-constructores-celebran-dia-consignas",
-      "destacada": false,
-      "tema": "derrumba",
-      "fecha": "Wed, 25 Nov 2026 20:05:22 +0100",
-      "id": 10
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Récord de cubanos que piden refugio en Brasil: Hay casi 100,000 solicitudes pendientes",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-25-u1-e199370-s27061-nid346624-record-cubanos-piden-refugio-brasil-hay-casi-100000",
-      "destacada": false,
-      "tema": "récord",
-      "fecha": "Wed, 25 Nov 2026 19:58:46 +0100",
-      "id": 11
+      "tema": "noticiero",
+      "fecha": "Wed, 25 Nov 2026 20:00:00 -0500",
+      "id": 25
     },
     {
       "categoria": "energia",
@@ -157,20 +339,7 @@
       "destacada": false,
       "tema": "economía",
       "fecha": "Wed, 25 Nov 2026 19:46:53 +0100",
-      "id": 12
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Unos 150 médicos cubanos se reúnen el sábado en Madrid en su primer congreso en España: la homologación y la colegiación, el gran obstáculo",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-25-u1-e199894-s27061-nid346625-unos-150-medicos-cubanos-reunen-sabado-madrid-primer",
-      "destacada": false,
-      "tema": "médicos",
-      "fecha": "Wed, 25 Nov 2026 19:45:47 +0100",
-      "id": 13
+      "id": 26
     },
     {
       "categoria": "politica",
@@ -183,7 +352,7 @@
       "destacada": false,
       "tema": "rodríguez",
       "fecha": "Wed, 25 Nov 2026 19:28:22 +0000",
-      "id": 14
+      "id": 27
     },
     {
       "categoria": "politica",
@@ -196,7 +365,7 @@
       "destacada": false,
       "tema": "presidente",
       "fecha": "Wed, 25 Nov 2026 18:30:29 +0000",
-      "id": 15
+      "id": 28
     },
     {
       "categoria": "sociedad",
@@ -209,7 +378,7 @@
       "destacada": false,
       "tema": "papel",
       "fecha": "Wed, 25 Nov 2026 18:30:07 +0100",
-      "id": 16
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -222,7 +391,7 @@
       "destacada": false,
       "tema": "queda",
       "fecha": "Wed, 25 Nov 2026 18:16:10 +0000",
-      "id": 17
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -235,7 +404,7 @@
       "destacada": false,
       "tema": "mentiras",
       "fecha": "Wed, 25 Nov 2026 18:15:17 +0100",
-      "id": 18
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -248,7 +417,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Wed, 25 Nov 2026 18:13:41 +0000",
-      "id": 19
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -261,20 +430,7 @@
       "destacada": false,
       "tema": "combatientes",
       "fecha": "Wed, 25 Nov 2026 18:10:52 +0000",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Asociación de Amistad Berlín-Cuba rinde homenaje a Fidel",
-      "resumen": "Este 24 de noviembre la Asociación de Amistad Berlín-Cuba homenajeó a Fidel en el décimo aniversario de su deceso con un concierto del chelista cubano residente Douglas Vistel y su esposa Almut Kraus-Vistel y la lectura de una selección de textos de los más destacados discursos del Comandante en Jef",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/25/asociacion-de-amistad-berlin-cuba-rinde-homenaje-a-fidel/",
-      "destacada": false,
-      "tema": "asociación",
-      "fecha": "Wed, 25 Nov 2026 17:47:19 +0000",
-      "id": 21
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -287,7 +443,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Wed, 25 Nov 2026 17:41:33 +0000",
-      "id": 22
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -300,7 +456,7 @@
       "destacada": false,
       "tema": "rememoran",
       "fecha": "Wed, 25 Nov 2026 17:23:49 +0000",
-      "id": 23
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -313,7 +469,7 @@
       "destacada": false,
       "tema": "esclarece",
       "fecha": "Wed, 25 Nov 2026 16:55:09 +0000",
-      "id": 24
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -326,7 +482,7 @@
       "destacada": false,
       "tema": "inaugurado",
       "fecha": "Wed, 25 Nov 2026 16:45:38 +0000",
-      "id": 25
+      "id": 37
     },
     {
       "categoria": "sociedad",
@@ -339,7 +495,7 @@
       "destacada": false,
       "tema": "peñacazo",
       "fecha": "Wed, 25 Nov 26 16:39:00 +0100",
-      "id": 26
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -352,7 +508,7 @@
       "destacada": false,
       "tema": "proyección",
       "fecha": "Wed, 25 Nov 26 16:35:00 +0100",
-      "id": 27
+      "id": 39
     },
     {
       "categoria": "sociedad",
@@ -365,7 +521,7 @@
       "destacada": false,
       "tema": "centenario",
       "fecha": "Wed, 25 Nov 26 16:28:00 +0100",
-      "id": 28
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -378,59 +534,46 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Wed, 25 Nov 26 16:26:00 +0100",
-      "id": 29
+      "id": 41
     },
     {
-      "categoria": "transporte",
-      "fuente": "http://www.cubadebate.cu",
+      "categoria": "sociedad",
+      "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Baracoa se estrena en el circuito asiático en el festival de cine internacional de la India",
-      "resumen": "La película cubano-italiana Baracoa se estrenará este miércoles en pantallas de Asia como parte de la muestra dedicada a las naciones Brics en el Festival Internacional de Cine de India, en Goa. The post Baracoa se estrena en el circuito asiático en el festival de cine internacional de la India firs",
+      "titulo": "Cuba presenta en la Feria de La Habana 59 proyectos de inversión desde los territorios",
+      "resumen": "La producción de alimentos concentra la mayor cantidad de oportunidades, con énfasis en los encadenamientos productivos y la generación de rubros exportables con valor agregado",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/25/baracoa-se-estrena-en-el-circuito-asiatico-en-el-festival-de-cine-internacional-de-la-india/",
+      "enlace_original": "http://www.granma.cu/cuba/2026-11-25/cuba-presenta-en-la-feria-de-la-habana-59-proyectos-de-inversion-desde-los-territorios-25-11-2026-16-11-37",
       "destacada": false,
-      "tema": "transporte",
-      "fecha": "Wed, 25 Nov 2026 15:57:09 +0000",
-      "id": 30
+      "tema": "presenta",
+      "fecha": "Wed, 25 Nov 2026 16:11:37 -0500",
+      "id": 42
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba en la Memoria",
-      "resumen": "Una conversación sobre la realidad cubana. La lucha, el presidio político, la denuncia internacional, el activismo pacífico en las voces de sus protagonistas.",
+      "fuente": "https://www.granma.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba apunta al aro de la FIBA AmeriCup 2029",
+      "resumen": "Resaltan las bajas de Jasiel Rivero y Reynaldo García Zamora",
       "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/483974.html",
+      "enlace_original": "http://www.granma.cu/deportes/2026-11-25/cuba-apunta-al-aro-de-la-fiba-americup-2029-25-11-2026-16-11-02",
       "destacada": false,
-      "tema": "memoria",
-      "fecha": "Wed, 25 Nov 2026 15:30:00 -0500",
-      "id": 31
+      "tema": "apunta",
+      "fecha": "Wed, 25 Nov 2026 16:11:02 -0500",
+      "id": 43
     },
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
+      "categoria": "energia",
+      "fuente": "https://www.14ymedio.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Cuba al día",
-      "resumen": "Régimen cubano busca ganar tiempo y paralizar la política de Washington.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/cuba-al-d%c3%ada/485045.html",
+      "titulo": "El déficit fiscal del Gobierno cubano se dispara a niveles sin precedente: 138.000 millones de CUP",
+      "resumen": "La deuda pública se incrementa un 51% para financiar el presupuesto",
+      "imagen_url": "https://static.14ymedio.com/clip/8747e172-04ae-4dcb-9933-2d890f992126_source-aspect-ratio_default_0.jpg",
+      "enlace_original": "https://www.14ymedio.com/economia/deficit-fiscal-gobierno-cubano-dispara_1_1133697.html",
       "destacada": false,
-      "tema": "",
-      "fecha": "Wed, 25 Nov 2026 15:16:27 -0500",
-      "id": 32
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero Martí Noticias",
-      "resumen": "Cae la esperanza de vida en Cuba por primera vez en casi 80 años. Detienen a dos madres que ocupaban antigua academia de boxeo en Santa Clara. Desde la cárcel de Guanajay, Fidel Mojena denuncia abusos y afirma que no negociará sus principios",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/485035.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Wed, 25 Nov 2026 15:01:33 -0500",
-      "id": 33
+      "tema": "déficit",
+      "fecha": "Wed, 25 Nov 2026 16:09:32 +0000",
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -443,33 +586,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Wed, 25 Nov 26 15:00:00 +0100",
-      "id": 34
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El futuro es ya",
-      "resumen": "Un espacio donde analistas, expertos y activistas examinan y debaten las últimas noticias y acontecimientos que marcan la realidad cubana.”",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/el-futuro-es-ya/485031.html",
-      "destacada": false,
-      "tema": "futuro",
-      "fecha": "Wed, 25 Nov 2026 14:46:54 -0500",
-      "id": 35
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cae 4.4 años la expectativa de vida en Cuba",
-      "resumen": "El director general de la Organización Mundial de la Salud da las cifras “la esperanza de vida en Cuba ha disminuido”, 4.4 años entre 2020 y 2025. También dice que existe un incremento del doble de casos de tuberculosis desde 2019, y que la tasa de mortalidad infantil \"se ha más que duplicado\".",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/485040.html",
-      "destacada": false,
-      "tema": "expectativa",
-      "fecha": "Wed, 25 Nov 2026 14:34:55 -0500",
-      "id": 36
+      "id": 45
     },
     {
       "categoria": "economia",
@@ -482,20 +599,7 @@
       "destacada": false,
       "tema": "primera",
       "fecha": "Wed, 25 Nov 2026 14:26:00 +0000",
-      "id": 37
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "La Cámara de Comercio de Cuba llega a FIHAV con más de 1 700 empresas y 32 clústeres en diferentes sectores de la economía",
-      "resumen": "El presidente de la Cámara informó que se están conformando carteras de proyectos por clúster, enfocadas en aquellos de mayor impacto inmediato y en otros de mayor plazo",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-11-25/la-camara-de-comercio-de-cuba-llega-a-fihav-con-mas-de-1-700-empresas-y-32-clusteres-en-diferentes-sectores-de-la-economia-25-11-2026-14-11-37",
-      "destacada": false,
-      "tema": "cámara",
-      "fecha": "Wed, 25 Nov 2026 14:11:37 -0500",
-      "id": 38
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -508,7 +612,7 @@
       "destacada": false,
       "tema": "podría",
       "fecha": "Wed, 25 Nov 2026 13:55:59 +0100",
-      "id": 39
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -521,7 +625,7 @@
       "destacada": false,
       "tema": "hotelera",
       "fecha": "Wed, 25 Nov 2026 13:52:34 +0000",
-      "id": 40
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -534,7 +638,7 @@
       "destacada": false,
       "tema": "leones",
       "fecha": "Wed, 25 Nov 2026 13:45:21 +0000",
-      "id": 41
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -547,7 +651,7 @@
       "destacada": false,
       "tema": "cepal",
       "fecha": "Wed, 25 Nov 2026 13:33:55 +0000",
-      "id": 42
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -560,7 +664,7 @@
       "destacada": false,
       "tema": "monedas",
       "fecha": "Wed, 25 Nov 2026 13:30:00 GMT",
-      "id": 43
+      "id": 51
     },
     {
       "categoria": "politica",
@@ -573,7 +677,7 @@
       "destacada": false,
       "tema": "fecha",
       "fecha": "Wed, 25 Nov 2026 13:22:03 +0100",
-      "id": 44
+      "id": 52
     },
     {
       "categoria": "sociedad",
@@ -586,7 +690,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Wed, 25 Nov 2026 13:11:46 -0500",
-      "id": 45
+      "id": 53
     },
     {
       "categoria": "politica",
@@ -599,7 +703,7 @@
       "destacada": false,
       "tema": "arribó",
       "fecha": "Wed, 25 Nov 2026 13:11:03 -0500",
-      "id": 46
+      "id": 54
     },
     {
       "categoria": "transporte",
@@ -612,33 +716,7 @@
       "destacada": false,
       "tema": "canciller",
       "fecha": "Wed, 25 Nov 2026 13:08:14 +0000",
-      "id": 47
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Un frente frío obliga al régimen a aplazar su homenaje a Fidel Castro",
-      "resumen": "Ni el acto propagandístico por el décimo aniversario de la muerte de Fidel Castro se salva del mal tiempo en Cuba. Las autoridades se ven obligadas a anunciar una nueva fecha para el homenaje.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1795603570_70014.html",
-      "destacada": false,
-      "tema": "frente",
-      "fecha": "Wed, 25 Nov 2026 11:46:10 +0100",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Luis Frómeta Compte regresa a Alemania tras la represión del 11J en Cuba",
-      "resumen": "El preso político cubanoalemán Luis Frómeta Compte, quien llevaba fuera de prisión desde marzo de 2025 bajo licencia extrapenal, regresa a Dresde. \"¡Por fin libre!\", celebra una organización alemana. #11JCuba #DerechosHumanos",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1795600898_70013.html",
-      "destacada": false,
-      "tema": "frómeta",
-      "fecha": "Wed, 25 Nov 2026 11:01:38 +0100",
-      "id": 49
+      "id": 55
     },
     {
       "categoria": "politica",
@@ -651,7 +729,7 @@
       "destacada": false,
       "tema": "canel",
       "fecha": "Wed, 25 Nov 2026 10:11:39 -0500",
-      "id": 50
+      "id": 56
     },
     {
       "categoria": "sociedad",
@@ -664,7 +742,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Wed, 25 Nov 2026 10:00:37 +0000",
-      "id": 51
+      "id": 57
     },
     {
       "categoria": "transporte",
@@ -677,20 +755,7 @@
       "destacada": false,
       "tema": "fidel",
       "fecha": "Wed, 25 Nov 2026 09:45:00 +0000",
-      "id": 52
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.14ymedio.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Llega a Alemania el ex preso del 11J Frometa Compte después de cinco años de reclusión en Cuba",
-      "resumen": "En las cárceles del régimen quedan aún más de 400 condenados por su participación en las protestas de 2021",
-      "imagen_url": "https://static.14ymedio.com/clip/b53bb807-d2b1-4545-866f-047ec4530415_source-aspect-ratio_default_0.png",
-      "enlace_original": "https://www.14ymedio.com/cuba/llega-alemania-ex-preso-11j_1_1133681.html",
-      "destacada": false,
-      "tema": "llega",
-      "fecha": "Wed, 25 Nov 2026 09:42:11 +0000",
-      "id": 53
+      "id": 58
     },
     {
       "categoria": "politica",
@@ -703,7 +768,20 @@
       "destacada": false,
       "tema": "ministerio",
       "fecha": "Wed, 25 Nov 2026 09:11:13 -0500",
-      "id": 54
+      "id": 59
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.radiocubana.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "A 10 años de su partida, Cuba reivindica legado de Fidel Castro",
+      "resumen": "Cuba recuerda hoy el décimo aniversario de la desaparición física del líder histórico de la Revolución, Fidel Castro, con actividades políticas, académicas y culturales, dedicadas a resaltar la vigencia de su pensamiento y legado. La fecha adquiere una significación especial al coincidir con el Año ",
+      "imagen_url": "",
+      "enlace_original": "https://www.radiocubana.cu/destacados-en-el-portal-de-la-radio/a-10-anos-de-su-partida-cuba-reivindica-legado-de-fidel-castro/",
+      "destacada": false,
+      "tema": "partida",
+      "fecha": "Wed, 25 Nov 2026 07:53:50 +0000",
+      "id": 60
     },
     {
       "categoria": "sociedad",
@@ -716,7 +794,7 @@
       "destacada": false,
       "tema": "pecho",
       "fecha": "Wed, 25 Nov 2026 05:09:36 +0000",
-      "id": 55
+      "id": 61
     }
   ]
 }
