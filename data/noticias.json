@@ -1,33 +1,85 @@
 {
-  "fecha": "2026-11-26",
-  "hora": "22:42",
-  "total": 66,
+  "fecha": "2026-11-27",
+  "hora": "04:39",
+  "total": 52,
   "noticias": [
     {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Eduardo Toro, el cirujano cubano de la Cruz Roja que salva vidas en el frente de guerra de Yemen",
-      "resumen": "",
+      "categoria": "economia",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "“Se cede la gestión, no la propiedad”: ¿seguro?",
+      "resumen": "En el debate sobre las transformaciones de la economía cubana se repite una frase tranquilizadora: \"se cede la gestión, no la propiedad\". Esto es correcto si se sabe delimitar dónde termina una y empieza la otra. Separarlas puede hacer más eficiente la economía, pero no es un acto neutral. The post ",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-26-u1-e199894-s27061-nid346730-eduardo-toro-cirujano-cubano-cruz-roja-salva-vidas",
+      "enlace_original": "http://www.cubadebate.cu/especiales/2026/11/27/se-cede-la-gestion-no-la-propiedad-seguro/",
       "destacada": true,
-      "tema": "eduardo",
-      "fecha": "Thu, 26 Nov 2026 23:13:33 +0100",
+      "tema": "gestión",
+      "fecha": "Fri, 27 Nov 2026 04:30:11 +0000",
       "id": 1
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Cuba sufre una goleada 7-0 ante Croacia y queda eliminada del Mundial Sub-17 de Qatar",
-      "resumen": "",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Museo Cubano de Artes Decorativas exhibirá valiosa porcelana inglesa",
+      "resumen": "La Habana, 27 nov (Prensa Latina) La muestra Destellos británicos perteneciente al Museo Nacional de Artes Decorativas, brindará hoy aquí un recorrido por la porcelana inglesa que capturó escenas de La Habana colonial y el genio del ceramista Josiah Wedgwood (1730-1795). The post Museo Cubano de Art",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-26-u1-e199894-s27061-nid346717-cuba-sufre-goleada-7-0-croacia-queda-eliminada",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/27/museo-cubano-de-artes-decorativas-exhibira-valiosa-porcelana-inglesa/",
       "destacada": true,
-      "tema": "sufre",
-      "fecha": "Thu, 26 Nov 2026 23:11:07 +0100",
+      "tema": "museo",
+      "fecha": "Fri, 27 Nov 2026 04:14:07 +0000",
       "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Fidel y los jóvenes: diez años después, una historia que continúa",
+      "resumen": "En la Escalinata de la Universidad de La Habana, donde encabezó a la Generación del Centenario en 1953, una nueva generación volvió a encontrarse con su historia para reivindicar la vigencia del pensamiento del Comandante Fidel Castro y el compromiso con el futuro de Cuba La entrada Fidel y los jóve",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/fidel-y-los-jovenes-diez-anos-despues-una-historia-que-continua/",
+      "destacada": true,
+      "tema": "fidel",
+      "fecha": "Fri, 27 Nov 2026 03:20:08 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://actualidad.rt.com",
+      "fuente_tipo": "internacional",
+      "titulo": "Buque portacontenedores naufraga frente a las costas de Cuba",
+      "resumen": "La embarcación llevaba a bordo a 16 tripulantes de nacionalidades egipcia e indonesia.",
+      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.11/thumbnail/6b08fd8fe9ff711dc51f72db.jpg",
+      "enlace_original": "https://actualidad-rt.com/actualidad/639962-buque-portacontenedores-naufraga-frente-costas-cuba?utm_source=rss&utm_medium=rss&utm_campaign=all",
+      "destacada": true,
+      "tema": "buque",
+      "fecha": "Fri, 27 Nov 2026 03:06:39 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba recuerda a Fidel Castro a diez años de su muerte",
+      "resumen": "La vigencia del legado de Fidel Castro y el compromiso de las nuevas generaciones con la defensa de la soberanía cubana centraron las palabras de Meyvis Estévez, primera secretaria del Comité Nacional de la Unión de Jóvenes Comunistas (UJC), durante el homenaje por el décimo aniversario de la desapa",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261126/cuba-recuerda-a-fidel-castro-a-diez-anos-de-su-muerte/",
+      "destacada": true,
+      "tema": "recuerda",
+      "fecha": "Fri, 27 Nov 2026 02:07:05 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Velada por el décimo aniversario de Fidel Castro en la escalinata de la Universidad de La Habana",
+      "resumen": "Con la presencia del Primer Secretario del Comité Central del Partido y Presidente de la República, Miguel Díaz-Canel Bermúdez, comenzó la velada por el décimo aniversario de la desaparición física del Comandante en Jefe Fidel Castro Ruz, en la escalinata de la Universidad de La Habana, junto a mile",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/26/velada-por-el-decimo-aniversario-de-fidel-castro-en-la-escalinata-de-la-universidad-de-la-habana/",
+      "destacada": false,
+      "tema": "velada",
+      "fecha": "Fri, 27 Nov 2026 01:00:38 +0000",
+      "id": 6
     },
     {
       "categoria": "sociedad",
@@ -37,101 +89,23 @@
       "resumen": "Apenas cuatro días después de excarcelarlo, las autoridades represivas del régimen de Cuba citan al ex preso político Nadir Martín Perdomo: reproducen el patrón de \"amenazas y advertencias\" contra él y su familia.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/derechos-humanos/1795730892_70038.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "semana",
       "fecha": "Thu, 26 Nov 2026 23:08:12 +0100",
-      "id": 3
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Arrestan en Francia a cubano acusado de disparar contra un hombre cerca de Milán, en Italia",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-26-u1-e208933-s27061-nid346726-arrestan-francia-cubano-acusado-disparar-contra",
-      "destacada": true,
-      "tema": "arrestan",
-      "fecha": "Thu, 26 Nov 2026 23:03:28 +0100",
-      "id": 4
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Iberostar provisionó 22 millones de euros por sus riesgos en Cuba y su beneficio en la Isla cayó un 98,7 % antes de dejar sus hoteles",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-26-u1-e43231-s27061-nid346689-iberostar-provisiono-22-millones-euros-sus-riesgos",
-      "destacada": true,
-      "tema": "tipo_cambio",
-      "fecha": "Thu, 26 Nov 2026 22:50:26 +0100",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "«Cuando se manda algo para Cuba hay que decir para qué es»: cubana envió servilletas y las confundieron con caramelos",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-26-u208487-e208487-s27065-nid346724-cuando-manda-algo-cuba-hay-decir-cubana-envio",
-      "destacada": false,
-      "tema": "manda",
-      "fecha": "Thu, 26 Nov 2026 22:49:43 +0100",
-      "id": 6
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "‎Cuba ratifica puertas abiertas a la inversión nacional y extranjera",
-      "resumen": "La Habana, 26 nov (Prensa Latina) El primer ministro Manuel Marrero subrayó hoy la voluntad del Gobierno cubano de ofrecer espacios atractivos y seguros para la inversión nacional y extranjera, al clausurar la 42 Feria Internacional de La Habana (FIHAV 2026). The post ‎Cuba ratifica puertas abiertas",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/26/cuba-ratifica-puertas-abiertas-a-la-inversion-nacional-y-extranjera/",
-      "destacada": false,
-      "tema": "ratifica",
-      "fecha": "Thu, 26 Nov 2026 22:33:55 +0000",
       "id": 7
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Continúa con éxito Semana de la Cultura Italiana en Cuba",
-      "resumen": "La Habana, 26 nov (Prensa Latina) La fusión de cine, moda y diseño, presentes en la exposición Trazos de Italia, destacó como uno de los atractivos de la Semana Cultural de ese país aquí, que continúa hoy con su programa de actividades. The post Continúa con éxito Semana de la Cultura Italiana en Cu",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Constituyen en Cuba Primera Brigada Internacional Fidel Castro Ruz",
+      "resumen": "En el Instituto Cubano de Amistad con los Pueblos (ICAP), en La Habana, integrantes de 18 naciones constituyeron la Primera Brigada Internacional Fidel Castro Ruz, a 10 años de la desaparición física del Líder Histórico de la Revolución Cubana La entrada Constituyen en Cuba Primera Brigada Internaci",
       "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/26/continua-con-exito-semana-de-la-cultura-italiana-en-cuba/",
+      "enlace_original": "https://www.tribuna.cu/constituyen-en-cuba-primera-brigada-internacional-fidel-castro-ruz/",
       "destacada": false,
-      "tema": "continúa",
-      "fecha": "Thu, 26 Nov 2026 22:32:25 +0000",
+      "tema": "constituyen",
+      "fecha": "Thu, 26 Nov 2026 22:54:48 +0000",
       "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Juez federal frena las redetenciones de ICE en citas de control y una demanda avanza en el 11.º Circuito: lo que implica para cubanos con I-220A",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-26-u1-e43231-s27061-nid346677-juez-federal-frena-redetenciones-ice-citas-control",
-      "destacada": false,
-      "tema": "federal",
-      "fecha": "Thu, 26 Nov 2026 22:31:04 +0100",
-      "id": 9
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Embajada de EE.UU. dedica mensaje de Acción de Gracias a familias cubanas separadas por el exilio y la represión",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-26-u1-e135253-s27061-nid346725-embajada-eeuu-dedica-mensaje-accion-gracias-familias",
-      "destacada": false,
-      "tema": "embajada",
-      "fecha": "Thu, 26 Nov 2026 22:29:10 +0100",
-      "id": 10
     },
     {
       "categoria": "sociedad",
@@ -144,7 +118,7 @@
       "destacada": false,
       "tema": "tunas",
       "fecha": "Thu, 26 Nov 2026 22:16:28 +0000",
-      "id": 11
+      "id": 9
     },
     {
       "categoria": "sociedad",
@@ -157,33 +131,20 @@
       "destacada": false,
       "tema": "evalúa",
       "fecha": "Thu, 26 Nov 2026 22:11:36 +0000",
-      "id": 12
+      "id": 10
     },
     {
       "categoria": "sociedad",
       "fuente": "https://www.trabajadores.cu",
       "fuente_tipo": "oficial",
-      "titulo": "¡LLamamiento de Dakar: Ddeclaraciòn del Fipan a favor de Cuba!",
-      "resumen": "En este día, 25 de noviembre de 2026, año que marca el centenario del nacimiento del camarada revolucionario Fidel Castro; 25 de noviembre, fecha que marca el décimo aniversario de la desaparición física del Líder Máximo, el Comandante. En este día, pues, doblemente simbólico, nosotros, camaradas pa",
+      "titulo": "¡Llamamiento de Dakar: Declaración del Fipan a favor de Cuba!",
+      "resumen": "Desde Argelia hasta Angola, pasando por el Congo, Guinea-Bisáu, Guinea, Namibia y Sudáfrica, Cuba desplegó un esfuerzo considerable, tanto en el plano ideológico y material como en el humano",
       "imagen_url": "",
       "enlace_original": "https://www.trabajadores.cu/20261126/llamamiento-de-dakar-ddeclaracion-del-fipan-a-favor-de-cuba/",
       "destacada": false,
       "tema": "llamamiento",
       "fecha": "Thu, 26 Nov 2026 22:11:30 +0000",
-      "id": 13
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://actualidad.rt.com",
-      "fuente_tipo": "internacional",
-      "titulo": "\"Un doloroso golpe a la propia Estonia\": Moscú advierte de represalias por el bloqueo fronterizo",
-      "resumen": "La portavoz de la Cancillería rusa calificó de \"acciones hostiles\" la clausura total de los pasos fronterizos con Rusia anunciada por Tallin, alertando de un grave impacto socioeconómico para el país báltico.",
-      "imagen_url": "https://mf.b37mrtl.ru/actualidad/public_images/2026.11/thumbnail/6b08977fe9ff711d8447b97e.jpg",
-      "enlace_original": "https://actualidad-rt.com/actualidad/639922-doloroso-golpe-propia-estonia-moscu-advierte-represalias-bloqueo-fronterizo?utm_source=rss&utm_medium=rss&utm_campaign=all",
-      "destacada": false,
-      "tema": "doloroso",
-      "fecha": "Thu, 26 Nov 2026 22:04:30 +0000",
-      "id": 14
+      "id": 11
     },
     {
       "categoria": "sociedad",
@@ -196,7 +157,7 @@
       "destacada": false,
       "tema": "buque",
       "fecha": "Thu, 26 Nov 2026 22:00:45 +0100",
-      "id": 15
+      "id": 12
     },
     {
       "categoria": "politica",
@@ -209,7 +170,7 @@
       "destacada": false,
       "tema": "extiende",
       "fecha": "Thu, 26 Nov 2026 21:41:51 +0000",
-      "id": 16
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -222,20 +183,7 @@
       "destacada": false,
       "tema": "inician",
       "fecha": "Thu, 26 Nov 2026 21:33:48 +0000",
-      "id": 17
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "Combatientes del MININT rinden homenaje al Comandante en Jefe Fidel Castro",
-      "resumen": "En acto político cultural, jefes, oficiales, combatientes y trabajadores civiles de la Dirección General de Investigación Criminal (DGIC) del MININT recordaron en La Habana, el décimo aniversario de la desaparición física del Comandante en Jefe Fidel Castro Ruz La entrada Combatientes del MININT rin",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/combatientes-del-minint-rinden-homenaje-al-comandante-en-jefe-fidel-castro/",
-      "destacada": false,
-      "tema": "combatientes",
-      "fecha": "Thu, 26 Nov 2026 21:30:24 +0000",
-      "id": 18
+      "id": 14
     },
     {
       "categoria": "economia",
@@ -248,7 +196,7 @@
       "destacada": false,
       "tema": "muchos",
       "fecha": "Thu, 26 Nov 2026 21:17:18 +0000",
-      "id": 19
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -261,20 +209,7 @@
       "destacada": false,
       "tema": "celebran",
       "fecha": "Thu, 26 Nov 2026 21:09:20 +0100",
-      "id": 20
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.tribuna.cu/",
-      "fuente_tipo": "alternativa",
-      "titulo": "La Habana abierta a la inversión extranjera",
-      "resumen": "La Cartera de Oportunidades de inversión de la capital cubana abarca más de 50 proyectos La entrada La Habana abierta a la inversión extranjera se publicó primero en Tribuna de La Habana.",
-      "imagen_url": "",
-      "enlace_original": "https://www.tribuna.cu/la-habana-abierta-a-la-inversion-extranjera/",
-      "destacada": false,
-      "tema": "habana",
-      "fecha": "Thu, 26 Nov 2026 21:08:41 +0000",
-      "id": 21
+      "id": 16
     },
     {
       "categoria": "sociedad",
@@ -287,7 +222,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 26 Nov 2026 20:57:41 GMT",
-      "id": 22
+      "id": 17
     },
     {
       "categoria": "sociedad",
@@ -300,7 +235,7 @@
       "destacada": false,
       "tema": "municipio",
       "fecha": "Thu, 26 Nov 2026 20:56:44 +0000",
-      "id": 23
+      "id": 18
     },
     {
       "categoria": "economia",
@@ -313,7 +248,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Thu, 26 Nov 2026 20:54:43 +0100",
-      "id": 24
+      "id": 19
     },
     {
       "categoria": "energia",
@@ -326,7 +261,7 @@
       "destacada": false,
       "tema": "inauguró",
       "fecha": "Thu, 26 Nov 2026 20:51:00 +0000",
-      "id": 25
+      "id": 20
     },
     {
       "categoria": "sociedad",
@@ -339,7 +274,7 @@
       "destacada": false,
       "tema": "llamamiento",
       "fecha": "Thu, 26 Nov 2026 20:44:03 +0000",
-      "id": 26
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -352,7 +287,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Thu, 26 Nov 2026 20:37:10 +0100",
-      "id": 27
+      "id": 22
     },
     {
       "categoria": "politica",
@@ -365,33 +300,46 @@
       "destacada": false,
       "tema": "empresa",
       "fecha": "Thu, 26 Nov 2026 20:30:00 GMT",
-      "id": 28
+      "id": 23
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://eltoque.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "¿Las dictaduras se quiebran?",
+      "resumen": "La inflación interanual alcanzó 32.70 % en octubre y el turismo recibió 65.1 % menos visitantes que un año antes, en medio de la crisis económica cubana.",
+      "imagen_url": "https://media.eltoque.com/cdn-cgi/image/width=1920,quality=75,fit=scale-down,format=auto/https://media.eltoque.com/noticiero_de_la_gente_2026_11_57606708f9.jpg",
+      "enlace_original": "https://eltoque.com/las-dictaduras-se-quiebran",
+      "destacada": false,
+      "tema": "dictaduras",
+      "fecha": "Thu, 26 Nov 2026 20:15:00 GMT",
+      "id": 24
     },
     {
       "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
+      "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Rinden homenaje a Fidel Castro en la embajada de Cuba en Washington",
-      "resumen": "El colectivo de la Embajada de Cuba en Estados Unidos rindió homenaje en Washington al líder histórico de la Revolución Cubana, Fidel Castro Ruz, al cumplirse el décimo aniversario de su desaparición física. The post Rinden homenaje a Fidel Castro en la embajada de Cuba en Washington first appeared ",
+      "titulo": "MST de Brasil convierte su feria agroecológica en un acto de solidaridad con Cuba",
+      "resumen": "El Movimiento de los Trabajadores Rurales Sin Tierra (MST) de Brasil ha decidido que los ingresos obtenidos en su stand durante la Feria Nacional del Cooperativismo de la Reforma Agraria Popular Isaías Vedovatto se destinen íntegramente a sus campañas de solidaridad internacional, con un énfasis esp",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/26/rinden-homenaje-a-fidel-castro-en-la-embajada-de-cuba-en-washington/",
+      "enlace_original": "http://www.granma.cu/mundo/2026-11-26/mst-de-brasil-convierte-su-feria-agroecologica-en-un-acto-de-solidaridad-con-cuba-26-11-2026-20-11-32",
       "destacada": false,
-      "tema": "rinden",
-      "fecha": "Thu, 26 Nov 2026 20:01:22 +0000",
-      "id": 29
+      "tema": "brasil",
+      "fecha": "Thu, 26 Nov 2026 20:11:32 -0500",
+      "id": 25
     },
     {
       "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "México rechaza bloqueo de Estados Unidos contra Cuba",
-      "resumen": "La presidenta de México, Claudia Sheinbaum, reafirmó hoy que quien único puede decidir el destino de Cuba es su pueblo y ratificó el rechazo al bloqueo comercial y ahora energético impuesto por Estados Unidos a la isla. The post México rechaza bloqueo de Estados Unidos contra Cuba first appeared on ",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Noticiero de Radio Martí 8:00 PM",
+      "resumen": "Un resumen de las noticias más importantes de Cuba y el mundo.",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/26/mexico-rechaza-bloqueo-de-estados-unidos-contra-cuba/",
+      "enlace_original": "https://www.martinoticias.com/a/484067.html",
       "destacada": false,
-      "tema": "méxico",
-      "fecha": "Thu, 26 Nov 2026 19:55:42 +0000",
-      "id": 30
+      "tema": "noticiero",
+      "fecha": "Thu, 26 Nov 2026 20:00:00 -0500",
+      "id": 26
     },
     {
       "categoria": "sociedad",
@@ -404,20 +352,46 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 26 Nov 2026 19:47:51 +0100",
-      "id": 31
+      "id": 27
     },
     {
       "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
+      "fuente": "https://www.granma.cu",
       "fuente_tipo": "oficial",
-      "titulo": "Festeja Cuba 10 años de la rumba como patrominio de la humanidad",
-      "resumen": "La Universidad de La Habana acogerá la celebración del décimo aniversario de la proclamación de la rumba como patrimonio cultural oral e inmaterial de la humanidad. The post Festeja Cuba 10 años de la rumba como patrominio de la humanidad first appeared on Cubadebate.",
+      "titulo": "María Matilde Alea y su huella en la pedagogía musical en Cuba",
+      "resumen": "La contribución necesaria al conocimiento de una figura que no debería permanecer únicamente en el recuerdo de sus discípulos",
       "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/26/festeja-cuba-10-anos-de-la-rumba-como-patrominio-de-la-humanidad/",
+      "enlace_original": "http://www.granma.cu/cultura/2026-11-26/maria-matilde-alea-y-su-huella-en-la-pedagogia-musical-en-cuba-26-11-2026-19-11-28",
       "destacada": false,
-      "tema": "festeja",
-      "fecha": "Thu, 26 Nov 2026 19:29:52 +0000",
-      "id": 32
+      "tema": "maría",
+      "fecha": "Thu, 26 Nov 2026 19:11:28 -0500",
+      "id": 28
+    },
+    {
+      "categoria": "energia",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "Inaugura Díaz-Canel sistema de almacenamiento de Energía en Baterías Habana 220",
+      "resumen": "Presidente Miguel Díaz-Canel Bermúdez inauguró este jueves el Sistema de Almacenamiento de Energía e...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126335-inaugura-diaz-canel-sistema-de-almacenamiento-de-energia-en-baterias-habana-220.jpg?t=1795716761",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261126/126335/126335-inaugura-diaz-canel-sistema-de-almacenamiento-de-energia-en-baterias-habana-220",
+      "destacada": false,
+      "tema": "inaugura",
+      "fecha": "Thu, 26 Nov 26 19:11:00 +0100",
+      "id": 29
+    },
+    {
+      "categoria": "economia",
+      "fuente": "https://www.cubainformacion.tv",
+      "fuente_tipo": "oficial",
+      "titulo": "FIHAV 2026: Cuba aprueba inversiones extranjeras por 2000 millones de dólares en 40 negocios",
+      "resumen": "Foro de Negocios de la 42 Feria Internacional de la Habana. Foto: Marcelino Vázquez Hernández/ Cubad...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126334-fihav-2026-cuba-aprueba-inversiones-extranjeras-por-2000-millones-de-dolares-en-40-negocios.jpg?t=1795716653",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261126/126334/126334-fihav-2026-cuba-aprueba-inversiones-extranjeras-por-2000-millones-de-dolares-en-40-negocios",
+      "destacada": false,
+      "tema": "tipo_cambio",
+      "fecha": "Thu, 26 Nov 26 19:09:00 +0100",
+      "id": 30
     },
     {
       "categoria": "salud",
@@ -430,7 +404,7 @@
       "destacada": false,
       "tema": "cuánto",
       "fecha": "Thu, 26 Nov 2026 18:40:58 +0100",
-      "id": 33
+      "id": 31
     },
     {
       "categoria": "politica",
@@ -443,7 +417,7 @@
       "destacada": false,
       "tema": "carne",
       "fecha": "Thu, 26 Nov 2026 18:17:17 +0000",
-      "id": 34
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -456,33 +430,7 @@
       "destacada": false,
       "tema": "responderá",
       "fecha": "Thu, 26 Nov 2026 18:00:04 +0100",
-      "id": 35
-    },
-    {
-      "categoria": "economia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Destacan labor de economistas  y contadores cubanos en su día",
-      "resumen": "El Día del Economista y Contador en Cuba resulta momento idóneo para reconocer el rol de estos profesionales en el desempeño de la economía nacional, pues el proceso de implementación de las 176 transformaciones económicas y sociales aprobadas. La ANEC resulta imprescindible por objetividad y efecti",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/26/destacan-labor-de-economistas-y-contadores-cubanos-en-su-dia/",
-      "destacada": false,
-      "tema": "destacan",
-      "fecha": "Thu, 26 Nov 2026 17:55:35 +0000",
-      "id": 36
-    },
-    {
-      "categoria": "energia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Inaugura Díaz-Canel sistema de almacenamiento de Energía en Baterías Habana 220",
-      "resumen": "El Presidente de la República, Miguel Díaz-Canel Bermúdez, inauguró este jueves el Sistema de Almacenamiento de Energía en Baterías Habana 220, ubicado en las cercanías de la Universidad Tecnológica de La Habana José Antonio Echeverría (CUJAE). The post Inaugura Díaz-Canel sistema de almacenamiento ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/26/diaz-canel-inaugura-sistema-de-almacenamiento-de-energia-en-baterias-habana-220/",
-      "destacada": false,
-      "tema": "inaugura",
-      "fecha": "Thu, 26 Nov 2026 17:41:44 +0000",
-      "id": 37
+      "id": 33
     },
     {
       "categoria": "transporte",
@@ -495,7 +443,7 @@
       "destacada": false,
       "tema": "habana",
       "fecha": "Thu, 26 Nov 2026 17:14:06 +0000",
-      "id": 38
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -508,7 +456,7 @@
       "destacada": false,
       "tema": "embajada",
       "fecha": "Thu, 26 Nov 2026 17:09:10 -0500",
-      "id": 39
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -521,20 +469,7 @@
       "destacada": false,
       "tema": "noticiero",
       "fecha": "Thu, 26 Nov 2026 17:00:30 -0500",
-      "id": 40
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Afiliados del turismo en Jornada Triunfo de la Revolución",
-      "resumen": "El SNTHT en la provincia de Santiago de Cuba lidera desde hace más de un lustro la emulación nacional, mostrando resultados integrales en su gestión",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261126/afiliados-del-turismo-en-jornada-triunfo-de-la-revolucion/",
-      "destacada": false,
-      "tema": "afiliados",
-      "fecha": "Thu, 26 Nov 2026 16:51:52 +0000",
-      "id": 41
+      "id": 36
     },
     {
       "categoria": "sociedad",
@@ -547,7 +482,7 @@
       "destacada": false,
       "tema": "rusia",
       "fecha": "Thu, 26 Nov 2026 16:26:32 +0000",
-      "id": 42
+      "id": 37
     },
     {
       "categoria": "energia",
@@ -560,20 +495,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Thu, 26 Nov 2026 16:05:30 -0500",
-      "id": 43
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Relatoría de la CIDH pide frenar represalias contra la libertad de expresión en Cuba",
-      "resumen": "La Relatoría Especial para la Libertad de Expresión de la CIDH denunció el aumento de la persecución contra periodistas independientes en Cuba y exigió la liberación de Henry Constantín, director de La Hora de Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/relator%c3%ada-de-la-cidh-pide-frenar-represalias-contra-la-libertad-de-expresi%c3%b3n-en-cuba/485113.html",
-      "destacada": false,
-      "tema": "relatoría",
-      "fecha": "Thu, 26 Nov 2026 16:05:27 -0500",
-      "id": 44
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -586,85 +508,20 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 26 Nov 2026 16:00:12 +0000",
-      "id": 45
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "La Habana y Moscú unidas en el desarrollo de ciudades sostenibles",
-      "resumen": "La gobernadora de La Habana, Yanet Hernández, concluyó hoy aquí su participación en el Foro Municipal Internacional 2026, espacio en el que las autoridades de 70 países mostraron las potencialidades de sus territorios para el desarrollo sostenible. The post La Habana y Moscú unidas en el desarrollo ",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/26/la-habana-y-moscu-unidas-en-el-desarrollo-de-ciudades-sostenibles/",
-      "destacada": false,
-      "tema": "habana",
-      "fecha": "Thu, 26 Nov 2026 15:56:18 +0000",
-      "id": 46
-    },
-    {
-      "categoria": "salud",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Campaña de medicamentos para Cuba: la solidaridad del Movimiento de los Trabajadores Sin Tierra de Brasil",
-      "resumen": "Milena Polini, integrante del sector de Internacionalismo del MST, explicó que su mayor campaña es el envío de medicamentos a Cuba, una acción humanitaria frente a las negativas consecuencias del bloqueo impuesto por Estados Unidos a la isla. The post Campaña de medicamentos para Cuba: la solidarida",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/26/campana-de-medicamentos-para-cuba-la-solidaridad-del-movimiento-de-los-trabajadores-sin-tierra-de-brasil/",
-      "destacada": false,
-      "tema": "campaña",
-      "fecha": "Thu, 26 Nov 2026 15:32:37 +0000",
-      "id": 47
-    },
-    {
-      "categoria": "economia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "FIHAV 2026: Cuba aprueba inversiones extranjeras por 2000 millones de dólares en 40 negocios (+Fotos y Video)",
-      "resumen": "En lo que va de año se han aprobado 40 nuevos negocios con inversión extranjera que comprometen un capital de 2.000 millones de dólares, informó este jueves el viceprimer ministro y ministro de Comercio Exterior e Inversión Extranjera, Óscar Pérez-Oliva Fraga, al presentar la cartera de oportunidade",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/26/fihav-2026-cuba-aprueba-inversiones-extranjeras-por-2000-millones-de-dolares-en-40-negocios/",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Thu, 26 Nov 2026 15:32:33 +0000",
-      "id": 48
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Reconocen el aporte de Cuba a la cobertura sanitaria universal y llaman a fortalecer la preparación ante futuras pandemias",
-      "resumen": "El director general de la OMS destacó la formación de profesionales de otros países en la Isla y explicó los avances y las brechas que persisten en la preparación mundial frente a emergencias sanitarias",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-11-26/reconocen-el-aporte-de-cuba-a-la-cobertura-sanitaria-universal-y-llaman-a-fortalecer-la-preparacion-ante-futuras-pandemias-26-11-2026-15-11-55",
-      "destacada": false,
-      "tema": "reconocen",
-      "fecha": "Thu, 26 Nov 2026 15:11:55 -0500",
-      "id": 49
+      "id": 39
     },
     {
       "categoria": "politica",
-      "fuente": "https://www.granma.cu",
+      "fuente": "https://www.cubainformacion.tv",
       "fuente_tipo": "oficial",
-      "titulo": "Cuba promueve la inversión extranjera y abre sus puertas a inversores extranjeros y nacionales",
-      "resumen": "«Hoy no cerramos una feria, abrimos una etapa de trabajo», afirmó Manuel Marrero Cruz, miembro del Buró Político del Partido y primer ministro, durante la clausura de la Feria Internacional de La Habana",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-11-26/cuba-promueve-la-inversion-extranjera-y-abre-sus-puertas-a-inversores-extranjeros-y-nacionales-26-11-2026-15-11-45",
+      "titulo": "Recibió Díaz-Canel a Canciller panameño",
+      "resumen": "René Tamayo León Presidencia Cuba El Primer Secretario del Comité Central del Partido y Presidente ...",
+      "imagen_url": "https://www.cubainformacion.tv/storage/portadas/2026/11/126336-recibio-diaz-canel-a-canciller-panameno.jpg?t=1795716872",
+      "enlace_original": "https://www.cubainformacion.tv/cuba/20261126/126336/126336-recibio-diaz-canel-a-canciller-panameno",
       "destacada": false,
-      "tema": "promueve",
-      "fecha": "Thu, 26 Nov 2026 15:11:45 -0500",
-      "id": 50
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Detenido por segunda vez en el mes el sindicalista cubano Emilio Gottardi",
-      "resumen": "Segunda detención del sindicalista independiente Emilio Gottardi en noviembre. La ASIC explica a DIARIO DE CUBA que el arresto ocurre con un caso abierto en la OIT. #SindicalismoIndependiente #Cuba #Represión",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/derechos-humanos/1795701706_70029.html",
-      "destacada": false,
-      "tema": "detenido",
-      "fecha": "Thu, 26 Nov 2026 15:01:46 +0100",
-      "id": 51
+      "tema": "recibió",
+      "fecha": "Thu, 26 Nov 26 15:00:00 +0100",
+      "id": 40
     },
     {
       "categoria": "sociedad",
@@ -677,7 +534,7 @@
       "destacada": false,
       "tema": "legado",
       "fecha": "Thu, 26 Nov 2026 14:42:20 +0000",
-      "id": 52
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -690,7 +547,7 @@
       "destacada": false,
       "tema": "retrasa",
       "fecha": "Thu, 26 Nov 2026 13:30:00 GMT",
-      "id": 53
+      "id": 42
     },
     {
       "categoria": "economia",
@@ -703,7 +560,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Thu, 26 Nov 2026 13:00:00 GMT",
-      "id": 54
+      "id": 43
     },
     {
       "categoria": "transporte",
@@ -716,7 +573,7 @@
       "destacada": false,
       "tema": "discreción",
       "fecha": "Thu, 26 Nov 2026 12:45:52 +0000",
-      "id": 55
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -729,20 +586,7 @@
       "destacada": false,
       "tema": "noticias",
       "fecha": "Thu, 26 Nov 2026 12:00:00 GMT",
-      "id": 56
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba está bloqueada pero está activa",
-      "resumen": "Presentan Cartera de Oportunidades para la Inversión Extranjera en el marco del Foro de Negocios de Fihav 2026",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-11-26/cuba-esta-bloqueada-pero-esta-activa-26-11-2026-10-11-14",
-      "destacada": false,
-      "tema": "bloqueada",
-      "fecha": "Thu, 26 Nov 2026 10:11:14 -0500",
-      "id": 57
+      "id": 45
     },
     {
       "categoria": "sociedad",
@@ -755,20 +599,7 @@
       "destacada": false,
       "tema": "cardenal",
       "fecha": "Thu, 26 Nov 2026 10:10:28 +0000",
-      "id": 58
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Ciudad Élite disputará su Supercopa",
-      "resumen": "El proyecto de voleibol reunirá equipos de La Habana, Pinar del Río y Artemisa",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/deportes/2026-11-26/ciudad-elite-disputara-su-supercopa-26-11-2026-09-11-09",
-      "destacada": false,
-      "tema": "ciudad",
-      "fecha": "Thu, 26 Nov 2026 09:11:09 -0500",
-      "id": 59
+      "id": 46
     },
     {
       "categoria": "salud",
@@ -781,7 +612,7 @@
       "destacada": false,
       "tema": "legazpi",
       "fecha": "Thu, 26 Nov 26 08:50:00 +0100",
-      "id": 60
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -794,7 +625,7 @@
       "destacada": false,
       "tema": "partida",
       "fecha": "Thu, 26 Nov 26 08:30:00 +0100",
-      "id": 61
+      "id": 48
     },
     {
       "categoria": "sociedad",
@@ -807,20 +638,7 @@
       "destacada": false,
       "tema": "cubanoamericanos",
       "fecha": "Thu, 26 Nov 26 08:28:00 +0100",
-      "id": 62
-    },
-    {
-      "categoria": "salud",
-      "fuente": "https://www.granma.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Recibió Díaz-Canel a Canciller panameño",
-      "resumen": "El Primer Secretario del Comité Central del Partido y Presidente de la República, Miguel Díaz-Canel Bermúdez, dio la bienvenida a Javier Eduardo Martínez-Acha Vásquez, ministro de Relaciones Exteriores de la República de Panamá. El mandatario transmitió un afectuoso saludo a su homólogo istmeño, Jos",
-      "imagen_url": "",
-      "enlace_original": "http://www.granma.cu/cuba/2026-11-26/recibio-diaz-canel-a-canciller-panameno-26-11-2026-08-11-38",
-      "destacada": false,
-      "tema": "recibió",
-      "fecha": "Thu, 26 Nov 2026 08:11:38 -0500",
-      "id": 63
+      "id": 49
     },
     {
       "categoria": "sociedad",
@@ -833,7 +651,7 @@
       "destacada": false,
       "tema": "legado",
       "fecha": "Thu, 26 Nov 26 08:09:00 +0100",
-      "id": 64
+      "id": 50
     },
     {
       "categoria": "sociedad",
@@ -846,7 +664,7 @@
       "destacada": false,
       "tema": "observatorio",
       "fecha": "Thu, 26 Nov 26 07:39:00 +0100",
-      "id": 65
+      "id": 51
     },
     {
       "categoria": "sociedad",
@@ -859,7 +677,7 @@
       "destacada": false,
       "tema": "aprendizajes",
       "fecha": "Thu, 26 Nov 26 07:00:00 +0100",
-      "id": 66
+      "id": 52
     }
   ]
 }
