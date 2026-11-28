@@ -1,8 +1,151 @@
 {
-  "fecha": "2026-11-27",
-  "hora": "23:05",
-  "total": 53,
+  "fecha": "2026-11-28",
+  "hora": "05:39",
+  "total": 48,
   "noticias": [
+    {
+      "categoria": "transporte",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Ópera y literatura cierran Semana de la Cultura Italiana en Cuba",
+      "resumen": "La Habana, 28 nov (Prensa Latina) La intimidad de La Traviata y las letras del escritor italiano Alessandro Zarlatti despedirán hoy la XXVIII Semana de la Cultura Italiana en Cuba, un broche de oro para el arte ítalo. The post Ópera y literatura cierran Semana de la Cultura Italiana en Cuba first ap",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/28/opera-y-literatura-cierran-semana-de-la-cultura-italiana-en-cuba/",
+      "destacada": true,
+      "tema": "ópera",
+      "fecha": "Sat, 28 Nov 2026 04:32:25 +0000",
+      "id": 1
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba y Vietnam inauguran III Comité de Cooperación Interparlamentaria",
+      "resumen": "La voluntad de continuar fortaleciendo las relaciones entre Cuba y Vietnam, ampliar la cooperación bilateral y estrechar los vínculos entre sus respectivos órganos legislativos centró la inauguración del III Comité de Cooperación Interparlamentaria entre ambos países, efectuada este viernes en el Ca",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/28/cuba-y-vietnam-inauguran-iii-comite-de-cooperacion-interparlamentaria/",
+      "destacada": true,
+      "tema": "vietnam",
+      "fecha": "Sat, 28 Nov 2026 04:32:25 +0000",
+      "id": 2
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.prensa-latina.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "De plácemes la música cubana, Silvio Rodríguez celebra la vida",
+      "resumen": "La Habana, 28 nov (Prensa Latina) El Memorial José Martí volverá a homenajear a la música cubana, cuando celebre hoy 80 años de una vida dedicada al pentagrama, del que emanan las más virtuosas melodías en la voz de su autor: Silvio Rodríguez. The post De plácemes la música cubana, Silvio Rodríguez ",
+      "imagen_url": "",
+      "enlace_original": "https://www.prensa-latina.cu/2026/11/28/de-placemes-la-musica-cubana-silvio-rodriguez-celebra-la-vida/",
+      "destacada": true,
+      "tema": "plácemes",
+      "fecha": "Sat, 28 Nov 2026 04:16:49 +0000",
+      "id": 3
+    },
+    {
+      "categoria": "politica",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Díaz-Canel constata sistemas de trabajo en San Miguel del Padrón en Día Nacional de la Defensa",
+      "resumen": "El presidente del Consejo de Defensa Nacional, Miguel Díaz-Canel Bermúdez, constató este viernes el sistema de trabajo de una estructura para tiempos de guerra, convertida en protagonista de la búsqueda de soluciones a los problemas de la población desde tiempos de paz. The post Díaz-Canel constata ",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/27/miguel-diaz-canel-constata-sistemas-de-trabajo-en-san-miguel-del-padron-en-dia-nacional-de-la-defensa/",
+      "destacada": true,
+      "tema": "canel",
+      "fecha": "Sat, 28 Nov 2026 03:27:30 +0000",
+      "id": 4
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Costa Rica niega la entrada a la relatora de la ONU Francesca Albanese y la retiene en el aeropuerto",
+      "resumen": "La Relatora Especial de las Naciones Unidas sobre los territorios palestinos ocupados arribó el jueves a Costa Rica para recibir hoy, viernes 27, el título de doctora honoris causa de la Universidad de Costa Rica (UCR). Sin embargo, las autoridades migratorias le negaron el ingreso al país, alegando",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/27/costa-rica-niega-la-entrada-a-la-relatora-de-la-onu-francesca-albanese/",
+      "destacada": true,
+      "tema": "costa",
+      "fecha": "Sat, 28 Nov 2026 03:12:36 +0000",
+      "id": 5
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Constituyen en Guantánamo Parque Científico Tecnológico “Entre Ríos”",
+      "resumen": "En Guantánamo quedó oficialmente constituido el Parque Científico Tecnológico Entre Ríos, una iniciativa única en el país por su enfoque en el aprovechamiento de la biodiversidad forestal y los recursos no maderables del territorio más oriental y montañoso de Cuba. The post Constituyen en Guantánamo",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/27/constituyen-en-guantanamo-parque-cientifico-tecnologico-entre-rios/",
+      "destacada": false,
+      "tema": "constituyen",
+      "fecha": "Sat, 28 Nov 2026 02:54:45 +0000",
+      "id": 6
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.tribuna.cu/",
+      "fuente_tipo": "alternativa",
+      "titulo": "Rinden en Cuba tributo a los ocho estudiantes de medicina",
+      "resumen": "El pueblo habanero rindió hoy tributo a los ocho estudiantes de medicina al conmemorar el 155 aniversario de su fusilamiento La entrada Rinden en Cuba tributo a los ocho estudiantes de medicina se publicó primero en Tribuna de La Habana.",
+      "imagen_url": "",
+      "enlace_original": "https://www.tribuna.cu/rinden-en-cuba-tributo-a-los-ocho-estudiantes-de-medicina/",
+      "destacada": false,
+      "tema": "rinden",
+      "fecha": "Sat, 28 Nov 2026 01:25:33 +0000",
+      "id": 7
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "http://www.cubadebate.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Cuba rinde tributo a los ocho estudiantes de medicina a 155 años de su fusilamiento (+Fotos)",
+      "resumen": "El pueblo habanero rindió hoy tributo a los ocho estudiantes de medicina al conmemorar el 155 aniversario de su fusilamiento. En las palabras centrales del acto, la estudiante de quinto año de medicina, Maureen Cuevas, relató el hecho considerado como el más atroz perpetrado por las autoridades colo",
+      "imagen_url": "",
+      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/27/cuba-rinde-tributo-a-los-ocho-estudiantes-de-medicina-a-155-anos-de-su-fusilamiento/",
+      "destacada": false,
+      "tema": "rinde",
+      "fecha": "Sat, 28 Nov 2026 00:14:08 +0000",
+      "id": 8
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "Recuerdan en Santiago de Cuba a Madre de la Patria",
+      "resumen": "En ocasión del 133 aniversario de la partida física de Mariana Grajales fue recordada en su tierra natal la patriota, progenitora de la pléyade heroica Maceo-Grajales, y Madre de la Patria",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261127/recuerdan-en-santiago-de-cuba-a-madre-de-la-patria/",
+      "destacada": false,
+      "tema": "recuerdan",
+      "fecha": "Sat, 28 Nov 2026 00:04:13 +0000",
+      "id": 9
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.martinoticias.com",
+      "fuente_tipo": "alternativa",
+      "titulo": "Cuba al Día",
+      "resumen": "",
+      "imagen_url": "",
+      "enlace_original": "https://www.martinoticias.com/a/484204.html",
+      "destacada": false,
+      "tema": "",
+      "fecha": "Sat, 28 Nov 2026 00:00:30 -0500",
+      "id": 10
+    },
+    {
+      "categoria": "sociedad",
+      "fuente": "https://www.trabajadores.cu",
+      "fuente_tipo": "oficial",
+      "titulo": "La juventud cubana rinde tributo a los ocho estudiantes de Medicina",
+      "resumen": "Bajo el lema “Ni olvidados ni muertos”, el monumento de La Punta acogió en la tarde de este viernes el acto central y las ofrendas florales por el 155 aniversario del fusilamiento de los ocho estudiantes de Medicina",
+      "imagen_url": "",
+      "enlace_original": "https://www.trabajadores.cu/20261127/la-juventud-cubana-rinde-tributo-a-los-ocho-estudiantes-de-medicina/",
+      "destacada": false,
+      "tema": "juventud",
+      "fecha": "Fri, 27 Nov 2026 23:33:18 +0000",
+      "id": 11
+    },
     {
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
@@ -11,10 +154,10 @@
       "resumen": "El régimen cubano convoca a la Asamblea Nacional para diciembre, pero sin revelar el orden del día. Todo apunta a que el plenario girará sobre las \"176 medidas económicas\" y los movimientos de La Habana para captar divisas.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cuba/1795817106_70056.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "aclarar",
       "fecha": "Fri, 27 Nov 2026 23:05:06 +0100",
-      "id": 1
+      "id": 12
     },
     {
       "categoria": "energia",
@@ -24,23 +167,10 @@
       "resumen": "Las hoteleras estatales de #Cuba luchan por captar clientes para los pocos hoteles que quedan abiertos de cara a #Navidad y #AñoNuevo, que se anticipan funestos.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/economia/1795815932_70054.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 27 Nov 2026 22:45:32 +0100",
-      "id": 2
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.prensa-latina.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Muestra fotográfica honra 50 años de Universidad de las Artes de Cuba",
-      "resumen": "La Habana, 27 nov (Prensa Latina) Obras de casi 40 creadores conforman la exposición colectiva 50 años ISA, un homenaje que acoge hoy la Galería de Artes Visuales de la Universidad de las Artes, institución educativa que festeja medio siglo de fundación. The post Muestra fotográfica honra 50 años de",
-      "imagen_url": "",
-      "enlace_original": "https://www.prensa-latina.cu/2026/11/27/muestra-fotografica-honra-50-anos-de-universidad-de-las-artes-de-cuba/",
-      "destacada": true,
-      "tema": "muestra",
-      "fecha": "Fri, 27 Nov 2026 22:35:41 +0000",
-      "id": 3
+      "id": 13
     },
     {
       "categoria": "sociedad",
@@ -50,10 +180,10 @@
       "resumen": "El libro del ensayista cubano #JorgeBrioso se presenta el próximo martes 1 de diciembre en la #LibreríaArenales de #Madrid.",
       "imagen_url": "",
       "enlace_original": "https://diariodecuba.com/cultura/1795814366_70057.html",
-      "destacada": true,
+      "destacada": false,
       "tema": "jorge",
       "fecha": "Fri, 27 Nov 2026 22:19:26 +0100",
-      "id": 4
+      "id": 14
     },
     {
       "categoria": "politica",
@@ -63,62 +193,10 @@
       "resumen": "El presidente de la Asamblea Nacional del Poder Popular, Esteban Lazo Hernández, convocó al octavo período ordinario de sesiones de este órgano, en su X Legislatura, a celebrarse el 17 de diciembre del año en curso, a partir de las 9:00 a.m., en el Palacio de Convenciones de La Habana. The post Conv",
       "imagen_url": "",
       "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/27/convocan-al-octavo-periodo-ordinario-de-sesiones-de-la-asamblea-nacional-del-poder-popular-2/",
-      "destacada": true,
+      "destacada": false,
       "tema": "convocan",
       "fecha": "Fri, 27 Nov 2026 21:51:13 +0000",
-      "id": 5
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Pan de 170 pesos que se enrolla como una tela desata burlas e indignación en Cuba",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-27-u1-e209363-s27061-nid346797-pan-170-pesos-enrolla-tela-desata-burlas-indignacion",
-      "destacada": false,
-      "tema": "pesos",
-      "fecha": "Fri, 27 Nov 2026 21:43:14 +0100",
-      "id": 6
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Roban dos autos de turismo frente a un hotel en Cuba y los vinculan con un negocio clandestino",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-27-u1-e129488-s27061-nid346755-roban-dos-autos-turismo-frente-hotel-cuba-vinculan",
-      "destacada": false,
-      "tema": "roban",
-      "fecha": "Fri, 27 Nov 2026 21:19:45 +0100",
-      "id": 7
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Gas licuado llega a Santiago de Cuba, pero solo pueden comprarlo quienes tienen dólares",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-27-u1-e209363-s27061-nid346795-gas-licuado-llega-santiago-cuba-solo-pueden",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Fri, 27 Nov 2026 21:19:23 +0100",
-      "id": 8
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Peloteros cubanos de la categoría sub-12 conquistan el bronce en Campeonato Panamericano",
-      "resumen": "Con un excelente resultado cerraron su actuación los peloteritos cubanos de la categoría sub-12, al conquistar la medalla de bronce en el Campeonato Panamericano de Béisbol, que finalizó este viernes en República Dominicana. The post Peloteros cubanos de la categoría sub-12 conquistan el bronce en C",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/27/peloteros-cubanos-de-la-categoria-sub-12-conquistan-el-bronce-en-campeonato-panamericano/",
-      "destacada": false,
-      "tema": "peloteros",
-      "fecha": "Fri, 27 Nov 2026 21:14:45 +0000",
-      "id": 9
+      "id": 15
     },
     {
       "categoria": "sociedad",
@@ -131,46 +209,33 @@
       "destacada": false,
       "tema": "ayuda",
       "fecha": "Fri, 27 Nov 2026 21:08:04 +0100",
-      "id": 10
+      "id": 16
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Celebran una boda en un ejercicio militar en Cuba: «En las buenas y en las malas»",
+      "titulo": "El parque Isabel Primera de la Habana",
       "resumen": "",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-27-u1-e199370-s27061-nid346798-celebran-boda-ejercicio-militar-cuba-buenas-malas",
+      "enlace_original": "https://www.martinoticias.com/a/483942.html",
       "destacada": false,
-      "tema": "celebran",
-      "fecha": "Fri, 27 Nov 2026 21:03:06 +0100",
-      "id": 11
-    },
-    {
-      "categoria": "economia",
-      "fuente": "https://www.cibercuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Prensa china: un columnista que viajó a Cuba concluye que la revolución que prometía acabar con la dependencia hoy sobrevive gracias a los dólares de Miami",
-      "resumen": "",
-      "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-27-u1-e199894-s27061-nid346802-prensa-china-columnista-viajo-cuba-concluye",
-      "destacada": false,
-      "tema": "tipo_cambio",
-      "fecha": "Fri, 27 Nov 2026 21:02:41 +0100",
-      "id": 12
+      "tema": "parque",
+      "fecha": "Fri, 27 Nov 2026 21:00:00 -0500",
+      "id": 17
     },
     {
       "categoria": "sociedad",
-      "fuente": "https://www.cibercuba.com",
+      "fuente": "https://www.martinoticias.com",
       "fuente_tipo": "alternativa",
-      "titulo": "Emprendedor pinareño: en Cuba vivir es pedir permiso",
-      "resumen": "",
+      "titulo": "La Barbacoa de Pepe",
+      "resumen": "La Barbacoa de Pepe es un muestrario de la nostalgia cubana con datos y curiosidades de los temas más variados, para la audiencia cubana. También trataremos temas internacionales y locales, siempre con el fin de educar al Cubano de la Isla. Con la elocuencia de Pepe Forte.",
       "imagen_url": "",
-      "enlace_original": "https://www.cibercuba.com/noticias/2026-11-27-u1-e209395-s27061-nid346779-emprendedor-pinareno-cuba-vivir-pedir-permiso",
+      "enlace_original": "https://www.martinoticias.com/a/484156.html",
       "destacada": false,
-      "tema": "emprendedor",
-      "fecha": "Fri, 27 Nov 2026 20:59:37 +0100",
-      "id": 13
+      "tema": "barbacoa",
+      "fecha": "Fri, 27 Nov 2026 21:00:00 -0500",
+      "id": 18
     },
     {
       "categoria": "salud",
@@ -183,20 +248,7 @@
       "destacada": false,
       "tema": "médicos",
       "fecha": "Fri, 27 Nov 2026 20:39:19 +0000",
-      "id": 14
-    },
-    {
-      "categoria": "energia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Novedades que trae la nueva versión de Transfermóvil",
-      "resumen": "La plataforma cubana de pagos en línea Transfermóvil pone hoy a disposición de sus usuarios una nueva versión (1.261111), que permite configurar la fecha en que los usuarios desean realizar la liquidación de sus facturas de servicios públicos (electricidad, agua y teléfono, entre otros). The post No",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/27/novedades-que-trae-la-nueva-version-de-transfermovil/",
-      "destacada": false,
-      "tema": "novedades",
-      "fecha": "Fri, 27 Nov 2026 20:32:26 +0000",
-      "id": 15
+      "id": 19
     },
     {
       "categoria": "sociedad",
@@ -209,7 +261,7 @@
       "destacada": false,
       "tema": "clasifica",
       "fecha": "Fri, 27 Nov 2026 19:44:51 +0000",
-      "id": 16
+      "id": 20
     },
     {
       "categoria": "transporte",
@@ -222,20 +274,7 @@
       "destacada": false,
       "tema": "buque",
       "fecha": "Fri, 27 Nov 2026 19:33:40 +0100",
-      "id": 17
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Pensamiento de Fidel Castro inspira a América Latina y el Caribe, aseguran en China",
-      "resumen": "El vicejefe del Departamento de Enlace Internacional del Comité Central del Partido Comunista de China (PCCh), Ma Hui, afirmó este viernes que el pensamiento de Fidel Castro sigue siendo la brújula del pueblo cubano y la inspiración para América Latina y el Caribe. The post Pensamiento de Fidel Cast",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/27/pensamiento-de-fidel-castro-inspira-a-america-latina-y-el-caribe-aseguran-en-china/",
-      "destacada": false,
-      "tema": "pensamiento",
-      "fecha": "Fri, 27 Nov 2026 19:18:02 +0000",
-      "id": 18
+      "id": 21
     },
     {
       "categoria": "sociedad",
@@ -248,7 +287,7 @@
       "destacada": false,
       "tema": "avería",
       "fecha": "Fri, 27 Nov 2026 18:51:13 +0000",
-      "id": 19
+      "id": 22
     },
     {
       "categoria": "salud",
@@ -261,20 +300,7 @@
       "destacada": false,
       "tema": "oportunidades",
       "fecha": "Fri, 27 Nov 2026 18:37:04 +0100",
-      "id": 20
-    },
-    {
-      "categoria": "politica",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Miguel Díaz-Canel constata sistemas de trabajo en San Miguel del Padrón en Día Nacional de la Defensa",
-      "resumen": "El presidente del Consejo de Defensa Nacional, Miguel Díaz-Canel Bermúdez, constató este viernes el sistema de trabajo de una estructura para tiempos de guerra, convertida en protagonista de la búsqueda de soluciones a los problemas de la población desde tiempos de paz. The post Miguel Díaz-Canel co",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/27/miguel-diaz-canel-constata-sistemas-de-trabajo-en-san-miguel-del-padron-en-dia-nacional-de-la-defensa/",
-      "destacada": false,
-      "tema": "miguel",
-      "fecha": "Fri, 27 Nov 2026 18:23:30 +0000",
-      "id": 21
+      "id": 23
     },
     {
       "categoria": "energia",
@@ -287,7 +313,7 @@
       "destacada": false,
       "tema": "régimen",
       "fecha": "Fri, 27 Nov 2026 18:15:52 +0100",
-      "id": 22
+      "id": 24
     },
     {
       "categoria": "sociedad",
@@ -300,7 +326,7 @@
       "destacada": false,
       "tema": "crecido",
       "fecha": "Fri, 27 Nov 26 17:55:00 +0100",
-      "id": 23
+      "id": 25
     },
     {
       "categoria": "sociedad",
@@ -313,32 +339,6 @@
       "destacada": false,
       "tema": "alfredo",
       "fecha": "Fri, 27 Nov 2026 17:11:40 -0500",
-      "id": 24
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Noticiero de Radio Martí 5:00 PM",
-      "resumen": "Noticiero Radio Martí presenta los hechos que hacen noticia en Cuba y el mundo.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/484149.html",
-      "destacada": false,
-      "tema": "noticiero",
-      "fecha": "Fri, 27 Nov 2026 17:00:30 -0500",
-      "id": 25
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "\"¿Yo estoy en libertad o no?\": familia de Nadir Martín Perdomo cuenta lo ocurrido en la citación",
-      "resumen": "La familia del expreso político cubano Nadir Martín Perdomo denunció que, apenas cuatro días después de su excarcelación, fue citado para recibir amenazas.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/yo-estoy-en-libertad-o-no-familia-de-nadir-mart%c3%adn-perdomo-cuenta-lo-ocurrido-en-la-citaci%c3%b3n/485177.html",
-      "destacada": false,
-      "tema": "estoy",
-      "fecha": "Fri, 27 Nov 2026 16:58:42 -0500",
       "id": 26
     },
     {
@@ -368,32 +368,6 @@
       "id": 28
     },
     {
-      "categoria": "energia",
-      "fuente": "https://www.martinoticias.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "Las Noticias Como Son",
-      "resumen": "Una discusión dinámica y a fondo de las principales noticias del acontecer diario de Cuba y el mundo, con la conducción de los periodistas Amado Gil y José Luis Ramos. De lunes a viernes a las 4 pm.",
-      "imagen_url": "",
-      "enlace_original": "https://www.martinoticias.com/a/484135.html",
-      "destacada": false,
-      "tema": "noticias",
-      "fecha": "Fri, 27 Nov 2026 16:00:30 -0500",
-      "id": 29
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Hoy en la Mesa Redonda: Las transformaciones económicas y sociales en la autonomía municipal",
-      "resumen": "La Mesa Redonda de este viernes analizará el alcance, las normas jurídicas y la implementación de las transformaciones aprobadas para ampliar la autonomía de los municipios. The post Hoy en la Mesa Redonda: Las transformaciones económicas y sociales en la autonomía municipal first appeared on Cubade",
-      "imagen_url": "",
-      "enlace_original": "http://mesaredonda.cubadebate.cu/noticias/2026/11/27/hoy-en-la-mesa-redonda-las-transformaciones-economicas-y-sociales-en-la-autonomia-municipal/",
-      "destacada": false,
-      "tema": "redonda",
-      "fecha": "Fri, 27 Nov 2026 15:57:35 +0000",
-      "id": 30
-    },
-    {
       "categoria": "sociedad",
       "fuente": "https://www.diariodecuba.com",
       "fuente_tipo": "alternativa",
@@ -404,7 +378,7 @@
       "destacada": false,
       "tema": "engaño",
       "fecha": "Fri, 27 Nov 2026 15:21:22 +0100",
-      "id": 31
+      "id": 29
     },
     {
       "categoria": "sociedad",
@@ -417,20 +391,7 @@
       "destacada": false,
       "tema": "votar",
       "fecha": "Fri, 27 Nov 2026 15:17:59 +0000",
-      "id": 32
-    },
-    {
-      "categoria": "economia",
-      "fuente": "http://www.cubadebate.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "La industria química: motor impulsor para la economía cubana",
-      "resumen": "La industria química de Cuba tiene una alta incidencia en el incremento del valor agregado y el encadenamiento con otras actividades industriales, muchas de las cuales impactan altamente en los sectores farmacéutico, agroalimentario, turismo, azucarero y el hidráulico. The post La industria química:",
-      "imagen_url": "",
-      "enlace_original": "http://www.cubadebate.cu/noticias/2026/11/27/la-industria-quimica-motor-impulsor-para-la-economia-cubana/",
-      "destacada": false,
-      "tema": "industria",
-      "fecha": "Fri, 27 Nov 2026 15:07:33 +0000",
-      "id": 33
+      "id": 30
     },
     {
       "categoria": "sociedad",
@@ -443,7 +404,7 @@
       "destacada": false,
       "tema": "crímenes",
       "fecha": "Fri, 27 Nov 2026 14:52:47 +0000",
-      "id": 34
+      "id": 31
     },
     {
       "categoria": "sociedad",
@@ -456,7 +417,7 @@
       "destacada": false,
       "tema": "debates",
       "fecha": "Fri, 27 Nov 2026 14:52:24 +0000",
-      "id": 35
+      "id": 32
     },
     {
       "categoria": "sociedad",
@@ -469,7 +430,7 @@
       "destacada": false,
       "tema": "estudiantes",
       "fecha": "Fri, 27 Nov 2026 14:12:58 +0000",
-      "id": 36
+      "id": 33
     },
     {
       "categoria": "sociedad",
@@ -482,7 +443,7 @@
       "destacada": false,
       "tema": "patria",
       "fecha": "Fri, 27 Nov 2026 14:11:33 -0500",
-      "id": 37
+      "id": 34
     },
     {
       "categoria": "sociedad",
@@ -495,7 +456,7 @@
       "destacada": false,
       "tema": "queda",
       "fecha": "Fri, 27 Nov 2026 14:11:09 -0500",
-      "id": 38
+      "id": 35
     },
     {
       "categoria": "sociedad",
@@ -508,7 +469,7 @@
       "destacada": false,
       "tema": "empatía",
       "fecha": "Fri, 27 Nov 2026 13:56:37 +0000",
-      "id": 39
+      "id": 36
     },
     {
       "categoria": "politica",
@@ -521,20 +482,7 @@
       "destacada": false,
       "tema": "muerte",
       "fecha": "Fri, 27 Nov 2026 13:53:52 +0000",
-      "id": 40
-    },
-    {
-      "categoria": "politica",
-      "fuente": "https://www.diariodecuba.com",
-      "fuente_tipo": "alternativa",
-      "titulo": "El canciller de Panamá visita a sus compatriotas acusados de subversión en Cuba",
-      "resumen": "Díaz-Canel ve una oportunidad para ampliar las relaciones económicas con Panamá, al recibir al canciller Javier Martínez-Acha. No menciona la visita de este a los panameños encarcelados en Cuba.",
-      "imagen_url": "",
-      "enlace_original": "https://diariodecuba.com/cuba/1795782585_70043.html",
-      "destacada": false,
-      "tema": "canciller",
-      "fecha": "Fri, 27 Nov 2026 13:29:45 +0100",
-      "id": 41
+      "id": 37
     },
     {
       "categoria": "economia",
@@ -547,7 +495,7 @@
       "destacada": false,
       "tema": "tipo_cambio",
       "fecha": "Fri, 27 Nov 2026 13:00:00 GMT",
-      "id": 42
+      "id": 38
     },
     {
       "categoria": "sociedad",
@@ -560,7 +508,7 @@
       "destacada": false,
       "tema": "silencio",
       "fecha": "Fri, 27 Nov 26 12:51:00 +0100",
-      "id": 43
+      "id": 39
     },
     {
       "categoria": "transporte",
@@ -573,7 +521,7 @@
       "destacada": false,
       "tema": "transporte",
       "fecha": "Fri, 27 Nov 26 11:25:00 +0100",
-      "id": 44
+      "id": 40
     },
     {
       "categoria": "transporte",
@@ -586,7 +534,7 @@
       "destacada": false,
       "tema": "canciller",
       "fecha": "Fri, 27 Nov 2026 09:24:14 +0000",
-      "id": 45
+      "id": 41
     },
     {
       "categoria": "sociedad",
@@ -599,7 +547,7 @@
       "destacada": false,
       "tema": "menos",
       "fecha": "Fri, 27 Nov 2026 09:05:18 +0000",
-      "id": 46
+      "id": 42
     },
     {
       "categoria": "politica",
@@ -612,7 +560,7 @@
       "destacada": false,
       "tema": "acusan",
       "fecha": "Fri, 27 Nov 26 09:05:00 +0100",
-      "id": 47
+      "id": 43
     },
     {
       "categoria": "sociedad",
@@ -625,7 +573,7 @@
       "destacada": false,
       "tema": "concierto",
       "fecha": "Fri, 27 Nov 26 08:47:00 +0100",
-      "id": 48
+      "id": 44
     },
     {
       "categoria": "sociedad",
@@ -638,7 +586,7 @@
       "destacada": false,
       "tema": "embajada",
       "fecha": "Fri, 27 Nov 26 08:29:00 +0100",
-      "id": 49
+      "id": 45
     },
     {
       "categoria": "politica",
@@ -651,7 +599,7 @@
       "destacada": false,
       "tema": "estado",
       "fecha": "Fri, 27 Nov 26 08:10:00 +0100",
-      "id": 50
+      "id": 46
     },
     {
       "categoria": "sociedad",
@@ -664,7 +612,7 @@
       "destacada": false,
       "tema": "solidaridad",
       "fecha": "Fri, 27 Nov 26 07:57:00 +0100",
-      "id": 51
+      "id": 47
     },
     {
       "categoria": "sociedad",
@@ -677,20 +625,7 @@
       "destacada": false,
       "tema": "transforma",
       "fecha": "Fri, 27 Nov 26 07:46:00 +0100",
-      "id": 52
-    },
-    {
-      "categoria": "sociedad",
-      "fuente": "https://www.trabajadores.cu",
-      "fuente_tipo": "oficial",
-      "titulo": "Cuba recuerda a Fidel a diez años de su muerte (+ Fotos)",
-      "resumen": "La vigencia del legado de Fidel Castro Ruz y el compromiso de las nuevas generaciones con la defensa de la soberanía cubana centraron las palabras de la primera secretaria de laUJC durante el homenaje por el décimo aniversario de la desaparición física del líder histórico de la Revolución",
-      "imagen_url": "",
-      "enlace_original": "https://www.trabajadores.cu/20261126/cuba-recuerda-a-fidel-castro-a-diez-anos-de-su-muerte/",
-      "destacada": false,
-      "tema": "recuerda",
-      "fecha": "Fri, 27 Nov 2026 02:07:05 +0000",
-      "id": 53
+      "id": 48
     }
   ]
 }
